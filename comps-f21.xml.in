@@ -6688,6 +6688,50 @@
       <packagereq type="default">slic3r</packagereq>
     </packagelist>
   </group>
+  <group>
+    <id>cloud-server</id>
+    <_name>Cloud Server Tools</_name>
+    <_description>Software for servers and system images that run in "cloud" environments</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">fedora-release-cloud</packagereq>
+      <packagereq type="mandatory">cloud-init</packagereq>
+      <packagereq type="mandatory">grubby</packagereq>
+      <packagereq type="mandatory">heat-cfntools</packagereq>
+      <packagereq type="mandatory">cloud-utils-growpart</packagereq>
+      <packagereq type="mandatory">dracut-config-generic</packagereq>
+      <packagereq type="mandatory">syslinux-extlinux</packagereq>
+      <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="mandatory">rsync</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>cloud-management</id>
+    <_name>Cloud Management Tools</_name>
+    <_description>Software to managed servers and system images that run in "cloud" environments</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">python-boto</packagereq>
+      <packagereq type="default">python-libcloud</packagereq>
+      <packagereq type="default">rubygem-cloudfiles</packagereq>
+      <packagereq type="default">rubygem-cloudservers</packagereq>
+      <packagereq type="default">rubygem-amazon-ec2</packagereq>
+      <packagereq type="default">cloud-utils</packagereq>
+      <packagereq type="default">imagefactory</packagereq>
+      <packagereq type="default">imagefactory-plugins</packagereq>
+      <packagereq type="default">imagefactory-plugins-EC2</packagereq>
+      <packagereq type="default">imagefactory-plugins-EC2-JEOS-images</packagereq>
+      <packagereq type="default">imagefactory-plugins-OpenStack</packagereq>
+      <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
+      <packagereq type="default">imagefactory-plugins-Rackspace</packagereq>
+      <packagereq type="default">imagefactory-plugins-Rackspace-JEOS-images</packagereq>
+      <packagereq type="optional">rubygem-cloudfiles-doc</packagereq>
+      <packagereq type="optional">rubygem-cloudservers-doc</packagereq>
+      <packagereq type="optional">rubygem-amazon-ec2-doc</packagereq>
+    </packagelist>
+  </group>
   <environment>
     <id>gnome-desktop-environment</id>
     <_name>GNOME Desktop</_name>
@@ -6714,6 +6758,7 @@
       <groupid>gnome-games</groupid>
       <groupid>epiphany</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6744,6 +6789,7 @@
       <groupid>kde-office</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6773,6 +6819,7 @@
       <groupid>xfce-extra-plugins</groupid>
       <groupid>xfce-office</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6801,6 +6848,7 @@
       <groupid>lxde-media</groupid>
       <groupid>lxde-office</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6826,6 +6874,7 @@
     <optionlist>
       <groupid>libreoffice</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6932,6 +6981,7 @@
       <groupid>robotics-suite</groupid>
       <groupid>electronic-lab</groupid>
       <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -7097,6 +7147,36 @@
     <optionlist>
       <groupid>standard</groupid>
       <groupid>guest-agents</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <!-- Intended to allow interactive installation of components that will eventually be
+         used in a cloud image. -->
+    <id>cloud-server-environment</id>
+    <_name>Fedora Cloud Server</_name>
+    <_description>A server install with components needed to run in a cloud environment.</_description>
+    <display_order>1</display_order>
+    <grouplist>
+      <groupid>cloud-server</groupid>
+      <groupid>core</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>standard</groupid>
+      <groupid>headless-management</groupid>
+      <groupid>dogtag</groupid>
+      <groupid>directory-server</groupid>
+      <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
+      <groupid>ftp-server</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>ha</groupid>
+      <groupid>load-balancer</groupid>
+      <groupid>mail-server</groupid>
+      <groupid>mysql</groupid>
+      <groupid>network-server</groupid>
+      <groupid>smb-server</groupid>
+      <groupid>sql-server</groupid>
+      <groupid>web-server</groupid>
     </optionlist>
   </environment>
   <category>
