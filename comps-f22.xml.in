@@ -6378,6 +6378,7 @@
       <packagereq>caribou-gtk3-module</packagereq>
       <packagereq>caribou</packagereq>
       <packagereq>cheese</packagereq>
+      <packagereq>chrony</packagereq>
       <packagereq>cifs-utils</packagereq>
       <packagereq>control-center</packagereq>
       <packagereq>cpio</packagereq>
