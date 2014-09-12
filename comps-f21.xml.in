@@ -46,7 +46,7 @@
     the DVD package payload and the live images, but not in the runtime
     anaconda environment. If a package is needed in anaconda's runtime
     environment it should be listed as a dependency of the anaconda
-    package, not added to this group. See
+    package or pulled in via lorax, not added to this group. See
     https://fedorahosted.org/rel-eng/ticket/5195 .
   -->
   <group>
@@ -68,7 +68,6 @@
       <packagereq>efibootmgr</packagereq>
       <packagereq>extlinux-bootloader</packagereq>
       <packagereq>fcoe-utils</packagereq>
-      <packagereq>fedora-repos-anaconda</packagereq>
       <packagereq>firewalld</packagereq>
       <packagereq>gfs2-utils</packagereq>
       <packagereq>grub2</packagereq>
