@@ -6395,7 +6395,6 @@
       <packagereq>rng-tools</packagereq>
       <packagereq>rp-pppoe</packagereq>
       <packagereq>rsync</packagereq>
-      <packagereq>rsyslog</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>scl-utils</packagereq>
