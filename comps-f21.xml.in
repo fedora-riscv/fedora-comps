@@ -1127,6 +1127,7 @@
     <_description>Support for joining a FreeIPA or Active Directory Domain</_description>
     <default>false</default>
     <packagelist>
+      <packagereq type="mandatory">adcli</packagereq>
       <packagereq type="mandatory">freeipa-client</packagereq>
       <packagereq type="mandatory">oddjob-mkhomedir</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
