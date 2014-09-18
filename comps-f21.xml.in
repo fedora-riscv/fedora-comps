@@ -1753,7 +1753,7 @@
       <packagereq type="default">lohit-odia-fonts</packagereq>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
-      <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
+      <packagereq type="default">naver-nanum-gothic-fonts</packagereq>
       <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="default">paratype-pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
@@ -2016,10 +2016,11 @@
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional">navilu-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-brush-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-barun-gothic-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-brush-fonts</packagereq>
       <packagereq type="optional">nhn-nanum-gothic-coding-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-myeongjo-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-pen-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-pen-fonts</packagereq>
       <packagereq type="optional">ns-bola-fonts</packagereq>
       <packagereq type="optional">ns-tiza-chalk-fonts</packagereq>
       <packagereq type="optional">oflb-asana-math-fonts</packagereq>
@@ -3711,10 +3712,11 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
-      <packagereq type="default">nhn-nanum-brush-fonts</packagereq>
-      <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
-      <packagereq type="default">nhn-nanum-myeongjo-fonts</packagereq>
-      <packagereq type="default">nhn-nanum-pen-fonts</packagereq>
+      <packagereq type="default">naver-nanum-barun-gothic-fonts</packagereq>
+      <packagereq type="default">naver-nanum-brush-fonts</packagereq>
+      <packagereq type="default">naver-nanum-gothic-fonts</packagereq>
+      <packagereq type="default">naver-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="default">naver-nanum-pen-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
