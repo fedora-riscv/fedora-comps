@@ -6868,12 +6868,14 @@
       <groupid>fonts</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>hardware-support</groupid>
-      <groupid>libreoffice</groupid>
       <groupid>multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>printing</groupid>
       <groupid>workstation-product</groupid>
     </grouplist>
+    <optionlist>
+      <groupid default="true">libreoffice</groupid>
+    </optionlist>
   </environment>
   <environment>
     <id>lxde-desktop-environment</id>
