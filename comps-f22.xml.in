@@ -5377,7 +5377,7 @@
       <packagereq type="optional">cdparanoia</packagereq>
       <packagereq type="optional">cdrskin</packagereq>
       <packagereq type="optional">cmusphinx3</packagereq>
-      <packagereq type="optional">csound-gui</packagereq>
+      <packagereq type="optional">csound-csoundac</packagereq>
       <packagereq type="optional">decibel-audio-player</packagereq>
       <packagereq type="optional">denemo</packagereq>
       <packagereq type="optional">dragon</packagereq>
