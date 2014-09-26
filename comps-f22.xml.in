@@ -3442,6 +3442,7 @@
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
       <packagereq>kcm-gtk</packagereq>
+      <packagereq>kcm_systemd</packgereq>
       <packagereq>kcm_touchpad</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-baseapps</packagereq>
@@ -3474,6 +3475,7 @@
       <packagereq>ksnapshot</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
+      <packagereq>kuser</packagereq>
       <packagereq>kwalletmanager</packagereq>
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwrite</packagereq>
@@ -3486,8 +3488,6 @@
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
       <packagereq>system-config-date</packagereq>
-      <packagereq>system-config-services</packagereq>
-      <packagereq>system-config-users</packagereq>
       <packagereq>xsettings-kde</packagereq>
       <packagereq>xterm</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
