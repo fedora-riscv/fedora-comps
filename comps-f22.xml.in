@@ -86,7 +86,6 @@
       <packagereq>syslinux-extlinux</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>xfsprogs</packagereq>
-      <packagereq>yaboot</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2979,7 +2978,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>fence-agents</packagereq>
+      <packagereq>fence-agents-all</packagereq>
       <packagereq>omping</packagereq>
       <packagereq>pacemaker</packagereq>
       <packagereq>pcs</packagereq>
@@ -4423,7 +4422,7 @@
       <packagereq type="optional">mariadb-devel</packagereq>
       <packagereq type="optional">mysqlreport</packagereq>
       <packagereq type="optional">mysqltuner</packagereq>
-      <packagereq type="optional">php-mysql</packagereq>
+      <packagereq type="optional">php-mysqlnd</packagereq>
       <packagereq type="optional">qt-mysql</packagereq>
       <packagereq type="optional">qt3-MySQL</packagereq>
     </packagelist>
@@ -4766,7 +4765,6 @@
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">foomatic</packagereq>
       <packagereq type="default">foomatic-db-ppds</packagereq>
-      <packagereq type="default">foomatic-filters</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">hpijs</packagereq>
@@ -5566,7 +5564,6 @@
       <packagereq>ntfsprogs</packagereq>
       <packagereq>ntsysv</packagereq>
       <packagereq>numactl</packagereq>
-      <packagereq>PackageKit-yum-plugin</packagereq>
       <packagereq>pam_krb5</packagereq>
       <packagereq>pam_pkcs11</packagereq>
       <packagereq>passwdqc</packagereq>
