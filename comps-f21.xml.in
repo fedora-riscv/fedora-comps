@@ -6366,6 +6366,7 @@
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
       <packagereq>orca</packagereq>
+      <packagereq>PackageKit-cached-metadata</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
       <packagereq>PackageKit-yum-plugin</packagereq>
