@@ -3982,7 +3982,6 @@
       <packagereq>lxrandr</packagereq>
       <packagereq>lxsession</packagereq>
       <packagereq>lxsession-edit</packagereq>
-      <packagereq>lxshortcut</packagereq>
       <packagereq>lxtask</packagereq>
       <packagereq>lxterminal</packagereq>
       <packagereq>network-manager-applet</packagereq>
