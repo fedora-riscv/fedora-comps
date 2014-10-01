@@ -4262,7 +4262,6 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
-      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
