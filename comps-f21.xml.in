@@ -6300,6 +6300,7 @@
       <packagereq>gnome-packagekit</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-xsession</packagereq>
+      <packagereq>gnome-session-wayland-session</packagereq>
       <packagereq>gnome-settings-daemon</packagereq>
       <packagereq>gnome-shell</packagereq>
       <packagereq>gnome-software</packagereq>
