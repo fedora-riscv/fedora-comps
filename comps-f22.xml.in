@@ -3489,6 +3489,7 @@
       <packagereq>sni-qt</packagereq>
       <packagereq>xsettings-kde</packagereq>
       <packagereq>xterm</packagereq>
+      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
     </packagelist>
