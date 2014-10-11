@@ -5527,7 +5527,6 @@
       <packagereq>dbus</packagereq>
       <packagereq>deltarpm</packagereq>
       <packagereq>dnf-langpacks</packagereq>
-      <packagereq>dnf-yum</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
       <packagereq>dump</packagereq>
