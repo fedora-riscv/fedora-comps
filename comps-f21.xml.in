@@ -4231,7 +4231,8 @@
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
       <packagereq>lightdm</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>lightdm-gtk-common</packagereq>
+      <packagereq>lightdm-gtk2</packagereq>
       <packagereq>marco</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
