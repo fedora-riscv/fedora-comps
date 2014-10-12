@@ -4277,6 +4277,7 @@
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
       <packagereq>zenity</packagereq>
+      <packagereq>mate-dialogs</packagereq>
     </packagelist>
   </group>
   <group>
