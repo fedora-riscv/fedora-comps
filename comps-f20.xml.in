@@ -4578,6 +4578,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq>atril-thumbnailer</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>caja-actions</packagereq>
       <packagereq>caja-terminal</packagereq>
