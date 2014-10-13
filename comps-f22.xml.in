@@ -4218,6 +4218,7 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-afc</packagereq>
