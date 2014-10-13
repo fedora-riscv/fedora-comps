@@ -4503,6 +4503,7 @@
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-archive</packagereq>
