@@ -1633,13 +1633,13 @@
     </packagelist>
   </group>
   <group>
-    <id>fedora-release-standard</id>
+    <id>fedora-release-nonproduct</id>
     <_name>Generic Fedora release</_name>
     <_description/>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>fedora-release-standard</packagereq>
+      <packagereq>fedora-release-nonproduct</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6804,7 +6804,7 @@
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6835,7 +6835,7 @@
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6883,7 +6883,7 @@
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6911,7 +6911,7 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6938,7 +6938,7 @@
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6965,7 +6965,7 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -6988,7 +6988,7 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -7044,7 +7044,7 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
       <groupid>multimedia</groupid>
@@ -7071,7 +7071,7 @@
     <grouplist>
       <groupid>standard</groupid>
       <groupid>core</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>hardware-support</groupid>
       <groupid>web-server</groupid>
     </grouplist>
@@ -7098,7 +7098,7 @@
     <grouplist>
       <groupid>standard</groupid>
       <groupid>core</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>hardware-support</groupid>
       <groupid>headless-management</groupid>
       <groupid>container-management</groupid>
@@ -7132,7 +7132,7 @@
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>dial-up</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
       <groupid>fonts</groupid>
       <groupid>hardware-support</groupid>
       <groupid>multimedia</groupid>
@@ -7163,7 +7163,7 @@
     <display_order>99</display_order>
     <grouplist>
       <groupid>core</groupid>
-      <groupid>fedora-release-standard</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
     </grouplist>
     <optionlist>
       <groupid>standard</groupid>
