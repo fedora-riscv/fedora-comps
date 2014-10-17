@@ -2162,7 +2162,6 @@
     <packagelist>
       <packagereq type="mandatory">freeipa-server</packagereq>
       <packagereq type="default">bind-dyndb-ldap</packagereq>
-      <packagereq type="default">freeipa-server-strict</packagereq>
       <packagereq type="default">freeipa-server-trust-ad</packagereq>
     </packagelist>
   </group>
@@ -6153,7 +6152,7 @@
       <packagereq type="default">mod_ssl</packagereq>
       <packagereq type="default">php</packagereq>
       <packagereq type="default">php-ldap</packagereq>
-      <packagereq type="default">php-mysql</packagereq>
+      <packagereq type="default">php-mysqlnd</packagereq>
       <packagereq type="default">squid</packagereq>
       <packagereq type="default">webalizer</packagereq>
       <packagereq type="optional">apachetop</packagereq>
