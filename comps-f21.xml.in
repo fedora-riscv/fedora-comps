@@ -3407,6 +3407,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>ark</packagereq>
       <packagereq>digikam</packagereq>
       <packagereq>kdegames-minimal</packagereq>
       <packagereq>kdenetwork-krdc</packagereq>
@@ -3428,7 +3429,6 @@
       <packagereq>akonadi-mysql</packagereq>
       <packagereq>apper</packagereq>
       <packagereq>appmenu-qt</packagereq>
-      <packagereq>ark</packagereq>
       <packagereq>baloo-file</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>cagibi</packagereq>
@@ -3438,7 +3438,6 @@
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>kamera</packagereq>
-      <packagereq>kamoso</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
       <packagereq>kcm-gtk</packagereq>
@@ -3479,7 +3478,6 @@
       <packagereq>kwalletmanager</packagereq>
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwrite</packagereq>
-      <packagereq>okular</packagereq>
       <packagereq>oxygen-gtk</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
@@ -3533,6 +3531,7 @@
       <packagereq>amarok</packagereq>
       <packagereq>dragon</packagereq>
       <packagereq>k3b</packagereq>
+      <packagereq>kamoso</packagereq>
       <packagereq>kscd</packagereq>
     </packagelist>
   </group>
