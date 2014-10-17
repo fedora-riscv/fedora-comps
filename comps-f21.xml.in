@@ -2546,6 +2546,7 @@
       <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>deja-dup</packagereq>
+      <packagereq>deja-dup-nautilus</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
