@@ -3428,6 +3428,7 @@
     <packagelist>
       <packagereq>akonadi</packagereq>
       <packagereq>akonadi-mysql</packagereq>
+      <packagereq>akregator</packagereq>
       <packagereq>apper</packagereq>
       <packagereq>appmenu-qt</packagereq>
       <packagereq>baloo-file</packagereq>
@@ -3438,6 +3439,7 @@
       <packagereq>firewall-config</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
@@ -3462,14 +3464,17 @@
       <packagereq>kdegraphics-strigi-analyzer</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
-      <packagereq>kdepim</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdnssd</packagereq>
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>kipi-plugins</packagereq>
+      <packagereq>kmail</packagereq>
       <packagereq>kmix</packagereq>
+      <packagereq>knode</packagereq>
       <packagereq>konsole</packagereq>
+      <packagereq>kontact</packagereq>
+      <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
       <packagereq>ksnapshot</packagereq>
