@@ -4397,15 +4397,15 @@
     <packagelist>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-utils</packagereq>
-      <packagereq>gstreamer-plugins-bad-free</packagereq>
-      <packagereq>gstreamer-plugins-espeak</packagereq>
-      <packagereq>gstreamer-plugins-good</packagereq>
+      <packagereq>gstreamer1-plugins-bad-free</packagereq>
+      <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
       <packagereq>pulseaudio-utils</packagereq>
-      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-bad-free</packagereq>
-      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-good</packagereq>
+      <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-bad-free</packagereq>
+      <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-espeak</packagereq>
+      <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
     </packagelist>
   </group>
   <group>
