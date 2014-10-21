@@ -6738,7 +6738,7 @@
     <id>cloud-server-environment</id>
     <_name>Fedora Cloud Server</_name>
     <_description>A server install with components needed to run in a cloud environment.</_description>
-    <display_order>1</display_order>
+    <display_order>2</display_order>
     <grouplist>
       <groupid>cloud-server</groupid>
       <groupid>core</groupid>
