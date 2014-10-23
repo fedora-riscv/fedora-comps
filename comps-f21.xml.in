@@ -7046,35 +7046,6 @@
     </optionlist>
   </environment>
   <environment>
-    <id>gnome-desktop-environment</id>
-    <_name>GNOME Desktop</_name>
-    <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
-    <display_order>5</display_order>
-    <grouplist>
-      <groupid>base-x</groupid>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
-      <groupid>dial-up</groupid>
-      <groupid>fedora-release-nonproduct</groupid>
-      <groupid>fonts</groupid>
-      <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
-      <groupid>networkmanager-submodules</groupid>
-      <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
-      <groupid>firefox</groupid>
-      <groupid>guest-desktop-agents</groupid>
-      <groupid>gnome-desktop</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid default="true">libreoffice</groupid>
-      <groupid>gnome-games</groupid>
-      <groupid>epiphany</groupid>
-      <groupid>3d-printing</groupid>
-      <groupid>cloud-management</groupid>
-    </optionlist>
-  </environment>
-  <environment>
     <id>web-server-environment</id>
     <_name>Web Server</_name>
     <_description>Server for serving static and dynamic internet content.</_description>
