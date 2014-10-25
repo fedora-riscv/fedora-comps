@@ -3546,12 +3546,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>calligra-braindump</packagereq>
-      <packagereq>calligra-flow</packagereq>
-      <packagereq>calligra-karbon</packagereq>
-      <packagereq>calligra-kexi</packagereq>
-      <packagereq>calligra-krita</packagereq>
-      <packagereq>calligra-plan</packagereq>
       <packagereq>calligra-sheets</packagereq>
       <packagereq>calligra-stage</packagereq>
       <packagereq>calligra-words</packagereq>
