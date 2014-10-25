@@ -3556,7 +3556,6 @@
       <packagereq>calligra-stage</packagereq>
       <packagereq>calligra-words</packagereq>
       <packagereq>okular</packagereq>
-      <packagereq>scribus</packagereq>
     </packagelist>
   </group>
   <group>
