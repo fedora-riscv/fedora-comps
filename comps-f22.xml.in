@@ -3547,7 +3547,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>calligra</packagereq>
       <packagereq>calligra-braindump</packagereq>
       <packagereq>calligra-flow</packagereq>
       <packagereq>calligra-karbon</packagereq>
