@@ -4227,6 +4227,7 @@
       <packagereq>hexchat</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>libmatekbd</packagereq>
+      <packagereq>libmatemixer</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
       <packagereq>lightdm</packagereq>
