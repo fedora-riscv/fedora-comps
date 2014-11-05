@@ -6413,6 +6413,7 @@
       <packagereq>traceroute</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>tree</packagereq>
+      <packagereq>unoconv</packagereq>
       <packagereq>unzip</packagereq>
       <packagereq>usbutils</packagereq>
       <packagereq>vconfig</packagereq>
