@@ -6233,12 +6233,11 @@
       <packagereq>at-spi2-core</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>avahi</packagereq>
+      <packagereq>baobab</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bijiben</packagereq>
       <packagereq>bind-utils</packagereq>
-      <packagereq>brasero</packagereq>
-      <packagereq>brasero-nautilus</packagereq>
       <packagereq>bridge-utils</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>bzip2</packagereq>
@@ -6258,6 +6257,8 @@
       <packagereq>deltarpm</packagereq>
       <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>devassistant</packagereq>
+      <packagereq>dnf</packagereq>
+      <packagereq>dnf-plugins-core</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
       <packagereq>empathy</packagereq>
@@ -6287,14 +6288,11 @@
       <packagereq>gnome-clocks</packagereq>
       <packagereq>gnome-color-manager</packagereq>
       <packagereq>gnome-contacts</packagereq>
-      <packagereq>gnome-dictionary</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-documents</packagereq>
       <packagereq>gnome-font-viewer</packagereq>
       <packagereq>gnome-getting-started-docs</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
-      <packagereq>gnome-logs</packagereq>
-      <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-packagekit</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-xsession</packagereq>
@@ -6302,7 +6300,6 @@
       <packagereq>gnome-settings-daemon</packagereq>
       <packagereq>gnome-shell</packagereq>
       <packagereq>gnome-software</packagereq>
-      <packagereq>gnome-sound-recorder</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
@@ -6398,7 +6395,6 @@
       <packagereq>setroubleshoot</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>shotwell</packagereq>
-      <packagereq>simple-scan</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
       <packagereq>stunnel</packagereq>
