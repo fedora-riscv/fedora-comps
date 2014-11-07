@@ -5163,7 +5163,6 @@
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
       <packagereq type="default">openssh</packagereq>
-      <packagereq type="default">openvas-client</packagereq>
       <packagereq type="default">openvas-scanner</packagereq>
       <packagereq type="default">ophcrack</packagereq>
       <packagereq type="default">p0f</packagereq>
