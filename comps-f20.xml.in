@@ -5296,7 +5296,7 @@
       <packagereq type="default">ntop</packagereq>
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
-      <packagereq type="default">openvas-client</packagereq>
+      <packagereq type="default">openvas-cli</packagereq>
       <packagereq type="default">openvas-scanner</packagereq>
       <packagereq type="default">ophcrack</packagereq>
       <packagereq type="default">p0f</packagereq>
@@ -5326,7 +5326,6 @@
       <packagereq type="default">screen</packagereq>
       <packagereq type="default">scrub</packagereq>
       <packagereq type="default">sectool-gui</packagereq>
-      <packagereq type="default">security-menus</packagereq>
       <packagereq type="default">siege</packagereq>
       <packagereq type="default">sing</packagereq>
       <packagereq type="default">sipp</packagereq>
