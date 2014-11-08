@@ -525,6 +525,7 @@
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>f21-backgrounds-base</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gedit</packagereq>
