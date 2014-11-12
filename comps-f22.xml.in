@@ -4201,6 +4201,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>audacious</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
       <packagereq>caja</packagereq>
@@ -4216,6 +4217,7 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gparted</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gvfs</packagereq>
