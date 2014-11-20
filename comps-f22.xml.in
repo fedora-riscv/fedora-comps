@@ -5758,6 +5758,7 @@
       <packagereq type="optional">fedora-package-config-smart</packagereq>
       <packagereq type="optional">festival</packagereq>
       <packagereq type="optional">foremost</packagereq>
+      <packagereq type="optional">freerdp</packagereq>
       <packagereq type="optional">freeze</packagereq>
       <packagereq type="optional">fuse</packagereq>
       <packagereq type="optional">fwbuilder</packagereq>
