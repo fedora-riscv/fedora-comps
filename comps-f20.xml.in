@@ -266,6 +266,7 @@
       <packagereq>kde-plasma-nm-vpnc</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
+      <packagereq>kde-runtime-docs</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
       <packagereq>kde-workspace</packagereq>
       <packagereq>kdeaccessibility</packagereq>
@@ -279,6 +280,7 @@
       <packagereq>kdnssd</packagereq>
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
+      <packagereq>khelpcenter</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmix</packagereq>
       <packagereq>konsole</packagereq>
