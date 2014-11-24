@@ -6280,6 +6280,7 @@
       <packagereq>evolution</packagereq>
       <packagereq>evolution-ews</packagereq>
       <packagereq>evolution-help</packagereq>
+      <packagereq>fedora-productimg-workstation</packagereq>
       <packagereq>fedora-release-workstation</packagereq>
       <packagereq>file</packagereq>
       <packagereq>file-roller</packagereq>
@@ -6310,6 +6311,7 @@
       <packagereq>gnome-session-wayland-session</packagereq>
       <packagereq>gnome-settings-daemon</packagereq>
       <packagereq>gnome-shell</packagereq>
+      <packagereq>gnome-shell-extension-background-logo</packagereq>
       <packagereq>gnome-software</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
