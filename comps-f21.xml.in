@@ -1639,7 +1639,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>fedora-release-nonproduct</packagereq>
+      <packagereq type="default">fedora-release-nonproduct</packagereq>
     </packagelist>
   </group>
   <group>
