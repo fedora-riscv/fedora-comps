@@ -4152,12 +4152,9 @@
       <packagereq>caja-beesu-manager</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
-      <packagereq>filezilla</packagereq>
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
-      <packagereq>mate-dictionary</packagereq>
-      <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-file-manager-share</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
@@ -4219,8 +4216,10 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
@@ -4245,6 +4244,8 @@
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
       <packagereq>mate-dialogs</packagereq>
+      <packagereq>mate-dictionary</packagereq>
+      <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-icon-theme</packagereq>
       <packagereq>mate-media</packagereq>
       <packagereq>mate-menus</packagereq>
@@ -4274,7 +4275,9 @@
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
+      <packagereq>system-config-date</packagereq>
       <packagereq>system-config-language</packagereq>
+      <packagereq>system-config-printer</packagereq>
       <packagereq>system-config-users</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
