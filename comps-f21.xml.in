@@ -4215,7 +4215,6 @@
       <packagereq>f21-backgrounds-base</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
