@@ -3500,6 +3500,7 @@
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
+      <packagereq type="conditional" requires="pam_kwallet">socat</pacakgereq>
     </packagelist>
   </group>
   <group>
