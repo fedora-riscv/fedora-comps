@@ -2551,7 +2551,6 @@
       <packagereq>dconf</packagereq>
       <packagereq>deja-dup</packagereq>
       <packagereq>deja-dup-nautilus</packagereq>
-      <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
@@ -6267,7 +6266,6 @@
       <packagereq>dbus</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>deltarpm</packagereq>
-      <packagereq>desktop-backgrounds-basic</packagereq>
       <packagereq>devassistant</packagereq>
       <packagereq>dnf</packagereq>
       <packagereq>dnf-plugins-core</packagereq>
