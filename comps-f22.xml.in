@@ -562,6 +562,7 @@
       <packagereq>setroubleshoot</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
+      <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-mozplugin</packagereq>
