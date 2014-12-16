@@ -428,6 +428,7 @@
       <packagereq type="optional">rpmdevtools</packagereq>
       <packagereq type="optional">rpmlint</packagereq>
       <packagereq type="optional">sbcl</packagereq>
+      <packagereq type="optional">scorep</packagereq>
       <packagereq type="optional">trac</packagereq>
       <packagereq type="optional">trac-git-plugin</packagereq>
       <packagereq type="optional">trac-mercurial-plugin</packagereq>

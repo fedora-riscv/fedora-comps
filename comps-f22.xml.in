@@ -501,6 +501,7 @@
       <packagereq type="optional">pscan</packagereq>
       <packagereq type="optional">remake</packagereq>
       <packagereq type="optional">scons</packagereq>
+      <packagereq type="optional">scorep</packagereq>
       <packagereq type="optional">splint</packagereq>
       <packagereq type="optional">trinity</packagereq>
       <packagereq type="optional">undertaker</packagereq>
