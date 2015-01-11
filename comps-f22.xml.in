@@ -2595,6 +2595,7 @@
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
+      <packagereq>google-android-emoji-fonts</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-afp</packagereq>
@@ -6319,6 +6320,7 @@
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
+      <packagereq>google-android-emoji-fonts</packagereq>
       <packagereq>gnupg2</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
