@@ -793,6 +793,18 @@
     </packagelist>
   </group>
   <group>
+    <id>critical-path-lxqt</id>
+    <_name>Critical Path (LXQt)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the LXQt desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">lxqt-common</packagereq>
+      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">notification-daemon</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-lxde</id>
     <_name>Critical Path (LXDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the LXDE desktop</_description>
@@ -4008,6 +4020,53 @@
     </packagelist>
   </group>
   <group>
+    <id>lxqt-apps</id>
+    <_name>Applications for the LXQt Desktop</_name>
+    <_description>A set of commonly used applications for the LXQt Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>transmission-qt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxqt-desktop</id>
+    <_name>LXQt</_name>
+    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>oxygen-gtk2-theme</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>initial-setup-gui</packagereq>
+      <packagereq>sddm</packagereq>
+      <packagereq>lxqt-common</packagereq>
+      <packagereq>lxqt-runner</packagereq>
+      <packagereq>lxqt-qtplugin</packagereq>
+      <packagereq>lxqt-powermanagement</packagereq>
+      <packagereq>lxqt-panel</packagereq>
+      <packagereq>lxqt-openssh-askpass</packagereq>
+      <packagereq>lxqt-config</packagereq>
+      <packagereq>lxqt-session</packagereq>
+      <packagereq>lxqt-policykit</packagereq>
+      <packagereq>lxqt-about</packagereq>
+      <packagereq>lxqt-globalkeys</packagereq>
+      <packagereq>lxqt-notificationd</packagereq>
+      <packagereq>qterminal</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
+      <packagereq>notification-daemon</packagereq>
+      <packagereq>obconf</packagereq>
+      <packagereq>openbox</packagereq>
+      <packagereq>pcmanfm-qt5</packagereq>
+      <packagereq>perl-File-MimeInfo</packagereq>
+      <packagereq>upower</packagereq>
+      <packagereq>xarchiver</packagereq>
+      <packagereq>xdg-user-dirs</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>lxde-media</id>
     <_name>Multimedia support for LXDE</_name>
     <_description>Multimedia support for LXDE</_description>
@@ -4020,7 +4079,19 @@
       <packagereq>pavucontrol</packagereq>
       <packagereq>pnmixer</packagereq>
     </packagelist>
+</group>
+  <group>
+    <id>lxqt-media</id>
+    <_name>Multimedia support for LXQt</_name>
+    <_description>Multimedia support for LXQt</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>pavucontrol</packagereq>
+      <packagereq>pnmixer</packagereq>
+    </packagelist>
   </group>
+
   <group>
     <id>lxde-office</id>
     <_name>LXDE Office</_name>
@@ -4032,7 +4103,20 @@
       <packagereq>gnumeric</packagereq>
       <packagereq>osmo</packagereq>
     </packagelist>
+</group>
+  <group>
+    <id>lxqt-office</id>
+    <_name>LXQt Office</_name>
+    <_description>Office suite for LXQt</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>libreoffice-writer</packagereq>
+      <packagereq>libreoffice-calc</packagereq>
+      <packagereq>libreoffice-impress</packagereq>
+    </packagelist>
   </group>
+
   <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
@@ -6919,10 +7003,40 @@
     </optionlist>
   </environment>
   <environment>
+    <id>lxqt-desktop-environment</id>
+    <_name>LXQt Desktop</_name>
+    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <display_order>21</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>lxqt-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>lxqt-apps</groupid>
+      <groupid>lxqt-media</groupid>
+      <groupid>lxqt-office</groupid>
+      <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
+    </optionlist>
+  </environment>
+
+  <environment>
     <id>cinnamon-desktop-environment</id>
     <_name>Cinnamon Desktop</_name>
     <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
-    <display_order>21</display_order>
+    <display_order>22</display_order>
     <grouplist>
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
@@ -6948,7 +7062,7 @@
     <id>mate-desktop-environment</id>
     <_name>MATE Desktop</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
-    <display_order>22</display_order>
+    <display_order>23</display_order>
     <grouplist>
       <groupid>base-x</groupid>
       <groupid>standard</groupid>
@@ -7137,6 +7251,7 @@
       <groupid>legacy-fonts</groupid>
       <groupid>libreoffice</groupid>
       <groupid>lxde-desktop</groupid>
+      <groupid>lxqt-desktop</groupid>
       <groupid>mate-desktop</groupid>
       <groupid>sugar-desktop</groupid>
       <groupid>xfce-desktop</groupid>
@@ -7222,10 +7337,23 @@
     </grouplist>
   </category>
   <category>
+    <id>lxqt-desktop-environment</id>
+    <_name>LXQt Desktop</_name>
+    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <display_order>21</display_order>
+    <grouplist>
+      <groupid>lxqt-apps</groupid>
+      <groupid>lxqt-desktop</groupid>
+      <groupid>lxqt-media</groupid>
+      <groupid>lxqt-office</groupid>
+    </grouplist>
+  </category>
+
+  <category>
     <id>cinnamon-desktop-environment</id>
     <_name>Cinnamon Desktop</_name>
     <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
-    <display_order>21</display_order>
+    <display_order>22</display_order>
     <grouplist>
       <groupid>cinnamon-desktop</groupid>
       <groupid>libreoffice</groupid>
@@ -7235,7 +7363,7 @@
     <id>mate-desktop-environment</id>
     <_name>MATE Desktop</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
-    <display_order>22</display_order>
+    <display_order>23</display_order>
     <grouplist>
       <groupid>mate-applications</groupid>
       <groupid>mate-compiz</groupid>

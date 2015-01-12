@@ -4021,8 +4021,6 @@
       <packagereq>yumex</packagereq>
     </packagelist>
   </group>
-
-
   <group>
     <id>lxqt-apps</id>
     <_name>Applications for the LXQt Desktop</_name>
@@ -4033,7 +4031,6 @@
       <packagereq>transmission-qt</packagereq>
     </packagelist>
   </group>
-
   <group>
     <id>lxqt-desktop</id>
     <_name>LXQt</_name>
@@ -4045,8 +4042,8 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>lxqt-common</packagereq>
       <packagereq>sddm</packagereq>
+      <packagereq>lxqt-common</packagereq>
       <packagereq>lxqt-runner</packagereq>
       <packagereq>lxqt-qtplugin</packagereq>
       <packagereq>lxqt-powermanagement</packagereq>
@@ -4055,7 +4052,6 @@
       <packagereq>lxqt-config</packagereq>
       <packagereq>lxqt-session</packagereq>
       <packagereq>lxqt-policykit</packagereq>
-      <packagereq>liblxqt-mount</packagereq>
       <packagereq>lxqt-about</packagereq>
       <packagereq>lxqt-globalkeys</packagereq>
       <packagereq>lxqt-notificationd</packagereq>
@@ -4069,7 +4065,6 @@
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xarchiver</packagereq>
-      <packagereq>xcompmgr</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
     </packagelist>
   </group>
@@ -7000,7 +6995,6 @@
       <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
-
   <environment>
     <id>lxqt-desktop-environment</id>
     <_name>LXQt Desktop</_name>
@@ -7249,6 +7243,7 @@
       <groupid>kde-desktop</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>libreoffice</groupid>
+	  <groupid>lxde-desktop</groupid>
       <groupid>lxqt-desktop</groupid>
       <groupid>mate-desktop</groupid>
       <groupid>sugar-desktop</groupid>
