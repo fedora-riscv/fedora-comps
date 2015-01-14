@@ -2182,6 +2182,7 @@
       <packagereq type="mandatory">freeipa-server</packagereq>
       <packagereq type="default">bind-dyndb-ldap</packagereq>
       <packagereq type="default">freeipa-server-trust-ad</packagereq>
+      <packagereq type="default">opendnssec</packagereq>
     </packagelist>
   </group>
   <group>
