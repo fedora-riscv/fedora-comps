@@ -6442,6 +6442,7 @@
       <packagereq>ibus-kkc</packagereq>
       <packagereq>ibus-libpinyin</packagereq>
       <packagereq>ibus-m17n</packagereq>
+      <packagereq>ibus-qt</packagereq>
       <packagereq>ibus-rawcode</packagereq>
       <packagereq>ibus-typing-booster</packagereq>
       <packagereq>iptstate</packagereq>
