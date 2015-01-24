@@ -5747,7 +5747,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>csound-python</packagereq>
-      <packagereq>etoys-sugar</packagereq>
       <packagereq>gnome-power-manager</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>lightdm</packagereq>
