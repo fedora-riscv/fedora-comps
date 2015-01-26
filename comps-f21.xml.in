@@ -4258,7 +4258,6 @@
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
-      <packagereq>mate-file-manager-share</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
