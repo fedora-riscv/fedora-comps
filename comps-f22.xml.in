@@ -4261,7 +4261,6 @@
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
-      <packagereq>mate-file-manager-share</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
@@ -4315,6 +4314,7 @@
       <packagereq>caja-image-converter</packagereq>
       <packagereq>caja-open-terminal</packagereq>
       <packagereq>caja-sendto</packagereq>
+      <packagereq>caja-wallpaper</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
@@ -4338,6 +4338,7 @@
       <packagereq>hexchat</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>libmatekbd</packagereq>
+      <packagereq>libmatemixer</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
       <packagereq>lightdm</packagereq>
@@ -4348,7 +4349,6 @@
       <packagereq>mate-calc</packagereq>
       <packagereq>mate-control-center</packagereq>
       <packagereq>mate-desktop</packagereq>
-      <packagereq>mate-dialogs</packagereq>
       <packagereq>mate-dictionary</packagereq>
       <packagereq>mate-disk-usage-analyzer</packagereq>
       <packagereq>mate-icon-theme</packagereq>
@@ -4368,6 +4368,7 @@
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>mate-user-guide</packagereq>
       <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager</packagereq>
