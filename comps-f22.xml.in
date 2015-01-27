@@ -626,7 +626,7 @@
     <_name>Cloud Server Tools</_name>
     <_description>Software for servers and system images that run in "cloud" environments</_description>
     <default>false</default>
-    <uservisible>true</uservisible>
+    <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cloud-init</packagereq>
       <packagereq type="mandatory">cloud-utils-growpart</packagereq>
