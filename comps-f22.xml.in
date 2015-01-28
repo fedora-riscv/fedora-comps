@@ -6879,7 +6879,7 @@
          or something else to differentiate from
          infrastructure-server-environment. -->
     <_description>An integrated, easier to manage server.</_description>
-    <display_order>1</display_order>
+    <display_order>2</display_order>
     <grouplist>
       <groupid>server-product</groupid>
       <groupid>standard</groupid>
@@ -7277,7 +7277,7 @@
     <id>minimal-environment</id>
     <_name>Minimal Install</_name>
     <_description>Basic functionality.</_description>
-    <display_order>99</display_order>
+    <display_order>1</display_order>
     <grouplist>
       <groupid>core</groupid>
       <groupid>fedora-release-nonproduct</groupid>
