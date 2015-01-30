@@ -565,7 +565,6 @@
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
-      <packagereq>totem</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yumex</packagereq>
     </packagelist>
