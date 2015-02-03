@@ -3523,7 +3523,6 @@
       <packagereq>oxygen-gtk</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
-      <packagereq>plasma-scriptengine-python</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
