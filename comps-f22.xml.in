@@ -2707,6 +2707,7 @@
       <packagereq type="mandatory">glib2-devel</packagereq>
       <packagereq type="mandatory">gstreamer-devel</packagereq>
       <packagereq type="mandatory">gtk3-devel-docs</packagereq>
+      <packagereq type="mandatory">intltool</packagereq>
       <packagereq type="mandatory">pango-devel</packagereq>
       <packagereq type="mandatory">webkitgtk3-devel</packagereq>
       <packagereq type="default">at-spi2-core-devel</packagereq>
