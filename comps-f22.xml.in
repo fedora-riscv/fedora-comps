@@ -2685,6 +2685,7 @@
       <packagereq>gnome-nibbles</packagereq>
       <packagereq>gnome-robots</packagereq>
       <packagereq>gnome-sudoku</packagereq>
+      <packagereq>gnome-taquin</packagereq>
       <packagereq>gnome-tetravex</packagereq>
       <packagereq>hitori</packagereq>
       <packagereq>iagno</packagereq>
