@@ -22,4 +22,4 @@ validate: $(XMLFILES) comps.rng
 
 # Add an easy alias to generate a rawhide comps file
 comps-rawhide.xml comps-rawhide: comps-f22.xml
-	@mv comps-f22.xml comps-rawhide.xml
+	@mv comps-f23.xml comps-rawhide.xml
