@@ -31,6 +31,7 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>authconfig-gtk</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>system-config-date</packagereq>
@@ -529,6 +530,7 @@
       <packagereq>f21-backgrounds-base</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
@@ -2591,6 +2593,7 @@
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fprintd-pam</packagereq>
+      <packagereq>fros-gnome</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
@@ -4319,6 +4322,7 @@
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>gucharmap</packagereq>
@@ -6393,6 +6397,7 @@
       <packagereq>firewalld-config-workstation</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
@@ -6664,6 +6669,7 @@
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>greybird-gtk2-theme</packagereq>
       <packagereq>greybird-gtk3-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>

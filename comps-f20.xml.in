@@ -94,6 +94,7 @@
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fprintd-pam</packagereq>
+      <packagereq>fros-gnome</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
@@ -714,6 +715,7 @@
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>firefox</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>icedtea-web</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>brasero</packagereq>
@@ -1013,6 +1015,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>authconfig-gtk</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
@@ -4505,6 +4508,7 @@
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gvfs-afc</packagereq>
