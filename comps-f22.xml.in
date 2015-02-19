@@ -2403,7 +2403,6 @@
       <packagereq type="optional">neverball</packagereq>
       <packagereq type="optional">njam</packagereq>
       <packagereq type="optional">nogravity</packagereq>
-      <packagereq type="optional">numptyphysics</packagereq>
       <packagereq type="optional">oneko</packagereq>
       <packagereq type="optional">openalchemist</packagereq>
       <packagereq type="optional">openarena</packagereq>
