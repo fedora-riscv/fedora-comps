@@ -6494,6 +6494,7 @@
       <packagereq>pcmciautils</packagereq>
       <packagereq>pinentry-gtk</packagereq>
       <packagereq>pinfo</packagereq>
+      <packagereq>pinentry-gtk</packagereq>
       <packagereq>plymouth</packagereq>
       <packagereq>pm-utils</packagereq>
       <packagereq>polkit-js-engine</packagereq>
