@@ -6397,7 +6397,7 @@
       <packagereq>firewalld-config-workstation</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
-      <packagereq>fros-recordmydesktop</packagereq>
+      <packagereq>fros-gnome</packagereq>
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
