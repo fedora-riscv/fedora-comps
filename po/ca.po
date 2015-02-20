@@ -6,15 +6,16 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Josep Puigdemont <josep.puigdemont@gmail.com>, 2005, 2008
 # Oscar Osta Pueyo <oostap@gmail.com>, 2009
+# Robert Antoni Buj i Gelonch, 2014-2015
 # Xavier Conde Rueda <xavi.conde@gmail.com>, 2004, 2006
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Catalan (http://www.transifex.com/projects/p/fedora/language/ca/)\n"
+"PO-Revision-Date: 2015-02-04 16:16+0000\n"
+"Last-Translator: Robert Antoni Buj i Gelonch\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/comps/language/ca/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,7 +40,7 @@ msgstr "Suport per a l'afrikaans"
 
 #: ../comps-f16.xml.in.h:4 ../comps-f17.xml.in.h:4
 msgid "Akan Support"
-msgstr ""
+msgstr "Suport per a l'àkan"
 
 #: ../comps-f16.xml.in.h:5 ../comps-f17.xml.in.h:5 ../comps-el6.xml.in.h:4
 msgid "Albanian Support"
@@ -102,7 +103,7 @@ msgstr "Aquest grup inclou un conjunt mínim de paquets. Útil per crear ordinad
 #: ../comps-f16.xml.in.h:17 ../comps-f17.xml.in.h:18 ../comps-el5.xml.in.h:9
 #: ../comps-el6.xml.in.h:287
 msgid "X Window System"
-msgstr "Sistema de finestres X"
+msgstr "X Window System"
 
 #: ../comps-f16.xml.in.h:18 ../comps-f17.xml.in.h:19 ../comps-el5.xml.in.h:10
 msgid ""
@@ -177,7 +178,7 @@ msgstr "Suport per al Xinyanja"
 
 #: ../comps-f16.xml.in.h:34 ../comps-f17.xml.in.h:36
 msgid "Chuvash Support"
-msgstr ""
+msgstr "Suport per al txuvaix"
 
 #: ../comps-f16.xml.in.h:35 ../comps-f17.xml.in.h:39
 msgid "Clustering"
@@ -287,7 +288,7 @@ msgstr "Suport per al danès"
 #: ../comps-f16.xml.in.h:55 ../comps-f17.xml.in.h:59 ../comps-f18.xml.in.h:104
 #: ../comps-f19.xml.in.h:104
 msgid "Design Suite"
-msgstr ""
+msgstr "Conjunt de programes de disseny"
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
 msgid ""
@@ -394,7 +395,7 @@ msgstr "Programari educatiu per a aprendre"
 #: ../comps-f16.xml.in.h:75 ../comps-f17.xml.in.h:80 ../comps-f18.xml.in.h:124
 #: ../comps-f19.xml.in.h:128 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 msgid "Electronic Lab"
-msgstr "Laboratori electrònic"
+msgstr "Laboratori d'electrònica"
 
 #: ../comps-f16.xml.in.h:76 ../comps-f17.xml.in.h:81 ../comps-f18.xml.in.h:125
 #: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:22
@@ -543,7 +544,7 @@ msgstr "Entorn d'escriptori GNOME"
 msgid ""
 "GNOME is a powerful graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "El GNOME és una interfície gràfica avançada que inclou un quadre, un escriptori, icones de sistema i un gestor de fitxers gràfic."
+msgstr "GNOME és una interfície gràfica d'usuari avançada que inclou un tauler, un escriptori, icones de sistema i un gestor de fitxers gràfic."
 
 #: ../comps-f16.xml.in.h:106 ../comps-f17.xml.in.h:111
 #: ../comps-f18.xml.in.h:141 ../comps-f19.xml.in.h:145
@@ -597,7 +598,7 @@ msgstr "Suport per al gujarati"
 
 #: ../comps-f16.xml.in.h:114 ../comps-f17.xml.in.h:119
 msgid "Haitian Creole Support"
-msgstr ""
+msgstr "Suport per al crioll haitià"
 
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:120
 #: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:153
@@ -745,7 +746,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr " KDE SC inclou l'escriptori Plasma, una interfície gràfica molt configurable que inclou un quadre, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE."
+msgstr "KDE SC inclou l'escriptori Plasma, una interfície gràfica d'usuari molt configurable que inclou un tauler, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:168
@@ -790,7 +791,7 @@ msgstr "Suport per al kurd"
 
 #: ../comps-f16.xml.in.h:149 ../comps-f17.xml.in.h:154
 msgid "Kyrgyz Support"
-msgstr ""
+msgstr "Suport per al kirguís"
 
 #: ../comps-f16.xml.in.h:150 ../comps-f17.xml.in.h:155
 #: ../comps-el6.xml.in.h:133
@@ -847,17 +848,17 @@ msgstr "Suport per a programari genèric"
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
 #: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "Desenvolupament amb LibreOffice"
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
 #: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr ""
+msgstr "Aquests paquets són útils per a desenvolupar extensions o macros per al LibreOffice."
 
 #: ../comps-f16.xml.in.h:162 ../comps-f17.xml.in.h:167
 msgid "Lingala Support"
-msgstr ""
+msgstr "Suport per a lingala"
 
 #: ../comps-f16.xml.in.h:163 ../comps-f17.xml.in.h:168
 #: ../comps-el6.xml.in.h:144
@@ -866,20 +867,20 @@ msgstr "Suport per al lituà"
 
 #: ../comps-f16.xml.in.h:164 ../comps-f17.xml.in.h:169
 msgid "Low German Support"
-msgstr ""
+msgstr "Suport per al baix alemany"
 
 #: ../comps-f16.xml.in.h:165 ../comps-f17.xml.in.h:170
 #: ../comps-el6.xml.in.h:145
 msgid "Low Saxon Support"
-msgstr "Suport per al saxó baix"
+msgstr "Suport per al baix saxó"
 
 #: ../comps-f16.xml.in.h:166 ../comps-f17.xml.in.h:171
 msgid "Lower Sorbian Support"
-msgstr ""
+msgstr "Suport per al baix sòrab"
 
 #: ../comps-f16.xml.in.h:167 ../comps-f17.xml.in.h:172
 msgid "Lule Sami Support"
-msgstr ""
+msgstr "Suport per al sami de Lule"
 
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:173
 #: ../comps-el6.xml.in.h:146
@@ -951,7 +952,7 @@ msgstr "Suport per al manx"
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -984,7 +985,7 @@ msgstr "MeeGo NetBook UX és un entorn d'escriptori per a dispositius NetBook/Ne
 #: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
 #: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
@@ -1011,7 +1012,7 @@ msgstr "Suport per al mongol"
 
 #: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:199
 msgid "Mossi Support"
-msgstr ""
+msgstr "Suport per al mossi"
 
 #: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:200
 #: ../comps-f18.xml.in.h:193
@@ -1109,7 +1110,7 @@ msgstr "Suport per a l'oriya"
 
 #: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:217
 msgid "Oromo Support"
-msgstr ""
+msgstr "Suport per a l'oromo"
 
 #: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
 #: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
@@ -1156,17 +1157,17 @@ msgstr "Suport per al punjabi"
 
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
-msgstr ""
+msgstr "Suport per al quítxua"
 
 #: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
 #: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
-msgstr ""
+msgstr "Robòtica"
 
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Conjunt de paquets de desenvolupament per a la robòtica"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
@@ -1227,7 +1228,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:241
 #: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:228
 msgid "Simplified Chinese Support"
-msgstr ""
+msgstr "Suport per al xinès simplificat"
 
 #: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:242
 #: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:229
@@ -1384,7 +1385,7 @@ msgstr "Internet amb interfície de text"
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "Aquest grup inclou els clients gràfics de correu electrònic, web i xat. Aquestes aplicacions no necessiten el sistema de finestres X."
+msgstr "Aquest grup inclou els clients gràfics de correu electrònic, web i xat. Aquestes aplicacions no necessiten el X Window System."
 
 #: ../comps-f16.xml.in.h:261 ../comps-f17.xml.in.h:270
 #: ../comps-f18.xml.in.h:238 ../comps-f19.xml.in.h:245
@@ -1400,7 +1401,7 @@ msgstr "Suport per al tibetà"
 
 #: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:272
 msgid "Tigrinya Support"
-msgstr ""
+msgstr "Suport per al tigrinya"
 
 #: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:273
 msgid "Tonga Support"
@@ -1409,7 +1410,7 @@ msgstr "Suport per al tsonga"
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:274
 #: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:247
 msgid "Traditional Chinese Support"
-msgstr ""
+msgstr "Suport per al xinès tradicional"
 
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:275
 #: ../comps-el6.xml.in.h:259
@@ -1527,12 +1528,12 @@ msgstr "Desenvolupament de programari per a X"
 #: ../comps-f18.xml.in.h:249 ../comps-f19.xml.in.h:261
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr "Aquests paquets us permeten desenvolupar aplicacions per al sistema de finestres X."
+msgstr "Aquests paquets us permeten desenvolupar aplicacions per a l'X Window System."
 
 #: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
@@ -1557,7 +1558,7 @@ msgstr "Suport per al xhosa"
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:304
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:264
 msgid "Yiddish Support"
-msgstr ""
+msgstr "Suport per al jiddisch"
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:305
 #: ../comps-el6.xml.in.h:292
@@ -1645,24 +1646,24 @@ msgstr "Texts i d'altres continguts lliures."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Eines de l'Anaconda"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
-msgstr ""
+msgstr "Suport per al bodo"
 
 #: ../comps-f17.xml.in.h:37 ../comps-f18.xml.in.h:88 ../comps-f19.xml.in.h:88
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "Infraestructura de núvol"
 
 #: ../comps-f17.xml.in.h:38 ../comps-f18.xml.in.h:89 ../comps-f19.xml.in.h:89
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "Els paquets d'infraestructura per informàtica en núvol."
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
 #: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
-msgstr ""
+msgstr "Suport per al dogri"
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
 #: ../comps-f19.xml.in.h:188
@@ -1672,25 +1673,25 @@ msgstr ""
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
-msgstr ""
+msgstr "Aplicacions mèdiques"
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
 #: ../comps-f19.xml.in.h:193
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "Aquest és un grup d'aplicacions relacionat amb l'atenció sanitària."
 
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
 #: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
-msgstr ""
+msgstr "Suport per al santali"
 
 #: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
-msgstr ""
+msgstr "Client de virtualització"
 
 #: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "Hipervisor de virtualització"
 
 #: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
@@ -1698,154 +1699,154 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "x-base"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Servidor de pantalla X.org local"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimèdia"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Marc de treball d'audio/vídeo comú als escriptoris"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME és un entorn d'escriptori amigable i intuïtiu."
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Jocs extra per a l'escriptori GNOME"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Una varietat de jocs per a l'escriptori GNOME."
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Navegador web Firefox"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "El navegador web Firefox"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Navegador web Epiphany"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "El navegador web Epiphany per al GNOME"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "Conjunt de programes de productivitat de LibreOffice"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma Workspaces"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "KDE Plasma Workspaces, una interfície gràfica d'usuari molt configurable que inclou un tauler, un escriptori, icones de sistema i enginys per a l'escriptori i altres aplicacions útils de KDE."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "Aplicacions del KDE"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Un conjunt d'aplicacions del KDE d'ús comú"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "Aplicacions de KDE Educational"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "Suport multimèdia del KDE"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Suport multimèdia per al KDE"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "Ofimàtica KDE"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "Aplicacions d'ofimàtica KDE"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "Aplicacions de KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Aplicacions per a l'escriptori Xfce"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Un conjunt d'aplicacions d'ús comú per a l'escriptori Xfce"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Complements extra per al tauler d'Xfce"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Amplia la funcionalitat del tauler d'Xfce"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Suport multimèdia per a l'Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Ofimàtica Xfce"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Paquet d'ofimàtica per a l'Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Aplicacions per a l'escriptori LXDE"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Un conjunt d'aplicacions d'ús comú per a l'escriptori LXDE"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Suport multimèdia per al LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "Ofimàtica LXDE"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Paquet d'ofimàtica per al LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
@@ -1857,15 +1858,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Escriptori bàsic X Window"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "X Window System bàsic amb la selecció del gestor de finestres."
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
@@ -1875,7 +1876,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
@@ -1883,31 +1884,31 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad per al GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "El gestor de finestres XMonad amb GNOME"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "Balanceig de càrrega TCP/HTTP."
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "Servidor d'aplicacions del JBoss"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Servidor d'aplicacions Java."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
@@ -1915,15 +1916,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl per al Web"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Suport bàsic per a les aplicacions web de Perl."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
@@ -1931,39 +1932,39 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Suport bàsic per a les aplicacions web de Python."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Pila d'aplicacions web Ruby on Rails."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Servidor d'aplicacions web Tomcat."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Balanceig de càrrega"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Suport per al balanceig càrrega per al tràfic de xarxa"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Alta disponibilitat"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
@@ -1971,7 +1972,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Estàndard"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
@@ -1979,11 +1980,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Servidor web bàsic"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Desenvolupament de programari Xfce"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
@@ -1993,31 +1994,31 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "Escriptori del GNOME"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Escriptori de l'Xfce"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "Escriptori del LXDE"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Escriptori del Cinnamon"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "Escriptori del MATE"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Estació de treball de desenvolupament i creativa."
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Estació de treball per al desenvolupament de programari, maquinari, gràfics o continguts."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
@@ -2025,7 +2026,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Servidor d'infraestructura"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
@@ -2033,44 +2034,44 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "X Window System bàsic"
 
 #: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "X Window System sense tot un entorn d'escriptori."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Instal·lació mínima"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Funcionalitat bàsica."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
-msgstr ""
+msgstr "Escriptori del KDE"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Un conjunt d'aplicacions KDE d'ús comú"
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Escriptori bàsic"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad per al MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "El gestor de finestres XMonad amb MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
@@ -2080,7 +2081,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "Eines de desenvolupament RPM"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
@@ -2092,13 +2093,13 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "Eines i biblioteques de desenvolupament amb C"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "S'inclouen eines imprescindibles per al desenvolupament, com ara l'automake, el gcc i els depuradors."
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
@@ -2106,16 +2107,16 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "Base de dades MariaDB (MySQL)"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "Aquests grup de paquets conté els paquets útils per utilitzar amb MariaDB (MySQL)."
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Laboratori de seguretat"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
@@ -2129,7 +2130,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:251
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Els agents utilitzats quan s'executa sota un hipervisor."
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
@@ -2137,19 +2138,19 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Els agents utilitzats quan s'executa com un escriptori virtualitzat."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "Impressió 3D"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Programari d'impressió 3D"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X Window System amb la selecció del gestor de finestres."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
@@ -2181,7 +2182,7 @@ msgstr "Els editors de text us permeten crear i editar fitxers. S'inclouen l'Ema
 msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
-msgstr "El GNOME és una interfície gràfica avançada que inclou un quadre, un escriptori, icones de sistema i un gestor de fitxers gràfic."
+msgstr "GNOME és una interfície gràfica d'usuari avançada que inclou un tauler, un escriptori, icones de sistema i un gestor de fitxers gràfic."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2201,7 +2202,7 @@ msgstr "KDE (Entorn d'escriptori K)"
 msgid ""
 "KDE is a powerful, graphical user interface which includes a panel, desktop,"
 " system icons, and a graphical file manager."
-msgstr "El KDE és una interfície gràfica avançada que inclou un quadre, un escriptori, icones de sistema i un gestor de fitxers gràfic."
+msgstr "KDE és una interfície gràfica d'usuari avançada que inclou un tauler, un escriptori, icones de sistema i un gestor de fitxers gràfic."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
@@ -2221,7 +2222,7 @@ msgstr "Aplicacions per a diverses tasques"
 
 #: ../comps-el6.xml.in.h:1
 msgid "Additional Development"
-msgstr ""
+msgstr "Desenvolupament addicional"
 
 #: ../comps-el6.xml.in.h:2
 msgid ""
@@ -2230,7 +2231,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:10
 msgid "Backup Client"
-msgstr ""
+msgstr "Client de còpies de seguretat"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
@@ -2238,7 +2239,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:12
 msgid "Backup Server"
-msgstr ""
+msgstr "Servidor de còpies de seguretat"
 
 #: ../comps-el6.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
@@ -2250,11 +2251,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:16
 msgid "Desktop"
-msgstr ""
+msgstr "Escriptori"
 
 #: ../comps-el6.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr ""
+msgstr "Un escriptori mínim que també pot utilitzar-se com a client lleuger."
 
 #: ../comps-el6.xml.in.h:29
 msgid "Chhattisgarhi Support"
@@ -2266,15 +2267,15 @@ msgstr "Suport per al xinès"
 
 #: ../comps-el6.xml.in.h:32
 msgid "CIFS file server"
-msgstr ""
+msgstr "Servidor de fitxers CIFS"
 
 #: ../comps-el6.xml.in.h:33
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr ""
+msgstr "Compartir fitxers entre sistemes Linux i Microsoft Windows."
 
 #: ../comps-el6.xml.in.h:34
 msgid "Compatibility libraries"
-msgstr ""
+msgstr "Biblioteques de compatibilitat"
 
 #: ../comps-el6.xml.in.h:35
 msgid ""
@@ -2284,7 +2285,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
-msgstr ""
+msgstr "Eines d'Internet de consola"
 
 #: ../comps-el6.xml.in.h:37
 msgid "Console internet access tools, often used by administrators."
@@ -2296,7 +2297,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:44
 msgid "Debugging Tools"
-msgstr ""
+msgstr "Eines de depuració"
 
 #: ../comps-el6.xml.in.h:45
 msgid ""
@@ -2314,7 +2315,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:48
 msgid "Desktop Platform"
-msgstr ""
+msgstr "Plataforma d'escriptori"
 
 #: ../comps-el6.xml.in.h:49
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
@@ -2332,19 +2333,19 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
-msgstr ""
+msgstr "Eines de desenvolupament"
 
 #: ../comps-el6.xml.in.h:53
 msgid "A basic development environment."
-msgstr ""
+msgstr "Un entorn bàsic de desenvolupament."
 
 #: ../comps-el6.xml.in.h:55
 msgid "Tools for connecting via PPP or ISDN."
-msgstr ""
+msgstr "Eines per a connectar a través de PPP o ISDN."
 
 #: ../comps-el6.xml.in.h:56
 msgid "Directory Client"
-msgstr ""
+msgstr "Client de directori"
 
 #: ../comps-el6.xml.in.h:57
 msgid "Clients for integration into a network managed by a directory service."
@@ -2360,11 +2361,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:64
 msgid "Educational software for learning."
-msgstr ""
+msgstr "Programari educatiu per aprendre."
 
 #: ../comps-el6.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
-msgstr ""
+msgstr "Eines de disseny i simulació per als enginyers de maquinari."
 
 #: ../comps-el6.xml.in.h:67
 msgid "Emacs"
@@ -2376,7 +2377,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr ""
+msgstr "Eines i utilitats necessàries per un empaquetador de Fedora."
 
 #: ../comps-el6.xml.in.h:79
 msgid "Fonts for rendering text in a variety of languages and scripts."
@@ -2384,23 +2385,23 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:83
 msgid "FTP server"
-msgstr ""
+msgstr "Servidor FTP"
 
 #: ../comps-el6.xml.in.h:84
 msgid "Allows the system to act as an FTP server."
-msgstr ""
+msgstr "Permet al sistema actuar com un servidor FTP."
 
 #: ../comps-el6.xml.in.h:87
 msgid "General Purpose Desktop"
-msgstr ""
+msgstr "Escriptori de propòsit general"
 
 #: ../comps-el6.xml.in.h:88
 msgid "A general purpose desktop."
-msgstr ""
+msgstr "Un escriptori de propòsit general."
 
 #: ../comps-el6.xml.in.h:91
 msgid "Graphical Administration Tools"
-msgstr ""
+msgstr "Eines gràfiques d'administració"
 
 #: ../comps-el6.xml.in.h:92
 msgid ""
@@ -2409,7 +2410,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:93
 msgid "Graphics Creation Tools"
-msgstr ""
+msgstr "Eines de creació de gràfics"
 
 #: ../comps-el6.xml.in.h:94
 msgid "Software for creation and manipulation of still images."
@@ -2417,15 +2418,15 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:97
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Utilitzats de monitorització de maquinari"
 
 #: ../comps-el6.xml.in.h:98
 msgid "A set of tools to monitor server hardware"
-msgstr ""
+msgstr "Un conjunt d'eines per monitoritzar el maquinari del servidor"
 
 #: ../comps-el6.xml.in.h:107
 msgid "Infiniband Support"
-msgstr ""
+msgstr "Suport per a l'Infiniband"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
@@ -2435,27 +2436,27 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
-msgstr ""
+msgstr "Programari per introduir text internacional."
 
 #: ../comps-el6.xml.in.h:112
 msgid "Internet Applications"
-msgstr ""
+msgstr "Aplicacions d'Internet"
 
 #: ../comps-el6.xml.in.h:113
 msgid "Email, chat, and video conferencing software."
-msgstr ""
+msgstr "Programari de correu electrònic, xat i videoconferència."
 
 #: ../comps-el6.xml.in.h:114
 msgid "Internet Browser"
-msgstr ""
+msgstr "Navegador d'Internet"
 
 #: ../comps-el6.xml.in.h:115
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Navegador web Firefox"
 
 #: ../comps-el6.xml.in.h:120
 msgid "Java Platform"
-msgstr ""
+msgstr "Plataforma Java"
 
 #: ../comps-el6.xml.in.h:121
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
@@ -2463,7 +2464,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:127
 msgid "A KDE desktop."
-msgstr ""
+msgstr "Un escriptori KDE."
 
 #: ../comps-el6.xml.in.h:134
 msgid "Large Systems Performance"
@@ -2475,7 +2476,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:138
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Compatibilitat per al llegat UNIX"
 
 #: ../comps-el6.xml.in.h:139
 msgid ""
@@ -2485,7 +2486,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:140
 msgid "Legacy X Window System compatibility"
-msgstr ""
+msgstr "Compatibilitat per al llegat de l'X Window System"
 
 #: ../comps-el6.xml.in.h:141
 msgid ""
@@ -2495,7 +2496,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr ""
+msgstr "Compatibilitat bàsica per al llegat de l'X Window System"
 
 #: ../comps-el6.xml.in.h:143
 msgid ""
@@ -2505,79 +2506,79 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
-msgstr ""
+msgstr "Servidor de correu electrònic"
 
 #: ../comps-el6.xml.in.h:149
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr ""
+msgstr "Permet al sistema actuar com un servidor de correu electrònic SMTP i/o IMAP."
 
 #: ../comps-el6.xml.in.h:150
 msgid "Mainframe Access"
-msgstr ""
+msgstr "Accés a ordinadors centals"
 
 #: ../comps-el6.xml.in.h:151
 msgid "Tools for accessing mainframe computing resources."
-msgstr ""
+msgstr "Eines per accedir als recursos de computació d'ordinadors centrals."
 
 #: ../comps-el6.xml.in.h:163
 msgid "MySQL Database server"
-msgstr ""
+msgstr "Servidor de bases de dades MySQL"
 
 #: ../comps-el6.xml.in.h:164
 msgid "The MySQL SQL database server, and associated packages."
-msgstr ""
+msgstr "El servidor de bases de dades SQL, MySQL, i els paquets associats."
 
 #: ../comps-el6.xml.in.h:165
 msgid "MySQL Database client"
-msgstr ""
+msgstr "Client de bases de dades MySQL"
 
 #: ../comps-el6.xml.in.h:166
 msgid "The MySQL SQL database client, and associated packages."
-msgstr ""
+msgstr "El client de bases de dades SQL, MySQL, i els paquets associats."
 
 #: ../comps-el6.xml.in.h:168
 msgid "Network file system client"
-msgstr ""
+msgstr "Client de sistema de fitxers per xarxa"
 
 #: ../comps-el6.xml.in.h:169
 msgid "Enables the system to attach to network storage."
-msgstr ""
+msgstr "Permet al sistema adjuntar-se a un emmagatzematge per xarxa."
 
 #: ../comps-el6.xml.in.h:170
 msgid "Network Infrastructure Server"
-msgstr ""
+msgstr "Servidor d'infraestructura de xarxa"
 
 #: ../comps-el6.xml.in.h:171
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
-msgstr ""
+msgstr "Servidor per als principals protocols i serveis, com ara DHCP o DNS."
 
 #: ../comps-el6.xml.in.h:172
 msgid "Networking Tools"
-msgstr ""
+msgstr "Eines de xarxa"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Tools for configuring and analyzing computer networks."
-msgstr ""
+msgstr "Eines per configurar i analitzar xarxes d'ordinadors."
 
 #: ../comps-el6.xml.in.h:174
 msgid "NFS file server"
-msgstr ""
+msgstr "Servidor de fitxers NFS"
 
 #: ../comps-el6.xml.in.h:175
 msgid "NFS file server."
-msgstr ""
+msgstr "Servidor de fitxers NFS."
 
 #: ../comps-el6.xml.in.h:179
 msgid "Office Suite and Productivity"
-msgstr ""
+msgstr "Conjunt de programes de productivitat i d'ofimàtica"
 
 #: ../comps-el6.xml.in.h:180
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr ""
+msgstr "Un conjunt de programes d'oficina per a tots els propòsits i altres eines de productivitat."
 
 #: ../comps-el6.xml.in.h:182
 msgid "Performance Tools"
-msgstr ""
+msgstr "Eines de rendiment"
 
 #: ../comps-el6.xml.in.h:183
 msgid ""
@@ -2586,59 +2587,59 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl Support"
-msgstr ""
+msgstr "Suport per al Perl"
 
 #: ../comps-el6.xml.in.h:185
 msgid "Perl interfaces to common libraries and functionality."
-msgstr ""
+msgstr "Interfícies de Perl a biblioteques o funcionalitats comuns."
 
 #: ../comps-el6.xml.in.h:187
 msgid "PHP Support"
-msgstr ""
+msgstr "Suport PHP"
 
 #: ../comps-el6.xml.in.h:188
 msgid "PHP web application framework."
-msgstr ""
+msgstr "Marc de treball per a les aplicacions web de PHP."
 
 #: ../comps-el6.xml.in.h:191
 msgid "PostgreSQL Database server"
-msgstr ""
+msgstr "Servidor de bases de dades PostgreSQL"
 
 #: ../comps-el6.xml.in.h:192
 msgid "The PostgreSQL SQL database server, and associated packages."
-msgstr ""
+msgstr "El servidor de bases de dades SQL, PostgreSQL, i els paquets associats."
 
 #: ../comps-el6.xml.in.h:193
 msgid "PostgreSQL Database client"
-msgstr ""
+msgstr "Client de bases de dades PostgreSQL"
 
 #: ../comps-el6.xml.in.h:194
 msgid "The PostgreSQL SQL database client, and associated packages."
-msgstr ""
+msgstr "El client de bases de dades SQL, PostgreSQL, i els paquets associats."
 
 #: ../comps-el6.xml.in.h:195
 msgid "Printing client"
-msgstr ""
+msgstr "Client d'impressió"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr ""
+msgstr "Eines per imprimir en un impressora local o en un servidor remot d'impressió."
 
 #: ../comps-el6.xml.in.h:197
 msgid "Print Server"
-msgstr ""
+msgstr "Servidor d'impressió"
 
 #: ../comps-el6.xml.in.h:198
 msgid "Allows the system to act as a print server."
-msgstr ""
+msgstr "Permet al sistema actuar com un servidor d'impressió."
 
 #: ../comps-el6.xml.in.h:200
 msgid "Remote Desktop Clients"
-msgstr ""
+msgstr "Clients d'escriptoris remots"
 
 #: ../comps-el6.xml.in.h:205
 msgid "Scientific support"
-msgstr ""
+msgstr "Suport científic"
 
 #: ../comps-el6.xml.in.h:206
 msgid ""
@@ -2647,7 +2648,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
-msgstr ""
+msgstr "Eines de seguretat"
 
 #: ../comps-el6.xml.in.h:208
 msgid "Security tools for integrity and trust verification."
@@ -2655,7 +2656,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:210
 msgid "Server Platform"
-msgstr ""
+msgstr "Plataforma de servidor"
 
 #: ../comps-el6.xml.in.h:211
 msgid "Supported libraries for the Enterprise Linux Server Platform."
@@ -2681,31 +2682,31 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:220
 msgid "Smart card support"
-msgstr ""
+msgstr "Suport de targetes intel·ligents"
 
 #: ../comps-el6.xml.in.h:221
 msgid "Support for using smart card authentication."
-msgstr ""
+msgstr "Suport per a l'autentificació amb targetes intel·ligents."
 
 #: ../comps-el6.xml.in.h:225
 msgid "FCoE Storage Client"
-msgstr ""
+msgstr "Client d'emmagatzematge FCoE"
 
 #: ../comps-el6.xml.in.h:226
 msgid "Fiber Channel over Ethernet support"
-msgstr ""
+msgstr "Suport FCoE"
 
 #: ../comps-el6.xml.in.h:227
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Client d'emmagatzematge iSCSI"
 
 #: ../comps-el6.xml.in.h:228
 msgid "iSCSI client support"
-msgstr ""
+msgstr "Suport pel al client iSCSI"
 
 #: ../comps-el6.xml.in.h:229
 msgid "Storage Availability Tools"
-msgstr ""
+msgstr "Eines disponibles d'emmagatzemament"
 
 #: ../comps-el6.xml.in.h:230
 msgid "A set of tools to manage SAN path availability"
@@ -2713,27 +2714,27 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:231
 msgid "Network Storage Server"
-msgstr ""
+msgstr "Servidor d'emmagatzematge per xarxa"
 
 #: ../comps-el6.xml.in.h:232
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "Servidor d'emmagatzematge per xarxa iSCSI, iSER i iSNS."
 
 #: ../comps-el6.xml.in.h:236
 msgid "System administration tools"
-msgstr ""
+msgstr "Eines d'administració del sistema"
 
 #: ../comps-el6.xml.in.h:237
 msgid "Utilities useful in system administration."
-msgstr ""
+msgstr "Utilitats útils en l'administració del sistema."
 
 #: ../comps-el6.xml.in.h:238
 msgid "System Management"
-msgstr ""
+msgstr "Gestió del sistema"
 
 #: ../comps-el6.xml.in.h:239
 msgid "Various low-level hardware management frameworks."
-msgstr ""
+msgstr "Una sèrie de marcs de treball per a la gestió de maquinari a nivell baix."
 
 #: ../comps-el6.xml.in.h:240
 msgid "Messaging Client Support"
@@ -2753,7 +2754,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:244
 msgid "SNMP Support"
-msgstr ""
+msgstr "Suport per al SNMP"
 
 #: ../comps-el6.xml.in.h:245
 msgid "SNMP management agent."
@@ -2769,27 +2770,27 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:251
 msgid "Technical Writing"
-msgstr ""
+msgstr "Escriptura tècnica"
 
 #: ../comps-el6.xml.in.h:252
 msgid "Tools for writing technical documentation."
-msgstr ""
+msgstr "Eines per escriure documentació tècnica."
 
 #: ../comps-el6.xml.in.h:255
 msgid "TeX support"
-msgstr ""
+msgstr "Suport per al TeX"
 
 #: ../comps-el6.xml.in.h:256
 msgid "Support for the TeX document formatting system."
-msgstr ""
+msgstr "Suport per al sistema de formatació de documents TeX."
 
 #: ../comps-el6.xml.in.h:261
 msgid "TurboGears application framework"
-msgstr ""
+msgstr "Marc de treball per a les aplicacions de TurboGears"
 
 #: ../comps-el6.xml.in.h:262
 msgid "TurboGears web application framework."
-msgstr ""
+msgstr "Marc de treball per a les aplicacions web de TurboGears."
 
 #: ../comps-el6.xml.in.h:272
 msgid "Provides an environment for hosting virtualized guests."
@@ -2801,7 +2802,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:275
 msgid "Virtualization Platform"
-msgstr ""
+msgstr "Plataforma de virtualització"
 
 #: ../comps-el6.xml.in.h:276
 msgid ""
@@ -2811,7 +2812,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
-msgstr ""
+msgstr "Eines de virtualització"
 
 #: ../comps-el6.xml.in.h:278
 msgid "Tools for offline virtual image management."
@@ -2821,19 +2822,19 @@ msgstr ""
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
+msgstr "Permet al sistema actuar com un servidor web, i executar aplicacions web de Perl i de Python."
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"
-msgstr ""
+msgstr "Contenidor web de Servlet"
 
 #: ../comps-el6.xml.in.h:283
 msgid "Allows the system to host Java servlets."
-msgstr ""
+msgstr "Permet al sistema allotjar servlets de Java."
 
 #: ../comps-el6.xml.in.h:285
 msgid "Workstation Policy"
-msgstr ""
+msgstr "Política d'estació de treball"
 
 #: ../comps-el6.xml.in.h:286
 msgid "Policy packages for the Workstation variant."
@@ -2841,7 +2842,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:288
 msgid "X Window System Support."
-msgstr ""
+msgstr "Suport per l'X Window System."
 
 #: ../comps-el6.xml.in.h:293
 msgid "Desktops"
@@ -2849,12 +2850,12 @@ msgstr "Escriptoris"
 
 #: ../comps-el6.xml.in.h:294
 msgid "Desktops and thin clients."
-msgstr ""
+msgstr "Escriptoris i clients lleugers."
 
 #: ../comps-el6.xml.in.h:296
 msgid "End-user applications."
-msgstr ""
+msgstr "Aplicacions d'usuari fina."
 
 #: ../comps-el6.xml.in.h:298
 msgid "Development tools and libraries."
-msgstr ""
+msgstr "Eines i biblioteques de desenvolupament."

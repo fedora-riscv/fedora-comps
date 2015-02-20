@@ -5,16 +5,16 @@
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Espen Stefansen <espenas@gmail.com>, 2007
-# Kjartan Maraas <kmaraas@gnome.org>, 2012-2013
+# Kjartan Maraas <kmaraas@gnome.org>, 2012-2013,2015
 # Kjartan Maraas <kmaraas@gnome.org>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/fedora/language/nb/)\n"
+"PO-Revision-Date: 2015-02-17 18:09+0000\n"
+"Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/comps/language/nb/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1979,7 +1979,7 @@ msgstr "Vanlig sett med verktøy som utvider minimal installasjon."
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Grunnleggende webtjener"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
@@ -2041,11 +2041,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Minimal installasjon"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Basisfunksjonalitet."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
@@ -2054,7 +2054,7 @@ msgstr "KDE skrivebord"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2062,7 +2062,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Enkelt skrivebord"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
@@ -2080,7 +2080,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "Utviklingsverktøy for RPM"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
@@ -2092,7 +2092,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "Utviklingsverktøy og biblioteker for C"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
@@ -2102,11 +2102,11 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Støtte for Lepcha"
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB database (MySQL)"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
@@ -2115,7 +2115,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Sikkerhet"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
@@ -2133,7 +2133,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "3D-utskrift"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."

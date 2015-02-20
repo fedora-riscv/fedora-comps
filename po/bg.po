@@ -13,9 +13,9 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Bulgarian (http://www.transifex.com/projects/p/fedora/language/bg/)\n"
+"PO-Revision-Date: 2013-12-09 12:06+0000\n"
+"Last-Translator: Valentin Laskov <laskov@festa.bg>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/comps/language/bg/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -952,7 +952,7 @@ msgstr "Поддръжка на Manx"
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -960,7 +960,7 @@ msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "Десктопът MATE е базиран на GNOME 2 и предоставя мощен графичен потребителски интерфейс за потребители, които търсят лесен за употреба, традиционен графичен интерфейс."
 
 #: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
@@ -1167,7 +1167,7 @@ msgstr "Роботика"
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Комплект пакети за роботика"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
@@ -1646,7 +1646,7 @@ msgstr "Текстове и друго свободно съдържание."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Инструменти на Anaconda"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1699,19 +1699,19 @@ msgstr "Възможно най-малката инсталация за вир�
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Локален X.org display сървър"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Мултимедия"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Обща аудио/видео среда за десктопи"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
@@ -1755,14 +1755,14 @@ msgstr "Работен комплект LibreOffice"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma Workspaces"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "The KDE Plasma Workspaces, графичен потребителски интерфейс с големи възможности за конфигуриране, включващ панел, работна среда, системни икони и инструменти, и всякакви, много мощни KDE приложения."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
@@ -1802,251 +1802,251 @@ msgstr "KDE Telepathy приложения"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Приложения за Xfce десктопа"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Комплект от често употребявани приложения за Xfce десктоп"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Допълнителни модули за Xfce панела"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Разширява функционалността на Xfce панела"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Поддръжка на мултимедия за Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Офис"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Офис комплект за Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Приложения за десктопа LXDE"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Комплект от често употребявани приложения за десктопа LXDE"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Поддръжка на мултимедия за LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Офис"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Офис комплект за LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Допълнителни Sugar дейности"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Допълнителни дейности за употреба в средата Sugar."
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Основен X Window десктоп"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Основна X Window система с избор на мениджър на прозорци."
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon предоставя традиционно изглеждащ десктоп, разширени функционалности, лесна употреба, мощ и приспособимост."
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "tiling мениджър на прозорци"
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad за GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "XMonad мениджър на прозорци с GNOME"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP балансьор на натоварването."
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "JBoss Сървър за приложения"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Java Сървър за приложения."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Мащабируема високопроизводителна NoSQL база данни."
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl за уеб"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Основна Perl поддръжка за уеб приложения."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Скриптов език за уеб програмиране с общо предназначение."
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Основна Python поддръжка за уеб приложения."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Стек за уеб приложения Ruby on Rails."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat Сървър за уеб приложения."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Load Balancer"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Поддръжка на балансиране на натоварването на мрежовия трафик"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "High Availability"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Инфраструктура за услуги с висока надеждност и/или споделени запаметяващи устройства."
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Стандартен"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Обичаен комплект от инструменти, разширяващ минималната инсталация."
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Основен уеб сървър"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce софтуерна разработка"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Инсталирайте тези пакети, за да можете да разработвате GTK+ и Xfce графични приложения."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME Работен плот"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce Работен плот"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE Работен плот"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Cinnamon Работен плот"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE Работен плот"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Работна станция за разработка и Creative"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Работна станция за разработка на софтуер, хардуер, графика или друго съдържание."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Сървър за предоставяне на статично или динамично съдържание в Интернет."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Infrastructure Server"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Сървър за предоставяне на инфраструктурни мрежови услуги."
 
 #: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Основна X Window система"
 
 #: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "X Window система без пълна среда за работен плот."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Минимална инсталация"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Основна функционалност."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
@@ -2055,102 +2055,102 @@ msgstr "KDE Работен плот"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Комплект от често употребявани KDE приложения"
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Основен работен плот"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad за MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad мениджър на прозорци с MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Тези инструменти са предназначени за професионални дизайнери за графика, уеб и анимации"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "Инструменти за RPM разработка"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "Тези инструменти включват базови инструменти за разработка като rpmbuild."
 
 #: ../comps-f19.xml.in.h:111
 msgid "These tools include general development tools such as git and cvs."
-msgstr ""
+msgstr "Тези инструменти включват базови инструменти за разработка като git и cvs."
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C Инструменти и библиотеки за разработка"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "Тези инструменти включват базови инструменти за разработка като automake, gcc и дебъгери."
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Поддръжка на Lepcha"
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB (MySQL) база данни"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "Тази група съдържа пакети, полезни за употреба с MariaDB (MySQL)."
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Security Lab"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Инструменти за наблюдение на сигурността, разкриване на пробиви, възстановяване на системата, обучение и тестване на технологии за повишаване на сигурността."
 
 #: ../comps-f19.xml.in.h:250
 msgid "Guest Agents"
-msgstr ""
+msgstr "Guest Agents"
 
 #: ../comps-f19.xml.in.h:251
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Агенти, използвани при работа в хипервайзор."
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Guest Desktop Agents"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Агенти, използвани при работа във виртуални десктопи."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "3D Печатане"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Софтуер за 3D печатане"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X Window система с избор на мениджър на прозорци."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""

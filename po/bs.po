@@ -5,14 +5,15 @@
 # Translators:
 # Adnan Hodzic <AbsintheSyringe@gmail.com>, 2007
 # Dimitris Glezos <glezos@transifex.com>, 2011
+# Edmon Begoli <ebegoli@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Bosnian (http://www.transifex.com/projects/p/fedora/language/bs/)\n"
+"PO-Revision-Date: 2014-02-14 14:06+0000\n"
+"Last-Translator: Edmon Begoli <ebegoli@gmail.com>\n"
+"Language-Team: Bosnian (http://www.transifex.com/projects/p/comps/language/bs/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -231,7 +232,7 @@ msgstr ""
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr ""
+msgstr "Kolekcija paketa "
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
@@ -1312,7 +1313,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:257
 #: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:238
 msgid "A software playground for learning about learning."
-msgstr ""
+msgstr "Softversko igraliste za ucenje o ucenju."
 
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:258
 #: ../comps-el6.xml.in.h:233

@@ -3,18 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
+# Andi Chandler <andi@gowling.com>, 2014
 # Bruce Cowan <bruce@bcowan.me.uk>, 2011
 # Bruce Cowan <l10n@bcowan.fastmail.co.uk>, 2011
 # Dimitris Glezos <glezos@transifex.com>, 2011
-# readmanr <robert_readman@hotmail.com>, 2013
+# Robert Readman <robert_readman@hotmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/fedora/language/en_GB/)\n"
+"PO-Revision-Date: 2014-09-02 10:04+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/comps/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1690,11 +1691,11 @@ msgstr "Virtualisation Client"
 
 #: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "Virtualisation Hypervisor"
 
 #: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
-msgstr ""
+msgstr "Smallest possible virtualisation host installation"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
@@ -2054,7 +2055,7 @@ msgstr "KDE Desktop"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2066,17 +2067,17 @@ msgstr "Basic Desktop"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad for MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad window manager with MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "These packages are targeted towards professional designers related to graphics, web and animations"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
@@ -2137,7 +2138,7 @@ msgstr "Guest Desktop Agents"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Agents used when running as a virtualised desktop."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"

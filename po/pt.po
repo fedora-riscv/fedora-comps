@@ -4,6 +4,7 @@
 # 
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
+# Fernando Carvalho <phaetonkde@gmail.com>, 2014
 # nunmiranda <nunmiranda@gmail.com>, 2011
 # Ricardo Pinto <ricardo.bigote@gmail.com>, 2012
 # Rui Gouveia <rui.gouveia@gmail.com>, 2010, 2011
@@ -12,9 +13,9 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Portuguese (http://www.transifex.com/projects/p/fedora/language/pt/)\n"
+"PO-Revision-Date: 2014-09-23 03:54+0000\n"
+"Last-Translator: Fernando Carvalho <phaetonkde@gmail.com>\n"
+"Language-Team: Portuguese (http://www.transifex.com/projects/p/comps/language/pt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -951,7 +952,7 @@ msgstr "Suporte a Manx"
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -959,7 +960,7 @@ msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "MATE Desktop é baseado no GNOME 2 e fornece um interface gráfico poderosa para os utilizadores que procuram um simples e fácil de usar interface de desktop tradicional."
 
 #: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
@@ -1166,7 +1167,7 @@ msgstr "Robótica"
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Suíte de pacotes para o desenvolvimento da robótica"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
@@ -1645,7 +1646,7 @@ msgstr "Texto entre outros conteúdos Livres."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Ferramentas Anaconda"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1698,354 +1699,354 @@ msgstr "A mais pequena instalação de virtualização possível"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Servidor de exibição Local X.org"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Quadro de áudio / vídeo comum para desktops"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "O GNOME é um ambiente de trabalho amigável altamente intuitivo."
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Jogos extras para o desktop GNOME"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Uma variedade de jogos para o desktop GNOME"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox Web Browser"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "O Firefox web browser"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany Web Browser"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "Epiphany Web Browser para GNOME"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "LibreOffice Suite de Productividade"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "Espaços de Trabalho Plasma do KDE"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "O Plasma KDE Workspaces, um interface gráfico altamente configurável que inclui um painel, desktop, ícones do sistema e widgets de desktop, e muitos aplicativos do KDE poderosos."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "Aplicações KDE"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Um conjunto de aplicaçoes comuns KDE"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "Aplicações educacionais KDE"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "Suporte multimedia KDE"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Suporte multimedia para o KDE"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE Office"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "Aplicações KDE Office"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "Aplicações KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Aplicaçoes para o desktop Xfce"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Um conjunto de aplicaçoes comuns para o Xfce Desktop"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Plugins adicionais para o painel de Xfce"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Estender a funcionalidade do painel de Xfce"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Suporte multimedia para Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Office"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Office suite para Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Aplicaçoes para o LXDE Desktop"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Um conjunto de aplicaçoes comuns para o LXDE desktop"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Suporte multimedia para LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Office"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Office suite para LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Actividades Sugar adicionais"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Actividades adicionais para usar com o ambiente Sugar"
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Janela de desktop Basic X"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Sistema de janelas Basic X com a escolha de gestor de janelas"
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon oferece uma área de trabalho com um layout tradicional, recursos avançados, fáceis de usar, poderoso e flexível."
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Um gerenciador de janelas lado a lado"
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad para GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "Gestor de janelas XMonad com GNOME"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP Load Balancer."
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "Servidor de aplicaçoes JBoss"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Servidor de aplicaçoes Java"
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Banco de dados escalável de alta performance NoSQL."
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl para Web"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Suporte de aplicação web Basic Perl."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Desenvolvimento web de linguagem script de propósito geral "
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Suporte de aplicações web Basic Python."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails pilha de aplicativos web."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Aplicaçao Tomcat de servidor web"
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Load Balancer"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Suporte de balanceamento de carga para tráfego de rede"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Disponibilidade Alta"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Infra-estrutura para serviços de alta disponibilidade e / ou armazenamento compartilhado."
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Padrao"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Conjunto comum de serviços públicos que se estendem a instalação mínima."
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Servidor Web Basic"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Desenvolvimento de Software para Xfce"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Instale estes pacotes se quiser desenvolver aplicações gráficas GTK+ e Xfce."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho GNOME"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho Xfce"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho LXDE"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho Cinnamon"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho MATE"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Desenvolvimento e Estaçao de Trabalho Criativa"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Estaçao de Trabalho para software, hardware, gráficos, ou desenvolvimento de conteúdo."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Servidor para servir conteúdo estático e dinâmico internet."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Servidor de infra-estrutura"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Servidor para operar serviços de infra-estrutura de rede."
 
 #: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Sistema de Janelas Basic X"
 
 #: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "Sistema de Janelas X sem um ambiente de trabalho completo."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Instalaçao minima"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Funcionalidades basicas."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
@@ -2054,102 +2055,102 @@ msgstr "Ambiente de Trabalho KDE"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Um conjunto de aplicaçoes comuns KDE"
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Àrea de Trabalho Basic"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad para MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "Gestor de janelas XMonad com MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Estes pacotes são direcionados para designers profissionais relacionados com gráficos, web e animações"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "Ferramentas de desenvolvimento RPM"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "Estas ferramentas incluem ferramentas de desenvolvimento essenciais, tais como rpmbuild."
 
 #: ../comps-f19.xml.in.h:111
 msgid "These tools include general development tools such as git and cvs."
-msgstr ""
+msgstr "Essas ferramentas incluem ferramentas de desenvolvimento gerais, como git e cvs."
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "Ferramentas de desenvolvimento e bibliotecas C"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "Estas ferramentas incluem ferramentas de desenvolvimento essenciais, como automake, gcc e depuradores."
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Suporte a Lepcha"
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "Base de dados MariaDB (MySQL)"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "Este grupo de pacotes, inclui pacotes uteis para utilização com o MariaDB (MySQL)."
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Laboratório de Segurança"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Ferramentas para auditoria de segurança, forense, de recuperação do sistema, e metodologias de testes de segurança de ensino."
 
 #: ../comps-f19.xml.in.h:250
 msgid "Guest Agents"
-msgstr ""
+msgstr "Agentes de convidados"
 
 #: ../comps-f19.xml.in.h:251
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Agentes usados quando utilizado sob um hypervisor."
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Agentes de Àrea de trabalho convidado"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Agentes utilizados durante a execução como um desktop virtualizado."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "Impressao 3D"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Software de Impressao 3D"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "Sistema de janelas X com a escolha de gestor de janelas."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""

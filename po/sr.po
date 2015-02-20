@@ -5,14 +5,15 @@
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Milos Mijatovic <mijatix@gmail.com>, 2008
+# Momcilo Medic <medicmomcilo@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Serbian (http://www.transifex.com/projects/p/fedora/language/sr/)\n"
+"PO-Revision-Date: 2014-11-19 10:37+0000\n"
+"Last-Translator: Momcilo Medic <medicmomcilo@gmail.com>\n"
+"Language-Team: Serbian (http://www.transifex.com/projects/p/comps/language/sr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,7 +38,7 @@ msgstr "Подршка за африкански"
 
 #: ../comps-f16.xml.in.h:4 ../comps-f17.xml.in.h:4
 msgid "Akan Support"
-msgstr ""
+msgstr "Подршка за акански"
 
 #: ../comps-f16.xml.in.h:5 ../comps-f17.xml.in.h:5 ../comps-el6.xml.in.h:4
 msgid "Albanian Support"
@@ -69,7 +70,7 @@ msgstr "Подршка за асамешки"
 
 #: ../comps-f16.xml.in.h:11 ../comps-f17.xml.in.h:12
 msgid "Asturian Support"
-msgstr ""
+msgstr "Подршка за астуријски"
 
 #: ../comps-f16.xml.in.h:12 ../comps-f17.xml.in.h:13 ../comps-f18.xml.in.h:77
 #: ../comps-f19.xml.in.h:77 ../comps-el5.xml.in.h:7
@@ -175,7 +176,7 @@ msgstr "Подршка за чичеву"
 
 #: ../comps-f16.xml.in.h:34 ../comps-f17.xml.in.h:36
 msgid "Chuvash Support"
-msgstr ""
+msgstr "Подршка за чувашки"
 
 #: ../comps-f16.xml.in.h:35 ../comps-f17.xml.in.h:39
 msgid "Clustering"
@@ -285,13 +286,13 @@ msgstr "Подршка за дански"
 #: ../comps-f16.xml.in.h:55 ../comps-f17.xml.in.h:59 ../comps-f18.xml.in.h:104
 #: ../comps-f19.xml.in.h:104
 msgid "Design Suite"
-msgstr ""
+msgstr "Дизајн група"
 
 #: ../comps-f16.xml.in.h:56 ../comps-f17.xml.in.h:60 ../comps-f18.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers, like the Fedora "
 "Design Team."
-msgstr ""
+msgstr "Ови пакети су намењени професионалним дизајнерима, као што је Fedora Design Team - Федора дизајн тим."
 
 #: ../comps-f16.xml.in.h:57 ../comps-f17.xml.in.h:61 ../comps-f18.xml.in.h:106
 #: ../comps-f19.xml.in.h:106
@@ -595,7 +596,7 @@ msgstr "Подршка за гуџаратски"
 
 #: ../comps-f16.xml.in.h:114 ../comps-f17.xml.in.h:119
 msgid "Haitian Creole Support"
-msgstr ""
+msgstr "Подршка за хаићански креолски"
 
 #: ../comps-f16.xml.in.h:115 ../comps-f17.xml.in.h:120
 #: ../comps-f18.xml.in.h:149 ../comps-f19.xml.in.h:153
@@ -788,7 +789,7 @@ msgstr "Подршка за курдски"
 
 #: ../comps-f16.xml.in.h:149 ../comps-f17.xml.in.h:154
 msgid "Kyrgyz Support"
-msgstr ""
+msgstr "Подршка за киргиски"
 
 #: ../comps-f16.xml.in.h:150 ../comps-f17.xml.in.h:155
 #: ../comps-el6.xml.in.h:133
@@ -845,17 +846,17 @@ msgstr "Подршка за застарели софтвер"
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
 #: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "LibreOffice развој"
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
 #: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr ""
+msgstr "Ови пакети су од користи када развијате LibreOffice проширења или макрое."
 
 #: ../comps-f16.xml.in.h:162 ../comps-f17.xml.in.h:167
 msgid "Lingala Support"
-msgstr ""
+msgstr "Подршка за лингала"
 
 #: ../comps-f16.xml.in.h:163 ../comps-f17.xml.in.h:168
 #: ../comps-el6.xml.in.h:144
@@ -864,7 +865,7 @@ msgstr "Подршка за литвански"
 
 #: ../comps-f16.xml.in.h:164 ../comps-f17.xml.in.h:169
 msgid "Low German Support"
-msgstr ""
+msgstr "Подршка за доњенемачки"
 
 #: ../comps-f16.xml.in.h:165 ../comps-f17.xml.in.h:170
 #: ../comps-el6.xml.in.h:145
@@ -873,11 +874,11 @@ msgstr "Подршка за нижи саксонски"
 
 #: ../comps-f16.xml.in.h:166 ../comps-f17.xml.in.h:171
 msgid "Lower Sorbian Support"
-msgstr ""
+msgstr "Подршка за доњелужички"
 
 #: ../comps-f16.xml.in.h:167 ../comps-f17.xml.in.h:172
 msgid "Lule Sami Support"
-msgstr ""
+msgstr "Подршка за лулејсколапонски"
 
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:173
 #: ../comps-el6.xml.in.h:146
@@ -949,7 +950,7 @@ msgstr "Подршка за мански"
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -957,7 +958,7 @@ msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "МАТЕ Окружење је заснован на GNOME 2 и обезбеђује моћно графичко окружење за кориснике који траже лако и једноставно традиционално окружење."
 
 #: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
@@ -972,23 +973,23 @@ msgstr "Подршка за марати"
 
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
-msgstr ""
+msgstr "MeeGo NetBook UX Окружење"
 
 #: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
-msgstr ""
+msgstr "MeeGo NetBook UX је окружење за NetBook/NetTop уређаје."
 
 #: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:194
 #: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
 #: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
 #: ../comps-el6.xml.in.h:161
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Алати за Milkymist хардверске инжењере."
 
 #: ../comps-f16.xml.in.h:188 ../comps-f17.xml.in.h:196
 #: ../comps-f18.xml.in.h:191 ../comps-f19.xml.in.h:196
@@ -1009,7 +1010,7 @@ msgstr "Подршка за монголски"
 
 #: ../comps-f16.xml.in.h:191 ../comps-f17.xml.in.h:199
 msgid "Mossi Support"
-msgstr ""
+msgstr "Подршка за моси"
 
 #: ../comps-f16.xml.in.h:192 ../comps-f17.xml.in.h:200
 #: ../comps-f18.xml.in.h:193
@@ -1107,7 +1108,7 @@ msgstr "Подршка за орију"
 
 #: ../comps-f16.xml.in.h:209 ../comps-f17.xml.in.h:217
 msgid "Oromo Support"
-msgstr ""
+msgstr "Подршка за оромо"
 
 #: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
 #: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
@@ -1154,17 +1155,17 @@ msgstr "Подршка за панџаби"
 
 #: ../comps-f16.xml.in.h:218 ../comps-f17.xml.in.h:226
 msgid "Quechua Support"
-msgstr ""
+msgstr "Подршка за кечуа"
 
 #: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
 #: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
-msgstr ""
+msgstr "Роботика"
 
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Група пакета за развој роботике"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
@@ -1220,12 +1221,12 @@ msgstr "Ова група садржи све Red Hat-ове прилагође�
 
 #: ../comps-f16.xml.in.h:231 ../comps-f17.xml.in.h:240
 msgid "Shuswap Support"
-msgstr ""
+msgstr "Подршка за шусвап"
 
 #: ../comps-f16.xml.in.h:232 ../comps-f17.xml.in.h:241
 #: ../comps-f18.xml.in.h:221 ../comps-f19.xml.in.h:228
 msgid "Simplified Chinese Support"
-msgstr ""
+msgstr "Подршка за поједностављени кинески"
 
 #: ../comps-f16.xml.in.h:233 ../comps-f17.xml.in.h:242
 #: ../comps-f18.xml.in.h:222 ../comps-f19.xml.in.h:229
@@ -1398,7 +1399,7 @@ msgstr "Подршка за тибетански"
 
 #: ../comps-f16.xml.in.h:263 ../comps-f17.xml.in.h:272
 msgid "Tigrinya Support"
-msgstr ""
+msgstr "Подршка за тигриња"
 
 #: ../comps-f16.xml.in.h:264 ../comps-f17.xml.in.h:273
 msgid "Tonga Support"
@@ -1407,7 +1408,7 @@ msgstr "Подршка за тонгу"
 #: ../comps-f16.xml.in.h:265 ../comps-f17.xml.in.h:274
 #: ../comps-f18.xml.in.h:240 ../comps-f19.xml.in.h:247
 msgid "Traditional Chinese Support"
-msgstr ""
+msgstr "Подршка за традиционални кинески"
 
 #: ../comps-f16.xml.in.h:266 ../comps-f17.xml.in.h:275
 #: ../comps-el6.xml.in.h:259
@@ -1530,7 +1531,7 @@ msgstr "Ови пакети омогућавају развој програма
 #: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
@@ -1555,7 +1556,7 @@ msgstr "Подршка за косу"
 #: ../comps-f16.xml.in.h:293 ../comps-f17.xml.in.h:304
 #: ../comps-f18.xml.in.h:252 ../comps-f19.xml.in.h:264
 msgid "Yiddish Support"
-msgstr ""
+msgstr "Подршка за јидиш"
 
 #: ../comps-f16.xml.in.h:294 ../comps-f17.xml.in.h:305
 #: ../comps-el6.xml.in.h:292
@@ -1643,511 +1644,511 @@ msgstr "Текст и други слободан садржај."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anaconda алати"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
-msgstr ""
+msgstr "Подршка за бодо"
 
 #: ../comps-f17.xml.in.h:37 ../comps-f18.xml.in.h:88 ../comps-f19.xml.in.h:88
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "Cloud инфраструктура"
 
 #: ../comps-f17.xml.in.h:38 ../comps-f18.xml.in.h:89 ../comps-f19.xml.in.h:89
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "Пакети за инфраструктуру cloud рачунарства."
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
 #: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
-msgstr ""
+msgstr "Подршка за догри"
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
 #: ../comps-f19.xml.in.h:188
 msgid "Manipuri Support"
-msgstr ""
+msgstr "Подршка за манипури"
 
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
-msgstr ""
+msgstr "Медицинске апликације"
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
 #: ../comps-f19.xml.in.h:193
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "Ово је група апликација повезаних са медицинском негом."
 
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
 #: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
-msgstr ""
+msgstr "Подршка за сантали"
 
 #: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
-msgstr ""
+msgstr "Клијент за виртуелизацију"
 
 #: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
-msgstr ""
+msgstr "Надзорник виртуелизације"
 
 #: ../comps-f17.xml.in.h:288
 msgid "Smallest possible virtualization host installation"
-msgstr ""
+msgstr "Најмања могућа инсталација сервера за виртуелизацију"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Локални X.org сервер за приказ"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Мултимедија"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Звучни и видео развојни оквир уобичајен за окружења"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME је веома интуитивно и кориснички пријатно окружење."
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Додатне игре за GNOME окружење"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Разнолике игре за GNOME окружење"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox веб претраживач"
 
 #: ../comps-f18.xml.in.h:10 ../comps-f19.xml.in.h:10
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "Firefox веб претраживач"
 
 #: ../comps-f18.xml.in.h:11 ../comps-f19.xml.in.h:11
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany веб претраживач"
 
 #: ../comps-f18.xml.in.h:12 ../comps-f19.xml.in.h:12
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "Epiphany веб претраживач за GNOME"
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "LibreOffice група за продуктивност"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma Workspaces"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "KDE Plasma Workspaces, веома подесиво графичко окружење које укључује панел, позадину, системске иконице, виџете за позадину и много моћних KDE програма."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE програми"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Скуп уобичајених KDE програма"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE образовни програми"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE подршка за мултимедију"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "KDE подршка за мултимедију"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE Office"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE Office програми"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE Telepathy програми"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Програми за Xfce окружење"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Скуп уобичајених програма за Xfce окружење"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Додаци за Xfce панел"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Проширивање функционалности Xfce панела"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Xfce подршка за мултимедију"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Office"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Група канцеларијских програма за Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Програми за LXDE окружење"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Скуп уобичајених програма за LXDE окружење"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "LXDE подршка за мултимедију"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Office"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Група канцеларијских програма за LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Додатне активности за Sugar"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Додатне активности за употребу са Sugar окружењем."
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Основно X Window окружење"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Основни X Window систем са избором управника прозора."
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon пружа окружење са традиционалним распоредом, напредним функцијама, које је једноставно за употребу, моћно и прилагодљиво."
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Уклапајући управник прозора"
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad за GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "XMonad управник прозора са GNOME-ом"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP распоређивач оптерећења."
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "JBoss сервер за програме"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Java сервер за програме."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Скалабилна NoSQL база података високих перформанси."
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl за веб"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Основна подршка за Perl веб програме."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Опште наменски програмски језик за веб развој."
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Основна подршка за Python веб програме."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails склоп веб програма."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat сервер за веб програме."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Распоређивач оптерећења"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Подршка за распоређивање мрежног протока"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Висока доступност"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Инфраструктура за високо доступне сервисе и/или дељена складишта."
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Уобичајено"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Уобичајени скуп алатки који проширују минималну инсталацију."
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Основни веб сервер"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Развој Xfce софтвера"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Инсталирајте ове пакете да бисте развијали GTK+ и Xfce графичке програме."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME окружење"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce окружење"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE окружење"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Cinnamon окружење"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE окружење"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Радна станица за развој и креативност"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Радна станица за софтверски, хардверски и садржајски развој"
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Сервер за опслуживање статичког и динамичког Интернет садржаја."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Сервер за инфраструктуру"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Сервер за функционисање сервиса мрежних инфраструктура"
 
 #: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Основни X Window систем"
 
 #: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "X Window систем без пуног окружења радне површи."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Минимална инсталација"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Основна функционалност"
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
 msgid "KDE Desktop"
-msgstr ""
+msgstr "KDE окружење"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Скуп уобичајених KDE програма"
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Основно окружење"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad за MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad управник прозора са MATE-ом"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Ови пакети су намењени професионалним дизајнерима у вези са графиком, вебом и анимацијама."
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "RPM развојни алати"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "Ови алати садрже основне развојне алате као што је rpmbuild."
 
 #: ../comps-f19.xml.in.h:111
 msgid "These tools include general development tools such as git and cvs."
-msgstr ""
+msgstr "Ови алати садрже уопштене развојне алате као што су git и cvs."
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "Развојни алати и библиотеке за C"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "Ови алати садрже основне развојне алате као што су automake, gcc и алати за отклањање буба."
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Подршка за лепчански"
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB (MySQL) база података"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "Ова група пакета задржи пакете корисне за употребу са MariaDB (MySQL)."
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Сигурносна лабораторија"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Алати за проверу сигурности, форензику, спасавање система и учење методологије тестирања сигурности."
 
 #: ../comps-f19.xml.in.h:250
 msgid "Guest Agents"
-msgstr ""
+msgstr "Агенти гостију"
 
 #: ../comps-f19.xml.in.h:251
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Агенти у употреби када раде под надзорником."
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Агенти десктоп гостију"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Агенти у употреби када раде у виртуелизованом окружењу."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "3D штампа"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Софтвер за 3D штампу"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X Window систем за избором управника прозора."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
@@ -2219,44 +2220,44 @@ msgstr "Програми за разне послове"
 
 #: ../comps-el6.xml.in.h:1
 msgid "Additional Development"
-msgstr ""
+msgstr "Додатни развој"
 
 #: ../comps-el6.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr ""
+msgstr "Додатна заглавља и библиотеке за развој програма"
 
 #: ../comps-el6.xml.in.h:10
 msgid "Backup Client"
-msgstr ""
+msgstr "Клијент за копије"
 
 #: ../comps-el6.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
-msgstr ""
+msgstr "Клијентски алати за повезивање на сервер за копије и израду копија."
 
 #: ../comps-el6.xml.in.h:12
 msgid "Backup Server"
-msgstr ""
+msgstr "Сервер за копије"
 
 #: ../comps-el6.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
-msgstr ""
+msgstr "Софтвер за централизацију копија у инфраструктури."
 
 #: ../comps-el6.xml.in.h:15
 msgid "The basic installation of Enterprise Linux."
-msgstr ""
+msgstr "Основна инсталација Enterprise Linux-а."
 
 #: ../comps-el6.xml.in.h:16
 msgid "Desktop"
-msgstr ""
+msgstr "Десктоп"
 
 #: ../comps-el6.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr ""
+msgstr "Минимално окружење које такође може да се користи као thin клијент."
 
 #: ../comps-el6.xml.in.h:29
 msgid "Chhattisgarhi Support"
-msgstr ""
+msgstr "Подршка за чатисгари"
 
 #: ../comps-el6.xml.in.h:31
 msgid "Chinese Support"
@@ -2264,89 +2265,89 @@ msgstr "Подршка за кинески"
 
 #: ../comps-el6.xml.in.h:32
 msgid "CIFS file server"
-msgstr ""
+msgstr "CIFS датотечни сервер"
 
 #: ../comps-el6.xml.in.h:33
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr ""
+msgstr "Дели дататотеке између Linux и Microsoft Windows система."
 
 #: ../comps-el6.xml.in.h:34
 msgid "Compatibility libraries"
-msgstr ""
+msgstr "Библиотеке за компатибилност"
 
 #: ../comps-el6.xml.in.h:35
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr ""
+msgstr "Библиотеке за компатибилност програма изграђених на претходним верзијама Enterprise Linux-а."
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
-msgstr ""
+msgstr "Конзолни интернет алати"
 
 #: ../comps-el6.xml.in.h:37
 msgid "Console internet access tools, often used by administrators."
-msgstr ""
+msgstr "Конзолни алати за приступ интернету, често коришћени од стране администратора."
 
 #: ../comps-el6.xml.in.h:40
 msgid "Smallest possible installation."
-msgstr ""
+msgstr "Најмања могућа инсталација."
 
 #: ../comps-el6.xml.in.h:44
 msgid "Debugging Tools"
-msgstr ""
+msgstr "Алати за отклањање буба"
 
 #: ../comps-el6.xml.in.h:45
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
+msgstr "Алати за отклањање буба у апликацијама које се не понашају како треба и за дијагностику проблема са перформансама."
 
 #: ../comps-el6.xml.in.h:46
 msgid "Desktop Debugging and Performance Tools"
-msgstr ""
+msgstr "Алати радне површи за отклањање буба и проверу перформанси"
 
 #: ../comps-el6.xml.in.h:47
 msgid "GUI tools for debugging applications and performance."
-msgstr ""
+msgstr "Графички алати за отклањање буба и проверу перформанси у програмима."
 
 #: ../comps-el6.xml.in.h:48
 msgid "Desktop Platform"
-msgstr ""
+msgstr "Десктоп платформа"
 
 #: ../comps-el6.xml.in.h:49
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
-msgstr ""
+msgstr "Подржане библиотеке за Enterprise Linux десктоп платформу."
 
 #: ../comps-el6.xml.in.h:50
 msgid "Desktop Platform Development"
-msgstr ""
+msgstr "Развој десктоп платформе"
 
 #: ../comps-el6.xml.in.h:51
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr ""
+msgstr "Заглавља и библиотеке за развој програма који се покрећу на Enterprise Linux десктоп платформи."
 
 #: ../comps-el6.xml.in.h:52
 msgid "Development tools"
-msgstr ""
+msgstr "Развојни алати"
 
 #: ../comps-el6.xml.in.h:53
 msgid "A basic development environment."
-msgstr ""
+msgstr "Основно развојно окружење."
 
 #: ../comps-el6.xml.in.h:55
 msgid "Tools for connecting via PPP or ISDN."
-msgstr ""
+msgstr "Алати за повезивање преко PPP или ISDN."
 
 #: ../comps-el6.xml.in.h:56
 msgid "Directory Client"
-msgstr ""
+msgstr "Клијент за directory"
 
 #: ../comps-el6.xml.in.h:57
 msgid "Clients for integration into a network managed by a directory service."
-msgstr ""
+msgstr "Клијети за интеграцију у мрежу управљану са directory сервисом."
 
 #: ../comps-el6.xml.in.h:61
 msgid "Eclipse"
@@ -2354,505 +2355,505 @@ msgstr "Eclipse"
 
 #: ../comps-el6.xml.in.h:62
 msgid "Eclipse-based Integrated Development Environment."
-msgstr ""
+msgstr "Интегрисано развојно окружење засновано на Eclipse-у."
 
 #: ../comps-el6.xml.in.h:64
 msgid "Educational software for learning."
-msgstr ""
+msgstr "Образовни софтвер за учење"
 
 #: ../comps-el6.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
-msgstr ""
+msgstr "Алатке за дизајн и симулацију за хардверске инжењере."
 
 #: ../comps-el6.xml.in.h:67
 msgid "Emacs"
-msgstr ""
+msgstr "Emacs"
 
 #: ../comps-el6.xml.in.h:68
 msgid "The GNU Emacs extensible, customizable, text editor."
-msgstr ""
+msgstr "GNU Emacs прошириви, подесиви, текст едитор."
 
 #: ../comps-el6.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr ""
+msgstr "Алатке и услужни програми које користи Fedora програм за паковање."
 
 #: ../comps-el6.xml.in.h:79
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr ""
+msgstr "Фонтови за приказивање текста на више језика и писама."
 
 #: ../comps-el6.xml.in.h:83
 msgid "FTP server"
-msgstr ""
+msgstr "FTP сервер"
 
 #: ../comps-el6.xml.in.h:84
 msgid "Allows the system to act as an FTP server."
-msgstr ""
+msgstr "Омогућава систему да врши улогу FTP сервера."
 
 #: ../comps-el6.xml.in.h:87
 msgid "General Purpose Desktop"
-msgstr ""
+msgstr "Десктоп опште намене"
 
 #: ../comps-el6.xml.in.h:88
 msgid "A general purpose desktop."
-msgstr ""
+msgstr "Десктоп опште намене."
 
 #: ../comps-el6.xml.in.h:91
 msgid "Graphical Administration Tools"
-msgstr ""
+msgstr "Графички административни алати"
 
 #: ../comps-el6.xml.in.h:92
 msgid ""
 "Graphical system administration tools for managing many aspects of a system."
-msgstr ""
+msgstr "Графички административни алати за управљање многим аспектима система."
 
 #: ../comps-el6.xml.in.h:93
 msgid "Graphics Creation Tools"
-msgstr ""
+msgstr "Алати за графичко стваралаштво"
 
 #: ../comps-el6.xml.in.h:94
 msgid "Software for creation and manipulation of still images."
-msgstr ""
+msgstr "Софтвер за прављење и манипулацију статичких слика."
 
 #: ../comps-el6.xml.in.h:97
 msgid "Hardware monitoring utilities"
-msgstr ""
+msgstr "Алати за надгледање хардвера"
 
 #: ../comps-el6.xml.in.h:98
 msgid "A set of tools to monitor server hardware"
-msgstr ""
+msgstr "Скуп алата за надгледање серверског хардвера"
 
 #: ../comps-el6.xml.in.h:107
 msgid "Infiniband Support"
-msgstr ""
+msgstr "Подршка за Infiniband"
 
 #: ../comps-el6.xml.in.h:108
 msgid ""
 "Software designed for supporting clustering and grid connectivity using "
 "RDMA-based InfiniBand and iWARP fabrics."
-msgstr ""
+msgstr "Софтвер дизајниран за подршку кластер и мрежоликом повезивању користећи RDMA-заснован InfiniBand и iWARP материјале."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
-msgstr ""
+msgstr "Софтвер за уношење интернационалног текста."
 
 #: ../comps-el6.xml.in.h:112
 msgid "Internet Applications"
-msgstr ""
+msgstr "Интернет програми"
 
 #: ../comps-el6.xml.in.h:113
 msgid "Email, chat, and video conferencing software."
-msgstr ""
+msgstr "Програми за email, ћаскање и видео конференције."
 
 #: ../comps-el6.xml.in.h:114
 msgid "Internet Browser"
-msgstr ""
+msgstr "Интернет претраживач"
 
 #: ../comps-el6.xml.in.h:115
 msgid "Firefox web browser"
-msgstr ""
+msgstr "Firefox веб претраживач"
 
 #: ../comps-el6.xml.in.h:120
 msgid "Java Platform"
-msgstr ""
+msgstr "Java платформа"
 
 #: ../comps-el6.xml.in.h:121
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr ""
+msgstr "Java подршка за Enterprise Linux сервер и десктоп платформе."
 
 #: ../comps-el6.xml.in.h:127
 msgid "A KDE desktop."
-msgstr ""
+msgstr "KDE окружење."
 
 #: ../comps-el6.xml.in.h:134
 msgid "Large Systems Performance"
-msgstr ""
+msgstr "Перформансе великих система"
 
 #: ../comps-el6.xml.in.h:135
 msgid "Performance support tools for large systems"
-msgstr ""
+msgstr "Алати за подршку перформанси великих система"
 
 #: ../comps-el6.xml.in.h:138
 msgid "Legacy UNIX compatibility"
-msgstr ""
+msgstr "Старија UNIX компатибилност"
 
 #: ../comps-el6.xml.in.h:139
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr ""
+msgstr "Програми за компатибилност у миграцији или раду са старијим UNIX окружењима."
 
 #: ../comps-el6.xml.in.h:140
 msgid "Legacy X Window System compatibility"
-msgstr ""
+msgstr "Компатибилност са старијим X Window системом"
 
 #: ../comps-el6.xml.in.h:141
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr ""
+msgstr "Прогрми за компатибилност у миграцији или раду са старијим X Window систем окружењима."
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr ""
+msgstr "Основна компатибилност са старијим X Window системом"
 
 #: ../comps-el6.xml.in.h:143
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr ""
+msgstr "Минималан скуп програма за компатибилност у миграцији или раду са старијим X Window систем окружењима."
 
 #: ../comps-el6.xml.in.h:148
 msgid "E-mail server"
-msgstr ""
+msgstr "Сервер за е-пошту"
 
 #: ../comps-el6.xml.in.h:149
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr ""
+msgstr "Омогућава систему да врши улогу SMTP и/или IMAP сервера за е-пошту."
 
 #: ../comps-el6.xml.in.h:150
 msgid "Mainframe Access"
-msgstr ""
+msgstr "Мејнфрејм приступ"
 
 #: ../comps-el6.xml.in.h:151
 msgid "Tools for accessing mainframe computing resources."
-msgstr ""
+msgstr "Алати за приступање мејнфрејм рачунарским ресурсима."
 
 #: ../comps-el6.xml.in.h:163
 msgid "MySQL Database server"
-msgstr ""
+msgstr "Сервер MySQL базе података"
 
 #: ../comps-el6.xml.in.h:164
 msgid "The MySQL SQL database server, and associated packages."
-msgstr ""
+msgstr "Сервер за MySQL SQL базу података, са повезаним пакетима."
 
 #: ../comps-el6.xml.in.h:165
 msgid "MySQL Database client"
-msgstr ""
+msgstr "Клијент MySQL базе података"
 
 #: ../comps-el6.xml.in.h:166
 msgid "The MySQL SQL database client, and associated packages."
-msgstr ""
+msgstr "Клијент за MySQL SQL базу података, са повезаним пакетима."
 
 #: ../comps-el6.xml.in.h:168
 msgid "Network file system client"
-msgstr ""
+msgstr "Клијент за мрежни систем датотека"
 
 #: ../comps-el6.xml.in.h:169
 msgid "Enables the system to attach to network storage."
-msgstr ""
+msgstr "Омогућава систему да се повеже на мрежно складиште"
 
 #: ../comps-el6.xml.in.h:170
 msgid "Network Infrastructure Server"
-msgstr ""
+msgstr "Сервер за мрежну инфраструктуру"
 
 #: ../comps-el6.xml.in.h:171
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
-msgstr ""
+msgstr "Сервери за суштинске мрежне протоколе и сервисе, као што су DHCP или DNS."
 
 #: ../comps-el6.xml.in.h:172
 msgid "Networking Tools"
-msgstr ""
+msgstr "Мрежни алати"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Tools for configuring and analyzing computer networks."
-msgstr ""
+msgstr "Алати за подешавање и анализу рачунарских мрежа."
 
 #: ../comps-el6.xml.in.h:174
 msgid "NFS file server"
-msgstr ""
+msgstr "NFS датотечни сервер"
 
 #: ../comps-el6.xml.in.h:175
 msgid "NFS file server."
-msgstr ""
+msgstr "NFS датотечни сервер."
 
 #: ../comps-el6.xml.in.h:179
 msgid "Office Suite and Productivity"
-msgstr ""
+msgstr "Пакет за канцеларију и продуктивност"
 
 #: ../comps-el6.xml.in.h:180
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr ""
+msgstr "Свеобухватни канцеларијски пакет, и остали продукцијски алати."
 
 #: ../comps-el6.xml.in.h:182
 msgid "Performance Tools"
-msgstr ""
+msgstr "Алати перформанси"
 
 #: ../comps-el6.xml.in.h:183
 msgid ""
 "Tools for diagnosing system and application-level performance problems."
-msgstr ""
+msgstr "Алати за дијагностику система и проблеме са перформансама на програмском нивоу."
 
 #: ../comps-el6.xml.in.h:184
 msgid "Perl Support"
-msgstr ""
+msgstr "Подршка за Perl"
 
 #: ../comps-el6.xml.in.h:185
 msgid "Perl interfaces to common libraries and functionality."
-msgstr ""
+msgstr "Perl окружења за уобичајене библиотеке и употребљивост."
 
 #: ../comps-el6.xml.in.h:187
 msgid "PHP Support"
-msgstr ""
+msgstr "Подршка за PHP"
 
 #: ../comps-el6.xml.in.h:188
 msgid "PHP web application framework."
-msgstr ""
+msgstr "Оквир за PHP веб апликације."
 
 #: ../comps-el6.xml.in.h:191
 msgid "PostgreSQL Database server"
-msgstr ""
+msgstr "Сервер за PostgreSQL базе података"
 
 #: ../comps-el6.xml.in.h:192
 msgid "The PostgreSQL SQL database server, and associated packages."
-msgstr ""
+msgstr "Сервер за PostgreSQL SQL базу података, са повезаним пакетима."
 
 #: ../comps-el6.xml.in.h:193
 msgid "PostgreSQL Database client"
-msgstr ""
+msgstr "Клијент PostgreSQL базе података"
 
 #: ../comps-el6.xml.in.h:194
 msgid "The PostgreSQL SQL database client, and associated packages."
-msgstr ""
+msgstr "Клијент за PostreSQL SQL базу података, са повезаним пакетима."
 
 #: ../comps-el6.xml.in.h:195
 msgid "Printing client"
-msgstr ""
+msgstr "Клијент за штампу"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr ""
+msgstr "Алати за штампање на локални штампач или удаљени сервер за штампу."
 
 #: ../comps-el6.xml.in.h:197
 msgid "Print Server"
-msgstr ""
+msgstr "Сервер за штампу"
 
 #: ../comps-el6.xml.in.h:198
 msgid "Allows the system to act as a print server."
-msgstr ""
+msgstr "Омогућава систему да врши улогу сервера за штампу."
 
 #: ../comps-el6.xml.in.h:200
 msgid "Remote Desktop Clients"
-msgstr ""
+msgstr "Клијенти за удаљено окружење"
 
 #: ../comps-el6.xml.in.h:205
 msgid "Scientific support"
-msgstr ""
+msgstr "Научна подршка"
 
 #: ../comps-el6.xml.in.h:206
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr ""
+msgstr "Алати за математичка и научна израчунавања, и паралелно рачунарство."
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
-msgstr ""
+msgstr "Алати за сигурност"
 
 #: ../comps-el6.xml.in.h:208
 msgid "Security tools for integrity and trust verification."
-msgstr ""
+msgstr "Сигурносни алати за проверу интегритета и поверења."
 
 #: ../comps-el6.xml.in.h:210
 msgid "Server Platform"
-msgstr ""
+msgstr "Сервер платформа"
 
 #: ../comps-el6.xml.in.h:211
 msgid "Supported libraries for the Enterprise Linux Server Platform."
-msgstr ""
+msgstr "Подржане библиотеке за Enterprise Linux сервер платформу."
 
 #: ../comps-el6.xml.in.h:212
 msgid "Server Platform Development"
-msgstr ""
+msgstr "Развој сервер платформе"
 
 #: ../comps-el6.xml.in.h:213
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr ""
+msgstr "Заглавља и библиотеке за развој програма који се покрећу на Enterprise Linux сервер платформи."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
-msgstr ""
+msgstr "Сервер полисе"
 
 #: ../comps-el6.xml.in.h:215
 msgid "Policy packages for the Server variant."
-msgstr ""
+msgstr "Пакети полиса за серверску варијанту."
 
 #: ../comps-el6.xml.in.h:220
 msgid "Smart card support"
-msgstr ""
+msgstr "Подршка за паметне картице"
 
 #: ../comps-el6.xml.in.h:221
 msgid "Support for using smart card authentication."
-msgstr ""
+msgstr "Подршка за аутентификацију помоћу паметних картица."
 
 #: ../comps-el6.xml.in.h:225
 msgid "FCoE Storage Client"
-msgstr ""
+msgstr "Клијент за FCoE складиште"
 
 #: ../comps-el6.xml.in.h:226
 msgid "Fiber Channel over Ethernet support"
-msgstr ""
+msgstr "Подршка за Fiber Channel over Ethernet"
 
 #: ../comps-el6.xml.in.h:227
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Клијент за iSCSI складиште"
 
 #: ../comps-el6.xml.in.h:228
 msgid "iSCSI client support"
-msgstr ""
+msgstr "Подршка за iSCSI клијента"
 
 #: ../comps-el6.xml.in.h:229
 msgid "Storage Availability Tools"
-msgstr ""
+msgstr "Алати за доступност складишта"
 
 #: ../comps-el6.xml.in.h:230
 msgid "A set of tools to manage SAN path availability"
-msgstr ""
+msgstr "Скуп алата за управљање доступности SAN путање"
 
 #: ../comps-el6.xml.in.h:231
 msgid "Network Storage Server"
-msgstr ""
+msgstr "Сервер за мрежно складиште"
 
 #: ../comps-el6.xml.in.h:232
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "Сервер за iSCSI, iSER и iSNS складишта."
 
 #: ../comps-el6.xml.in.h:236
 msgid "System administration tools"
-msgstr ""
+msgstr "Алати за администрирање система."
 
 #: ../comps-el6.xml.in.h:237
 msgid "Utilities useful in system administration."
-msgstr ""
+msgstr "Корисни алати у администрацији система."
 
 #: ../comps-el6.xml.in.h:238
 msgid "System Management"
-msgstr ""
+msgstr "Управљање системом"
 
 #: ../comps-el6.xml.in.h:239
 msgid "Various low-level hardware management frameworks."
-msgstr ""
+msgstr "Разни оквири за управљање хардвером на ниском нивоу."
 
 #: ../comps-el6.xml.in.h:240
 msgid "Messaging Client Support"
-msgstr ""
+msgstr "Подршка за клијента порука"
 
 #: ../comps-el6.xml.in.h:241
 msgid "AMQP messaging client for systems management."
-msgstr ""
+msgstr "Клијент за AMQP поруке за управљање система."
 
 #: ../comps-el6.xml.in.h:242
 msgid "Messaging Server Support"
-msgstr ""
+msgstr "Сервер за поруке"
 
 #: ../comps-el6.xml.in.h:243
 msgid "AMQP messaging broker for systems management."
-msgstr ""
+msgstr "Сервер за AMQP поруке за управљање системима."
 
 #: ../comps-el6.xml.in.h:244
 msgid "SNMP Support"
-msgstr ""
+msgstr "Подршка за SNMP"
 
 #: ../comps-el6.xml.in.h:245
 msgid "SNMP management agent."
-msgstr ""
+msgstr "Агент за SNMP управљање."
 
 #: ../comps-el6.xml.in.h:246
 msgid "Web-Based Enterprise Management"
-msgstr ""
+msgstr "Веб управљање Enterprise-ом"
 
 #: ../comps-el6.xml.in.h:247
 msgid "WBEM interface for Enterprise Linux."
-msgstr ""
+msgstr "WBEM окружење за Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:251
 msgid "Technical Writing"
-msgstr ""
+msgstr "Техничко писање"
 
 #: ../comps-el6.xml.in.h:252
 msgid "Tools for writing technical documentation."
-msgstr ""
+msgstr "Алати за писање техничке документације."
 
 #: ../comps-el6.xml.in.h:255
 msgid "TeX support"
-msgstr ""
+msgstr "Подршка за TeX"
 
 #: ../comps-el6.xml.in.h:256
 msgid "Support for the TeX document formatting system."
-msgstr ""
+msgstr "Подршка за TeX систем форматирања докумената."
 
 #: ../comps-el6.xml.in.h:261
 msgid "TurboGears application framework"
-msgstr ""
+msgstr "Оквир за TurboGears апликације"
 
 #: ../comps-el6.xml.in.h:262
 msgid "TurboGears web application framework."
-msgstr ""
+msgstr "Оквир за TurboGears веб апликације."
 
 #: ../comps-el6.xml.in.h:272
 msgid "Provides an environment for hosting virtualized guests."
-msgstr ""
+msgstr "Пружа окружење за успостављање виртуелнизованих гостију."
 
 #: ../comps-el6.xml.in.h:274
 msgid "Clients for installing and managing virtualization instances."
-msgstr ""
+msgstr "Клијенти за инсталацију и управљање виртуелних инстанци."
 
 #: ../comps-el6.xml.in.h:275
 msgid "Virtualization Platform"
-msgstr ""
+msgstr "Платформа за виртуелизацију"
 
 #: ../comps-el6.xml.in.h:276
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
+msgstr "Пружа окружење за приступање и контролу виртуелних гостију и контејнера."
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
-msgstr ""
+msgstr "Алати за виртуелизацију"
 
 #: ../comps-el6.xml.in.h:278
 msgid "Tools for offline virtual image management."
-msgstr ""
+msgstr "Алати за управљање неактивним виртуелним сликама."
 
 #: ../comps-el6.xml.in.h:281
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
+msgstr "Омогућава систему да врши улогу веб сервера и покреће Perl и Python веб апликације."
 
 #: ../comps-el6.xml.in.h:282
 msgid "Web Servlet Engine"
-msgstr ""
+msgstr "Servlet Engine за веб"
 
 #: ../comps-el6.xml.in.h:283
 msgid "Allows the system to host Java servlets."
-msgstr ""
+msgstr "Омогућава систему да пружа Java servlet-е."
 
 #: ../comps-el6.xml.in.h:285
 msgid "Workstation Policy"
-msgstr ""
+msgstr "Workstation полиса"
 
 #: ../comps-el6.xml.in.h:286
 msgid "Policy packages for the Workstation variant."
-msgstr ""
+msgstr "Пакети полиса за Workstation варијанту."
 
 #: ../comps-el6.xml.in.h:288
 msgid "X Window System Support."
-msgstr ""
+msgstr "Подршка за X Window систем."
 
 #: ../comps-el6.xml.in.h:293
 msgid "Desktops"
-msgstr ""
+msgstr "Десктопи"
 
 #: ../comps-el6.xml.in.h:294
 msgid "Desktops and thin clients."
-msgstr ""
+msgstr "Радна окружења и thin клијенти."
 
 #: ../comps-el6.xml.in.h:296
 msgid "End-user applications."
-msgstr ""
+msgstr "Кориснички програми."
 
 #: ../comps-el6.xml.in.h:298
 msgid "Development tools and libraries."
-msgstr ""
+msgstr "Развојни алати и библиотеке."

@@ -5,15 +5,17 @@
 # Translators:
 # Alexander Agung <redtux@sby.dnet.net.id>, 2004
 # Dimitris Glezos <glezos@transifex.com>, 2011
+# Henkie Prabancono <henkie.prabancono@gmail.com>, 2014
+# La Ode Muh. Fadlun Akbar <alunkeren@gmail.com>, 2014
 # Teguh Dwicaksana <dheche@songolimo.net>, 2005
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Indonesian (http://www.transifex.com/projects/p/fedora/language/id/)\n"
+"PO-Revision-Date: 2014-06-19 11:07+0000\n"
+"Last-Translator: Henkie Prabancono <henkie.prabancono@gmail.com>\n"
+"Language-Team: Indonesian (http://www.transifex.com/projects/p/comps/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -46,7 +48,7 @@ msgstr "Dukungan Albania"
 
 #: ../comps-f16.xml.in.h:6 ../comps-f17.xml.in.h:6 ../comps-el6.xml.in.h:5
 msgid "Amazigh Support"
-msgstr ""
+msgstr "Dukungan Amazigh"
 
 #: ../comps-f16.xml.in.h:7 ../comps-f17.xml.in.h:8 ../comps-f18.xml.in.h:75
 #: ../comps-f19.xml.in.h:75 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6
@@ -70,7 +72,7 @@ msgstr "Dukungan Assamese"
 
 #: ../comps-f16.xml.in.h:11 ../comps-f17.xml.in.h:12
 msgid "Asturian Support"
-msgstr ""
+msgstr "Dukungan Asturia"
 
 #: ../comps-f16.xml.in.h:12 ../comps-f17.xml.in.h:13 ../comps-f18.xml.in.h:77
 #: ../comps-f19.xml.in.h:77 ../comps-el5.xml.in.h:7
@@ -86,7 +88,7 @@ msgstr "Perkakas ini membantu anda untuk membuat dokumentasi dalam format DocBoo
 
 #: ../comps-f16.xml.in.h:14 ../comps-f17.xml.in.h:15 ../comps-el6.xml.in.h:9
 msgid "Azerbaijani Support"
-msgstr ""
+msgstr "Dukungan Azerbaijan"
 
 #: ../comps-f16.xml.in.h:15 ../comps-f17.xml.in.h:16 ../comps-el6.xml.in.h:14
 msgid "Base"
@@ -129,12 +131,12 @@ msgstr "Dukungan Bhutan"
 #: ../comps-f16.xml.in.h:23 ../comps-f17.xml.in.h:25 ../comps-f18.xml.in.h:84
 #: ../comps-f19.xml.in.h:84
 msgid "Books and Guides"
-msgstr ""
+msgstr "Buku Panduan"
 
 #: ../comps-f16.xml.in.h:24 ../comps-f17.xml.in.h:26 ../comps-f18.xml.in.h:85
 #: ../comps-f19.xml.in.h:85
 msgid "Books and Guides for Fedora users and developers"
-msgstr ""
+msgstr "Buku Panduan untuk pengguna dan pengembang Fedora"
 
 #: ../comps-f16.xml.in.h:25 ../comps-f17.xml.in.h:27
 msgid "Bosnian Support"
@@ -172,7 +174,7 @@ msgstr "Dukungan Catalan"
 
 #: ../comps-f16.xml.in.h:33 ../comps-f17.xml.in.h:35 ../comps-el6.xml.in.h:30
 msgid "Chichewa Support"
-msgstr ""
+msgstr "Dukungan Chichewa"
 
 #: ../comps-f16.xml.in.h:34 ../comps-f17.xml.in.h:36
 msgid "Chuvash Support"
@@ -188,7 +190,7 @@ msgstr "Dukungan Kluster"
 
 #: ../comps-f16.xml.in.h:37 ../comps-f17.xml.in.h:41 ../comps-el6.xml.in.h:38
 msgid "Coptic Support"
-msgstr ""
+msgstr "Dukungan Koptik"
 
 #: ../comps-f16.xml.in.h:38 ../comps-f17.xml.in.h:42 ../comps-f18.xml.in.h:90
 #: ../comps-f19.xml.in.h:90 ../comps-el6.xml.in.h:39
@@ -203,7 +205,7 @@ msgstr "Instalasi sekecil mungkin"
 #: ../comps-f16.xml.in.h:40 ../comps-f17.xml.in.h:44 ../comps-f18.xml.in.h:92
 #: ../comps-f19.xml.in.h:92
 msgid "Critical Path (Applications)"
-msgstr ""
+msgstr "Jalur Kritis (Aplikasi-aplikasi)"
 
 #: ../comps-f16.xml.in.h:41 ../comps-f17.xml.in.h:45 ../comps-f18.xml.in.h:93
 #: ../comps-f19.xml.in.h:93
@@ -220,7 +222,7 @@ msgstr ""
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
+msgstr "Sebuah kumpulan dari paket-paket yang menyediakan platform terbagi untuk Critical Path bisa berfungsi pada semua Fedora spins"
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -232,12 +234,12 @@ msgstr ""
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr ""
+msgstr "Satu set paket yang menyediakan fungsi Jalur Kritis untuk desktop GNOME"
 
 #: ../comps-f16.xml.in.h:46 ../comps-f17.xml.in.h:50 ../comps-f18.xml.in.h:98
 #: ../comps-f19.xml.in.h:98
 msgid "Critical Path (KDE)"
-msgstr ""
+msgstr "Jalur Kritis (KDE)"
 
 #: ../comps-f16.xml.in.h:47 ../comps-f17.xml.in.h:51 ../comps-f18.xml.in.h:99
 #: ../comps-f19.xml.in.h:99
@@ -249,7 +251,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:48 ../comps-f17.xml.in.h:52 ../comps-f18.xml.in.h:100
 #: ../comps-f19.xml.in.h:100
 msgid "Critical Path (LXDE)"
-msgstr ""
+msgstr "Jalur Kritis (LXDE)"
 
 #: ../comps-f16.xml.in.h:49 ../comps-f17.xml.in.h:53 ../comps-f18.xml.in.h:101
 #: ../comps-f19.xml.in.h:101
@@ -261,7 +263,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:50 ../comps-f17.xml.in.h:54 ../comps-f18.xml.in.h:102
 #: ../comps-f19.xml.in.h:102
 msgid "Critical Path (Xfce)"
-msgstr ""
+msgstr "Jalur Kritis (Xfce)"
 
 #: ../comps-f16.xml.in.h:51 ../comps-f17.xml.in.h:55 ../comps-f18.xml.in.h:103
 #: ../comps-f19.xml.in.h:103
@@ -326,12 +328,12 @@ msgstr "Dukungan Dialup Networking"
 #: ../comps-f16.xml.in.h:62 ../comps-f17.xml.in.h:66 ../comps-f18.xml.in.h:111
 #: ../comps-f19.xml.in.h:115 ../comps-el6.xml.in.h:58
 msgid "Directory Server"
-msgstr ""
+msgstr "Direktori Server"
 
 #: ../comps-f16.xml.in.h:63 ../comps-f17.xml.in.h:67 ../comps-f18.xml.in.h:112
 #: ../comps-f19.xml.in.h:116 ../comps-el6.xml.in.h:59
 msgid "Machine and user identity servers."
-msgstr ""
+msgstr "Server identitas mesin dan pengguna."
 
 #: ../comps-f16.xml.in.h:64 ../comps-f17.xml.in.h:68 ../comps-f18.xml.in.h:113
 #: ../comps-f19.xml.in.h:117
@@ -347,12 +349,12 @@ msgstr "Di grup paket ini membolehkan anda untuk menjalakan server name DNS (BIN
 #: ../comps-f16.xml.in.h:66 ../comps-f17.xml.in.h:71 ../comps-f18.xml.in.h:116
 #: ../comps-f19.xml.in.h:120
 msgid "Dogtag Certificate System"
-msgstr ""
+msgstr "Sistem Sertifikat Dogtag"
 
 #: ../comps-f16.xml.in.h:67 ../comps-f17.xml.in.h:72 ../comps-f18.xml.in.h:117
 #: ../comps-f19.xml.in.h:121
 msgid "Enterprise-class open source Certificate Authority"
-msgstr ""
+msgstr "Otoritas Sertifikat open source kelas Enterprise"
 
 #: ../comps-f16.xml.in.h:68 ../comps-f17.xml.in.h:73 ../comps-el6.xml.in.h:60
 msgid "Dutch Support"
@@ -393,12 +395,12 @@ msgstr "Perangkat lunak edukasi untuk pembelajaran"
 #: ../comps-f16.xml.in.h:75 ../comps-f17.xml.in.h:80 ../comps-f18.xml.in.h:124
 #: ../comps-f19.xml.in.h:128 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 msgid "Electronic Lab"
-msgstr ""
+msgstr "Lab Elektronik"
 
 #: ../comps-f16.xml.in.h:76 ../comps-f17.xml.in.h:81 ../comps-f18.xml.in.h:125
 #: ../comps-f19.xml.in.h:129 ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
-msgstr ""
+msgstr "Alat Desain dan Simulasi untuk insinyur perangkat keras"
 
 #: ../comps-f16.xml.in.h:77 ../comps-f17.xml.in.h:82 ../comps-f18.xml.in.h:126
 #: ../comps-f19.xml.in.h:130 ../comps-el5.xml.in.h:23
@@ -441,11 +443,11 @@ msgstr "Alat bantu dan utilitas yang diperlukan oleh Pemaket Fedora"
 
 #: ../comps-f16.xml.in.h:85 ../comps-f17.xml.in.h:90 ../comps-el6.xml.in.h:75
 msgid "Fijian Support"
-msgstr ""
+msgstr "Dukungan Fiji"
 
 #: ../comps-f16.xml.in.h:86 ../comps-f17.xml.in.h:91
 msgid "Filesystems"
-msgstr ""
+msgstr "Berkas Sistem"
 
 #: ../comps-f16.xml.in.h:87 ../comps-f17.xml.in.h:92 ../comps-el6.xml.in.h:76
 msgid "Filipino Support"
@@ -459,14 +461,14 @@ msgstr "Dukungan Finlandia"
 #: ../comps-f16.xml.in.h:89 ../comps-f17.xml.in.h:94 ../comps-f18.xml.in.h:132
 #: ../comps-f19.xml.in.h:136
 msgid "Font design and packaging"
-msgstr ""
+msgstr "Desain fonta dan kemasan"
 
 #: ../comps-f16.xml.in.h:90 ../comps-f17.xml.in.h:95 ../comps-f18.xml.in.h:133
 #: ../comps-f19.xml.in.h:137
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
+msgstr "Grup ini adalah kumpulan dari alat yang digunakan dalam desain, modifikasi, manipulasi, dan pengemasan fonta."
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
 #: ../comps-f19.xml.in.h:138 ../comps-el6.xml.in.h:78
@@ -484,11 +486,11 @@ msgstr "Dukungan Perancis"
 
 #: ../comps-f16.xml.in.h:94 ../comps-f17.xml.in.h:99 ../comps-el6.xml.in.h:81
 msgid "Frisian Support"
-msgstr ""
+msgstr "Dukungan Frisian"
 
 #: ../comps-f16.xml.in.h:95 ../comps-f17.xml.in.h:100 ../comps-el6.xml.in.h:82
 msgid "Friulian Support"
-msgstr ""
+msgstr "Dukungan Friulian"
 
 #: ../comps-f16.xml.in.h:96 ../comps-f17.xml.in.h:101
 #: ../comps-f18.xml.in.h:136 ../comps-f19.xml.in.h:140
@@ -615,7 +617,7 @@ msgstr "Kelompok ini adalah koleksi alat bantu untuk beragam utilitas perangkat 
 #: ../comps-f18.xml.in.h:151 ../comps-f19.xml.in.h:155
 #: ../comps-el6.xml.in.h:101
 msgid "Haskell"
-msgstr ""
+msgstr "Haskell"
 
 #: ../comps-f16.xml.in.h:118 ../comps-f17.xml.in.h:123
 #: ../comps-f18.xml.in.h:152 ../comps-f19.xml.in.h:156
@@ -632,7 +634,7 @@ msgstr "Dukungan Hebrew"
 #: ../comps-f16.xml.in.h:120 ../comps-f17.xml.in.h:125
 #: ../comps-el6.xml.in.h:100
 msgid "Hiligaynon Support"
-msgstr ""
+msgstr "Dukungan Hiligaynon"
 
 #: ../comps-f16.xml.in.h:121 ../comps-f17.xml.in.h:126
 #: ../comps-f18.xml.in.h:154 ../comps-f19.xml.in.h:158
@@ -669,7 +671,7 @@ msgstr "Paket metode masukan untuk memasukkan teks internasional."
 #: ../comps-f16.xml.in.h:127 ../comps-f17.xml.in.h:132
 #: ../comps-el6.xml.in.h:111
 msgid "Interlingua Support"
-msgstr ""
+msgstr "Dukungan Interlingua"
 
 #: ../comps-f16.xml.in.h:128 ../comps-f17.xml.in.h:133
 #: ../comps-el6.xml.in.h:116
@@ -732,11 +734,11 @@ msgstr "Dukungan Kashubia"
 #: ../comps-f16.xml.in.h:139 ../comps-f17.xml.in.h:144
 #: ../comps-el6.xml.in.h:125
 msgid "Kazakh Support"
-msgstr ""
+msgstr "Dukungan Kazakh "
 
 #: ../comps-f16.xml.in.h:140 ../comps-f17.xml.in.h:145
 msgid "KDE Software Compilation"
-msgstr ""
+msgstr "Kompilasi Perangkat Lunak KDE"
 
 #: ../comps-f16.xml.in.h:141 ../comps-f17.xml.in.h:146
 #: ../comps-f18.xml.in.h:269 ../comps-f19.xml.in.h:283
@@ -744,7 +746,7 @@ msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
-msgstr ""
+msgstr "KDE SC meliputi Plasma Desktop KDE, sebuah grafis antarmuka pengguna yang sangat dapat dikonfigurasi yang mencakup panel, dekstop, ikon sistem dan widget desktop, dan banyak aplikasi bertenaga KDE."
 
 #: ../comps-f16.xml.in.h:142 ../comps-f17.xml.in.h:147
 #: ../comps-f18.xml.in.h:164 ../comps-f19.xml.in.h:168
@@ -767,7 +769,7 @@ msgstr "Dukungan Khmer"
 #: ../comps-f16.xml.in.h:145 ../comps-f17.xml.in.h:150
 #: ../comps-el6.xml.in.h:129
 msgid "Kinyarwanda Support"
-msgstr ""
+msgstr "Dukungan Kinyarwanda"
 
 #: ../comps-f16.xml.in.h:146 ../comps-f17.xml.in.h:151
 #: ../comps-f18.xml.in.h:167 ../comps-f19.xml.in.h:171
@@ -785,7 +787,7 @@ msgstr "Dukungan Korea"
 #: ../comps-f18.xml.in.h:169 ../comps-f19.xml.in.h:173
 #: ../comps-el6.xml.in.h:132
 msgid "Kurdish Support"
-msgstr ""
+msgstr "Dukungan Kurdi"
 
 #: ../comps-f16.xml.in.h:149 ../comps-f17.xml.in.h:154
 msgid "Kyrgyz Support"
@@ -799,7 +801,7 @@ msgstr "Dukungan Lao"
 #: ../comps-f16.xml.in.h:151 ../comps-f17.xml.in.h:156
 #: ../comps-el6.xml.in.h:136
 msgid "Latin Support"
-msgstr ""
+msgstr "Dukungan Latin"
 
 #: ../comps-f16.xml.in.h:152 ../comps-f17.xml.in.h:157
 #: ../comps-el6.xml.in.h:137
@@ -846,7 +848,7 @@ msgstr "Dukungan Perangkat Lunak legasi"
 #: ../comps-f16.xml.in.h:160 ../comps-f17.xml.in.h:165
 #: ../comps-f18.xml.in.h:177 ../comps-f19.xml.in.h:182
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "Pengembangan LibreOffice"
 
 #: ../comps-f16.xml.in.h:161 ../comps-f17.xml.in.h:166
 #: ../comps-f18.xml.in.h:178 ../comps-f19.xml.in.h:183
@@ -883,12 +885,12 @@ msgstr ""
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:173
 #: ../comps-el6.xml.in.h:146
 msgid "Luxembourgish Support"
-msgstr ""
+msgstr "Dukungan Luksemburg"
 
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:174
 #: ../comps-f18.xml.in.h:35 ../comps-f19.xml.in.h:35
 msgid "LXDE"
-msgstr ""
+msgstr "LXDE"
 
 #: ../comps-f16.xml.in.h:170 ../comps-f17.xml.in.h:175
 #: ../comps-f18.xml.in.h:36 ../comps-f19.xml.in.h:36
@@ -896,7 +898,7 @@ msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older "
 "computers."
-msgstr ""
+msgstr "LXDE adalah lingkungan desktop ringan X11 yang didesain untuk komputer dengan spesifikasi perangkat keras rendah seperti netbook, perangkat mobile atau komputer lama."
 
 #: ../comps-f16.xml.in.h:171 ../comps-f17.xml.in.h:176
 #: ../comps-el6.xml.in.h:147
@@ -924,7 +926,7 @@ msgstr "Dukungan Maithil"
 #: ../comps-f16.xml.in.h:175 ../comps-f17.xml.in.h:180
 #: ../comps-el6.xml.in.h:153
 msgid "Malagasy Support"
-msgstr ""
+msgstr "Dukungan Malagasi"
 
 #: ../comps-f16.xml.in.h:176 ../comps-f17.xml.in.h:181
 #: ../comps-el6.xml.in.h:154
@@ -940,17 +942,17 @@ msgstr "Dukungan Malayalam"
 #: ../comps-f16.xml.in.h:178 ../comps-f17.xml.in.h:183
 #: ../comps-el6.xml.in.h:156
 msgid "Maltese Support"
-msgstr ""
+msgstr "Dukungan Malta"
 
 #: ../comps-f16.xml.in.h:179 ../comps-f17.xml.in.h:185
 #: ../comps-el6.xml.in.h:157
 msgid "Manx Support"
-msgstr ""
+msgstr "Dukungan Manx"
 
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -973,17 +975,17 @@ msgstr "Dukungan Marathi"
 
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
-msgstr ""
+msgstr "Lingkungan MeeGo NetBook UX"
 
 #: ../comps-f16.xml.in.h:185 ../comps-f17.xml.in.h:193
 msgid "MeeGo NetBook UX is an desktop environment for NetBook/NetTop devices."
-msgstr ""
+msgstr "MeeGo NetBook UX adalah sebuah lingkungan desktop untuk Netbook/perangkat NetTop."
 
 #: ../comps-f16.xml.in.h:186 ../comps-f17.xml.in.h:194
 #: ../comps-f18.xml.in.h:189 ../comps-f19.xml.in.h:194
 #: ../comps-el6.xml.in.h:160
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f16.xml.in.h:187 ../comps-f17.xml.in.h:195
 #: ../comps-f18.xml.in.h:190 ../comps-f19.xml.in.h:195
@@ -1069,19 +1071,19 @@ msgstr "Dukungan Norwegia"
 #: ../comps-f16.xml.in.h:202 ../comps-f17.xml.in.h:210
 #: ../comps-f18.xml.in.h:200 ../comps-f19.xml.in.h:205
 msgid "OCaml"
-msgstr ""
+msgstr "OCaml"
 
 #: ../comps-f16.xml.in.h:203 ../comps-f17.xml.in.h:211
 #: ../comps-f18.xml.in.h:201 ../comps-f19.xml.in.h:206
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
-msgstr ""
+msgstr "Dukungan untuk mengembangkan perangkat lunak menggunakan bahasa pemrograman dan pustaka Objective CAML. "
 
 #: ../comps-f16.xml.in.h:204 ../comps-f17.xml.in.h:212
 #: ../comps-el6.xml.in.h:178
 msgid "Occitan Support"
-msgstr ""
+msgstr "Dukungan Occitan"
 
 #: ../comps-f16.xml.in.h:205 ../comps-f17.xml.in.h:213
 #: ../comps-f18.xml.in.h:202 ../comps-f19.xml.in.h:207
@@ -1098,7 +1100,7 @@ msgstr "Aplikasi ini termasuk office suite, PDF viewer dan banyak lagi."
 #: ../comps-f16.xml.in.h:207 ../comps-f17.xml.in.h:215
 #: ../comps-f18.xml.in.h:204 ../comps-f19.xml.in.h:209
 msgid "Online Help and Documentation"
-msgstr ""
+msgstr "Bantuan dan Dokumentasi Online"
 
 #: ../comps-f16.xml.in.h:208 ../comps-f17.xml.in.h:216
 #: ../comps-f18.xml.in.h:205 ../comps-f19.xml.in.h:210
@@ -1113,12 +1115,12 @@ msgstr ""
 #: ../comps-f16.xml.in.h:210 ../comps-f17.xml.in.h:218
 #: ../comps-f18.xml.in.h:206 ../comps-f19.xml.in.h:211
 msgid "Perl Development"
-msgstr ""
+msgstr "Pengembangan Perl"
 
 #: ../comps-f16.xml.in.h:211 ../comps-f17.xml.in.h:219
 #: ../comps-f18.xml.in.h:207 ../comps-f19.xml.in.h:212
 msgid "Support for developing programs in the Perl programming language."
-msgstr ""
+msgstr "Dukungan untuk mengembangkan perangkat lunak dalam bahasa pemrograman Perl. "
 
 #: ../comps-f16.xml.in.h:212 ../comps-f17.xml.in.h:220
 #: ../comps-f18.xml.in.h:208 ../comps-f19.xml.in.h:213
@@ -1160,7 +1162,7 @@ msgstr ""
 #: ../comps-f16.xml.in.h:219 ../comps-f17.xml.in.h:227
 #: ../comps-f18.xml.in.h:212 ../comps-f19.xml.in.h:217
 msgid "Robotics"
-msgstr ""
+msgstr "Robotika"
 
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
@@ -1196,12 +1198,12 @@ msgstr "Dukungan Samoa"
 #: ../comps-f18.xml.in.h:217 ../comps-f19.xml.in.h:222
 #: ../comps-el6.xml.in.h:203
 msgid "Sanskrit Support"
-msgstr ""
+msgstr "Dukungan Sansekerta"
 
 #: ../comps-f16.xml.in.h:227 ../comps-f17.xml.in.h:236
 #: ../comps-el6.xml.in.h:204
 msgid "Sardinian Support"
-msgstr ""
+msgstr "Dukungan Sardinia"
 
 #: ../comps-f16.xml.in.h:228 ../comps-f17.xml.in.h:237
 #: ../comps-el6.xml.in.h:209
@@ -1308,17 +1310,17 @@ msgstr "Di grup paket ini termasuk paket-paket yang berguna untuk digunakan deng
 #: ../comps-f16.xml.in.h:247 ../comps-f17.xml.in.h:256
 #: ../comps-f18.xml.in.h:230 ../comps-f19.xml.in.h:237
 msgid "Sugar Desktop Environment"
-msgstr ""
+msgstr "Lingkungan Desktop Sugar"
 
 #: ../comps-f16.xml.in.h:248 ../comps-f17.xml.in.h:257
 #: ../comps-f18.xml.in.h:231 ../comps-f19.xml.in.h:238
 msgid "A software playground for learning about learning."
-msgstr ""
+msgstr "Sebuah perangkat lunak taman bermain untuk belajar tentang pelajaran."
 
 #: ../comps-f16.xml.in.h:249 ../comps-f17.xml.in.h:258
 #: ../comps-el6.xml.in.h:233
 msgid "Swahili Support"
-msgstr ""
+msgstr "Dukungan Swahili"
 
 #: ../comps-f16.xml.in.h:250 ../comps-f17.xml.in.h:259
 #: ../comps-el6.xml.in.h:234
@@ -1369,7 +1371,7 @@ msgstr "Dukungan Telugu"
 #: ../comps-f16.xml.in.h:258 ../comps-f17.xml.in.h:267
 #: ../comps-el6.xml.in.h:254
 msgid "Tetum Support"
-msgstr ""
+msgstr "Dukungan Tetum"
 
 #: ../comps-f16.xml.in.h:259 ../comps-f17.xml.in.h:268
 #: ../comps-f18.xml.in.h:236 ../comps-f19.xml.in.h:243
@@ -1428,7 +1430,7 @@ msgstr "Dukungan Turki"
 #: ../comps-f16.xml.in.h:269 ../comps-f17.xml.in.h:278
 #: ../comps-el6.xml.in.h:264
 msgid "Turkmen Support"
-msgstr ""
+msgstr "Dukungan Turki"
 
 #: ../comps-f16.xml.in.h:270 ../comps-f17.xml.in.h:279
 #: ../comps-el6.xml.in.h:265
@@ -1531,7 +1533,7 @@ msgstr "Paket-paket ini membolehkan anda untuk mengembangkan aplikasi untuk Sist
 #: ../comps-f16.xml.in.h:288 ../comps-f17.xml.in.h:299
 #: ../comps-f18.xml.in.h:26 ../comps-f19.xml.in.h:26 ../comps-el6.xml.in.h:289
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f16.xml.in.h:289 ../comps-f17.xml.in.h:300
 #: ../comps-f18.xml.in.h:27 ../comps-f19.xml.in.h:27 ../comps-el6.xml.in.h:290
@@ -1635,43 +1637,43 @@ msgstr "Beragam bagian inti dari sistem."
 #: ../comps-f16.xml.in.h:307 ../comps-f17.xml.in.h:318
 #: ../comps-f18.xml.in.h:278 ../comps-f19.xml.in.h:292
 msgid "Content"
-msgstr ""
+msgstr "Isi"
 
 #: ../comps-f16.xml.in.h:308 ../comps-f17.xml.in.h:319
 #: ../comps-f18.xml.in.h:279 ../comps-f19.xml.in.h:293
 msgid "Text and other Free content."
-msgstr ""
+msgstr "Teks dan konten Bebas lainnya."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Peralatan Anaconda"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
-msgstr ""
+msgstr "Dukungan Bodo"
 
 #: ../comps-f17.xml.in.h:37 ../comps-f18.xml.in.h:88 ../comps-f19.xml.in.h:88
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "Infrastruktur Awan"
 
 #: ../comps-f17.xml.in.h:38 ../comps-f18.xml.in.h:89 ../comps-f19.xml.in.h:89
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "Paket-paket infrastruktur untuk komputasi awan."
 
 #: ../comps-f17.xml.in.h:70 ../comps-f18.xml.in.h:115
 #: ../comps-f19.xml.in.h:119
 msgid "Dogri Support"
-msgstr ""
+msgstr "Dukungan Dogri"
 
 #: ../comps-f17.xml.in.h:184 ../comps-f18.xml.in.h:183
 #: ../comps-f19.xml.in.h:188
 msgid "Manipuri Support"
-msgstr ""
+msgstr "Dukungan Manipuri"
 
 #: ../comps-f17.xml.in.h:190 ../comps-f18.xml.in.h:187
 #: ../comps-f19.xml.in.h:192
 msgid "Medical Applications"
-msgstr ""
+msgstr "Aplikasi-aplikasi Medis"
 
 #: ../comps-f17.xml.in.h:191 ../comps-f18.xml.in.h:188
 #: ../comps-f19.xml.in.h:193
@@ -1681,11 +1683,11 @@ msgstr ""
 #: ../comps-f17.xml.in.h:235 ../comps-f18.xml.in.h:218
 #: ../comps-f19.xml.in.h:223
 msgid "Santali Support"
-msgstr ""
+msgstr "Dukungan Santali"
 
 #: ../comps-f17.xml.in.h:285 ../comps-el6.xml.in.h:273
 msgid "Virtualization Client"
-msgstr ""
+msgstr "Klien Virtualisasi"
 
 #: ../comps-f17.xml.in.h:287
 msgid "Virtualization Hypervisor"
@@ -1697,7 +1699,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
@@ -1705,7 +1707,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
@@ -1713,7 +1715,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
@@ -1745,7 +1747,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:13 ../comps-f19.xml.in.h:13
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f18.xml.in.h:14 ../comps-f19.xml.in.h:14
 msgid "LibreOffice Productivity Suite"
@@ -1764,7 +1766,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "Aplikasi-aplikasi KDE"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
@@ -1772,35 +1774,35 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "Aplikasi-aplikasi Edukasi pada KDE"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "Dukungan Multimedia pada KDE"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Dukungan multimedia untuk KDE"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "Perkantoran KDE"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "Aplikasi-aplikasi KDE untuk Perkantoran"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "Telepathy KDE"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "Aplikasi-aplikasi Telepathy untuk KDE"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Aplikasi-aplikasi Destop untuk Xfce"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
@@ -1808,15 +1810,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Plugin-plugin ekstra untuk panel Xfce"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Menambahkan fungsi dari panel Xfce"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Dukungan multimedia untuk Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
@@ -1828,7 +1830,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Aplikasi-aplikasi untuk Destop LXDE"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
@@ -1836,7 +1838,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Dukungan multimedia untuk LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
@@ -1848,15 +1850,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Aktivitas-aktivitas tambahan untuk Sugar"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Aktivitas-aktivitas tambahan untuk digunakan dengan Sugar Environment."
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Destop Dasar X Window"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
@@ -1864,7 +1866,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
@@ -1874,7 +1876,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
@@ -1882,7 +1884,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad untuk GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
@@ -1890,7 +1892,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
@@ -1898,15 +1900,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "Server Aplikasi JBoss"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Server Aplikasi Java."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
@@ -1914,15 +1916,15 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl untuk Web"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Dukungan dasar aplikasi web Perl."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
@@ -1930,11 +1932,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Dukungan dasar aplikasi web Python."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
@@ -1946,11 +1948,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Server aplikasi web Tomcat."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
@@ -1970,7 +1972,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Baku"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
@@ -1978,11 +1980,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Server Web Dasar"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Perangkat Lunak Pengembangan Xfce"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
@@ -1992,23 +1994,23 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "Destop GNOME"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Destop Xfce"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "Destop LXDE"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Destop Cinnamon"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "Destop MATE"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
@@ -2024,7 +2026,7 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Server Infrastruktur"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
@@ -2040,11 +2042,11 @@ msgstr ""
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Instalasi Minimum"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Fungsi dasar."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
@@ -2053,7 +2055,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2061,7 +2063,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Desktop Dasar"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
@@ -2079,7 +2081,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "Peralatan untuk Pengembangan RPM"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
@@ -2105,7 +2107,7 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "Basis data MariaDB (MySQL)"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
@@ -2140,11 +2142,11 @@ msgstr ""
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "Pencetakan 3D"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Perangkat Lunak Pencetakan 3D"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
@@ -2220,12 +2222,12 @@ msgstr "Aplikasi untuk beragam tugas"
 
 #: ../comps-el6.xml.in.h:1
 msgid "Additional Development"
-msgstr ""
+msgstr "Pengembangan tambahan"
 
 #: ../comps-el6.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr ""
+msgstr "Pengembangan tambahan tajuk dan perpustakaan untuk mengembangkan aplikasi"
 
 #: ../comps-el6.xml.in.h:10
 msgid "Backup Client"
@@ -2249,7 +2251,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:16
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: ../comps-el6.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
@@ -2335,7 +2337,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:53
 msgid "A basic development environment."
-msgstr ""
+msgstr "Sebuah dasar lingkungan pengembangan"
 
 #: ../comps-el6.xml.in.h:55
 msgid "Tools for connecting via PPP or ISDN."
@@ -2395,7 +2397,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:88
 msgid "A general purpose desktop."
-msgstr ""
+msgstr "Sebuah desktop untuk umum."
 
 #: ../comps-el6.xml.in.h:91
 msgid "Graphical Administration Tools"
@@ -2462,7 +2464,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:127
 msgid "A KDE desktop."
-msgstr ""
+msgstr "Sebuah Desktop KDE."
 
 #: ../comps-el6.xml.in.h:134
 msgid "Large Systems Performance"
@@ -2601,7 +2603,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:191
 msgid "PostgreSQL Database server"
-msgstr ""
+msgstr "Server Basis data PostgreSQL"
 
 #: ../comps-el6.xml.in.h:192
 msgid "The PostgreSQL SQL database server, and associated packages."
@@ -2609,7 +2611,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:193
 msgid "PostgreSQL Database client"
-msgstr ""
+msgstr "Klien Basis data PostgreSQL"
 
 #: ../comps-el6.xml.in.h:194
 msgid "The PostgreSQL SQL database client, and associated packages."
@@ -2617,15 +2619,15 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:195
 msgid "Printing client"
-msgstr ""
+msgstr "Klien Pencetakan"
 
 #: ../comps-el6.xml.in.h:196
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr ""
+msgstr "Peralatan untuk pencetakan menuju mesin cetak lokal maupun mesin cetak jauh."
 
 #: ../comps-el6.xml.in.h:197
 msgid "Print Server"
-msgstr ""
+msgstr "Server Pencetakan"
 
 #: ../comps-el6.xml.in.h:198
 msgid "Allows the system to act as a print server."
@@ -2633,11 +2635,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:200
 msgid "Remote Desktop Clients"
-msgstr ""
+msgstr "Klien Destop Jarak-jauh"
 
 #: ../comps-el6.xml.in.h:205
 msgid "Scientific support"
-msgstr ""
+msgstr "Dukungan Sains"
 
 #: ../comps-el6.xml.in.h:206
 msgid ""
@@ -2646,7 +2648,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
-msgstr ""
+msgstr "Peralatan-peralatan Keamanan"
 
 #: ../comps-el6.xml.in.h:208
 msgid "Security tools for integrity and trust verification."
@@ -2672,7 +2674,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
-msgstr ""
+msgstr "Kebijakan Server"
 
 #: ../comps-el6.xml.in.h:215
 msgid "Policy packages for the Server variant."
@@ -2696,11 +2698,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:227
 msgid "iSCSI Storage Client"
-msgstr ""
+msgstr "Klien Storage iSCSI"
 
 #: ../comps-el6.xml.in.h:228
 msgid "iSCSI client support"
-msgstr ""
+msgstr "Dukungan klien iSCSI"
 
 #: ../comps-el6.xml.in.h:229
 msgid "Storage Availability Tools"
@@ -2716,11 +2718,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:232
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr ""
+msgstr "Server Jaringan Penyimpanan untuk iSCSI, iSER dan iSNS."
 
 #: ../comps-el6.xml.in.h:236
 msgid "System administration tools"
-msgstr ""
+msgstr "Peralatan-peralatan administrasi sistem"
 
 #: ../comps-el6.xml.in.h:237
 msgid "Utilities useful in system administration."
@@ -2728,7 +2730,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:238
 msgid "System Management"
-msgstr ""
+msgstr "Manajemen Sistem"
 
 #: ../comps-el6.xml.in.h:239
 msgid "Various low-level hardware management frameworks."
@@ -2752,7 +2754,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:244
 msgid "SNMP Support"
-msgstr ""
+msgstr "Dukungan SNMP"
 
 #: ../comps-el6.xml.in.h:245
 msgid "SNMP management agent."
@@ -2760,11 +2762,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:246
 msgid "Web-Based Enterprise Management"
-msgstr ""
+msgstr "Manajemen Enterprise berbasis Web"
 
 #: ../comps-el6.xml.in.h:247
 msgid "WBEM interface for Enterprise Linux."
-msgstr ""
+msgstr "Antarmuka WBEM untuk Linux Enterprise."
 
 #: ../comps-el6.xml.in.h:251
 msgid "Technical Writing"
@@ -2772,11 +2774,11 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:252
 msgid "Tools for writing technical documentation."
-msgstr ""
+msgstr "Peralatan untuk penulisan dokumentasi teknis."
 
 #: ../comps-el6.xml.in.h:255
 msgid "TeX support"
-msgstr ""
+msgstr "Dukungan TeX"
 
 #: ../comps-el6.xml.in.h:256
 msgid "Support for the TeX document formatting system."
@@ -2800,7 +2802,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:275
 msgid "Virtualization Platform"
-msgstr ""
+msgstr "Platform Virtualisasi"
 
 #: ../comps-el6.xml.in.h:276
 msgid ""
@@ -2810,7 +2812,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:277
 msgid "Virtualization Tools"
-msgstr ""
+msgstr "Peralatan Virtualisasi"
 
 #: ../comps-el6.xml.in.h:278
 msgid "Tools for offline virtual image management."
@@ -2832,7 +2834,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:285
 msgid "Workstation Policy"
-msgstr ""
+msgstr "Kebijakan Workstation"
 
 #: ../comps-el6.xml.in.h:286
 msgid "Policy packages for the Workstation variant."
@@ -2840,7 +2842,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:288
 msgid "X Window System Support."
-msgstr ""
+msgstr "Dukungan Sistem X Window."
 
 #: ../comps-el6.xml.in.h:293
 msgid "Desktops"

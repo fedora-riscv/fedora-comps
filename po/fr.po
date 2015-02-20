@@ -5,13 +5,13 @@
 # Translators:
 # Audrey Simons <asimons@redhat.com>, 2003, 2004
 # troubi51 <corentin.perard@gmail.com>, 2009
-# croe <croe@redhat.com>, 2008, 2009
+# Corina Roe, 2008, 2009
 # Damien Durand <splinux@fedoraproject.org>, 2006
 # Decroux Fabien <fdecroux@redhat.com>, 2006
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # dominique bribanick <chepioq@gmail.com>, 2013
 # dominique bribanick <chepioq@gmail.com>, 2011
-# MarbolanGos Fabien <marbolangos@gmail.com>, 2013
+# Fabien Archambault <marbolangos@gmail.com>, 2013
 # Gauthier Ancelin <gauthier.ancelin@laposte.net>, 2008
 # Jérôme Fenal <jfenal@gmail.com>, 2012-2013
 # Jérôme Fenal <jfenal@gmail.com>, 2011
@@ -23,9 +23,9 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/fedora/language/fr/)\n"
+"PO-Revision-Date: 2013-11-20 11:35+0000\n"
+"Last-Translator: dominique bribanick <chepioq@gmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/comps/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2065,7 +2065,7 @@ msgstr "Environnement KDE"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2077,17 +2077,17 @@ msgstr "Environnement de bureau standard"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad pour MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "Gestionnaire de fenêtres XMonad avec MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Ces paquets ciblent les designers professionnels lié au graphisme, au web et à l’animation"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"

@@ -3,26 +3,28 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# antoniomontag <antonio.montagnani@alice.it>, 2013
+# antonio montagnani <antonio.montagnani@alice.it>, 2013
 # Antonio Trande <sagitter@fedoraproject.org>, 2013
 # Daniele Catanesi <translate@ccielogs.com>, 2009
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Francesco D'Aluisio <fdaluisio@fedoraproject.org>, 2011
 # Francesco Tombolini <tombo@adamantio.net>, 2006, 2007, 2008, 2009
 # fvalen <fvalen@redhat.com>, 2002, 2003, 2004
+# Gianluca Sforna <giallu@gmail.com>, 2013
 # Guido Grazioli <guido.grazioli@gmail.com>, 2009
 # Lorenzo Stobbione <lorenzo.stobbione@clsengineering.it>, 2004, 2005
 # mario_santagiuliana <mario@marionline.it>, 2009
 # Silvio Pierro <perplesso82@gmail.com>, 2009
 # Silvio Pierro <perplesso82@gmail.com>, 2011, 2012
+# tavanofabio <tavano.fabio@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Italian (http://www.transifex.com/projects/p/fedora/language/it/)\n"
+"PO-Revision-Date: 2013-12-16 15:22+0000\n"
+"Last-Translator: tavanofabio <tavano.fabio@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/comps/language/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2062,7 +2064,7 @@ msgstr "Desktop KDE"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2074,17 +2076,17 @@ msgstr "Desktop base"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad per MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "Window manager XMonad con MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Questi pacchetti sono rivolti a designer professionali relativi a grafica, web e animazioni"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"

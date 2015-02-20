@@ -11,7 +11,7 @@
 # Leah Liu <lliu@redhat.com>, 2008, 2009
 # Lex Zhou <giftedcn@gmail.com>, 2012
 # Tommy He <lovenemesis@gmail.com>, 2011
-# Mike Manilone <zhtx10@gmail.com>, 2011
+# Ma Kai <crtmike@gmail.com>, 2011
 # Tommy He <lovenemesis@gmail.com>, 2012
 # Tony Fu <tfu@redhat.com>, 2006
 # Xi Huang <xhuang@redhat.com>, 2006
@@ -21,9 +21,9 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
+"PO-Revision-Date: 2013-11-20 11:35+0000\n"
 "Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/fedora/language/zh_CN/)\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/comps/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

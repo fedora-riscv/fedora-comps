@@ -4,19 +4,21 @@
 # 
 # Translators:
 # Chester Cheng <ccheng@redhat.com>, 2007
-# Christian Rose <menthos@menthos.com>, 2002, 2003, 2004, 2005
+# Christian Rose <menthos@menthos.com>, 2002-2005
 # Dimitris Glezos <glezos@transifex.com>, 2011
-# Göran Uddeborg <goeran@uddeborg.se>, 2011
-# Klap <jojje3000@hotmail.com>, 2013
-# Magnus Larsson <fedoratrans@gmail.com>, 2007, 2008
+# Dimitris Glezos <glezos@transifex.com>, 2011
+# Göran Uddeborg <goeran@uddeborg.se>, 2011,2014
+# Klap Hest <jojje3000@hotmail.com>, 2013
+# Klap Hest <jojje3000@hotmail.com>, 2013
+# fedoratrans <fedoratrans@gmail.com>, 2007-2008
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Swedish (http://www.transifex.com/projects/p/fedora/language/sv/)\n"
+"PO-Revision-Date: 2014-08-28 19:02+0000\n"
+"Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/comps/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,7 +61,7 @@ msgstr "Stöd för arabiska"
 #: ../comps-f16.xml.in.h:8 ../comps-f17.xml.in.h:9 ../comps-el5.xml.in.h:5
 #: ../comps-el6.xml.in.h:7
 msgid "Armenian Support"
-msgstr "Stöd för armenska"
+msgstr "Stöd för armeniska"
 
 #: ../comps-f16.xml.in.h:9 ../comps-f17.xml.in.h:10 ../comps-el5.xml.in.h:6
 msgid ""
@@ -223,7 +225,7 @@ msgstr "Kritisk linje (bas)"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr "Ett antal paket som utgör den delade plattformen den kritiska linjens funktionalitet i alla Fedora-spin:ar"
+msgstr "Ett antal paket som utgör den delade plattformen den kritiska linjens funktionalitet i alla Fedoraspinn"
 
 #: ../comps-f16.xml.in.h:44 ../comps-f17.xml.in.h:48 ../comps-f18.xml.in.h:96
 #: ../comps-f19.xml.in.h:96
@@ -381,7 +383,7 @@ msgstr "Textredigerare"
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
-msgstr "Dessa program, ibland kallade textredigerare, kan du skapa och redigera filer. Dessa inkluderar Emacs och Vi."
+msgstr "Med dessa program, ibland kallade textredigerare, kan du skapa och redigera filer. Dessa inkluderar Emacs och Vi."
 
 #: ../comps-f16.xml.in.h:73 ../comps-f17.xml.in.h:78 ../comps-f18.xml.in.h:122
 #: ../comps-f19.xml.in.h:126 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
@@ -452,7 +454,7 @@ msgstr "Filsystem"
 
 #: ../comps-f16.xml.in.h:87 ../comps-f17.xml.in.h:92 ../comps-el6.xml.in.h:76
 msgid "Filipino Support"
-msgstr "Stöd för filipinska"
+msgstr "Stöd för filipino"
 
 #: ../comps-f16.xml.in.h:88 ../comps-f17.xml.in.h:93 ../comps-f18.xml.in.h:131
 #: ../comps-f19.xml.in.h:135 ../comps-el6.xml.in.h:77
@@ -469,7 +471,7 @@ msgstr "Typsnittsdesign och paketering"
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr "Denna grupp är en samling av verktyg och resurser för designa, ändra, redigera och paketera typsnitt."
+msgstr "Denna grupp är en samling av verktyg och resurser för att designa, ändra, redigera och paketera typsnitt."
 
 #: ../comps-f16.xml.in.h:91 ../comps-f17.xml.in.h:96 ../comps-f18.xml.in.h:134
 #: ../comps-f19.xml.in.h:138 ../comps-el6.xml.in.h:78
@@ -571,7 +573,7 @@ msgstr "Grafiskt Internet"
 #: ../comps-f18.xml.in.h:144 ../comps-f19.xml.in.h:148
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Denna grupp inkluderar grafiska klienter för e-post, webbsurfande och chat."
+msgstr "Denna grupp inkluderar grafiska klienter för e-post, webbsurfande och chatt."
 
 #: ../comps-f16.xml.in.h:110 ../comps-f17.xml.in.h:115
 #: ../comps-f18.xml.in.h:145 ../comps-f19.xml.in.h:149
@@ -886,7 +888,7 @@ msgstr "Stöd för lulesamiska"
 #: ../comps-f16.xml.in.h:168 ../comps-f17.xml.in.h:173
 #: ../comps-el6.xml.in.h:146
 msgid "Luxembourgish Support"
-msgstr "Stöd för luxemburgska"
+msgstr "Stöd för luxemburgiska"
 
 #: ../comps-f16.xml.in.h:169 ../comps-f17.xml.in.h:174
 #: ../comps-f18.xml.in.h:35 ../comps-f19.xml.in.h:35
@@ -916,7 +918,7 @@ msgstr "E-postserver"
 #: ../comps-f18.xml.in.h:180 ../comps-f19.xml.in.h:185
 #: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr "Dessa paket låter dig konfigurera en IMAP- eller SMTP-epostserver."
+msgstr "Dessa paket låter dig konfigurera en IMAP- eller SMTP-e-postserver."
 
 #: ../comps-f16.xml.in.h:174 ../comps-f17.xml.in.h:179
 #: ../comps-f18.xml.in.h:181 ../comps-f19.xml.in.h:186
@@ -938,7 +940,7 @@ msgstr "Stöd för malajiska"
 #: ../comps-f18.xml.in.h:182 ../comps-f19.xml.in.h:187
 #: ../comps-el6.xml.in.h:155
 msgid "Malayalam Support"
-msgstr "Stöd för malajiska"
+msgstr "Stöd för malajalam"
 
 #: ../comps-f16.xml.in.h:178 ../comps-f17.xml.in.h:183
 #: ../comps-el6.xml.in.h:156
@@ -953,7 +955,7 @@ msgstr "Stöd för manx"
 #: ../comps-f16.xml.in.h:180 ../comps-f17.xml.in.h:186
 #: ../comps-f18.xml.in.h:184 ../comps-f19.xml.in.h:189
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f16.xml.in.h:181 ../comps-f17.xml.in.h:187
 #: ../comps-f18.xml.in.h:185 ../comps-f19.xml.in.h:190
@@ -961,7 +963,7 @@ msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "Skrivbordet MATE är baserat på GNOME 2 och erbjuder ett kraftfullt grafiskt användargränssnitt för användare som är ute efter ett enkelt och lättanvänt traditionellt skrivbordsgränssnitt."
 
 #: ../comps-f16.xml.in.h:182 ../comps-f17.xml.in.h:188
 #: ../comps-el6.xml.in.h:158
@@ -972,7 +974,7 @@ msgstr "Stöd för maori"
 #: ../comps-f18.xml.in.h:186 ../comps-f19.xml.in.h:191
 #: ../comps-el6.xml.in.h:159
 msgid "Marathi Support"
-msgstr "Stöd för marati"
+msgstr "Stöd för marathi"
 
 #: ../comps-f16.xml.in.h:184 ../comps-f17.xml.in.h:192
 msgid "MeeGo NetBook UX Environment"
@@ -1168,7 +1170,7 @@ msgstr "Robotteknik"
 #: ../comps-f16.xml.in.h:220 ../comps-f17.xml.in.h:228
 #: ../comps-f18.xml.in.h:213 ../comps-f19.xml.in.h:218
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Svit av paket för robotteknikutveckling"
 
 #: ../comps-f16.xml.in.h:221 ../comps-f17.xml.in.h:229
 #: ../comps-el6.xml.in.h:201
@@ -1609,7 +1611,7 @@ msgstr "Utveckling"
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
-msgstr "Paket som tillhandahåller funktionalitet för utveckling och skapande av applikationer."
+msgstr "Paket som tillhandahåller funktionalitet för att utveckla och skapa program."
 
 #: ../comps-f16.xml.in.h:303 ../comps-f17.xml.in.h:314
 #: ../comps-f18.xml.in.h:274 ../comps-f19.xml.in.h:288
@@ -1621,7 +1623,7 @@ msgstr "Servrar"
 #: ../comps-f18.xml.in.h:275 ../comps-f19.xml.in.h:289
 #: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
-msgstr "Mjukvara som används för körande nätverksservrar"
+msgstr "Programvara som används för att köra nätverksservrar"
 
 #: ../comps-f16.xml.in.h:305 ../comps-f17.xml.in.h:316
 #: ../comps-f18.xml.in.h:276 ../comps-f19.xml.in.h:290
@@ -1647,7 +1649,7 @@ msgstr "Text och annat fritt innehåll."
 
 #: ../comps-f17.xml.in.h:7 ../comps-f18.xml.in.h:74 ../comps-f19.xml.in.h:74
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anacondaverktyg"
 
 #: ../comps-f17.xml.in.h:24 ../comps-f18.xml.in.h:83 ../comps-f19.xml.in.h:83
 msgid "Bodo Support"
@@ -1700,35 +1702,35 @@ msgstr "Minsta möjliga installation för en virtualiseringsvärd"
 
 #: ../comps-f18.xml.in.h:1 ../comps-f19.xml.in.h:1
 msgid "base-x"
-msgstr ""
+msgstr "bas-x"
 
 #: ../comps-f18.xml.in.h:2 ../comps-f19.xml.in.h:2
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Lokal X.org display-server"
 
 #: ../comps-f18.xml.in.h:3 ../comps-f19.xml.in.h:3
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../comps-f18.xml.in.h:4 ../comps-f19.xml.in.h:4
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Gemensamt ljud-/videoramverk för olika skrivbord"
 
 #: ../comps-f18.xml.in.h:5 ../comps-f19.xml.in.h:5
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f18.xml.in.h:6 ../comps-f19.xml.in.h:6
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME är en mycket intuitiv och användarvänlig skrivbordsmiljö."
 
 #: ../comps-f18.xml.in.h:7 ../comps-f19.xml.in.h:7
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Extra spel för GNOME-skrivbordet"
 
 #: ../comps-f18.xml.in.h:8 ../comps-f19.xml.in.h:8
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Ett antal olika spel för GNOME-skrivbordet"
 
 #: ../comps-f18.xml.in.h:9 ../comps-f19.xml.in.h:9
 msgid "Firefox Web Browser"
@@ -1756,298 +1758,298 @@ msgstr "LibreOffice Produktivitetssvit"
 
 #: ../comps-f18.xml.in.h:15 ../comps-f19.xml.in.h:268
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma arbetsytor"
 
 #: ../comps-f18.xml.in.h:16 ../comps-f19.xml.in.h:16
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "KDE Plasma arbetsytor, ett mycket konfigurerbart grafiskt användargränssnitt som inkluderar en panel, skrivbord, systemikoner och skrivbordsprogram och många kraftfulla KDE-program."
 
 #: ../comps-f18.xml.in.h:17 ../comps-f19.xml.in.h:17
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE-program"
 
 #: ../comps-f18.xml.in.h:18
 msgid "A set of commonly used KDE Applications"
-msgstr ""
+msgstr "Ett antal ofta använda KDE-program"
 
 #: ../comps-f18.xml.in.h:19 ../comps-f19.xml.in.h:19
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE utbildningsprogram"
 
 #: ../comps-f18.xml.in.h:20 ../comps-f19.xml.in.h:20
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE multimediastöd"
 
 #: ../comps-f18.xml.in.h:21 ../comps-f19.xml.in.h:21
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Multimediastöd för KDE"
 
 #: ../comps-f18.xml.in.h:22 ../comps-f19.xml.in.h:22
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE kontor"
 
 #: ../comps-f18.xml.in.h:23 ../comps-f19.xml.in.h:23
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE kontorsprogram"
 
 #: ../comps-f18.xml.in.h:24 ../comps-f19.xml.in.h:24
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f18.xml.in.h:25 ../comps-f19.xml.in.h:25
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE Telepathy-program"
 
 #: ../comps-f18.xml.in.h:28 ../comps-f19.xml.in.h:28
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Program för skrivbordet Xfce"
 
 #: ../comps-f18.xml.in.h:29 ../comps-f19.xml.in.h:29
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Ett antal ofta använda program för skrivbordet Xfce"
 
 #: ../comps-f18.xml.in.h:30 ../comps-f19.xml.in.h:30
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Extra insticksmoduler för Xfce-panelen"
 
 #: ../comps-f18.xml.in.h:31 ../comps-f19.xml.in.h:31
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Utökad funktionalitet i Xfce-panelen"
 
 #: ../comps-f18.xml.in.h:32 ../comps-f19.xml.in.h:32
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Multimediastöd till Xfce"
 
 #: ../comps-f18.xml.in.h:33 ../comps-f19.xml.in.h:33
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Kontor"
 
 #: ../comps-f18.xml.in.h:34 ../comps-f19.xml.in.h:34
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Kontorssvit till Xfce"
 
 #: ../comps-f18.xml.in.h:37 ../comps-f19.xml.in.h:37
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Program för skrivbordet LXDE"
 
 #: ../comps-f18.xml.in.h:38 ../comps-f19.xml.in.h:38
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Ett antal ofta använda program för skrivbordet LXDE"
 
 #: ../comps-f18.xml.in.h:39 ../comps-f19.xml.in.h:39
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Multimediastöd till LXDE"
 
 #: ../comps-f18.xml.in.h:40 ../comps-f19.xml.in.h:40
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Kontor"
 
 #: ../comps-f18.xml.in.h:41 ../comps-f19.xml.in.h:41
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Kontorssvit till LXDE"
 
 #: ../comps-f18.xml.in.h:42 ../comps-f19.xml.in.h:42
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Ytterligare Sugar-aktiviteter"
 
 #: ../comps-f18.xml.in.h:43 ../comps-f19.xml.in.h:43
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Ytterligare aktiviteter att användas med miljön Sugar"
 
 #: ../comps-f18.xml.in.h:44
 msgid "Basic X Window Desktop"
-msgstr ""
+msgstr "Grundläggande skrivbord till fönstersystemet X"
 
 #: ../comps-f18.xml.in.h:45 ../comps-f19.xml.in.h:45
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Grund i fönstersystemet X med ett urval av fönsterhanterare."
 
 #: ../comps-f18.xml.in.h:46 ../comps-f19.xml.in.h:46
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f18.xml.in.h:47 ../comps-f19.xml.in.h:47
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon erbjuder ett skrivbord med en traditionell layout, avancerade funktioner, lätt att använda, kraftfullt och flexibelt."
 
 #: ../comps-f18.xml.in.h:48 ../comps-f19.xml.in.h:48
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f18.xml.in.h:49 ../comps-f19.xml.in.h:49
 msgid "A tiling window manager"
-msgstr ""
+msgstr "En fönsterhanterare för ej överlappande fönster"
 
 #: ../comps-f18.xml.in.h:50
 msgid "XMonad for GNOME"
-msgstr ""
+msgstr "XMonad för GNOME"
 
 #: ../comps-f18.xml.in.h:51
 msgid "XMonad window manager with GNOME"
-msgstr ""
+msgstr "Fönsterhanteraren XMonad med GNOME"
 
 #: ../comps-f18.xml.in.h:52 ../comps-f19.xml.in.h:52
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f18.xml.in.h:53 ../comps-f19.xml.in.h:53
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "Lastbalanserare för TCP/HTTP"
 
 #: ../comps-f18.xml.in.h:54 ../comps-f19.xml.in.h:54
 msgid "JBoss Application Server"
-msgstr ""
+msgstr "JBoss applikationsserver"
 
 #: ../comps-f18.xml.in.h:55 ../comps-f19.xml.in.h:55
 msgid "Java application server."
-msgstr ""
+msgstr "Applikationsserver för Java."
 
 #: ../comps-f18.xml.in.h:56 ../comps-f19.xml.in.h:56
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f18.xml.in.h:57 ../comps-f19.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
-msgstr ""
+msgstr "Skalbar NoSQL-databas med hög prestanda."
 
 #: ../comps-f18.xml.in.h:58 ../comps-f19.xml.in.h:58
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl för webben"
 
 #: ../comps-f18.xml.in.h:59 ../comps-f19.xml.in.h:59
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Grundläggande stöd för Perl i webbprogram."
 
 #: ../comps-f18.xml.in.h:60 ../comps-f19.xml.in.h:60
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f18.xml.in.h:61 ../comps-f19.xml.in.h:61
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Generellt skriptspråk för webbutveckling."
 
 #: ../comps-f18.xml.in.h:62 ../comps-f19.xml.in.h:62
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f18.xml.in.h:63 ../comps-f19.xml.in.h:63
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Grundläggande stöd för Python i webbprogram."
 
 #: ../comps-f18.xml.in.h:64 ../comps-f19.xml.in.h:64
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f18.xml.in.h:65 ../comps-f19.xml.in.h:65
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Webbprogramstacken Ruby on Rails."
 
 #: ../comps-f18.xml.in.h:66 ../comps-f19.xml.in.h:66
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f18.xml.in.h:67 ../comps-f19.xml.in.h:67
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Webbprogramservern Tomcat."
 
 #: ../comps-f18.xml.in.h:68 ../comps-f19.xml.in.h:68
 msgid "Load Balancer"
-msgstr ""
+msgstr "Lastbalanserare"
 
 #: ../comps-f18.xml.in.h:69 ../comps-f19.xml.in.h:69
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Lastbalanseringsstöd för nätverkstrafik"
 
 #: ../comps-f18.xml.in.h:70 ../comps-f19.xml.in.h:70
 msgid "High Availability"
-msgstr ""
+msgstr "Hög tillgänglighet"
 
 #: ../comps-f18.xml.in.h:71 ../comps-f19.xml.in.h:71
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "Infrastruktur för tjänster och/eller delad lagring med hög tillgänglighet."
 
 #: ../comps-f18.xml.in.h:79 ../comps-f19.xml.in.h:79
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: ../comps-f18.xml.in.h:80 ../comps-f19.xml.in.h:80
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Normal uppsättning av verktyg som utvidgar den minimala installationen."
 
 #: ../comps-f18.xml.in.h:244 ../comps-f19.xml.in.h:256
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Enkel webbserver"
 
 #: ../comps-f18.xml.in.h:250 ../comps-f19.xml.in.h:262
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce-programutveckling"
 
 #: ../comps-f18.xml.in.h:251 ../comps-f19.xml.in.h:263
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Installera dessa paket för att utveckla grafiska GTK+- och Xfce-program."
 
 #: ../comps-f18.xml.in.h:253 ../comps-f19.xml.in.h:267
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME-skrivbordet"
 
 #: ../comps-f18.xml.in.h:254 ../comps-f19.xml.in.h:269
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce-skrivbordet"
 
 #: ../comps-f18.xml.in.h:255 ../comps-f19.xml.in.h:270
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE-skrivbordet"
 
 #: ../comps-f18.xml.in.h:256 ../comps-f19.xml.in.h:271
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Cinnamon-skrivbordet"
 
 #: ../comps-f18.xml.in.h:257 ../comps-f19.xml.in.h:272
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE-skrivbordet"
 
 #: ../comps-f18.xml.in.h:258 ../comps-f19.xml.in.h:273
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Utvecklings- och kreativ arbetsstation"
 
 #: ../comps-f18.xml.in.h:259 ../comps-f19.xml.in.h:274
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "Arbetsstation för utveckling av programvara, hårdvara, grafik eller media."
 
 #: ../comps-f18.xml.in.h:261 ../comps-f19.xml.in.h:276
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Server för att serva statiskt eller dynamiskt internetinnehåll."
 
 #: ../comps-f18.xml.in.h:262 ../comps-f19.xml.in.h:277
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Infrastrukturserver"
 
 #: ../comps-f18.xml.in.h:263 ../comps-f19.xml.in.h:278
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Server för att driva tjänster för nätverksinfrastruktur."
 
 #: ../comps-f18.xml.in.h:264
 msgid "Basic X Window System"
-msgstr ""
+msgstr "Grunder för fönstersystemet X"
 
 #: ../comps-f18.xml.in.h:265
 msgid "X Window System without a full desktop environment."
-msgstr ""
+msgstr "Fönstersystemet X utan en fullständig skrivbordsmiljö."
 
 #: ../comps-f18.xml.in.h:266 ../comps-f19.xml.in.h:280
 msgid "Minimal Install"
-msgstr ""
+msgstr "Minimal installation"
 
 #: ../comps-f18.xml.in.h:267 ../comps-f19.xml.in.h:281
 msgid "Basic functionality."
-msgstr ""
+msgstr "Grundläggande funktionalitet."
 
 #: ../comps-f18.xml.in.h:268 ../comps-f19.xml.in.h:282
 #: ../comps-el6.xml.in.h:126
@@ -2056,102 +2058,102 @@ msgstr "KDE-skrivbord"
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Ett antal ofta använda KDE-program"
 
 #: ../comps-f19.xml.in.h:44
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Grundläggande skrivbord"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad för MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "Fönsterhanteraren XMonad med MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Dessa paket är riktade till professionella designer och är kopplade till grafik, webb och animeringar"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "RPM-utvecklingsverktyg"
 
 #: ../comps-f19.xml.in.h:109
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "Dessa verktyg inkluderar grundläggande utvecklingsverktyg såsom rpmbuild."
 
 #: ../comps-f19.xml.in.h:111
 msgid "These tools include general development tools such as git and cvs."
-msgstr ""
+msgstr "Dessa verktyg inkluderar allmänna utvecklingsverktyg såsom git och cvs."
 
 #: ../comps-f19.xml.in.h:112
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C-utvecklingsverktyg och -bibliotek"
 
 #: ../comps-f19.xml.in.h:113
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "Dessa verktyg innehåller grundläggande utvecklingsverktyg såsom automake, gcc och felsökare."
 
 #: ../comps-f19.xml.in.h:181
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Lepcha-stöd"
 
 #: ../comps-f19.xml.in.h:198
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "Databasen MariaDB (MySQL)"
 
 #: ../comps-f19.xml.in.h:199
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "Denna paketgrupp innehåller paket som är användbara tillsammans med MariaDB (MySQL)."
 
 #: ../comps-f19.xml.in.h:224
 msgid "Security Lab"
-msgstr ""
+msgstr "Säkerhetslabb"
 
 #: ../comps-f19.xml.in.h:225
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security"
 " testing methodologies."
-msgstr ""
+msgstr "Verktyg för säkerhetsrevision, kriminalteknik, systemräddning och att lära ut metoder för säkerhetstestning."
 
 #: ../comps-f19.xml.in.h:250
 msgid "Guest Agents"
-msgstr ""
+msgstr "Gästagenter"
 
 #: ../comps-f19.xml.in.h:251
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Agenter som används när man kör under en hypervisor."
 
 #: ../comps-f19.xml.in.h:252
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Gästskrivbordsagenter"
 
 #: ../comps-f19.xml.in.h:253
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Agenter som används när man kör som ett virtuellt skrivbord."
 
 #: ../comps-f19.xml.in.h:265
 msgid "3D Printing"
-msgstr ""
+msgstr "3D-utskrifter"
 
 #: ../comps-f19.xml.in.h:266
 msgid "3D printing software"
-msgstr ""
+msgstr "Programvara för 3D-utskrifter"
 
 #: ../comps-f19.xml.in.h:279
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "Fönstersystemet X med ett urval av fönsterhanterare."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
@@ -2219,7 +2221,7 @@ msgstr "Textredigeraren XEmacs."
 
 #: ../comps-el5.xml.in.h:74
 msgid "Applications for a variety of tasks"
-msgstr "Applikationer för en mängd arbetsuppgifter"
+msgstr "Program för en mängd arbetsuppgifter"
 
 #: ../comps-el6.xml.in.h:1
 msgid "Additional Development"
@@ -2260,7 +2262,7 @@ msgstr "Ett minimalt skrivbord som också kan användas som en tunn klient."
 
 #: ../comps-el6.xml.in.h:29
 msgid "Chhattisgarhi Support"
-msgstr "Stöd för tsjhattisgarhi"
+msgstr "Stöd för chhattisgarhi"
 
 #: ../comps-el6.xml.in.h:31
 msgid "Chinese Support"
@@ -2282,7 +2284,7 @@ msgstr "Kompatibilitetsbibliotek"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr "Kompatibilitetsbibliotek för program byggda på tidigare verisoner av Enterprise Linux."
+msgstr "Kompatibilitetsbibliotek för program byggda på tidigare versioner av Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:36
 msgid "Console internet tools"
@@ -2320,7 +2322,7 @@ msgstr "Skrivbordsplattform"
 
 #: ../comps-el6.xml.in.h:49
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
-msgstr "Stödbibliotek för Enterpise Linux skrivbordsplattform."
+msgstr "Stödbibliotek för Enterprise Linux skrivbordsplattform."
 
 #: ../comps-el6.xml.in.h:50
 msgid "Desktop Platform Development"
@@ -2342,7 +2344,7 @@ msgstr "En grundläggande utvecklingsmiljö."
 
 #: ../comps-el6.xml.in.h:55
 msgid "Tools for connecting via PPP or ISDN."
-msgstr "Verktg för att ansluta via PPP eller ISDN."
+msgstr "Verktyg för att ansluta via PPP eller ISDN."
 
 #: ../comps-el6.xml.in.h:56
 msgid "Directory Client"
@@ -2433,7 +2435,7 @@ msgstr "Stöd för Infiniband"
 msgid ""
 "Software designed for supporting clustering and grid connectivity using "
 "RDMA-based InfiniBand and iWARP fabrics."
-msgstr "Program gjorda för att stödja klustring och nätskonnektivitet med RDMA-baserade InfiniBand- och iWARP-konstruktioner."
+msgstr "Program gjorda för att stödja klustring och nätkonnektivitet med RDMA-baserade InfiniBand- och iWARP-konstruktioner."
 
 #: ../comps-el6.xml.in.h:110
 msgid "Software for the input of international text."
@@ -2445,11 +2447,11 @@ msgstr "Internetprogram"
 
 #: ../comps-el6.xml.in.h:113
 msgid "Email, chat, and video conferencing software."
-msgstr "Epost-, tjatt- och videokonferensprogram."
+msgstr "Epost-, chatt- och videokonferensprogram."
 
 #: ../comps-el6.xml.in.h:114
 msgid "Internet Browser"
-msgstr "Internetbläddrare"
+msgstr "Internetläsare"
 
 #: ../comps-el6.xml.in.h:115
 msgid "Firefox web browser"
@@ -2497,7 +2499,7 @@ msgstr "Kompatibilitetsprogram för övergång från eller arbete med äldre mil
 
 #: ../comps-el6.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr "Grundläggande kompatibilitet med fönstersystemet X arv"
+msgstr "Grundläggande kompatibilitet med äldre miljöer av fönstersystemet X"
 
 #: ../comps-el6.xml.in.h:143
 msgid ""
@@ -2511,7 +2513,7 @@ msgstr "Epostserver"
 
 #: ../comps-el6.xml.in.h:149
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr "Låter systemet att agera som en SMTP- och/eller IMAP-epostserver."
+msgstr "Låter systemet att agera som en SMTP- och/eller IMAP-e-postserver."
 
 #: ../comps-el6.xml.in.h:150
 msgid "Mainframe Access"
@@ -2527,7 +2529,7 @@ msgstr "MySQL-databasserver"
 
 #: ../comps-el6.xml.in.h:164
 msgid "The MySQL SQL database server, and associated packages."
-msgstr "SQL-databasservern MySQL, och tillhörade paket."
+msgstr "SQL-databasservern MySQL, och tillhörande paket."
 
 #: ../comps-el6.xml.in.h:165
 msgid "MySQL Database client"
@@ -2559,7 +2561,7 @@ msgstr "Nätverksverktyg"
 
 #: ../comps-el6.xml.in.h:173
 msgid "Tools for configuring and analyzing computer networks."
-msgstr "Vertyg för att konfigurera och analysera datornätverk."
+msgstr "Verktyg för att konfigurera och analysera datornätverk."
 
 #: ../comps-el6.xml.in.h:174
 msgid "NFS file server"
@@ -2645,7 +2647,7 @@ msgstr "Stöd för vetenskap"
 #: ../comps-el6.xml.in.h:206
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr "Verktyg för matematiska och vetenskapliga beräkningar, och parallelberäkningar."
+msgstr "Verktyg för matematiska och vetenskapliga beräkningar, och parallellberäkningar."
 
 #: ../comps-el6.xml.in.h:207
 msgid "Security Tools"
@@ -2671,7 +2673,7 @@ msgstr "Utveckling av serverplattform"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr "Utvecklingshuvuden och -bibliotek för utveckling av program skom skall köra på Enterpise Linux serverplattform."
+msgstr "Utvecklingshuvuden och -bibliotek för utveckling av program som skall köra på Enterprise Linux serverplattform."
 
 #: ../comps-el6.xml.in.h:214
 msgid "Server Policy"
@@ -2687,7 +2689,7 @@ msgstr "Stöd för smarta kort"
 
 #: ../comps-el6.xml.in.h:221
 msgid "Support for using smart card authentication."
-msgstr "Stöd för att använda smarta kort för autenticering."
+msgstr "Stöd för att använda smarta kort för autentisering."
 
 #: ../comps-el6.xml.in.h:225
 msgid "FCoE Storage Client"
@@ -2787,11 +2789,11 @@ msgstr "Stöd för dokumentformateringssystemet TeX."
 
 #: ../comps-el6.xml.in.h:261
 msgid "TurboGears application framework"
-msgstr "Programramverket TurboGears"
+msgstr "TurboGears applikationsramverk"
 
 #: ../comps-el6.xml.in.h:262
 msgid "TurboGears web application framework."
-msgstr "Webbprogramramverket TurboGears."
+msgstr "TurboGears webbapplikationsramverk."
 
 #: ../comps-el6.xml.in.h:272
 msgid "Provides an environment for hosting virtualized guests."
@@ -2831,7 +2833,7 @@ msgstr "Webb-servlet-motor"
 
 #: ../comps-el6.xml.in.h:283
 msgid "Allows the system to host Java servlets."
-msgstr "Låter systemet att vara värd för Javaservlet:ar."
+msgstr "Låter systemet att vara värd för Java servlets."
 
 #: ../comps-el6.xml.in.h:285
 msgid "Workstation Policy"

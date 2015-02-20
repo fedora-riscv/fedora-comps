@@ -4,13 +4,14 @@
 # 
 # Translators:
 # Adriano Laranjeira <adriano@argl.eng.br>, 2012
-# Cleiton cleitonlima <cleitoncfl@yahoo.com.br>, 2011
+# Cleiton Lima <cleitoncfl@yahoo.com.br>, 2011
 # cleitonlima <cleitoncfl@gmail.com>, 2011
-# Cleiton cleitonlima <cleitoncfl@yahoo.com.br>, 2013
+# Cleiton Lima <cleitoncfl@yahoo.com.br>, 2013
 # David Barzilay <barzilay@redhat.com>, 2003, 2004
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Elder Marco <eldermarco@gmail.com>, 2011
 # Igor Pires Soares <igor@projetofedora.org>, 2006, 2007, 2008, 2009
+# Marcelo Barbosa <firemanxbr@fedoraproject.org>, 2013
 # Pedro Macedo <webmaster@margo.bijoux.nom.br>, 2005
 # Rodrigo Padula de Oliveira <rodrigopadula@gmail.com>, 2005
 # Taylon Silmer <taylon@taylon.eti.br>, 2011
@@ -19,9 +20,9 @@ msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-11-18 12:25-0500\n"
-"PO-Revision-Date: 2013-11-18 17:33+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/fedora/language/pt_BR/)\n"
+"PO-Revision-Date: 2014-06-26 15:32+0000\n"
+"Last-Translator: Daniel Lara <danniel@fedoraproject.org>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/comps/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2061,7 +2062,7 @@ msgstr "KDE Desktop."
 
 #: ../comps-f19.xml.in.h:15
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f19.xml.in.h:18
 msgid "A set of commonly used KDE applications"
@@ -2073,17 +2074,17 @@ msgstr "Ambiente Básico"
 
 #: ../comps-f19.xml.in.h:50
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad para MATE"
 
 #: ../comps-f19.xml.in.h:51
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad gerenciador de janelas com MATE"
 
 #: ../comps-f19.xml.in.h:105
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animations"
-msgstr ""
+msgstr "Estes pacotes são direcionados para designers profissionais relacionadas com gráficos, web e animações"
 
 #: ../comps-f19.xml.in.h:108
 msgid "RPM Development Tools"
