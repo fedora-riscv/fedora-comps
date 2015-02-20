@@ -3497,7 +3497,7 @@
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-runtime-docs</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
-      <packagereq>kde-workspace</packagereq>
+      <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdeaccessibility</packagereq>
       <packagereq>kdegames-minimal</packagereq>
       <packagereq>kdegraphics-strigi-analyzer</packagereq>
@@ -3527,11 +3527,11 @@
       <packagereq>oxygen-gtk</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
+      <packagereq>plasma-workspace</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
       <packagereq>xsettings-kde</packagereq>
-      <packagereq>xterm</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
@@ -3605,7 +3605,6 @@
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
       <packagereq type="default">kate</packagereq>
-      <packagereq type="default">kde-workspace-devel</packagereq>
       <packagereq type="default">kdelibs-webkit-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk-cervisia</packagereq>
