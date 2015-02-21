@@ -6414,7 +6414,6 @@
       <packagereq>gnome-font-viewer</packagereq>
       <packagereq>gnome-getting-started-docs</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
-      <packagereq>gnome-packagekit</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-xsession</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
