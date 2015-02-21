@@ -777,7 +777,7 @@
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
-      <packagereq type="default">gnome-packagekit</packagereq>
+      <packagereq type="default">gnome-software</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">pulseaudio-module-x11</packagereq>
