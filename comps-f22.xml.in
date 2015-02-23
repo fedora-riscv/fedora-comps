@@ -6545,6 +6545,7 @@
       <packagereq>words</packagereq>
       <packagereq>wvdial</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>zip</packagereq>
     </packagelist>
