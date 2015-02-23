@@ -85,6 +85,7 @@
       <packagereq>s390utils-base</packagereq>
       <packagereq>shim</packagereq>
       <packagereq>syslinux-extlinux</packagereq>
+      <packagereq>teamd</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>xfsprogs</packagereq>
     </packagelist>
