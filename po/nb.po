@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-20 10:30-0500\n"
+"POT-Creation-Date: 2015-02-23 13:28-0500\n"
 "PO-Revision-Date: 2015-02-17 18:09+0000\n"
 "Last-Translator: Kjartan Maraas <kmaraas@gnome.org>\n"
 "Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/comps/"
@@ -23,70 +23,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../comps-f20.xml.in.h:1 ../comps-f21.xml.in.h:12 ../comps-f22.xml.in.h:12
+#: ../comps-f23.xml.in.h:12
 msgid "base-x"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:2 ../comps-f21.xml.in.h:13 ../comps-f22.xml.in.h:13
+#: ../comps-f23.xml.in.h:13
 msgid "Local X.org display server"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:3 ../comps-f21.xml.in.h:205 ../comps-f22.xml.in.h:205
+#: ../comps-f23.xml.in.h:205
 msgid "Multimedia"
 msgstr "Multimedia"
 
 #: ../comps-f20.xml.in.h:4 ../comps-f21.xml.in.h:206 ../comps-f22.xml.in.h:206
+#: ../comps-f23.xml.in.h:206
 msgid "Audio/video framework common to desktops"
 msgstr "Rammeverk for lyd og bilde vanlig for skrivebord"
 
 #: ../comps-f20.xml.in.h:5 ../comps-f21.xml.in.h:99 ../comps-f22.xml.in.h:99
+#: ../comps-f23.xml.in.h:99
 msgid "GNOME"
 msgstr "GNOME"
 
 #: ../comps-f20.xml.in.h:6 ../comps-f21.xml.in.h:100 ../comps-f22.xml.in.h:100
+#: ../comps-f23.xml.in.h:100
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
 msgstr "GNOME er et intuitivt og brukervennlig skrivebordsmiljø"
 
 #: ../comps-f20.xml.in.h:7 ../comps-f21.xml.in.h:101 ../comps-f22.xml.in.h:101
+#: ../comps-f23.xml.in.h:101
 msgid "Extra games for the GNOME Desktop"
 msgstr "Ekstra spill for GNOME skrivebordet"
 
 #: ../comps-f20.xml.in.h:8 ../comps-f21.xml.in.h:102 ../comps-f22.xml.in.h:102
+#: ../comps-f23.xml.in.h:102
 msgid "A variety of games for the GNOME Desktop"
 msgstr "En mengde spill for GNOME skrivebordet"
 
 #: ../comps-f20.xml.in.h:9 ../comps-f21.xml.in.h:86 ../comps-f22.xml.in.h:86
+#: ../comps-f23.xml.in.h:86
 msgid "Firefox Web Browser"
 msgstr "Firefox nettleser"
 
 #: ../comps-f20.xml.in.h:10 ../comps-f21.xml.in.h:87 ../comps-f22.xml.in.h:87
+#: ../comps-f23.xml.in.h:87
 msgid "The Firefox web browser"
 msgstr "Nettleseren Firefox"
 
 #: ../comps-f20.xml.in.h:11 ../comps-f21.xml.in.h:79 ../comps-f22.xml.in.h:79
+#: ../comps-f23.xml.in.h:79
 msgid "Epiphany Web Browser"
 msgstr "Epiphany nettleser"
 
 #: ../comps-f20.xml.in.h:12 ../comps-f21.xml.in.h:80 ../comps-f22.xml.in.h:80
+#: ../comps-f23.xml.in.h:80
 msgid "Epiphany Web Browser for GNOME"
 msgstr "Nettleseren Epiphany for GNOME"
 
 #: ../comps-f20.xml.in.h:13 ../comps-f21.xml.in.h:165
-#: ../comps-f22.xml.in.h:165
+#: ../comps-f22.xml.in.h:165 ../comps-f23.xml.in.h:165
 msgid "LibreOffice"
 msgstr "LibreOffice"
 
 #: ../comps-f20.xml.in.h:14 ../comps-f21.xml.in.h:166
-#: ../comps-f22.xml.in.h:166
+#: ../comps-f22.xml.in.h:166 ../comps-f23.xml.in.h:166
 msgid "LibreOffice Productivity Suite"
 msgstr "LibreOffice kontorstøtteprogramvare"
 
 #: ../comps-f20.xml.in.h:15 ../comps-f21.xml.in.h:140
-#: ../comps-f22.xml.in.h:140
+#: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:140
 msgid "KDE"
 msgstr "KDE"
 
 #: ../comps-f20.xml.in.h:16 ../comps-f21.xml.in.h:141
-#: ../comps-f22.xml.in.h:141
+#: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:141
 msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
@@ -94,105 +106,105 @@ msgid ""
 msgstr ""
 
 #: ../comps-f20.xml.in.h:17 ../comps-f21.xml.in.h:138
-#: ../comps-f22.xml.in.h:138
+#: ../comps-f22.xml.in.h:138 ../comps-f23.xml.in.h:138
 msgid "KDE Applications"
 msgstr "KDE programmer"
 
 #: ../comps-f20.xml.in.h:18 ../comps-f21.xml.in.h:139
-#: ../comps-f22.xml.in.h:139
+#: ../comps-f22.xml.in.h:139 ../comps-f23.xml.in.h:139
 msgid "A set of commonly used KDE applications"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:19 ../comps-f21.xml.in.h:142
-#: ../comps-f22.xml.in.h:142
+#: ../comps-f22.xml.in.h:142 ../comps-f23.xml.in.h:142
 msgid "KDE Educational applications"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:20 ../comps-f21.xml.in.h:143
-#: ../comps-f22.xml.in.h:143
+#: ../comps-f22.xml.in.h:143 ../comps-f23.xml.in.h:143
 msgid "KDE Multimedia support"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:21 ../comps-f21.xml.in.h:144
-#: ../comps-f22.xml.in.h:144
+#: ../comps-f22.xml.in.h:144 ../comps-f23.xml.in.h:144
 msgid "Multimedia support for KDE"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:22 ../comps-f21.xml.in.h:145
-#: ../comps-f22.xml.in.h:145
+#: ../comps-f22.xml.in.h:145 ../comps-f23.xml.in.h:145
 msgid "KDE Office"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:23 ../comps-f21.xml.in.h:146
-#: ../comps-f22.xml.in.h:146
+#: ../comps-f22.xml.in.h:146 ../comps-f23.xml.in.h:146
 msgid "KDE Office applications"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:24 ../comps-f21.xml.in.h:149
-#: ../comps-f22.xml.in.h:149
+#: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:149
 msgid "KDE Telepathy"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:25 ../comps-f21.xml.in.h:150
-#: ../comps-f22.xml.in.h:150
+#: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:150
 msgid "KDE Telepathy applications"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:26 ../comps-f21.xml.in.h:291
-#: ../comps-f22.xml.in.h:291 ../comps-el6.xml.in.h:289
-#: ../comps-epel7.xml.in.h:292
+#: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:291
+#: ../comps-el6.xml.in.h:289 ../comps-epel7.xml.in.h:292
 msgid "Xfce"
 msgstr "Xfce"
 
 #: ../comps-f20.xml.in.h:27 ../comps-f21.xml.in.h:292
-#: ../comps-f22.xml.in.h:292 ../comps-el6.xml.in.h:290
-#: ../comps-epel7.xml.in.h:293
+#: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:292
+#: ../comps-el6.xml.in.h:290 ../comps-epel7.xml.in.h:293
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
 "Et lettvektig skrivebordsmiljø som fungerer bra på eldre og tregere maskiner."
 
 #: ../comps-f20.xml.in.h:28 ../comps-f21.xml.in.h:289
-#: ../comps-f22.xml.in.h:289
+#: ../comps-f22.xml.in.h:289 ../comps-f23.xml.in.h:289
 msgid "Applications for the Xfce Desktop"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:29 ../comps-f21.xml.in.h:290
-#: ../comps-f22.xml.in.h:290
+#: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:290
 msgid "A set of commonly used applications for the Xfce Desktop"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:30 ../comps-f21.xml.in.h:293
-#: ../comps-f22.xml.in.h:293
+#: ../comps-f22.xml.in.h:293 ../comps-f23.xml.in.h:293
 msgid "Extra plugins for the Xfce panel"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:31 ../comps-f21.xml.in.h:294
-#: ../comps-f22.xml.in.h:294
+#: ../comps-f22.xml.in.h:294 ../comps-f23.xml.in.h:294
 msgid "Extend the functionality of the Xfce panel"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:32 ../comps-f21.xml.in.h:295
-#: ../comps-f22.xml.in.h:295
+#: ../comps-f22.xml.in.h:295 ../comps-f23.xml.in.h:295
 msgid "Multimedia support for Xfce"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:33 ../comps-f21.xml.in.h:296
-#: ../comps-f22.xml.in.h:296
+#: ../comps-f22.xml.in.h:296 ../comps-f23.xml.in.h:296
 msgid "Xfce Office"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:34 ../comps-f21.xml.in.h:297
-#: ../comps-f22.xml.in.h:297
+#: ../comps-f22.xml.in.h:297 ../comps-f23.xml.in.h:297
 msgid "Office suite for Xfce"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:35 ../comps-f21.xml.in.h:173
-#: ../comps-f22.xml.in.h:173
+#: ../comps-f22.xml.in.h:173 ../comps-f23.xml.in.h:173
 msgid "LXDE"
 msgstr "LXDE"
 
 #: ../comps-f20.xml.in.h:36 ../comps-f21.xml.in.h:174
-#: ../comps-f22.xml.in.h:174
+#: ../comps-f22.xml.in.h:174 ../comps-f23.xml.in.h:174
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
@@ -202,85 +214,89 @@ msgstr ""
 "eldre datamaskiner."
 
 #: ../comps-f20.xml.in.h:37 ../comps-f21.xml.in.h:171
-#: ../comps-f22.xml.in.h:171
+#: ../comps-f22.xml.in.h:171 ../comps-f23.xml.in.h:171
 msgid "Applications for the LXDE Desktop"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:38 ../comps-f21.xml.in.h:172
-#: ../comps-f22.xml.in.h:172
+#: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:172
 msgid "A set of commonly used applications for the LXDE Desktop"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:39 ../comps-f21.xml.in.h:179
-#: ../comps-f22.xml.in.h:179
+#: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:179
 msgid "Multimedia support for LXDE"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:40 ../comps-f21.xml.in.h:181
-#: ../comps-f22.xml.in.h:181
+#: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:181
 msgid "LXDE Office"
 msgstr "LXDE kontorstøtteprogramvare"
 
 #: ../comps-f20.xml.in.h:41 ../comps-f21.xml.in.h:182
-#: ../comps-f22.xml.in.h:182
+#: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:182
 msgid "Office suite for LXDE"
 msgstr "Kontorstøtteprogramvare for LXDE"
 
 #: ../comps-f20.xml.in.h:42 ../comps-f21.xml.in.h:262
-#: ../comps-f22.xml.in.h:262
+#: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:262
 msgid "Additional Sugar Activities"
 msgstr "Flere aktiviteter for Sugar"
 
 #: ../comps-f20.xml.in.h:43 ../comps-f21.xml.in.h:263
-#: ../comps-f22.xml.in.h:263
+#: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:263
 msgid "Additional activities for use with the Sugar Environment."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:44 ../comps-f21.xml.in.h:14 ../comps-f22.xml.in.h:14
+#: ../comps-f23.xml.in.h:14
 msgid "Basic Desktop"
 msgstr "Enkelt skrivebord"
 
 #: ../comps-f20.xml.in.h:45 ../comps-f21.xml.in.h:15 ../comps-f22.xml.in.h:15
+#: ../comps-f23.xml.in.h:15
 msgid "Basic X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:46 ../comps-f21.xml.in.h:25 ../comps-f22.xml.in.h:25
+#: ../comps-f23.xml.in.h:25
 msgid "Cinnamon"
 msgstr "Cinnamon"
 
 #: ../comps-f20.xml.in.h:47 ../comps-f21.xml.in.h:26 ../comps-f22.xml.in.h:26
+#: ../comps-f23.xml.in.h:26
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:48 ../comps-f21.xml.in.h:300
-#: ../comps-f22.xml.in.h:300
+#: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:300
 msgid "XMonad"
 msgstr "XMonad"
 
 #: ../comps-f20.xml.in.h:49 ../comps-f21.xml.in.h:301
-#: ../comps-f22.xml.in.h:301
+#: ../comps-f22.xml.in.h:301 ../comps-f23.xml.in.h:301
 msgid "A tiling window manager"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:50 ../comps-f21.xml.in.h:302
-#: ../comps-f22.xml.in.h:302
+#: ../comps-f22.xml.in.h:302 ../comps-f23.xml.in.h:302
 msgid "XMonad for MATE"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:51 ../comps-f21.xml.in.h:303
-#: ../comps-f22.xml.in.h:303
+#: ../comps-f22.xml.in.h:303 ../comps-f23.xml.in.h:303
 msgid "XMonad window manager with MATE"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:52 ../comps-f21.xml.in.h:117
-#: ../comps-f22.xml.in.h:117
+#: ../comps-f22.xml.in.h:117 ../comps-f23.xml.in.h:117
 msgid "HAProxy"
 msgstr "HAProxy"
 
 #: ../comps-f20.xml.in.h:53 ../comps-f21.xml.in.h:118
-#: ../comps-f22.xml.in.h:118
+#: ../comps-f22.xml.in.h:118 ../comps-f23.xml.in.h:118
 msgid "TCP/HTTP Load Balancer."
 msgstr "TCP/HTTP lastbalanserer"
 
@@ -289,98 +305,97 @@ msgid "JBoss Application Server"
 msgstr "JBoss applikasjonsserver"
 
 #: ../comps-f20.xml.in.h:55 ../comps-f21.xml.in.h:135
-#: ../comps-f22.xml.in.h:135
+#: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:135
 msgid "Java application server."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:56 ../comps-f21.xml.in.h:203
-#: ../comps-f22.xml.in.h:203
+#: ../comps-f22.xml.in.h:203 ../comps-f23.xml.in.h:203
 msgid "MongoDB"
 msgstr "MongoDB"
 
-#: ../comps-f20.xml.in.h:57 ../comps-f21.xml.in.h:204
-#: ../comps-f22.xml.in.h:204
+#: ../comps-f20.xml.in.h:57
 msgid "Scalable high-performance NoSQL database."
 msgstr "Skalerbar høyytelses NoSQL-database"
 
 #: ../comps-f20.xml.in.h:58 ../comps-f21.xml.in.h:224
-#: ../comps-f22.xml.in.h:224
+#: ../comps-f22.xml.in.h:224 ../comps-f23.xml.in.h:224
 msgid "Perl for Web"
 msgstr "Perl for nettet"
 
 #: ../comps-f20.xml.in.h:59 ../comps-f21.xml.in.h:225
-#: ../comps-f22.xml.in.h:225
+#: ../comps-f22.xml.in.h:225 ../comps-f23.xml.in.h:225
 msgid "Basic Perl web application support."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:60 ../comps-f21.xml.in.h:227
-#: ../comps-f22.xml.in.h:227
+#: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:227
 msgid "PHP"
 msgstr "PHP"
 
 #: ../comps-f20.xml.in.h:61 ../comps-f21.xml.in.h:228
-#: ../comps-f22.xml.in.h:228
+#: ../comps-f22.xml.in.h:228 ../comps-f23.xml.in.h:228
 msgid "General-purpose web development scripting language."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:62 ../comps-f21.xml.in.h:232
-#: ../comps-f22.xml.in.h:232
+#: ../comps-f22.xml.in.h:232 ../comps-f23.xml.in.h:232
 msgid "Python"
 msgstr "Python"
 
 #: ../comps-f20.xml.in.h:63 ../comps-f21.xml.in.h:233
-#: ../comps-f22.xml.in.h:233
+#: ../comps-f22.xml.in.h:233 ../comps-f23.xml.in.h:233
 msgid "Basic Python web application support."
 msgstr "Grunnleggende støtte for webapplikasjoner med Python"
 
 #: ../comps-f20.xml.in.h:64 ../comps-f21.xml.in.h:240
-#: ../comps-f22.xml.in.h:240
+#: ../comps-f22.xml.in.h:240 ../comps-f23.xml.in.h:240
 msgid "Ruby on Rails"
 msgstr "Ruby on Rails"
 
 #: ../comps-f20.xml.in.h:65 ../comps-f21.xml.in.h:241
-#: ../comps-f22.xml.in.h:241
+#: ../comps-f22.xml.in.h:241 ../comps-f23.xml.in.h:241
 msgid "Ruby on Rails web application stack."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:66 ../comps-f21.xml.in.h:274
-#: ../comps-f22.xml.in.h:274
+#: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:274
 msgid "Tomcat"
 msgstr "Tomcat"
 
 #: ../comps-f20.xml.in.h:67 ../comps-f21.xml.in.h:275
-#: ../comps-f22.xml.in.h:275
+#: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:275
 msgid "Tomcat web application server."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:68 ../comps-f21.xml.in.h:169
-#: ../comps-f22.xml.in.h:169
+#: ../comps-f22.xml.in.h:169 ../comps-f23.xml.in.h:169
 msgid "Load Balancer"
 msgstr "Lastbalanserer"
 
 #: ../comps-f20.xml.in.h:69 ../comps-f21.xml.in.h:170
-#: ../comps-f22.xml.in.h:170
+#: ../comps-f22.xml.in.h:170 ../comps-f23.xml.in.h:170
 msgid "Load balancing support for network traffic"
 msgstr "Støtte for lastbalansering av nettverkstrafikk"
 
 #: ../comps-f20.xml.in.h:70 ../comps-f21.xml.in.h:115
-#: ../comps-f22.xml.in.h:115
+#: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:115
 msgid "High Availability"
 msgstr "Høy tilgjengelighet"
 
 #: ../comps-f20.xml.in.h:71 ../comps-f21.xml.in.h:116
-#: ../comps-f22.xml.in.h:116
+#: ../comps-f22.xml.in.h:116 ../comps-f23.xml.in.h:116
 msgid "Infrastructure for highly available services and/or shared storage."
 msgstr ""
 "Infrastruktur for tjenester med høy tilgjengelighet og/eller delt lagring."
 
 #: ../comps-f20.xml.in.h:72 ../comps-f21.xml.in.h:3 ../comps-f22.xml.in.h:3
-#: ../comps-el5.xml.in.h:1
+#: ../comps-f23.xml.in.h:3 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
 msgstr "Administrasjonsverktøy"
 
 #: ../comps-f20.xml.in.h:73 ../comps-f21.xml.in.h:4 ../comps-f22.xml.in.h:4
-#: ../comps-el5.xml.in.h:2
+#: ../comps-f23.xml.in.h:4 ../comps-el5.xml.in.h:2
 msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
@@ -389,34 +404,39 @@ msgstr ""
 "inkludert brukeradministrasjon og hardwarekonfigurering."
 
 #: ../comps-f20.xml.in.h:74 ../comps-f21.xml.in.h:5 ../comps-f22.xml.in.h:5
+#: ../comps-f23.xml.in.h:5
 msgid "Anaconda tools"
 msgstr "Anaconda-verktøy"
 
 #: ../comps-f20.xml.in.h:75 ../comps-f21.xml.in.h:6 ../comps-f22.xml.in.h:6
-#: ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6 ../comps-epel7.xml.in.h:8
+#: ../comps-f23.xml.in.h:6 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6
+#: ../comps-epel7.xml.in.h:8
 msgid "Arabic Support"
 msgstr "Støtte for arabisk"
 
 #: ../comps-f20.xml.in.h:76 ../comps-f21.xml.in.h:7 ../comps-f22.xml.in.h:7
-#: ../comps-el6.xml.in.h:8 ../comps-epel7.xml.in.h:10
+#: ../comps-f23.xml.in.h:7 ../comps-el6.xml.in.h:8 ../comps-epel7.xml.in.h:10
 msgid "Assamese Support"
 msgstr "Støtte for assamesisk"
 
 #: ../comps-f20.xml.in.h:77 ../comps-f21.xml.in.h:8 ../comps-f22.xml.in.h:8
+#: ../comps-f23.xml.in.h:8
 msgid "Audio Production"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:78 ../comps-f21.xml.in.h:9 ../comps-f22.xml.in.h:9
+#: ../comps-f23.xml.in.h:9
 #, fuzzy
 msgid "Various tools for audio synthesis and music production."
 msgstr "Sikkerhetsverktøy for sjekk av integritet og tillit."
 
 #: ../comps-f20.xml.in.h:79 ../comps-f21.xml.in.h:10 ../comps-f22.xml.in.h:10
-#: ../comps-el5.xml.in.h:7
+#: ../comps-f23.xml.in.h:10 ../comps-el5.xml.in.h:7
 msgid "Authoring and Publishing"
 msgstr "Tekstpublisering"
 
 #: ../comps-f20.xml.in.h:80 ../comps-f21.xml.in.h:11 ../comps-f22.xml.in.h:11
+#: ../comps-f23.xml.in.h:11
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
@@ -425,78 +445,92 @@ msgstr ""
 "dem til HTML, PDF, Postscript og tekst."
 
 #: ../comps-f20.xml.in.h:81 ../comps-f21.xml.in.h:260
-#: ../comps-f22.xml.in.h:260
+#: ../comps-f22.xml.in.h:260 ../comps-f23.xml.in.h:260
 msgid "Standard"
 msgstr "Standard"
 
 #: ../comps-f20.xml.in.h:82 ../comps-f21.xml.in.h:261
-#: ../comps-f22.xml.in.h:261
+#: ../comps-f22.xml.in.h:261 ../comps-f23.xml.in.h:261
 msgid "Common set of utilities that extend the minimal installation."
 msgstr "Vanlig sett med verktøy som utvider minimal installasjon."
 
 #: ../comps-f20.xml.in.h:83 ../comps-f21.xml.in.h:16 ../comps-f22.xml.in.h:16
-#: ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:22
+#: ../comps-f23.xml.in.h:16 ../comps-el6.xml.in.h:20
+#: ../comps-epel7.xml.in.h:22
 msgid "Bengali Support"
 msgstr "Støtte for bengali"
 
 #: ../comps-f20.xml.in.h:84 ../comps-f21.xml.in.h:17 ../comps-f22.xml.in.h:17
-#: ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:23
+#: ../comps-f23.xml.in.h:17 ../comps-el6.xml.in.h:21
+#: ../comps-epel7.xml.in.h:23
 msgid "Bhutanese Support"
 msgstr "Støtte for Bhutanesisk"
 
 #: ../comps-f20.xml.in.h:85 ../comps-f21.xml.in.h:18 ../comps-f22.xml.in.h:18
+#: ../comps-f23.xml.in.h:18
 msgid "Bodo Support"
 msgstr "Støtte for Bodo"
 
 #: ../comps-f20.xml.in.h:86 ../comps-f21.xml.in.h:19 ../comps-f22.xml.in.h:19
+#: ../comps-f23.xml.in.h:19
 msgid "Books and Guides"
 msgstr "Bøker og veiledninger"
 
 #: ../comps-f20.xml.in.h:87 ../comps-f21.xml.in.h:20 ../comps-f22.xml.in.h:20
+#: ../comps-f23.xml.in.h:20
 msgid "Books and Guides for Fedora users and developers"
 msgstr "Bøker og veiledninger for Fedoras brukere og utviklere"
 
 #: ../comps-f20.xml.in.h:88 ../comps-f21.xml.in.h:21 ../comps-f22.xml.in.h:21
-#: ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
+#: ../comps-f23.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
 #: ../comps-epel7.xml.in.h:27
 msgid "Buildsystem building group"
 msgstr "Byggegruppe for byggsystem"
 
 #: ../comps-f20.xml.in.h:89 ../comps-f21.xml.in.h:22 ../comps-f22.xml.in.h:22
-#: ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:29
+#: ../comps-f23.xml.in.h:22 ../comps-el6.xml.in.h:27
+#: ../comps-epel7.xml.in.h:29
 msgid "Myanmar (Burmese) Support"
 msgstr "Støtte for burmesisk"
 
 #: ../comps-f20.xml.in.h:90 ../comps-f21.xml.in.h:27 ../comps-f22.xml.in.h:27
+#: ../comps-f23.xml.in.h:27
 msgid "Cloud Infrastructure"
 msgstr "Skyinfrastruktur"
 
 #: ../comps-f20.xml.in.h:91 ../comps-f21.xml.in.h:28 ../comps-f22.xml.in.h:28
+#: ../comps-f23.xml.in.h:28
 msgid "Infrastructure packages for cloud computing."
 msgstr "Infrastrukturpakker for databehandling i skyen."
 
 #: ../comps-f20.xml.in.h:92 ../comps-f21.xml.in.h:35 ../comps-f22.xml.in.h:35
-#: ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:41
+#: ../comps-f23.xml.in.h:35 ../comps-el6.xml.in.h:39
+#: ../comps-epel7.xml.in.h:41
 msgid "Core"
 msgstr "Kjerne"
 
 #: ../comps-f20.xml.in.h:93 ../comps-f21.xml.in.h:36 ../comps-f22.xml.in.h:36
+#: ../comps-f23.xml.in.h:36
 msgid "Smallest possible installation"
 msgstr "Minste mulige installering"
 
 #: ../comps-f20.xml.in.h:94 ../comps-f21.xml.in.h:37 ../comps-f22.xml.in.h:37
+#: ../comps-f23.xml.in.h:37
 msgid "Critical Path (Applications)"
 msgstr "Critical Path (programmer)"
 
 #: ../comps-f20.xml.in.h:95 ../comps-f21.xml.in.h:38 ../comps-f22.xml.in.h:38
+#: ../comps-f23.xml.in.h:38
 msgid "A set of applications that are considered critical path"
 msgstr "Et sett med programmer som ses på som essensielle for systemet"
 
 #: ../comps-f20.xml.in.h:96 ../comps-f21.xml.in.h:39 ../comps-f22.xml.in.h:39
+#: ../comps-f23.xml.in.h:39
 msgid "Critical Path (Base)"
 msgstr "Grunnleggende (basis)"
 
 #: ../comps-f20.xml.in.h:97 ../comps-f21.xml.in.h:40 ../comps-f22.xml.in.h:40
+#: ../comps-f23.xml.in.h:40
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
@@ -505,10 +539,12 @@ msgstr ""
 "alle Fedora pakkesett"
 
 #: ../comps-f20.xml.in.h:98 ../comps-f21.xml.in.h:41 ../comps-f22.xml.in.h:41
+#: ../comps-f23.xml.in.h:41
 msgid "Critical Path (GNOME)"
 msgstr "Grunnleggende (GNOME)"
 
 #: ../comps-f20.xml.in.h:99 ../comps-f21.xml.in.h:42 ../comps-f22.xml.in.h:42
+#: ../comps-f23.xml.in.h:42
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
@@ -517,10 +553,12 @@ msgstr ""
 "skrivebordet."
 
 #: ../comps-f20.xml.in.h:100 ../comps-f21.xml.in.h:43 ../comps-f22.xml.in.h:43
+#: ../comps-f23.xml.in.h:43
 msgid "Critical Path (KDE)"
 msgstr "Critical Path (KDE)"
 
 #: ../comps-f20.xml.in.h:101 ../comps-f21.xml.in.h:44 ../comps-f22.xml.in.h:44
+#: ../comps-f23.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
@@ -528,10 +566,12 @@ msgstr ""
 "Et sett med pakker som gir essensiell funksjonalitet for KDE-skrivebordet"
 
 #: ../comps-f20.xml.in.h:102 ../comps-f21.xml.in.h:47 ../comps-f22.xml.in.h:47
+#: ../comps-f23.xml.in.h:47
 msgid "Critical Path (LXDE)"
 msgstr "Critical Path (LXDE)"
 
 #: ../comps-f20.xml.in.h:103 ../comps-f21.xml.in.h:48 ../comps-f22.xml.in.h:48
+#: ../comps-f23.xml.in.h:48
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
@@ -539,10 +579,12 @@ msgstr ""
 "Et sett med pakker som gir essensiell funksjonalitet for LXDE-skrivebordet"
 
 #: ../comps-f20.xml.in.h:104 ../comps-f21.xml.in.h:49 ../comps-f22.xml.in.h:49
+#: ../comps-f23.xml.in.h:49
 msgid "Critical Path (Xfce)"
 msgstr "Critical Path (Xfce)"
 
 #: ../comps-f20.xml.in.h:105 ../comps-f21.xml.in.h:50 ../comps-f22.xml.in.h:50
+#: ../comps-f23.xml.in.h:50
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
@@ -550,6 +592,7 @@ msgstr ""
 "Et sett med pakker som gir essensiell funksjonalitet for Xfce-skrivebordet"
 
 #: ../comps-f20.xml.in.h:106 ../comps-f21.xml.in.h:53 ../comps-f22.xml.in.h:53
+#: ../comps-f23.xml.in.h:53
 msgid "Design Suite"
 msgstr "Designpakke"
 
@@ -563,50 +606,55 @@ msgstr ""
 "designlaget."
 
 #: ../comps-f20.xml.in.h:108 ../comps-f21.xml.in.h:55 ../comps-f22.xml.in.h:55
+#: ../comps-f23.xml.in.h:55
 msgid "Development Libraries"
 msgstr "Utviklingsbibliotek"
 
 #: ../comps-f20.xml.in.h:109 ../comps-f21.xml.in.h:56 ../comps-f22.xml.in.h:56
+#: ../comps-f23.xml.in.h:56
 msgid ""
 "The packages in this group are core libraries needed to develop applications."
 msgstr ""
 "Pakkene i denne gruppen er basis-biblioteker for bruk ved programutvikling."
 
 #: ../comps-f20.xml.in.h:110 ../comps-f21.xml.in.h:236
-#: ../comps-f22.xml.in.h:236
+#: ../comps-f22.xml.in.h:236 ../comps-f23.xml.in.h:236
 msgid "RPM Development Tools"
 msgstr "Utviklingsverktøy for RPM"
 
 #: ../comps-f20.xml.in.h:111 ../comps-f21.xml.in.h:237
-#: ../comps-f22.xml.in.h:237
+#: ../comps-f22.xml.in.h:237 ../comps-f23.xml.in.h:237
 msgid "These tools include core development tools such rpmbuild."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:112 ../comps-f21.xml.in.h:57 ../comps-f22.xml.in.h:57
-#: ../comps-el5.xml.in.h:14
+#: ../comps-f23.xml.in.h:57 ../comps-el5.xml.in.h:14
 msgid "Development Tools"
 msgstr "Utviklingsverktøy"
 
-#: ../comps-f20.xml.in.h:113 ../comps-f21.xml.in.h:58 ../comps-f22.xml.in.h:58
+#: ../comps-f20.xml.in.h:113
 msgid "These tools include general development tools such as git and cvs."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:114 ../comps-f21.xml.in.h:23 ../comps-f22.xml.in.h:23
+#: ../comps-f23.xml.in.h:23
 msgid "C Development Tools and Libraries"
 msgstr "Utviklingsverktøy og biblioteker for C"
 
 #: ../comps-f20.xml.in.h:115 ../comps-f21.xml.in.h:24 ../comps-f22.xml.in.h:24
+#: ../comps-f23.xml.in.h:24
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:116 ../comps-f21.xml.in.h:51 ../comps-f22.xml.in.h:51
+#: ../comps-f23.xml.in.h:51
 #, fuzzy
 msgid "D Development Tools and Libraries"
 msgstr "Utviklingsverktøy og biblioteker for C"
 
-#: ../comps-f20.xml.in.h:117 ../comps-f21.xml.in.h:52 ../comps-f22.xml.in.h:52
+#: ../comps-f20.xml.in.h:117
 #, fuzzy
 msgid "These include development tools and lib such as ldc, geany-tag ."
 msgstr ""
@@ -614,66 +662,79 @@ msgstr ""
 "python og avlusere."
 
 #: ../comps-f20.xml.in.h:118 ../comps-f21.xml.in.h:59 ../comps-f22.xml.in.h:59
-#: ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:56
+#: ../comps-f23.xml.in.h:59 ../comps-el6.xml.in.h:54
+#: ../comps-epel7.xml.in.h:56
 msgid "Dial-up Networking Support"
 msgstr "Støtte for oppringt nettverk"
 
 #: ../comps-f20.xml.in.h:119 ../comps-f21.xml.in.h:60 ../comps-f22.xml.in.h:60
-#: ../comps-el6.xml.in.h:58 ../comps-epel7.xml.in.h:60
+#: ../comps-f23.xml.in.h:60 ../comps-el6.xml.in.h:58
+#: ../comps-epel7.xml.in.h:60
 msgid "Directory Server"
 msgstr "Katalogtjener"
 
 #: ../comps-f20.xml.in.h:120 ../comps-f21.xml.in.h:61 ../comps-f22.xml.in.h:61
-#: ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:61
+#: ../comps-f23.xml.in.h:61 ../comps-el6.xml.in.h:59
+#: ../comps-epel7.xml.in.h:61
 msgid "Machine and user identity servers."
 msgstr "Tjenere for maskin- og brukeridentiteter."
 
 #: ../comps-f20.xml.in.h:121 ../comps-f21.xml.in.h:62 ../comps-f22.xml.in.h:62
+#: ../comps-f23.xml.in.h:62
 msgid "DNS Name Server"
 msgstr "DNS-tjener"
 
 #: ../comps-f20.xml.in.h:122 ../comps-f21.xml.in.h:63 ../comps-f22.xml.in.h:63
+#: ../comps-f23.xml.in.h:63
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr "Denne pakkegruppen lar deg kjøre en DNS-tjener (BIND) på systemet."
 
 #: ../comps-f20.xml.in.h:123 ../comps-f21.xml.in.h:64 ../comps-f22.xml.in.h:64
+#: ../comps-f23.xml.in.h:64
 msgid "Dogri Support"
 msgstr "Støtte for Dogri"
 
 #: ../comps-f20.xml.in.h:124 ../comps-f21.xml.in.h:65 ../comps-f22.xml.in.h:65
+#: ../comps-f23.xml.in.h:65
 msgid "Dogtag Certificate System"
 msgstr "Dogtag sertifikatsystem"
 
 #: ../comps-f20.xml.in.h:125 ../comps-f21.xml.in.h:66 ../comps-f22.xml.in.h:66
+#: ../comps-f23.xml.in.h:66
 msgid "Enterprise-class open source Certificate Authority"
 msgstr "Enterprise-klasse open source sertifikatautoritet"
 
 #: ../comps-f20.xml.in.h:126 ../comps-f21.xml.in.h:69 ../comps-f22.xml.in.h:69
+#: ../comps-f23.xml.in.h:69
 msgid "Fedora Eclipse"
 msgstr "Fedora Eclipse"
 
 #: ../comps-f20.xml.in.h:127 ../comps-f21.xml.in.h:70 ../comps-f22.xml.in.h:70
+#: ../comps-f23.xml.in.h:70
 msgid "Integrated Development Environments based on Eclipse."
 msgstr "Integrerte utviklingsmiljøer basert på Eclipse."
 
 #: ../comps-f20.xml.in.h:128 ../comps-f21.xml.in.h:92 ../comps-f22.xml.in.h:92
+#: ../comps-f23.xml.in.h:92
 #, fuzzy
 msgid "FreeIPA Server"
 msgstr "FTP-tjener"
 
 #: ../comps-f20.xml.in.h:129 ../comps-f21.xml.in.h:93 ../comps-f22.xml.in.h:93
+#: ../comps-f23.xml.in.h:93
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:130 ../comps-f21.xml.in.h:71 ../comps-f22.xml.in.h:71
-#: ../comps-el5.xml.in.h:17
+#: ../comps-f23.xml.in.h:71 ../comps-el5.xml.in.h:17
 msgid "Editors"
 msgstr "Editorer"
 
 #: ../comps-f20.xml.in.h:131 ../comps-f21.xml.in.h:72 ../comps-f22.xml.in.h:72
+#: ../comps-f23.xml.in.h:72
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
@@ -682,34 +743,33 @@ msgstr ""
 "Emacs og Vi er inkludert her."
 
 #: ../comps-f20.xml.in.h:132 ../comps-f21.xml.in.h:73 ../comps-f22.xml.in.h:73
-#: ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
+#: ../comps-f23.xml.in.h:73 ../comps-el5.xml.in.h:19 ../comps-el6.xml.in.h:63
 #: ../comps-epel7.xml.in.h:65
 msgid "Educational Software"
 msgstr "Utdanningsprogrammer"
 
 #: ../comps-f20.xml.in.h:133 ../comps-f21.xml.in.h:74 ../comps-f22.xml.in.h:74
-#: ../comps-el5.xml.in.h:20
+#: ../comps-f23.xml.in.h:74 ../comps-el5.xml.in.h:20
 msgid "Educational software for learning"
 msgstr "Utdanningsprogrammer for læring"
 
 #: ../comps-f20.xml.in.h:134 ../comps-f21.xml.in.h:75 ../comps-f22.xml.in.h:75
-#: ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
+#: ../comps-f23.xml.in.h:75 ../comps-el5.xml.in.h:21 ../comps-el6.xml.in.h:65
 #: ../comps-epel7.xml.in.h:67
 msgid "Electronic Lab"
 msgstr "Elektronikklab"
 
-#: ../comps-f20.xml.in.h:135 ../comps-f21.xml.in.h:76 ../comps-f22.xml.in.h:76
-#: ../comps-el5.xml.in.h:22
+#: ../comps-f20.xml.in.h:135 ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
 msgstr "Utformings- og simuleringsverktøy for maskinvareingeniører"
 
 #: ../comps-f20.xml.in.h:136 ../comps-f21.xml.in.h:77 ../comps-f22.xml.in.h:77
-#: ../comps-el5.xml.in.h:23
+#: ../comps-f23.xml.in.h:77 ../comps-el5.xml.in.h:23
 msgid "Engineering and Scientific"
 msgstr "Vitenskapelige programmer"
 
 #: ../comps-f20.xml.in.h:137 ../comps-f21.xml.in.h:78 ../comps-f22.xml.in.h:78
-#: ../comps-el5.xml.in.h:24
+#: ../comps-f23.xml.in.h:78 ../comps-el5.xml.in.h:24
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
@@ -718,31 +778,34 @@ msgstr ""
 "beregninger/visualiseringer samt enhetskonverteringer."
 
 #: ../comps-f20.xml.in.h:138 ../comps-f21.xml.in.h:81 ../comps-f22.xml.in.h:81
-#: ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:73
+#: ../comps-f23.xml.in.h:81 ../comps-el6.xml.in.h:71
+#: ../comps-epel7.xml.in.h:73
 msgid "Ethiopic Support"
 msgstr "Støtte for etiopisk"
 
 #: ../comps-f20.xml.in.h:139 ../comps-f21.xml.in.h:82 ../comps-f22.xml.in.h:82
-#: ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
+#: ../comps-f23.xml.in.h:82 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 #: ../comps-epel7.xml.in.h:75
 msgid "Fedora Packager"
 msgstr "Fedora pakkeansvarlig"
 
-#: ../comps-f20.xml.in.h:140 ../comps-f21.xml.in.h:83 ../comps-f22.xml.in.h:83
-#: ../comps-el5.xml.in.h:26
+#: ../comps-f20.xml.in.h:140 ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
 msgstr "Verktøy og programmer som trengs av en pakkeansvarlig for Fedora"
 
 #: ../comps-f20.xml.in.h:141 ../comps-f21.xml.in.h:85 ../comps-f22.xml.in.h:85
-#: ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:79
+#: ../comps-f23.xml.in.h:85 ../comps-el6.xml.in.h:77
+#: ../comps-epel7.xml.in.h:79
 msgid "Finnish Support"
 msgstr "Støtte for finsk"
 
 #: ../comps-f20.xml.in.h:142 ../comps-f21.xml.in.h:88 ../comps-f22.xml.in.h:88
+#: ../comps-f23.xml.in.h:88
 msgid "Font design and packaging"
 msgstr "Skriftutforming og pakking"
 
 #: ../comps-f20.xml.in.h:143 ../comps-f21.xml.in.h:89 ../comps-f22.xml.in.h:89
+#: ../comps-f23.xml.in.h:89
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
@@ -751,91 +814,100 @@ msgstr ""
 "utforming, endring, manipulering og pakking av skrifter."
 
 #: ../comps-f20.xml.in.h:144 ../comps-f21.xml.in.h:90 ../comps-f22.xml.in.h:90
-#: ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:80
+#: ../comps-f23.xml.in.h:90 ../comps-el6.xml.in.h:78
+#: ../comps-epel7.xml.in.h:80
 msgid "Fonts"
 msgstr "Skrifter"
 
 #: ../comps-f20.xml.in.h:145 ../comps-f21.xml.in.h:91 ../comps-f22.xml.in.h:91
+#: ../comps-f23.xml.in.h:91
 msgid "Fonts packages for rendering text on the desktop."
 msgstr "Skriftpakker for å vise tekst på skrivebordet."
 
 #: ../comps-f20.xml.in.h:146 ../comps-f21.xml.in.h:94 ../comps-f22.xml.in.h:94
-#: ../comps-el5.xml.in.h:27
+#: ../comps-f23.xml.in.h:94 ../comps-el5.xml.in.h:27
 msgid "FTP Server"
 msgstr "FTP-tjener"
 
 #: ../comps-f20.xml.in.h:147 ../comps-f21.xml.in.h:95 ../comps-f22.xml.in.h:95
-#: ../comps-el5.xml.in.h:28
+#: ../comps-f23.xml.in.h:95 ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
 msgstr "Disse verktøyene lar deg kjøre en ftp-tjener på systemet."
 
 #: ../comps-f20.xml.in.h:148 ../comps-f21.xml.in.h:96 ../comps-f22.xml.in.h:96
-#: ../comps-el5.xml.in.h:29
+#: ../comps-f23.xml.in.h:96 ../comps-el5.xml.in.h:29
 msgid "Games and Entertainment"
 msgstr "Spill og underholdning"
 
 #: ../comps-f20.xml.in.h:149 ../comps-f21.xml.in.h:97 ../comps-f22.xml.in.h:97
-#: ../comps-el5.xml.in.h:30
+#: ../comps-f23.xml.in.h:97 ../comps-el5.xml.in.h:30
 msgid "Various ways to relax and spend your free time."
 msgstr "Forskjellige måter å slappe av og fordrive fritiden."
 
 #: ../comps-f20.xml.in.h:150 ../comps-f21.xml.in.h:98 ../comps-f22.xml.in.h:98
-#: ../comps-el6.xml.in.h:89 ../comps-epel7.xml.in.h:91
+#: ../comps-f23.xml.in.h:98 ../comps-el6.xml.in.h:89
+#: ../comps-epel7.xml.in.h:91
 msgid "Georgian Support"
 msgstr "Støtte for georgisk"
 
 #: ../comps-f20.xml.in.h:151 ../comps-f21.xml.in.h:103
-#: ../comps-f22.xml.in.h:103 ../comps-el5.xml.in.h:33
+#: ../comps-f22.xml.in.h:103 ../comps-f23.xml.in.h:103
+#: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "Programvareutvikling for GNOME"
 
 #: ../comps-f20.xml.in.h:152 ../comps-f21.xml.in.h:104
-#: ../comps-f22.xml.in.h:104 ../comps-el5.xml.in.h:34
+#: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:104
+#: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr "Installer disse pakkene for utvikling av GTK+- og GNOME-programmer."
 
 #: ../comps-f20.xml.in.h:153 ../comps-f21.xml.in.h:105
-#: ../comps-f22.xml.in.h:105 ../comps-el5.xml.in.h:35
+#: ../comps-f22.xml.in.h:105 ../comps-f23.xml.in.h:105
+#: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "Grafisk Internet"
 
-#: ../comps-f20.xml.in.h:154 ../comps-f21.xml.in.h:106
-#: ../comps-f22.xml.in.h:106 ../comps-el5.xml.in.h:36
+#: ../comps-f20.xml.in.h:154 ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr "Denne gruppen inkluderer grafiske epost, web og chat-klienter."
 
 #: ../comps-f20.xml.in.h:155 ../comps-f21.xml.in.h:107
-#: ../comps-f22.xml.in.h:107 ../comps-el5.xml.in.h:37
+#: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:107
+#: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "Grafikk"
 
 #: ../comps-f20.xml.in.h:156 ../comps-f21.xml.in.h:108
-#: ../comps-f22.xml.in.h:108 ../comps-el5.xml.in.h:38
+#: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:108
+#: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
 "Denne gruppen inneholder pakker for manipulering og innscanning av bilder."
 
 #: ../comps-f20.xml.in.h:157 ../comps-f21.xml.in.h:109
-#: ../comps-f22.xml.in.h:109 ../comps-el6.xml.in.h:95
-#: ../comps-epel7.xml.in.h:97
+#: ../comps-f22.xml.in.h:109 ../comps-f23.xml.in.h:109
+#: ../comps-el6.xml.in.h:95 ../comps-epel7.xml.in.h:97
 msgid "Greek Support"
 msgstr "Støtte for gresk"
 
 #: ../comps-f20.xml.in.h:158 ../comps-f21.xml.in.h:114
-#: ../comps-f22.xml.in.h:114 ../comps-el6.xml.in.h:96
-#: ../comps-epel7.xml.in.h:98
+#: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:114
+#: ../comps-el6.xml.in.h:96 ../comps-epel7.xml.in.h:98
 msgid "Gujarati Support"
 msgstr "Støtte for gujarati"
 
 #: ../comps-f20.xml.in.h:159 ../comps-f21.xml.in.h:119
-#: ../comps-f22.xml.in.h:119 ../comps-el5.xml.in.h:39
+#: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:119
+#: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "Støtte for maskinvare"
 
 #: ../comps-f20.xml.in.h:160 ../comps-f21.xml.in.h:120
-#: ../comps-f22.xml.in.h:120 ../comps-el5.xml.in.h:40
+#: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:120
+#: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
@@ -843,129 +915,131 @@ msgstr ""
 "tilbehør."
 
 #: ../comps-f20.xml.in.h:161 ../comps-f21.xml.in.h:121
-#: ../comps-f22.xml.in.h:121 ../comps-el6.xml.in.h:101
-#: ../comps-epel7.xml.in.h:103
+#: ../comps-f22.xml.in.h:121 ../comps-f23.xml.in.h:121
+#: ../comps-el6.xml.in.h:101 ../comps-epel7.xml.in.h:103
 msgid "Haskell"
 msgstr "Haskell"
 
 #: ../comps-f20.xml.in.h:162 ../comps-f21.xml.in.h:122
-#: ../comps-f22.xml.in.h:122 ../comps-el6.xml.in.h:102
-#: ../comps-epel7.xml.in.h:104
+#: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:122
+#: ../comps-el6.xml.in.h:102 ../comps-epel7.xml.in.h:104
 msgid "Support for developing programs in the Haskell programming language."
 msgstr "Støtte for utvikling av programmer i programmeringsspråket Haskell."
 
 #: ../comps-f20.xml.in.h:163 ../comps-f21.xml.in.h:125
-#: ../comps-f22.xml.in.h:125 ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:99
+#: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:125
+#: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:99
 #: ../comps-epel7.xml.in.h:101
 msgid "Hebrew Support"
 msgstr "Støtte for hebraisk"
 
 #: ../comps-f20.xml.in.h:164 ../comps-f21.xml.in.h:126
-#: ../comps-f22.xml.in.h:126 ../comps-el6.xml.in.h:103
-#: ../comps-epel7.xml.in.h:105
+#: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:126
+#: ../comps-el6.xml.in.h:103 ../comps-epel7.xml.in.h:105
 msgid "Hindi Support"
 msgstr "Støtte for hindu"
 
 #: ../comps-f20.xml.in.h:165 ../comps-f21.xml.in.h:127
-#: ../comps-f22.xml.in.h:127 ../comps-el6.xml.in.h:109
-#: ../comps-epel7.xml.in.h:111
+#: ../comps-f22.xml.in.h:127 ../comps-f23.xml.in.h:127
+#: ../comps-el6.xml.in.h:109 ../comps-epel7.xml.in.h:111
 msgid "Input Methods"
 msgstr "Inndatametoder"
 
 #: ../comps-f20.xml.in.h:166 ../comps-f21.xml.in.h:128
-#: ../comps-f22.xml.in.h:128
+#: ../comps-f22.xml.in.h:128 ../comps-f23.xml.in.h:128
 msgid "Input method packages for the input of international text."
 msgstr "Pakker med inndatametoder for inntasting av spesielle tegn."
 
 #: ../comps-f20.xml.in.h:167 ../comps-f21.xml.in.h:129
-#: ../comps-f22.xml.in.h:129 ../comps-el5.xml.in.h:43
-#: ../comps-el6.xml.in.h:119 ../comps-epel7.xml.in.h:121
+#: ../comps-f22.xml.in.h:129 ../comps-f23.xml.in.h:129
+#: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
+#: ../comps-epel7.xml.in.h:121
 msgid "Japanese Support"
 msgstr "Støtte for japansk"
 
 #: ../comps-f20.xml.in.h:168 ../comps-f21.xml.in.h:130
-#: ../comps-f22.xml.in.h:130
+#: ../comps-f22.xml.in.h:130 ../comps-f23.xml.in.h:130
 msgid "Java"
 msgstr "Java"
 
 #: ../comps-f20.xml.in.h:169 ../comps-f21.xml.in.h:131
-#: ../comps-f22.xml.in.h:131
+#: ../comps-f22.xml.in.h:131 ../comps-f23.xml.in.h:131
 msgid "Support for running programs written in the Java programming language."
 msgstr "Støtte for kjøring av programmer skrevet i programmeringsspråket Java."
 
 #: ../comps-f20.xml.in.h:170 ../comps-f21.xml.in.h:132
-#: ../comps-f22.xml.in.h:132
+#: ../comps-f22.xml.in.h:132 ../comps-f23.xml.in.h:132
 msgid "Java Development"
 msgstr "Java-utvikling"
 
 #: ../comps-f20.xml.in.h:171 ../comps-f21.xml.in.h:133
-#: ../comps-f22.xml.in.h:133
+#: ../comps-f22.xml.in.h:133 ../comps-f23.xml.in.h:133
 msgid "Support for developing programs in the Java programming language."
 msgstr "Støtte for utvikling av programmer i programmeringsspråket Java."
 
 #: ../comps-f20.xml.in.h:172 ../comps-f21.xml.in.h:136
-#: ../comps-f22.xml.in.h:136 ../comps-el6.xml.in.h:122
-#: ../comps-epel7.xml.in.h:124
+#: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:136
+#: ../comps-el6.xml.in.h:122 ../comps-epel7.xml.in.h:124
 msgid "Kannada Support"
 msgstr "Støtte for kannada"
 
 #: ../comps-f20.xml.in.h:173 ../comps-f21.xml.in.h:137
-#: ../comps-f22.xml.in.h:137 ../comps-el6.xml.in.h:123
-#: ../comps-epel7.xml.in.h:125
+#: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:137
+#: ../comps-el6.xml.in.h:123 ../comps-epel7.xml.in.h:125
 msgid "Kashmiri Support"
 msgstr "Støtte for kashmirsk"
 
 #: ../comps-f20.xml.in.h:174 ../comps-f21.xml.in.h:147
-#: ../comps-f22.xml.in.h:147 ../comps-el5.xml.in.h:47
+#: ../comps-f22.xml.in.h:147 ../comps-f23.xml.in.h:147
+#: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "Programvareutvikling for KDE"
 
-#: ../comps-f20.xml.in.h:175 ../comps-f21.xml.in.h:148
-#: ../comps-f22.xml.in.h:148 ../comps-el5.xml.in.h:48
+#: ../comps-f20.xml.in.h:175 ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
 msgstr "Installer disse pakkene for utvikling av QT og KDE-programmer."
 
 #: ../comps-f20.xml.in.h:176 ../comps-f21.xml.in.h:153
-#: ../comps-f22.xml.in.h:153 ../comps-el6.xml.in.h:128
-#: ../comps-epel7.xml.in.h:130
+#: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:153
+#: ../comps-el6.xml.in.h:128 ../comps-epel7.xml.in.h:130
 msgid "Khmer Support"
 msgstr "Støtte for khmer"
 
 #: ../comps-f20.xml.in.h:177 ../comps-f21.xml.in.h:154
-#: ../comps-f22.xml.in.h:154 ../comps-el6.xml.in.h:130
-#: ../comps-epel7.xml.in.h:132
+#: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:154
+#: ../comps-el6.xml.in.h:130 ../comps-epel7.xml.in.h:132
 msgid "Konkani Support"
 msgstr "Støtte for konkani"
 
 #: ../comps-f20.xml.in.h:178 ../comps-f21.xml.in.h:155
-#: ../comps-f22.xml.in.h:155 ../comps-el6.xml.in.h:131
-#: ../comps-epel7.xml.in.h:133
+#: ../comps-f22.xml.in.h:155 ../comps-f23.xml.in.h:155
+#: ../comps-el6.xml.in.h:131 ../comps-epel7.xml.in.h:133
 msgid "Korean Support"
 msgstr "Støtte for koreansk"
 
 #: ../comps-f20.xml.in.h:179 ../comps-f21.xml.in.h:156
-#: ../comps-f22.xml.in.h:156 ../comps-el6.xml.in.h:132
-#: ../comps-epel7.xml.in.h:134
+#: ../comps-f22.xml.in.h:156 ../comps-f23.xml.in.h:156
+#: ../comps-el6.xml.in.h:132 ../comps-epel7.xml.in.h:134
 msgid "Kurdish Support"
 msgstr "Støtte for kurdisk"
 
 #: ../comps-f20.xml.in.h:180 ../comps-f21.xml.in.h:157
-#: ../comps-f22.xml.in.h:157
+#: ../comps-f22.xml.in.h:157 ../comps-f23.xml.in.h:157
 msgid "Legacy Fonts"
 msgstr "Foreldede skrifter"
 
 #: ../comps-f20.xml.in.h:181 ../comps-f21.xml.in.h:158
-#: ../comps-f22.xml.in.h:158
+#: ../comps-f22.xml.in.h:158 ../comps-f23.xml.in.h:158
 msgid "Older bitmap and vector fonts packages"
 msgstr "Eldre pakker med bitkart og vektorskrifter"
 
 #: ../comps-f20.xml.in.h:182 ../comps-f21.xml.in.h:159
-#: ../comps-f22.xml.in.h:159
+#: ../comps-f22.xml.in.h:159 ../comps-f23.xml.in.h:159
 msgid "Legacy Network Server"
 msgstr "Eldre nettverkstjener"
 
 #: ../comps-f20.xml.in.h:183 ../comps-f21.xml.in.h:160
-#: ../comps-f22.xml.in.h:160
+#: ../comps-f22.xml.in.h:160 ../comps-f23.xml.in.h:160
 msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
@@ -974,32 +1048,32 @@ msgstr ""
 "telnet."
 
 #: ../comps-f20.xml.in.h:184 ../comps-f21.xml.in.h:161
-#: ../comps-f22.xml.in.h:161
+#: ../comps-f22.xml.in.h:161 ../comps-f23.xml.in.h:161
 msgid "Legacy Software Development"
 msgstr "Programvareutvikling for eldre systemer."
 
 #: ../comps-f20.xml.in.h:185 ../comps-f21.xml.in.h:162
-#: ../comps-f22.xml.in.h:162
+#: ../comps-f22.xml.in.h:162 ../comps-f23.xml.in.h:162
 msgid "These packages provide compatibility with previous releases."
 msgstr "Disse pakkene gir kompatibilitet med tidligere versjoner."
 
 #: ../comps-f20.xml.in.h:186 ../comps-f21.xml.in.h:163
-#: ../comps-f22.xml.in.h:163
+#: ../comps-f22.xml.in.h:163 ../comps-f23.xml.in.h:163
 msgid "Legacy Software Support"
 msgstr "Støtte for eldre programvare"
 
 #: ../comps-f20.xml.in.h:187 ../comps-f21.xml.in.h:164
-#: ../comps-f22.xml.in.h:164
+#: ../comps-f22.xml.in.h:164 ../comps-f23.xml.in.h:164
 msgid "Lepcha Support"
 msgstr "Støtte for Lepcha"
 
 #: ../comps-f20.xml.in.h:188 ../comps-f21.xml.in.h:167
-#: ../comps-f22.xml.in.h:167
+#: ../comps-f22.xml.in.h:167 ../comps-f23.xml.in.h:167
 msgid "LibreOffice Development"
 msgstr "LibreOffice-utvikling"
 
 #: ../comps-f20.xml.in.h:189 ../comps-f21.xml.in.h:168
-#: ../comps-f22.xml.in.h:168
+#: ../comps-f22.xml.in.h:168 ../comps-f23.xml.in.h:168
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
@@ -1007,39 +1081,43 @@ msgstr ""
 "LibreOffice."
 
 #: ../comps-f20.xml.in.h:190 ../comps-f21.xml.in.h:185
-#: ../comps-f22.xml.in.h:185 ../comps-el5.xml.in.h:49
+#: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:185
+#: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "Eposttjener"
 
 #: ../comps-f20.xml.in.h:191 ../comps-f21.xml.in.h:186
-#: ../comps-f22.xml.in.h:186 ../comps-el5.xml.in.h:50
+#: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:186
+#: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "Disse pakkene lar deg konfigurere en IMAP eller SMTP e-posttjener."
 
 #: ../comps-f20.xml.in.h:192 ../comps-f21.xml.in.h:187
-#: ../comps-f22.xml.in.h:187 ../comps-el6.xml.in.h:152
-#: ../comps-epel7.xml.in.h:154
+#: ../comps-f22.xml.in.h:187 ../comps-f23.xml.in.h:187
+#: ../comps-el6.xml.in.h:152 ../comps-epel7.xml.in.h:154
 msgid "Maithili Support"
 msgstr "Støtte for maithili"
 
 #: ../comps-f20.xml.in.h:193 ../comps-f21.xml.in.h:188
-#: ../comps-f22.xml.in.h:188 ../comps-el6.xml.in.h:155
-#: ../comps-epel7.xml.in.h:157
+#: ../comps-f22.xml.in.h:188 ../comps-f23.xml.in.h:188
+#: ../comps-el6.xml.in.h:155 ../comps-epel7.xml.in.h:157
 msgid "Malayalam Support"
 msgstr "Støtte for malayalam"
 
 #: ../comps-f20.xml.in.h:194 ../comps-f21.xml.in.h:189
-#: ../comps-f22.xml.in.h:189
+#: ../comps-f22.xml.in.h:189 ../comps-f23.xml.in.h:189
 msgid "Manipuri Support"
 msgstr "Støtte for Manipuri"
 
 #: ../comps-f20.xml.in.h:195 ../comps-f21.xml.in.h:195
-#: ../comps-f22.xml.in.h:195 ../comps-epel7.xml.in.h:162
+#: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:195
+#: ../comps-epel7.xml.in.h:162
 msgid "MATE"
 msgstr "MATE"
 
 #: ../comps-f20.xml.in.h:196 ../comps-f21.xml.in.h:196
-#: ../comps-f22.xml.in.h:196 ../comps-epel7.xml.in.h:2
+#: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:196
+#: ../comps-epel7.xml.in.h:2
 msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
@@ -1047,13 +1125,13 @@ msgid ""
 msgstr ""
 
 #: ../comps-f20.xml.in.h:197 ../comps-f21.xml.in.h:191
-#: ../comps-f22.xml.in.h:191
+#: ../comps-f22.xml.in.h:191 ../comps-f23.xml.in.h:191
 #, fuzzy
 msgid "MATE Applications"
 msgstr "KDE programmer"
 
 #: ../comps-f20.xml.in.h:198 ../comps-f21.xml.in.h:192
-#: ../comps-f22.xml.in.h:192
+#: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:192
 #, fuzzy
 msgid "Applications for the MATE Desktop."
 msgstr "En mengde spill for GNOME skrivebordet"
@@ -1062,97 +1140,99 @@ msgstr "En mengde spill for GNOME skrivebordet"
 msgid "mate-compiz"
 msgstr ""
 
-#: ../comps-f20.xml.in.h:200 ../comps-f21.xml.in.h:194
-#: ../comps-f22.xml.in.h:194
+#: ../comps-f20.xml.in.h:200 ../comps-f22.xml.in.h:194
+#: ../comps-f23.xml.in.h:194
 msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:201 ../comps-f21.xml.in.h:190
-#: ../comps-f22.xml.in.h:190 ../comps-el6.xml.in.h:159
-#: ../comps-epel7.xml.in.h:161
+#: ../comps-f22.xml.in.h:190 ../comps-f23.xml.in.h:190
+#: ../comps-el6.xml.in.h:159 ../comps-epel7.xml.in.h:161
 msgid "Marathi Support"
 msgstr "Støtte for marathi"
 
 #: ../comps-f20.xml.in.h:202 ../comps-f21.xml.in.h:197
-#: ../comps-f22.xml.in.h:197
+#: ../comps-f22.xml.in.h:197 ../comps-f23.xml.in.h:197
 msgid "Medical Applications"
 msgstr "Medisinske programmer"
 
 #: ../comps-f20.xml.in.h:203 ../comps-f21.xml.in.h:198
-#: ../comps-f22.xml.in.h:198
+#: ../comps-f22.xml.in.h:198 ../comps-f23.xml.in.h:198
 msgid "This is a group of applications related to health care."
 msgstr "Dette er en gruppe med programmer som er relatert til helsesektoren."
 
 #: ../comps-f20.xml.in.h:204 ../comps-f21.xml.in.h:199
-#: ../comps-f22.xml.in.h:199 ../comps-el6.xml.in.h:160
-#: ../comps-epel7.xml.in.h:163
+#: ../comps-f22.xml.in.h:199 ../comps-f23.xml.in.h:199
+#: ../comps-el6.xml.in.h:160 ../comps-epel7.xml.in.h:163
 msgid "Milkymist"
 msgstr "Milkymist"
 
 #: ../comps-f20.xml.in.h:205 ../comps-f21.xml.in.h:200
-#: ../comps-f22.xml.in.h:200 ../comps-el6.xml.in.h:161
-#: ../comps-epel7.xml.in.h:164
+#: ../comps-f22.xml.in.h:200 ../comps-f23.xml.in.h:200
+#: ../comps-el6.xml.in.h:161 ../comps-epel7.xml.in.h:164
 msgid "Toolchain for Milkymist hardware engineers."
 msgstr "Verktøy for Milkymist-maskinvareutformere."
 
 #: ../comps-f20.xml.in.h:206 ../comps-f21.xml.in.h:201
-#: ../comps-f22.xml.in.h:201
+#: ../comps-f22.xml.in.h:201 ../comps-f23.xml.in.h:201
 msgid "MinGW cross-compiler"
 msgstr "MinGW krysskompilator"
 
 #: ../comps-f20.xml.in.h:207 ../comps-f21.xml.in.h:202
-#: ../comps-f22.xml.in.h:202
+#: ../comps-f22.xml.in.h:202 ../comps-f23.xml.in.h:202
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:208 ../comps-f21.xml.in.h:207
-#: ../comps-f22.xml.in.h:207
+#: ../comps-f22.xml.in.h:207 ../comps-f23.xml.in.h:207
 msgid "MariaDB (MySQL) Database"
 msgstr "MariaDB database (MySQL)"
 
 #: ../comps-f20.xml.in.h:209 ../comps-f21.xml.in.h:208
-#: ../comps-f22.xml.in.h:208
+#: ../comps-f22.xml.in.h:208 ../comps-f23.xml.in.h:208
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:210 ../comps-f21.xml.in.h:209
-#: ../comps-f22.xml.in.h:209 ../comps-el6.xml.in.h:167
-#: ../comps-epel7.xml.in.h:170
+#: ../comps-f22.xml.in.h:209 ../comps-f23.xml.in.h:209
+#: ../comps-el6.xml.in.h:167 ../comps-epel7.xml.in.h:170
 msgid "Nepali Support"
 msgstr "Støtte for nepalsk"
 
 #: ../comps-f20.xml.in.h:211 ../comps-f21.xml.in.h:210
-#: ../comps-f22.xml.in.h:210 ../comps-el5.xml.in.h:51
+#: ../comps-f22.xml.in.h:210 ../comps-f23.xml.in.h:210
+#: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "Nettverkstjener"
 
 #: ../comps-f20.xml.in.h:212 ../comps-f21.xml.in.h:211
-#: ../comps-f22.xml.in.h:211
+#: ../comps-f22.xml.in.h:211 ../comps-f23.xml.in.h:211
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
 "Disse pakkene inkluderer nettverks-baserte tjenere som DHCP, Kerberos og NIS."
 
 #: ../comps-f20.xml.in.h:213 ../comps-f21.xml.in.h:214
-#: ../comps-f22.xml.in.h:214 ../comps-el5.xml.in.h:53
+#: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:214
+#: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "News-tjenere"
 
 #: ../comps-f20.xml.in.h:214 ../comps-f21.xml.in.h:215
-#: ../comps-f22.xml.in.h:215 ../comps-el5.xml.in.h:54
+#: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:215
+#: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr "Disse verktøyene lar deg kjøre en news-tjener på systemet."
 
 #: ../comps-f20.xml.in.h:215 ../comps-f21.xml.in.h:216
-#: ../comps-f22.xml.in.h:216
+#: ../comps-f22.xml.in.h:216 ../comps-f23.xml.in.h:216
 msgid "OCaml"
 msgstr "OCaml"
 
-#: ../comps-f20.xml.in.h:216 ../comps-f21.xml.in.h:217
-#: ../comps-f22.xml.in.h:217
+#: ../comps-f20.xml.in.h:216
 msgid ""
 "Support for developing software using the Objective CAML programming "
 "language and libraries."
@@ -1161,49 +1241,51 @@ msgstr ""
 "dets biblioteker."
 
 #: ../comps-f20.xml.in.h:217 ../comps-f21.xml.in.h:218
-#: ../comps-f22.xml.in.h:218 ../comps-el5.xml.in.h:55
+#: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:218
+#: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "Kontor/Produktivitet"
 
 #: ../comps-f20.xml.in.h:218 ../comps-f21.xml.in.h:219
-#: ../comps-f22.xml.in.h:219 ../comps-el5.xml.in.h:56
+#: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:219
+#: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "Applikasjonene innerholder kontorstøtteprogrammer, PDV-lesere og mer."
 
 #: ../comps-f20.xml.in.h:219 ../comps-f21.xml.in.h:220
-#: ../comps-f22.xml.in.h:220
+#: ../comps-f22.xml.in.h:220 ../comps-f23.xml.in.h:220
 msgid "Online Help and Documentation"
 msgstr "Hjelp og dokumentasjon"
 
 #: ../comps-f20.xml.in.h:220 ../comps-f21.xml.in.h:221
-#: ../comps-f22.xml.in.h:221 ../comps-el6.xml.in.h:181
-#: ../comps-epel7.xml.in.h:184
+#: ../comps-f22.xml.in.h:221 ../comps-f23.xml.in.h:221
+#: ../comps-el6.xml.in.h:181 ../comps-epel7.xml.in.h:184
 msgid "Oriya Support"
 msgstr "Støtte for Oriya"
 
 #: ../comps-f20.xml.in.h:221 ../comps-f21.xml.in.h:222
-#: ../comps-f22.xml.in.h:222
+#: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:222
 msgid "Perl Development"
 msgstr "Perl-utvikling"
 
 #: ../comps-f20.xml.in.h:222 ../comps-f21.xml.in.h:223
-#: ../comps-f22.xml.in.h:223
+#: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:223
 msgid "Support for developing programs in the Perl programming language."
 msgstr "Støtte for utvikling av programmer i programmeringsspråket Perl."
 
 #: ../comps-f20.xml.in.h:223 ../comps-f21.xml.in.h:226
-#: ../comps-f22.xml.in.h:226 ../comps-el6.xml.in.h:186
-#: ../comps-epel7.xml.in.h:189
+#: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:226
+#: ../comps-el6.xml.in.h:186 ../comps-epel7.xml.in.h:189
 msgid "Persian Support"
 msgstr "Støtte for persisk"
 
 #: ../comps-f20.xml.in.h:224 ../comps-f21.xml.in.h:229
-#: ../comps-f22.xml.in.h:229
+#: ../comps-f22.xml.in.h:229 ../comps-f23.xml.in.h:229
 msgid "Printing Support"
 msgstr "Skriverstøtte"
 
 #: ../comps-f20.xml.in.h:225 ../comps-f21.xml.in.h:230
-#: ../comps-f22.xml.in.h:230
+#: ../comps-f22.xml.in.h:230 ../comps-f23.xml.in.h:230
 msgid ""
 "Install these tools to enable the system to print or act as a print server."
 msgstr ""
@@ -1211,94 +1293,94 @@ msgstr ""
 "systemet some utskriftstjener."
 
 #: ../comps-f20.xml.in.h:226 ../comps-f21.xml.in.h:231
-#: ../comps-f22.xml.in.h:231 ../comps-el6.xml.in.h:199
-#: ../comps-epel7.xml.in.h:202
+#: ../comps-f22.xml.in.h:231 ../comps-f23.xml.in.h:231
+#: ../comps-el6.xml.in.h:199 ../comps-epel7.xml.in.h:202
 msgid "Punjabi Support"
 msgstr "Støtte for punjabi"
 
 #: ../comps-f20.xml.in.h:227 ../comps-f21.xml.in.h:234
-#: ../comps-f22.xml.in.h:234
+#: ../comps-f22.xml.in.h:234 ../comps-f23.xml.in.h:234
 msgid "Robotics"
 msgstr "Robotikk"
 
 #: ../comps-f20.xml.in.h:228 ../comps-f21.xml.in.h:235
-#: ../comps-f22.xml.in.h:235
+#: ../comps-f22.xml.in.h:235 ../comps-f23.xml.in.h:235
 msgid "Suite of packages for robotics development"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:229 ../comps-f21.xml.in.h:238
-#: ../comps-f22.xml.in.h:238
+#: ../comps-f22.xml.in.h:238 ../comps-f23.xml.in.h:238
 msgid "Ruby"
 msgstr "Ruby"
 
 #: ../comps-f20.xml.in.h:230 ../comps-f21.xml.in.h:239
-#: ../comps-f22.xml.in.h:239
+#: ../comps-f22.xml.in.h:239 ../comps-f23.xml.in.h:239
 msgid "Basic support for the Ruby programming language."
 msgstr "Grunnleggende støtte for programmeringsspråket Ruby."
 
 #: ../comps-f20.xml.in.h:231 ../comps-f21.xml.in.h:242
-#: ../comps-f22.xml.in.h:242 ../comps-el6.xml.in.h:202
-#: ../comps-epel7.xml.in.h:205
+#: ../comps-f22.xml.in.h:242 ../comps-f23.xml.in.h:242
+#: ../comps-el6.xml.in.h:202 ../comps-epel7.xml.in.h:205
 msgid "Russian Support"
 msgstr "Støtte for russisk"
 
 #: ../comps-f20.xml.in.h:232 ../comps-f21.xml.in.h:243
-#: ../comps-f22.xml.in.h:243 ../comps-el6.xml.in.h:203
-#: ../comps-epel7.xml.in.h:206
+#: ../comps-f22.xml.in.h:243 ../comps-f23.xml.in.h:243
+#: ../comps-el6.xml.in.h:203 ../comps-epel7.xml.in.h:206
 msgid "Sanskrit Support"
 msgstr "Støtte for sanskrit"
 
 #: ../comps-f20.xml.in.h:233 ../comps-f21.xml.in.h:244
-#: ../comps-f22.xml.in.h:244
+#: ../comps-f22.xml.in.h:244 ../comps-f23.xml.in.h:244
 msgid "Santali Support"
 msgstr "Støtte for Santali"
 
 #: ../comps-f20.xml.in.h:234 ../comps-f21.xml.in.h:245
-#: ../comps-f22.xml.in.h:245
+#: ../comps-f22.xml.in.h:245 ../comps-f23.xml.in.h:245
 msgid "Security Lab"
 msgstr "Sikkerhet"
 
 #: ../comps-f20.xml.in.h:235 ../comps-f21.xml.in.h:246
-#: ../comps-f22.xml.in.h:246
+#: ../comps-f22.xml.in.h:246 ../comps-f23.xml.in.h:246
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:236 ../comps-f21.xml.in.h:247
-#: ../comps-f22.xml.in.h:247
+#: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:247
 msgid "Server Configuration Tools"
 msgstr "Konfigurasjonsverktøy for tjenere"
 
 #: ../comps-f20.xml.in.h:237 ../comps-f21.xml.in.h:248
-#: ../comps-f22.xml.in.h:248
+#: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:248
 msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr "Denne gruppen inneholder Red Hats konfigurasjonsverktøy."
 
 #: ../comps-f20.xml.in.h:238 ../comps-f21.xml.in.h:251
-#: ../comps-f22.xml.in.h:251
+#: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:251
 msgid "Simplified Chinese Support"
 msgstr "Støtte for forenklet kinesisk"
 
 #: ../comps-f20.xml.in.h:239 ../comps-f21.xml.in.h:252
-#: ../comps-f22.xml.in.h:252 ../comps-el6.xml.in.h:216
-#: ../comps-epel7.xml.in.h:219
+#: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:252
+#: ../comps-el6.xml.in.h:216 ../comps-epel7.xml.in.h:219
 msgid "Sindhi Support"
 msgstr "Støtte for sindhi"
 
 #: ../comps-f20.xml.in.h:240 ../comps-f21.xml.in.h:253
-#: ../comps-f22.xml.in.h:253 ../comps-el6.xml.in.h:217
-#: ../comps-epel7.xml.in.h:220
+#: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:253
+#: ../comps-el6.xml.in.h:217 ../comps-epel7.xml.in.h:220
 msgid "Sinhala Support"
 msgstr "Støtte for Sinhala"
 
 #: ../comps-f20.xml.in.h:241 ../comps-f21.xml.in.h:254
-#: ../comps-f22.xml.in.h:254
+#: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:254
 msgid "Windows File Server"
 msgstr "Filtjener for Windows"
 
 #: ../comps-f20.xml.in.h:242 ../comps-f21.xml.in.h:255
-#: ../comps-f22.xml.in.h:255
+#: ../comps-f22.xml.in.h:255 ../comps-f23.xml.in.h:255
 msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
@@ -1307,12 +1389,14 @@ msgstr ""
 "systemer."
 
 #: ../comps-f20.xml.in.h:243 ../comps-f21.xml.in.h:256
-#: ../comps-f22.xml.in.h:256 ../comps-el5.xml.in.h:57
+#: ../comps-f22.xml.in.h:256 ../comps-f23.xml.in.h:256
+#: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "Lyd og bilde"
 
 #: ../comps-f20.xml.in.h:244 ../comps-f21.xml.in.h:257
-#: ../comps-f22.xml.in.h:257 ../comps-el5.xml.in.h:58
+#: ../comps-f22.xml.in.h:257 ../comps-f23.xml.in.h:257
+#: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -1321,33 +1405,34 @@ msgstr ""
 "multimediefiler samt arbeide med lyd og bilde på systemet."
 
 #: ../comps-f20.xml.in.h:245 ../comps-f21.xml.in.h:258
-#: ../comps-f22.xml.in.h:258
+#: ../comps-f22.xml.in.h:258 ../comps-f23.xml.in.h:258
 msgid "PostgreSQL Database"
 msgstr "PostgreSQL-database"
 
-#: ../comps-f20.xml.in.h:246 ../comps-f21.xml.in.h:259
-#: ../comps-f22.xml.in.h:259
+#: ../comps-f20.xml.in.h:246
 msgid "This package group includes packages useful for use with Postgresql."
 msgstr ""
 "Denne pakkegruppen inneholder pakker som er nyttige for bruk med Postgresql."
 
 #: ../comps-f20.xml.in.h:247 ../comps-f21.xml.in.h:264
-#: ../comps-f22.xml.in.h:264
+#: ../comps-f22.xml.in.h:264 ../comps-f23.xml.in.h:264
 msgid "Sugar Desktop Environment"
 msgstr "Sugar skrivebordsmiljø"
 
 #: ../comps-f20.xml.in.h:248 ../comps-f21.xml.in.h:265
-#: ../comps-f22.xml.in.h:265
+#: ../comps-f22.xml.in.h:265 ../comps-f23.xml.in.h:265
 msgid "A software playground for learning about learning."
 msgstr "En programvarelekeplass for å lære om læring."
 
 #: ../comps-f20.xml.in.h:249 ../comps-f21.xml.in.h:266
-#: ../comps-f22.xml.in.h:266 ../comps-el5.xml.in.h:59
+#: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:266
+#: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "Systemverktøy"
 
 #: ../comps-f20.xml.in.h:250 ../comps-f21.xml.in.h:267
-#: ../comps-f22.xml.in.h:267 ../comps-el5.xml.in.h:60
+#: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:267
+#: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -1356,24 +1441,24 @@ msgstr ""
 "ressurser og nettverksovervåkning."
 
 #: ../comps-f20.xml.in.h:251 ../comps-f21.xml.in.h:268
-#: ../comps-f22.xml.in.h:268 ../comps-el6.xml.in.h:250
-#: ../comps-epel7.xml.in.h:253
+#: ../comps-f22.xml.in.h:268 ../comps-f23.xml.in.h:268
+#: ../comps-el6.xml.in.h:250 ../comps-epel7.xml.in.h:253
 msgid "Tamil Support"
 msgstr "Støtte for tamilsk"
 
 #: ../comps-f20.xml.in.h:252 ../comps-f21.xml.in.h:269
-#: ../comps-f22.xml.in.h:269 ../comps-el6.xml.in.h:253
-#: ../comps-epel7.xml.in.h:256
+#: ../comps-f22.xml.in.h:269 ../comps-f23.xml.in.h:269
+#: ../comps-el6.xml.in.h:253 ../comps-epel7.xml.in.h:256
 msgid "Telugu Support"
 msgstr "Støtte for Telugu"
 
 #: ../comps-f20.xml.in.h:253 ../comps-f21.xml.in.h:270
-#: ../comps-f22.xml.in.h:270 ../comps-el5.xml.in.h:61
+#: ../comps-f22.xml.in.h:270 ../comps-f23.xml.in.h:270
+#: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "Tekstbaserte Internett-programmer"
 
-#: ../comps-f20.xml.in.h:254 ../comps-f21.xml.in.h:271
-#: ../comps-f22.xml.in.h:271 ../comps-el5.xml.in.h:62
+#: ../comps-f20.xml.in.h:254 ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
@@ -1382,207 +1467,214 @@ msgstr ""
 "programmene trenger ikke X."
 
 #: ../comps-f20.xml.in.h:255 ../comps-f21.xml.in.h:272
-#: ../comps-f22.xml.in.h:272 ../comps-el6.xml.in.h:257
-#: ../comps-epel7.xml.in.h:260
+#: ../comps-f22.xml.in.h:272 ../comps-f23.xml.in.h:272
+#: ../comps-el6.xml.in.h:257 ../comps-epel7.xml.in.h:260
 msgid "Thai Support"
 msgstr "Støtte for thai"
 
 #: ../comps-f20.xml.in.h:256 ../comps-f21.xml.in.h:273
-#: ../comps-f22.xml.in.h:273 ../comps-el6.xml.in.h:258
-#: ../comps-epel7.xml.in.h:261
+#: ../comps-f22.xml.in.h:273 ../comps-f23.xml.in.h:273
+#: ../comps-el6.xml.in.h:258 ../comps-epel7.xml.in.h:261
 msgid "Tibetan Support"
 msgstr "Støtte for tibetansk"
 
 #: ../comps-f20.xml.in.h:257 ../comps-f21.xml.in.h:276
-#: ../comps-f22.xml.in.h:276
+#: ../comps-f22.xml.in.h:276 ../comps-f23.xml.in.h:276
 msgid "Traditional Chinese Support"
 msgstr "Støtte for tradisjonell kinesisk"
 
 #: ../comps-f20.xml.in.h:258 ../comps-f21.xml.in.h:277
-#: ../comps-f22.xml.in.h:277 ../comps-el6.xml.in.h:267
-#: ../comps-epel7.xml.in.h:270
+#: ../comps-f22.xml.in.h:277 ../comps-f23.xml.in.h:277
+#: ../comps-el6.xml.in.h:267 ../comps-epel7.xml.in.h:270
 msgid "Urdu Support"
 msgstr "Støtte for urdu"
 
 #: ../comps-f20.xml.in.h:259 ../comps-f21.xml.in.h:278
-#: ../comps-f22.xml.in.h:278 ../comps-el6.xml.in.h:270
-#: ../comps-epel7.xml.in.h:273
+#: ../comps-f22.xml.in.h:278 ../comps-f23.xml.in.h:278
+#: ../comps-el6.xml.in.h:270 ../comps-epel7.xml.in.h:273
 msgid "Vietnamese Support"
 msgstr "Støtte for vietnamesisk"
 
 #: ../comps-f20.xml.in.h:260 ../comps-f21.xml.in.h:110
-#: ../comps-f22.xml.in.h:110
+#: ../comps-f22.xml.in.h:110 ../comps-f23.xml.in.h:110
 msgid "Guest Agents"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:261 ../comps-f21.xml.in.h:111
-#: ../comps-f22.xml.in.h:111
+#: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:111
 msgid "Agents used when running under a hypervisor."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:262 ../comps-f21.xml.in.h:112
-#: ../comps-f22.xml.in.h:112
+#: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:112
 msgid "Guest Desktop Agents"
 msgstr "3D-utskrift"
 
 #: ../comps-f20.xml.in.h:263 ../comps-f21.xml.in.h:113
-#: ../comps-f22.xml.in.h:113
+#: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:113
 msgid "Agents used when running as a virtualized desktop."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:264 ../comps-f21.xml.in.h:279
-#: ../comps-f22.xml.in.h:279 ../comps-el6.xml.in.h:271
-#: ../comps-epel7.xml.in.h:274
+#: ../comps-f22.xml.in.h:279 ../comps-f23.xml.in.h:279
+#: ../comps-el6.xml.in.h:271 ../comps-epel7.xml.in.h:274
 msgid "Virtualization"
 msgstr "Virtualisering"
 
 #: ../comps-f20.xml.in.h:265 ../comps-f21.xml.in.h:280
-#: ../comps-f22.xml.in.h:280
+#: ../comps-f22.xml.in.h:280 ../comps-f23.xml.in.h:280
 msgid "These packages provide a virtualization environment."
 msgstr "Disse pakkene inneholder et virtualiseringsmiljø."
 
 #: ../comps-f20.xml.in.h:266 ../comps-f21.xml.in.h:281
-#: ../comps-f22.xml.in.h:281
+#: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 msgid "Basic Web Server"
 msgstr "Grunnleggende webtjener"
 
 #: ../comps-f20.xml.in.h:267 ../comps-f21.xml.in.h:282
-#: ../comps-f22.xml.in.h:282 ../comps-el5.xml.in.h:66
+#: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
+#: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "Disse verktøyene lar deg kjøre en web-tjener på systemet."
 
 #: ../comps-f20.xml.in.h:268 ../comps-f21.xml.in.h:283
-#: ../comps-f22.xml.in.h:283 ../comps-el5.xml.in.h:67
+#: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
+#: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "Vindusbehandlere"
 
 #: ../comps-f20.xml.in.h:269 ../comps-f21.xml.in.h:284
-#: ../comps-f22.xml.in.h:284 ../comps-el5.xml.in.h:68
+#: ../comps-f22.xml.in.h:284 ../comps-f23.xml.in.h:284
+#: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Enkle vindusbehandlere som ikke er en del av større skrivebordsmiljøer."
 
 #: ../comps-f20.xml.in.h:270 ../comps-f21.xml.in.h:287
-#: ../comps-f22.xml.in.h:287
+#: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:287
 msgid "X Software Development"
 msgstr "Programvareutvikling for X"
 
 #: ../comps-f20.xml.in.h:271 ../comps-f21.xml.in.h:288
-#: ../comps-f22.xml.in.h:288
+#: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:288
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr "Disse pakkene lar deg utvikle programmer for X."
 
 #: ../comps-f20.xml.in.h:272 ../comps-f21.xml.in.h:298
-#: ../comps-f22.xml.in.h:298
+#: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:298
 msgid "Xfce Software Development"
 msgstr "Programvareutvikling for Xfce"
 
 #: ../comps-f20.xml.in.h:273 ../comps-f21.xml.in.h:299
-#: ../comps-f22.xml.in.h:299
+#: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:299
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:274 ../comps-f21.xml.in.h:304
-#: ../comps-f22.xml.in.h:304
+#: ../comps-f22.xml.in.h:304 ../comps-f23.xml.in.h:304
 msgid "Yiddish Support"
 msgstr "Støtte for jiddisk"
 
 #: ../comps-f20.xml.in.h:275 ../comps-f21.xml.in.h:1 ../comps-f22.xml.in.h:1
+#: ../comps-f23.xml.in.h:1
 msgid "3D Printing"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:276 ../comps-f21.xml.in.h:2 ../comps-f22.xml.in.h:2
+#: ../comps-f23.xml.in.h:2
 msgid "3D printing software"
 msgstr ""
 
 #: ../comps-f20.xml.in.h:277 ../comps-f21.xml.in.h:333
-#: ../comps-f22.xml.in.h:333
+#: ../comps-f22.xml.in.h:333 ../comps-f23.xml.in.h:333
 msgid "GNOME Desktop"
 msgstr "GNOME skrivebord"
 
 #: ../comps-f20.xml.in.h:278 ../comps-f21.xml.in.h:312
-#: ../comps-f22.xml.in.h:312
+#: ../comps-f22.xml.in.h:312 ../comps-f23.xml.in.h:312
 msgid "KDE Plasma Workspaces"
 msgstr "KDE Plasma arbeidsområder"
 
 #: ../comps-f20.xml.in.h:279 ../comps-f21.xml.in.h:313
-#: ../comps-f22.xml.in.h:313
+#: ../comps-f22.xml.in.h:313 ../comps-f23.xml.in.h:313
 msgid "Xfce Desktop"
 msgstr "Xfce skrivebord"
 
 #: ../comps-f20.xml.in.h:280 ../comps-f21.xml.in.h:316
-#: ../comps-f22.xml.in.h:316
+#: ../comps-f22.xml.in.h:316 ../comps-f23.xml.in.h:316
 msgid "LXDE Desktop"
 msgstr "LXDE skrivebord"
 
 #: ../comps-f20.xml.in.h:281 ../comps-f21.xml.in.h:318
-#: ../comps-f22.xml.in.h:318
+#: ../comps-f22.xml.in.h:318 ../comps-f23.xml.in.h:318
 msgid "Cinnamon Desktop"
 msgstr "Cinnamon skrivebord"
 
 #: ../comps-f20.xml.in.h:282 ../comps-f21.xml.in.h:319
-#: ../comps-f22.xml.in.h:319 ../comps-epel7.xml.in.h:1
+#: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:319
+#: ../comps-epel7.xml.in.h:1
 msgid "MATE Desktop"
 msgstr "MATE skrivebord"
 
 #: ../comps-f20.xml.in.h:283 ../comps-f21.xml.in.h:320
-#: ../comps-f22.xml.in.h:320
+#: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:320
 msgid "Development and Creative Workstation"
 msgstr "Utvikling og kreativ arbeidsstasjon"
 
 #: ../comps-f20.xml.in.h:284 ../comps-f21.xml.in.h:321
-#: ../comps-f22.xml.in.h:321
+#: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:321
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr "Arbeidsstasjon for utvikling av programvare, grafikk eller innhold."
 
 #: ../comps-f20.xml.in.h:285 ../comps-f21.xml.in.h:322
-#: ../comps-f22.xml.in.h:322 ../comps-el5.xml.in.h:65
-#: ../comps-el6.xml.in.h:280 ../comps-epel7.xml.in.h:283
+#: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:322
+#: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
+#: ../comps-epel7.xml.in.h:283
 msgid "Web Server"
 msgstr "Webtjener"
 
 #: ../comps-f20.xml.in.h:286 ../comps-f21.xml.in.h:323
-#: ../comps-f22.xml.in.h:323
+#: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:323
 msgid "Server for serving static and dynamic internet content."
 msgstr "Tjener for statisk og dynamisk innhold på internett."
 
 #: ../comps-f20.xml.in.h:287 ../comps-f21.xml.in.h:324
-#: ../comps-f22.xml.in.h:324
+#: ../comps-f22.xml.in.h:324 ../comps-f23.xml.in.h:324
 msgid "Infrastructure Server"
 msgstr "Infrastrukturtjener"
 
 #: ../comps-f20.xml.in.h:288 ../comps-f21.xml.in.h:325
-#: ../comps-f22.xml.in.h:325
+#: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:325
 msgid "Server for operating network infrastructure services."
 msgstr "Tjener for nettverksinfrastrukturtjenester."
 
 #: ../comps-f20.xml.in.h:289 ../comps-f21.xml.in.h:326
-#: ../comps-f22.xml.in.h:326
+#: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:326
 msgid "X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-f20.xml.in.h:290 ../comps-f21.xml.in.h:327
-#: ../comps-f22.xml.in.h:327
+#: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:327
 msgid "Minimal Install"
 msgstr "Minimal installasjon"
 
 #: ../comps-f20.xml.in.h:291 ../comps-f21.xml.in.h:328
-#: ../comps-f22.xml.in.h:328
+#: ../comps-f22.xml.in.h:328 ../comps-f23.xml.in.h:328
 msgid "Basic functionality."
 msgstr "Basisfunksjonalitet."
 
 #: ../comps-f20.xml.in.h:292 ../comps-f21.xml.in.h:329
-#: ../comps-f22.xml.in.h:329 ../comps-el6.xml.in.h:126
-#: ../comps-epel7.xml.in.h:128
+#: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:329
+#: ../comps-el6.xml.in.h:126 ../comps-epel7.xml.in.h:128
 msgid "KDE Desktop"
 msgstr "KDE skrivebord"
 
 #: ../comps-f20.xml.in.h:293 ../comps-f21.xml.in.h:330
-#: ../comps-f22.xml.in.h:330
+#: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:330
 msgid ""
 "The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical "
 "user interface which includes a panel, desktop, system icons and desktop "
@@ -1590,95 +1682,102 @@ msgid ""
 msgstr ""
 
 #: ../comps-f20.xml.in.h:294 ../comps-f21.xml.in.h:331
-#: ../comps-f22.xml.in.h:331 ../comps-el5.xml.in.h:73
-#: ../comps-el6.xml.in.h:295 ../comps-epel7.xml.in.h:298
+#: ../comps-f22.xml.in.h:331 ../comps-f23.xml.in.h:331
+#: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
+#: ../comps-epel7.xml.in.h:298
 msgid "Applications"
 msgstr "Programmer"
 
 #: ../comps-f20.xml.in.h:295 ../comps-f21.xml.in.h:332
-#: ../comps-f22.xml.in.h:332
+#: ../comps-f22.xml.in.h:332 ../comps-f23.xml.in.h:332
 msgid "Applications to perform a variety of tasks"
 msgstr "Programmer for en rekke forskjellige oppgaver"
 
 #: ../comps-f20.xml.in.h:296 ../comps-f21.xml.in.h:334
-#: ../comps-f22.xml.in.h:334 ../comps-el5.xml.in.h:75
-#: ../comps-el6.xml.in.h:297 ../comps-epel7.xml.in.h:300
+#: ../comps-f22.xml.in.h:334 ../comps-f23.xml.in.h:334
+#: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
+#: ../comps-epel7.xml.in.h:300
 msgid "Development"
 msgstr "Utviklingsverktøy"
 
 #: ../comps-f20.xml.in.h:297 ../comps-f21.xml.in.h:335
-#: ../comps-f22.xml.in.h:335 ../comps-el5.xml.in.h:76
+#: ../comps-f22.xml.in.h:335 ../comps-f23.xml.in.h:335
+#: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr "Pakker som gir funksjonalitet for utvikling og bygging av programmer."
 
 #: ../comps-f20.xml.in.h:298 ../comps-f21.xml.in.h:336
-#: ../comps-f22.xml.in.h:336 ../comps-el5.xml.in.h:77
+#: ../comps-f22.xml.in.h:336 ../comps-f23.xml.in.h:336
+#: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "Tjenere"
 
 #: ../comps-f20.xml.in.h:299 ../comps-f21.xml.in.h:337
-#: ../comps-f22.xml.in.h:337 ../comps-el5.xml.in.h:78
+#: ../comps-f22.xml.in.h:337 ../comps-f23.xml.in.h:337
+#: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "Programvare som brukes for å kjøre nettverkstjenere"
 
 #: ../comps-f20.xml.in.h:300 ../comps-f21.xml.in.h:338
-#: ../comps-f22.xml.in.h:338 ../comps-el5.xml.in.h:79
+#: ../comps-f22.xml.in.h:338 ../comps-f23.xml.in.h:338
+#: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "Basissystem"
 
 #: ../comps-f20.xml.in.h:301 ../comps-f21.xml.in.h:339
-#: ../comps-f22.xml.in.h:339 ../comps-el5.xml.in.h:80
+#: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:339
+#: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "Forskjellige viktige deler av systemet."
 
 #: ../comps-f20.xml.in.h:302 ../comps-f21.xml.in.h:340
-#: ../comps-f22.xml.in.h:340
+#: ../comps-f22.xml.in.h:340 ../comps-f23.xml.in.h:340
 msgid "Content"
 msgstr "Innhold"
 
 #: ../comps-f20.xml.in.h:303 ../comps-f21.xml.in.h:341
-#: ../comps-f22.xml.in.h:341
+#: ../comps-f22.xml.in.h:341 ../comps-f23.xml.in.h:341
 msgid "Text and other Free content."
 msgstr "Tekst og annet fritt innhold."
 
-#: ../comps-f21.xml.in.h:29 ../comps-f22.xml.in.h:29
+#: ../comps-f21.xml.in.h:29 ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:29
 #, fuzzy
 msgid "Cloud Management Tools"
 msgstr "Utviklingsverktøy"
 
-#: ../comps-f21.xml.in.h:30 ../comps-f22.xml.in.h:30
+#: ../comps-f21.xml.in.h:30 ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:30
 msgid ""
-"Software to managed servers and system images that run in \"cloud\" "
+"Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
 
-#: ../comps-f21.xml.in.h:31 ../comps-f22.xml.in.h:31
+#: ../comps-f21.xml.in.h:31 ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:31
 msgid "Cloud Server Tools"
 msgstr ""
 
-#: ../comps-f21.xml.in.h:32 ../comps-f22.xml.in.h:32
+#: ../comps-f21.xml.in.h:32 ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:32
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
 
-#: ../comps-f21.xml.in.h:33 ../comps-f22.xml.in.h:33
+#: ../comps-f21.xml.in.h:33 ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:33
 #, fuzzy
 msgid "Container Management"
 msgstr "Systemadministrasjon"
 
-#: ../comps-f21.xml.in.h:34 ../comps-f22.xml.in.h:34
+#: ../comps-f21.xml.in.h:34 ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:34
 #, fuzzy
 msgid "Tools for managing Linux containers"
 msgstr "Verktøy for å aksessere dataressurser på stormaskiner."
 
-#: ../comps-f21.xml.in.h:45 ../comps-f22.xml.in.h:45
+#: ../comps-f21.xml.in.h:45 ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:45
 #, fuzzy
 msgid "Critical Path (LXQt)"
 msgstr "Critical Path (LXDE)"
 
-#: ../comps-f21.xml.in.h:46 ../comps-f22.xml.in.h:46
+#: ../comps-f21.xml.in.h:46 ../comps-f22.xml.in.h:46 ../comps-f23.xml.in.h:46
 #, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
@@ -1686,7 +1785,15 @@ msgid ""
 msgstr ""
 "Et sett med pakker som gir essensiell funksjonalitet for LXDE-skrivebordet"
 
-#: ../comps-f21.xml.in.h:54 ../comps-f22.xml.in.h:54
+#: ../comps-f21.xml.in.h:52 ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:52
+#, fuzzy
+msgid ""
+"These include development tools and libraries such as ldc, and geany-tag."
+msgstr ""
+"Disse verktøyene inkluderer utviklingsverktøy som automake, gcc, perl, "
+"python og avlusere."
+
+#: ../comps-f21.xml.in.h:54 ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:54
 #, fuzzy
 msgid ""
 "These packages are targeted towards professional designers related to "
@@ -1695,58 +1802,96 @@ msgstr ""
 "Disse pakkene er myntet på profesjonelle designere, f.eks. Fedora "
 "designlaget."
 
-#: ../comps-f21.xml.in.h:67 ../comps-f22.xml.in.h:67
+#: ../comps-f21.xml.in.h:58 ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:58
+#, fuzzy
+msgid "These tools include general development tools such as git and CVS."
+msgstr ""
+"Disse verktøyene inkluderer utviklingsverktøy som automake, gcc, perl, "
+"python og avlusere."
+
+#: ../comps-f21.xml.in.h:67 ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:67
 msgid "Domain Membership"
 msgstr ""
 
-#: ../comps-f21.xml.in.h:68 ../comps-f22.xml.in.h:68
+#: ../comps-f21.xml.in.h:68 ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:68
 msgid "Support for joining a FreeIPA or Active Directory Domain"
 msgstr ""
 
-#: ../comps-f21.xml.in.h:84 ../comps-f22.xml.in.h:84
+#: ../comps-f21.xml.in.h:76 ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:76
+#, fuzzy
+msgid "Design and simulation tools for hardware engineers"
+msgstr "Utformings- og simuleringsverktøy for maskinvareingeniører"
+
+#: ../comps-f21.xml.in.h:83 ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:83
+#, fuzzy
+msgid "Tools and utilities needed by a Fedora Packager"
+msgstr "Verktøy som kreves for å lage pakker for Fedora."
+
+#: ../comps-f21.xml.in.h:84 ../comps-f22.xml.in.h:84 ../comps-f23.xml.in.h:84
 msgid "Generic Fedora release"
 msgstr ""
 
+#: ../comps-f21.xml.in.h:106 ../comps-f22.xml.in.h:106
+#: ../comps-f23.xml.in.h:106
+#, fuzzy
+msgid "This group includes graphical email, web, and chat clients."
+msgstr "Denne gruppen inkluderer grafiske epost, web og chat-klienter."
+
 #: ../comps-f21.xml.in.h:123 ../comps-f22.xml.in.h:123
+#: ../comps-f23.xml.in.h:123
 #, fuzzy
 msgid "Headless Management"
 msgstr "Systemadministrasjon"
 
 #: ../comps-f21.xml.in.h:124 ../comps-f22.xml.in.h:124
-msgid "Tools for managing the system without an attached graphical console"
+#: ../comps-f23.xml.in.h:124
+msgid "Tools for managing the system without an attached graphical console."
 msgstr ""
 
 #: ../comps-f21.xml.in.h:134 ../comps-f22.xml.in.h:134
+#: ../comps-f23.xml.in.h:134
 #, fuzzy
 msgid "Java Application Server"
 msgstr "JBoss applikasjonsserver"
 
+#: ../comps-f21.xml.in.h:148 ../comps-f22.xml.in.h:148
+#: ../comps-f23.xml.in.h:148
+#, fuzzy
+msgid "Install these packages to develop Qt and KDE graphical applications."
+msgstr "Installer disse pakkene for utvikling av QT og KDE-programmer."
+
 #: ../comps-f21.xml.in.h:151 ../comps-f22.xml.in.h:151
+#: ../comps-f23.xml.in.h:151
 #, fuzzy
 msgid "KDE Frameworks 5 Software Development"
 msgstr "Programvareutvikling for KDE"
 
 #: ../comps-f21.xml.in.h:152 ../comps-f22.xml.in.h:152
+#: ../comps-f23.xml.in.h:152
 #, fuzzy
 msgid ""
-"Install these packages to develop applications using Qt5 and KDE frameworks "
+"Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
 msgstr "Installer disse pakkene for utvikling av QT og KDE-programmer."
 
 #: ../comps-f21.xml.in.h:175 ../comps-f22.xml.in.h:175
+#: ../comps-f23.xml.in.h:175
 #, fuzzy
 msgid "Applications for the LXQt Desktop"
 msgstr "Programmer for en rekke forsskjellige oppgaver"
 
 #: ../comps-f21.xml.in.h:176 ../comps-f22.xml.in.h:176
+#: ../comps-f23.xml.in.h:176
 msgid "A set of commonly used applications for the LXQt Desktop"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:177 ../comps-f22.xml.in.h:177
+#: ../comps-f23.xml.in.h:177
 msgid "LXQt"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:178 ../comps-f22.xml.in.h:178
+#: ../comps-f23.xml.in.h:178
 #, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
@@ -1757,59 +1902,110 @@ msgstr ""
 "eldre datamaskiner."
 
 #: ../comps-f21.xml.in.h:180 ../comps-f22.xml.in.h:180
+#: ../comps-f23.xml.in.h:180
 msgid "Multimedia support for LXQt"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:183 ../comps-f22.xml.in.h:183
+#: ../comps-f23.xml.in.h:183
 #, fuzzy
 msgid "LXQt Office"
 msgstr "LXDE kontorstøtteprogramvare"
 
 #: ../comps-f21.xml.in.h:184 ../comps-f22.xml.in.h:184
+#: ../comps-f23.xml.in.h:184
 #, fuzzy
 msgid "Office suite for LXQt"
 msgstr "Kontorstøtteprogramvare for LXDE"
 
 #: ../comps-f21.xml.in.h:193 ../comps-f22.xml.in.h:193
-msgid "MATE COMPIZ"
+#: ../comps-f23.xml.in.h:193
+#, fuzzy
+msgid "MATE Compiz"
+msgstr "MATE skrivebord"
+
+#: ../comps-f21.xml.in.h:194
+msgid "This package group adds Compiz and Emerald to MATE desktop."
 msgstr ""
 
+#: ../comps-f21.xml.in.h:204 ../comps-f22.xml.in.h:204
+#: ../comps-f23.xml.in.h:204
+#, fuzzy
+msgid "Scalable, high-performance NoSQL database."
+msgstr "Skalerbar høyytelses NoSQL-database"
+
 #: ../comps-f21.xml.in.h:212 ../comps-f22.xml.in.h:212
-msgid "Common NetworkManager submodules"
+#: ../comps-f23.xml.in.h:212
+msgid "Common NetworkManager Submodules"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:213 ../comps-f22.xml.in.h:213
+#: ../comps-f23.xml.in.h:213
 msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
 
+#: ../comps-f21.xml.in.h:217 ../comps-f22.xml.in.h:217
+#: ../comps-f23.xml.in.h:217
+#, fuzzy
+msgid ""
+"Support for developing software using the Objective Caml programming "
+"language and libraries."
+msgstr ""
+"Støtte for utvikling av programmer i programmeringsspråket Objective CAML og "
+"dets biblioteker."
+
 #: ../comps-f21.xml.in.h:249 ../comps-f22.xml.in.h:249
+#: ../comps-f23.xml.in.h:249
 msgid "Fedora Server product core"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:250 ../comps-f22.xml.in.h:250
+#: ../comps-f23.xml.in.h:250
 msgid "Packages mandatory for the server product."
 msgstr ""
 
+#: ../comps-f21.xml.in.h:259 ../comps-f22.xml.in.h:259
+#: ../comps-f23.xml.in.h:259
+#, fuzzy
+msgid "This package group includes packages useful for use with PostgreSQL."
+msgstr ""
+"Denne pakkegruppen inneholder pakker som er nyttige for bruk med Postgresql."
+
+#: ../comps-f21.xml.in.h:271 ../comps-f22.xml.in.h:271
+#: ../comps-f23.xml.in.h:271
+#, fuzzy
+msgid ""
+"This group includes text-based email, web, and chat clients. These "
+"applications do not require the X Window System."
+msgstr ""
+"Denne gruppen inneholder tekstbaserte epost, web og chat-klienter. Disse "
+"programmene trenger ikke X."
+
 #: ../comps-f21.xml.in.h:285 ../comps-f22.xml.in.h:285
+#: ../comps-f23.xml.in.h:285
 msgid "Fedora Workstation product core"
 msgstr ""
 
 #: ../comps-f21.xml.in.h:286 ../comps-f22.xml.in.h:286
+#: ../comps-f23.xml.in.h:286
 msgid "Packages mandatory for the workstation product."
 msgstr ""
 
 #: ../comps-f21.xml.in.h:305 ../comps-f22.xml.in.h:305
+#: ../comps-f23.xml.in.h:305
 #, fuzzy
 msgid "Fedora Cloud Server"
 msgstr "Eposttjener"
 
 #: ../comps-f21.xml.in.h:306 ../comps-f22.xml.in.h:306
+#: ../comps-f23.xml.in.h:306
 msgid "A server install with components needed to run in a cloud environment."
 msgstr ""
 
 #: ../comps-f21.xml.in.h:307 ../comps-f22.xml.in.h:307
+#: ../comps-f23.xml.in.h:307
 #, fuzzy
 msgid "Fedora Server"
 msgstr "Nettverkstjener"
@@ -1818,20 +2014,24 @@ msgstr "Nettverkstjener"
 #. or something else to differentiate from
 #. infrastructure-server-environment.
 #: ../comps-f21.xml.in.h:311 ../comps-f22.xml.in.h:311
+#: ../comps-f23.xml.in.h:311
 msgid "An integrated, easier to manage server."
 msgstr ""
 
 #: ../comps-f21.xml.in.h:314 ../comps-f22.xml.in.h:314
+#: ../comps-f23.xml.in.h:314
 #, fuzzy
 msgid "Fedora Workstation"
 msgstr "Regelsett for arbeidsstasjon"
 
 #: ../comps-f21.xml.in.h:315 ../comps-f22.xml.in.h:315
+#: ../comps-f23.xml.in.h:315
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
 
 #: ../comps-f21.xml.in.h:317 ../comps-f22.xml.in.h:317
+#: ../comps-f23.xml.in.h:317
 #, fuzzy
 msgid "LXQt Desktop"
 msgstr "LXDE skrivebord"
