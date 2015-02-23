@@ -599,7 +599,7 @@
   <group>
     <id>cloud-management</id>
     <_name>Cloud Management Tools</_name>
-    <_description>Software to managed servers and system images that run in "cloud" environments</_description>
+    <_description>Software to manage servers and system images that run in "cloud" environments</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -831,7 +831,7 @@
   <group>
     <id>d-development</id>
     <_name>D Development Tools and Libraries</_name>
-    <_description>These include development tools and lib such as ldc, geany-tag  .</_description>
+    <_description>These include development tools and libraries such as ldc, and geany-tag.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -1006,7 +1006,7 @@
   <group>
     <id>development-tools</id>
     <_name>Development Tools</_name>
-    <_description>These tools include general development tools such as git and cvs.</_description>
+    <_description>These tools include general development tools such as git and CVS.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -1297,7 +1297,7 @@
   <group>
     <id>electronic-lab</id>
     <_name>Electronic Lab</_name>
-    <_description>Design and Simulation tools for hardware engineers</_description>
+    <_description>Design and simulation tools for hardware engineers</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -1640,7 +1640,7 @@
   <group>
     <id>fedora-packager</id>
     <_name>Fedora Packager</_name>
-    <_description>Tools and Utilities needed by a Fedora Packager</_description>
+    <_description>Tools and utilities needed by a Fedora Packager</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -2774,7 +2774,7 @@
   <group>
     <id>graphical-internet</id>
     <_name>Graphical Internet</_name>
-    <_description>This group includes graphical email, Web, and chat clients.</_description>
+    <_description>This group includes graphical email, web, and chat clients.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -3112,7 +3112,7 @@
     <id>headless-management</id>
     <_name>Headless Management</_name>
     <_description>
-      Tools for managing the system without an attached graphical console
+      Tools for managing the system without an attached graphical console.
     </_description>
     <default>false</default>
     <uservisible>true</uservisible>
@@ -3594,7 +3594,7 @@
   <group>
     <id>kde-software-development</id>
     <_name>KDE Software Development</_name>
-    <_description>Install these packages to develop QT and KDE graphical applications.</_description>
+    <_description>Install these packages to develop Qt and KDE graphical applications.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -3678,7 +3678,7 @@
   <group>
     <id>kf5-software-development</id>
     <_name>KDE Frameworks 5 Software Development</_name>
-    <_description>Install these packages to develop applications using Qt5 and KDE frameworks 5.</_description>
+    <_description>Install these packages to develop applications using Qt5 and KDE Frameworks 5.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -4275,8 +4275,8 @@
   </group>
   <group>
     <id>mate-compiz</id>
-    <_name>MATE COMPIZ</_name>
-    <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
+    <_name>MATE Compiz</_name>
+    <_description>This package group adds Compiz and Emerald to MATE desktop.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
@@ -4485,7 +4485,7 @@
   <group>
     <id>mongodb</id>
     <_name>MongoDB</_name>
-    <_description>Scalable high-performance NoSQL database.</_description>
+    <_description>Scalable, high-performance NoSQL database.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -4603,7 +4603,7 @@
   </group>
   <group>
     <id>networkmanager-submodules</id>
-    <_name>Common NetworkManager submodules</_name>
+    <_name>Common NetworkManager Submodules</_name>
     <_description>
       This group contains NetworkManager submodules that are commonly used,
       but may not be wanted in some streamlined configurations.
@@ -4636,7 +4636,7 @@
     <_name>OCaml</_name>
     <_description>
       Support for developing software using the
-      Objective CAML programming language and libraries.
+      Objective Caml programming language and libraries.
     </_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -5594,7 +5594,7 @@
   <group>
     <id>sql-server</id>
     <_name>PostgreSQL Database</_name>
-    <_description>This package group includes packages useful for use with Postgresql.</_description>
+    <_description>This package group includes packages useful for use with PostgreSQL.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -6045,7 +6045,7 @@
   <group>
     <id>text-internet</id>
     <_name>Text-based Internet</_name>
-    <_description>This group includes text-based email, Web, and chat clients.  These applications do not require the X Window System.</_description>
+    <_description>This group includes text-based email, web, and chat clients.  These applications do not require the X Window System.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
