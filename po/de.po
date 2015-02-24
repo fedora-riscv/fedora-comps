@@ -1655,7 +1655,7 @@ msgstr "3D-Drucksoftware"
 #: ../comps-f20.xml.in.h:277 ../comps-f21.xml.in.h:333
 #: ../comps-f22.xml.in.h:333 ../comps-f23.xml.in.h:333
 msgid "GNOME Desktop"
-msgstr "GNOME-Desktop"
+msgstr "GNOME Desktop"
 
 #: ../comps-f20.xml.in.h:278 ../comps-f21.xml.in.h:312
 #: ../comps-f22.xml.in.h:312 ../comps-f23.xml.in.h:312
@@ -1665,7 +1665,7 @@ msgstr "KDE Plasma-Arbeitsumgebung"
 #: ../comps-f20.xml.in.h:279 ../comps-f21.xml.in.h:313
 #: ../comps-f22.xml.in.h:313 ../comps-f23.xml.in.h:313
 msgid "Xfce Desktop"
-msgstr "Xfce-Desktop"
+msgstr "Xfce Desktop"
 
 #: ../comps-f20.xml.in.h:280 ../comps-f21.xml.in.h:316
 #: ../comps-f22.xml.in.h:316 ../comps-f23.xml.in.h:316
@@ -1698,7 +1698,7 @@ msgstr "Arbeitsplatz für Software, Hardware, Grafik oder Content-Entwicklung"
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 #: ../comps-epel7.xml.in.h:283
 msgid "Web Server"
-msgstr "Web-Server"
+msgstr "Web Server"
 
 #: ../comps-f20.xml.in.h:286 ../comps-f21.xml.in.h:323
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:323
