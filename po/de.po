@@ -1736,7 +1736,7 @@ msgstr "Grundfunktionalität"
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:329
 #: ../comps-el6.xml.in.h:126 ../comps-epel7.xml.in.h:128
 msgid "KDE Desktop"
-msgstr "KDE-Desktop"
+msgstr "KDE Desktop"
 
 #: ../comps-f20.xml.in.h:293 ../comps-f21.xml.in.h:330
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:330
