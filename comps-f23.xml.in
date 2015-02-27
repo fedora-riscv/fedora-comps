@@ -3523,10 +3523,12 @@
       <packagereq>kuser</packagereq>
       <packagereq>kwalletmanager</packagereq>
       <packagereq>kwebkitpart</packagereq>
+      <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
       <packagereq>oxygen-gtk</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
+      <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-workspace</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-kcm</packagereq>
