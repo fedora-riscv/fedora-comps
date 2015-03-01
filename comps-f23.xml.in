@@ -6648,7 +6648,6 @@
       <packagereq>xarchiver</packagereq>
       <packagereq>xfce4-clipman-plugin</packagereq>
       <packagereq>xfce4-dict-plugin</packagereq>
-      <packagereq>xfce4-notes-plugin</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6703,7 +6702,6 @@
       <packagereq>xfce4-panel</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
       <packagereq>xfce4-power-manager</packagereq>
-      <packagereq>xfce4-quicklauncher-plugin</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
       <packagereq>xfce4-session</packagereq>
       <packagereq>xfce4-session-engines</packagereq>
@@ -6726,7 +6724,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>xfce4-battery-plugin</packagereq>
-      <packagereq>xfce4-cellmodem-plugin</packagereq>
       <packagereq>xfce4-cpugraph-plugin</packagereq>
       <packagereq>xfce4-diskperf-plugin</packagereq>
       <packagereq>xfce4-eyes-plugin</packagereq>
@@ -6736,11 +6733,9 @@
       <packagereq>xfce4-mount-plugin</packagereq>
       <packagereq>xfce4-netload-plugin</packagereq>
       <packagereq>xfce4-sensors-plugin</packagereq>
-      <packagereq>xfce4-smartbookmark-plugin</packagereq>
       <packagereq>xfce4-systemload-plugin</packagereq>
       <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-time-out-plugin</packagereq>
-      <packagereq>xfce4-timer-plugin</packagereq>
       <packagereq>xfce4-verve-plugin</packagereq>
       <packagereq>xfce4-weather-plugin</packagereq>
       <packagereq>xfce4-websearch-plugin</packagereq>
@@ -6786,7 +6781,6 @@
       <packagereq type="mandatory">libxfce4util-devel</packagereq>
       <packagereq type="default">exo-devel</packagereq>
       <packagereq type="default">garcon-devel</packagereq>
-      <packagereq type="default">libxfcegui4-devel</packagereq>
       <packagereq type="default">Thunar-devel</packagereq>
       <packagereq type="default">tumbler-devel</packagereq>
       <packagereq type="default">xfce4-dev-tools</packagereq>
