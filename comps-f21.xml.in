@@ -4078,7 +4078,7 @@
       <packagereq>notification-daemon</packagereq>
       <packagereq>obconf</packagereq>
       <packagereq>openbox</packagereq>
-      <packagereq>pcmanfm-qt5</packagereq>
+      <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xarchiver</packagereq>
