@@ -3472,6 +3472,7 @@
       <packagereq>appmenu-qt</packagereq>
       <packagereq>baloo-file</packagereq>
       <packagereq>bluedevil</packagereq>
+      <packagereq>breeze-icon-theme</packagereq>
       <packagereq>cagibi</packagereq>
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
@@ -3513,7 +3514,7 @@
       <packagereq>kmail</packagereq>
       <packagereq>kmix</packagereq>
       <packagereq>knode</packagereq>
-      <packagereq>konsole</packagereq>
+      <packagereq>konsole5</packagereq>
       <packagereq>kontact</packagereq>
       <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
@@ -3528,6 +3529,8 @@
       <packagereq>kwrite</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
+      <packagereq>phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-workspace</packagereq>
       <packagereq>sddm</packagereq>
