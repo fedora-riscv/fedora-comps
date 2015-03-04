@@ -3022,6 +3022,7 @@
       <packagereq>omping</packagereq>
       <packagereq>pacemaker</packagereq>
       <packagereq>pcs</packagereq>
+      <packagereq type="optional">clufter</packagereq>
     </packagelist>
   </group>
   <group>
