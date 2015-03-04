@@ -4325,7 +4325,7 @@
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
-      <packagereq>f21-backgrounds-base</packagereq>
+      <packagereq>f22-backgrounds-base</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>filezilla</packagereq>
