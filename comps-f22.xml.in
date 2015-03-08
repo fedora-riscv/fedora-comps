@@ -3538,6 +3538,7 @@
       <packagereq>sddm</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
+      <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>xsettings-kde</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
