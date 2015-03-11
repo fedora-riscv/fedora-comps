@@ -4083,6 +4083,7 @@
       <packagereq>lxqt-globalkeys</packagereq>
       <packagereq>lxqt-notificationd</packagereq>
       <packagereq>qterminal</packagereq>
+      <packagereq>qupzilla</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>notification-daemon</packagereq>
