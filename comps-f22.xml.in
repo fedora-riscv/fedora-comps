@@ -6356,6 +6356,7 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>acl</packagereq>
+      <packagereq>adwaita-qt4</packagereq>
       <packagereq>at</packagereq>
       <packagereq>at-spi2-atk</packagereq>
       <packagereq>at-spi2-core</packagereq>
