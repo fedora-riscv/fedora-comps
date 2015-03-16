@@ -3535,6 +3535,7 @@
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-workspace</packagereq>
+      <packagereq>polkit-kde</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
