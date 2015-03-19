@@ -5434,6 +5434,22 @@
     </packagelist>
   </group>
   <group>
+    <id>server-hardware-support</id>
+    <_name>Hardware Support for Server Systems</_name>
+    <_description>This group is a limited collection of tools for various hardware specific utilities.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">lm_sensors<packagereq>
+      <packagereq type="default">smp_utils</packagereq>
+      <packagereq type="default">openhpi</packagereq>
+      <packagereq type="optional">firmware-addon-dell</packagereq>
+      <packagereq type="optional">hddtemp</packagereq>
+      <packagereq type="optional">hdparm</packagereq>
+      <packagereq type="optional">lsscsi</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>sindhi-support</id>
     <_name>Sindhi Support</_name>
     <_description/>
@@ -6896,7 +6912,7 @@
       <groupid>server-product</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
-      <groupid>hardware-support</groupid>
+      <groupid>server-hardware-support</groupid>
       <groupid>headless-management</groupid>
       <groupid>container-management</groupid>
       <groupid>domain-client</groupid>
@@ -6909,6 +6925,7 @@
       <groupid>ftp-server</groupid>
       <groupid>guest-agents</groupid>
       <groupid>ha</groupid>
+      <groupid>hardware-support</groupid>
       <groupid>load-balancer</groupid>
       <groupid>mail-server</groupid>
       <groupid>mysql</groupid>
