@@ -3465,6 +3465,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>akonadi</packagereq>
       <packagereq>akonadi-mysql</packagereq>
