@@ -5441,7 +5441,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">lm_sensors<packagereq>
+      <packagereq type="default">lm_sensors</packagereq>
       <packagereq type="default">smp_utils</packagereq>
       <packagereq type="default">openhpi</packagereq>
       <packagereq type="optional">firmware-addon-dell</packagereq>
