@@ -2989,6 +2989,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>hyperv-daemons</packagereq>
       <packagereq>open-vm-tools-desktop</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
       <packagereq>spice-vdagent</packagereq>
@@ -4112,7 +4113,7 @@
       <packagereq>pavucontrol</packagereq>
       <packagereq>pnmixer</packagereq>
     </packagelist>
-</group>
+  </group>
   <group>
     <id>lxqt-media</id>
     <_name>Multimedia support for LXQt</_name>
@@ -4124,7 +4125,6 @@
       <packagereq>pnmixer</packagereq>
     </packagelist>
   </group>
-
   <group>
     <id>lxde-office</id>
     <_name>LXDE Office</_name>
@@ -4136,7 +4136,7 @@
       <packagereq>gnumeric</packagereq>
       <packagereq>osmo</packagereq>
     </packagelist>
-</group>
+  </group>
   <group>
     <id>lxqt-office</id>
     <_name>LXQt Office</_name>
@@ -4149,7 +4149,6 @@
       <packagereq>libreoffice-impress</packagereq>
     </packagelist>
   </group>
-
   <group>
     <id>mail-server</id>
     <_name>Mail Server</_name>
@@ -6006,6 +6005,10 @@
       <packagereq type="optional">smart</packagereq>
       <packagereq type="optional">smart-gui</packagereq>
       <packagereq type="optional">socat</packagereq>
+      <packagereq type="optional">speech-dispatcher</packagereq>
+      <packagereq type="optional">speech-dispatcher-espeak</packagereq>
+      <packagereq type="optional">speech-dispatcher-festival</packagereq>
+      <packagereq type="optional">speech-dispatcher-flite</packagereq>
       <packagereq type="optional">stripesnoop</packagereq>
       <packagereq type="optional">swaks</packagereq>
       <packagereq type="optional">swatch</packagereq>
