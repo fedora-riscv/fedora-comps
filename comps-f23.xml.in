@@ -6136,7 +6136,7 @@
     </packagelist>
   </group>
   <group>
-    <id>threed-printing</id>
+    <id>3d-printing</id>
     <_name>3D Printing</_name>
     <_description>3D printing software</_description>
     <default>false</default>
