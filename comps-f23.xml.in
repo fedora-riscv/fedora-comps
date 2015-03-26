@@ -3490,13 +3490,6 @@
       <packagereq>kcm_touchpad</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-baseapps</packagereq>
-      <packagereq>kde-plasma-nm</packagereq>
-      <packagereq>kde-plasma-nm-l2tp</packagereq>
-      <packagereq>kde-plasma-nm-openconnect</packagereq>
-      <packagereq>kde-plasma-nm-openswan</packagereq>
-      <packagereq>kde-plasma-nm-openvpn</packagereq>
-      <packagereq>kde-plasma-nm-pptp</packagereq>
-      <packagereq>kde-plasma-nm-vpnc</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-runtime-docs</packagereq>
@@ -3536,6 +3529,13 @@
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
+      <packagereq>plasma-nm</packagereq>
+      <packagereq>plasma-nm-l2tp</packagereq>
+      <packagereq>plasma-nm-openconnect</packagereq>
+      <packagereq>plasma-nm-openswan</packagereq>
+      <packagereq>plasma-nm-openvpn</packagereq>
+      <packagereq>plasma-nm-pptp</packagereq>
+      <packagereq>plasma-nm-vpnc</packagereq>
       <packagereq>plasma-workspace</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>sddm</packagereq>
