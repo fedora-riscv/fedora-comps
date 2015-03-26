@@ -527,8 +527,8 @@
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>f21-backgrounds-base</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
@@ -796,18 +796,6 @@
     </packagelist>
   </group>
   <group>
-    <id>critical-path-lxqt</id>
-    <_name>Critical Path (LXQt)</_name>
-    <_description>A set of packages that provide the Critical Path functionality for the LXQt desktop</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">lxqt-common</packagereq>
-      <!-- specify this because otherwise xfce4-notifyd wins -->
-      <packagereq type="default">notification-daemon</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>critical-path-lxde</id>
     <_name>Critical Path (LXDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the LXDE desktop</_description>
@@ -819,7 +807,18 @@
       <packagereq type="default">notification-daemon</packagereq>
     </packagelist>
   </group>
-
+  <group>
+    <id>critical-path-lxqt</id>
+    <_name>Critical Path (LXQt)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the LXQt desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">lxqt-common</packagereq>
+      <!-- specify this because otherwise xfce4-notifyd wins -->
+      <packagereq type="default">notification-daemon</packagereq>
+    </packagelist>
+  </group>
   <group>
     <id>critical-path-xfce</id>
     <_name>Critical Path (Xfce)</_name>
@@ -865,12 +864,9 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="blender">LuxRender-blender</packagereq>
-      <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
-      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-dds</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dbp</packagereq>
+      <packagereq type="conditional" requires="gimp">gimp-dds</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-elsamuko</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-fourier-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-gap</packagereq>
@@ -878,16 +874,19 @@
       <packagereq type="conditional" requires="gimp">gimp-help-browser</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-high-pass-filter</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lqr-plugin</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-normalmap</packagereq>
+      <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-resynthesizer</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-separate+</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-wavelet-denoise-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
-      <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
-      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-table</packagereq>
+      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
+      <packagereq type="conditional" requires="blender">LuxRender-blender</packagereq>
+      <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
+      <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
+      <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
       <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="default">adobe-source-sans-pro-fonts</packagereq>
       <packagereq type="default">audacity</packagereq>
@@ -901,18 +900,18 @@
       <packagereq type="default">fontforge</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gpick</packagereq>
-      <packagereq type="default">hugin</packagereq>
       <packagereq type="default">GraphicsMagick</packagereq>
+      <packagereq type="default">hugin</packagereq>
       <packagereq type="default">inkscape</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
       <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
-      <packagereq type="default">optipng</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
+      <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
-      <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pdfmod</packagereq>
       <packagereq type="default">pdfshuffler</packagereq>
+      <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">screenruler</packagereq>
       <packagereq type="default">scribus</packagereq>
@@ -923,8 +922,8 @@
       <packagereq type="optional">calligra-krita</packagereq>
       <packagereq type="optional">cinepaint</packagereq>
       <packagereq type="optional">digikam</packagereq>
-      <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">GREYCstoration</packagereq>
+      <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">LuxRender</packagereq>
       <packagereq type="optional">meshlab</packagereq>
@@ -2049,12 +2048,12 @@
       <packagereq type="optional">nafees-riqa-fonts</packagereq>
       <packagereq type="optional">nafees-tehreer-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
-      <packagereq type="optional">navilu-fonts</packagereq>
       <packagereq type="optional">naver-nanum-barun-gothic-fonts</packagereq>
       <packagereq type="optional">naver-nanum-brush-fonts</packagereq>
-      <packagereq type="optional">nhn-nanum-gothic-coding-fonts</packagereq>
       <packagereq type="optional">naver-nanum-myeongjo-fonts</packagereq>
       <packagereq type="optional">naver-nanum-pen-fonts</packagereq>
+      <packagereq type="optional">navilu-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-gothic-coding-fonts</packagereq>
       <packagereq type="optional">ns-bola-fonts</packagereq>
       <packagereq type="optional">ns-tiza-chalk-fonts</packagereq>
       <packagereq type="optional">oflb-asana-math-fonts</packagereq>
@@ -2073,10 +2072,10 @@
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
       <packagereq type="optional">paktype-naqsh-fonts</packagereq>
       <packagereq type="optional">paktype-tehreer-fonts</packagereq>
-      <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
-      <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
       <packagereq type="optional">paratype-pt-mono-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
@@ -3544,9 +3543,9 @@
       <packagereq>sni-qt</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>xsettings-kde</packagereq>
-      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
+      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="pam_kwallet">socat</packagereq>
     </packagelist>
   </group>
@@ -4053,54 +4052,6 @@
     </packagelist>
   </group>
   <group>
-    <id>lxqt-apps</id>
-    <_name>Applications for the LXQt Desktop</_name>
-    <_description>A set of commonly used applications for the LXQt Desktop</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>transmission-qt</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lxqt-desktop</id>
-    <_name>LXQt</_name>
-    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>oxygen-gtk2-theme</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>initial-setup-gui</packagereq>
-      <packagereq>sddm</packagereq>
-      <packagereq>lxqt-common</packagereq>
-      <packagereq>lxqt-runner</packagereq>
-      <packagereq>lxqt-qtplugin</packagereq>
-      <packagereq>lxqt-powermanagement</packagereq>
-      <packagereq>lxqt-panel</packagereq>
-      <packagereq>lxqt-openssh-askpass</packagereq>
-      <packagereq>lxqt-config</packagereq>
-      <packagereq>lxqt-session</packagereq>
-      <packagereq>lxqt-policykit</packagereq>
-      <packagereq>lxqt-about</packagereq>
-      <packagereq>lxqt-globalkeys</packagereq>
-      <packagereq>lxqt-notificationd</packagereq>
-      <packagereq>qterminal</packagereq>
-      <packagereq>qupzilla</packagereq>
-      <packagereq>network-manager-applet</packagereq>
-      <packagereq>nm-connection-editor</packagereq>
-      <packagereq>notification-daemon</packagereq>
-      <packagereq>obconf</packagereq>
-      <packagereq>openbox</packagereq>
-      <packagereq>pcmanfm-qt</packagereq>
-      <packagereq>perl-File-MimeInfo</packagereq>
-      <packagereq>upower</packagereq>
-      <packagereq>xarchiver</packagereq>
-      <packagereq>xdg-user-dirs</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>lxde-media</id>
     <_name>Multimedia support for LXDE</_name>
     <_description>Multimedia support for LXDE</_description>
@@ -4110,17 +4061,6 @@
       <packagereq>asunder</packagereq>
       <packagereq>gnomebaker</packagereq>
       <packagereq>lxmusic</packagereq>
-      <packagereq>pavucontrol</packagereq>
-      <packagereq>pnmixer</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>lxqt-media</id>
-    <_name>Multimedia support for LXQt</_name>
-    <_description>Multimedia support for LXQt</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
       <packagereq>pavucontrol</packagereq>
       <packagereq>pnmixer</packagereq>
     </packagelist>
@@ -4138,15 +4078,74 @@
     </packagelist>
   </group>
   <group>
+    <id>lxqt-apps</id>
+    <_name>Applications for the LXQt Desktop</_name>
+    <_description>A set of commonly used applications for the LXQt Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>transmission-qt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxqt-desktop</id>
+    <_name>LXQt</_name>
+    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>initial-setup-gui</packagereq>
+      <packagereq>lxqt-about</packagereq>
+      <packagereq>lxqt-common</packagereq>
+      <packagereq>lxqt-config</packagereq>
+      <packagereq>lxqt-globalkeys</packagereq>
+      <packagereq>lxqt-notificationd</packagereq>
+      <packagereq>lxqt-openssh-askpass</packagereq>
+      <packagereq>lxqt-panel</packagereq>
+      <packagereq>lxqt-policykit</packagereq>
+      <packagereq>lxqt-powermanagement</packagereq>
+      <packagereq>lxqt-qtplugin</packagereq>
+      <packagereq>lxqt-runner</packagereq>
+      <packagereq>lxqt-session</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
+      <packagereq>notification-daemon</packagereq>
+      <packagereq>obconf</packagereq>
+      <packagereq>openbox</packagereq>
+      <packagereq>oxygen-gtk2-theme</packagereq>
+      <packagereq>pcmanfm-qt</packagereq>
+      <packagereq>perl-File-MimeInfo</packagereq>
+      <packagereq>qterminal</packagereq>
+      <packagereq>qupzilla</packagereq>
+      <packagereq>sddm</packagereq>
+      <packagereq>upower</packagereq>
+      <packagereq>xarchiver</packagereq>
+      <packagereq>xdg-user-dirs</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxqt-media</id>
+    <_name>Multimedia support for LXQt</_name>
+    <_description>Multimedia support for LXQt</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>pavucontrol</packagereq>
+      <packagereq>pnmixer</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>lxqt-office</id>
     <_name>LXQt Office</_name>
     <_description>Office suite for LXQt</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>libreoffice-writer</packagereq>
       <packagereq>libreoffice-calc</packagereq>
       <packagereq>libreoffice-impress</packagereq>
+      <packagereq>libreoffice-writer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4319,9 +4318,9 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
-      <packagereq>audacious</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
+      <packagereq>audacious</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-image-converter</packagereq>
       <packagereq>caja-open-terminal</packagereq>
@@ -4330,17 +4329,17 @@
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
-      <packagereq>f22-backgrounds-base</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
+      <packagereq>f22-backgrounds-base</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
-      <packagereq>gucharmap</packagereq>
       <packagereq>gtk2-engines</packagereq>
+      <packagereq>gucharmap</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-archive</packagereq>
@@ -5159,10 +5158,10 @@
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
-      <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
-      <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
       <packagereq type="optional">paratype-pt-mono-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
+      <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
       <packagereq type="optional">scim-tables-russian</packagereq>
       <packagereq type="optional">stardict-dic-ru</packagereq>
       <packagereq type="optional">xorg-x11-fonts-cyrillic</packagereq>
@@ -5396,6 +5395,22 @@
     </packagelist>
   </group>
   <group>
+    <id>server-hardware-support</id>
+    <_name>Hardware Support for Server Systems</_name>
+    <_description>This group is a limited collection of tools for various hardware specific utilities.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">lm_sensors</packagereq>
+      <packagereq type="default">openhpi</packagereq>
+      <packagereq type="default">smp_utils</packagereq>
+      <packagereq type="optional">firmware-addon-dell</packagereq>
+      <packagereq type="optional">hddtemp</packagereq>
+      <packagereq type="optional">hdparm</packagereq>
+      <packagereq type="optional">lsscsi</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>server-product</id>
     <_name>Fedora Server product core</_name>
     <_description>Packages mandatory for the server product.</_description>
@@ -5431,22 +5446,6 @@
       <packagereq type="optional">wqy-microhei-fonts</packagereq>
       <packagereq type="optional">wqy-unibit-fonts</packagereq>
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>server-hardware-support</id>
-    <_name>Hardware Support for Server Systems</_name>
-    <_description>This group is a limited collection of tools for various hardware specific utilities.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">lm_sensors</packagereq>
-      <packagereq type="default">smp_utils</packagereq>
-      <packagereq type="default">openhpi</packagereq>
-      <packagereq type="optional">firmware-addon-dell</packagereq>
-      <packagereq type="optional">hddtemp</packagereq>
-      <packagereq type="optional">hdparm</packagereq>
-      <packagereq type="optional">lsscsi</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6448,8 +6447,8 @@
       <packagereq>gnome-getting-started-docs</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
       <packagereq>gnome-screenshot</packagereq>
-      <packagereq>gnome-session-xsession</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
+      <packagereq>gnome-session-xsession</packagereq>
       <packagereq>gnome-settings-daemon</packagereq>
       <packagereq>gnome-shell</packagereq>
       <packagereq>gnome-shell-extension-background-logo</packagereq>
@@ -6460,8 +6459,8 @@
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
-      <packagereq>google-android-emoji-fonts</packagereq>
       <packagereq>gnupg2</packagereq>
+      <packagereq>google-android-emoji-fonts</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-afp</packagereq>
@@ -6871,74 +6870,17 @@
     </packagelist>
   </group>
   <environment>
-    <!-- Intended to allow interactive installation of components that will eventually be
-         used in a cloud image. -->
-    <id>cloud-server-environment</id>
-    <_name>Fedora Cloud Server</_name>
-    <_description>A server install with components needed to run in a cloud environment.</_description>
-    <display_order>3</display_order>
+    <id>minimal-environment</id>
+    <_name>Minimal Install</_name>
+    <_description>Basic functionality.</_description>
+    <display_order>1</display_order>
     <grouplist>
-      <groupid>cloud-server</groupid>
       <groupid>core</groupid>
+      <groupid>fedora-release-nonproduct</groupid>
     </grouplist>
     <optionlist>
       <groupid>standard</groupid>
-      <groupid>headless-management</groupid>
-      <groupid>dogtag</groupid>
-      <groupid>directory-server</groupid>
-      <groupid>dns-server</groupid>
-      <groupid>freeipa-server</groupid>
-      <groupid>ftp-server</groupid>
       <groupid>guest-agents</groupid>
-      <groupid>ha</groupid>
-      <groupid>load-balancer</groupid>
-      <groupid>mail-server</groupid>
-      <groupid>mysql</groupid>
-      <groupid>network-server</groupid>
-      <groupid>smb-server</groupid>
-      <groupid>sql-server</groupid>
-      <groupid>web-server</groupid>
-    </optionlist>
-  </environment>
-  <environment>
-    <!-- Intended only for the Fedora Server product; other products will not
-         show this because they don’t include the fedora-release-server
-         package.  Please keep this mostly in sync with
-         infrastructure-server-environment. -->
-    <id>server-product-environment</id>
-    <_name>Fedora Server</_name>
-    <!-- Should eventually say “with a web UI accessible right after installation”
-         or something else to differentiate from
-         infrastructure-server-environment. -->
-    <_description>An integrated, easier to manage server.</_description>
-    <display_order>2</display_order>
-    <grouplist>
-      <groupid>server-product</groupid>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
-      <groupid>server-hardware-support</groupid>
-      <groupid>headless-management</groupid>
-      <groupid>container-management</groupid>
-      <groupid>domain-client</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid>dogtag</groupid>
-      <groupid>directory-server</groupid>
-      <groupid>dns-server</groupid>
-      <groupid>freeipa-server</groupid>
-      <groupid>ftp-server</groupid>
-      <groupid>guest-agents</groupid>
-      <groupid>ha</groupid>
-      <groupid>hardware-support</groupid>
-      <groupid>load-balancer</groupid>
-      <groupid>mail-server</groupid>
-      <groupid>mysql</groupid>
-      <groupid>network-server</groupid>
-      <groupid>printing</groupid>
-      <groupid>smb-server</groupid>
-      <groupid>sql-server</groupid>
-      <groupid>virtualization</groupid>
-      <groupid>web-server</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -7000,6 +6942,47 @@
       <groupid>xfce-office</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <!-- Intended only for the Fedora Server product; other products will not
+         show this because they don’t include the fedora-release-server
+         package.  Please keep this mostly in sync with
+         infrastructure-server-environment. -->
+    <id>server-product-environment</id>
+    <_name>Fedora Server</_name>
+    <!-- Should eventually say “with a web UI accessible right after installation”
+         or something else to differentiate from
+         infrastructure-server-environment. -->
+    <_description>An integrated, easier to manage server.</_description>
+    <display_order>2</display_order>
+    <grouplist>
+      <groupid>server-product</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>server-hardware-support</groupid>
+      <groupid>headless-management</groupid>
+      <groupid>container-management</groupid>
+      <groupid>domain-client</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>dogtag</groupid>
+      <groupid>directory-server</groupid>
+      <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
+      <groupid>ftp-server</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>ha</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>load-balancer</groupid>
+      <groupid>mail-server</groupid>
+      <groupid>mysql</groupid>
+      <groupid>network-server</groupid>
+      <groupid>printing</groupid>
+      <groupid>smb-server</groupid>
+      <groupid>sql-server</groupid>
+      <groupid>virtualization</groupid>
+      <groupid>web-server</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -7078,7 +7061,6 @@
       <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
-
   <environment>
     <id>cinnamon-desktop-environment</id>
     <_name>Cinnamon Desktop</_name>
@@ -7154,6 +7136,36 @@
     </grouplist>
     <optionlist>
       <groupid>sugar-apps</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <!-- Intended to allow interactive installation of components that will eventually be
+         used in a cloud image. -->
+    <id>cloud-server-environment</id>
+    <_name>Fedora Cloud Server</_name>
+    <_description>A server install with components needed to run in a cloud environment.</_description>
+    <display_order>3</display_order>
+    <grouplist>
+      <groupid>cloud-server</groupid>
+      <groupid>core</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>standard</groupid>
+      <groupid>headless-management</groupid>
+      <groupid>dogtag</groupid>
+      <groupid>directory-server</groupid>
+      <groupid>dns-server</groupid>
+      <groupid>freeipa-server</groupid>
+      <groupid>ftp-server</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>ha</groupid>
+      <groupid>load-balancer</groupid>
+      <groupid>mail-server</groupid>
+      <groupid>mysql</groupid>
+      <groupid>network-server</groupid>
+      <groupid>smb-server</groupid>
+      <groupid>sql-server</groupid>
+      <groupid>web-server</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -7297,27 +7309,13 @@
       <groupid>kde-desktop</groupid>
       <groupid>legacy-fonts</groupid>
       <groupid>libreoffice</groupid>
-	  <groupid>lxde-desktop</groupid>
+      <groupid>lxde-desktop</groupid>
       <groupid>lxqt-desktop</groupid>
       <groupid>mate-desktop</groupid>
       <groupid>sugar-desktop</groupid>
       <groupid>xfce-desktop</groupid>
       <groupid>xmonad</groupid>
       <groupid>xmonad-mate</groupid>
-    </optionlist>
-  </environment>
-  <environment>
-    <id>minimal-environment</id>
-    <_name>Minimal Install</_name>
-    <_description>Basic functionality.</_description>
-    <display_order>1</display_order>
-    <grouplist>
-      <groupid>core</groupid>
-      <groupid>fedora-release-nonproduct</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid>standard</groupid>
-      <groupid>guest-agents</groupid>
     </optionlist>
   </environment>
   <category>
@@ -7395,7 +7393,6 @@
       <groupid>lxqt-office</groupid>
     </grouplist>
   </category>
-
   <category>
     <id>cinnamon-desktop-environment</id>
     <_name>Cinnamon Desktop</_name>

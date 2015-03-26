@@ -1,30 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
-  <environment>
-    <id>mate-desktop-environment</id>
-    <_name>MATE Desktop</_name>
-    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
-    <display_order>22</display_order>
-    <grouplist>
-      <groupid>base-x</groupid>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
-      <groupid>admin-tools</groupid>
-      <groupid>dial-up</groupid>
-      <groupid>fonts</groupid>
-      <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
-      <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
-      <groupid>guest-desktop-agents</groupid>
-      <groupid>mate-desktop</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid>libreoffice</groupid>
-      <groupid>3d-printing</groupid>
-    </optionlist>
-  </environment>
   <group>
     <id>additional-devel</id>
     <_name>Additional Development</_name>
@@ -498,7 +474,7 @@
     <packagelist>
       <packagereq type="default">alliance</packagereq>
       <packagereq type="default">archimedes</packagereq>
-	  <packagereq type="default">avarice</packagereq>
+      <packagereq type="default">avarice</packagereq>
       <packagereq type="default">avr-binutils</packagereq>
       <packagereq type="default">avr-gcc</packagereq>
       <packagereq type="default">avr-gcc-c++</packagereq>
@@ -556,7 +532,7 @@
       <packagereq type="default">magic-doc</packagereq>
       <packagereq type="default">mcu8051ide</packagereq>
       <packagereq type="default">minicom</packagereq>
-	  <packagereq type="default">mot-adms</packagereq>
+      <packagereq type="default">mot-adms</packagereq>
       <packagereq type="default">nesc</packagereq>
       <packagereq type="default">netgen</packagereq>
       <packagereq type="default">ngspice</packagereq>
@@ -847,6 +823,21 @@
     </packagelist>
   </group>
   <group>
+    <id>haskell</id>
+    <_name>Haskell</_name>
+    <_description>Support for developing programs in the Haskell programming language.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="gtk2-devel">ghc-gtk-devel</packagereq>
+      <packagereq type="default">darcs</packagereq>
+      <packagereq type="default">ghc</packagereq>
+      <packagereq type="default">ghc-rpm-macros</packagereq>
+      <packagereq type="default">haskell-platform</packagereq>
+      <packagereq type="default">hscolour</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>hebrew-support</id>
     <_name>Hebrew Support</_name>
     <_description/>
@@ -863,21 +854,6 @@
     <uservisible>true</uservisible>
     <langonly>hil</langonly>
     <packagelist/>
-  </group>
-  <group>
-    <id>haskell</id>
-    <_name>Haskell</_name>
-    <_description>Support for developing programs in the Haskell programming language.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="conditional" requires="gtk2-devel">ghc-gtk-devel</packagereq>
-      <packagereq type="default">darcs</packagereq>
-      <packagereq type="default">ghc</packagereq>
-      <packagereq type="default">ghc-rpm-macros</packagereq>
-      <packagereq type="default">haskell-platform</packagereq>
-      <packagereq type="default">hscolour</packagereq>
-    </packagelist>
   </group>
   <group>
     <id>hindi-support</id>
@@ -1305,12 +1281,12 @@
       <packagereq type="mandatory">caja</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gtk2-engines</packagereq>
+      <packagereq type="mandatory">gvfs</packagereq>
       <packagereq type="mandatory">gvfs-afc</packagereq>
       <packagereq type="mandatory">gvfs-archive</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">gvfs-gphoto2</packagereq>
       <packagereq type="mandatory">gvfs-mtp</packagereq>
-      <packagereq type="mandatory">gvfs</packagereq>
       <packagereq type="mandatory">gvfs-smb</packagereq>
       <packagereq type="mandatory">libmatekbd</packagereq>
       <packagereq type="mandatory">libmateweather</packagereq>
@@ -1350,8 +1326,8 @@
       <packagereq type="default">gnote</packagereq>
       <packagereq type="default">gparted</packagereq>
       <packagereq type="default">gucharmap</packagereq>
-      <packagereq type="default">lightdm-gtk</packagereq>
       <packagereq type="default">lightdm</packagereq>
+      <packagereq type="default">lightdm-gtk</packagereq>
       <packagereq type="default">mate-applets</packagereq>
       <packagereq type="default">mate-calc</packagereq>
       <packagereq type="default">mate-dictionary</packagereq>
@@ -1365,10 +1341,10 @@
       <packagereq type="default">mate-terminal</packagereq>
       <packagereq type="default">mozo</packagereq>
       <packagereq type="default">network-manager-applet</packagereq>
+      <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">NetworkManager-l2tp</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
-      <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">NetworkManager-pptp</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
@@ -1399,7 +1375,7 @@
       <packagereq type="optional">mintmenu</packagereq>
       <packagereq type="optional">pluma-beesu-plugin</packagereq>
     </packagelist>
-   </group>
+  </group>
   <group>
     <id>milkymist</id>
     <_name>Milkymist</_name>
@@ -1415,9 +1391,9 @@
       <packagereq type="default">avr-gdb</packagereq>
       <packagereq type="default">avr-libc</packagereq>
       <packagereq type="default">avr-libc-docs</packagereq>
-	  <packagereq type="default">clang</packagereq>
-	  <packagereq type="default">gcc</packagereq>
-	  <packagereq type="default">gd-devel</packagereq>
+      <packagereq type="default">clang</packagereq>
+      <packagereq type="default">gcc</packagereq>
+      <packagereq type="default">gd-devel</packagereq>
       <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">iverilog</packagereq>
@@ -2282,6 +2258,39 @@
     <langonly>zu</langonly>
     <packagelist/>
   </group>
+  <environment>
+    <id>mate-desktop-environment</id>
+    <_name>MATE Desktop</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>mate-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>libreoffice</groupid>
+      <groupid>3d-printing</groupid>
+    </optionlist>
+  </environment>
+  <category>
+    <id>mate-desktop-environment</id>
+    <_name>MATE Desktop</_name>
+    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>mate-desktop</groupid>
+    </grouplist>
+  </category>
   <category>
     <id>desktops</id>
     <display_order>70</display_order>
@@ -2309,15 +2318,6 @@
     <grouplist>
       <groupid>fedora-packager</groupid>
       <groupid>xfce-software-development</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>mate-desktop-environment</id>
-    <_name>MATE Desktop</_name>
-    <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
-    <display_order>22</display_order>
-    <grouplist>
-      <groupid>mate-desktop</groupid>
     </grouplist>
   </category>
 </comps>
