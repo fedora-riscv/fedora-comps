@@ -3472,7 +3472,6 @@
       <packagereq>akregator</packagereq>
       <packagereq>apper</packagereq>
       <packagereq>appmenu-qt</packagereq>
-      <packagereq>baloo-file</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>cagibi</packagereq>
@@ -3502,6 +3501,7 @@
       <packagereq>kdelibs</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdnssd</packagereq>
+      <packagereq>kf5-baloo-file</packagereq>
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
