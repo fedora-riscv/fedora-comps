@@ -3492,7 +3492,6 @@
       <packagereq>kde-baseapps</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
-      <packagereq>kde-runtime-docs</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
       <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdeaccessibility</packagereq>
@@ -3530,6 +3529,7 @@
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
+      <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
       <packagereq>plasma-nm-openconnect</packagereq>
