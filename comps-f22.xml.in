@@ -668,6 +668,7 @@
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">dhcp-client</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">dnf-yum</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
