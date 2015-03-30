@@ -7568,6 +7568,7 @@
     <match install="moodle-%s" name="moodle"/>
     <match install="mythes-%s" name="mythes"/>
     <match install="nqc-doc-%s" name="nqc-doc"/>
+    <match install="qt5-qtbase-%s" name="qt5-qtbase"/>
     <match install="sagemath-doc-%s" name="sagemath-doc"/>
     <match install="stardict-dic-%s" name="stardict"/>
     <match install="tagainijisho-dic-%s" name="tagainijisho-common"/>
