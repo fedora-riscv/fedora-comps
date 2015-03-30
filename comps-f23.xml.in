@@ -6527,7 +6527,6 @@
       <packagereq>pinentry-gtk</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
-      <packagereq>pm-utils</packagereq>
       <packagereq>polkit-js-engine</packagereq>
       <packagereq>ppp</packagereq>
       <packagereq>psacct</packagereq>
