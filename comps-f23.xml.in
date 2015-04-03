@@ -6248,6 +6248,17 @@
     </packagelist>
   </group>
   <group>
+    <id>vagrant</id>
+    <_name>Vagrant with libvirt support</_name>
+    <_description>These packages provide Vagrant with libvirt provider support</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">vagrant</packagereq>
+      <packagereq type="default">vagrant-libvirt</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>vietnamese-support</id>
     <_name>Vietnamese Support</_name>
     <_description/>
