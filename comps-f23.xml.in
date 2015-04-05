@@ -6400,7 +6400,6 @@
       <packagereq>file</packagereq>
       <packagereq>file-roller</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
-      <packagereq>firefox</packagereq>
       <packagereq>firewalld-config-workstation</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
@@ -6968,6 +6967,7 @@
     <grouplist>
       <groupid>base-x</groupid>
       <groupid>core</groupid>
+      <groupid>firefox</groupid>
       <groupid>fonts</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>hardware-support</groupid>
