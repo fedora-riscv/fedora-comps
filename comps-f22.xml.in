@@ -6436,7 +6436,6 @@
       <packagereq>file-roller</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>firefox</packagereq>
-      <packagereq>firewalld-config-workstation</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>fros-gnome</packagereq>
