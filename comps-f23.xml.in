@@ -1676,7 +1676,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>firefox</packagereq>
-      <packagereq>icedtea-web</packagereq>
     </packagelist>
   </group>
   <group>
