@@ -5417,6 +5417,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">fedora-release-server</packagereq>
+      <packagereq type="default">chrony</packagereq>
     </packagelist>
   </group>
   <group>
