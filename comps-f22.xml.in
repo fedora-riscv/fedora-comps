@@ -3084,7 +3084,6 @@
       <packagereq type="optional">i8kutils</packagereq>
       <packagereq type="optional">iscan-firmware</packagereq>
       <packagereq type="optional">isight-firmware-tools</packagereq>
-      <packagereq type="optional">ivtv-firmware</packagereq>
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">multican</packagereq>
