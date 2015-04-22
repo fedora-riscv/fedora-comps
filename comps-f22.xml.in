@@ -6741,6 +6741,7 @@
       <packagereq>xfce4-datetime-plugin</packagereq>
       <packagereq>xfce4-panel</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
+      <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-power-manager</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
       <packagereq>xfce4-session</packagereq>
@@ -6796,7 +6797,6 @@
       <packagereq>pavucontrol</packagereq>
       <packagereq>pragha</packagereq>
       <packagereq>xfburn</packagereq>
-      <packagereq>xfce4-mixer</packagereq>
     </packagelist>
   </group>
   <group>
