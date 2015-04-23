@@ -1739,7 +1739,7 @@
     <packagelist>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
       <packagereq type="default">adobe-source-han-sans-cn-fonts</packagereq>
-      <packagereq type="default">adobe-source-han-sans-twhk-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
@@ -6154,7 +6154,7 @@
     <langonly>zh_TW</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
-      <packagereq type="default">adobe-source-han-sans-twhk-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">cjkuni-uming-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
