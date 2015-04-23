@@ -6783,6 +6783,7 @@
       <packagereq>xfce4-whiskermenu-plugin</packagereq>
       <packagereq>xfce4-xkb-plugin</packagereq>
       <packagereq>xfdashboard</packagereq>
+      <packagereq>xfdashboard-themes</packagereq>
     </packagelist>
   </group>
   <group>
