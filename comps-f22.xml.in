@@ -4252,7 +4252,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq>atril-thumbnailer</packagereq>
-      <packagereq>bluedevil</packagereq>
       <packagereq>caja-actions</packagereq>
       <packagereq>caja-beesu</packagereq>
       <packagereq>caja-beesu-manager</packagereq>
@@ -4265,7 +4264,6 @@
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-themes-extras</packagereq>
-      <packagereq>mate-user-share</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
       <packagereq>pidgin</packagereq>
