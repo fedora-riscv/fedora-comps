@@ -3668,7 +3668,6 @@
       <packagereq>ktp-accounts-kcm</packagereq>
       <packagereq>ktp-approver</packagereq>
       <packagereq>ktp-auth-handler</packagereq>
-      <packagereq>ktp-call-ui</packagereq>
       <packagereq>ktp-contact-list</packagereq>
       <packagereq>ktp-desktop-applets</packagereq>
       <packagereq>ktp-filetransfer-handler</packagereq>
