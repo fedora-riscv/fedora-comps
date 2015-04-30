@@ -4336,6 +4336,7 @@
       <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq>yumex</packagereq>
+      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
