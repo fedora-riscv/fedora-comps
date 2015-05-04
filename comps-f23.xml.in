@@ -3420,7 +3420,6 @@
       <packagereq>kcharselect</packagereq>
       <packagereq>kcm-gtk</packagereq>
       <packagereq>kcm_systemd</packagereq>
-      <packagereq>kcm_touchpad</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-baseapps</packagereq>
       <packagereq>kde-print-manager</packagereq>
