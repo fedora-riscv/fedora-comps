@@ -3531,7 +3531,7 @@
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
-      <packagereq type="conditional" requires="qt5-style-oxygen">qt5-qtbase-gui</packagereq>
+      <packagereq type="conditional" requires="qt5-qtbase-gui">qt5-style-oxygen</packagereq>
       <packagereq type="conditional" requires="pam_kwallet">socat</packagereq>
     </packagelist>
   </group>
