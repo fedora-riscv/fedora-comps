@@ -3383,6 +3383,7 @@
     <packagelist>
       <packagereq>ark</packagereq>
       <packagereq>digikam</packagereq>
+      <packagereq>kde-connect</packagereq>
       <packagereq>kdegames-minimal</packagereq>
       <packagereq>kdenetwork-krdc</packagereq>
       <packagereq>kdenetwork-krfb</packagereq>
