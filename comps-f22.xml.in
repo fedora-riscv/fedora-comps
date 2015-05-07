@@ -569,7 +569,7 @@
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>yumex</packagereq>
+      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
