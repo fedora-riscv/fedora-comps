@@ -6420,6 +6420,7 @@
       <packagereq>evolution-help</packagereq>
       <packagereq>fedora-productimg-workstation</packagereq>
       <packagereq>fedora-release-workstation</packagereq>
+      <packagereq>fedora-user-agent-chrome</packagereq>
       <packagereq>file</packagereq>
       <packagereq>file-roller</packagereq>
       <packagereq>file-roller-nautilus</packagereq>
