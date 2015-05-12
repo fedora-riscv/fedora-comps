@@ -138,7 +138,7 @@
       <packagereq type="default">alsa-utils</packagereq>
       <packagereq type="default">alsamixergui</packagereq>
       <packagereq type="default">ams</packagereq>
-      <packagereq type="default">ardour3</packagereq>
+      <packagereq type="default">ardour4</packagereq>
       <packagereq type="default">arpage</packagereq>
       <packagereq type="default">audacity</packagereq>
       <packagereq type="default">bristol</packagereq>
@@ -5437,7 +5437,7 @@
       <packagereq type="optional">adplay</packagereq>
       <packagereq type="optional">alsamixergui</packagereq>
       <packagereq type="optional">amarok</packagereq>
-      <packagereq type="optional">ardour</packagereq>
+      <packagereq type="optional">ardour2</packagereq>
       <packagereq type="optional">argyllcms</packagereq>
       <packagereq type="optional">asunder</packagereq>
       <packagereq type="optional">audacious</packagereq>
