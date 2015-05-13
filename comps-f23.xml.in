@@ -3440,7 +3440,6 @@
       <packagereq>khelpcenter</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
-      <packagereq>kmenuedit</packagereq>
       <packagereq>kmix</packagereq>
       <packagereq>knode</packagereq>
       <packagereq>konsole5</packagereq>
