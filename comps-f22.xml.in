@@ -3505,6 +3505,7 @@
       <packagereq>ksysguard</packagereq>
       <packagereq>kuser</packagereq>
       <packagereq>kwalletmanager</packagereq>
+      <packagereq>kwalletmanager5</packagereq>
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
