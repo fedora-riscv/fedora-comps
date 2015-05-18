@@ -4326,7 +4326,6 @@
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-date</packagereq>
-      <packagereq>system-config-keyboard</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>system-config-users</packagereq>
