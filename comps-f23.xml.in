@@ -536,6 +536,8 @@
       <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn</packagereq>
+      <packagereq>NetworkManager-iodine</packagereq>
+      <packagereq>NetworkManager-openswan</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
