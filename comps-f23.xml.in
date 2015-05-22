@@ -535,10 +535,10 @@
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
-      <packagereq>NetworkManager-openvpn</packagereq>
-      <packagereq>NetworkManager-iodine</packagereq>
-      <packagereq>NetworkManager-openswan</packagereq>
-      <packagereq>NetworkManager-pptp</packagereq>
+      <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-openswan-gnome</packagereq>
+      <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
