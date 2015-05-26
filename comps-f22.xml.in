@@ -650,7 +650,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">docker-io</packagereq>
+      <packagereq type="mandatory">docker</packagereq>
       <packagereq type="optional">docker-registry</packagereq>
       <packagereq type="optional">fedora-dockerfiles</packagereq>
     </packagelist>
