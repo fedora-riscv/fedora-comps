@@ -522,6 +522,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>brasero</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>

@@ -520,6 +520,7 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
