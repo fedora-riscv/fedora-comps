@@ -4081,6 +4081,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>

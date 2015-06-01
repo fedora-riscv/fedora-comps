@@ -4254,6 +4254,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-image-converter</packagereq>
       <packagereq>caja-open-terminal</packagereq>
