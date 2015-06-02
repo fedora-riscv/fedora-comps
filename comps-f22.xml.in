@@ -3479,6 +3479,7 @@
       <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-baseapps</packagereq>
+      <packagereq>kde-partitionmanager</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
