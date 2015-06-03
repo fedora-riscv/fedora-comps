@@ -502,6 +502,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>brasero</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
@@ -3425,6 +3426,7 @@
       <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-baseapps</packagereq>
+      <packagereq>kde-partitionmanager</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
