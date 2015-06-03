@@ -4265,6 +4265,7 @@
       <packagereq>dconf-editor</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
+      <packagereq>exaile</packagereq>
       <packagereq>f22-backgrounds-base</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
@@ -4323,6 +4324,7 @@
       <packagereq>NetworkManager-openvpn</packagereq>
       <packagereq>NetworkManager-pptp</packagereq>
       <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>parole</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
