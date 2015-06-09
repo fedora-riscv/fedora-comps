@@ -3416,6 +3416,7 @@
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>kaddressbook</packagereq>
