@@ -5750,12 +5750,14 @@
       <packagereq>sugar-ruler</packagereq>
       <packagereq>sugar-speak</packagereq>
       <packagereq>sugar-stopwatch</packagereq>
+      <packagereq>sugar-story</packagereq>
       <packagereq>sugar-terminal</packagereq>
       <packagereq>sugar-toolkit</packagereq>
       <packagereq>sugar-toolkit-gtk3</packagereq>
       <packagereq>sugar-turtleart</packagereq>
       <packagereq>sugar-typing-turtle</packagereq>
       <packagereq>sugar-visualmatch</packagereq>
+      <packagereq>sugar-words</packagereq>
       <packagereq>sugar-write</packagereq>
       <packagereq>sugar-xoirc</packagereq>
     </packagelist>
