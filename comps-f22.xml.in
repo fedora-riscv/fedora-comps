@@ -3495,6 +3495,7 @@
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
+      <packagereq>kinfocenter</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
       <packagereq>kmix</packagereq>
