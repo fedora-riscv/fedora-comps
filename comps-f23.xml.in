@@ -7184,6 +7184,7 @@
       <groupid>electronic-lab</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
+      <groupid>vagrant</groupid>
     </optionlist>
   </environment>
   <environment>
