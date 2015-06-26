@@ -5019,66 +5019,29 @@
       <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-actionmailer</packagereq>
       <packagereq>rubygem-actionpack</packagereq>
+      <packagereq>rubygem-actionview</packagereq>
       <packagereq>rubygem-activemodel</packagereq>
       <packagereq>rubygem-activerecord</packagereq>
-      <packagereq>rubygem-activeresource</packagereq>
       <packagereq>rubygem-activesupport</packagereq>
-      <packagereq>rubygem-arel</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
       <packagereq>rubygem-bigdecimal</packagereq>
-      <packagereq>rubygem-builder</packagereq>
       <packagereq>rubygem-bundler</packagereq>
+      <packagereq>rubygem-byebug</packagereq>
       <packagereq>rubygem-coffee-rails</packagereq>
-      <packagereq>rubygem-coffee-script</packagereq>
-      <packagereq>rubygem-coffee-script-source</packagereq>
-      <packagereq>rubygem-diff-lcs</packagereq>
-      <packagereq>rubygem-erubis</packagereq>
-      <packagereq>rubygem-execjs</packagereq>
-      <packagereq>rubygem-hike</packagereq>
-      <packagereq>rubygem-i18n</packagereq>
-      <packagereq>rubygem-io-console</packagereq>
       <packagereq>rubygem-jbuilder</packagereq>
-      <packagereq>rubygem-journey</packagereq>
       <packagereq>rubygem-jquery-rails</packagereq>
       <packagereq>rubygem-json</packagereq>
-      <packagereq>rubygem-listen</packagereq>
-      <packagereq>rubygem-mail</packagereq>
-      <packagereq>rubygem-mime-types</packagereq>
       <packagereq>rubygem-minitest</packagereq>
-      <packagereq>rubygem-mongo</packagereq>
-      <packagereq>rubygem-multi_json</packagereq>
-      <packagereq>rubygem-net-http-persistent</packagereq>
-      <packagereq>rubygem-passenger</packagereq>
-      <packagereq>rubygem-passenger-devel</packagereq>
-      <packagereq>rubygem-passenger-native</packagereq>
-      <packagereq>rubygem-passenger-native-libs</packagereq>
-      <packagereq>rubygem-polyglot</packagereq>
-      <packagereq>rubygem-rack</packagereq>
-      <packagereq>rubygem-rack-cache</packagereq>
-      <packagereq>rubygem-rack-ssl</packagereq>
-      <packagereq>rubygem-rack-test</packagereq>
       <packagereq>rubygem-rails</packagereq>
-      <packagereq>rubygem-railties</packagereq>
       <packagereq>rubygem-rake</packagereq>
-      <packagereq>rubygem-rdoc</packagereq>
-      <packagereq>rubygem-ref</packagereq>
-      <packagereq>rubygem-ruby2ruby</packagereq>
-      <packagereq>rubygem-ruby_parser</packagereq>
-      <packagereq>rubygem-sass</packagereq>
       <packagereq>rubygem-sass-rails</packagereq>
       <packagereq>rubygem-sdoc</packagereq>
-      <packagereq>rubygem-sexp_processor</packagereq>
-      <packagereq>rubygem-sinatra</packagereq>
-      <packagereq>rubygem-sprockets</packagereq>
+      <packagereq>rubygem-spring</packagereq>
       <packagereq>rubygem-sqlite3</packagereq>
       <packagereq>rubygem-therubyracer</packagereq>
-      <packagereq>rubygem-thor</packagereq>
-      <packagereq>rubygem-tilt</packagereq>
-      <packagereq>rubygem-treetop</packagereq>
       <packagereq>rubygem-turbolinks</packagereq>
-      <packagereq>rubygem-tzinfo</packagereq>
+      <packagereq>rubygem-web-console</packagereq>
       <packagereq>rubygem-uglifier</packagereq>
-      <packagereq>rubygems</packagereq>
       <packagereq>sqlite-devel</packagereq>
     </packagelist>
   </group>
