@@ -6218,6 +6218,8 @@
     <packagelist>
       <packagereq type="mandatory">vagrant</packagereq>
       <packagereq type="default">vagrant-libvirt</packagereq>
+      <packagereq type="optional">vagrant-cachier</packagereq>
+      <packagereq type="optional">vagrant-registration</packagereq>
     </packagelist>
   </group>
   <group>
