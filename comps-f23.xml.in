@@ -6199,7 +6199,7 @@
   <group>
     <id>virtualization</id>
     <_name>Virtualization</_name>
-    <_description>These packages provide a virtualization environment.</_description>
+    <_description>These packages provide a graphical virtualization environment.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -6209,6 +6209,23 @@
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
+      <packagereq type="optional">guestfs-browser</packagereq>
+      <packagereq type="optional">libguestfs-tools</packagereq>
+      <packagereq type="optional">python-libguestfs</packagereq>
+      <packagereq type="optional">virt-top</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>virtualization-headless</id>
+    <_name>Headless Virtualization</_name>
+    <_description>These packages provide a headless virtualization environment.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">virt-install</packagereq>
+      <packagereq type="default">libvirt-daemon-config-network</packagereq>
+      <packagereq type="default">libvirt-daemon-kvm</packagereq>
+      <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="optional">guestfs-browser</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">python-libguestfs</packagereq>
