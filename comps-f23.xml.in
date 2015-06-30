@@ -5391,7 +5391,6 @@
       <packagereq type="mandatory">samba</packagereq>
       <packagereq type="mandatory">samba-client</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
-      <packagereq type="default">system-config-samba</packagereq>
     </packagelist>
   </group>
   <group>
