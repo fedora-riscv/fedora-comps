@@ -560,7 +560,7 @@
       <packagereq>NetworkManager-openswan-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
-      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
