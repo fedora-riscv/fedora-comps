@@ -3131,7 +3131,7 @@
       <packagereq type="conditional" requires="mate-settings-daemon">imsettings-mate</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
-      <packagereq type="default">ibus-chewing</packagereq>
+      <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-kkc</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
@@ -6112,7 +6112,7 @@
     <uservisible>false</uservisible>
     <langonly>zh_TW</langonly>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-chewing</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libzhuyin</packagereq>
       <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">cjkuni-uming-fonts</packagereq>
@@ -6406,7 +6406,7 @@
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
       <packagereq>hunspell</packagereq>
-      <packagereq>ibus-chewing</packagereq>
+      <packagereq>ibus-libzhuyin</packagereq>
       <packagereq>ibus-gtk2</packagereq>
       <packagereq>ibus-gtk3</packagereq>
       <packagereq>ibus-hangul</packagereq>
