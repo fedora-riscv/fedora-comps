@@ -4264,7 +4264,6 @@
       <packagereq>caja-sendto</packagereq>
       <packagereq>caja-wallpaper</packagereq>
       <packagereq>claws-mail</packagereq>
-      <packagereq>dconf</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
@@ -4278,7 +4277,6 @@
       <packagereq>gparted</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gucharmap</packagereq>
-      <packagereq>gvfs</packagereq>
       <packagereq>gvfs-afc</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-fuse</packagereq>
@@ -4321,12 +4319,15 @@
       <packagereq>mate-user-guide</packagereq>
       <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
-      <packagereq>NetworkManager</packagereq>
+      <packagereq>NetworkManager-adsl</packagereq>
+      <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
-      <packagereq>NetworkManager-openvpn</packagereq>
-      <packagereq>NetworkManager-pptp</packagereq>
-      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-openswan-gnome</packagereq>
+      <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-pptp-gnome</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>parole</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
