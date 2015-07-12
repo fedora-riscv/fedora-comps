@@ -551,7 +551,7 @@
       <packagereq>metacity</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-preview</packagereq>
-      <packagereq>network-manager-applet</packagereq>
+      <packagereq>nemo-image-converter</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-l2tp</packagereq>
