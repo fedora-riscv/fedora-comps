@@ -548,6 +548,7 @@
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm-gtk</packagereq>
+      <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-preview</packagereq>
