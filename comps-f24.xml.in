@@ -544,6 +544,7 @@
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>policycoreutils-gui</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>shotwell</packagereq>
