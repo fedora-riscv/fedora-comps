@@ -4538,8 +4538,8 @@
       <packagereq type="default">libdbi-dbd-mysql</packagereq>
       <packagereq type="default">mariadb-server</packagereq>
       <packagereq type="default">mysql-connector-odbc</packagereq>
-      <packagereq type="default">MySQL-python</packagereq>
       <packagereq type="default">perl-DBD-MySQL</packagereq>
+      <packagereq type="default">python-mysql</packagereq>
       <packagereq type="default">unixODBC</packagereq>
       <packagereq type="optional">mariadb-bench</packagereq>
       <packagereq type="optional">mariadb-devel</packagereq>
@@ -4936,13 +4936,13 @@
       <packagereq>libjpeg-turbo</packagereq>
       <packagereq>libjpeg-turbo-devel</packagereq>
       <packagereq>mod_wsgi</packagereq>
-      <packagereq>MySQL-python</packagereq>
       <packagereq>numpy</packagereq>
       <packagereq>numpy-f2py</packagereq>
       <packagereq>pymongo</packagereq>
       <packagereq>pymongo-gridfs</packagereq>
       <packagereq>python</packagereq>
       <packagereq>python-magic</packagereq>
+      <packagereq>python-mysql</packagereq>
       <packagereq>python-psycopg2</packagereq>
       <packagereq>python-virtualenv</packagereq>
     </packagelist>
