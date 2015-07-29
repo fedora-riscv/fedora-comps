@@ -549,6 +549,7 @@
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-printer</packagereq>
+      <packagereq>redshift</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yumex-dnf</packagereq>
