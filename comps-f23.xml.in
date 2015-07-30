@@ -4294,6 +4294,7 @@
       <packagereq>libsecret</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
+      <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>marco</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
