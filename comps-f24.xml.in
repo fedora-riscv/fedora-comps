@@ -4216,7 +4216,6 @@
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
-      <packagereq>mate-themes-extras</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
       <packagereq>pidgin</packagereq>
