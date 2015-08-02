@@ -4209,7 +4209,6 @@
       <packagereq>caja-beesu</packagereq>
       <packagereq>caja-beesu-manager</packagereq>
       <packagereq>caja-share</packagereq>
-      <packagereq>caja-terminal</packagereq>
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
