@@ -4270,7 +4270,8 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f22-backgrounds-base</packagereq>
+      <packagereq>f23-backgrounds-base</packagereq>
+      <packagereq>f23-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
