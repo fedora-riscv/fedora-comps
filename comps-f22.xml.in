@@ -528,7 +528,7 @@
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
-      <packagereq>f21-backgrounds-base</packagereq>
+      <packagereq>f22-backgrounds-base</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
