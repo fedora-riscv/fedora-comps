@@ -6930,6 +6930,7 @@
       <groupid>mail-server</groupid>
       <groupid>mysql</groupid>
       <groupid>network-server</groupid>
+      <groupid>networkmanager-submodules</groupid>
       <groupid>printing</groupid>
       <groupid>smb-server</groupid>
       <groupid>sql-server</groupid>
