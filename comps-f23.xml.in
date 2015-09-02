@@ -2642,7 +2642,6 @@
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
-      <packagereq>transmission-gtk</packagereq>
       <packagereq>vinagre</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yelp</packagereq>
@@ -6522,7 +6521,6 @@
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
       <packagereq>traceroute</packagereq>
-      <packagereq>transmission-gtk</packagereq>
       <packagereq>tree</packagereq>
       <packagereq>unoconv</packagereq>
       <packagereq>unzip</packagereq>
