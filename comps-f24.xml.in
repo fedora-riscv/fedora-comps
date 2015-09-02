@@ -2562,6 +2562,7 @@
       <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
+      <packagereq>evince-djvu</packagereq>
       <packagereq>evince-nautilus</packagereq>
       <packagereq>evolution</packagereq>
       <packagereq>evolution-ews</packagereq>
@@ -6373,6 +6374,7 @@
       <packagereq>ethtool</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>evince-browser-plugin</packagereq>
+      <packagereq>evince-djvu</packagereq>
       <packagereq>evince-nautilus</packagereq>
       <packagereq>evolution</packagereq>
       <packagereq>evolution-ews</packagereq>
