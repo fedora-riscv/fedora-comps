@@ -3473,6 +3473,7 @@
       <packagereq>cagibi</packagereq>
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
+      <packagereq>dolphin</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
