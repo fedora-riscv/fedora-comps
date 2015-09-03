@@ -3484,6 +3484,7 @@
       <packagereq>plasma-workspace</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>sddm</packagereq>
+      <packagereq>sddm-breeze</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
