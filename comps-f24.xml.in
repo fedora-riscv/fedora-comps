@@ -4783,6 +4783,7 @@
       <packagereq>perl-CPANPLUS</packagereq>
       <packagereq>perl-DBD-MySQL</packagereq>
       <packagereq>perl-DBD-SQLite</packagereq>
+      <packagereq>perl-MongoDB</packagereq>
     </packagelist>
   </group>
   <group>
