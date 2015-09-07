@@ -4213,7 +4213,6 @@
       <packagereq>caja-beesu-manager</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>firewall-applet</packagereq>
-      <packagereq>mate-applet-lockkeys</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
