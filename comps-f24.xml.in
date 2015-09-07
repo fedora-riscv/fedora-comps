@@ -4218,6 +4218,7 @@
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
+      <packagereq>mate-user-guide</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
       <packagereq>pidgin</packagereq>
@@ -4322,7 +4323,6 @@
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-themes</packagereq>
-      <packagereq>mate-user-guide</packagereq>
       <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
