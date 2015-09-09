@@ -3449,7 +3449,6 @@
       <packagereq>kinfocenter</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
-      <packagereq>kmix</packagereq>
       <packagereq>knode</packagereq>
       <packagereq>konsole5</packagereq>
       <packagereq>kontact</packagereq>
@@ -3480,6 +3479,7 @@
       <packagereq>plasma-nm-openvpn</packagereq>
       <packagereq>plasma-nm-pptp</packagereq>
       <packagereq>plasma-nm-vpnc</packagereq>
+      <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-workspace</packagereq>
       <packagereq>polkit-kde</packagereq>
