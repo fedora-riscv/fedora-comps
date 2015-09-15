@@ -2045,6 +2045,7 @@
       <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
       <packagereq type="optional">open-sans-fonts</packagereq>
+      <packagereq type="optional">overpass-fonts</packagereq>
       <packagereq type="optional">pagul-fonts</packagereq>
       <packagereq type="optional">paktype-ajrak-fonts</packagereq>
       <packagereq type="optional">paktype-naqsh-fonts</packagereq>
