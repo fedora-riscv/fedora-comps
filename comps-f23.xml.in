@@ -6937,7 +6937,7 @@
       <groupid>printing</groupid>
       <groupid>smb-server</groupid>
       <groupid>sql-server</groupid>
-      <groupid>virtualization</groupid>
+      <groupid>virtualization-headless</groupid>
       <groupid>web-server</groupid>
     </optionlist>
   </environment>
