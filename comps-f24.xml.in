@@ -6073,16 +6073,18 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="default">admesh</packagereq>
       <packagereq type="default">blender</packagereq>
       <packagereq type="default">cura</packagereq>
+      <packagereq type="default">cura-lulzbot</packagereq>
       <packagereq type="default">meshlab</packagereq>
       <packagereq type="default">openscad</packagereq>
       <packagereq type="default">openscad-MCAD</packagereq>
       <packagereq type="default">printrun</packagereq>
-      <packagereq type="default">RepetierHost</packagereq>
-      <packagereq type="default">repsnapper</packagereq>
-      <packagereq type="default">sfact</packagereq>
-      <packagereq type="default">skeinforge</packagereq>
+      <packagereq type="optional">RepetierHost</packagereq>
+      <packagereq type="optional">repsnapper</packagereq>
+      <packagereq type="optional">sfact</packagereq>
+      <packagereq type="optional">skeinforge</packagereq>
       <packagereq type="default">slic3r</packagereq>
     </packagelist>
   </group>
