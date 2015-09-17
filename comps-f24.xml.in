@@ -1741,7 +1741,7 @@
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
       <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-meeteimayek-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-viet-fonts</packagereq>
@@ -1934,6 +1934,7 @@
       <packagereq type="optional">google-noto-sans-tamil-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-thaana-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ugaritic-fonts</packagereq>
