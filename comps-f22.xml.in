@@ -922,6 +922,8 @@
       <packagereq type="default">screenruler</packagereq>
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">shotwell</packagereq>
+      <packagereq type="default">shutter</packagereq>
+      <packagereq type="default">sparkleshare</packagereq>
       <packagereq type="default">synfigstudio</packagereq>
       <packagereq type="default">xournal</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
