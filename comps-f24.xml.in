@@ -3455,6 +3455,7 @@
       <packagereq>kinfocenter</packagereq>
       <packagereq>kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
+      <packagereq>kmenuedit</packagereq>
       <packagereq>knode</packagereq>
       <packagereq>konsole5</packagereq>
       <packagereq>kontact</packagereq>
