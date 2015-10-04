@@ -3434,7 +3434,6 @@
       <packagereq>kcm-gtk</packagereq>
       <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
-      <packagereq>kde-baseapps</packagereq>
       <packagereq>kde-partitionmanager</packagereq>
       <packagereq>kde-print-manager</packagereq>
       <packagereq>kde-runtime</packagereq>
@@ -3445,9 +3444,13 @@
       <packagereq>kdegraphics-strigi-analyzer</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
+      <packagereq>kdepasswd</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdnssd</packagereq>
+      <packagereq>kdialog</packagereq>
+      <packagereq>keditbookmarks</packagereq>
       <packagereq>kf5-baloo-file</packagereq>
+      <packagereq>kfind</packagereq>
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
@@ -3456,6 +3459,7 @@
       <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>knode</packagereq>
+      <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
       <packagereq>kontact</packagereq>
       <packagereq>korganizer</packagereq>
