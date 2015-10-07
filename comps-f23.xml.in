@@ -1465,7 +1465,6 @@
       <packagereq type="optional">cryptominisat</packagereq>
       <packagereq type="optional">csdp</packagereq>
       <packagereq type="optional">csdp-tools</packagereq>
-      <packagereq type="optional">csisat</packagereq>
       <packagereq type="optional">cudd</packagereq>
       <packagereq type="optional">cudd-devel</packagereq>
       <packagereq type="optional">cvc3</packagereq>
