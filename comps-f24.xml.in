@@ -272,7 +272,6 @@
       <packagereq type="optional">lout</packagereq>
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">pandoc</packagereq>
-      <packagereq type="optional">pdftk</packagereq>
       <packagereq type="optional">python-docutils</packagereq>
       <packagereq type="optional">python-manuel</packagereq>
       <packagereq type="optional">scribus</packagereq>
@@ -1183,7 +1182,6 @@
       <packagereq type="default">eclipse-rpm-editor</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-valgrind</packagereq>
-      <packagereq type="optional">eclipse-cmakeed</packagereq>
       <packagereq type="optional">eclipse-dltk-ruby</packagereq>
       <packagereq type="optional">eclipse-dltk-tcl</packagereq>
       <packagereq type="optional">eclipse-eclemma</packagereq>
@@ -1192,7 +1190,6 @@
       <packagereq type="optional">eclipse-moreunit</packagereq>
       <packagereq type="optional">eclipse-mylyn-fedora-integration</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
-      <packagereq type="optional">eclipse-phpeclipse</packagereq>
       <packagereq type="optional">eclipse-quickrex</packagereq>
       <packagereq type="optional">eclipse-rpmstubby</packagereq>
       <packagereq type="optional">eclipse-shelled</packagereq>
@@ -3308,7 +3305,6 @@
       <packagereq type="default">bcel</packagereq>
       <packagereq type="default">gnu-getopt</packagereq>
       <packagereq type="default">jakarta-oro</packagereq>
-      <packagereq type="default">jakarta-taglibs-standard</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-demo</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-javadoc</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-src</packagereq>
