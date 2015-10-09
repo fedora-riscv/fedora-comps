@@ -5597,7 +5597,6 @@
       <packagereq>ethtool</packagereq>
       <packagereq>fedora-release-notes</packagereq>
       <packagereq>file</packagereq>
-      <packagereq>finger</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>ftp</packagereq>
