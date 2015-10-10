@@ -568,12 +568,6 @@
       <packagereq type="optional">hail</packagereq>
       <packagereq type="optional">imagefactory</packagereq>
       <packagereq type="optional">iwhd</packagereq>
-      <packagereq type="optional">openstack-glance</packagereq>
-      <packagereq type="optional">openstack-nova</packagereq>
-      <packagereq type="optional">openstack-swift</packagereq>
-      <packagereq type="optional">python-novaclient</packagereq>
-      <packagereq type="optional">rubygem-abrt</packagereq>
-      <packagereq type="optional">rubygem-boxgrinder-core</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
       <packagereq type="optional">StarCluster</packagereq>
       <packagereq type="optional">tabled</packagereq>
@@ -597,6 +591,7 @@
       <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
       <packagereq type="default">python-boto</packagereq>
       <packagereq type="default">python-libcloud</packagereq>
+      <packagereq type="optional">python-openstackclient</packagereq>
       <packagereq type="default">rubygem-amazon-ec2</packagereq>
       <packagereq type="default">rubygem-cloudfiles</packagereq>
       <packagereq type="default">rubygem-cloudservers</packagereq>
