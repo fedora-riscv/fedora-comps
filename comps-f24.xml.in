@@ -6410,6 +6410,7 @@
       <packagereq>gnome-font-viewer</packagereq>
       <packagereq>gnome-getting-started-docs</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
+      <packagereq>gnome-kra-ora-thumbnailer</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
       <packagereq>gnome-session-xsession</packagereq>
