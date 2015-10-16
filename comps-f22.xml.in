@@ -4330,6 +4330,8 @@
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
       <packagereq>f22-backgrounds-base</packagereq>
+      <packagereq>f22-backgrounds-extras-base</packagereq>
+      <packagereq>f22-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
