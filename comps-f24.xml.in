@@ -6488,7 +6488,7 @@
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pcmciautils</packagereq>
-      <packagereq>pinentry-gtk</packagereq>
+      <packagereq>pinentry-gnome3</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
       <packagereq>polkit-js-engine</packagereq>
