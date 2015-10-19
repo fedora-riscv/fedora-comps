@@ -3475,6 +3475,7 @@
       <packagereq>kwrite</packagereq>
       <packagereq>muon-discover</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
+      <packagereq>PackageKit-cached-metadata</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
