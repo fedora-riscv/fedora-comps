@@ -3628,15 +3628,19 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>kaccounts-integration</packagereq>
+      <packagereq>kaccounts-providers</packagereq>
       <packagereq>ktp-accounts-kcm</packagereq>
       <packagereq>ktp-approver</packagereq>
       <packagereq>ktp-auth-handler</packagereq>
       <packagereq>ktp-contact-list</packagereq>
+      <packagereq>ktp-contact-runner</packagereq>
       <packagereq>ktp-desktop-applets</packagereq>
       <packagereq>ktp-filetransfer-handler</packagereq>
       <packagereq>ktp-kded-integration-module</packagereq>
       <packagereq>ktp-send-file</packagereq>
       <packagereq>ktp-text-ui</packagereq>
+      <packagereq>signon-kwallet-extension</packagereq>
     </packagelist>
   </group>
   <group>
