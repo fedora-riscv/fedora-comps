@@ -2083,7 +2083,7 @@
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
       <packagereq type="optional">samyak-malayalam-fonts</packagereq>
-      <packagereq type="optional">samyak-oriya-fonts</packagereq>
+      <packagereq type="optional">samyak-odia-fonts</packagereq>
       <packagereq type="optional">samyak-tamil-fonts</packagereq>
       <packagereq type="optional">sarai-fonts</packagereq>
       <packagereq type="optional">sazanami-gothic-fonts</packagereq>
@@ -4793,8 +4793,8 @@
     </packagelist>
   </group>
   <group>
-    <id>oriya-support</id>
-    <_name>Oriya Support</_name>
+    <id>odia-support</id>
+    <_name>Odia Support</_name>
     <_description/>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -4804,7 +4804,7 @@
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-oriya-fonts</packagereq>
+      <packagereq type="default">samyak-odia-fonts</packagereq>
     </packagelist>
   </group>
   <group>
