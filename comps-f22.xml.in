@@ -1766,7 +1766,7 @@
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
       <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-meeteimayek-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-viet-fonts</packagereq>
