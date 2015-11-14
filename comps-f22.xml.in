@@ -158,6 +158,7 @@
       <packagereq type="default">alsa-utils</packagereq>
       <packagereq type="default">alsamixergui</packagereq>
       <packagereq type="default">ams</packagereq>
+      <packagereq type="default">amsynth</packagereq>
       <packagereq type="default">ardour4</packagereq>
       <packagereq type="default">arpage</packagereq>
       <packagereq type="default">audacity</packagereq>
