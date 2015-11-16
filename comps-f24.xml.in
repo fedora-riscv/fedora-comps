@@ -5759,6 +5759,7 @@
       <packagereq type="default">NetworkManager-l2tp</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
+      <packagereq type="default">NetworkManager-libreswan</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">nmap</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
