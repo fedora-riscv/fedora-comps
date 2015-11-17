@@ -1154,7 +1154,6 @@
       <packagereq type="mandatory">adcli</packagereq>
       <packagereq type="mandatory">freeipa-client</packagereq>
       <packagereq type="mandatory">oddjob-mkhomedir</packagereq>
-      <packagereq type="mandatory">realmd</packagereq>
       <packagereq type="mandatory">samba-winbind</packagereq>
       <packagereq type="mandatory">sssd</packagereq>
       <packagereq type="mandatory">samba-common-tools</packagereq>
@@ -5349,6 +5348,9 @@
     <packagelist>
       <packagereq type="mandatory">fedora-release-server</packagereq>
       <packagereq type="mandatory">chrony</packagereq>
+      <packagereq type="mandatory">PackageKit</packagereq>
+      <packagereq type="mandatory">polkit</packagereq>
+      <packagereq type="mandatory">realmd</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6943,11 +6945,11 @@
       <groupid>server-hardware-support</groupid>
       <groupid>headless-management</groupid>
       <groupid>container-management</groupid>
-      <groupid>domain-client</groupid>
     </grouplist>
     <optionlist>
       <groupid>ansible-node</groupid>
       <groupid>dogtag</groupid>
+      <groupid>domain-client</groupid>
       <groupid>directory-server</groupid>
       <groupid>dns-server</groupid>
       <groupid>freeipa-server</groupid>
