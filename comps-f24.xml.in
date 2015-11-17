@@ -70,6 +70,16 @@
     </packagelist>
   </group>
   <group>
+    <id>ansible-node</id>
+    <_name>Ansible node</_name>
+    <_description>This group contains packages necessary for the system to be controlled by Ansible.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">python2-dnf</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>arabic-support</id>
     <_name>Arabic Support</_name>
     <_description/>
@@ -6936,6 +6946,7 @@
       <groupid>domain-client</groupid>
     </grouplist>
     <optionlist>
+      <groupid>ansible-node</groupid>
       <groupid>dogtag</groupid>
       <groupid>directory-server</groupid>
       <groupid>dns-server</groupid>
