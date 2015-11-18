@@ -5325,7 +5325,7 @@
   <group>
     <id>server-hardware-support</id>
     <_name>Hardware Support for Server Systems</_name>
-    <_description>This group is a limited collection of tools for various hardware specific utilities.</_description>
+    <_description>This group is a limited collection of tools for various uncommon hardware specific utilities.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
@@ -6941,7 +6941,6 @@
       <groupid>server-product</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
-      <groupid>server-hardware-support</groupid>
       <groupid>headless-management</groupid>
       <groupid>container-management</groupid>
     </grouplist>
@@ -6955,6 +6954,7 @@
       <groupid>ftp-server</groupid>
       <groupid>guest-agents</groupid>
       <groupid>ha</groupid>
+      <groupid>server-hardware-support</groupid>
       <groupid>hardware-support</groupid>
       <groupid>load-balancer</groupid>
       <groupid>mail-server</groupid>
