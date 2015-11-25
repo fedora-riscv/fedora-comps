@@ -6390,7 +6390,6 @@
       <packagereq>dbus</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>deltarpm</packagereq>
-      <packagereq>devassistant</packagereq>
       <packagereq>dnf</packagereq>
       <packagereq>dnf-plugins-core</packagereq>
       <packagereq>dos2unix</packagereq>
