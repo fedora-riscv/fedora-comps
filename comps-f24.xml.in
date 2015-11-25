@@ -6549,7 +6549,6 @@
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
       <packagereq>traceroute</packagereq>
-      <packagereq>transmission-gtk</packagereq>
       <packagereq>tree</packagereq>
       <packagereq>unoconv</packagereq>
       <packagereq>unzip</packagereq>
