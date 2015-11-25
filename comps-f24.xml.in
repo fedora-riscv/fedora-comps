@@ -2637,7 +2637,7 @@
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
-      <packagereq>polkit-js-engine</packagereq>
+      <packagereq>polkit</packagereq>
       <packagereq>rhythmbox</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
@@ -6511,7 +6511,7 @@
       <packagereq>pinentry-gnome3</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
-      <packagereq>polkit-js-engine</packagereq>
+      <packagereq>polkit</packagereq>
       <packagereq>ppp</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>qt</packagereq>
