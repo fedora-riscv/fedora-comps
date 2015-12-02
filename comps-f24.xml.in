@@ -1822,6 +1822,7 @@
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">cjkuni-uming-fonts</packagereq>
+      <packagereq type="optional">comic-neue-fonts</packagereq>
       <packagereq type="optional">conakry-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-sans-fonts</packagereq>
