@@ -446,7 +446,6 @@
     <langonly>my</langonly>
     <packagelist>
       <packagereq type="default">sil-padauk-fonts</packagereq>
-      <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2022,7 +2021,6 @@
       <packagereq type="optional">mplus-2p-fonts</packagereq>
       <packagereq type="optional">mscore-fonts</packagereq>
       <packagereq type="optional">msimonson-anonymouspro-fonts</packagereq>
-      <packagereq type="optional">myanmar3-unicode-fonts</packagereq>
       <packagereq type="optional">nafees-naskh-fonts</packagereq>
       <packagereq type="optional">nafees-nastaleeq-fonts</packagereq>
       <packagereq type="optional">nafees-pakistani-naskh-fonts</packagereq>
