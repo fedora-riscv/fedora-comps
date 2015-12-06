@@ -1315,6 +1315,7 @@
       <packagereq type="default">flterm</packagereq>
       <packagereq type="default">fped</packagereq>
       <packagereq type="default">freeDiameter</packagereq>
+      <packagereq type="default">fritzing</packagereq>
       <packagereq type="default">gds2pov</packagereq>
       <packagereq type="default">geda-gaf</packagereq>
       <packagereq type="default">gerbv</packagereq>
