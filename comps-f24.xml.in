@@ -4024,7 +4024,7 @@
       <packagereq>oxygen-gtk2</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
-      <packagereq>qterminal</packagereq>
+      <packagereq>qterminal-qt5</packagereq>
       <packagereq>qupzilla</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>upower</packagereq>
