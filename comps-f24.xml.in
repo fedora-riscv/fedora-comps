@@ -3023,6 +3023,8 @@
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">rolekit</packagereq>
+      <packagereq type="optional">cockpit-pcp</packagereq>
+      <packagereq type="optional">cockpit-kubernetes</packagereq>
     </packagelist>
   </group>
   <group>
