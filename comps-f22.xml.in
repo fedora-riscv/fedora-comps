@@ -1614,6 +1614,20 @@
     </packagelist>
   </group>
   <group>
+    <id>enlightenment-desktop</id>
+    <_name>Enlightenment</_name>
+    <_description>Enlightenment is a lean, fast, modular and very extensible windowed desktop environment.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>efl</packagereq>
+      <packagereq>elementary</packagereq>
+      <packagereq>enlightenment</packagereq>
+      <packagereq>evas-generic-loaders</packagereq>
+      <packagereq>terminology</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>epiphany</id>
     <_name>Epiphany Web Browser</_name>
     <_description>Epiphany Web Browser for GNOME</_description>
