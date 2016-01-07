@@ -3502,6 +3502,7 @@
       <packagereq>plasma-nm-vpnc</packagereq>
       <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-pk-updates</packagereq>
+      <packagereq>plasma-user-manager</packagereq>
       <packagereq>plasma-workspace</packagereq>
       <packagereq>plasma-workspace-drkonqi</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
