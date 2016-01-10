@@ -2542,7 +2542,6 @@
       <packagereq>cheese</packagereq>
       <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
-      <packagereq>empathy</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
       <packagereq>evince-browser-plugin</packagereq>
