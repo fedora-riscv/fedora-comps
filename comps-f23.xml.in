@@ -3406,10 +3406,10 @@
       <packagereq>digikam</packagereq>
       <packagereq>kde-connect</packagereq>
       <packagereq>kdegames-minimal</packagereq>
-      <packagereq>kdenetwork-krdc</packagereq>
-      <packagereq>kdenetwork-krfb</packagereq>
       <packagereq>kolourpaint</packagereq>
       <packagereq>konversation</packagereq>
+      <packagereq>krdc</packagereq>
+      <packagereq>krfb</packagereq>
       <packagereq>krusader</packagereq>
       <packagereq>ktorrent</packagereq>
     </packagelist>
