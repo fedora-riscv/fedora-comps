@@ -865,7 +865,6 @@
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-table</packagereq>
-      <packagereq type="conditional" requires="digikam">kipi-plugins</packagereq>
       <packagereq type="conditional" requires="blender">LuxRender-blender</packagereq>
       <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
@@ -874,7 +873,7 @@
       <packagereq type="default">adobe-source-sans-pro-fonts</packagereq>
       <packagereq type="default">audacity</packagereq>
       <packagereq type="default">blender</packagereq>
-		<packagereq type="default">calligra-krita</packagereq>      
+      <packagereq type="default">calligra-krita</packagereq>      
       <packagereq type="default">campivisivi-titillium-fonts</packagereq>
       <packagereq type="default">colord-extra-profiles</packagereq>
       <packagereq type="default">darktable</packagereq>
@@ -905,19 +904,11 @@
       <packagereq type="default">synfigstudio</packagereq>
       <packagereq type="default">xournal</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
-      <packagereq type="optional">cinepaint</packagereq>
-      <packagereq type="optional">digikam</packagereq>
-      <packagereq type="optional">GREYCstoration</packagereq>
-      <packagereq type="optional">gthumb</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">LuxRender</packagereq>
-      <packagereq type="optional">meshlab</packagereq>
       <packagereq type="optional">openclipart</packagereq>
       <packagereq type="optional">pencil</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
-      <packagereq type="optional">rawtherapee</packagereq>
-      <packagereq type="optional">ufraw</packagereq>
-      <packagereq type="optional">wings</packagereq>
       <packagereq type="optional">YafaRay</packagereq>
     </packagelist>
   </group>
