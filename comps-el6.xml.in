@@ -188,6 +188,7 @@
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">diffutils</packagereq>
       <packagereq type="mandatory">epel-release</packagereq>
+      <packagereq type="mandatory">epel-rpm-macros</packagereq>
       <packagereq type="mandatory">findutils</packagereq>
       <packagereq type="mandatory">gawk</packagereq>
       <packagereq type="mandatory">gcc</packagereq>
