@@ -993,6 +993,7 @@
       <packagereq type="default">diffstat</packagereq>
       <packagereq type="default">doxygen</packagereq>
       <packagereq type="default">git</packagereq>
+      <packagereq type="default">patch</packagereq>
       <packagereq type="default">patchutils</packagereq>
       <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
