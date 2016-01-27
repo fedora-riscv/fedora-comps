@@ -5563,21 +5563,17 @@
       <packagereq>dnf-langpacks</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
-      <packagereq>dump</packagereq>
       <packagereq>ed</packagereq>
       <packagereq>ethtool</packagereq>
       <packagereq>fedora-release-notes</packagereq>
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
-      <packagereq>ftp</packagereq>
       <packagereq>gnupg2</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
-      <packagereq>irda-utils</packagereq>
       <packagereq>irqbalance</packagereq>
       <packagereq>jwhois</packagereq>
-      <packagereq>lftp</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
@@ -5593,31 +5589,24 @@
       <packagereq>nmap-ncat</packagereq>
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
-      <packagereq>ntsysv</packagereq>
-      <packagereq>numactl</packagereq>
       <packagereq>pam_krb5</packagereq>
       <packagereq>pam_pkcs11</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
-      <packagereq>pcmciautils</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>quota</packagereq>
-      <packagereq>rdist</packagereq>
       <packagereq>realmd</packagereq>
       <packagereq>rng-tools</packagereq>
-      <packagereq>rsh</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>rsyslog</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>smartmontools</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
-      <packagereq>stunnel</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>symlinks</packagereq>
-      <packagereq>talk</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
       <packagereq>tcp_wrappers</packagereq>
@@ -5978,6 +5967,7 @@
       <packagereq type="optional">iperf</packagereq>
       <packagereq type="optional">irssi</packagereq>
       <packagereq type="optional">isync</packagereq>
+      <packagereq type="optional">lftp</packagereq>
       <packagereq type="optional">libtranslate</packagereq>
       <packagereq type="optional">lynx</packagereq>
       <packagereq type="optional">maildirproc</packagereq>
@@ -6364,7 +6354,6 @@
       <packagereq>pam_pkcs11</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
-      <packagereq>pcmciautils</packagereq>
       <packagereq>pinentry-gnome3</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
@@ -6389,7 +6378,6 @@
       <packagereq>setuptool</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
-      <packagereq>stunnel</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>symlinks</packagereq>
       <packagereq>tar</packagereq>
