@@ -3439,8 +3439,6 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>akonadi</packagereq>
-      <packagereq>akonadi-mysql</packagereq>
       <packagereq>akregator</packagereq>
       <packagereq>apper</packagereq>
       <packagereq>appmenu-qt</packagereq>
