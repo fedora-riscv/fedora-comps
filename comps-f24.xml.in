@@ -685,6 +685,7 @@
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
+      <packagereq type="optional">dracut-config-generic</packagereq>
     </packagelist>
   </group>
   <!-- 
