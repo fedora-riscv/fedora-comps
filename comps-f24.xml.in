@@ -686,6 +686,7 @@
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">ppc64-utils</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
+      <packagereq type="optional">initial-setup</packagereq>
     </packagelist>
   </group>
   <!-- 
