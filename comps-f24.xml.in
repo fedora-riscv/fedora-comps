@@ -3493,7 +3493,6 @@
       <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
-      <packagereq>ksnapshot</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
       <packagereq>kuser</packagereq>
@@ -3530,6 +3529,7 @@
       <packagereq>sddm-breeze</packagereq>
       <packagereq>sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
+      <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>xsettings-kde</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
