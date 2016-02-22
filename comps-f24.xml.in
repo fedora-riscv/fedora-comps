@@ -1856,6 +1856,7 @@
       <packagereq type="optional">gdouros-analecta-fonts</packagereq>
       <packagereq type="optional">gdouros-aroania-fonts</packagereq>
       <packagereq type="optional">gdouros-asea-fonts</packagereq>
+      <packagereq type="optional">gdouros-avdira-fonts</packagereq>
       <packagereq type="optional">gdouros-musica-fonts</packagereq>
       <packagereq type="optional">gdouros-symbola-fonts</packagereq>
       <packagereq type="optional">gfs-ambrosia-fonts</packagereq>
