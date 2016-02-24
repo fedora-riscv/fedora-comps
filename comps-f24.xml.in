@@ -6528,6 +6528,7 @@
       <packagereq>polkit</packagereq>
       <packagereq>ppp</packagereq>
       <packagereq>psacct</packagereq>
+      <packagereq>qgnomeplatform</packagereq>
       <packagereq>qt</packagereq>
       <packagereq>qt-settings</packagereq>
       <packagereq>qt-x11</packagereq>
