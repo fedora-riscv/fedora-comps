@@ -4302,7 +4302,6 @@
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
-      <packagereq>mate-netspeed</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-user-guide</packagereq>
       <packagereq>mate-utils</packagereq>
