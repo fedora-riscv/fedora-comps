@@ -6433,6 +6433,7 @@
       <packagereq>gdm</packagereq>
       <packagereq>gedit</packagereq>
       <packagereq>glib-networking</packagereq>
+      <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-bluetooth</packagereq>
       <packagereq>gnome-boxes</packagereq>
