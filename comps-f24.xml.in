@@ -3469,6 +3469,7 @@
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dolphin</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
