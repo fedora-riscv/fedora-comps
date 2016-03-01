@@ -51,6 +51,7 @@
       <packagereq>fcoe-utils</packagereq>
       <packagereq>firewalld</packagereq>
       <packagereq>gfs2-utils</packagereq>
+      <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>grub2</packagereq>
       <packagereq>grub2-efi</packagereq>
       <packagereq>hfsplus-tools</packagereq>
