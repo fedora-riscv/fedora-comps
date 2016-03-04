@@ -1422,9 +1422,9 @@
       <packagereq type="mandatory">gsl-devel</packagereq>
       <packagereq type="mandatory">maxima</packagereq>
       <packagereq type="mandatory">octave</packagereq>
-      <packagereq type="mandatory">python-matplotlib</packagereq>
+      <packagereq type="mandatory">python2-matplotlib</packagereq>
       <packagereq type="mandatory">R</packagereq>
-      <packagereq type="mandatory">scipy</packagereq>
+      <packagereq type="mandatory">python2-scipy</packagereq>
       <packagereq type="mandatory">speedcrunch</packagereq>
       <packagereq type="mandatory">texmaker</packagereq>
       <packagereq type="mandatory">transfig</packagereq>
@@ -1539,10 +1539,10 @@
       <packagereq type="optional">polymake</packagereq>
       <packagereq type="optional">pvs-sbcl</packagereq>
       <packagereq type="optional">pypop</packagereq>
-      <packagereq type="optional">python-biopython</packagereq>
-      <packagereq type="optional">python-cvxopt</packagereq>
-      <packagereq type="optional">python-networkx</packagereq>
-      <packagereq type="optional">python-theano</packagereq>
+      <packagereq type="optional">python2-biopython</packagereq>
+      <packagereq type="optional">python2-cvxopt</packagereq>
+      <packagereq type="optional">python2-networkx</packagereq>
+      <packagereq type="optional">python2-theano</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qepcad-B</packagereq>
