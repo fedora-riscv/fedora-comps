@@ -677,6 +677,8 @@
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
+      <packagereq type="mandatory">systemd-udev</packagereq>
+      <packagereq type="optional">systemd-container</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="default">authconfig</packagereq>
