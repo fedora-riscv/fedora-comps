@@ -6925,7 +6925,7 @@
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>firefix</groupid>
+      <groupid>firefox</groupid>
       <groupid>kde-apps</groupid>
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
