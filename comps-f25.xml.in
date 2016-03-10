@@ -6769,6 +6769,7 @@
       <packagereq>xfce4-xkb-plugin</packagereq>
       <packagereq>xfdashboard</packagereq>
       <packagereq>xfdashboard-themes</packagereq>
+      <packagereq>xfpanel-switch</packagereq>
     </packagelist>
   </group>
   <group>
