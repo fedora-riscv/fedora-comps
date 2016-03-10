@@ -2766,7 +2766,6 @@
       <packagereq type="optional">logjam</packagereq>
       <packagereq type="optional">mail-notification</packagereq>
       <packagereq type="optional">meiga</packagereq>
-      <packagereq type="optional">midori</packagereq>
       <packagereq type="optional">mitter</packagereq>
       <packagereq type="optional">mtr-gtk</packagereq>
       <packagereq type="optional">nicotine+</packagereq>
@@ -6665,7 +6664,7 @@
       <packagereq>geany</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>leafpad</packagereq>
-      <packagereq>midori</packagereq>
+      <packagereq>firefox</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>ristretto</packagereq>
