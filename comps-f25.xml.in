@@ -4334,7 +4334,6 @@
       <packagereq>emerald-themes</packagereq>
       <packagereq>emerald-themes-extra</packagereq>
       <packagereq>fusion-icon</packagereq>
-      <packagereq>fusion-icon-gtk</packagereq>
       <packagereq>libcompizconfig</packagereq>
     </packagelist>
   </group>
