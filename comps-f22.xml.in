@@ -488,7 +488,6 @@
       <packagereq type="default">indent</packagereq>
       <packagereq basearchonly="true" type="default">ltrace</packagereq>
       <packagereq basearchonly="true" type="default">oprofile</packagereq>
-      <packagereq basearchonly="true" type="default">oprofile-gui</packagereq>
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">astyle</packagereq>
       <packagereq type="optional">cbmc</packagereq>
