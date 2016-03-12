@@ -2539,6 +2539,7 @@
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <!-- Only modules in upstream meta-gnome-core or meta-gnome-core-deps are allowed here. -->
     <packagelist>
       <packagereq>at-spi2-atk</packagereq>
       <packagereq>at-spi2-core</packagereq>
@@ -2551,6 +2552,7 @@
       <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>eog</packagereq>
+      <!-- <packagereq>epiphany</packagereq> -->
       <packagereq>evince</packagereq>
       <packagereq>evince-djvu</packagereq>
       <packagereq>evince-nautilus</packagereq>
@@ -5610,6 +5612,7 @@
     <_description>Common set of utilities that extend the minimal installation.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <!-- Note this group is NOT included in Fedora Workstation. -->
     <packagelist>
       <packagereq>abrt-cli</packagereq>
       <packagereq>acl</packagereq>
