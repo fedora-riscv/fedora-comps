@@ -2573,6 +2573,7 @@
       <packagereq>gnome-font-viewer</packagereq>
       <packagereq>gnome-getting-started-docs</packagereq>
       <packagereq>gnome-initial-setup</packagereq>
+      <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
