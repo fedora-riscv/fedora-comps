@@ -6358,7 +6358,6 @@
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bind-utils</packagereq>
-      <packagereq>bijiben</packagereq>
       <packagereq>bridge-utils</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>bzip2</packagereq>
