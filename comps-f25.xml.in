@@ -345,6 +345,7 @@
       <packagereq>lightdm</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>openbox</packagereq>
+      <packagereq>qtile</packagereq>
       <packagereq>ratpoison</packagereq>
       <packagereq>xmonad-basic</packagereq>
     </packagelist>
