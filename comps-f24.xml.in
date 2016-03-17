@@ -3476,6 +3476,8 @@
       <packagereq>kdnssd</packagereq>
       <packagereq>kdialog</packagereq>
       <packagereq>keditbookmarks</packagereq>
+      <packagereq>kf5-akonadi-server</packagereq>
+      <packagereq>kf5-akonadi-server-mysql</packagereq>
       <packagereq>kf5-baloo-file</packagereq>
       <packagereq>kfind</packagereq>
       <packagereq>kget</packagereq>
