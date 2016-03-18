@@ -6812,6 +6812,19 @@
     </optionlist>
   </environment>
   <environment>
+    <id>custom-environment</id>
+    <_name>Fedora Custom Operating System</_name>
+    <_description>Basic building block for a custom Fedora system.</_description>
+    <display_order>1</display_order>
+    <grouplist>
+      <groupid>core</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>standard</groupid>
+      <groupid>guest-agents</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <id>kde-desktop-environment</id>
     <_name>KDE Plasma Workspaces</_name>
     <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
@@ -6877,7 +6890,7 @@
          package.  Please keep this mostly in sync with
          infrastructure-server-environment. -->
     <id>server-product-environment</id>
-    <_name>Fedora Server</_name>
+    <_name>Fedora Server Edition</_name>
     <!-- Should eventually say “with a web UI accessible right after installation”
          or something else to differentiate from
          infrastructure-server-environment. -->
