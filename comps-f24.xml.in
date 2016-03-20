@@ -4416,7 +4416,6 @@
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
-      <packagereq>yumex</packagereq>
       <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
