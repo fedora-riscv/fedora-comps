@@ -4344,6 +4344,8 @@
       <packagereq>f23-backgrounds-base</packagereq>
       <packagereq>f23-backgrounds-extras-base</packagereq>
       <packagereq>f23-backgrounds-mate</packagereq>
+      <packagereq>f24-backgrounds-base</packagereq>
+      <packagereq>f24-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
