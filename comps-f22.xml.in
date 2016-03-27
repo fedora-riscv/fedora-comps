@@ -4306,9 +4306,8 @@
       <packagereq>ccsm</packagereq>
       <packagereq>compiz</packagereq>
       <packagereq>compiz-bcop</packagereq>
-      <packagereq>compiz-config-python</packagereq>
+      <packagereq>compizconfig-python</packagereq>
       <packagereq>compiz-manager</packagereq>
-      <packagereq>compiz-mate</packagereq>
       <packagereq>compiz-plugins-extra</packagereq>
       <packagereq>compiz-plugins-main</packagereq>
       <packagereq>compiz-plugins-unsupported</packagereq>
