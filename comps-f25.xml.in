@@ -2565,6 +2565,7 @@
       <packagereq>glib-networking</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-bluetooth</packagereq>
+      <packagereq>gnome-boxes</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-characters</packagereq>
       <packagereq>gnome-classic-session</packagereq>
@@ -6392,7 +6393,6 @@
       <packagereq>fpaste</packagereq>
       <packagereq>fros-gnome</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
-      <packagereq>gnome-boxes</packagereq>
       <packagereq>gnome-shell-extension-background-logo</packagereq>
       <packagereq>gnupg2</packagereq>
       <packagereq>google-android-emoji-fonts</packagereq>
