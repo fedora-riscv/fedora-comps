@@ -61,7 +61,7 @@
       <packagereq type="mandatory">cpio</packagereq>
       <packagereq type="mandatory">diffutils</packagereq>
       <packagereq type="mandatory">epel-release</packagereq>
-      <packagereq type="mandatory">epel-rpm-config</packagereq>
+      <packagereq type="mandatory">epel-rpm-macros</packagereq>
       <packagereq type="mandatory">gcc</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">gzip</packagereq>
