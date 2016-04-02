@@ -145,6 +145,7 @@
       <packagereq type="default">alsa-plugins-usbstream</packagereq>
       <packagereq type="default">alsa-plugins-vdownmix</packagereq>
       <packagereq type="default">alsa-tools</packagereq>
+      <packagereq type="default">alsa-ucm</packagereq>
       <packagereq type="default">alsa-utils</packagereq>
       <packagereq type="default">alsamixergui</packagereq>
       <packagereq type="default">ams</packagereq>
@@ -222,6 +223,7 @@
       <packagereq type="default">non-mixer</packagereq>
       <packagereq type="default">non-sequencer</packagereq>
       <packagereq type="default">non-session-manager</packagereq>
+      <packagereq type="default">opus-tools</packagereq>
       <packagereq type="default">qastools</packagereq>
       <packagereq type="default">qjackctl</packagereq>
       <packagereq type="default">qmidiarp</packagereq>
@@ -233,11 +235,13 @@
       <packagereq type="default">rosegarden4</packagereq>
       <packagereq type="default">rtirq</packagereq>
       <packagereq type="default">samplv1</packagereq>
+      <packagereq type="default">sbc</packagereq>
       <packagereq type="default">seq24</packagereq>
       <packagereq type="default">sooperlooper</packagereq>
       <packagereq type="default">swami</packagereq>
       <packagereq type="default">synthv1</packagereq>
       <packagereq type="default">timidity++</packagereq>
+      <packagereq type="default">tinycompress-utils</packagereq>
       <packagereq type="default">tuxguitar</packagereq>
       <packagereq type="default">vmpk</packagereq>
       <packagereq type="default">whysynth-dssi</packagereq>
@@ -3005,6 +3009,7 @@
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
+      <packagereq type="optional">wpan-tools</packagereq>
     </packagelist>
   </group>
   <group>
