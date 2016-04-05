@@ -681,8 +681,6 @@
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
-      <packagereq type="mandatory">systemd-udev</packagereq>
-      <packagereq type="optional">systemd-container</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="default">authconfig</packagereq>
@@ -5690,6 +5688,7 @@
       <packagereq>sssd</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>symlinks</packagereq>
+      <packagereq>systemd-udev</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
       <packagereq>tcp_wrappers</packagereq>
@@ -6270,6 +6269,7 @@
       <packagereq type="mandatory">virt-install</packagereq>
       <packagereq type="default">libvirt-daemon-config-network</packagereq>
       <packagereq type="default">libvirt-daemon-kvm</packagereq>
+      <packagereq type="default">systemd-container</packagereq>
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="optional">guestfs-browser</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
@@ -6464,6 +6464,7 @@
       <packagereq>sssd</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>symlinks</packagereq>
+      <packagereq>systemd-udev</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
       <packagereq>tcp_wrappers</packagereq>
