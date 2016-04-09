@@ -4291,7 +4291,6 @@
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
-      <packagereq>mate-user-guide</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>mintmenu</packagereq>
       <packagereq>pidgin</packagereq>
@@ -4312,14 +4311,15 @@
       <packagereq>compiz-bcop</packagereq>
       <packagereq>compizconfig-python</packagereq>
       <packagereq>compiz-manager</packagereq>
+      <packagereq>compiz-plugins-experimental</packagereq>
       <packagereq>compiz-plugins-extra</packagereq>
       <packagereq>compiz-plugins-main</packagereq>
-      <packagereq>compiz-plugins-unsupported</packagereq>
       <packagereq>emerald</packagereq>
       <packagereq>emerald-themes</packagereq>
       <packagereq>emerald-themes-extra</packagereq>
       <packagereq>fusion-icon</packagereq>
       <packagereq>libcompizconfig</packagereq>
+      <packagereq>simple-ccsm</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4344,9 +4344,7 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f23-backgrounds-base</packagereq>
       <packagereq>f23-backgrounds-extras-base</packagereq>
-      <packagereq>f23-backgrounds-mate</packagereq>
       <packagereq>f24-backgrounds-base</packagereq>
       <packagereq>f24-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
@@ -4397,6 +4395,7 @@
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>mate-user-guide</packagereq>
       <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
