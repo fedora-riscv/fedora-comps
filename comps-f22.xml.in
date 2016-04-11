@@ -908,6 +908,7 @@
       <packagereq type="default">GraphicsMagick</packagereq>
       <packagereq type="default">hugin</packagereq>
       <packagereq type="default">inkscape</packagereq>
+      <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
       <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
