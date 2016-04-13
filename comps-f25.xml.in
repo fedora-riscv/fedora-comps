@@ -859,7 +859,7 @@
   <group>
     <id>design-suite</id>
     <_name>Design Suite</_name>
-    <_description>These packages are targeted towards professional designers related to graphics, web and animation.</_description>
+    <_description>These packages are targeted towards professional designers, and are related to graphics, web and animation.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
