@@ -871,6 +871,7 @@
       <packagereq type="conditional" requires="gimp">gimp-help</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-help-browser</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-high-pass-filter</packagereq>
+      <packagereq type="conditional" requires="gimp">gimp-lensfun</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lqr-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-normalmap</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
@@ -878,6 +879,7 @@
       <packagereq type="conditional" requires="gimp">gimp-separate+</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-wavelet-denoise-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
+      <packagereq type="conditional" requires="inkscape">inkscape-psd</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-table</packagereq>
       <packagereq type="conditional" requires="blender">LuxRender-blender</packagereq>
