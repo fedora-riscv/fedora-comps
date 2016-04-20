@@ -3472,6 +3472,7 @@
       <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
+      <packagereq>kscreenlocker</packagereq>
       <packagereq>ksnapshot</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
