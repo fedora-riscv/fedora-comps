@@ -5389,6 +5389,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="default">NetworkManager-team</packagereq>
       <packagereq type="mandatory">fedora-release-server</packagereq>
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
