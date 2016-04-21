@@ -9,6 +9,7 @@
 # Robert Antoni Buj i Gelonch, 2014-2015
 # Xavier Conde Rueda <xavi.conde@gmail.com>, 2004, 2006
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -17,13 +18,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-02-04 11:16-0500\n"
-"Last-Translator: Robert Antoni Buj i Gelonch\n"
+"PO-Revision-Date: 2016-04-14 07:05-0400\n"
+"Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/comps/language/"
 "ca/)\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.2\n"
+"X-Generator: Zanata 3.8.3\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -68,7 +69,7 @@ msgstr "Suport per a l'assamès"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "Producció d'àudio"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
@@ -183,9 +184,8 @@ msgstr "Els paquets d'infraestructura per informàtica en núvol."
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Eines de desenvolupament"
+msgstr "Eines de gestió de núvols"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
@@ -207,9 +207,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "Gestió del sistema"
+msgstr "Gestió de contenidors"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
@@ -295,19 +294,17 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Camí crític (LXDE)"
+msgstr "Camí crític (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
 "Un conjunt de paquets que proporcionen la funcionalitat del camí crític per "
-"a l'escriptori LXDE"
+"a l'escriptori LXQt"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -325,18 +322,16 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "Eines i biblioteques de desenvolupament amb C"
+msgstr "Eines i biblioteques de desenvolupament amb D"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
 msgstr ""
-"S'inclouen eines imprescindibles per al desenvolupament, com ara l'automake, "
-"el gcc i els depuradors."
+"S'inclouen eines imprescindibles per al desenvolupament, com ara ldc i geany-"
+"tag."
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -371,11 +366,9 @@ msgstr "Eines de desenvolupament"
 
 #: ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:56 ../comps-f24.xml.in.h:60
 #: ../comps-f25.xml.in.h:60
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
 msgstr ""
-"S'inclouen eines imprescindibles per al desenvolupament, com ara l'automake, "
-"el gcc i els depuradors."
+"S'inclouen eines imprescindibles per al desenvolupament, com ara git i CVS."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
 #: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
@@ -473,9 +466,8 @@ msgstr "Laboratori d'electrònica"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
-msgstr "Eines de disseny i simulació per a enginyers de maquinari"
+msgstr "Eines de disseny i simulació per als enginyers de maquinari"
 
 #: ../comps-f22.xml.in.h:77 ../comps-f23.xml.in.h:75 ../comps-f24.xml.in.h:79
 #: ../comps-f25.xml.in.h:79 ../comps-el5.xml.in.h:23
@@ -494,7 +486,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -526,9 +518,8 @@ msgstr "Empaquetador de Fedora"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Eines i utilitats necessàries per un empaquetador de Fedora."
+msgstr "Eines i utilitats necessàries per un empaquetador de Fedora"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -571,9 +562,8 @@ msgstr "Paquets de tipus de lletra per mostrar textos en l'escriptori."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "Servidor FTP"
+msgstr "Servidor FreeIPA"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -649,7 +639,6 @@ msgstr "Internet amb interfície gràfica"
 
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
 msgstr ""
 "Aquest grup inclou els clients gràfics de correu electrònic, web i xat."
@@ -830,7 +819,7 @@ msgstr "Suport per al caixmiri"
 #: ../comps-f22.xml.in.h:139 ../comps-f23.xml.in.h:137
 #: ../comps-f24.xml.in.h:148 ../comps-f25.xml.in.h:148
 msgid "KDE Applications"
-msgstr "Aplicacions del KDE"
+msgstr "Aplicacions de KDE"
 
 #: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:138
 #: ../comps-f24.xml.in.h:149 ../comps-f25.xml.in.h:149
@@ -861,7 +850,7 @@ msgstr "Aplicacions de KDE Educational"
 #: ../comps-f22.xml.in.h:144 ../comps-f23.xml.in.h:142
 #: ../comps-f24.xml.in.h:153 ../comps-f25.xml.in.h:153
 msgid "KDE Multimedia support"
-msgstr "Suport multimèdia del KDE"
+msgstr "Suport multimèdia de KDE"
 
 #: ../comps-f22.xml.in.h:145 ../comps-f23.xml.in.h:143
 #: ../comps-f24.xml.in.h:154 ../comps-f25.xml.in.h:154
@@ -1058,20 +1047,18 @@ msgstr "Paquet d'ofimàtica per al LXDE"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Aplicacions per a l'escriptori LXDE"
+msgstr "Aplicacions per a l'escriptori LXQt"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "Un conjunt d'aplicacions d'ús comú per a l'escriptori LXDE"
+msgstr "Un conjunt d'aplicacions d'ús comú per a l'escriptori LXQt"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
@@ -1086,21 +1073,18 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "Suport multimèdia per al LXDE"
+msgstr "Suport multimèdia per a LXQt"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "Ofimàtica LXDE"
+msgstr "Ofimàtica LXQt"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
-#, fuzzy
 msgid "Office suite for LXQt"
-msgstr "Paquet d'ofimàtica per al LXDE"
+msgstr "Paquet d'ofimàtica per a LXQt"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1138,21 +1122,18 @@ msgstr "Suport per al marathi"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "Aplicacions del KDE"
+msgstr "Aplicacions de MATE"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Aplicacions per a l'escriptori LXDE"
+msgstr "Aplicacions per a l'escriptori MATE"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
-#, fuzzy
 msgid "MATE Compiz"
-msgstr "Escriptori del MATE"
+msgstr "Compiz de MATE"
 
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
@@ -1539,10 +1520,9 @@ msgstr "Base de dades PostgreSQL"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
-"Aquest grup de paquets conté paquets útils per fer servir el Postgresql."
+"Aquest grup de paquets conté paquets útils per utilitzar amb PostgreSQL."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
@@ -1557,12 +1537,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:265 ../comps-f23.xml.in.h:263
 #: ../comps-f24.xml.in.h:276 ../comps-f25.xml.in.h:276
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Activitats addicionals Sugar"
 
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Activitats addicionals per utilitzar amb l'entorn Sugar."
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1651,7 +1631,7 @@ msgstr "Suport per a l'urdu"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant amb compatibilitat libvirt"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
@@ -1755,7 +1735,7 @@ msgstr "Amplia la funcionalitat del tauler d'Xfce"
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
 msgid "Multimedia support for Xfce"
-msgstr "Suport multimèdia per a l'Xfce"
+msgstr "Suport multimèdia per a Xfce"
 
 #: ../comps-f22.xml.in.h:301 ../comps-f23.xml.in.h:303
 #: ../comps-f24.xml.in.h:316 ../comps-f25.xml.in.h:316
@@ -1765,7 +1745,7 @@ msgstr "Ofimàtica Xfce"
 #: ../comps-f22.xml.in.h:302 ../comps-f23.xml.in.h:304
 #: ../comps-f24.xml.in.h:317 ../comps-f25.xml.in.h:317
 msgid "Office suite for Xfce"
-msgstr "Paquet d'ofimàtica per a l'Xfce"
+msgstr "Paquet d'ofimàtica per a Xfce"
 
 #: ../comps-f22.xml.in.h:303 ../comps-f23.xml.in.h:305
 #: ../comps-f24.xml.in.h:318 ../comps-f25.xml.in.h:318
@@ -1822,12 +1802,11 @@ msgstr "KDE Plasma Workspaces"
 #: ../comps-f22.xml.in.h:313 ../comps-f23.xml.in.h:315
 #: ../comps-f24.xml.in.h:331 ../comps-f25.xml.in.h:331
 msgid "Xfce Desktop"
-msgstr "Escriptori de l'Xfce"
+msgstr "Escriptori Xfce"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "Servidors de xarxa"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1839,9 +1818,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "Política d'estació de treball"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
@@ -1852,30 +1830,28 @@ msgstr ""
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
 msgid "LXDE Desktop"
-msgstr "Escriptori del LXDE"
+msgstr "Escriptori LXDE"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "Escriptori del LXDE"
+msgstr "Escriptori LXQt"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
 msgid "Cinnamon Desktop"
-msgstr "Escriptori del Cinnamon"
+msgstr "Escriptori Cinnamon"
 
 #: ../comps-f22.xml.in.h:324 ../comps-f23.xml.in.h:326
 #: ../comps-f24.xml.in.h:342 ../comps-f25.xml.in.h:342
 #: ../comps-epel7.xml.in.h:295
 msgid "MATE Desktop"
-msgstr "Escriptori del MATE"
+msgstr "Escriptori MATE"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Servidor de correu"
+msgstr "Servidor de núvols de Fedora"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
@@ -1924,7 +1900,7 @@ msgstr "X Window System amb la selecció del gestor de finestres."
 #: ../comps-f24.xml.in.h:352 ../comps-f25.xml.in.h:352
 #: ../comps-el6.xml.in.h:126 ../comps-epel7.xml.in.h:126
 msgid "KDE Desktop"
-msgstr "Escriptori del KDE"
+msgstr "Escriptori de KDE"
 
 #: ../comps-f22.xml.in.h:335 ../comps-f23.xml.in.h:337
 #: ../comps-f24.xml.in.h:353 ../comps-f25.xml.in.h:353
@@ -1951,7 +1927,7 @@ msgstr "Aplicacions per a realitzar diverses tasques"
 #: ../comps-f22.xml.in.h:338 ../comps-f23.xml.in.h:340
 #: ../comps-f24.xml.in.h:356 ../comps-f25.xml.in.h:356
 msgid "GNOME Desktop"
-msgstr "Escriptori del GNOME"
+msgstr "Escriptori GNOME"
 
 #: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:341
 #: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
@@ -2025,25 +2001,27 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "Camí crític (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
 msgstr ""
+"Un conjunt de paquets que proporcionen la funcionalitat del camí crític per "
+"a l'escriptori Hawaii"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Aplicacions per a l'escriptori Hawaii"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Un conjunt d'aplicacions d'ús comú per a l'escriptori Hawaii"
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
@@ -2053,19 +2031,19 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Suport multimèdia per a Hawaii"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Ofimàtica Hawaii"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Paquet d'ofimàtica per a Hawaii"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "Eines de CD autònoms"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
@@ -2079,7 +2057,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Escriptori Hawaii"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
@@ -2197,7 +2175,7 @@ msgstr ""
 
 #: ../comps-el5.xml.in.h:45
 msgid "KDE (K Desktop Environment)"
-msgstr "KDE (Entorn d'escriptori K)"
+msgstr "KDE (K Desktop Environment)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""

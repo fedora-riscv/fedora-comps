@@ -18,6 +18,7 @@
 # yusuf <yusufma77@yahoo.com>, 2011
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Tian Shixiong <tiansworld@gmail.com>, 2016. #zanata
+# mosquito <sensor.wen@gmail.com>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -26,8 +27,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-08 11:17-0400\n"
-"Last-Translator: Tian Shixiong <tiansworld@gmail.com>\n"
+"PO-Revision-Date: 2016-04-13 09:03-0400\n"
+"Last-Translator: mosquito <sensor.wen@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/comps/"
 "language/zh_CN/)\n"
 "Language: zh-CN\n"
@@ -112,7 +113,7 @@ msgstr "基本桌面环境"
 #: ../comps-f22.xml.in.h:15 ../comps-f23.xml.in.h:13 ../comps-f24.xml.in.h:15
 #: ../comps-f25.xml.in.h:15
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "基本 X 窗口系统的窗口管理器的选择。"
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
 #: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
@@ -137,7 +138,7 @@ msgstr "书籍和指南"
 #: ../comps-f22.xml.in.h:20 ../comps-f23.xml.in.h:18 ../comps-f24.xml.in.h:20
 #: ../comps-f25.xml.in.h:20
 msgid "Books and Guides for Fedora users and developers"
-msgstr "为Fedora 用户和开发者提供的书籍和指南"
+msgstr "为 Fedora 用户和开发者提供的书籍和指南"
 
 #: ../comps-f22.xml.in.h:21 ../comps-f23.xml.in.h:19 ../comps-f24.xml.in.h:21
 #: ../comps-f25.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
@@ -172,7 +173,7 @@ msgstr "Cinnamon"
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "Cinnamon 提供一个具有传统布局，功能丰富，使用方便且灵活的桌面环境。"
 
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
@@ -205,7 +206,7 @@ msgstr "云端服务器工具"
 #: ../comps-f25.xml.in.h:32
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
-msgstr ""
+msgstr "为运行在 \"cloud\" 环境中的服务器和系统镜像提供的软件"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
@@ -464,14 +465,14 @@ msgstr "这组包括执行数学与科学计算、绘图和单位换算的软件
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
 msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
-msgstr ""
+msgstr "Enlightenment 是一个精良，快速，模块化和可扩展的桌面环境。"
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -496,9 +497,8 @@ msgstr "用于访问大型机计算资源的工具。"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Fedora 打包者所需的工具和实用程序。"
+msgstr "Fedora Packager 所需的工具和实用程序。"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -539,16 +539,15 @@ msgstr "用于渲染桌面上文字的字体软件包。"
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP 服务器"
+msgstr "FreeIPA 服务器"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
-msgstr ""
+msgstr "为身份验证，策略管理和审计提供集中目录服务。"
 
 #: ../comps-f22.xml.in.h:95 ../comps-f23.xml.in.h:93 ../comps-f24.xml.in.h:97
 #: ../comps-f25.xml.in.h:97 ../comps-el5.xml.in.h:27
@@ -584,17 +583,17 @@ msgstr "GNOME"
 #: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99 ../comps-f24.xml.in.h:103
 #: ../comps-f25.xml.in.h:103
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME 是高度可视化和用户友好的桌面环境。"
 
 #: ../comps-f22.xml.in.h:102 ../comps-f23.xml.in.h:100
 #: ../comps-f24.xml.in.h:104 ../comps-f25.xml.in.h:104
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "为 GNOME 桌面提供额外游戏"
 
 #: ../comps-f22.xml.in.h:103 ../comps-f23.xml.in.h:101
 #: ../comps-f24.xml.in.h:105 ../comps-f25.xml.in.h:105
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "为 GNOME 桌面提供各种游戏"
 
 #: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:102
 #: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106 ../comps-el5.xml.in.h:33
@@ -615,9 +614,8 @@ msgstr "图形化互联网"
 
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "这组包括图形化电子邮件、Web 和聊天客户端。"
+msgstr "该组包括图形化电子邮件、Web 和聊天客户端。"
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
 #: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
@@ -638,22 +636,22 @@ msgstr "希腊语支持"
 #: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:109
 #: ../comps-f24.xml.in.h:113 ../comps-f25.xml.in.h:113
 msgid "Guest Agents"
-msgstr ""
+msgstr "客户代理"
 
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "代理用于运行虚拟机时使用。"
 
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "客户桌面代理"
 
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "代理用于运行虚拟化桌面时使用。"
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
 #: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
@@ -664,22 +662,22 @@ msgstr "古吉拉特语支持"
 #: ../comps-f22.xml.in.h:116 ../comps-f23.xml.in.h:114
 #: ../comps-f24.xml.in.h:118 ../comps-f25.xml.in.h:118
 msgid "High Availability"
-msgstr ""
+msgstr "高可用组件"
 
 #: ../comps-f22.xml.in.h:117 ../comps-f23.xml.in.h:115
 #: ../comps-f24.xml.in.h:119 ../comps-f25.xml.in.h:119
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "提供基础设施高可用服务和共享存储。"
 
 #: ../comps-f22.xml.in.h:118 ../comps-f23.xml.in.h:116
 #: ../comps-f24.xml.in.h:120 ../comps-f25.xml.in.h:120
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:117
 #: ../comps-f24.xml.in.h:121 ../comps-f25.xml.in.h:121
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP 负载均衡器。"
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
 #: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122 ../comps-el5.xml.in.h:39
@@ -706,14 +704,13 @@ msgstr "对用 Haskell 编程语言开发程序的支持。"
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "系统管理"
+msgstr "文本界面管理"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "该工具用于管理系统，而无需启动图形控制台。"
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
 #: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
@@ -766,7 +763,6 @@ msgstr "对用 Java 编程语言开发程序的支持。"
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
 msgstr "Java 应用程序服务器"
 
@@ -795,12 +791,12 @@ msgstr "KDE 应用程序"
 #: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:138
 #: ../comps-f24.xml.in.h:149 ../comps-f25.xml.in.h:149
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "一组常用的 KDE 应用程序"
 
 #: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:139
 #: ../comps-f24.xml.in.h:150 ../comps-f25.xml.in.h:150
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f22.xml.in.h:142 ../comps-f23.xml.in.h:140
 #: ../comps-f24.xml.in.h:151 ../comps-f25.xml.in.h:151
@@ -808,7 +804,7 @@ msgid ""
 "The KDE Plasma Workspaces, a highly-configurable graphical user interface "
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
-msgstr ""
+msgstr "KDE Plasma 是一个可灵活配置的图形用户界面，包括面板，桌面，系统图标和桌面小部件，以及许多功能强大的 KDE 应用程序。"
 
 #: ../comps-f22.xml.in.h:143 ../comps-f23.xml.in.h:141
 #: ../comps-f24.xml.in.h:152 ../comps-f25.xml.in.h:152
@@ -1106,7 +1102,7 @@ msgid ""
 "MATE Desktop is based on GNOME 2 and provides a powerful graphical user "
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
-msgstr ""
+msgstr "MATE 桌面环境基于 GNOME 2，并为寻找传统桌面环境的用户提供强大的图形界面。"
 
 #: ../comps-f22.xml.in.h:198 ../comps-f23.xml.in.h:196
 #: ../comps-f24.xml.in.h:209 ../comps-f25.xml.in.h:209
@@ -1150,7 +1146,7 @@ msgstr "MongoDB"
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
 msgid "Scalable, high-performance NoSQL database."
-msgstr ""
+msgstr "可扩展，高性能 NoSQL 数据库。"
 
 #: ../comps-f22.xml.in.h:206 ../comps-f23.xml.in.h:204
 #: ../comps-f24.xml.in.h:217 ../comps-f25.xml.in.h:217
@@ -1160,18 +1156,18 @@ msgstr "多媒体"
 #: ../comps-f22.xml.in.h:207 ../comps-f23.xml.in.h:205
 #: ../comps-f24.xml.in.h:218 ../comps-f25.xml.in.h:218
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "桌面用户常用的 Audio/video 框架"
 
 #: ../comps-f22.xml.in.h:208 ../comps-f23.xml.in.h:206
 #: ../comps-f24.xml.in.h:219 ../comps-f25.xml.in.h:219
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB (MySQL) 数据库"
 
 #: ../comps-f22.xml.in.h:209 ../comps-f23.xml.in.h:207
 #: ../comps-f24.xml.in.h:220 ../comps-f25.xml.in.h:220
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "该包组包含供 MariaDB (MySQL) 使用的相关软件包。"
 
 #: ../comps-f22.xml.in.h:210 ../comps-f23.xml.in.h:208
 #: ../comps-f24.xml.in.h:221 ../comps-f25.xml.in.h:221
@@ -1193,14 +1189,14 @@ msgstr "这些软件包中包括基于网络的服务器，比如 DHCP、Kerbero
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "常用 NetworkManager 子模块"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
 msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
-msgstr ""
+msgstr "该组包​​含常用 NetworkManager 子模块，但可能无法对某些精简配置进行配置。"
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
@@ -1219,11 +1215,10 @@ msgstr "OCaml"
 
 #: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:216
 #: ../comps-f24.xml.in.h:229 ../comps-f25.xml.in.h:229
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
-msgstr "对用Objective CAML 编程语言和程序库开发软件的支持。"
+msgstr "对用 Objective Caml 编程语言和程序库开发软件的支持。"
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
 #: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
@@ -1243,7 +1238,7 @@ msgstr "在线帮助和文档"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "欧利亚语支持"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1258,12 +1253,12 @@ msgstr "对用 Perl 编程语言开发程序的支持。"
 #: ../comps-f22.xml.in.h:225 ../comps-f23.xml.in.h:223
 #: ../comps-f24.xml.in.h:236 ../comps-f25.xml.in.h:236
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl Web 支持"
 
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "基本 Perl web 应用程序支持。"
 
 #: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:225
 #: ../comps-f24.xml.in.h:238 ../comps-f25.xml.in.h:238
@@ -1274,12 +1269,12 @@ msgstr "波斯语支持"
 #: ../comps-f22.xml.in.h:228 ../comps-f23.xml.in.h:226
 #: ../comps-f24.xml.in.h:239 ../comps-f25.xml.in.h:239
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f22.xml.in.h:229 ../comps-f23.xml.in.h:227
 #: ../comps-f24.xml.in.h:240 ../comps-f25.xml.in.h:240
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "通用 Web 开发脚本语言。"
 
 #: ../comps-f22.xml.in.h:230 ../comps-f23.xml.in.h:228
 #: ../comps-f24.xml.in.h:241 ../comps-f25.xml.in.h:241
@@ -1301,12 +1296,12 @@ msgstr "旁遮普语支持"
 #: ../comps-f22.xml.in.h:233 ../comps-f23.xml.in.h:231
 #: ../comps-f24.xml.in.h:244 ../comps-f25.xml.in.h:244
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../comps-f22.xml.in.h:234 ../comps-f23.xml.in.h:232
 #: ../comps-f24.xml.in.h:245 ../comps-f25.xml.in.h:245
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "基本 Python web 应用程序支持。"
 
 #: ../comps-f22.xml.in.h:235 ../comps-f23.xml.in.h:233
 #: ../comps-f24.xml.in.h:246 ../comps-f25.xml.in.h:246
@@ -1316,17 +1311,17 @@ msgstr "机器人学"
 #: ../comps-f22.xml.in.h:236 ../comps-f23.xml.in.h:234
 #: ../comps-f24.xml.in.h:247 ../comps-f25.xml.in.h:247
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "机器人开发套件软件包组"
 
 #: ../comps-f22.xml.in.h:237 ../comps-f23.xml.in.h:235
 #: ../comps-f24.xml.in.h:248 ../comps-f25.xml.in.h:248
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "RPM 开发工具"
 
 #: ../comps-f22.xml.in.h:238 ../comps-f23.xml.in.h:236
 #: ../comps-f24.xml.in.h:249 ../comps-f25.xml.in.h:249
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "该包组包括核心开发工具，如 rpmbuild。"
 
 #: ../comps-f22.xml.in.h:239 ../comps-f23.xml.in.h:237
 #: ../comps-f24.xml.in.h:250 ../comps-f25.xml.in.h:250
@@ -1336,17 +1331,17 @@ msgstr "Ruby"
 #: ../comps-f22.xml.in.h:240 ../comps-f23.xml.in.h:238
 #: ../comps-f24.xml.in.h:251 ../comps-f25.xml.in.h:251
 msgid "Basic support for the Ruby programming language."
-msgstr "对Ruby 编程语言的基本支持。"
+msgstr "对 Ruby 编程语言的基本支持。"
 
 #: ../comps-f22.xml.in.h:241 ../comps-f23.xml.in.h:239
 #: ../comps-f24.xml.in.h:252 ../comps-f25.xml.in.h:252
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f22.xml.in.h:242 ../comps-f23.xml.in.h:240
 #: ../comps-f24.xml.in.h:253 ../comps-f25.xml.in.h:253
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails web 应用程序栈。"
 
 #: ../comps-f22.xml.in.h:243 ../comps-f23.xml.in.h:241
 #: ../comps-f24.xml.in.h:254 ../comps-f25.xml.in.h:254
@@ -1375,7 +1370,7 @@ msgstr "安全实验室"
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
-msgstr ""
+msgstr "有关安全审计，取证，系统救援和教学安全测试方法的工具。"
 
 #: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:246
 #: ../comps-f24.xml.in.h:259 ../comps-f25.xml.in.h:259
@@ -1391,24 +1386,23 @@ msgstr "这组包括所有红帽的自定义服务器配置工具。"
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "服务器系统硬件支持"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
 "This group is a limited collection of tools for various hardware specific "
 "utilities."
-msgstr ""
+msgstr "该包组提供对各种特殊硬件的实用工具集。"
 
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora 服务器核心"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "用于不同服务器的策略软件包。"
+msgstr "用于服务器的策略软件包。"
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1458,29 +1452,28 @@ msgstr "PostgreSQL 数据库"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "这个软件包组包括有助于使用 Postgresql 的软件包。"
+msgstr "该软件包组包括有助于使用 Postgresql 的软件包。"
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
 msgid "Standard"
-msgstr ""
+msgstr "标准"
 
 #: ../comps-f22.xml.in.h:264 ../comps-f23.xml.in.h:262
 #: ../comps-f24.xml.in.h:275 ../comps-f25.xml.in.h:275
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "用于扩展最小化安装的常见实用程序。"
 
 #: ../comps-f22.xml.in.h:265 ../comps-f23.xml.in.h:263
 #: ../comps-f24.xml.in.h:276 ../comps-f25.xml.in.h:276
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "附加 Sugar 软件"
 
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "为 Sugar 桌面环境提供附加软件包。"
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1523,11 +1516,10 @@ msgstr "基于文本的互联网"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "这组包括基于文本（文本界面）的电子邮件、Web 和聊天客户端。这些应用程序不需要 X 窗口系统。"
+msgstr "该包组包括基于文本界面的电子邮件、Web 和聊天客户端。这些应用程序不需要 X 窗口系统。"
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1544,12 +1536,12 @@ msgstr "藏语支持"
 #: ../comps-f22.xml.in.h:277 ../comps-f23.xml.in.h:277
 #: ../comps-f24.xml.in.h:290 ../comps-f25.xml.in.h:290
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f22.xml.in.h:278 ../comps-f23.xml.in.h:278
 #: ../comps-f24.xml.in.h:291 ../comps-f25.xml.in.h:291
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat Web 应用程序服务器。"
 
 #: ../comps-f22.xml.in.h:279 ../comps-f23.xml.in.h:279
 #: ../comps-f24.xml.in.h:292 ../comps-f25.xml.in.h:292
@@ -1565,12 +1557,12 @@ msgstr "乌都语支持"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant 的 libvirt 支持"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "这些软件包提供 Vagrant 的 libvirt provider 支持"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1591,7 +1583,7 @@ msgstr "这些软件包提供一个虚拟化环境。"
 #: ../comps-f22.xml.in.h:286 ../comps-f23.xml.in.h:288
 #: ../comps-f24.xml.in.h:301 ../comps-f25.xml.in.h:301
 msgid "Basic Web Server"
-msgstr ""
+msgstr "基本 Web 服务器"
 
 #: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:289
 #: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302 ../comps-el5.xml.in.h:66
@@ -1612,13 +1604,12 @@ msgstr "不在较大的桌面环境组成部分之列的简单窗口管理器。
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora 工作站核心"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "用于不同工作站的策略软件包。"
+msgstr "用于工作站的策略软件包。"
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1639,7 +1630,7 @@ msgstr "Xfce 桌面环境下的应用程序"
 #: ../comps-f22.xml.in.h:295 ../comps-f23.xml.in.h:297
 #: ../comps-f24.xml.in.h:310 ../comps-f25.xml.in.h:310
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "一组用于 Xfce 桌面环境的常用应用程序"
 
 #: ../comps-f22.xml.in.h:296 ../comps-f23.xml.in.h:298
 #: ../comps-f24.xml.in.h:311 ../comps-f25.xml.in.h:311
@@ -1656,17 +1647,17 @@ msgstr "一个能在低端机器上良好运行的轻便桌面环境。"
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Xfce 面板额外插件"
 
 #: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:301
 #: ../comps-f24.xml.in.h:314 ../comps-f25.xml.in.h:314
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "扩展 Xfce 面板的功能"
 
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Xfce 多媒体支持"
 
 #: ../comps-f22.xml.in.h:301 ../comps-f23.xml.in.h:303
 #: ../comps-f24.xml.in.h:316 ../comps-f25.xml.in.h:316
@@ -1676,19 +1667,19 @@ msgstr "Xfce Office"
 #: ../comps-f22.xml.in.h:302 ../comps-f23.xml.in.h:304
 #: ../comps-f24.xml.in.h:317 ../comps-f25.xml.in.h:317
 msgid "Office suite for Xfce"
-msgstr "Xfce 的办公套件"
+msgstr "Xfce 办公套件"
 
 #: ../comps-f22.xml.in.h:303 ../comps-f23.xml.in.h:305
 #: ../comps-f24.xml.in.h:318 ../comps-f25.xml.in.h:318
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce 软件开发"
 
 #: ../comps-f22.xml.in.h:304 ../comps-f23.xml.in.h:306
 #: ../comps-f24.xml.in.h:319 ../comps-f25.xml.in.h:319
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "该包组提供开发 GTK+ 和 Xfce 图形应用程序所需的软件包。"
 
 #: ../comps-f22.xml.in.h:305 ../comps-f23.xml.in.h:307
 #: ../comps-f24.xml.in.h:320 ../comps-f25.xml.in.h:320
@@ -1703,12 +1694,12 @@ msgstr "一个平铺式的窗口管理器"
 #: ../comps-f22.xml.in.h:307 ../comps-f23.xml.in.h:309
 #: ../comps-f24.xml.in.h:322 ../comps-f25.xml.in.h:322
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad MATE 支持"
 
 #: ../comps-f22.xml.in.h:308 ../comps-f23.xml.in.h:310
 #: ../comps-f24.xml.in.h:323 ../comps-f25.xml.in.h:323
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "为 MATE 提供 XMonad 窗口管理器"
 
 #: ../comps-f22.xml.in.h:309 ../comps-f23.xml.in.h:311
 #: ../comps-f24.xml.in.h:324 ../comps-f25.xml.in.h:324
@@ -1728,17 +1719,16 @@ msgstr "提供基本功能。"
 #: ../comps-f22.xml.in.h:312 ../comps-f23.xml.in.h:314
 #: ../comps-f24.xml.in.h:330 ../comps-f25.xml.in.h:330
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma 工作区"
 
 #: ../comps-f22.xml.in.h:313 ../comps-f23.xml.in.h:315
 #: ../comps-f24.xml.in.h:331 ../comps-f25.xml.in.h:331
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce 桌面环境"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "网络服务器"
+msgstr "Fedora 服务器"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1746,19 +1736,18 @@ msgstr "网络服务器"
 #: ../comps-f22.xml.in.h:318 ../comps-f23.xml.in.h:320
 #: ../comps-f24.xml.in.h:336 ../comps-f25.xml.in.h:336
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "一个易于管理的服务器。"
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "工作站策略"
+msgstr "Fedora 工作站"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
-msgstr ""
+msgstr "Fedora 工作站是笔记本电脑和 PC 用户友好的桌面系统。"
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1767,9 +1756,8 @@ msgstr "LXDE 桌面环境"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "LXDE 桌面环境"
+msgstr "LXQt 桌面环境"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1784,14 +1772,13 @@ msgstr "MATE 桌面环境"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "邮件服务器"
+msgstr "Fedora 云服务器"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "在云环境中运行服务器所需的组件。"
 
 #: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:329
 #: ../comps-f24.xml.in.h:345 ../comps-f25.xml.in.h:345
@@ -1801,7 +1788,7 @@ msgstr "开发和创意工作站"
 #: ../comps-f22.xml.in.h:328 ../comps-f23.xml.in.h:330
 #: ../comps-f24.xml.in.h:346 ../comps-f25.xml.in.h:346
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "适合软件，硬件，图形或内容开发。"
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
 #: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
@@ -1812,7 +1799,7 @@ msgstr "Web 服务器"
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:332
 #: ../comps-f24.xml.in.h:348 ../comps-f25.xml.in.h:348
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "提供静态和动态的互联网内容。"
 
 #: ../comps-f22.xml.in.h:331 ../comps-f23.xml.in.h:333
 #: ../comps-f24.xml.in.h:349 ../comps-f25.xml.in.h:349
@@ -1822,18 +1809,18 @@ msgstr "基础设施服务器"
 #: ../comps-f22.xml.in.h:332 ../comps-f23.xml.in.h:334
 #: ../comps-f24.xml.in.h:350 ../comps-f25.xml.in.h:350
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "运行网络基础设施服务。"
 
 #: ../comps-f22.xml.in.h:333 ../comps-f23.xml.in.h:335
 #: ../comps-f24.xml.in.h:351 ../comps-f25.xml.in.h:351
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X 窗口系统的窗口管理器的选择。"
 
 #: ../comps-f22.xml.in.h:334 ../comps-f23.xml.in.h:336
 #: ../comps-f24.xml.in.h:352 ../comps-f25.xml.in.h:352
 #: ../comps-el6.xml.in.h:126 ../comps-epel7.xml.in.h:126
 msgid "KDE Desktop"
-msgstr "KDE 桌面"
+msgstr "KDE 桌面环境"
 
 #: ../comps-f22.xml.in.h:335 ../comps-f23.xml.in.h:337
 #: ../comps-f24.xml.in.h:353 ../comps-f25.xml.in.h:353
@@ -1858,7 +1845,7 @@ msgstr "执行各种任务的应用程序"
 #: ../comps-f22.xml.in.h:338 ../comps-f23.xml.in.h:340
 #: ../comps-f24.xml.in.h:356 ../comps-f25.xml.in.h:356
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME 桌面环境"
 
 #: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:341
 #: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
@@ -1906,97 +1893,97 @@ msgstr "文本和其它免费内容。"
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "该包组提供图形虚拟化环境。"
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "无图形界面虚拟化"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "这些软件包提供了一个文本界面的虚拟化环境。"
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Ansible 节点"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
-msgstr ""
+msgstr "该组包​​含使用 Ansible 控制系统所必需的软件包。"
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "关键路径 (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
-msgstr ""
+msgstr "提供 Hawaii 桌面环境关键路径功能的一组软件包"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii 桌面应用程序"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii 桌面常用应用程序"
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
 "Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop "
 "environment that adapts to desktop and mobile devices."
-msgstr ""
+msgstr "Hawaii 是一个快速，轻量级，直观和用户友好的 Wayland 桌面环境，它能够适应桌面和移动设备。"
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Hawaii 多媒体支持"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii 办公"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Hawaii Office 套件"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "LiveCD 工具"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
-msgstr ""
+msgstr "该包组提供将所需组件安装到 LiveCD 的工具"
 
 #: ../comps-f24.xml.in.h:262 ../comps-f25.xml.in.h:262
 msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
-msgstr ""
+msgstr "该包组为各种不常见的硬件相关应用程序提供一组工具集。"
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii 桌面环境"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Fedora 定制操作系统"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "为定制 Fedora 系统提供基本构建工具。"
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Fedora 服务器版"
 
 #: ../comps-el5.xml.in.h:4
 msgid ""

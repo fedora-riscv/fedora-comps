@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-30 13:44-0600\n"
+"POT-Creation-Date: 2016-04-21 10:24-0600\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -309,7 +309,6 @@ msgid "Design Suite"
 msgstr ""
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
@@ -1960,6 +1959,12 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
+msgstr ""
+
+#: ../comps-f25.xml.in.h:56
+msgid ""
+"These packages are targeted towards professional designers, and are related "
+"to graphics, web and animation."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4
