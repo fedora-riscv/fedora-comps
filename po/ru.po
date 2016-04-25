@@ -22,12 +22,12 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-30 13:44-0600\n"
+"POT-Creation-Date: 2016-04-21 10:24-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-05 08:40-0400\n"
-"Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
+"PO-Revision-Date: 2016-04-23 03:26-0400\n"
+"Last-Translator: yuliya <ypoyarko@redhat.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/comps/language/"
 "ru/)\n"
 "Language: ru\n"
@@ -340,7 +340,6 @@ msgid "Design Suite"
 msgstr "Комплект программ дизайнера"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
@@ -501,7 +500,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
 msgid "Epiphany Web Browser"
-msgstr "Веб-браузер "
+msgstr "Веб-браузер Epiphany "
 
 #: ../comps-f22.xml.in.h:82 ../comps-f23.xml.in.h:80 ../comps-f24.xml.in.h:84
 #: ../comps-f25.xml.in.h:84
@@ -679,7 +678,7 @@ msgstr "Агенты, используемые при работе под гип
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
 msgid "Guest Desktop Agents"
-msgstr "Агенты гостевой рабочего стола"
+msgstr "Агенты рабочего стола гостевой системы"
 
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
@@ -725,7 +724,7 @@ msgstr "Поддержка оборудования"
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
-"Эта группа содержит набор инструментов для различных утилит работы с "
+"Эта группа содержит набор инструментов для различных утилит для работы с "
 "оборудованием."
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
@@ -2092,6 +2091,14 @@ msgstr "Основной блок построения для настраива
 msgid "Fedora Server Edition"
 msgstr "Серверная редакция Fedora"
 
+#: ../comps-f25.xml.in.h:56
+msgid ""
+"These packages are targeted towards professional designers, and are related "
+"to graphics, web and animation."
+msgstr ""
+"Эти пакеты предназначены для профессиональных дизайнеров, работающих с "
+"графикой, веб-технологиями и анимацией."
+
 #: ../comps-el5.xml.in.h:4
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
@@ -3243,7 +3250,7 @@ msgstr "Поддержка валлийского языка"
 
 #: ../comps-el6.xml.in.h:285 ../comps-epel7.xml.in.h:287
 msgid "Workstation Policy"
-msgstr "Политика для рабочих станций"
+msgstr "Политика рабочей станции"
 
 #: ../comps-el6.xml.in.h:286 ../comps-epel7.xml.in.h:288
 msgid "Policy packages for the Workstation variant."

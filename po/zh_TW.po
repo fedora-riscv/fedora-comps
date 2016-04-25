@@ -7,12 +7,13 @@
 # Dimitris Glezos <glezos@indifex.com>, 2011
 # Terry Chuang <tchuang@redhat.com>, 2008-2009
 # Walter Cheuk <wwycheuk@gmail.com>, 2012
+# Cheng-Chia Tseng <pswo10680@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-30 13:44-0600\n"
+"POT-Creation-Date: 2016-04-21 10:24-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +23,7 @@ msgstr ""
 "language/zh_TW/)\n"
 "Language: zh-TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 3.8.2\n"
+"X-Generator: Zanata 3.8.3\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -65,13 +66,12 @@ msgstr "阿薩姆文支援"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "音訊製作"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "完整性與信賴驗證用的安全工具。"
+msgstr "音效合成與音樂製作的各種工具。"
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -177,33 +177,31 @@ msgstr "雲端運算的基礎建設軟體包。"
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "開發工具"
+msgstr "雲端管理工具"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
-msgstr ""
+msgstr "管理伺服器和「雲端」環境中執行之系統映像檔的軟體"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "雲端伺服器工具"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
-msgstr ""
+msgstr "用於伺服器和「雲端」環境中執行之系統映像檔的軟體"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "系統管理"
+msgstr "容器管理"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
@@ -281,9 +279,8 @@ msgstr "提供 LXDE 桌面環境關鍵路徑的一組軟體包"
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "關鍵路徑 (LXDE)"
+msgstr "關鍵路徑 (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
@@ -307,16 +304,14 @@ msgstr "提供 Xfce 桌面環境關鍵路徑的一組軟體包"
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "C 開發工具和函式庫"
+msgstr "D 開發工具和函式庫"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr "這些工具包括一般開發工具，例如 git 與 cvs。"
+msgstr "這些工具包括一般開發工具，例如 ldc 與 geany-tag。"
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -324,7 +319,6 @@ msgid "Design Suite"
 msgstr "設計套組"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#: ../comps-f25.xml.in.h:56
 #, fuzzy
 msgid ""
 "These packages are targeted towards professional designers related to "
@@ -398,12 +392,12 @@ msgstr "企業級開放原始碼認證管理中心"
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "網域成員"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "加入 FreeIPA 或 Active Directory 網域的支援"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -446,9 +440,8 @@ msgstr "電子實驗室"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
-msgstr "硬體工程師的設計和模擬工具"
+msgstr "硬體工程師的設計與模擬工具"
 
 #: ../comps-f22.xml.in.h:77 ../comps-f23.xml.in.h:75 ../comps-f24.xml.in.h:79
 #: ../comps-f25.xml.in.h:79 ../comps-el5.xml.in.h:23
@@ -465,14 +458,14 @@ msgstr "這個群組包括的軟體包可用來執行數學與科學的計算與
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
 msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
-msgstr ""
+msgstr "Enlightenment 是簡潔、快速、模組化、且非常彈性的視窗式桌面環境。"
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -497,9 +490,8 @@ msgstr "Fedora 軟體打包員"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Fedora 軟體包製作程式所需的工具與公用程式。"
+msgstr "Fedora 打包員所需的工具和公用程式"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -540,16 +532,15 @@ msgstr "在桌面上繪製文字的字型軟體包。"
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP 伺服器"
+msgstr "FreeIPA 伺服器"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
-msgstr ""
+msgstr "提供身份識別、政策管理和稽核的中央目錄服務。"
 
 #: ../comps-f22.xml.in.h:95 ../comps-f23.xml.in.h:93 ../comps-f24.xml.in.h:97
 #: ../comps-f25.xml.in.h:97 ../comps-el5.xml.in.h:27
@@ -707,14 +698,13 @@ msgstr "Haskell 程式語言的程式開發支援。"
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "系統管理"
+msgstr "文字介面管理"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "無需掛上圖形化主控臺的系統管理工具"
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
 #: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
@@ -767,9 +757,8 @@ msgstr "Java 程式語言的開發程式支援。"
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
-msgstr "Java 應用程式伺服器。"
+msgstr "Java 應用伺服器"
 
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
@@ -843,9 +832,8 @@ msgstr "KDE 軟體開發"
 
 #: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:147
 #: ../comps-f24.xml.in.h:158 ../comps-f25.xml.in.h:158
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
-msgstr "安裝這些軟體包以開發 QT 與 KDE 圖形應用程式。"
+msgstr "安裝這些軟體包可開發 QT 與 KDE 圖形應用程式。"
 
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
 #: ../comps-f24.xml.in.h:159 ../comps-f25.xml.in.h:159
@@ -859,17 +847,15 @@ msgstr "KDE Telepathy 應用程式"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "KDE 軟體開發"
+msgstr "KDE 框架 5 軟體開發"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr "安裝這些軟體包以開發 QT 與 KDE 圖形應用程式。"
+msgstr "安裝這些軟體包可使用 Qt5 和 KDE 框架 5 來開發應用程式。"
 
 #: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:152
 #: ../comps-f24.xml.in.h:163 ../comps-f25.xml.in.h:163
@@ -1008,47 +994,41 @@ msgstr "LXDE 的辦公套裝軟體"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "LXDE 桌面應用程式"
+msgstr "LXQt 桌面應用程式"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "一套 LXDE 桌面常用的應用程式"
+msgstr "一套 LXQt 桌面的常用應用程式"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 ""
-msgstr "LXDE 是個為低階規格的電腦 (如手提電腦、行動裝置或較舊的電腦) 所設計的輕型 X11 桌面環境。"
+msgstr "LXQt 是個為低階規格的電腦，如：網路筆電、行動裝置、或較舊的電腦等，所設計的輕量級 X11 桌面環境。"
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "LXDE 的多媒體支援"
+msgstr "LXQt 的多媒體支援"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "LXDE 辦公"
+msgstr "LXQt 辦公"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
-#, fuzzy
 msgid "Office suite for LXQt"
-msgstr "LXDE 的辦公套裝軟體"
+msgstr "LXQt 的辦公套裝軟體"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1085,26 +1065,23 @@ msgstr "馬拉地文支援"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "KDE 應用程式"
+msgstr "MATE 應用程式"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "LXDE 桌面應用程式"
+msgstr "MATE 桌面應用程式。"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
-#, fuzzy
 msgid "MATE Compiz"
-msgstr "MATE 桌面"
+msgstr "MATE Compiz"
 
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
 msgid "This package group adds Compiz and Emerald to MATE desktop"
-msgstr ""
+msgstr "這個軟體包群組會將 Compiz 和 Emerald 加到 MATE 桌面中"
 
 #: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:194
 #: ../comps-f24.xml.in.h:207 ../comps-f25.xml.in.h:207
@@ -1162,9 +1139,8 @@ msgstr "MongoDB"
 
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
-#, fuzzy
 msgid "Scalable, high-performance NoSQL database."
-msgstr "可縮放性高效能 NoSQL 資料庫。"
+msgstr "可縮放、高效能 NoSQL 資料庫。"
 
 #: ../comps-f22.xml.in.h:206 ../comps-f23.xml.in.h:204
 #: ../comps-f24.xml.in.h:217 ../comps-f25.xml.in.h:217
@@ -1207,7 +1183,7 @@ msgstr "這些軟體包包括網路為主的伺服器，例如 DHCP, Kerberos �
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "常用 NetworkManager 子模組"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
@@ -1405,7 +1381,7 @@ msgstr "這個群組包括所有 Red Hat 自訂的伺服器設定工具。"
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "伺服器系統的硬體支援"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
@@ -1416,13 +1392,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora Server 產品核心"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "各類伺服器方針軟體包。"
+msgstr "伺服器產品的必要軟體包。"
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1750,9 +1725,8 @@ msgid "Xfce Desktop"
 msgstr "Xfce 桌面"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "網路伺服器"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1764,9 +1738,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "工作站方針"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
@@ -1781,9 +1754,8 @@ msgstr "LXDE 桌面"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "LXDE 桌面"
+msgstr "LXQt 桌面"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1798,9 +1770,8 @@ msgstr "MATE 桌面"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "郵件伺服器"
+msgstr "Fedora Cloud 伺服器"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
@@ -1925,7 +1896,7 @@ msgstr ""
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "文字介面虛擬化"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
@@ -1934,7 +1905,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Ansible 結點"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
@@ -1975,8 +1946,9 @@ msgid "Multimedia support for Hawaii"
 msgstr ""
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
+#, fuzzy
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii 辦公軟體"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
@@ -1984,7 +1956,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "LiveCD 工具"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
@@ -1998,7 +1970,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii 桌面"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
@@ -2010,6 +1982,12 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
+msgstr ""
+
+#: ../comps-f25.xml.in.h:56
+msgid ""
+"These packages are targeted towards professional designers, and are related "
+"to graphics, web and animation."
 msgstr ""
 
 #: ../comps-el5.xml.in.h:4

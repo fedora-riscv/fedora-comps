@@ -23,7 +23,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-30 13:44-0600\n"
+"POT-Creation-Date: 2016-04-21 10:24-0600\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -327,7 +327,6 @@ msgid "Design Suite"
 msgstr "设计套件"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
@@ -1984,6 +1983,12 @@ msgstr "为定制 Fedora 系统提供基本构建工具。"
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
 msgstr "Fedora 服务器版"
+
+#: ../comps-f25.xml.in.h:56
+msgid ""
+"These packages are targeted towards professional designers, and are related "
+"to graphics, web and animation."
+msgstr ""
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
