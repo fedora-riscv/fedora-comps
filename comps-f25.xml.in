@@ -4072,7 +4072,7 @@
       <packagereq>xpad</packagereq>
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>xscreensaver-extras</packagereq>
-      <packagereq>yumex</packagereq>
+      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
