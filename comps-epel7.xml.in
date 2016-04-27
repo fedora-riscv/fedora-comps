@@ -685,6 +685,7 @@
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="optional">comic-neue-fonts</packagereq>
       <packagereq type="optional">freefont</packagereq>
+      <packagereq type="optional">horai-ume-fonts</packagereq>
     </packagelist>
   </group>
   <group>
