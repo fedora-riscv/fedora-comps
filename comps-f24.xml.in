@@ -6582,6 +6582,7 @@
       <packagereq>gparted</packagereq>
       <packagereq>leafpad</packagereq>
       <packagereq>firefox</packagereq>
+      <packagereq>florence</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>ristretto</packagereq>
