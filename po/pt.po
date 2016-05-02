@@ -9,6 +9,7 @@
 # Ricardo Pinto <ricardo.bigote@gmail.com>, 2012
 # Rui Gouveia <rui.gouveia@gmail.com>, 2010, 2011
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Rui Gouveia <ruigo@fedoraproject.org>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -17,8 +18,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-09-22 11:54-0400\n"
-"Last-Translator: Fernando Carvalho <phaetonkde@gmail.com>\n"
+"PO-Revision-Date: 2016-04-27 07:03-0400\n"
+"Last-Translator: Rui Gouveia <ruigo@fedoraproject.org>\n"
 "Language-Team: Portuguese (http://www.transifex.com/projects/p/comps/"
 "language/pt/)\n"
 "Language: pt\n"
@@ -73,9 +74,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "Ferramentas de segurança para verificação de integridade e confiança."
+msgstr "Várias ferramentas para audio e produção de música."
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -187,9 +187,8 @@ msgstr "Pacotes para infraestrutura de computação em nuvem"
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Ferramentas de Desenvolvimento"
+msgstr "Ferramentas para gestão de Nuvem"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
@@ -211,15 +210,13 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "Sistema de gestão"
+msgstr "Gestão de Containers"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "Ferramentas para aceder a recursos em mainframes."
+msgstr "Ferramentas para gerir containers Linux"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
@@ -299,19 +296,17 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Caminho Crítico (LXDE)"
+msgstr "Caminho Crítico (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
 "Um conjunto de pacotes que disponibilizam a funcionalidade de Caminho "
-"Crítico para o ambiente de trabalho LXDE"
+"Crítico para o ambiente de trabalho LXQt"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -329,9 +324,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "Ferramentas de desenvolvimento e bibliotecas C"
+msgstr "Ferramentas de desenvolvimento e bibliotecas D"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
@@ -578,9 +572,8 @@ msgstr "Pacotes de tipos de letra para representar o texto no ecrã."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "Servidor de FTP"
+msgstr "Servidor FreeIPA"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -815,9 +808,8 @@ msgstr "Suporte para desenvolver programas na linguagem de programação Java."
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
-msgstr "Servidor de aplicaçoes Java"
+msgstr "Servidor Aplicacional Java"
 
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
@@ -911,9 +903,8 @@ msgstr "Aplicações KDE Telepathy"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "Desenvolvimento de Software KDE"
+msgstr "Framework KDE 5 Desenvolvimento de Software"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
@@ -1069,9 +1060,8 @@ msgstr "Office suite para LXDE"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Aplicaçoes para o LXDE Desktop"
+msgstr "Aplicaçoes para o Desktop LXQt"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
@@ -1104,9 +1094,8 @@ msgstr "Suporte multimedia para LXDE"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "LXDE Office"
+msgstr "Office LXQt"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
@@ -1150,9 +1139,8 @@ msgstr "Suporte a Marathi"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "Aplicações KDE"
+msgstr "Aplicações MATE"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
@@ -1561,9 +1549,8 @@ msgstr "Base de Dados PostgreSQL"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "Este grupo inclui pacotes para utilização com o Postgresql."
+msgstr "Este grupo inclui pacotes úteis para utilização com o PostgreSQL."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
@@ -1630,13 +1617,12 @@ msgstr "Internet em Modo Texto"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Este grupo inclui o e-mail em modo texto, a Web e os clientes de conversação."
-" Estas aplicações não necessitam do X Window System."
+"Este grupo inclui os clientes de e-mail em modo texto, Web e chat. Estas "
+"aplicações não requerem o sistema de janelas X."
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1727,9 +1713,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "Pacotes de políticas para a variante de estação de trabalho."
+msgstr "Pacotes obrigatórios para o produto estação de trabalho."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1851,9 +1836,8 @@ msgid "Xfce Desktop"
 msgstr "Àrea de Trabalho Xfce"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "Servidores de Rede"
+msgstr "Servidor Fedora"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1865,9 +1849,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "Política de estação de trabalho"
+msgstr "Estação de trabalho Fedora"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338

@@ -205,9 +205,8 @@ msgstr "容器管理"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "存取大型主機計算資源的工具。"
+msgstr "管理 Linux 容器的工具"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
@@ -263,7 +262,7 @@ msgstr "關鍵路徑 (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "提供 KDE 桌面環境關鍵路徑的一組軟體包"
+msgstr "提供 KDE 桌面環境關鍵路徑功能的一組軟體包"
 
 #: ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:43 ../comps-f24.xml.in.h:47
 #: ../comps-f25.xml.in.h:47
@@ -275,7 +274,7 @@ msgstr "關鍵路徑 (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "提供 LXDE 桌面環境關鍵路徑的一組軟體包"
+msgstr "提供 LXDE 桌面環境關鍵路徑功能的一組軟體包"
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
@@ -284,11 +283,10 @@ msgstr "關鍵路徑 (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr "提供 LXDE 桌面環境關鍵路徑的一組軟體包"
+msgstr "提供 LXQt 桌面環境關鍵路徑功能的一組軟體包"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -319,11 +317,10 @@ msgid "Design Suite"
 msgstr "設計套組"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#, fuzzy
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
-msgstr "這些軟體包是針對美工繪圖、網頁、動畫等相關領域的專業設計師所打造。"
+msgstr "這些軟體包針對美工繪圖、網頁、動畫等相關領域的專業設計師打造。"
 
 #: ../comps-f22.xml.in.h:55 ../comps-f23.xml.in.h:53 ../comps-f24.xml.in.h:57
 #: ../comps-f25.xml.in.h:57
@@ -344,9 +341,8 @@ msgstr "開發工具"
 
 #: ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:56 ../comps-f24.xml.in.h:60
 #: ../comps-f25.xml.in.h:60
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
-msgstr "這些工具包括一般開發工具，例如 git 與 cvs。"
+msgstr "這些工具包括一般開發工具，例如 git 與 CVS。"
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
 #: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
@@ -607,9 +603,8 @@ msgstr "圖形介面的網際網路"
 
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "這個群組包括圖形的電子郵件、網頁以及聊天客戶端。"
+msgstr "這個群組包括圖形介面的電子郵件、網頁和聊天客戶端。"
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
 #: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
@@ -1190,7 +1185,7 @@ msgstr "常用 NetworkManager 子模組"
 msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
-msgstr ""
+msgstr "這個群組包含常用的 NetworkManager 子模組，但可能在某些流線化組態情況下可能不大想用到。"
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
@@ -1209,11 +1204,10 @@ msgstr "OCaml"
 
 #: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:216
 #: ../comps-f24.xml.in.h:229 ../comps-f25.xml.in.h:229
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
-msgstr "支援使用 Objective CAML 編程語言和函式庫來開發軟體。"
+msgstr "支援使用 Objective Caml 編程語言和函式庫來開發軟體。"
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
 #: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
@@ -1233,7 +1227,7 @@ msgstr "線上協助與文件"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "歐利亞文支援"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1387,7 +1381,7 @@ msgstr "伺服器系統的硬體支援"
 msgid ""
 "This group is a limited collection of tools for various hardware specific "
 "utilities."
-msgstr ""
+msgstr "這個群組包括多種特定硬體公用程式的工具組合。"
 
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
@@ -1402,7 +1396,7 @@ msgstr "伺服器產品的必要軟體包。"
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
 msgid "Simplified Chinese Support"
-msgstr "簡體中文支援"
+msgstr "簡體字中文支援"
 
 #: ../comps-f22.xml.in.h:255 ../comps-f23.xml.in.h:253
 #: ../comps-f24.xml.in.h:266 ../comps-f25.xml.in.h:266
@@ -1447,9 +1441,8 @@ msgstr "PostgreSQL 資料庫"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "這個軟體包群組包括了幫助您使用 Postgresql 的軟體包。"
+msgstr "這個軟體包群組包括協助您運用 Postgresql 的軟體包。"
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
@@ -1512,11 +1505,10 @@ msgstr "文字介面的網際網路"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr "這個群組包括文字介面的電子郵件、網頁與聊天客戶端端。這些應用程式並不需要 X 視窗系統。"
+msgstr "這個群組包括文字介面的電子郵件、網頁與聊天客戶端。這些應用程式並不需要 X 視窗系統。"
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1543,7 +1535,7 @@ msgstr "Tomcat 網路應用程式伺服器。"
 #: ../comps-f22.xml.in.h:279 ../comps-f23.xml.in.h:279
 #: ../comps-f24.xml.in.h:292 ../comps-f25.xml.in.h:292
 msgid "Traditional Chinese Support"
-msgstr "正體中文支援"
+msgstr "正體字中文支援"
 
 #: ../comps-f22.xml.in.h:280 ../comps-f23.xml.in.h:280
 #: ../comps-f24.xml.in.h:293 ../comps-f25.xml.in.h:293
@@ -1554,12 +1546,12 @@ msgstr "烏都文支援"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "具備 libvirt 支援的 Vagrant"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "這些軟體包提供具備 libvirt 提供者支援的 Vagrant"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1601,13 +1593,12 @@ msgstr "簡易的視窗管理程式，並非大型桌面環境的一部分。"
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora Workstation 產品核心"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "各類工作站方針軟體包。"
+msgstr "工作站產品的必要軟體包。"
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1734,7 +1725,7 @@ msgstr "Fedora Server"
 #: ../comps-f22.xml.in.h:318 ../comps-f23.xml.in.h:320
 #: ../comps-f24.xml.in.h:336 ../comps-f25.xml.in.h:336
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "整合且易於管理的伺服器。"
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
@@ -1745,7 +1736,7 @@ msgstr "Fedora Workstation"
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
-msgstr ""
+msgstr "Fedora Workstation 是個友善的桌面系統，適合筆電和個人電腦使用。"
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1776,7 +1767,7 @@ msgstr "Fedora Cloud 伺服器"
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "已安裝雲端環境所需組件的伺服器。"
 
 #: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:329
 #: ../comps-f24.xml.in.h:345 ../comps-f25.xml.in.h:345
@@ -1891,7 +1882,7 @@ msgstr "文字以及其他自由內容。"
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "這些軟體包提供圖形介面的虛擬化環境。"
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
@@ -1901,7 +1892,7 @@ msgstr "文字介面虛擬化"
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "這些軟體包提供文字介面的虛擬化環境。"
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
@@ -1911,48 +1902,47 @@ msgstr "Ansible 結點"
 msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
-msgstr ""
+msgstr "這個群組包含 Ansible 所控制之系統需要的軟體包。"
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "關鍵路徑 (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
-msgstr ""
+msgstr "提供 Hawaii 桌面環境關鍵路徑功能的一組軟體包"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii 桌面的應用程式"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
-msgstr ""
+msgstr "一套 Hawaii 桌面常用的應用程式"
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
 "Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop "
 "environment that adapts to desktop and mobile devices."
-msgstr ""
+msgstr "Hawaii 是個快速、輕量、直覺且友善的 Wayland 桌面環境，適合桌面裝置和行動裝置使用。"
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Hawaii 的多媒體支援"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
-#, fuzzy
 msgid "Hawaii Office"
-msgstr "Hawaii 辦公軟體"
+msgstr "Hawaii 辦公"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Hawaii 的辦公套裝軟體"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
@@ -1960,13 +1950,13 @@ msgstr "LiveCD 工具"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
-msgstr ""
+msgstr "需要安裝到 Live CD 中讓它運作的工具"
 
 #: ../comps-f24.xml.in.h:262 ../comps-f25.xml.in.h:262
 msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
-msgstr ""
+msgstr "這個群組包括多種特定硬體公用程式的工具組合。"
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
@@ -1974,21 +1964,21 @@ msgstr "Hawaii 桌面"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Fedora 自訂作業系統"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "自訂 Fedora 系統所需的基本建置元件。"
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Fedora Server 版本"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
-msgstr ""
+msgstr "這些軟體包針對美工繪圖、網頁、動畫等相關領域的專業設計師打造。"
 
 #: ../comps-el5.xml.in.h:4
 msgid ""

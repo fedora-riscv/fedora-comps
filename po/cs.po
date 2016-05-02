@@ -12,6 +12,7 @@
 # Milan Kerslager <milan@kerslager.cz>, 2009, 2010
 # Milan Kerslager <milan.kerslager@pslib.cz>, 2011,2013
 # Miro Hrončok <miro@hroncok.cz>, 2013
+# Josef Hruška <hrusjos@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 msgid ""
 msgstr ""
@@ -21,8 +22,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2014-02-08 08:30-0500\n"
-"Last-Translator: zdenek <chmelarz@gmail.com>\n"
+"PO-Revision-Date: 2016-04-28 09:49-0400\n"
+"Last-Translator: Josef Hruška <hrusjos@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/comps/language/cs/"
 ")\n"
 "Language: cs\n"
@@ -72,13 +73,12 @@ msgstr "Podpora asámštiny"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "Zvuková produkce"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "Nástroje pro zajištění integrity a ověření důvěryhodnosti."
+msgstr "Různé nástroje pro syntézu zvuku a produkci hudby."
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -92,7 +92,7 @@ msgid ""
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
 "Nástroje pro vytváření dokumentů ve formátu DocBook, jejich konverze do "
-"formátů HTML, PDF, Postscriptu a holého textu."
+"formátů HTML, PDF, Postscriptu a prostého textu."
 
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
@@ -191,9 +191,8 @@ msgstr "Balíčky pro cloudovou infrastrukturu."
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Vývojářské nástroje"
+msgstr "Nástroje pro správu cloudu"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
@@ -201,29 +200,31 @@ msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
+"Software pro správu serverů a obrazů systému, které lze provozovat v "
+"\"cloudových\" prostředích"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Nástroje pro cloud server"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
+"Software pro servery a obrazy systému, které lze provozovat v \"cloudových\" "
+"prostředích"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "Správa systému"
+msgstr "Správa kontejnerů"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "Nástroje pro přístup ke zdrojům mainframe."
+msgstr "Nástroje pro správu linuxových kontejnerů"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
@@ -248,7 +249,7 @@ msgstr "Sada aplikací, které jsou považovány za kritické."
 #: ../comps-f22.xml.in.h:39 ../comps-f23.xml.in.h:37 ../comps-f24.xml.in.h:39
 #: ../comps-f25.xml.in.h:39
 msgid "Critical Path (Base)"
-msgstr "Kritická cesta (Základ)"
+msgstr "Kritická sada (Základ)"
 
 #: ../comps-f22.xml.in.h:40 ../comps-f23.xml.in.h:38 ../comps-f24.xml.in.h:40
 #: ../comps-f25.xml.in.h:40
@@ -256,22 +257,19 @@ msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
-"Sada balíčků, které poskytují kritickou cestu (sadu) pro podporu spinů "
-"Fedory."
+"Sada balíčků sdílené platformy kritických funkcí na podporu spinů Fedory."
 
 #: ../comps-f22.xml.in.h:41 ../comps-f23.xml.in.h:39 ../comps-f24.xml.in.h:41
 #: ../comps-f25.xml.in.h:41
 msgid "Critical Path (GNOME)"
-msgstr "Kritická cesta (GNOME)"
+msgstr "Kritická sada (GNOME)"
 
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
-msgstr ""
-"Sada balíčků, která poskytuje základní (kritická cesta) funkčnost "
-"uživatelského prostředí GNOME."
+msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy GNOME."
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
@@ -283,9 +281,7 @@ msgstr "Kritická sada (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr ""
-"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
-"prostředí KDE."
+msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy KDE."
 
 #: ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:43 ../comps-f24.xml.in.h:47
 #: ../comps-f25.xml.in.h:47
@@ -297,25 +293,19 @@ msgstr "Kritická sada (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr ""
-"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
-"prostředí LXDE."
+msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy LXDE."
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Kritická sada (LXDE)"
+msgstr "Kritická sada (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr ""
-"Sada balíčků kritické sady, která poskytuje funkčnost uživatelského "
-"prostředí LXDE."
+msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy LXDE."
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -327,22 +317,18 @@ msgstr "Kritická sada (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr ""
-"Sada balíčků kritické cesty, která poskytuje funkčnost uživatelského "
-"prostředí Xfce."
+msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy Xfce."
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "Vývojové nástroje a knihovny C"
+msgstr "Vývojové nástroje a knihovny D"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr "Tyto nástroje zahrnují hlavni vývojové nástroje jako je git a cvs."
+msgstr "Zahrnuje vývojové nástroje a knihovny, jako např. ldc a geany-tag."
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -350,13 +336,12 @@ msgid "Design Suite"
 msgstr "Nástroje pro design"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#, fuzzy
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
 msgstr ""
-"Tyto nástroje jsou určeny pro profesionální design týkajícího se grafiky, "
-"webu a animace"
+"Tyto balíčky se zaměřují na profesionální návrháře v oblasti grafiky, webu a "
+"animace."
 
 #: ../comps-f22.xml.in.h:55 ../comps-f23.xml.in.h:53 ../comps-f24.xml.in.h:57
 #: ../comps-f25.xml.in.h:57
@@ -377,24 +362,23 @@ msgstr "Vývojářské nástroje"
 
 #: ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:56 ../comps-f24.xml.in.h:60
 #: ../comps-f25.xml.in.h:60
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
-msgstr "Tyto nástroje zahrnují hlavni vývojové nástroje jako je git a cvs."
+msgstr "Tyto nástroje zahrnují hlavni vývojové nástroje jako jsou git a cvs."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
 #: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
 msgid "Dial-up Networking Support"
-msgstr "Telefonické připojení"
+msgstr "Vytáčené připojení"
 
 #: ../comps-f22.xml.in.h:60 ../comps-f23.xml.in.h:58 ../comps-f24.xml.in.h:62
 #: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58 ../comps-epel7.xml.in.h:58
 msgid "Directory Server"
-msgstr "LDAP server"
+msgstr "Adresářový server"
 
 #: ../comps-f22.xml.in.h:61 ../comps-f23.xml.in.h:59 ../comps-f24.xml.in.h:63
 #: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
-msgstr "Servery pro identity počítačů a uživatelů."
+msgstr "Servery pro identitu počítačů a uživatelů."
 
 #: ../comps-f22.xml.in.h:62 ../comps-f23.xml.in.h:60 ../comps-f24.xml.in.h:64
 #: ../comps-f25.xml.in.h:64
@@ -425,12 +409,12 @@ msgstr "Pokročilá open source certifikační autorita "
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "Členství v doméně"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "Podpora pro připojení k doméně FreeIPA nebo Active Directory"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -475,7 +459,6 @@ msgstr "Elektronická laboratoř"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
 msgstr "Nástroje pro návrhy a simulace hardwarových inženýrů."
 
@@ -496,7 +479,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -504,6 +487,8 @@ msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment je odlehčené, rychlé, modulární a snadno rozšiřitelné "
+"prostředí pracovní plochy s okny."
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -528,9 +513,8 @@ msgstr "Vývoj balíčků pro Fedoru"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Nástroje potřebné pro Fedora Packager."
+msgstr "Nástroje a pomocné programy potřebné pro balíčkovací systém Fedory."
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -550,7 +534,7 @@ msgstr "Webový prohlížeč Firefox"
 #: ../comps-f22.xml.in.h:89 ../comps-f23.xml.in.h:87 ../comps-f24.xml.in.h:91
 #: ../comps-f25.xml.in.h:91
 msgid "Font design and packaging"
-msgstr "Navrhování fontů"
+msgstr "Návrh písma"
 
 #: ../comps-f22.xml.in.h:90 ../comps-f23.xml.in.h:88 ../comps-f24.xml.in.h:92
 #: ../comps-f25.xml.in.h:92
@@ -558,13 +542,13 @@ msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
-"Skupina balíčků obsahující nástroje pro návrh, modifikaci, úpravy a "
-"vytváření souborů s fonty."
+"Skupina balíčků obsahující sbírku nástrojů používaných při návrhu, úpravě, "
+"manipulaci a vytváření balíčků s písmem."
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
 #: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
 msgid "Fonts"
-msgstr "Sada fontů"
+msgstr "Písma"
 
 #: ../comps-f22.xml.in.h:92 ../comps-f23.xml.in.h:90 ../comps-f24.xml.in.h:94
 #: ../comps-f25.xml.in.h:94
@@ -573,9 +557,8 @@ msgstr "Balíčky písem (fontů) pro zobrazování textu v systému."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP server"
+msgstr "FreeIPA server"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -583,6 +566,8 @@ msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Poskytuje centrální adresářové služby pro identitu, řízení politik a "
+"kontrolu."
 
 #: ../comps-f22.xml.in.h:95 ../comps-f23.xml.in.h:93 ../comps-f24.xml.in.h:97
 #: ../comps-f25.xml.in.h:97 ../comps-el5.xml.in.h:27
@@ -651,9 +636,9 @@ msgstr "Grafické nástroje pro Internet"
 
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "Skupina obsahuje grafické klienty pro e-mail, WWW a chatové klienty."
+msgstr ""
+"Skupina obsahuje grafické klienty pro e-mail, web a chatovací klienty."
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
 #: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
@@ -745,14 +730,13 @@ msgstr "Podpora pro vývoj programů v programovacím jazyce Haskell."
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "Správa systému"
+msgstr "Správa systému bez zobrazovacího zařízení"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "Nástroje pro správu systému bez připojené grafické konzole."
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
 #: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
@@ -807,7 +791,6 @@ msgstr "Podpora pro vývoj programů v programovacím jazyku Java."
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
 msgstr "Java aplikační server."
 
@@ -836,7 +819,7 @@ msgstr "KDE aplikace"
 #: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:138
 #: ../comps-f24.xml.in.h:149 ../comps-f25.xml.in.h:149
 msgid "A set of commonly used KDE applications"
-msgstr "Sada bežně používaných KDE aplikací"
+msgstr "Sada běžně používaných KDE aplikací"
 
 #: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:139
 #: ../comps-f24.xml.in.h:150 ../comps-f25.xml.in.h:150
@@ -886,10 +869,9 @@ msgstr "Vývoj pro KDE"
 
 #: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:147
 #: ../comps-f24.xml.in.h:158 ../comps-f25.xml.in.h:158
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
 msgstr ""
-"Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro QT a "
+"Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro Qt a "
 "KDE."
 
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
@@ -904,19 +886,17 @@ msgstr "KDE Telepathy aplikace"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "Vývoj pro KDE"
+msgstr "Softwarový vývoj KDE Frameworks 5"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
 msgstr ""
-"Nainstalujte tyto balíčky, pokud budete vyvíjet grafické aplikace pro QT a "
-"KDE."
+"Nainstalujte tyto balíčky, pokud budete vyvíjet aplikace využívající Qt5 a "
+"KDE Frameworks 5."
 
 #: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:152
 #: ../comps-f24.xml.in.h:163 ../comps-f25.xml.in.h:163
@@ -945,7 +925,7 @@ msgstr "Podpora kurdštiny"
 #: ../comps-f22.xml.in.h:158 ../comps-f23.xml.in.h:156
 #: ../comps-f24.xml.in.h:167 ../comps-f25.xml.in.h:167
 msgid "Legacy Fonts"
-msgstr "Zastaralé fonty"
+msgstr "Zastaralá písma"
 
 #: ../comps-f22.xml.in.h:159 ../comps-f23.xml.in.h:157
 #: ../comps-f24.xml.in.h:168 ../comps-f25.xml.in.h:168
@@ -1063,50 +1043,44 @@ msgstr "Balík Office pro LXDE"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Aplikace pro pracovní prostředí LXDE"
+msgstr "Aplikace pro pracovní prostředí LXQt"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "Sada bežně používaných aplikací pro pracovní prostředí LXDE"
+msgstr "Sada běžně používaných aplikací pro pracovní prostředí LXQt"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 ""
 msgstr ""
-"LXDE je odlehčené uživatelské prostředí, které je určeno pro X Window System "
-"na počítačích s málo výkonným hardware, jako jsou NetBooky, mobilní zařízení "
+"LXQt je odlehčené uživatelské prostředí nad X Window System (X11) pro "
+"počítače s málo výkonným hardwarem, jako jsou netbooky, mobilní zařízení "
 "nebo starší počítače."
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "Multimediální podpora pro LXDE"
+msgstr "Multimediální podpora pro LXQt"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "LXDE Office"
+msgstr "LXQt Office"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
-#, fuzzy
 msgid "Office suite for LXQt"
-msgstr "Balík Office pro LXDE"
+msgstr "Balík Office pro LXQt"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1143,26 +1117,23 @@ msgstr "Podpora maráthštiny"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "KDE aplikace"
+msgstr "MATE aplikace"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Aplikace pro pracovní prostředí LXDE"
+msgstr "Aplikace pro pracovní prostředí MATE"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
-#, fuzzy
 msgid "MATE Compiz"
-msgstr "Pracovní prostředí MATE"
+msgstr "MATE Compiz"
 
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
 msgid "This package group adds Compiz and Emerald to MATE desktop"
-msgstr ""
+msgstr "Skupina balíčků, která přidává Compiz a Emerald do prostředí MATE"
 
 #: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:194
 #: ../comps-f24.xml.in.h:207 ../comps-f25.xml.in.h:207
@@ -1225,9 +1196,8 @@ msgstr "MongoDB"
 
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
-#, fuzzy
 msgid "Scalable, high-performance NoSQL database."
-msgstr "Škálovatelná vysoce výkonná databáze NoSQL"
+msgstr "Škálovatelná, vysoce výkonná databáze NoSQL"
 
 #: ../comps-f22.xml.in.h:206 ../comps-f23.xml.in.h:204
 #: ../comps-f24.xml.in.h:217 ../comps-f25.xml.in.h:217
@@ -1271,7 +1241,7 @@ msgstr "Balíčky se síťovými servery, například DHCP, Kerberos a NIS."
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Společné podmoduly NetworkManageru"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
@@ -1279,18 +1249,20 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
+"Skupina obsahuje podmoduly pro aplikaci NetworkManager, které jsou široce "
+"užívány, ale nemusí být potřeba v některých zeštíhlených konfiguracích."
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
 msgid "News Server"
-msgstr "NNTP server"
+msgstr "News server"
 
 #: ../comps-f22.xml.in.h:216 ../comps-f23.xml.in.h:214
 #: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227 ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
-"Skupina s balíčky pro podporu běhu serveru diskusních skupin (NetNews, resp. "
-"NNTP protokol)."
+"Skupina balíčků pro nastavení systému jako serveru elektronických diskusních "
+"skupin (NetNews, resp. NNTP protokol)."
 
 #: ../comps-f22.xml.in.h:217 ../comps-f23.xml.in.h:215
 #: ../comps-f24.xml.in.h:228 ../comps-f25.xml.in.h:228
@@ -1299,12 +1271,12 @@ msgstr "OCaml"
 
 #: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:216
 #: ../comps-f24.xml.in.h:229 ../comps-f25.xml.in.h:229
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
-"Podpora a knihovny pro vývoj programů v programovacím jazyku Objective CAML."
+"Podpora pro vývoj softwaru pomocí programovacího jazyka Objective CAML a "
+"jeho knihoven."
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
 #: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
@@ -1326,7 +1298,7 @@ msgstr "Online nápověda a dokumentace"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "Podpora odia"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1478,24 +1450,25 @@ msgstr "Všechny konfigurační nástroje od firmy Red Hat."
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Hardwarová podpora pro serverové systémy"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
 "This group is a limited collection of tools for various hardware specific "
 "utilities."
 msgstr ""
+"Poněkud drobnější sbírka nástrojů  pro rozličné hardwarově specifické "
+"utility."
 
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Základ Fedora Serveru"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "Balíčky politik pro server."
+msgstr "Povinné balíčky pro Fedora Server"
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1525,8 +1498,8 @@ msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr ""
-"Skupina balíčků pro podporu sdílení souborů mezi systémy Linux a MS Windows "
-"(TM)."
+"Skupina balíčků pro podporu sdílení souborů mezi systémy Linux a MS "
+"Windows(tm)."
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
 #: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270 ../comps-el5.xml.in.h:57
@@ -1549,9 +1522,8 @@ msgstr "PostgreSQL databáze"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "Skupina balíčků s nástroji pro použití spolu s PostgreSQL serverem."
+msgstr "Skupina balíčků užitečných nástrojů k databázi PostgreSQL."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
@@ -1616,12 +1588,11 @@ msgstr "Textové nástroje pro Internet"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Skupina obsahuje textové klienty pro e-mail, WWW a chatovací programy, které "
+"Skupina obsahuje textové klienty pro e-mail, web a chatovací programy, které "
 "nepotřebují grafické prostředí X Window System."
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
@@ -1660,12 +1631,14 @@ msgstr "Podpora urdštiny"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant s podporou libvirt"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
 msgstr ""
+"Balíčky poskytují Vagrant (virtuální vývojové prostředí) s podporou "
+"poskytovatele libvirt"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1708,13 +1681,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Základ Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "Balíčky politik pro workstation."
+msgstr "Povinné balíčky pro Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1735,7 +1707,7 @@ msgstr "Aplikace pro pracovní prostředí Xfce"
 #: ../comps-f22.xml.in.h:295 ../comps-f23.xml.in.h:297
 #: ../comps-f24.xml.in.h:310 ../comps-f25.xml.in.h:310
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr "Sada bežně používaných aplikací pro pracovní prostředí Xfce"
+msgstr "Sada běžně používaných aplikací pro pracovní prostředí Xfce"
 
 #: ../comps-f22.xml.in.h:296 ../comps-f23.xml.in.h:298
 #: ../comps-f24.xml.in.h:311 ../comps-f25.xml.in.h:311
@@ -1836,9 +1808,8 @@ msgid "Xfce Desktop"
 msgstr "Pracovní prostředí Xfce"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "Síťové servery"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1846,19 +1817,20 @@ msgstr "Síťové servery"
 #: ../comps-f22.xml.in.h:318 ../comps-f23.xml.in.h:320
 #: ../comps-f24.xml.in.h:336 ../comps-f25.xml.in.h:336
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "Integrovaný a snadno spravovatelný server."
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "Politiky workstation"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
+"Fedora Workstation je uživatelsky přívětivý desktopový systém pro laptopy a "
+"PC."
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1867,9 +1839,8 @@ msgstr "Pracovní prostředí LXDE"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "Pracovní prostředí LXDE"
+msgstr "Pracovní prostředí LXQt"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1884,14 +1855,14 @@ msgstr "Pracovní prostředí MATE"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Poštovní server"
+msgstr "Fedora Cloud Server"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
 msgid "A server install with components needed to run in a cloud environment."
 msgstr ""
+"Serverová instalace se součástmi potřebnými pro běh v prostředí cloudu."
 
 #: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:329
 #: ../comps-f24.xml.in.h:345 ../comps-f25.xml.in.h:345
@@ -1901,13 +1872,13 @@ msgstr "Vývoj a kreativní pracovní stanice"
 #: ../comps-f22.xml.in.h:328 ../comps-f23.xml.in.h:330
 #: ../comps-f24.xml.in.h:346 ../comps-f25.xml.in.h:346
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr "Pracovní stanice pro software, hardware, grafiku nebo vývoj konceptů."
+msgstr "Pracovní stanice pro vývoj softwaru, hardwaru, grafiky nebo obsahu."
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
 #: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
 #: ../comps-el6.xml.in.h:280 ../comps-epel7.xml.in.h:282
 msgid "Web Server"
-msgstr "WWW server"
+msgstr "Web server"
 
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:332
 #: ../comps-f24.xml.in.h:348 ../comps-f25.xml.in.h:348
@@ -2008,103 +1979,113 @@ msgstr "Text a ostatní volný obsah"
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "Balíčky poskytují grafické virtualizační prostředí."
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Virtualizace bez zobrazovacího zařízení"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "Balíčky poskytují virtualizační prostředí bez zobrazovacího zařízení."
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Uzel Ansible"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
 msgstr ""
+"Skupina balíčků nezbytných pro systém, aby mohl být řízen pomocí Ansible."
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "Kritická sada (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
-msgstr ""
+msgstr "Sada balíčků kritické funkčnosti pro pracovní prostředí Hawaii"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Aplikace pro pracovní prostředí Hawaii"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Sada běžně používaných aplikací pro pracovní prostředí Hawaii"
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
 "Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop "
 "environment that adapts to desktop and mobile devices."
 msgstr ""
+"Hawaii je rychlé, odlehčené, intuitivní a uživatelsky přívětivé prostředí "
+"pracovní plochy nad systémem Wayland, které se přizpůsobuje stolním i "
+"mobilním zařízením."
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Podpora multimédií pro Hawaii"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii Office"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Balík Office pro Hawaii"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "Nástroje LiveCD"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
 msgstr ""
+"Nástroje, které je nutné instalovat do livecd (spustitelné CD), aby mohlo "
+"fungovat"
 
 #: ../comps-f24.xml.in.h:262 ../comps-f25.xml.in.h:262
 msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
 msgstr ""
+"Skupina s omezenou sbírkou nástrojů pro různé nepříliš obvyklé hardwarově "
+"specifické utility."
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Pracovní prostředí Hawaii"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Zákaznicky upravený operační systém Fedora"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Základní stavební blok pro zákaznicky upravený systém Fedory."
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Vydání Fedora Serveru"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"Balíčky, které cílí na profesionální návrháře v oblasti grafiky, webu a "
+"animace."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
