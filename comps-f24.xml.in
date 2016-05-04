@@ -5385,6 +5385,7 @@
   </group>
   <group>
     <id>server-product</id>
+    <!-- Translators: Don't translate this product name -->
     <_name>Fedora Server product core</_name>
     <_description>Packages mandatory for the server product.</_description>
     <default>false</default>
@@ -6367,6 +6368,7 @@
   </group>
   <group>
     <id>workstation-product</id>
+    <!-- Translators: Don't translate this product name -->
     <_name>Fedora Workstation product core</_name>
     <_description>Packages mandatory for the workstation product.</_description>
     <default>false</default>
@@ -6903,6 +6905,7 @@
          package.  Please keep this mostly in sync with
          infrastructure-server-environment. -->
     <id>server-product-environment</id>
+    <!-- Translators: Don't translate this product name -->
     <_name>Fedora Server Edition</_name>
     <!-- Should eventually say “with a web UI accessible right after installation”
          or something else to differentiate from
@@ -6942,6 +6945,7 @@
   </environment>
   <environment>
     <id>workstation-product-environment</id>
+    <!-- Translators: Don't translate this product name -->
     <_name>Fedora Workstation</_name>
     <_description>Fedora Workstation is a user friendly desktop system for laptops and PCs.</_description>
     <display_order>2</display_order>
