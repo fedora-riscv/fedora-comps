@@ -878,6 +878,7 @@
       <packagereq type="conditional" requires="gimp">gimp-resynthesizer</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-separate+</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-wavelet-denoise-plugin</packagereq>
+      <packagereq type="conditional" requires="gimp">gimpfx-foundry</packagereq>
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-psd</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
