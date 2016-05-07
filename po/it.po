@@ -28,13 +28,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-28 09:45-0400\n"
+"PO-Revision-Date: 2016-05-04 05:04-0400\n"
 "Last-Translator: Luca Ciavatta <luca.ciavatta@gmail.com>\n"
 "Language-Team: Italian (http://www.transifex.com/projects/p/comps/language/"
 "it/)\n"
 "Language: it\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.3\n"
+"X-Generator: Zanata 3.8.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -150,7 +150,7 @@ msgstr "Libri e guide per gli sviluppatori e gli utenti di Fedora"
 #: ../comps-f25.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
 #: ../comps-epel7.xml.in.h:25
 msgid "Buildsystem building group"
-msgstr "Buildsystem per la creazione del gruppo"
+msgstr "Gruppo per la creazione di buildsystem"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
 #: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
@@ -168,8 +168,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
-"Questi strumenti comprendono strumenti principali di sviluppo come automake, "
-"gcc e debugger"
+"Questi strumenti comprendono i principali strumenti di sviluppo come "
+"automake, gcc e debugger."
 
 #: ../comps-f22.xml.in.h:25 ../comps-f23.xml.in.h:23 ../comps-f24.xml.in.h:25
 #: ../comps-f25.xml.in.h:25
@@ -182,8 +182,8 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
-"Cinnamon è un desktop con disposizione tradizionale, caratteristiche "
-"avanzate, di facile uso, potente e flessibile"
+"Cinnamon fornisce un desktop dall'aspetto tradizionale, caratteristiche "
+"avanzate, facilità di utilizzo, potenza e flessibilità."
 
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
@@ -219,8 +219,7 @@ msgstr "Strumenti per Server Cloud"
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
-"Software per server e immagini di sistema che vengono eseguiti in ambienti "
-"\"cloud\""
+"Software per server e immagini di sistema  eseguiti in ambienti \"cloud\""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
@@ -235,7 +234,7 @@ msgstr "Strumenti per la gestione dei container Linux"
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
 msgid "Core"
-msgstr "Nucleo"
+msgstr "Core"
 
 #: ../comps-f22.xml.in.h:36 ../comps-f23.xml.in.h:34 ../comps-f24.xml.in.h:36
 #: ../comps-f25.xml.in.h:36
@@ -398,12 +397,12 @@ msgstr "Directory Server"
 #: ../comps-f22.xml.in.h:61 ../comps-f23.xml.in.h:59 ../comps-f24.xml.in.h:63
 #: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
-msgstr "Identity server utente e macchina"
+msgstr "Identity server per utenti e macchine"
 
 #: ../comps-f22.xml.in.h:62 ../comps-f23.xml.in.h:60 ../comps-f24.xml.in.h:64
 #: ../comps-f25.xml.in.h:64
 msgid "DNS Name Server"
-msgstr "Nome Server DNS"
+msgstr "Server dei nomi DNS"
 
 #: ../comps-f22.xml.in.h:63 ../comps-f23.xml.in.h:61 ../comps-f24.xml.in.h:65
 #: ../comps-f25.xml.in.h:65
@@ -416,7 +415,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:64 ../comps-f23.xml.in.h:62 ../comps-f24.xml.in.h:66
 #: ../comps-f25.xml.in.h:66
 msgid "Dogri Support"
-msgstr "Supporto lingua Dorgi"
+msgstr "Supporto lingua Dogri"
 
 #: ../comps-f22.xml.in.h:65 ../comps-f23.xml.in.h:63 ../comps-f24.xml.in.h:67
 #: ../comps-f25.xml.in.h:67
@@ -451,7 +450,7 @@ msgstr "Ambiente integrato di sviluppo basato su Eclipse."
 #: ../comps-f22.xml.in.h:71 ../comps-f23.xml.in.h:69 ../comps-f24.xml.in.h:73
 #: ../comps-f25.xml.in.h:73 ../comps-el5.xml.in.h:17
 msgid "Editors"
-msgstr "Editor di testi"
+msgstr "Editor"
 
 #: ../comps-f22.xml.in.h:72 ../comps-f23.xml.in.h:70 ../comps-f24.xml.in.h:74
 #: ../comps-f25.xml.in.h:74
@@ -516,12 +515,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
 msgid "Epiphany Web Browser"
-msgstr "Navigatore Epiphany"
+msgstr "Browser web Epiphany"
 
 #: ../comps-f22.xml.in.h:82 ../comps-f23.xml.in.h:80 ../comps-f24.xml.in.h:84
 #: ../comps-f25.xml.in.h:84
 msgid "Epiphany Web Browser for GNOME"
-msgstr "Navigatore Epiphany per GNOME"
+msgstr "Browser web Epiphany per GNOME"
 
 #: ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:81 ../comps-f24.xml.in.h:85
 #: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:71
@@ -532,12 +531,12 @@ msgstr "Supporto lingua etiope"
 #: ../comps-f25.xml.in.h:86 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 #: ../comps-epel7.xml.in.h:73
 msgid "Fedora Packager"
-msgstr "Gestore di pacchetti Fedora"
+msgstr "Packager Fedora"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Strumenti e utilità necessarie a Fedora Packager."
+msgstr "Strumenti e utilità necessarie ai packager Fedora."
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -547,17 +546,17 @@ msgstr "Supporto lingua finlandese"
 #: ../comps-f22.xml.in.h:87 ../comps-f23.xml.in.h:85 ../comps-f24.xml.in.h:89
 #: ../comps-f25.xml.in.h:89
 msgid "Firefox Web Browser"
-msgstr "Navigatore Firefox"
+msgstr "Browser web Firefox"
 
 #: ../comps-f22.xml.in.h:88 ../comps-f23.xml.in.h:86 ../comps-f24.xml.in.h:90
 #: ../comps-f25.xml.in.h:90
 msgid "The Firefox web browser"
-msgstr "Il navigatore Firefox"
+msgstr "Il browser web Firefox"
 
 #: ../comps-f22.xml.in.h:89 ../comps-f23.xml.in.h:87 ../comps-f24.xml.in.h:91
 #: ../comps-f25.xml.in.h:91
 msgid "Font design and packaging"
-msgstr "Sviluppo e gestione font"
+msgstr "Design e pacchettizzazione font"
 
 #: ../comps-f22.xml.in.h:90 ../comps-f23.xml.in.h:88 ../comps-f24.xml.in.h:92
 #: ../comps-f25.xml.in.h:92
@@ -571,12 +570,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
 #: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
 msgid "Fonts"
-msgstr "Caratteri"
+msgstr "Font"
 
 #: ../comps-f22.xml.in.h:92 ../comps-f23.xml.in.h:90 ../comps-f24.xml.in.h:94
 #: ../comps-f25.xml.in.h:94
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "Pacchetti di caratteri per la rappresentazione di testo sul desktop."
+msgstr "Pacchetti di font per la rappresentazione di testo sul desktop."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
@@ -690,7 +689,7 @@ msgstr "Agenti guest"
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
 msgid "Agents used when running under a hypervisor."
-msgstr "Agenti usati quando funzionano sottoun hypervisore"
+msgstr "Agenti usati durante l'esecuzione sotto un hypervisor."
 
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
@@ -700,7 +699,7 @@ msgstr "Agenti Desktop per Guest"
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
 msgid "Agents used when running as a virtualized desktop."
-msgstr "Agenti usati quando si fa funzionare come un desktop virtualizzato."
+msgstr "Agenti usati durante l'esecuzione come desktop virtualizzato."
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
 #: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
@@ -804,7 +803,7 @@ msgstr "Java"
 #: ../comps-f22.xml.in.h:132 ../comps-f23.xml.in.h:130
 #: ../comps-f24.xml.in.h:141 ../comps-f25.xml.in.h:141
 msgid "Support for running programs written in the Java programming language."
-msgstr "Supporto per l'esecuzione di programmi sviluppati in liguaggio Java."
+msgstr "Supporto per l'esecuzione di programmi sviluppati in linguaggio Java."
 
 #: ../comps-f22.xml.in.h:133 ../comps-f23.xml.in.h:131
 #: ../comps-f24.xml.in.h:142 ../comps-f25.xml.in.h:142
@@ -953,12 +952,12 @@ msgstr "Supporto lingua curda"
 #: ../comps-f22.xml.in.h:158 ../comps-f23.xml.in.h:156
 #: ../comps-f24.xml.in.h:167 ../comps-f25.xml.in.h:167
 msgid "Legacy Fonts"
-msgstr "Caratteri legacy"
+msgstr "Font legacy"
 
 #: ../comps-f22.xml.in.h:159 ../comps-f23.xml.in.h:157
 #: ../comps-f24.xml.in.h:168 ../comps-f25.xml.in.h:168
 msgid "Older bitmap and vector fonts packages"
-msgstr "Pacchetti di caratteri bitmap e vettoriali meno recenti"
+msgstr "Pacchetti di font bitmap e vettoriali meno recenti"
 
 #: ../comps-f22.xml.in.h:160 ../comps-f23.xml.in.h:158
 #: ../comps-f24.xml.in.h:169 ../comps-f25.xml.in.h:169
@@ -999,7 +998,7 @@ msgstr "Supporto per Lepcha"
 #: ../comps-f22.xml.in.h:166 ../comps-f23.xml.in.h:164
 #: ../comps-f24.xml.in.h:175 ../comps-f25.xml.in.h:175
 msgid "LibreOffice"
-msgstr "Libreoffice"
+msgstr "LibreOffice"
 
 #: ../comps-f22.xml.in.h:167 ../comps-f23.xml.in.h:165
 #: ../comps-f24.xml.in.h:176 ../comps-f25.xml.in.h:176
@@ -1201,7 +1200,7 @@ msgstr "Milkymist"
 #: ../comps-f24.xml.in.h:212 ../comps-f25.xml.in.h:212
 #: ../comps-el6.xml.in.h:161 ../comps-epel7.xml.in.h:163
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr "Catena di strumenti per gli ingegneri hardware Milkymist."
+msgstr "Insieme di strumenti per gli ingegneri hardware Milkymist."
 
 #: ../comps-f22.xml.in.h:202 ../comps-f23.xml.in.h:200
 #: ../comps-f24.xml.in.h:213 ../comps-f25.xml.in.h:213
@@ -1450,7 +1449,7 @@ msgstr "Supporto lingua sanscrita"
 #: ../comps-f22.xml.in.h:245 ../comps-f23.xml.in.h:243
 #: ../comps-f24.xml.in.h:256 ../comps-f25.xml.in.h:256
 msgid "Santali Support"
-msgstr "Supporto lingua Santali"
+msgstr "Supporto lingua santali"
 
 #: ../comps-f22.xml.in.h:246 ../comps-f23.xml.in.h:244
 #: ../comps-f24.xml.in.h:257 ../comps-f25.xml.in.h:257
@@ -1517,7 +1516,7 @@ msgstr "Supporto lingua sindhi"
 #: ../comps-f24.xml.in.h:267 ../comps-f25.xml.in.h:267
 #: ../comps-el6.xml.in.h:217 ../comps-epel7.xml.in.h:219
 msgid "Sinhala Support"
-msgstr "Supporto lingua Sinhala"
+msgstr "Supporto lingua sinhala"
 
 #: ../comps-f22.xml.in.h:257 ../comps-f23.xml.in.h:255
 #: ../comps-f24.xml.in.h:268 ../comps-f25.xml.in.h:268
@@ -1972,7 +1971,7 @@ msgstr "Desktop GNOME"
 #: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
 #: ../comps-el6.xml.in.h:297 ../comps-epel7.xml.in.h:300
 msgid "Development"
-msgstr "Programmazione"
+msgstr "Sviluppo"
 
 #: ../comps-f22.xml.in.h:340 ../comps-f23.xml.in.h:342
 #: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358 ../comps-el5.xml.in.h:76
@@ -2340,7 +2339,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:12 ../comps-epel7.xml.in.h:12
 msgid "Backup Server"
-msgstr "Server backup"
+msgstr "Server di backup"
 
 #: ../comps-el6.xml.in.h:13 ../comps-epel7.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
@@ -2392,7 +2391,7 @@ msgstr "Supporto lingua catalana"
 
 #: ../comps-el6.xml.in.h:29 ../comps-epel7.xml.in.h:29
 msgid "Chhattisgarhi Support"
-msgstr "Supporto lingua Chhattisgarhi"
+msgstr "Supporto lingua chhattisgarhi"
 
 #: ../comps-el6.xml.in.h:30 ../comps-epel7.xml.in.h:30
 msgid "Chichewa Support"
@@ -2552,7 +2551,7 @@ msgstr "Supporto lingua faroese"
 
 #: ../comps-el6.xml.in.h:74 ../comps-epel7.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr "Strumenti e utilità necessarie ad un Fedora Packager."
+msgstr "Strumenti e utilità necessarie ai packager Fedora."
 
 #: ../comps-el6.xml.in.h:75 ../comps-epel7.xml.in.h:75
 msgid "Fijian Support"
@@ -2564,7 +2563,7 @@ msgstr "Supporto lingua filippina"
 
 #: ../comps-el6.xml.in.h:79 ../comps-epel7.xml.in.h:79
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr "Caratteri per visualizzare testo in varie lingue e testi."
+msgstr "Font per visualizzare testo in varie lingue e testi."
 
 #: ../comps-el6.xml.in.h:80 ../comps-epel7.xml.in.h:80
 msgid "French Support"
@@ -2596,11 +2595,11 @@ msgstr "Supporto lingua galiziana"
 
 #: ../comps-el6.xml.in.h:87 ../comps-epel7.xml.in.h:87
 msgid "General Purpose Desktop"
-msgstr "Desktop di uso generico"
+msgstr "Desktop per utilizzo generico"
 
 #: ../comps-el6.xml.in.h:88 ../comps-epel7.xml.in.h:88
 msgid "A general purpose desktop."
-msgstr "Un desktop generico."
+msgstr "Un desktop per utilizzo generico."
 
 #: ../comps-el6.xml.in.h:90 ../comps-epel7.xml.in.h:90
 msgid "German Support"
@@ -2623,7 +2622,7 @@ msgstr "Strumenti grafici di creazione"
 
 #: ../comps-el6.xml.in.h:94 ../comps-epel7.xml.in.h:94
 msgid "Software for creation and manipulation of still images."
-msgstr "Software per la creazione e la manipolazione di immagini."
+msgstr "Software per la creazione e la manipolazione di immagini statiche."
 
 #: ../comps-el6.xml.in.h:97 ../comps-epel7.xml.in.h:97
 msgid "Hardware monitoring utilities"
@@ -2631,7 +2630,7 @@ msgstr "Strumenti di monitoraggio dell'hardware"
 
 #: ../comps-el6.xml.in.h:98 ../comps-epel7.xml.in.h:98
 msgid "A set of tools to monitor server hardware"
-msgstr "Un insieme di strumenti per controllare l'hardware del server"
+msgstr "Un insieme di strumenti per controllare l'hardware dei server"
 
 #: ../comps-el6.xml.in.h:102 ../comps-epel7.xml.in.h:102
 msgid "Hiligaynon Support"
@@ -2667,7 +2666,7 @@ msgstr "Software per l'input di testo internazionale."
 
 #: ../comps-el6.xml.in.h:111 ../comps-epel7.xml.in.h:111
 msgid "Interlingua Support"
-msgstr "Supporto interlinguistico"
+msgstr "Supporto interlingua"
 
 #: ../comps-el6.xml.in.h:112 ../comps-epel7.xml.in.h:112
 msgid "Internet Applications"
@@ -2739,19 +2738,19 @@ msgstr "Supporto lingua latina"
 
 #: ../comps-el6.xml.in.h:137 ../comps-epel7.xml.in.h:137
 msgid "Latvian Support"
-msgstr "Supporto lingua latvia"
+msgstr "Supporto lingua lettone"
 
 #: ../comps-el6.xml.in.h:138 ../comps-epel7.xml.in.h:138
 msgid "Legacy UNIX compatibility"
-msgstr "Compatibilità ereditaria UNIX"
+msgstr "Compatibilità UNIX legacy"
 
 #: ../comps-el6.xml.in.h:139 ../comps-epel7.xml.in.h:139
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
 msgstr ""
-"Programmi di compatibilità per la migrazione o il funzionamento ereditario "
-"da ambienti UNIX."
+"Programmi di compatibilità per la migrazione da o il funzionamento con "
+"ambienti UNIX legacy."
 
 #: ../comps-el6.xml.in.h:140 ../comps-epel7.xml.in.h:140
 msgid "Legacy X Window System compatibility"
@@ -2762,20 +2761,20 @@ msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
 msgstr ""
-"Programmi di compatibilità per la migrazione o il funzionamento ereditario "
-"da ambienti X Window System."
+"Programmi di compatibilità per la migrazione da o il funzionamento con "
+"ambienti X Window System legacy."
 
 #: ../comps-el6.xml.in.h:142 ../comps-epel7.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr "Eredità di base per compatibilità X Window System"
+msgstr "Compatibilità di base X Window System legacy"
 
 #: ../comps-el6.xml.in.h:143 ../comps-epel7.xml.in.h:143
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
 msgstr ""
-"Set minimo di programmi di compatibilità per la migrazione o il "
-"funzionamento ereditario con ambienti X Window System."
+"Set minimo di programmi di compatibilità per la migrazione da o il "
+"funzionamento con ambienti X Window System legacy."
 
 #: ../comps-el6.xml.in.h:144 ../comps-epel7.xml.in.h:144
 msgid "Lithuanian Support"
@@ -2783,7 +2782,7 @@ msgstr "Supporto lingua lituana"
 
 #: ../comps-el6.xml.in.h:145 ../comps-epel7.xml.in.h:145
 msgid "Low Saxon Support"
-msgstr "Supporto lingua low saxon"
+msgstr "Supporto lingua basso sassone"
 
 #: ../comps-el6.xml.in.h:146 ../comps-epel7.xml.in.h:146
 msgid "Luxembourgish Support"
@@ -2807,7 +2806,7 @@ msgstr "Accesso Mainframe"
 
 #: ../comps-el6.xml.in.h:151 ../comps-epel7.xml.in.h:151
 msgid "Tools for accessing mainframe computing resources."
-msgstr "Strumenti per accedere alle risorse di calcolo di mainframe."
+msgstr "Strumenti per accedere alle risorse di calcolo su mainframe."
 
 #: ../comps-el6.xml.in.h:153 ../comps-epel7.xml.in.h:153
 msgid "Malagasy Support"
@@ -2895,7 +2894,7 @@ msgstr "Supporto lingua occitana"
 
 #: ../comps-el6.xml.in.h:179 ../comps-epel7.xml.in.h:181
 msgid "Office Suite and Productivity"
-msgstr "Suite di Office e produttività"
+msgstr "Suite di office e produttività"
 
 #: ../comps-el6.xml.in.h:180 ../comps-epel7.xml.in.h:182
 msgid "A full-purpose office suite, and other productivity tools."
@@ -2907,14 +2906,14 @@ msgstr "Supporto lingua oriya"
 
 #: ../comps-el6.xml.in.h:182 ../comps-epel7.xml.in.h:184
 msgid "Performance Tools"
-msgstr "Strumenti di prestazioni"
+msgstr "Strumenti prestazionali"
 
 #: ../comps-el6.xml.in.h:183 ../comps-epel7.xml.in.h:185
 msgid ""
 "Tools for diagnosing system and application-level performance problems."
 msgstr ""
-"Strumenti per il sistema di diagnosi e per problemi di prestazione a livello "
-"applicazione."
+"Strumenti per la diagnosi dei problemi di performace a livello applicativo e "
+"di sistema"
 
 #: ../comps-el6.xml.in.h:184 ../comps-epel7.xml.in.h:186
 msgid "Perl Support"
@@ -2922,7 +2921,7 @@ msgstr "Supporto Perl"
 
 #: ../comps-el6.xml.in.h:185 ../comps-epel7.xml.in.h:187
 msgid "Perl interfaces to common libraries and functionality."
-msgstr "Interfacce Perl alle librerie comuni e alle funzionalità."
+msgstr "Interfacce Perl alle librerie e funzionalità comuni."
 
 #: ../comps-el6.xml.in.h:187 ../comps-epel7.xml.in.h:189
 msgid "PHP Support"
@@ -2992,16 +2991,15 @@ msgstr "Supporto scientifico"
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
 msgstr ""
-"Strumenti per la computazione scientifica e matematica e per il calcolo "
-"parallelo."
+"Strumenti per il calcolo scientifico e matematico e di calcolo parallelo."
 
 #: ../comps-el6.xml.in.h:207 ../comps-epel7.xml.in.h:209
 msgid "Security Tools"
-msgstr "Srumenti di sicurezza"
+msgstr "Strumenti di sicurezza"
 
 #: ../comps-el6.xml.in.h:208 ../comps-epel7.xml.in.h:210
 msgid "Security tools for integrity and trust verification."
-msgstr "Strumenti di sicurezza per l'integrità e la verifica di fiducia."
+msgstr "Strumenti di sicurezza per la verifica dell'integrità fiducia."
 
 #: ../comps-el6.xml.in.h:209 ../comps-epel7.xml.in.h:211
 msgid "Serbian Support"
@@ -3024,8 +3022,8 @@ msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
 msgstr ""
-"Librerie e intestazioni di sviluppo per lo sviluppo di applicazioni per "
-"eseguire la piattaforma Server di Enterprise Linux."
+"Librerie e header per lo sviluppo di applicazioni da eseguire sulla "
+"piattaforma Server Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:214 ../comps-epel7.xml.in.h:216
 msgid "Server Policy"
@@ -3045,11 +3043,11 @@ msgstr "Supporto lingua slovena"
 
 #: ../comps-el6.xml.in.h:220 ../comps-epel7.xml.in.h:222
 msgid "Smart card support"
-msgstr "Supporto alle smart card"
+msgstr "Supporto smart card"
 
 #: ../comps-el6.xml.in.h:221 ../comps-epel7.xml.in.h:223
 msgid "Support for using smart card authentication."
-msgstr "Supporto per l'utilizzo di autenticazione tramite smart card."
+msgstr "Supporto per l'autenticazione tramite smart card."
 
 #: ../comps-el6.xml.in.h:222 ../comps-epel7.xml.in.h:224
 msgid "Southern Ndebele Support"
@@ -3069,7 +3067,7 @@ msgstr "Client di storage FCoE"
 
 #: ../comps-el6.xml.in.h:226 ../comps-epel7.xml.in.h:228
 msgid "Fiber Channel over Ethernet support"
-msgstr "Fiber Channel tramite supporto Ethernet"
+msgstr "Supporto a Fiber Channel over Ethernet"
 
 #: ../comps-el6.xml.in.h:227 ../comps-epel7.xml.in.h:229
 msgid "iSCSI Storage Client"
@@ -3077,7 +3075,7 @@ msgstr "Client di storage iSCSI"
 
 #: ../comps-el6.xml.in.h:228 ../comps-epel7.xml.in.h:230
 msgid "iSCSI client support"
-msgstr "Supporto a client iSCSI"
+msgstr "Supporto client iSCSI"
 
 #: ../comps-el6.xml.in.h:229 ../comps-epel7.xml.in.h:231
 msgid "Storage Availability Tools"
@@ -3149,7 +3147,7 @@ msgstr "Agente di gestione SNMP."
 
 #: ../comps-el6.xml.in.h:246 ../comps-epel7.xml.in.h:248
 msgid "Web-Based Enterprise Management"
-msgstr "Gestione del Web-Based Enterprise"
+msgstr "Web-Based Enterprise Management"
 
 #: ../comps-el6.xml.in.h:247 ../comps-epel7.xml.in.h:249
 msgid "WBEM interface for Enterprise Linux."
@@ -3181,7 +3179,7 @@ msgstr "Supporto TeX"
 
 #: ../comps-el6.xml.in.h:256 ../comps-epel7.xml.in.h:258
 msgid "Support for the TeX document formatting system."
-msgstr "Supporto per il sistema di formattazione di documenti TeX."
+msgstr "Supporto al sistema di formattazione di documenti TeX."
 
 #: ../comps-el6.xml.in.h:259 ../comps-epel7.xml.in.h:261
 msgid "Tsonga Support"
@@ -3193,11 +3191,11 @@ msgstr "Supporto lingua tswana"
 
 #: ../comps-el6.xml.in.h:261 ../comps-epel7.xml.in.h:263
 msgid "TurboGears application framework"
-msgstr "Infrastruttura di applicazione TurboGears."
+msgstr "Framework applicazioni TurboGears."
 
 #: ../comps-el6.xml.in.h:262 ../comps-epel7.xml.in.h:264
 msgid "TurboGears web application framework."
-msgstr "Infrastruttura di applicazione web TurboGears."
+msgstr "Framerwork per applicazione web TurboGears."
 
 #: ../comps-el6.xml.in.h:263 ../comps-epel7.xml.in.h:265
 msgid "Turkish Support"
@@ -3225,7 +3223,7 @@ msgstr "Supporto lingua venda"
 
 #: ../comps-el6.xml.in.h:272 ../comps-epel7.xml.in.h:274
 msgid "Provides an environment for hosting virtualized guests."
-msgstr "Fornisce un ambiente ospitare guest virtualizzati."
+msgstr "Fornisce un ambiente per ospitare guest virtualizzati."
 
 #: ../comps-el6.xml.in.h:273 ../comps-epel7.xml.in.h:275
 msgid "Virtualization Client"
@@ -3246,7 +3244,7 @@ msgid ""
 "containers."
 msgstr ""
 "Fornisce una interfaccia per l'accesso e il controllo di guest virtualizzati "
-"e contenitori."
+"e container."
 
 #: ../comps-el6.xml.in.h:277 ../comps-epel7.xml.in.h:279
 msgid "Virtualization Tools"
@@ -3265,7 +3263,7 @@ msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
 msgstr ""
-"Consente al sistema di agire come server web, e di eseguire applicazioni web "
+"Consente al sistema di agire come server web e di eseguire applicazioni web "
 "in Perl e Python."
 
 #: ../comps-el6.xml.in.h:282 ../comps-epel7.xml.in.h:284
@@ -3306,7 +3304,7 @@ msgstr "Desktop"
 
 #: ../comps-el6.xml.in.h:294 ../comps-epel7.xml.in.h:297
 msgid "Desktops and thin clients."
-msgstr "Desktop e client leggeri."
+msgstr "Desktop e thin client."
 
 #: ../comps-el6.xml.in.h:296 ../comps-epel7.xml.in.h:299
 msgid "End-user applications."

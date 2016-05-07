@@ -563,7 +563,6 @@
       <packagereq>redshift</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3477,7 +3476,6 @@
       <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdeaccessibility</packagereq>
       <packagereq>kdegames-minimal</packagereq>
-      <packagereq>kdegraphics-strigi-analyzer</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
       <packagereq>kdepasswd</packagereq>
@@ -3631,7 +3629,6 @@
       <packagereq type="default">kdesdk-okteta</packagereq>
       <packagereq type="default">kdesdk-poxml</packagereq>
       <packagereq type="default">kdesdk-scripts</packagereq>
-      <packagereq type="default">kdesdk-strigi-analyzer</packagereq>
       <packagereq type="default">kdesdk-thumbnailers</packagereq>
       <packagereq type="default">kdesdk-umbrello</packagereq>
       <packagereq type="default">kdevelop</packagereq>
