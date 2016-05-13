@@ -1352,6 +1352,8 @@
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
       <packagereq type="default">pluma</packagereq>
+      <packagereq type="default">p7zip</packagereq>
+      <packagereq type="default">p7zip-plugins</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">setroubleshoot</packagereq>
