@@ -21,6 +21,7 @@
 # Verena Fuehrer <vfuehrer@redhat.com>, 2004
 # FloH. <postfuerflo@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Raphael Groner <projects.rg@smart.ms>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -29,13 +30,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-24 12:15-0400\n"
-"Last-Translator: FloH. <postfuerflo@gmail.com>\n"
+"PO-Revision-Date: 2016-05-08 03:19-0400\n"
+"Last-Translator: Raphael Groner <projects.rg@smart.ms>\n"
 "Language-Team: German (http://www.transifex.com/projects/p/comps/language/de/"
 ")\n"
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.3\n"
+"X-Generator: Zanata 3.8.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -313,13 +314,12 @@ msgstr "Kritischer Pfad (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
 "Eine Sammlung von Paketen, welche die Funktionalität des kritischen Pfades "
-"für die LXDE-Arbeitsumgebung bereitstellt."
+"für die LXQt-Arbeitsumgebung bereitstellt."
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -1077,18 +1077,18 @@ msgstr "Office-Suite für LXDE"
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
 msgid "Applications for the LXQt Desktop"
-msgstr "Anwendungen für die LXDE-Benutzeroberfläche"
+msgstr "Anwendungen für die LXQt-Benutzeroberfläche"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
 msgid "A set of commonly used applications for the LXQt Desktop"
 msgstr ""
-"Eine Sammlung häufig verwendeter Anwendungen für die LXDE-Benutzeroberfläche"
+"Eine Sammlung häufig verwendeter Anwendungen für die LXQt-Benutzeroberfläche"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr "LXDE"
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
@@ -1097,24 +1097,24 @@ msgid ""
 "low hardware specifications like netbooks, mobile devices or older computers."
 ""
 msgstr ""
-"LXDE ist eine schlanke X11-Arbeitsumgebung, welche für Rechner mit "
+"LXQt ist eine schlanke X11-Arbeitsumgebung, welche für Rechner mit "
 "leistungsschwacher Hardware, wie Netbooks, mobile Geräte oder ältere Rechner "
 "entwickelt wurde."
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
 msgid "Multimedia support for LXQt"
-msgstr "Multimedia-Unterstützung für LXDE"
+msgstr "Multimedia-Unterstützung für LXQt"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
 msgid "LXQt Office"
-msgstr "LXDE-Office"
+msgstr "LXQt-Office"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
 msgid "Office suite for LXQt"
-msgstr "Office-Suite für LXDE"
+msgstr "Office-Suite für LXQt"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1883,7 +1883,7 @@ msgstr "LXDE-Benutzeroberfläche"
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
 msgid "LXQt Desktop"
-msgstr "LXDE-Benutzeroberfläche"
+msgstr "LXQt-Benutzeroberfläche"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
