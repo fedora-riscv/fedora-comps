@@ -4409,6 +4409,8 @@
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>parole</packagereq>
       <packagereq>pluma</packagereq>
+      <packagereq>p7zip</packagereq>
+      <packagereq>p7zip-plugins</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
