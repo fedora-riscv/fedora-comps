@@ -6404,6 +6404,7 @@
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fros-gnome</packagereq>
+      <packagereq>git</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-shell-extension-background-logo</packagereq>
       <packagereq>gnupg2</packagereq>
