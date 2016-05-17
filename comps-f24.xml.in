@@ -1959,7 +1959,11 @@
       <packagereq type="optional">gubbi-fonts</packagereq>
       <packagereq type="optional">hanazono-fonts</packagereq>
       <packagereq type="optional">hiran-perizia-fonts</packagereq>
-      <packagereq type="optional">horai-ume-fonts</packagereq>
+      <packagereq type="optional">horai-ume-gothic-fonts</packagereq>
+      <packagereq type="optional">horai-ume-mincho-fonts</packagereq>
+      <packagereq type="optional">horai-ume-pgothic-fonts</packagereq>
+      <packagereq type="optional">horai-ume-pmincho-fonts</packagereq>
+      <packagereq type="optional">horai-ume-uigothic-fonts</packagereq>
       <packagereq type="optional">impallari-lobster-fonts</packagereq>
       <packagereq type="optional">inkboy-fonts</packagereq>
       <packagereq type="optional">ipa-ex-gothic-fonts</packagereq>
