@@ -13,7 +13,7 @@ validate: $(XMLFILES) comps.rng
 	for f in $(XMLFILES); do xmllint --noout --relaxng comps.rng $$f; done
 
 %.xml: %.xml.in
-	@python -c 'import libxml2; libxml2.parseFile("$<")'
+	@xmllint --noout $<
 	@if test ".$(CLEANUP)" == .yes; then xsltproc --novalid -o $< comps-cleanup.xsl $<; fi
 	./update-comps $@
 	@if [ "$@" == "$(RAWHIDECOMPS)" ] ; then \
