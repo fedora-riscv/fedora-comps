@@ -10,7 +10,11 @@ clean:
 	@rm -fv *~ *.xml
 
 validate: $(XMLFILES) comps.rng
-	for f in $(XMLFILES); do xmllint --noout --relaxng comps.rng $$f; done
+	# Run xmllint on each file and exit with non-zero if any validation fails
+	RES=0; for f in $(XMLFILES); do \
+		xmllint --noout --relaxng comps.rng $$f; \
+		RES=$$(($$RES + $$?)); \
+	done; exit $$RES
 
 %.xml: %.xml.in
 	@xmllint --noout $<
