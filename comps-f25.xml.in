@@ -5122,11 +5122,11 @@
       <packagereq>rubygem-sdoc</packagereq>
       <packagereq>rubygem-spring</packagereq>
       <packagereq>rubygem-sqlite3</packagereq>
-      <packagereq>rubygem-therubyracer</packagereq>
       <packagereq>rubygem-turbolinks</packagereq>
       <packagereq>rubygem-web-console</packagereq>
       <packagereq>rubygem-uglifier</packagereq>
       <packagereq>sqlite-devel</packagereq>
+      <packagereq>nodejs</packagereq>
     </packagelist>
   </group>
   <group>
