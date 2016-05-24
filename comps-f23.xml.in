@@ -4082,14 +4082,18 @@
       <packagereq>notification-daemon</packagereq>
       <packagereq>obconf</packagereq>
       <packagereq>openbox</packagereq>
-      <packagereq>oxygen-gtk2-theme</packagereq>
+      <packagereq>breeze-icon-theme</packagereq>
+      <packagereq>breeze-gtk</packagereq>
+      <packagereq>breeze-cursor-theme</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>qterminal-qt5</packagereq>
       <packagereq>qupzilla</packagereq>
       <packagereq>sddm</packagereq>
+      <packagereq>sddm-breeze</packagereq>
       <packagereq>upower</packagereq>
-      <packagereq>xarchiver</packagereq>
+      <packagereq>ark</packagereq>
+      <packagereq>kwin</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
     </packagelist>
   </group>
