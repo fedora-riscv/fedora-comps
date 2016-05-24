@@ -319,7 +319,7 @@
       <packagereq>xorg-x11-drv-omap</packagereq>
       <packagereq>xorg-x11-drv-openchrome</packagereq>
       <packagereq>xorg-x11-drv-qxl</packagereq>
-      <packagereq>xorg-x11-drv-synaptics</packagereq>
+      <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>xorg-x11-drv-vesa</packagereq>
       <packagereq>xorg-x11-drv-vmmouse</packagereq>
       <packagereq>xorg-x11-drv-vmware</packagereq>
@@ -759,7 +759,7 @@
       <packagereq type="mandatory">xorg-x11-drv-intel</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-nouveau</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-qxl</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-synaptics</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-vesa</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
