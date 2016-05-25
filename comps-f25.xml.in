@@ -2902,7 +2902,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <!-- broken with GCC 6 and kernel 4.5: RHBZ #1305108 <packagereq>open-vm-tools</packagereq> -->
+      <packagereq>open-vm-tools</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
     </packagelist>
   </group>
@@ -2914,7 +2914,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>hyperv-daemons</packagereq>
-      <!-- broken with GCC 6 and kernel 4.5: RHBZ #1305108 <packagereq>open-vm-tools-desktop</packagereq> -->
+      <packagereq>open-vm-tools-desktop</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
       <packagereq>spice-vdagent</packagereq>
     </packagelist>
