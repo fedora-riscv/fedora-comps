@@ -2823,7 +2823,7 @@
       <packagereq type="optional">inkscape</packagereq>
       <packagereq type="optional">ipe</packagereq>
       <packagereq type="optional">k3d</packagereq>
-      <packagereq type="optional">kipi-plugins</packagereq>
+      <packagereq type="optional">kf5-kipi-plugins</packagereq>
       <packagereq type="optional">kolourpaint</packagereq>
       <packagereq type="optional">kphotoalbum</packagereq>
       <packagereq type="optional">ksnapshot</packagereq>
@@ -3497,7 +3497,7 @@
       <packagereq>khelpcenter</packagereq>
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
-      <packagereq>kipi-plugins</packagereq>
+      <packagereq>kf5-kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>knode</packagereq>
