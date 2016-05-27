@@ -4900,6 +4900,24 @@
       <packagereq>php-xml</packagereq>
     </packagelist>
   </group>
+  <!--
+       Virtualization platforms would like to have their packages installed
+       automatically when running inside them. This uses systemd-detect-virt to
+       identify the platform and creates a group id to be selected by prefixing
+       it with "platform-" so that, for example, running on kvm will result in
+       a group named "platform-kvm" being selected if it exists.
+       See https://github.com/rhinstaller/anaconda/commit/a475dd0194df7abf0453786fc0147221f0e753d3
+  -->
+  <group>
+    <id>platform-vmware</id>
+    <_name>platform-vmware</_name>
+    <_description>packages to install in vmware virtual machines</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>open-vm-tools</packagereq>
+    </packagelist>
+  </group>
   <group>
     <id>printing</id>
     <_name>Printing Support</_name>
