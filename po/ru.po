@@ -26,7 +26,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-05-05 04:17-0400\n"
+"PO-Revision-Date: 2016-05-13 04:31-0400\n"
 "Last-Translator: yuliya <ypoyarko@redhat.com>\n"
 "Language-Team: Russian (http://www.transifex.com/projects/p/comps/language/"
 "ru/)\n"
@@ -1472,7 +1472,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr "Ядро сервера Fedora"
+msgstr "Ядро Fedora Server"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
@@ -1507,8 +1507,8 @@ msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr ""
-"Эта группа пакетов делает возможным доступ к файлам между системами Linux и "
-"MS Windows(tm)."
+"Эта группа пакетов делает возможным совместный доступ к файлам из систем "
+"Linux и MS Windows(tm)."
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
 #: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270 ../comps-el5.xml.in.h:57
@@ -1521,8 +1521,8 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"От записи CD до проигрывания звуковых дисков и MP3, эта группа пакетов "
-"позволяет работать со звуком и видео в системе."
+"Эта группа пакетов позволяет работать со звуком и видео в системе - от "
+"записи CD до проигрывания звуковых дисков и мультимедийных файлов."
 
 #: ../comps-f22.xml.in.h:261 ../comps-f23.xml.in.h:259
 #: ../comps-f24.xml.in.h:272 ../comps-f25.xml.in.h:272
@@ -1543,7 +1543,7 @@ msgstr "Стандартные"
 #: ../comps-f24.xml.in.h:275 ../comps-f25.xml.in.h:275
 msgid "Common set of utilities that extend the minimal installation."
 msgstr ""
-"Стандартный набор программ, дополняющих и расширяющих минимальную установку."
+"Обычный набор программ, дополняющих и расширяющих минимальную установку."
 
 #: ../comps-f22.xml.in.h:265 ../comps-f23.xml.in.h:263
 #: ../comps-f24.xml.in.h:276 ../comps-f25.xml.in.h:276
@@ -1576,8 +1576,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Эта группа содержит различные системные утилиты, такие как приложения для "
-"доступа к SMB-серверам и программы для мониторинга сетевого трафика."
+"Эта группа содержит различные системные утилиты, как например, приложения "
+"для доступа к SMB-серверам и программы для мониторинга сетевого трафика."
 
 #: ../comps-f22.xml.in.h:271 ../comps-f23.xml.in.h:269
 #: ../comps-f24.xml.in.h:282 ../comps-f25.xml.in.h:282
@@ -1594,7 +1594,7 @@ msgstr "Поддержка языка телугу"
 #: ../comps-f22.xml.in.h:273 ../comps-f23.xml.in.h:271
 #: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284 ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
-msgstr "Текстовый Интернет"
+msgstr "Текстовые средства Интернет"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
@@ -1602,7 +1602,7 @@ msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Эта группа включает в себя клиентские приложения с текстовым интерфейсом "
+"В эту группу входят клиентские приложения с текстовым интерфейсом "
 "пользователя для электронной почты, веб и чатов. Эти приложения не нуждаются "
 "в X Window System."
 
@@ -1642,7 +1642,7 @@ msgstr "Поддержка языка урду"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr "Vargant с поддержкой libvirt."
+msgstr "Vargant с поддержкой libvirt"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
@@ -1663,7 +1663,7 @@ msgstr "Виртуализация"
 
 #: ../comps-f22.xml.in.h:285
 msgid "These packages provide a virtualization environment."
-msgstr "Эти пакеты обеспечивают окружение виртуализации."
+msgstr "Эти пакеты обеспечивают среду виртуализации."
 
 #: ../comps-f22.xml.in.h:286 ../comps-f23.xml.in.h:288
 #: ../comps-f24.xml.in.h:301 ../comps-f25.xml.in.h:301
@@ -1673,7 +1673,7 @@ msgstr "Базовый веб-сервер"
 #: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:289
 #: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302 ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
-msgstr "Эти средства позволяют использовать систему как веб-сервер"
+msgstr "Эти средства позволяют запускать в системе веб-сервер."
 
 #: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:290
 #: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303 ../comps-el5.xml.in.h:67
@@ -1690,7 +1690,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr "Ядро рабочей станции Fedora"
+msgstr "Ядро Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
@@ -1728,8 +1728,7 @@ msgstr "Xfce"
 #: ../comps-f24.xml.in.h:312 ../comps-f25.xml.in.h:312
 #: ../comps-el6.xml.in.h:290 ../comps-epel7.xml.in.h:292
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr ""
-"Облегчённая версия окружения рабочего стола, подходящая для слабых машин."
+msgstr "Облегчённая среда рабочего стола, подходящая для слабых машин."
 
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
@@ -1816,7 +1815,7 @@ msgstr "Рабочая среда Xfce"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
 msgid "Fedora Server"
-msgstr "Сервер Fedora"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1829,14 +1828,14 @@ msgstr "Интегрированный, простой в управлении �
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
 msgid "Fedora Workstation"
-msgstr "Рабочая станция Fedora"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
-"Рабочая станция Fedora представляет собой дружелюбную настольную систему для "
+"Fedora Workstation представляет собой дружелюбную настольную систему для "
 "ноутбуков и ПК."
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
@@ -1863,13 +1862,13 @@ msgstr "Рабочая среда MATE"
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
 msgid "Fedora Cloud Server"
-msgstr "Облачный сервер Fedora"
+msgstr "Fedora Cloud Server"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
 msgid "A server install with components needed to run in a cloud environment."
 msgstr ""
-"Серверная инсталляция с компонентами, необходимыми для запуска облачного "
+"Серверная установка с компонентами, необходимыми для запуска облачного "
 "окружения."
 
 #: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:329
@@ -1924,9 +1923,10 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
-"KDE SC включает в свой состав рабочий стол KDE Plasma &mdash; настраиваемый "
+"В состав KDE SC входит рабочий стол KDE Plasma &mdash; настраиваемый "
 "графический интерфейс, предоставляющий панель приложений, рабочий стол, "
-"системные значки, виджеты рабочего стола и другие мощные приложения KDE."
+"системные значки, виджеты рабочего стола и другие эффективные приложения KDE."
+""
 
 #: ../comps-f22.xml.in.h:336 ../comps-f23.xml.in.h:338
 #: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354 ../comps-el5.xml.in.h:73
@@ -1975,7 +1975,7 @@ msgstr "Базовая система"
 #: ../comps-f22.xml.in.h:344 ../comps-f23.xml.in.h:346
 #: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362 ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
-msgstr "Различные ключевые компоненты системы"
+msgstr "Различные ключевые компоненты системы."
 
 #: ../comps-f22.xml.in.h:345 ../comps-f23.xml.in.h:347
 #: ../comps-f24.xml.in.h:363 ../comps-f25.xml.in.h:363
@@ -1985,12 +1985,12 @@ msgstr "Содержимое"
 #: ../comps-f22.xml.in.h:346 ../comps-f23.xml.in.h:348
 #: ../comps-f24.xml.in.h:364 ../comps-f25.xml.in.h:364
 msgid "Text and other Free content."
-msgstr "Текст и другое открытое содержимое"
+msgstr "Текст и другое открытое содержимое."
 
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr "Эти пакеты предоставляют графическое окружение виртуализации."
+msgstr "Эти пакеты предоставляют графическую среду виртуализации."
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
@@ -2000,7 +2000,7 @@ msgstr "Виртуализация \"без монитора\""
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
 msgid "These packages provide a headless virtualization environment."
-msgstr "Эти пакеты предоставляют окружение виртуализации \"без монитора\"."
+msgstr "Эти пакеты предоставляют среду виртуализации \"без монитора\"."
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
@@ -2044,8 +2044,8 @@ msgid ""
 "environment that adapts to desktop and mobile devices."
 msgstr ""
 "Hawaii представляет собой быстрый, легковесный, интуитивный и дружелюбный "
-"рабочий стол Wayland, который адаптируется как рабочий стол и как мобильные "
-"устройства."
+"рабочий стол Wayland, который адаптируется к настольным и мобильным "
+"устройствам."
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
@@ -2150,24 +2150,24 @@ msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr ""
-"Эти средства включают основные средства разработки, такие как automake, gcc, "
-"perl, python и отладчики."
+"Эти средства включают основные средства разработки, как например, automake, "
+"gcc, perl, python и отладчики."
 
 #: ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
-msgstr "Удалённый доступ к сети"
+msgstr "Доступ к сети по дозвону"
 
 #: ../comps-el5.xml.in.h:18
 msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"Эти программы, иногда называемые текстовыми редакторами, позволяют "
-"редактировать тексты. Включают Emacs и Vi."
+"Эти программы, иногда называемые текстовыми редакторами, дают возможность "
+"редактировать тексты. В том числе Emacs и Vi."
 
 #: ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
-msgstr "Инструменты разработки и симуляции для инженеров оборудования"
+msgstr "Инструменты разработки и моделирования для инженеров оборудования"
 
 #: ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
@@ -2182,13 +2182,13 @@ msgid ""
 "GNOME is a powerful, graphical user interface which includes a panel, "
 "desktop, system icons, and a graphical file manager."
 msgstr ""
-"GNOME — это мощный графический интерфейс пользователя, который включает "
+"GNOME — это эффективный графический интерфейс пользователя, который включает "
 "панель, рабочий стол, системные пиктограммы и графический менеджер файлов."
 
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
 msgstr ""
-"Эта группа включает графические клиенты электронной почты, веб и чата."
+"В эту группу входят графические клиенты электронной почты, веб и чата."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
@@ -2211,7 +2211,7 @@ msgid ""
 "KDE is a powerful, graphical user interface which includes a panel, desktop, "
 "system icons, and a graphical file manager."
 msgstr ""
-"KDE &mdash; это мощный графический интерфейс, включающий в себя панель "
+"KDE &mdash; это эффективный графический интерфейс, включающий в себя панель "
 "приложений, рабочий стол, системные значки и графический менеджер файлов."
 
 #: ../comps-el5.xml.in.h:48
@@ -2220,7 +2220,7 @@ msgstr "Установите эти пакеты для разработки п�
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "Эта группа содержит набор сетевых серверов"
+msgstr "Эта группа содержит набор специальных сетевых серверов"
 
 #: ../comps-el5.xml.in.h:62
 msgid ""
@@ -2238,7 +2238,8 @@ msgstr "Веб-программирование"
 #: ../comps-el5.xml.in.h:64
 msgid ""
 "These packages are helpful when developing web applications or web pages."
-msgstr "Эти пакеты позволяют разрабатывать веб-приложения или веб-страницы."
+msgstr ""
+"Эти пакеты дают возможность разрабатывать веб-приложения или веб-страницы."
 
 #: ../comps-el5.xml.in.h:69
 msgid "XEmacs"
@@ -2246,7 +2247,7 @@ msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:70
 msgid "The XEmacs text editor."
-msgstr "Текстовый редактор XEmacs"
+msgstr "Текстовый редактор XEmacs."
 
 #: ../comps-el5.xml.in.h:71
 msgid "Desktop Environments"
@@ -2262,7 +2263,7 @@ msgstr "Приложения для выполнения различных за
 
 #: ../comps-el6.xml.in.h:1 ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
-msgstr "Дополнительная разработка"
+msgstr "Дополнительные средства разработки"
 
 #: ../comps-el6.xml.in.h:2 ../comps-epel7.xml.in.h:2
 msgid ""
@@ -2294,7 +2295,7 @@ msgstr "Клиент резервного копирования"
 msgid "Client tools for connecting to a backup server and doing backups."
 msgstr ""
 "Клиентские средства для подключения к серверу резервного копирования и "
-"осуществления резервных копий."
+"осуществления резервного копирования."
 
 #: ../comps-el6.xml.in.h:12 ../comps-epel7.xml.in.h:12
 msgid "Backup Server"
@@ -2303,7 +2304,7 @@ msgstr "Резервный сервер"
 #: ../comps-el6.xml.in.h:13 ../comps-epel7.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
 msgstr ""
-"Программное обеспечение для централизации резервного копирования вашей "
+"Программное обеспечение для централизации резервного копирования "
 "инфраструктуры."
 
 #: ../comps-el6.xml.in.h:14 ../comps-epel7.xml.in.h:14
@@ -2999,7 +3000,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:214 ../comps-epel7.xml.in.h:216
 msgid "Server Policy"
-msgstr "Политика сервера"
+msgstr "Политики сервера"
 
 #: ../comps-el6.xml.in.h:215 ../comps-epel7.xml.in.h:217
 msgid "Policy packages for the Server variant."
@@ -3167,7 +3168,7 @@ msgstr "Среда для разработки приложений TurboGears"
 
 #: ../comps-el6.xml.in.h:262 ../comps-epel7.xml.in.h:264
 msgid "TurboGears web application framework."
-msgstr "Среда для разработки веб-приложений."
+msgstr "Среда для разработки веб-приложений TurboGears."
 
 #: ../comps-el6.xml.in.h:263 ../comps-epel7.xml.in.h:265
 msgid "Turkish Support"
