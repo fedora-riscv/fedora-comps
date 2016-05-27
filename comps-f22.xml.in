@@ -4314,7 +4314,6 @@
       <packagereq>compiz-plugins-main</packagereq>
       <packagereq>emerald</packagereq>
       <packagereq>emerald-themes</packagereq>
-      <packagereq>emerald-themes-extra</packagereq>
       <packagereq>fusion-icon</packagereq>
       <packagereq>libcompizconfig</packagereq>
       <packagereq>simple-ccsm</packagereq>
