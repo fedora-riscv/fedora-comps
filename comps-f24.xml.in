@@ -113,6 +113,17 @@
     </packagelist>
   </group>
   <group>
+    <id>arm-tools</id>
+    <_name>Tools for working with arm systems</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>fedora-arm-installer</packagereq>
+      <packagereq>uboot-images-armv7</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>assamese-support</id>
     <_name>Assamese Support</_name>
     <_description/>
@@ -6944,6 +6955,7 @@
     </grouplist>
     <optionlist>
       <groupid>ansible-node</groupid>
+      <groupid>arm-tools</groupid>
       <groupid>container-management</groupid>
       <groupid>dogtag</groupid>
       <groupid>domain-client</groupid>
@@ -6988,6 +7000,9 @@
       <groupid>printing</groupid>
       <groupid>workstation-product</groupid>
     </grouplist>
+    <optionlist>
+      <groupid>arm-tools</groupid>
+    </optionlist>
   </environment>
   <environment>
     <id>lxde-desktop-environment</id>
