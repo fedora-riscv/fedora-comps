@@ -4921,8 +4921,8 @@
   -->
   <group>
     <id>platform-vmware</id>
-    <_name>platform-vmware</_name>
-    <_description>packages to install in vmware virtual machines</_description>
+    <_name>VMware Platform Support</_name>
+    <_description>Packages to install in VMware virtual machines</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
