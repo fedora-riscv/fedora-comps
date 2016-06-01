@@ -3026,6 +3026,7 @@
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
+      <packagereq type="optional">radeontop</packagereq>
       <packagereq type="optional">wpan-tools</packagereq>
     </packagelist>
   </group>
