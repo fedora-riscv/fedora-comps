@@ -554,7 +554,7 @@
       <packagereq>nemo-image-converter</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
+      <packagereq>NetworkManager-l2tp-gnome</packagereq>
       <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
