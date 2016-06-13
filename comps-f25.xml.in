@@ -5337,7 +5337,6 @@
       <packagereq type="default">scapy</packagereq>
       <packagereq type="default">screen</packagereq>
       <packagereq type="default">scrub</packagereq>
-      <packagereq type="default">sectool-gui</packagereq>
       <packagereq type="default">siege</packagereq>
       <packagereq type="default">sing</packagereq>
       <packagereq type="default">sipp</packagereq>
