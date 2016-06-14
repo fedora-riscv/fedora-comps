@@ -114,7 +114,7 @@
   </group>
   <group>
     <id>arm-tools</id>
-    <_name>Tools for working with arm systems</_name>
+    <_name>ARM Tools</_name>
     <_description>Tools for working with arm systems</_description>
     <default>false</default>
     <uservisible>false</uservisible>
