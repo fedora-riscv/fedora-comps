@@ -5083,7 +5083,6 @@
       <packagereq type="default">mutt</packagereq>
       <packagereq type="default">nano</packagereq>
       <packagereq type="default">nbtscan</packagereq>
-      <packagereq type="default">nc</packagereq>
       <packagereq type="default">nc6</packagereq>
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
@@ -5096,6 +5095,7 @@
       <packagereq type="default">nload</packagereq>
       <packagereq type="default">nmap</packagereq>
       <packagereq type="default">nmap-frontend</packagereq>
+      <packagereq type="default">nmap-ncat</packagereq>
       <packagereq type="default">nmbscan</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
