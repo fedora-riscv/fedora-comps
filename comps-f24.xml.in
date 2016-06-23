@@ -2,6 +2,28 @@
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
+    <id>3d-printing</id>
+    <_name>3D Printing</_name>
+    <_description>3D printing software</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">admesh</packagereq>
+      <packagereq type="default">blender</packagereq>
+      <packagereq type="default">cura</packagereq>
+      <packagereq type="default">cura-lulzbot</packagereq>
+      <packagereq type="default">meshlab</packagereq>
+      <packagereq type="default">openscad</packagereq>
+      <packagereq type="default">openscad-MCAD</packagereq>
+      <packagereq type="default">printrun</packagereq>
+      <packagereq type="default">slic3r</packagereq>
+      <packagereq type="optional">RepetierHost</packagereq>
+      <packagereq type="optional">repsnapper</packagereq>
+      <packagereq type="optional">sfact</packagereq>
+      <packagereq type="optional">skeinforge</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>admin-tools</id>
     <_name>Administration Tools</_name>
     <_description>This group is a collection of graphical administration tools for the system, such as for managing user accounts and configuring system hardware.</_description>
@@ -520,8 +542,8 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
-      <packagereq>brasero</packagereq>
       <packagereq>blueman</packagereq>
+      <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
@@ -550,26 +572,26 @@
       <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>nemo-fileroller</packagereq>
-      <packagereq>nemo-preview</packagereq>
       <packagereq>nemo-image-converter</packagereq>
+      <packagereq>nemo-preview</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
-      <packagereq>NetworkManager-l2tp-gnome</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp-gnome</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>redshift</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-printer</packagereq>
-      <packagereq>redshift</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
     </packagelist>
@@ -610,8 +632,8 @@
       <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
       <packagereq type="default">python-boto</packagereq>
       <packagereq type="default">python-libcloud</packagereq>
-      <packagereq type="optional">python-openstackclient</packagereq>
       <packagereq type="default">rubygem-amazon-ec2</packagereq>
+      <packagereq type="optional">python-openstackclient</packagereq>
       <packagereq type="optional">rubygem-amazon-ec2-doc</packagereq>
     </packagelist>
   </group>
@@ -1167,9 +1189,9 @@
       <packagereq type="mandatory">adcli</packagereq>
       <packagereq type="mandatory">freeipa-client</packagereq>
       <packagereq type="mandatory">oddjob-mkhomedir</packagereq>
+      <packagereq type="mandatory">samba-common-tools</packagereq>
       <packagereq type="mandatory">samba-winbind</packagereq>
       <packagereq type="mandatory">sssd</packagereq>
-      <packagereq type="mandatory">samba-common-tools</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1440,8 +1462,8 @@
       <packagereq type="mandatory">maxima</packagereq>
       <packagereq type="mandatory">octave</packagereq>
       <packagereq type="mandatory">python2-matplotlib</packagereq>
-      <packagereq type="mandatory">R</packagereq>
       <packagereq type="mandatory">python2-scipy</packagereq>
+      <packagereq type="mandatory">R</packagereq>
       <packagereq type="mandatory">speedcrunch</packagereq>
       <packagereq type="mandatory">texmaker</packagereq>
       <packagereq type="mandatory">transfig</packagereq>
@@ -1748,7 +1770,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-    	<packagereq type="default">aajohan-comfortaa-fonts</packagereq>
+      <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
       <packagereq type="default">adobe-source-han-sans-cn-fonts</packagereq>
       <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
@@ -2561,7 +2583,6 @@
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <!-- Only modules in upstream meta-gnome-core or meta-gnome-core-deps are allowed here. -->
     <packagelist>
       <packagereq>at-spi2-atk</packagereq>
       <packagereq>at-spi2-core</packagereq>
@@ -3125,8 +3146,8 @@
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">rolekit</packagereq>
-      <packagereq type="optional">cockpit-pcp</packagereq>
       <packagereq type="optional">cockpit-kubernetes</packagereq>
+      <packagereq type="optional">cockpit-pcp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3193,10 +3214,10 @@
       <packagereq type="conditional" requires="mate-settings-daemon">imsettings-mate</packagereq>
       <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
-      <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-kkc</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
+      <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-rawcode</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
@@ -3497,19 +3518,19 @@
       <packagereq>kdelibs</packagereq>
       <packagereq>kdepasswd</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
-      <packagereq>kdnssd</packagereq>
       <packagereq>kdialog</packagereq>
+      <packagereq>kdnssd</packagereq>
       <packagereq>keditbookmarks</packagereq>
       <packagereq>kf5-akonadi-server</packagereq>
       <packagereq>kf5-akonadi-server-mysql</packagereq>
       <packagereq>kf5-baloo-file</packagereq>
+      <packagereq>kf5-kipi-plugins</packagereq>
       <packagereq>kfind</packagereq>
       <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
-      <packagereq>kf5-kipi-plugins</packagereq>
       <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>knode</packagereq>
@@ -3998,7 +4019,6 @@
     not all packages are available on all arches so we are using a comps
     group to be able to ensure they exist
   -->
-
   <group>
     <id>livecd-tools</id>
     <_name>LiveCD Tools</_name>
@@ -4006,8 +4026,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>dracut-live</packagereq>
       <packagereq>dracut-config-generic</packagereq>
+      <packagereq>dracut-live</packagereq>
       <packagereq>grub2-efi</packagereq>
       <packagereq>kernel</packagereq>
       <packagereq>kernel-modules</packagereq>
@@ -4132,9 +4152,14 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>ark</packagereq>
+      <packagereq>breeze-cursor-theme</packagereq>
+      <packagereq>breeze-gtk</packagereq>
+      <packagereq>breeze-icon-theme</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>kwin</packagereq>
       <packagereq>lxqt-about</packagereq>
       <packagereq>lxqt-common</packagereq>
       <packagereq>lxqt-config</packagereq>
@@ -4152,9 +4177,6 @@
       <packagereq>notification-daemon</packagereq>
       <packagereq>obconf</packagereq>
       <packagereq>openbox</packagereq>
-      <packagereq>breeze-icon-theme</packagereq>
-      <packagereq>breeze-gtk</packagereq>
-      <packagereq>breeze-cursor-theme</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>qterminal-qt5</packagereq>
@@ -4162,8 +4184,6 @@
       <packagereq>sddm</packagereq>
       <packagereq>sddm-breeze</packagereq>
       <packagereq>upower</packagereq>
-      <packagereq>ark</packagereq>
-      <packagereq>kwin</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
     </packagelist>
   </group>
@@ -4331,11 +4351,11 @@
       <packagereq>ccsm</packagereq>
       <packagereq>compiz</packagereq>
       <packagereq>compiz-bcop</packagereq>
-      <packagereq>compizconfig-python</packagereq>
       <packagereq>compiz-manager</packagereq>
       <packagereq>compiz-plugins-experimental</packagereq>
       <packagereq>compiz-plugins-extra</packagereq>
       <packagereq>compiz-plugins-main</packagereq>
+      <packagereq>compizconfig-python</packagereq>
       <packagereq>emerald</packagereq>
       <packagereq>emerald-themes</packagereq>
       <packagereq>fusion-icon</packagereq>
@@ -4365,8 +4385,8 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f24-backgrounds-extras-base</packagereq>
       <packagereq>f24-backgrounds-base</packagereq>
+      <packagereq>f24-backgrounds-extras-base</packagereq>
       <packagereq>f24-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
@@ -4421,17 +4441,17 @@
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
+      <packagereq>NetworkManager-openconnect</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
-      <packagereq>parole</packagereq>
-      <packagereq>pluma</packagereq>
       <packagereq>p7zip</packagereq>
       <packagereq>p7zip-plugins</packagereq>
+      <packagereq>parole</packagereq>
+      <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
@@ -4730,6 +4750,21 @@
     </packagelist>
   </group>
   <group>
+    <id>odia-support</id>
+    <_name>Odia Support</_name>
+    <_description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <langonly>or</langonly>
+    <packagelist>
+      <packagereq type="mandatory">lohit-odia-fonts</packagereq>
+      <packagereq type="mandatory">m17n-db</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
+      <packagereq type="default">iok</packagereq>
+      <packagereq type="default">samyak-odia-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>office</id>
     <_name>Office/Productivity</_name>
     <_description>The applications include office suites, PDF viewers, and more.</_description>
@@ -4824,21 +4859,6 @@
       <packagereq type="conditional" requires="system-config-samba">system-config-samba-docs</packagereq>
       <packagereq type="conditional" requires="system-config-services">system-config-services-docs</packagereq>
       <packagereq type="conditional" requires="system-config-users">system-config-users-docs</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>odia-support</id>
-    <_name>Odia Support</_name>
-    <_description/>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <langonly>or</langonly>
-    <packagelist>
-      <packagereq type="mandatory">lohit-odia-fonts</packagereq>
-      <packagereq type="mandatory">m17n-db</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
-      <packagereq type="default">iok</packagereq>
-      <packagereq type="default">samyak-odia-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5156,8 +5176,8 @@
       <packagereq>rubygem-sqlite3</packagereq>
       <packagereq>rubygem-therubyracer</packagereq>
       <packagereq>rubygem-turbolinks</packagereq>
-      <packagereq>rubygem-web-console</packagereq>
       <packagereq>rubygem-uglifier</packagereq>
+      <packagereq>rubygem-web-console</packagereq>
       <packagereq>sqlite-devel</packagereq>
     </packagelist>
   </group>
@@ -5428,12 +5448,12 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">NetworkManager-team</packagereq>
-      <packagereq type="mandatory">fedora-release-server</packagereq>
       <packagereq type="mandatory">chrony</packagereq>
+      <packagereq type="mandatory">fedora-release-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
+      <packagereq type="default">NetworkManager-team</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5662,7 +5682,6 @@
     <_description>Common set of utilities that extend the minimal installation.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <!-- Note this group is NOT included in Fedora Workstation. -->
     <packagelist>
       <packagereq>abrt-cli</packagereq>
       <packagereq>acl</packagereq>
@@ -5837,9 +5856,9 @@
       <packagereq type="default">jigdo</packagereq>
       <packagereq type="default">libreswan</packagereq>
       <packagereq type="default">NetworkManager-l2tp</packagereq>
+      <packagereq type="default">NetworkManager-libreswan</packagereq>
       <packagereq type="default">NetworkManager-openconnect</packagereq>
       <packagereq type="default">NetworkManager-openvpn</packagereq>
-      <packagereq type="default">NetworkManager-libreswan</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">nmap</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
@@ -6142,28 +6161,6 @@
     </packagelist>
   </group>
   <group>
-    <id>3d-printing</id>
-    <_name>3D Printing</_name>
-    <_description>3D printing software</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="default">admesh</packagereq>
-      <packagereq type="default">blender</packagereq>
-      <packagereq type="default">cura</packagereq>
-      <packagereq type="default">cura-lulzbot</packagereq>
-      <packagereq type="default">meshlab</packagereq>
-      <packagereq type="default">openscad</packagereq>
-      <packagereq type="default">openscad-MCAD</packagereq>
-      <packagereq type="default">printrun</packagereq>
-      <packagereq type="optional">RepetierHost</packagereq>
-      <packagereq type="optional">repsnapper</packagereq>
-      <packagereq type="optional">sfact</packagereq>
-      <packagereq type="optional">skeinforge</packagereq>
-      <packagereq type="default">slic3r</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>tibetan-support</id>
     <_name>Tibetan Support</_name>
     <_description/>
@@ -6310,8 +6307,8 @@
       <packagereq type="mandatory">virt-install</packagereq>
       <packagereq type="default">libvirt-daemon-config-network</packagereq>
       <packagereq type="default">libvirt-daemon-kvm</packagereq>
-      <packagereq type="default">systemd-container</packagereq>
       <packagereq type="default">qemu-kvm</packagereq>
+      <packagereq type="default">systemd-container</packagereq>
       <packagereq type="optional">guestfs-browser</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">python-libguestfs</packagereq>
@@ -6453,12 +6450,12 @@
       <packagereq>gnupg2</packagereq>
       <packagereq>google-android-emoji-fonts</packagereq>
       <packagereq>hunspell</packagereq>
-      <packagereq>ibus-libzhuyin</packagereq>
       <packagereq>ibus-gtk2</packagereq>
       <packagereq>ibus-gtk3</packagereq>
       <packagereq>ibus-hangul</packagereq>
       <packagereq>ibus-kkc</packagereq>
       <packagereq>ibus-libpinyin</packagereq>
+      <packagereq>ibus-libzhuyin</packagereq>
       <packagereq>ibus-m17n</packagereq>
       <packagereq>ibus-qt</packagereq>
       <packagereq>ibus-rawcode</packagereq>
@@ -6617,12 +6614,12 @@
       <packagereq>claws-mail-plugins-tnef</packagereq>
       <packagereq>claws-mail-plugins-vcalendar</packagereq>
       <packagereq>evince</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>florence</packagereq>
       <packagereq>galculator</packagereq>
       <packagereq>geany</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>leafpad</packagereq>
-      <packagereq>firefox</packagereq>
-      <packagereq>florence</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>ristretto</packagereq>
@@ -6685,8 +6682,8 @@
       <packagereq>xfce4-datetime-plugin</packagereq>
       <packagereq>xfce4-panel</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
-      <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-power-manager</packagereq>
+      <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
       <packagereq>xfce4-session</packagereq>
       <packagereq>xfce4-session-engines</packagereq>
@@ -6825,36 +6822,9 @@
     </packagelist>
   </group>
   <environment>
-    <id>hawaii-desktop-environment</id>
-    <_name>Hawaii Desktop</_name>
-    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
-    <display_order>21</display_order>
-    <grouplist>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
-      <groupid>admin-tools</groupid>
-      <groupid>dial-up</groupid>
-      <groupid>fonts</groupid>
-      <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
-      <groupid>networkmanager-submodules</groupid>
-      <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
-      <groupid>guest-desktop-agents</groupid>
-      <groupid>hawaii-desktop</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid>hawaii-apps</groupid>
-      <groupid>hawaii-media</groupid>
-      <groupid>hawaii-office</groupid>
-      <groupid>3d-printing</groupid>
-      <groupid>cloud-management</groupid>
-    </optionlist>
-  </environment>
-  <environment>
-    <id>minimal-environment</id>
-    <_name>Minimal Install</_name>
-    <_description>Basic functionality.</_description>
+    <id>custom-environment</id>
+    <_name>Fedora Custom Operating System</_name>
+    <_description>Basic building block for a custom Fedora system.</_description>
     <display_order>1</display_order>
     <grouplist>
       <groupid>core</groupid>
@@ -6865,9 +6835,9 @@
     </optionlist>
   </environment>
   <environment>
-    <id>custom-environment</id>
-    <_name>Fedora Custom Operating System</_name>
-    <_description>Basic building block for a custom Fedora system.</_description>
+    <id>minimal-environment</id>
+    <_name>Minimal Install</_name>
+    <_description>Basic functionality.</_description>
     <display_order>1</display_order>
     <grouplist>
       <groupid>core</groupid>
@@ -7031,6 +7001,33 @@
       <groupid>lxde-apps</groupid>
       <groupid>lxde-media</groupid>
       <groupid>lxde-office</groupid>
+      <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>hawaii-desktop-environment</id>
+    <_name>Hawaii Desktop</_name>
+    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
+    <display_order>21</display_order>
+    <grouplist>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>hawaii-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>hawaii-apps</groupid>
+      <groupid>hawaii-media</groupid>
+      <groupid>hawaii-office</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
     </optionlist>
@@ -7316,18 +7313,6 @@
     </optionlist>
   </environment>
   <category>
-    <id>hawaii-desktop-environment</id>
-    <_name>Hawaii Desktop</_name>
-    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
-    <display_order>24</display_order>
-    <grouplist>
-      <groupid>hawaii-apps</groupid>
-      <groupid>hawaii-desktop</groupid>
-      <groupid>hawaii-media</groupid>
-      <groupid>hawaii-office</groupid>
-    </grouplist>
-  </category>
-  <category>
     <id>kde-desktop-environment</id>
     <_name>KDE Desktop</_name>
     <_description>The KDE SC includes the KDE Plasma Desktop, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
@@ -7421,6 +7406,18 @@
       <groupid>mate-applications</groupid>
       <groupid>mate-compiz</groupid>
       <groupid>mate-desktop</groupid>
+    </grouplist>
+  </category>
+  <category>
+    <id>hawaii-desktop-environment</id>
+    <_name>Hawaii Desktop</_name>
+    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
+    <display_order>24</display_order>
+    <grouplist>
+      <groupid>hawaii-apps</groupid>
+      <groupid>hawaii-desktop</groupid>
+      <groupid>hawaii-media</groupid>
+      <groupid>hawaii-office</groupid>
     </grouplist>
   </category>
   <category>
