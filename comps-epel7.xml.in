@@ -204,7 +204,7 @@
       <packagereq type="mandatory">shadow-utils</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="mandatory">unzip</packagereq>
-      <packagereq type="mandatory">util-linux-ng</packagereq>
+      <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">which</packagereq>
       <packagereq type="mandatory">xz</packagereq>
     </packagelist>
