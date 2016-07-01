@@ -3100,7 +3100,7 @@
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>qt5-qtwayland</packagereq>
       <packagereq>qterminal-qt5</packagereq>
-      <packagereq>qupzilla</packagereq>
+      <packagereq>otter-browser</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-theme-hawaii</packagereq>
       <packagereq>upower</packagereq>
