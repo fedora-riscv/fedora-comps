@@ -4181,6 +4181,7 @@
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>qterminal-qt5</packagereq>
       <packagereq>qupzilla</packagereq>
+      <packagereq>qupzilla-kwallet</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-breeze</packagereq>
       <packagereq>upower</packagereq>
