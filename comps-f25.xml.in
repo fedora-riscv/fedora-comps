@@ -5453,6 +5453,7 @@
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
+      <packagereq type="mandatory">timedatex</packagereq>
       <packagereq type="default">NetworkManager-team</packagereq>
     </packagelist>
   </group>
