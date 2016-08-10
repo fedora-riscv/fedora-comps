@@ -1377,6 +1377,7 @@
       <packagereq type="default">gpsim</packagereq>
       <packagereq type="default">gputils</packagereq>
       <packagereq type="default">gresistor</packagereq>
+      <packagereq type="default">gr-osmosdr</packagereq>
       <packagereq type="default">gsim85</packagereq>
       <packagereq type="default">gspiceui</packagereq>
       <packagereq type="default">gtkterm</packagereq>
@@ -1424,6 +1425,7 @@
       <packagereq type="default">python-myhdl</packagereq>
       <packagereq type="default">qtoctave</packagereq>
       <packagereq type="default">qucs</packagereq>
+      <packagereq type="default">rtl-sdr</packagereq>
       <packagereq type="default">sdcc</packagereq>
       <packagereq type="default">sigrok-cli</packagereq>
       <packagereq type="default">sigrok-firmware-fx2lafw</packagereq>
