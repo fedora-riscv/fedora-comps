@@ -911,6 +911,9 @@
       <packagereq type="default">font-manager</packagereq>
       <packagereq type="default">fontforge</packagereq>
       <packagereq type="default">gimp</packagereq>
+      <packagereq type="default">google-roboto-fonts</packagereq>
+      <packagereq type="default">google-roboto-condensed-fonts</packagereq>
+      <packagereq type="default">google-roboto-slab-fonts</packagereq>
       <packagereq type="default">gpick</packagereq>
       <packagereq type="default">GraphicsMagick</packagereq>
       <packagereq type="default">hugin</packagereq>
@@ -936,8 +939,10 @@
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">LuxRender</packagereq>
+      <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">openclipart</packagereq>
       <packagereq type="optional">pencil</packagereq>
+      <packagereq type="optional">rapid-photo-downloader</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">YafaRay</packagereq>
     </packagelist>
