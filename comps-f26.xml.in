@@ -896,7 +896,7 @@
     <packagelist>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dbp</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-dds</packagereq>
+      <packagereq type="conditional" requires="gimp">gimp-dds-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-elsamuko</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-fourier-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-gap</packagereq>
