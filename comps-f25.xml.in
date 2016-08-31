@@ -2618,6 +2618,7 @@
       <packagereq>gnome-bluetooth</packagereq>
       <packagereq>gnome-boxes</packagereq>
       <packagereq>gnome-calculator</packagereq>
+      <packagereq>gnome-calendar</packagereq>
       <packagereq>gnome-characters</packagereq>
       <packagereq>gnome-classic-session</packagereq>
       <packagereq>gnome-clocks</packagereq>
