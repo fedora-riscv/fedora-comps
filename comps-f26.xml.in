@@ -2667,7 +2667,6 @@
       <packagereq>polkit</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
-      <packagereq>seahorse</packagereq>
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
@@ -6502,6 +6501,7 @@
       <packagereq>rp-pppoe</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>scl-utils</packagereq>
+      <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>shotwell</packagereq>
