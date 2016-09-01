@@ -5148,8 +5148,6 @@
       <packagereq type="mandatory">ruby</packagereq>
       <packagereq type="default">ruby-devel</packagereq>
       <packagereq type="default">rubygem-abrt</packagereq>
-      <packagereq type="optional">eruby</packagereq>
-      <packagereq type="optional">rubygem-rdoc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5160,17 +5158,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>nodejs</packagereq>
-      <packagereq>ruby</packagereq>
       <packagereq>ruby-devel</packagereq>
-      <packagereq>ruby-irb</packagereq>
-      <packagereq>ruby-libs</packagereq>
       <packagereq>rubygem-abrt</packagereq>
-      <packagereq>rubygem-actionmailer</packagereq>
-      <packagereq>rubygem-actionpack</packagereq>
-      <packagereq>rubygem-actionview</packagereq>
-      <packagereq>rubygem-activemodel</packagereq>
-      <packagereq>rubygem-activerecord</packagereq>
-      <packagereq>rubygem-activesupport</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
       <packagereq>rubygem-bigdecimal</packagereq>
       <packagereq>rubygem-bundler</packagereq>
@@ -5179,12 +5168,14 @@
       <packagereq>rubygem-jbuilder</packagereq>
       <packagereq>rubygem-jquery-rails</packagereq>
       <packagereq>rubygem-json</packagereq>
+      <packagereq>rubygem-listen</packagereq>
       <packagereq>rubygem-minitest</packagereq>
       <packagereq>rubygem-rails</packagereq>
       <packagereq>rubygem-rake</packagereq>
       <packagereq>rubygem-sass-rails</packagereq>
       <packagereq>rubygem-sdoc</packagereq>
       <packagereq>rubygem-spring</packagereq>
+      <packagereq>rubygem-spring-watcher-listen</packagereq>
       <packagereq>rubygem-sqlite3</packagereq>
       <packagereq>rubygem-turbolinks</packagereq>
       <packagereq>rubygem-uglifier</packagereq>

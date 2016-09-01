@@ -5137,8 +5137,6 @@
       <packagereq type="mandatory">ruby</packagereq>
       <packagereq type="default">ruby-devel</packagereq>
       <packagereq type="default">rubygem-abrt</packagereq>
-      <packagereq type="optional">eruby</packagereq>
-      <packagereq type="optional">rubygem-rdoc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5148,17 +5146,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>ruby</packagereq>
       <packagereq>ruby-devel</packagereq>
-      <packagereq>ruby-irb</packagereq>
-      <packagereq>ruby-libs</packagereq>
       <packagereq>rubygem-abrt</packagereq>
-      <packagereq>rubygem-actionmailer</packagereq>
-      <packagereq>rubygem-actionpack</packagereq>
-      <packagereq>rubygem-actionview</packagereq>
-      <packagereq>rubygem-activemodel</packagereq>
-      <packagereq>rubygem-activerecord</packagereq>
-      <packagereq>rubygem-activesupport</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
       <packagereq>rubygem-bigdecimal</packagereq>
       <packagereq>rubygem-bundler</packagereq>
