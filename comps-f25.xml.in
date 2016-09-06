@@ -56,6 +56,7 @@
       <packagereq>grub2-efi</packagereq>
       <packagereq>hfsplus-tools</packagereq>
       <packagereq>iscsi-initiator-utils</packagereq>
+      <packagereq>kexec-tools-anaconda-addon</packagereq>
       <packagereq>lvm2</packagereq>
       <packagereq>mactel-boot</packagereq>
       <packagereq>mdadm</packagereq>
