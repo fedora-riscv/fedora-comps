@@ -100,6 +100,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">python2-dnf</packagereq>
+      <packagereq type="conditional" requires="selinux-policy">libselinux-python</packagereq>
     </packagelist>
   </group>
   <group>
