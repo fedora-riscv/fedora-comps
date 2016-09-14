@@ -16,6 +16,7 @@
 # Eduardo Mayorga Téllez <e@mayorgalinux.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Máximo Castañeda Riloba <mcrcctm@gmail.com>, 2016. #zanata
+# William  Moreno Reyes <williamjmorenor@gmail.com>, 2016. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -24,13 +25,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-23 06:41-0400\n"
-"Last-Translator: Máximo Castañeda Riloba <mcrcctm@gmail.com>\n"
+"PO-Revision-Date: 2016-09-07 07:42-0400\n"
+"Last-Translator: William  Moreno Reyes <williamjmorenor@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/comps/language/"
 "es/)\n"
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 3.9.5\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -94,8 +95,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Estas herramientas le permiten crear documentos en formato DocBook y "
-"convertirla a HTML, PDF, Postscript y texto."
+"Estas herramientas le permiten crear documentos en el formato DocBook y "
+"convertirlos a HTML, PDF, Postscript y texto."
 
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
@@ -115,17 +116,17 @@ msgstr "Escritorio Básico"
 #: ../comps-f22.xml.in.h:15 ../comps-f23.xml.in.h:13 ../comps-f24.xml.in.h:15
 #: ../comps-f25.xml.in.h:15
 msgid "Basic X Window System with a choice of window manager."
-msgstr "Sistema básico X Windows con un gestor de ventanas a elegir"
+msgstr "Sistema básico X Windows con un gestor de ventanas a elegir."
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
 #: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
-msgstr "Soporte para bengalí"
+msgstr "Soporte para Bengalí"
 
 #: ../comps-f22.xml.in.h:17 ../comps-f23.xml.in.h:15 ../comps-f24.xml.in.h:17
 #: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
-msgstr "Soporte para bhutanese"
+msgstr "Soporte para Bhutanese"
 
 #: ../comps-f22.xml.in.h:18 ../comps-f23.xml.in.h:16 ../comps-f24.xml.in.h:18
 #: ../comps-f25.xml.in.h:18
@@ -151,12 +152,12 @@ msgstr "Sistema de construcción"
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
 #: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
-msgstr "Soporte para Myanmar (burmese)"
+msgstr "Soporte para Myanmar (Burmese)"
 
 #: ../comps-f22.xml.in.h:23 ../comps-f23.xml.in.h:21 ../comps-f24.xml.in.h:23
 #: ../comps-f25.xml.in.h:23
 msgid "C Development Tools and Libraries"
-msgstr "Herramientas y Librerías de Desarrollo C"
+msgstr "Herramientas y Librerías de Desarrollo en C"
 
 #: ../comps-f22.xml.in.h:24 ../comps-f23.xml.in.h:22 ../comps-f24.xml.in.h:24
 #: ../comps-f25.xml.in.h:24

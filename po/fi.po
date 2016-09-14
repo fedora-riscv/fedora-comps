@@ -8,6 +8,7 @@
 # Lauri Nurmi <lanurmi@iki.fi>, 2003
 # Mikko Ikola <ikola@iki.fi>, 2004, 2005
 # Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>, 2011
+# Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 msgid ""
 msgstr ""
@@ -17,13 +18,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-11-20 06:35-0500\n"
-"Last-Translator: notting <notting@redhat.com>\n"
+"PO-Revision-Date: 2016-07-05 07:00-0400\n"
+"Last-Translator: Juhani Numminen <juhaninumminen0@gmail.com>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/comps/language/"
 "fi/)\n"
 "Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 3.9.5\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -68,13 +69,12 @@ msgstr "Assamin kielituki"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "Äänituotanto"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "Turvallisuustyökaluja eheyden ja luottamuksen varmentamiseen."
+msgstr "Äänisynteesi- ja musiikintuottotyökaluja"
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -93,7 +93,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
@@ -171,6 +171,8 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
+"Cinnamon on helppokäyttöinen, tehokas ja joustava työpöytä, jossa on "
+"perinteinen asettelu ja edistyneitä toimintoja."
 
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
@@ -184,39 +186,36 @@ msgstr "Infrastruktuuripaketteja pilvilaskentaan."
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Ohjelmistokehitystyökalut"
+msgstr "Pilvihallinta"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
-msgstr ""
+msgstr "Hallintaohjelmistoja pilvipalvelimille ja -järjestelmäkuville"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Pilvipalvelintyökalut"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
-msgstr ""
+msgstr "Ohjelmistoja pilvipalvelimille ja -järjestelmäkuville"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "Järjestelmänhallinta"
+msgstr "Container-hallinta"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "Keskuskoneen käyttöön tarvittavia työkaluja."
+msgstr "Linux container -hallintaan tarvittavia työkaluja"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
@@ -296,18 +295,16 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Kriittinen polku (LXDE)"
+msgstr "Kriittinen polku (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
-"Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden LXDE-"
+"Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden LXQt-"
 "työpöytäympäristössä"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
@@ -326,17 +323,16 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "C-kehitystyökalut ja -kirjastot"
+msgstr "D-kehitystyökalut ja -kirjastot"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
 msgstr ""
-"Nämä työkalut sisältävät yleisiä kehitystyökaluja, kuten gitin ja cvs:n."
+"Nämä työkalut sisältävät yleisiä kehitystyökaluja, kuten ldc:n ja geany-"
+"tagin."
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -344,13 +340,11 @@ msgid "Design Suite"
 msgstr "Suunnitteluohjelmat"
 
 #: ../comps-f22.xml.in.h:54 ../comps-f23.xml.in.h:52 ../comps-f24.xml.in.h:56
-#, fuzzy
 msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
 msgstr ""
-"Nämä paketit on tarkoitettu ammattilaissuunnittelijoille, kuten Fedoran "
-"suunnittelutiimille."
+"Nämä paketit on tarkoitettu graafiikka-, web- ja animaatiosuunnittelijoille"
 
 #: ../comps-f22.xml.in.h:55 ../comps-f23.xml.in.h:53 ../comps-f24.xml.in.h:57
 #: ../comps-f25.xml.in.h:57
@@ -373,10 +367,9 @@ msgstr "Ohjelmistokehitystyökalut"
 
 #: ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:56 ../comps-f24.xml.in.h:60
 #: ../comps-f25.xml.in.h:60
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
 msgstr ""
-"Nämä työkalut sisältävät yleisiä kehitystyökaluja, kuten gitin ja cvs:n."
+"Nämä työkalut sisältävät yleisiä kehitystyökaluja, kuten gitin ja CVS:n."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
 #: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
@@ -423,12 +416,12 @@ msgstr "Yritystasoinen avoimen lähdekoodin varmentaja (Certificate Authority)"
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "Toimialueet"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "Tuki FreeIPA- tai Active Directory -toimialueeseen liitymiselle"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -473,7 +466,6 @@ msgstr "Elektroniikkalaboratorio"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
 msgstr "Suunnittelu- ja simulointityökaluja laitteistoinsinööreille"
 
@@ -494,7 +486,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -502,6 +494,7 @@ msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment on nopea, modulaarinen ja laajennettava työpöytäympäristö."
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -526,9 +519,8 @@ msgstr "Fedora-paketoija"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Fedora-paketoijan tarvitsemia työkaluja ja ohjelmia."
+msgstr "Fedora-paketoijan tarvitsemia työkaluja ja ohjelmia"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -571,9 +563,8 @@ msgstr "Kirjasinpaketteja tekstin piirtämiseen työpöydällä."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP-palvelin"
+msgstr "FreeIPA-palvelin"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -581,6 +572,8 @@ msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Tarjoaa keskushakemiston tunnistautumiseen, käytäntöjen hallintaan ja "
+"valvontaan."
 
 #: ../comps-f22.xml.in.h:95 ../comps-f23.xml.in.h:93 ../comps-f24.xml.in.h:97
 #: ../comps-f25.xml.in.h:97 ../comps-el5.xml.in.h:27
@@ -649,7 +642,6 @@ msgstr "Graafinen Internet"
 
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
 msgstr ""
 "Tämä ryhmä sisältää graafisia sähköposti-, WWW- ja keskusteluohjelmia."
@@ -673,22 +665,22 @@ msgstr "Kreikan kielituki"
 #: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:109
 #: ../comps-f24.xml.in.h:113 ../comps-f25.xml.in.h:113
 msgid "Guest Agents"
-msgstr ""
+msgstr "Guest-agentit"
 
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Hypervisorin alaisuudessa käytettävät agentit"
 
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Guest-työpöytäagentit"
 
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Virtualisoidussa työpöydässä käytettävät agentit."
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
 #: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
@@ -699,22 +691,24 @@ msgstr "Gudžaratin kielituki"
 #: ../comps-f22.xml.in.h:116 ../comps-f23.xml.in.h:114
 #: ../comps-f24.xml.in.h:118 ../comps-f25.xml.in.h:118
 msgid "High Availability"
-msgstr ""
+msgstr "Korkea saatavuus"
 
 #: ../comps-f22.xml.in.h:117 ../comps-f23.xml.in.h:115
 #: ../comps-f24.xml.in.h:119 ../comps-f25.xml.in.h:119
 msgid "Infrastructure for highly available services and/or shared storage."
 msgstr ""
+"Infrastruktuuri korkean saatavuuden palveluille sekä jaetulle "
+"tallennustilalle."
 
 #: ../comps-f22.xml.in.h:118 ../comps-f23.xml.in.h:116
 #: ../comps-f24.xml.in.h:120 ../comps-f25.xml.in.h:120
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:117
 #: ../comps-f24.xml.in.h:121 ../comps-f25.xml.in.h:121
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP- ja HTTP-kuorman tasapainottaja."
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
 #: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122 ../comps-el5.xml.in.h:39
@@ -741,14 +735,14 @@ msgstr "Ohjelmistokehitystuki Haskell-ohjelmointikielelle."
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "Järjestelmänhallinta"
+msgstr "Järjestelmän etähallinta"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
 msgid "Tools for managing the system without an attached graphical console."
 msgstr ""
+"Työkaluja järjestelmän hallintaan ilman siihen liitettyä graafista konsolia."
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
 #: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
@@ -801,14 +795,13 @@ msgstr "Ohjelmistokehitystuki Java-ohjelmointikielelle."
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
-msgstr "JBoss-sovelluspalvelin"
+msgstr "Java-sovelluspalvelin."
 
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
 msgid "Java application server."
-msgstr ""
+msgstr "Java-sovelluspalvelin."
 
 #: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:135
 #: ../comps-f24.xml.in.h:146 ../comps-f25.xml.in.h:146
@@ -830,12 +823,12 @@ msgstr "KDE-sovellukset"
 #: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:138
 #: ../comps-f24.xml.in.h:149 ../comps-f25.xml.in.h:149
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Joukko usein käytettyjä KDE-sovelluksia"
 
 #: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:139
 #: ../comps-f24.xml.in.h:150 ../comps-f25.xml.in.h:150
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f22.xml.in.h:142 ../comps-f23.xml.in.h:140
 #: ../comps-f24.xml.in.h:151 ../comps-f25.xml.in.h:151
@@ -844,6 +837,9 @@ msgid ""
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
+"KDE Plasma Workspaces, muokattava graafinen käyttöliittymä, johon kuuluu "
+"paneeli, työpöytä, järjestelmäkuvakkeet ja graafinen tiedostohallinta sekä "
+"useita KDE-ohjelmia."
 
 #: ../comps-f22.xml.in.h:143 ../comps-f23.xml.in.h:141
 #: ../comps-f24.xml.in.h:152 ../comps-f25.xml.in.h:152
@@ -877,9 +873,8 @@ msgstr "KDE-ohjelmistokehitys"
 
 #: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:147
 #: ../comps-f24.xml.in.h:158 ../comps-f25.xml.in.h:158
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
-msgstr "Asenna nämä paketit graafisten QT- ja KDE-sovellusten kehittämiseksi."
+msgstr "Asenna nämä paketit graafisten Qt- ja KDE-sovellusten kehittämiseksi."
 
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
 #: ../comps-f24.xml.in.h:159 ../comps-f25.xml.in.h:159
@@ -893,17 +888,15 @@ msgstr "KDE Telepathy -sovellukset"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "KDE-ohjelmistokehitys"
+msgstr "KDE Frameworks 5 -ohjelmistokehitys"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr "Asenna nämä paketit graafisten QT- ja KDE-sovellusten kehittämiseksi."
+msgstr "Asenna nämä paketit KDE Frameworks 5 -sovellusten kehittämiseksi."
 
 #: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:152
 #: ../comps-f24.xml.in.h:163 ../comps-f25.xml.in.h:163
@@ -971,7 +964,7 @@ msgstr "Tuki vanhoille ohjelmille"
 #: ../comps-f22.xml.in.h:165 ../comps-f23.xml.in.h:163
 #: ../comps-f24.xml.in.h:174 ../comps-f25.xml.in.h:174
 msgid "Lepcha Support"
-msgstr ""
+msgstr "Lepcha-tuki"
 
 #: ../comps-f22.xml.in.h:166 ../comps-f23.xml.in.h:164
 #: ../comps-f24.xml.in.h:175 ../comps-f25.xml.in.h:175
@@ -999,12 +992,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:170 ../comps-f23.xml.in.h:168
 #: ../comps-f24.xml.in.h:181 ../comps-f25.xml.in.h:181
 msgid "Load Balancer"
-msgstr ""
+msgstr "Kuorman tasapainottaja"
 
 #: ../comps-f22.xml.in.h:171 ../comps-f23.xml.in.h:169
 #: ../comps-f24.xml.in.h:182 ../comps-f25.xml.in.h:182
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Verkkoliikenteen tasapainotuksen tuki"
 
 #: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:170
 #: ../comps-f24.xml.in.h:183 ../comps-f25.xml.in.h:183
@@ -1049,50 +1042,44 @@ msgstr "Toimisto-ohjelmisto LXDE:lle"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Sovelluksia LXDE-työpöydälle"
+msgstr "Sovelluksia LXQt-työpöydälle"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "Joukko usein käytettyjä sovelluksia LXDE-työpöydälle"
+msgstr "Joukko usein käytettyjä sovelluksia LXQt-työpöydälle"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 ""
 msgstr ""
-"LXDE on kevyt X11-työpöytäympäristö, joka on suunniteltu vähäisillä "
+"LXQt on kevyt X11-työpöytäympäristö, joka on suunniteltu vähäisillä "
 "laitteiston ominaisuuksilla varustetuille tietokoneille, kuten "
 "miniläppäreille, mobiililaitteille ja vanhoille tietokoneille."
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "Multimediatuki LXDE:lle"
+msgstr "Multimediatuki LXQt:lle"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "LXDE-toimisto"
+msgstr "LXQt-toimisto"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
-#, fuzzy
 msgid "Office suite for LXQt"
-msgstr "Toimisto-ohjelmisto LXDE:lle"
+msgstr "Toimisto-ohjelmisto LXQt:lle"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1130,26 +1117,23 @@ msgstr "Marathin kielituki"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "KDE-sovellukset"
+msgstr "MATE-sovellukset"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Sovelluksia LXDE-työpöydälle"
+msgstr "Sovelluksia MATE-työpöydälle"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
-#, fuzzy
 msgid "MATE Compiz"
-msgstr "MATE-työpöytä"
+msgstr "MATE-työpöytä ja Compiz"
 
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
 msgid "This package group adds Compiz and Emerald to MATE desktop"
-msgstr ""
+msgstr "Tämä pakettiryhmä lisää MATE-työpöytään Compizin ja Emeraldin"
 
 #: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:194
 #: ../comps-f24.xml.in.h:207 ../comps-f25.xml.in.h:207
@@ -1165,6 +1149,9 @@ msgid ""
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
 msgstr ""
+"MATE-työpöytä perustuu Gnome 2:een ja tarjoaa tehokkaan graafisen "
+"käyttöliittymän käyttäjälle, joka etsii yksinkertaista ja helppokäyttöistä "
+"perinteistä työpöytää."
 
 #: ../comps-f22.xml.in.h:198 ../comps-f23.xml.in.h:196
 #: ../comps-f24.xml.in.h:209 ../comps-f25.xml.in.h:209
@@ -1209,7 +1196,6 @@ msgstr "MongoDB"
 
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
-#, fuzzy
 msgid "Scalable, high-performance NoSQL database."
 msgstr "Skaalautuva ja tehokas NoSQL-tietokanta."
 
@@ -1221,7 +1207,7 @@ msgstr "Multimedia"
 #: ../comps-f22.xml.in.h:207 ../comps-f23.xml.in.h:205
 #: ../comps-f24.xml.in.h:218 ../comps-f25.xml.in.h:218
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Työpöydille yhteinen ääni- ja videosovelluskehys"
 
 #: ../comps-f22.xml.in.h:208 ../comps-f23.xml.in.h:206
 #: ../comps-f24.xml.in.h:219 ../comps-f25.xml.in.h:219
@@ -1258,7 +1244,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Yleiset NetworkManagerin moduulit"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
@@ -1266,6 +1252,8 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
+"Tämä ryhmä sisältää usein käytettyjä NetworkManager-moduuleja, joita ei "
+"tarvita kaikissa karsituissa asennuksissa."
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
@@ -1284,12 +1272,11 @@ msgstr "OCaml"
 
 #: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:216
 #: ../comps-f24.xml.in.h:229 ../comps-f25.xml.in.h:229
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
-"Tuki ohjelmistokehitykselle käyttäen Objective CAML -ohjelmointikieltä ja -"
+"Tuki ohjelmistokehitykselle käyttäen Objective Caml -ohjelmointikieltä ja -"
 "kirjastoja."
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
@@ -1310,7 +1297,7 @@ msgstr "Verkossa olevat ohjeet ja dokumentaatio"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "Orijan kielituki"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1325,12 +1312,12 @@ msgstr "Ohjelmistokehitystuki Perl-ohjelmointikielelle."
 #: ../comps-f22.xml.in.h:225 ../comps-f23.xml.in.h:223
 #: ../comps-f24.xml.in.h:236 ../comps-f25.xml.in.h:236
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl web-käyttöön"
 
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Perustuki web-sovelluksille Perlillä."
 
 #: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:225
 #: ../comps-f24.xml.in.h:238 ../comps-f25.xml.in.h:238
@@ -1346,7 +1333,7 @@ msgstr "PHP"
 #: ../comps-f22.xml.in.h:229 ../comps-f23.xml.in.h:227
 #: ../comps-f24.xml.in.h:240 ../comps-f25.xml.in.h:240
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Yleiskäyttöinen verkko-ohjelmointiin käytetty skriptikieli."
 
 #: ../comps-f22.xml.in.h:230 ../comps-f23.xml.in.h:228
 #: ../comps-f24.xml.in.h:241 ../comps-f25.xml.in.h:241
@@ -1375,7 +1362,7 @@ msgstr "Python"
 #: ../comps-f22.xml.in.h:234 ../comps-f23.xml.in.h:232
 #: ../comps-f24.xml.in.h:245 ../comps-f25.xml.in.h:245
 msgid "Basic Python web application support."
-msgstr ""
+msgstr "Python-kielen perustuki verkkosovelluksille."
 
 #: ../comps-f22.xml.in.h:235 ../comps-f23.xml.in.h:233
 #: ../comps-f24.xml.in.h:246 ../comps-f25.xml.in.h:246
@@ -1385,7 +1372,7 @@ msgstr "Robotiikka"
 #: ../comps-f22.xml.in.h:236 ../comps-f23.xml.in.h:234
 #: ../comps-f24.xml.in.h:247 ../comps-f25.xml.in.h:247
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Valikoima paketteja robotiikkakehitykseen"
 
 #: ../comps-f22.xml.in.h:237 ../comps-f23.xml.in.h:235
 #: ../comps-f24.xml.in.h:248 ../comps-f25.xml.in.h:248
@@ -1415,7 +1402,7 @@ msgstr "Ruby on Rails"
 #: ../comps-f22.xml.in.h:242 ../comps-f23.xml.in.h:240
 #: ../comps-f24.xml.in.h:253 ../comps-f25.xml.in.h:253
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails -verkkosovellusalusta."
 
 #: ../comps-f22.xml.in.h:243 ../comps-f23.xml.in.h:241
 #: ../comps-f24.xml.in.h:254 ../comps-f25.xml.in.h:254
@@ -1437,7 +1424,7 @@ msgstr "Santalin tuki"
 #: ../comps-f22.xml.in.h:246 ../comps-f23.xml.in.h:244
 #: ../comps-f24.xml.in.h:257 ../comps-f25.xml.in.h:257
 msgid "Security Lab"
-msgstr ""
+msgstr "Turvallisuuslaboratorio"
 
 #: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:245
 #: ../comps-f24.xml.in.h:258 ../comps-f25.xml.in.h:258
@@ -1445,6 +1432,8 @@ msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
 msgstr ""
+"Työkaluja turvallisuusauditointiin, rikostutkintaan, "
+"järjestelmänpalautukseen ja turvallisuustestauksen menetelmien opetukseen."
 
 #: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:246
 #: ../comps-f24.xml.in.h:259 ../comps-f25.xml.in.h:259
@@ -1460,24 +1449,23 @@ msgstr "Tämä ryhmä sisältää kaikki Red Hatin omat palvelinasetustyökalut.
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Palvelintenjärjestelmien laitetuki"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
 "This group is a limited collection of tools for various hardware specific "
 "utilities."
-msgstr ""
+msgstr "Tämä ryhmä on rajattu kokoelma laitteistospesifisiä hyötyohjelmia."
 
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora Server -tuotteen ydinosa"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "Käytäntöpaketit Server-versiolle."
+msgstr "Server-version välttämättömät paketit."
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1532,31 +1520,30 @@ msgstr "PostgreSQL-tietokanta"
 
 #: ../comps-f22.xml.in.h:262 ../comps-f23.xml.in.h:260
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
-"Tämä pakettiryhmä sisältää hyödyllisiä paketteja käytettäväksi Postgresql:n "
+"Tämä pakettiryhmä sisältää hyödyllisiä paketteja käytettäväksi PostgreSQL:n "
 "kanssa."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
 msgid "Standard"
-msgstr ""
+msgstr "Tavalliset"
 
 #: ../comps-f22.xml.in.h:264 ../comps-f23.xml.in.h:262
 #: ../comps-f24.xml.in.h:275 ../comps-f25.xml.in.h:275
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Tavalliset vähimmäisasennusta laajemmat työkalut."
 
 #: ../comps-f22.xml.in.h:265 ../comps-f23.xml.in.h:263
 #: ../comps-f24.xml.in.h:276 ../comps-f25.xml.in.h:276
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Lisää Sugar-aktiviteetteja"
 
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Sugar-ympäristöä täydentäviä aktiviteetteja."
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1602,7 +1589,6 @@ msgstr "Tekstipohjainen Internet"
 
 #: ../comps-f22.xml.in.h:274 ../comps-f23.xml.in.h:272
 #: ../comps-f24.xml.in.h:285 ../comps-f25.xml.in.h:285
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
@@ -1647,12 +1633,12 @@ msgstr "Urdun kielituki"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant ja libvirt-tuki"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "Nämä paketit tarjovat Vagrantin libvirt-toimittajatuella"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1696,13 +1682,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora Workstation -tuotteen ydinosa"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "Käytäntöpaketit Workstation-versiolle."
+msgstr "Workstation-version välttämättömät paketit."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1741,12 +1726,12 @@ msgstr "Kevyt työpöytäympäristö, joka toimii hyvin tehottomillakin koneilla
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Lisää liitännäisiä Xfce-paneelille"
 
 #: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:301
 #: ../comps-f24.xml.in.h:314 ../comps-f25.xml.in.h:314
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Laajenna Xfce-paneelin toimintoja"
 
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
@@ -1773,27 +1758,27 @@ msgstr "Xfce-ohjelmistokehitys"
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Asenna nämä paketit GTK+- ja Xfce-sovellusten kehittämiseksi."
 
 #: ../comps-f22.xml.in.h:305 ../comps-f23.xml.in.h:307
 #: ../comps-f24.xml.in.h:320 ../comps-f25.xml.in.h:320
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f22.xml.in.h:306 ../comps-f23.xml.in.h:308
 #: ../comps-f24.xml.in.h:321 ../comps-f25.xml.in.h:321
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Laatoittava ikkunointiohjelma"
 
 #: ../comps-f22.xml.in.h:307 ../comps-f23.xml.in.h:309
 #: ../comps-f24.xml.in.h:322 ../comps-f25.xml.in.h:322
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad ja MATE"
 
 #: ../comps-f22.xml.in.h:308 ../comps-f23.xml.in.h:310
 #: ../comps-f24.xml.in.h:323 ../comps-f25.xml.in.h:323
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad-ikkunointiohjelma MATE-työpöydällä"
 
 #: ../comps-f22.xml.in.h:309 ../comps-f23.xml.in.h:311
 #: ../comps-f24.xml.in.h:324 ../comps-f25.xml.in.h:324
@@ -1821,9 +1806,8 @@ msgid "Xfce Desktop"
 msgstr "Xfce-työpöytä"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "Verkkopalvelimet"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1831,19 +1815,20 @@ msgstr "Verkkopalvelimet"
 #: ../comps-f22.xml.in.h:318 ../comps-f23.xml.in.h:320
 #: ../comps-f24.xml.in.h:336 ../comps-f25.xml.in.h:336
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "Integroitu, helposti hallitava palvelin."
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "Työasemakäytäntö"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
+"Fedora Workstation on käyttäjäystävällinen työpöytäjärjestelmä kannettaville "
+"ja pöytäkoneille."
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1852,9 +1837,8 @@ msgstr "LXDE-työpöytä"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "LXDE-työpöytä"
+msgstr "LXQt-työpöytä"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1869,24 +1853,24 @@ msgstr "MATE-työpöytä"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Postipalvelin"
+msgstr "Fedora Cloud -palvelin"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "Palvelinasennus ja pilviympäristön vaatimat ohjelmistot."
 
 #: ../comps-f22.xml.in.h:327 ../comps-f23.xml.in.h:329
 #: ../comps-f24.xml.in.h:345 ../comps-f25.xml.in.h:345
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Ohjelmisto- ja luovien alojen työasema"
 
 #: ../comps-f22.xml.in.h:328 ../comps-f23.xml.in.h:330
 #: ../comps-f24.xml.in.h:346 ../comps-f25.xml.in.h:346
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
+"Työasema ohjelmiston, laitteiston, grafiikan ja sisällön tuottamiseen."
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
 #: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
@@ -1897,17 +1881,17 @@ msgstr "WWW-palvelin"
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:332
 #: ../comps-f24.xml.in.h:348 ../comps-f25.xml.in.h:348
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Palvelin staattisen ja dynaamisen internet-sisällön tarjoamiseen."
 
 #: ../comps-f22.xml.in.h:331 ../comps-f23.xml.in.h:333
 #: ../comps-f24.xml.in.h:349 ../comps-f25.xml.in.h:349
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Infrastruktuuripalvelin"
 
 #: ../comps-f22.xml.in.h:332 ../comps-f23.xml.in.h:334
 #: ../comps-f24.xml.in.h:350 ../comps-f25.xml.in.h:350
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Palvelin verkon infrastruktuuripalveluja varten."
 
 #: ../comps-f22.xml.in.h:333 ../comps-f23.xml.in.h:335
 #: ../comps-f24.xml.in.h:351 ../comps-f25.xml.in.h:351
@@ -1993,103 +1977,112 @@ msgstr "Tekstejä ja muuta vapaata sisältöä"
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "Nämä paketit tarjoavat graafisen virtualisointiympäristön."
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Etähallittu virtualisointi"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "Nämä paketit tarjoavat etähallittavan virtualisointiympäristön."
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Ansible-solmu"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
 msgstr ""
+"Tämä pakettiryhmä sisältää paketit, joita tarvitaan, että järjestelmää voi "
+"hallita Ansiblella."
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "Kriittinen polku (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
 msgstr ""
+"Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden "
+"Hawaii-työpöytäympäristössä"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Sovelluksia Hawaii-työpöydälle"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Joukko usein käytettyjä sovelluksia Hawaii-työpöydälle"
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
 "Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop "
 "environment that adapts to desktop and mobile devices."
 msgstr ""
+"Hawaii on nopea, intuitiivinen ja käyttäjäystävällinen Wayland-"
+"työpöytäympäristö, joka sopii pöytäkoneisiin ja mobiililaitteisiin."
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Multimediatuki Hawaiille"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii-toimisto"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Toimisto-ohjelmisto Hawaiille"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "Live-CD:n työkalut"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
-msgstr ""
+msgstr "Työkalut, joita tarvitaan live-CD:n toimintaan"
 
 #: ../comps-f24.xml.in.h:262 ../comps-f25.xml.in.h:262
 msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
 msgstr ""
+"Tämä ryhmä on rajattu kokoelma harvoin tarvittuja laitteistospesifisiä "
+"hyötyohjelmia."
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii-työpöytä"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Muokattu Fedora-käyttöjärjestelmä"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Perusosa muokatun Fedora-järjestelmän rakentamiseen."
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Fedora Server -julkaisu"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"Nämä paketit on tarkoitettu grafiikka-, web- ja animaatiosuunnittelijoille."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
