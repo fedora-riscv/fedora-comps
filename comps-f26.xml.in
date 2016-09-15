@@ -144,6 +144,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>fedora-arm-installer</packagereq>
+      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
     </packagelist>
   </group>
