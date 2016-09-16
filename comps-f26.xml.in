@@ -1487,6 +1487,7 @@
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">bliss</packagereq>
       <packagereq type="optional">bowtie</packagereq>
+      <packagereq type="optional">brial</packagereq>
       <packagereq type="optional">bwa</packagereq>
       <packagereq type="optional">cantor</packagereq>
       <packagereq type="optional">cantor-R</packagereq>
@@ -1579,9 +1580,6 @@
       <packagereq type="optional">picosat</packagereq>
       <packagereq type="optional">picosat-devel</packagereq>
       <packagereq type="optional">plotutils</packagereq>
-      <packagereq type="optional">polybori</packagereq>
-      <packagereq type="optional">polybori-gui</packagereq>
-      <packagereq type="optional">polybori-ipbori</packagereq>
       <packagereq type="optional">polymake</packagereq>
       <packagereq type="optional">pvs-sbcl</packagereq>
       <packagereq type="optional">pypop</packagereq>
