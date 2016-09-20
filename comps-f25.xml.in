@@ -5540,7 +5540,6 @@
       <packagereq type="optional">adplay</packagereq>
       <packagereq type="optional">alsamixergui</packagereq>
       <packagereq type="optional">amarok</packagereq>
-      <packagereq type="optional">ardour2</packagereq>
       <packagereq type="optional">argyllcms</packagereq>
       <packagereq type="optional">asunder</packagereq>
       <packagereq type="optional">audacious</packagereq>
