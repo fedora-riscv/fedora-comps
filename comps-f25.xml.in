@@ -926,9 +926,9 @@
       <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
       <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="default">adobe-source-sans-pro-fonts</packagereq>
+      <packagereq type="default">astigmatic-grand-hotel-fonts</packagereq>
       <packagereq type="default">audacity</packagereq>
       <packagereq type="default">blender</packagereq>
-      <packagereq type="default">calligra-krita</packagereq>
       <packagereq type="default">campivisivi-titillium-fonts</packagereq>
       <packagereq type="default">colord-extra-profiles</packagereq>
       <packagereq type="default">darktable</packagereq>
@@ -945,6 +945,7 @@
       <packagereq type="default">hugin</packagereq>
       <packagereq type="default">inkscape</packagereq>
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
+      <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
       <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
@@ -961,6 +962,7 @@
       <packagereq type="default">shutter</packagereq>
       <packagereq type="default">sparkleshare</packagereq>
       <packagereq type="default">synfigstudio</packagereq>
+      <packagereq type="default">typetype-molot-fonts</packagereq>
       <packagereq type="default">xournal</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
