@@ -3045,6 +3045,7 @@
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">alsa-firmware</packagereq>
+      <packagereq type="optional">bcm283x-firmware</packagereq>
       <packagereq type="optional">cmospwd</packagereq>
       <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">gpsd</packagereq>
