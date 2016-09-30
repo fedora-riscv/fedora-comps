@@ -1726,6 +1726,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>firefox</packagereq>
+      <packagereq>fedora-bookmarks</packagereq>
     </packagelist>
   </group>
   <group>
