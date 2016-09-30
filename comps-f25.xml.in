@@ -4349,7 +4349,6 @@
       <packagereq>mate-icon-theme-faenza</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-utils</packagereq>
-      <packagereq>mintmenu</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>pluma-beesu-plugin</packagereq>
       <packagereq>python-caja</packagereq>
