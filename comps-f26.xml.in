@@ -5707,7 +5707,6 @@
       <packagereq>cyrus-sasl-plain</packagereq>
       <packagereq>dbus</packagereq>
       <packagereq>deltarpm</packagereq>
-      <packagereq>dnf-langpacks</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
       <packagereq>ed</packagereq>
@@ -6429,7 +6428,6 @@
       <packagereq>cyrus-sasl-plain</packagereq>
       <packagereq>deltarpm</packagereq>
       <packagereq>dnf</packagereq>
-      <packagereq>dnf-langpacks</packagereq>
       <packagereq>dnf-plugins-core</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
