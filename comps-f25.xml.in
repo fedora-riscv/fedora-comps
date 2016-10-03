@@ -553,7 +553,7 @@
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>eog</packagereq>
       <packagereq>evince</packagereq>
-      <packagereq>f24-backgrounds-base</packagereq>
+      <packagereq>f25-backgrounds-base</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -4400,9 +4400,9 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f24-backgrounds-base</packagereq>
+      <packagereq>f25-backgrounds-base</packagereq>
       <packagereq>f24-backgrounds-extras-base</packagereq>
-      <packagereq>f24-backgrounds-mate</packagereq>
+      <packagereq>f25-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
