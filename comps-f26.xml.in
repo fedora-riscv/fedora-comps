@@ -6693,7 +6693,7 @@
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
       <packagereq>xscreensaver-base</packagereq>
-      <packagereq>yumex</packagereq>
+      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
