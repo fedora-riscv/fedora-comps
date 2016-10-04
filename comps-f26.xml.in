@@ -6399,6 +6399,18 @@
     </packagelist>
   </group>
   <group>
+    <id>workstation-ostree-support</id>
+    <!-- Translators: Don't translate this product name -->
+    <_name>Fedora Workstation ostree support</_name>
+    <_description>Packages mandatory for the workstation ostree product.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>ostree-grub2</packagereq>
+      <packagereq>rpm-ostree</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>workstation-product</id>
     <!-- Translators: Don't translate this product name -->
     <_name>Fedora Workstation product core</_name>
