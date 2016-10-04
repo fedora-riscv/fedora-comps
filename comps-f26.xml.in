@@ -356,7 +356,6 @@
       <packagereq>xorg-x11-drv-openchrome</packagereq>
       <packagereq>xorg-x11-drv-qxl</packagereq>
       <packagereq>xorg-x11-drv-vesa</packagereq>
-      <packagereq>xorg-x11-drv-vmmouse</packagereq>
       <packagereq>xorg-x11-drv-vmware</packagereq>
       <packagereq>xorg-x11-drv-wacom</packagereq>
       <packagereq>xorg-x11-server-Xorg</packagereq>
