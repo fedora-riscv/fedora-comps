@@ -143,8 +143,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>fedora-arm-installer</packagereq>
       <packagereq>cloud-utils-growpart</packagereq>
+      <packagereq>fedora-arm-installer</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
     </packagelist>
   </group>
@@ -756,8 +756,8 @@
       <packagereq type="mandatory">anaconda</packagereq>
       <packagereq type="mandatory">createrepo</packagereq>
       <packagereq type="mandatory">dash</packagereq>
-      <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
       <!-- 'kernel' is listed because we need to ensure that kernel
@@ -937,8 +937,8 @@
       <packagereq type="default">font-manager</packagereq>
       <packagereq type="default">fontforge</packagereq>
       <packagereq type="default">gimp</packagereq>
-      <packagereq type="default">google-roboto-fonts</packagereq>
       <packagereq type="default">google-roboto-condensed-fonts</packagereq>
+      <packagereq type="default">google-roboto-fonts</packagereq>
       <packagereq type="default">google-roboto-slab-fonts</packagereq>
       <packagereq type="default">gpick</packagereq>
       <packagereq type="default">GraphicsMagick</packagereq>
@@ -1386,8 +1386,8 @@
       <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gpsim</packagereq>
       <packagereq type="default">gputils</packagereq>
-      <packagereq type="default">gresistor</packagereq>
       <packagereq type="default">gr-osmosdr</packagereq>
+      <packagereq type="default">gresistor</packagereq>
       <packagereq type="default">gsim85</packagereq>
       <packagereq type="default">gspiceui</packagereq>
       <packagereq type="default">gtkterm</packagereq>
@@ -1725,8 +1725,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>firefox</packagereq>
       <packagereq>fedora-bookmarks</packagereq>
+      <packagereq>firefox</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3111,13 +3111,13 @@
       <packagereq>hawaii-workspace</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq>otter-browser</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>qt5-qdbusviewer</packagereq>
       <packagereq>qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>qt5-qtwayland</packagereq>
       <packagereq>qterminal-qt5</packagereq>
-      <packagereq>otter-browser</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-theme-hawaii</packagereq>
       <packagereq>upower</packagereq>

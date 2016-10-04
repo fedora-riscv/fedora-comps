@@ -1360,9 +1360,9 @@
       <packagereq type="default">NetworkManager-pptp</packagereq>
       <packagereq type="default">NetworkManager-vpnc</packagereq>
       <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
-      <packagereq type="default">pluma</packagereq>
       <packagereq type="default">p7zip</packagereq>
       <packagereq type="default">p7zip-plugins</packagereq>
+      <packagereq type="default">pluma</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">seahorse</packagereq>
       <packagereq type="default">setroubleshoot</packagereq>
@@ -2241,7 +2241,6 @@
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">orage</packagereq>
       <packagereq type="default">polkit-gnome</packagereq>
-      <packagereq type="default">xfce4-terminal</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
       <packagereq type="default">tumbler</packagereq>
@@ -2250,6 +2249,7 @@
       <packagereq type="default">xfce4-mixer</packagereq>
       <packagereq type="default">xfce4-power-manager</packagereq>
       <packagereq type="default">xfce4-session-engines</packagereq>
+      <packagereq type="default">xfce4-terminal</packagereq>
       <packagereq type="default">xfwm4-theme-nodoka</packagereq>
       <packagereq type="optional">xfwm4-themes</packagereq>
     </packagelist>

@@ -3095,13 +3095,13 @@
       <packagereq>hawaii-workspace</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq>otter-browser</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>qt5-qdbusviewer</packagereq>
       <packagereq>qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>qt5-qtwayland</packagereq>
       <packagereq>qterminal-qt5</packagereq>
-      <packagereq>otter-browser</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-theme-hawaii</packagereq>
       <packagereq>upower</packagereq>
