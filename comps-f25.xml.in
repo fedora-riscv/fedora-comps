@@ -6437,6 +6437,7 @@
       <packagereq>cryptsetup</packagereq>
       <packagereq>cyrus-sasl-plain</packagereq>
       <packagereq>deltarpm</packagereq>
+      <packagereq>desktop-backgrounds-gnome</packagereq>
       <packagereq>dnf</packagereq>
       <packagereq>dnf-plugins-core</packagereq>
       <packagereq>dos2unix</packagereq>
