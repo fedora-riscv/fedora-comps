@@ -4349,6 +4349,7 @@
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
+      <packagereq>mate-menu</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>pidgin</packagereq>
