@@ -1011,13 +1011,11 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">gettext</packagereq>
-      <packagereq type="default">cvs</packagereq>
       <packagereq type="default">diffstat</packagereq>
       <packagereq type="default">doxygen</packagereq>
       <packagereq type="default">git</packagereq>
       <packagereq type="default">patch</packagereq>
       <packagereq type="default">patchutils</packagereq>
-      <packagereq type="default">rcs</packagereq>
       <packagereq type="default">subversion</packagereq>
       <packagereq type="default">systemtap</packagereq>
       <packagereq type="optional">archmage</packagereq>
@@ -1025,6 +1023,7 @@
       <packagereq type="optional">bzr</packagereq>
       <packagereq type="optional">bzr-explorer</packagereq>
       <packagereq type="optional">colordiff</packagereq>
+      <packagereq type="optional">cvs</packagereq>
       <packagereq type="optional">cvs2cl</packagereq>
       <packagereq type="optional">cvsgraph</packagereq>
       <packagereq type="optional">cvsps</packagereq>
@@ -1049,6 +1048,7 @@
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">rapidsvn</packagereq>
+      <packagereq type="optional">rcs</packagereq>
       <packagereq type="optional">robodoc</packagereq>
       <packagereq type="optional">scanmem</packagereq>
       <packagereq type="optional">subunit</packagereq>
