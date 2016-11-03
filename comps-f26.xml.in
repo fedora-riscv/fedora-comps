@@ -4404,8 +4404,8 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f25-backgrounds-base</packagereq>
       <packagereq>f24-backgrounds-extras-base</packagereq>
+      <packagereq>f25-backgrounds-base</packagereq>
       <packagereq>f25-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
@@ -4707,15 +4707,16 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">NetworkManager-bluetooth</packagereq>
-      <packagereq type="default">NetworkManager-wifi</packagereq>
-      <packagereq type="default">NetworkManager-wwan</packagereq>
-      <!-- These required for IPv4 connection sharing ("Hotspot") to work -->
-      <packagereq type="default">iptables</packagereq>
-      <packagereq type="default">dnsmasq</packagereq>
       <!-- This is the preferred DHCP client so that NetworkManager won't
            fall back to the internal one in full installations. -->
       <packagereq type="default">dhclient</packagereq>
+      <!-- required for IPv4 connection sharing ("Hotspot") to work -->
+      <packagereq type="default">dnsmasq</packagereq>
+      <!-- required for IPv4 connection sharing ("Hotspot") to work -->
+      <packagereq type="default">iptables</packagereq>
+      <packagereq type="default">NetworkManager-bluetooth</packagereq>
+      <packagereq type="default">NetworkManager-wifi</packagereq>
+      <packagereq type="default">NetworkManager-wwan</packagereq>
     </packagelist>
   </group>
   <group>
