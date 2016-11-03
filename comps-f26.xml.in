@@ -4710,6 +4710,12 @@
       <packagereq type="default">NetworkManager-bluetooth</packagereq>
       <packagereq type="default">NetworkManager-wifi</packagereq>
       <packagereq type="default">NetworkManager-wwan</packagereq>
+      <!-- These required for IPv4 connection sharing ("Hotspot") to work -->
+      <packagereq type="default">iptables</packagereq>
+      <packagereq type="default">dnsmasq</packagereq>
+      <!-- This is the preferred DHCP client so that NetworkManager won't
+           fall back to the internal one in full installations. -->
+      <packagereq type="default">dhclient</packagereq>
     </packagelist>
   </group>
   <group>
