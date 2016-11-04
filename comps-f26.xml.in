@@ -5469,6 +5469,7 @@
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq type="mandatory">timedatex</packagereq>
       <packagereq type="default">NetworkManager-team</packagereq>
+      <packagereq type="default">dhcp-client</packagereq>
     </packagelist>
   </group>
   <group>
