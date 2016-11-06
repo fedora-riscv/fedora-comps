@@ -6683,12 +6683,17 @@
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>network-manager-applet</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
-      <packagereq>NetworkManager-openvpn</packagereq>
-      <packagereq>NetworkManager-pptp</packagereq>
-      <packagereq>NetworkManager-vpnc</packagereq>
+      <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
+      <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp-gnome</packagereq>
+      <packagereq>NetworkManager-libreswan-gnome</packagereq>
+      <packagereq>NetworkManager-openconnect-gnome</packagereq>
+      <packagereq>NetworkManager-ssh-gnome</packagereq>
+      <packagereq>NetworkManager-sstp-gnome</packagereq>
+      <packagereq>NetworkManager-strongswan-gnome</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
       <packagereq>rodent-icon-theme</packagereq>
