@@ -4402,9 +4402,9 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f24-backgrounds-extras-base</packagereq>
       <packagereq>f25-backgrounds-base</packagereq>
       <packagereq>f25-backgrounds-mate</packagereq>
+      <packagereq>f25-backgrounds-extras-base</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
