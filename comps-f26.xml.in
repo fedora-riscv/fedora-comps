@@ -582,7 +582,7 @@
       <packagereq>NetworkManager-iodine-gnome</packagereq>
       <packagereq>NetworkManager-l2tp-gnome</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
@@ -2668,7 +2668,7 @@
       <packagereq>nautilus</packagereq>
       <packagereq>nautilus-sendto</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
@@ -4461,9 +4461,9 @@
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
-      <packagereq>NetworkManager-l2tp</packagereq>
+      <packagereq>NetworkManager-l2tp-gnome</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
-      <packagereq>NetworkManager-openconnect</packagereq>
+      <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
