@@ -1521,6 +1521,7 @@
       <packagereq type="optional">EMBOSS</packagereq>
       <packagereq type="optional">fastx_toolkit</packagereq>
       <packagereq type="optional">fflas-ffpack-devel</packagereq>
+      <packagereq type="optional">fityk</packagereq>
       <packagereq type="optional">flint</packagereq>
       <packagereq type="optional">flocq</packagereq>
       <packagereq type="optional">frama-c</packagereq>
