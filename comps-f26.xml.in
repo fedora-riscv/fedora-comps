@@ -5046,7 +5046,7 @@
       <packagereq>numpy-f2py</packagereq>
       <packagereq>pymongo</packagereq>
       <packagereq>pymongo-gridfs</packagereq>
-      <packagereq>python</packagereq>
+      <packagereq>python2</packagereq>
       <packagereq>python-magic</packagereq>
       <packagereq>python-mysql</packagereq>
       <packagereq>python-psycopg2</packagereq>
