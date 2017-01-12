@@ -2399,7 +2399,6 @@
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kcheckers</packagereq>
       <packagereq type="optional">kdeaddons-atlantikdesigner</packagereq>
-      <packagereq type="optional">kdegames</packagereq>
       <packagereq type="optional">kdegames3</packagereq>
       <packagereq type="optional">kitsune</packagereq>
       <packagereq type="optional">knights</packagereq>
@@ -3487,9 +3486,11 @@
       <packagereq>ark</packagereq>
       <packagereq>digikam</packagereq>
       <packagereq>kde-connect</packagereq>
-      <packagereq>kdegames-minimal</packagereq>
+      <pacakgereq>kmahjongg</packagereq>
+      <packagereq>kmines</packagereq>
       <packagereq>kolourpaint</packagereq>
       <packagereq>konversation</packagereq>
+      <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
       <packagereq>krfb</packagereq>
       <packagereq>krusader</packagereq>
@@ -3518,6 +3519,7 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>jovie</packagereq>
       <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
@@ -3531,8 +3533,6 @@
       <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
       <packagereq>kde-style-breeze</packagereq>
-      <packagereq>kdeaccessibility</packagereq>
-      <packagereq>kdegames-minimal</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
       <packagereq>kdepasswd</packagereq>
@@ -3550,8 +3550,11 @@
       <packagereq>khelpcenter</packagereq>
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
+      <packagereq>kmag</packagereq>
       <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
+      <packagereq>kmousetool</packagereq>
+      <packagereq>kmouth</packagereq>
       <packagereq>knode</packagereq>
       <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
@@ -3696,10 +3699,7 @@
       <packagereq type="optional">kate-devel</packagereq>
       <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kde-baseapps-devel</packagereq>
-      <packagereq type="optional">kdebindings-devel</packagereq>
-      <packagereq type="optional">kdegraphics-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
-      <packagereq type="optional">kdenetwork-devel</packagereq>
       <packagereq type="optional">kdepim-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
@@ -3719,7 +3719,6 @@
       <packagereq type="optional">qt3-devel</packagereq>
       <packagereq type="optional">qtwebkit-devel</packagereq>
       <packagereq type="optional">rocs-devel</packagereq>
-      <packagereq type="optional">telepathy-qt4-devel</packagereq>
     </packagelist>
   </group>
   <group>
