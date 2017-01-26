@@ -18,13 +18,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-08-06 07:36-0400\n"
+"PO-Revision-Date: 2016-10-22 04:04-0400\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/comps/language/"
 "ca/)\n"
 "Language: ca\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.9.5\n"
+"X-Generator: Zanata 3.9.6\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -235,7 +235,7 @@ msgstr "Camí crític (aplicacions)"
 #: ../comps-f22.xml.in.h:38 ../comps-f23.xml.in.h:36 ../comps-f24.xml.in.h:38
 #: ../comps-f25.xml.in.h:38
 msgid "A set of applications that are considered critical path"
-msgstr "Un conjunt d'aplicacions que estan considerades com a camins crítics"
+msgstr "Un conjunt d'aplicacions que són considerades camins crítics"
 
 #: ../comps-f22.xml.in.h:39 ../comps-f23.xml.in.h:37 ../comps-f24.xml.in.h:39
 #: ../comps-f25.xml.in.h:39
@@ -344,7 +344,7 @@ msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
 msgstr ""
-"Aquests paquets estan dirigits als dissenyadors professionals relacionades "
+"Aquests paquets estan dirigits als dissenyadors professionals relacionats "
 "amb les arts gràfics, el web i l'animació."
 
 #: ../comps-f22.xml.in.h:55 ../comps-f23.xml.in.h:53 ../comps-f24.xml.in.h:57
@@ -523,7 +523,7 @@ msgstr "Empaquetador de Fedora"
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Eines i utilitats necessàries per un empaquetador de Fedora"
+msgstr "Eines i utilitats necessàries per a un empaquetador de Fedora"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -615,7 +615,7 @@ msgstr "GNOME és un entorn d'escriptori amigable i intuïtiu."
 #: ../comps-f22.xml.in.h:102 ../comps-f23.xml.in.h:100
 #: ../comps-f24.xml.in.h:104 ../comps-f25.xml.in.h:104
 msgid "Extra games for the GNOME Desktop"
-msgstr "Jocs extra per a l'escriptori GNOME"
+msgstr "Jocs extres per a l'escriptori GNOME"
 
 #: ../comps-f22.xml.in.h:103 ../comps-f23.xml.in.h:101
 #: ../comps-f24.xml.in.h:105 ../comps-f25.xml.in.h:105
@@ -953,7 +953,7 @@ msgid ""
 "telnet."
 msgstr ""
 "Aquests paquets inclouen servidors per a antics protocols de xarxa, com ara "
-"l'rsh i el telnet."
+"rsh i telnet."
 
 #: ../comps-f22.xml.in.h:162 ../comps-f23.xml.in.h:160
 #: ../comps-f24.xml.in.h:171 ../comps-f25.xml.in.h:171
@@ -1130,7 +1130,7 @@ msgstr "Aplicacions de MATE"
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
 msgid "Applications for the MATE Desktop."
-msgstr "Aplicacions per a l'escriptori MATE"
+msgstr "Aplicacions per a l'escriptori MATE."
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1193,7 +1193,7 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
-"Permet compilar programes per a Windows 32 bit, provar-los i crear "
+"Permet compilar programes per a Windows de 32 bits, provar-los i crear "
 "instal·ladors des de Fedora."
 
 #: ../comps-f22.xml.in.h:204 ../comps-f23.xml.in.h:202
@@ -1226,7 +1226,7 @@ msgstr "Base de dades MariaDB (MySQL)"
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
-"Aquests grup de paquets conté els paquets útils per utilitzar amb MariaDB "
+"Aquest grup de paquets conté els paquets útils per utilitzar amb MariaDB "
 "(MySQL)."
 
 #: ../comps-f22.xml.in.h:210 ../comps-f23.xml.in.h:208
@@ -1476,7 +1476,7 @@ msgstr "Nucli del producte Fedora Server "
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
 msgid "Packages mandatory for the server product."
-msgstr "El paquets obligatoris per al producte Server."
+msgstr "Els paquets obligatoris per al producte Server."
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1562,7 +1562,7 @@ msgstr "Entorn d'escriptori Sugar"
 #: ../comps-f22.xml.in.h:268 ../comps-f23.xml.in.h:266
 #: ../comps-f24.xml.in.h:279 ../comps-f25.xml.in.h:279
 msgid "A software playground for learning about learning."
-msgstr "Programari per a aprendre a aprendre"
+msgstr "Programari per a aprendre a aprendre."
 
 #: ../comps-f22.xml.in.h:269 ../comps-f23.xml.in.h:267
 #: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280 ../comps-el5.xml.in.h:59
@@ -1694,7 +1694,7 @@ msgstr "Nucli del producte Fedora Workstation "
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
 msgid "Packages mandatory for the workstation product."
-msgstr "El paquets obligatoris per al producte Workstation."
+msgstr "Els paquets obligatoris per al producte Workstation."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1706,8 +1706,7 @@ msgstr "Desenvolupament de programari per a X"
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Aquests paquets us permeten desenvolupar aplicacions per a l'X Window System."
-""
+"Aquests paquets us permeten desenvolupar aplicacions per al X Window System."
 
 #: ../comps-f22.xml.in.h:294 ../comps-f23.xml.in.h:296
 #: ../comps-f24.xml.in.h:309 ../comps-f25.xml.in.h:309
@@ -1734,12 +1733,12 @@ msgstr "Un entorn d'escriptori lleuger que funciona en ordinadors senzills."
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
 msgid "Extra plugins for the Xfce panel"
-msgstr "Complements extra per al tauler d'Xfce"
+msgstr "Complements extres per al tauler de Xfce"
 
 #: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:301
 #: ../comps-f24.xml.in.h:314 ../comps-f25.xml.in.h:314
 msgid "Extend the functionality of the Xfce panel"
-msgstr "Amplia la funcionalitat del tauler d'Xfce"
+msgstr "Amplia la funcionalitat del tauler de Xfce"
 
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
@@ -2096,7 +2095,7 @@ msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
-"Aquests paquets estan dirigits als dissenyadors professionals relacionades "
+"Aquests paquets estan dirigits als dissenyadors professionals relacionats "
 "amb les arts gràfics, el web i l'animació."
 
 #: ../comps-el5.xml.in.h:4
@@ -2170,7 +2169,7 @@ msgstr "Eines de disseny i simulació per a enginyers de maquinari"
 
 #: ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr "Eines i utilitats necessàries per l'empaquetador de Fedora"
+msgstr "Eines i utilitats necessàries per a un empaquetador de Fedora"
 
 #: ../comps-el5.xml.in.h:31
 msgid "GNOME Desktop Environment"
@@ -2513,7 +2512,7 @@ msgstr "Suport per al feroès"
 
 #: ../comps-el6.xml.in.h:74 ../comps-epel7.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr "Eines i utilitats necessàries per un empaquetador de Fedora."
+msgstr "Eines i utilitats necessàries per a un empaquetador de Fedora."
 
 #: ../comps-el6.xml.in.h:75 ../comps-epel7.xml.in.h:75
 msgid "Fijian Support"
@@ -2590,7 +2589,7 @@ msgstr "Programari per a la creació i manipulació d'imatges fixes."
 
 #: ../comps-el6.xml.in.h:97 ../comps-epel7.xml.in.h:97
 msgid "Hardware monitoring utilities"
-msgstr "Utilitzats de monitorització de maquinari"
+msgstr "Utilitzats de monitoratge de maquinari"
 
 #: ../comps-el6.xml.in.h:98 ../comps-epel7.xml.in.h:98
 msgid "A set of tools to monitor server hardware"
@@ -2630,7 +2629,7 @@ msgstr "Programari per introduir text internacional."
 
 #: ../comps-el6.xml.in.h:111 ../comps-epel7.xml.in.h:111
 msgid "Interlingua Support"
-msgstr "Suport per a l'interlingua"
+msgstr "Suport per a la interlingua"
 
 #: ../comps-el6.xml.in.h:112 ../comps-epel7.xml.in.h:112
 msgid "Internet Applications"
@@ -2720,7 +2719,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:140 ../comps-epel7.xml.in.h:140
 msgid "Legacy X Window System compatibility"
-msgstr "Compatibilitat per al llegat de l'X Window System"
+msgstr "Compatibilitat per al llegat del X Window System"
 
 #: ../comps-el6.xml.in.h:141 ../comps-epel7.xml.in.h:141
 msgid ""
@@ -2732,7 +2731,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:142 ../comps-epel7.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr "Compatibilitat bàsica per al llegat de l'X Window System"
+msgstr "Compatibilitat bàsica per al llegat del X Window System"
 
 #: ../comps-el6.xml.in.h:143 ../comps-epel7.xml.in.h:143
 msgid ""
@@ -2890,7 +2889,7 @@ msgstr "Suport per al Perl"
 
 #: ../comps-el6.xml.in.h:185 ../comps-epel7.xml.in.h:187
 msgid "Perl interfaces to common libraries and functionality."
-msgstr "Interfícies de Perl a biblioteques o funcionalitats comuns."
+msgstr "Interfícies de Perl a biblioteques o funcionalitats comunes."
 
 #: ../comps-el6.xml.in.h:187 ../comps-epel7.xml.in.h:189
 msgid "PHP Support"
@@ -2932,8 +2931,8 @@ msgstr "Client d'impressió"
 #: ../comps-el6.xml.in.h:196 ../comps-epel7.xml.in.h:198
 msgid "Tools for printing to a local printer or a remote print server."
 msgstr ""
-"Eines per imprimir en un impressora local o en un servidor remot d'impressió."
-""
+"Eines per imprimir en una impressora local o en un servidor remot "
+"d'impressió."
 
 #: ../comps-el6.xml.in.h:197 ../comps-epel7.xml.in.h:199
 msgid "Print Server"
@@ -3049,7 +3048,7 @@ msgstr "Client d'emmagatzematge iSCSI"
 
 #: ../comps-el6.xml.in.h:228 ../comps-epel7.xml.in.h:230
 msgid "iSCSI client support"
-msgstr "Suport pel al client iSCSI"
+msgstr "Suport de client iSCSI"
 
 #: ../comps-el6.xml.in.h:229 ../comps-epel7.xml.in.h:231
 msgid "Storage Availability Tools"
@@ -3262,7 +3261,7 @@ msgstr "Els paquets de polítiques per a la variant Workstation."
 
 #: ../comps-el6.xml.in.h:288 ../comps-epel7.xml.in.h:290
 msgid "X Window System Support."
-msgstr "Suport per l'X Window System."
+msgstr "Suport per al X Window System."
 
 #: ../comps-el6.xml.in.h:291 ../comps-epel7.xml.in.h:293
 msgid "Xhosa Support"
@@ -3282,7 +3281,7 @@ msgstr "Escriptoris i clients lleugers."
 
 #: ../comps-el6.xml.in.h:296 ../comps-epel7.xml.in.h:299
 msgid "End-user applications."
-msgstr "Aplicacions d'usuari fina."
+msgstr "Aplicacions d'usuari final."
 
 #: ../comps-el6.xml.in.h:298 ../comps-epel7.xml.in.h:301
 msgid "Development tools and libraries."
