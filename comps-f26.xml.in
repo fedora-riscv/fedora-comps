@@ -6466,7 +6466,7 @@
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-shell-extension-background-logo</packagereq>
       <packagereq>gnupg2</packagereq>
-      <packagereq>google-android-emoji-fonts</packagereq>
+      <packagereq>google-noto-emoji-fonts</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>ibus-gtk2</packagereq>
       <packagereq>ibus-gtk3</packagereq>
