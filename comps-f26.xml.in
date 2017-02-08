@@ -6662,6 +6662,7 @@
       <packagereq>albatross-gtk3-theme</packagereq>
       <packagereq>albatross-xfwm4-theme</packagereq>
       <packagereq>alsa-utils</packagereq>
+      <packagereq>arc-theme</packagereq>
       <packagereq>bluebird-gtk2-theme</packagereq>
       <packagereq>bluebird-gtk3-theme</packagereq>
       <packagereq>bluebird-xfwm4-theme</packagereq>
