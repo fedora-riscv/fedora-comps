@@ -31,7 +31,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
-      <packagereq>authconfig-gtk</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>recordmydesktop</packagereq>
