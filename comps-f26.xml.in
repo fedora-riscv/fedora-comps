@@ -4346,6 +4346,7 @@
       <packagereq>caja-beesu</packagereq>
       <packagereq>caja-beesu-manager</packagereq>
       <packagereq>caja-share</packagereq>
+      <packagereq>caja-terminal</packagereq>
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
@@ -4465,6 +4466,7 @@
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>orca</packagereq>
       <packagereq>p7zip</packagereq>
       <packagereq>p7zip-plugins</packagereq>
       <packagereq>parole</packagereq>
