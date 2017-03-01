@@ -4403,8 +4403,8 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f25-backgrounds-extras-base</packagereq>
       <packagereq>f25-backgrounds-base</packagereq>
+      <packagereq>f25-backgrounds-extras-base</packagereq>
       <packagereq>f25-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
@@ -5035,10 +5035,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ninja-ide</packagereq>
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">curl</packagereq>
-      <packagereq type="default">gcc-c++</packagereq>
       <packagereq type="default">gcc</packagereq>
+      <packagereq type="default">gcc-c++</packagereq>
       <packagereq type="default">git</packagereq>
       <packagereq type="default">grep</packagereq>
       <packagereq type="default">less</packagereq>
@@ -5065,7 +5066,6 @@
       <packagereq type="optional">openssh-clients</packagereq>
       <packagereq type="optional">vim-minimal</packagereq>
       <packagereq type="optional">wget</packagereq>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ninja-ide</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5085,11 +5085,11 @@
       <packagereq>numpy-f2py</packagereq>
       <packagereq>pymongo</packagereq>
       <packagereq>pymongo-gridfs</packagereq>
-      <packagereq>python2</packagereq>
       <packagereq>python-magic</packagereq>
       <packagereq>python-mysql</packagereq>
       <packagereq>python-psycopg2</packagereq>
       <packagereq>python-virtualenv</packagereq>
+      <packagereq>python2</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5505,8 +5505,8 @@
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq type="mandatory">timedatex</packagereq>
-      <packagereq type="default">NetworkManager-team</packagereq>
       <packagereq type="default">dhcp-client</packagereq>
+      <packagereq type="default">NetworkManager-team</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6722,17 +6722,17 @@
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>network-manager-applet</packagereq>
-      <packagereq>NetworkManager-openvpn-gnome</packagereq>
-      <packagereq>NetworkManager-pptp-gnome</packagereq>
-      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
       <packagereq>NetworkManager-l2tp-gnome</packagereq>
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
+      <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-ssh-gnome</packagereq>
       <packagereq>NetworkManager-sstp-gnome</packagereq>
       <packagereq>NetworkManager-strongswan-gnome</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
       <packagereq>rodent-icon-theme</packagereq>
