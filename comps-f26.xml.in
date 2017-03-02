@@ -5453,6 +5453,7 @@
       <packagereq type="default">whois</packagereq>
       <packagereq type="default">wipe</packagereq>
       <packagereq type="default">wireshark</packagereq>
+      <packagereq type="default">wireshark-gtk</packagereq>
       <packagereq type="default">xmount</packagereq>
       <packagereq type="default">yersinia</packagereq>
       <packagereq type="default">zmap</packagereq>
