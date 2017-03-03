@@ -5064,7 +5064,7 @@
       <packagereq type="optional">emacs</packagereq>
       <packagereq type="optional">nano</packagereq>
       <packagereq type="optional">openssh-clients</packagereq>
-      <packagereq type="optional">vim-minimal</packagereq>
+      <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">wget</packagereq>
     </packagelist>
   </group>
