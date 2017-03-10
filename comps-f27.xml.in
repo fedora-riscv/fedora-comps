@@ -709,6 +709,7 @@
       <packagereq type="mandatory">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">shadow-utils</packagereq>
+      <packagereq type="mandatory">sssd-common</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
