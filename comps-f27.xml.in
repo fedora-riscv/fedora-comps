@@ -3506,7 +3506,6 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>akregator</packagereq>
-      <packagereq>apper</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>cagibi</packagereq>
@@ -3577,6 +3576,7 @@
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
+      <packagereq>plasma-discover</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
       <packagereq>plasma-nm-openconnect</packagereq>
