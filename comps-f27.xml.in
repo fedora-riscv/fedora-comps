@@ -4401,6 +4401,7 @@
       <packagereq>caja-wallpaper</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
+      <packagereq>dnfdragora-gui</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
@@ -4484,7 +4485,6 @@
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
-      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
