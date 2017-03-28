@@ -5050,12 +5050,15 @@
       <packagereq type="default">pypy3-devel</packagereq>
       <packagereq type="default">python2-devel</packagereq>
       <packagereq type="default">python2-docs</packagereq>
-      <packagereq type="default">python2-ipython-console</packagereq>
+      <packagereq type="default">python2-ipykernel</packagereq>
+      <packagereq type="default">python2-ipython</packagereq>
       <packagereq type="default">python2-tools</packagereq>
       <packagereq type="default">python2-virtualenv</packagereq>
       <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">python3-docs</packagereq>
-      <packagereq type="default">python3-ipython-console</packagereq>
+      <packagereq type="default">python3-ipykernel</packagereq>
+      <packagereq type="default">python3-ipython</packagereq>
+      <packagereq type="default">python3-notebook</packagereq>
       <packagereq type="default">python3-tools</packagereq>
       <packagereq type="default">python3-tox</packagereq>
       <packagereq type="default">sed</packagereq>
