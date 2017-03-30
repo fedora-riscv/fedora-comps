@@ -4605,6 +4605,7 @@
       <packagereq>alsa-utils</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
+      <packagereq>gstreamer1-plugin-mpg123</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
