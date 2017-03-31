@@ -4088,6 +4088,7 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>clipit</packagereq>
+      <packagereq>dnfdragora-gui</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>galculator</packagereq>
@@ -4125,7 +4126,6 @@
       <packagereq>xpad</packagereq>
       <packagereq>xscreensaver-base</packagereq>
       <packagereq>xscreensaver-extras</packagereq>
-      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6717,6 +6717,7 @@
       <packagereq>bluebird-xfwm4-theme</packagereq>
       <packagereq>blueman</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
+      <packagereq>dnfdragora-gui</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
@@ -6768,7 +6769,6 @@
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
       <packagereq>xscreensaver-base</packagereq>
-      <packagereq>yumex-dnf</packagereq>
     </packagelist>
   </group>
   <group>
