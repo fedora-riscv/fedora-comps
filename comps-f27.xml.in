@@ -570,8 +570,6 @@
       <packagereq>icedtea-web</packagereq>
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-image-converter</packagereq>
@@ -593,6 +591,7 @@
       <packagereq>setroubleshoot</packagereq>
       <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
+      <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -4430,9 +4429,6 @@
       <packagereq>libmatemixer</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
-      <packagereq>lightdm</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>marco</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
@@ -4478,6 +4474,7 @@
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
+      <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-date</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
