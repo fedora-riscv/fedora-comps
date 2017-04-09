@@ -5038,6 +5038,7 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ninja-ide</packagereq>
       <packagereq type="default">bash-completion</packagereq>
+      <packagereq type="default">bzip2</packagereq>
       <packagereq type="default">curl</packagereq>
       <packagereq type="default">gcc</packagereq>
       <packagereq type="default">gcc-c++</packagereq>
