@@ -5097,6 +5097,27 @@
     </packagelist>
   </group>
   <group>
+    <id>python-science</id>
+    <_name>Python Science</_name>
+    <_description>Tools used to do science in Python.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">python3-matplotlib-tk</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">python3-pillow-tk</packagereq>
+      <packagereq type="default">python3-matplotlib</packagereq>
+      <packagereq type="default">python3-notebook</packagereq>
+      <packagereq type="default">python3-numpy</packagereq>
+      <packagereq type="default">python3-pandas</packagereq>
+      <packagereq type="default">python3-pillow</packagereq>
+      <packagereq type="default">python3-scikit-image</packagereq>
+      <packagereq type="default">python3-scikit-learn</packagereq>
+      <packagereq type="default">python3-scipy</packagereq>
+      <packagereq type="default">python3-statsmodels</packagereq>
+      <packagereq type="default">python3-sympy</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>robotics-suite</id>
     <_name>Robotics</_name>
     <_description>Suite of packages for robotics development</_description>
