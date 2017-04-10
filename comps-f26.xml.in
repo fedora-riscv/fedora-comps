@@ -4394,7 +4394,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
-      <packagereq>blueman</packagereq>
+      <packagereq>blueberry</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-image-converter</packagereq>
       <packagereq>caja-open-terminal</packagereq>
@@ -4407,8 +4407,9 @@
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
       <packagereq>f26-backgrounds-base</packagereq>
-      <packagereq>f26-backgrounds-extras-base</packagereq>
       <packagereq>f26-backgrounds-mate</packagereq>
+      <packagereq>f26-backgrounds-extras-base</packagereq>
+      <packagereq>f26-backgrounds-extras-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
