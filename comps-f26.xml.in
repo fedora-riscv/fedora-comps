@@ -5101,7 +5101,7 @@
   </group>
   <group>
     <id>python-web</id>
-    <_name>Python</_name>
+    <_name>Python Web</_name>
     <_description>Basic Python web application support.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
