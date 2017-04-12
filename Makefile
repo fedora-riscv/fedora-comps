@@ -17,8 +17,8 @@ validate: $(XMLFILES) comps.rng
 	done; exit $$RES
 
 sort:
-	# Run xsltproc on each xml.in file and exit with non-zero if any sorting fails
-	RES=0; for f in $(XMLINFILES); do \
+	@# Run xsltproc on each xml.in file and exit with non-zero if any sorting fails
+	@RES=0; for f in $(XMLINFILES); do \
 		xsltproc --novalid -o $$f comps-cleanup.xsl $$f; \
 		RES=$$(($$RES + $$?)); \
 	done; exit $$RES
