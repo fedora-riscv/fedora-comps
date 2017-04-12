@@ -567,7 +567,6 @@
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
-      <packagereq>icedtea-web</packagereq>
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>metacity</packagereq>
