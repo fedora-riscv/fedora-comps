@@ -6589,7 +6589,6 @@
       <packagereq>rp-pppoe</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>scl-utils</packagereq>
-      <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>setuptool</packagereq>
       <packagereq>shotwell</packagereq>
