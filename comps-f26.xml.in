@@ -2671,6 +2671,7 @@
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
+      <packagereq>NetworkManager-ssh-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
