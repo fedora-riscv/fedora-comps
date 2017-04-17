@@ -145,6 +145,7 @@
       <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>fedora-arm-installer</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
+      <packagereq>uboot-images-armv8</packagereq>
     </packagelist>
   </group>
   <group>
@@ -722,6 +723,7 @@
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">uboot-images-armv7</packagereq>
+      <packagereq type="optional">uboot-images-armv8</packagereq>
       <packagereq type="optional">uboot-tools</packagereq>
     </packagelist>
   </group>
