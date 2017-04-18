@@ -4433,6 +4433,9 @@
       <packagereq>libmatemixer</packagereq>
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
+      <packagereq>lightdm</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
+      <packagereq>lightdm-gtk-greeter-settings</packagereq>
       <packagereq>marco</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
@@ -4478,7 +4481,6 @@
       <packagereq>seahorse</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-date</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
