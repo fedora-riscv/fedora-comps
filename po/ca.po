@@ -10,6 +10,7 @@
 # Xavier Conde Rueda <xavi.conde@gmail.com>, 2004, 2006
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2016. #zanata
+# Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>, 2017. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -18,7 +19,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-10-22 04:04-0400\n"
+"PO-Revision-Date: 2017-03-23 09:26-0400\n"
 "Last-Translator: Robert Antoni Buj Gelonch <rbuj@fedoraproject.org>\n"
 "Language-Team: Catalan (http://www.transifex.com/projects/p/comps/language/"
 "ca/)\n"
@@ -391,7 +392,7 @@ msgstr "Servidors d'identitat de màquina i usuaris."
 #: ../comps-f22.xml.in.h:62 ../comps-f23.xml.in.h:60 ../comps-f24.xml.in.h:64
 #: ../comps-f25.xml.in.h:64
 msgid "DNS Name Server"
-msgstr "Servidor de noms de DNS"
+msgstr "Servidor de noms DNS"
 
 #: ../comps-f22.xml.in.h:63 ../comps-f23.xml.in.h:61 ../comps-f24.xml.in.h:65
 #: ../comps-f25.xml.in.h:65
@@ -507,7 +508,7 @@ msgstr "Navegador web Epiphany"
 #: ../comps-f22.xml.in.h:82 ../comps-f23.xml.in.h:80 ../comps-f24.xml.in.h:84
 #: ../comps-f25.xml.in.h:84
 msgid "Epiphany Web Browser for GNOME"
-msgstr "El navegador web Epiphany per al GNOME"
+msgstr "El navegador web Epiphany per a GNOME"
 
 #: ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:81 ../comps-f24.xml.in.h:85
 #: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:71
@@ -543,7 +544,7 @@ msgstr "El navegador web Firefox"
 #: ../comps-f22.xml.in.h:89 ../comps-f23.xml.in.h:87 ../comps-f24.xml.in.h:91
 #: ../comps-f25.xml.in.h:91
 msgid "Font design and packaging"
-msgstr "Disseny i empaquetat de tipus de lletra"
+msgstr "Disseny i empaquetat de lletres"
 
 #: ../comps-f22.xml.in.h:90 ../comps-f23.xml.in.h:88 ../comps-f24.xml.in.h:92
 #: ../comps-f25.xml.in.h:92
@@ -551,18 +552,18 @@ msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
-"Aquest grup és una col·lecció d'eines usades en el disseny, modificació, "
-"manipulació i empaquetat de tipus de lletra."
+"Aquest grup és una col·lecció d'eines utilitzades en el disseny, "
+"modificació, manipulació i empaquetat de lletres."
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
 #: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
 msgid "Fonts"
-msgstr "Tipus de lletra"
+msgstr "Lletres"
 
 #: ../comps-f22.xml.in.h:92 ../comps-f23.xml.in.h:90 ../comps-f24.xml.in.h:94
 #: ../comps-f25.xml.in.h:94
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "Paquets de tipus de lletra per mostrar textos en l'escriptori."
+msgstr "Paquets de lletres per a la renderització de texts en l'escriptori."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
@@ -625,7 +626,7 @@ msgstr "Una varietat de jocs per a l'escriptori GNOME."
 #: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:102
 #: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106 ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
-msgstr "Desenvolupament de programari per al GNOME"
+msgstr "Desenvolupament de programari per a GNOME"
 
 #: ../comps-f22.xml.in.h:105 ../comps-f23.xml.in.h:103
 #: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107 ../comps-el5.xml.in.h:34
@@ -721,7 +722,7 @@ msgstr "Suport per al maquinari"
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
-"Aquest grup és una col·lecció d'eines per a diferents tipus de maquinari."
+"Aquest grup és una col·lecció de diverses eines específiques del maquinari."
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
 #: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124 ../comps-el6.xml.in.h:99
@@ -860,7 +861,7 @@ msgstr "Suport multimèdia de KDE"
 #: ../comps-f22.xml.in.h:145 ../comps-f23.xml.in.h:143
 #: ../comps-f24.xml.in.h:154 ../comps-f25.xml.in.h:154
 msgid "Multimedia support for KDE"
-msgstr "Suport multimèdia per al KDE"
+msgstr "Suport multimèdia per a KDE"
 
 #: ../comps-f22.xml.in.h:146 ../comps-f23.xml.in.h:144
 #: ../comps-f24.xml.in.h:155 ../comps-f25.xml.in.h:155
@@ -934,12 +935,12 @@ msgstr "Suport per al kurd"
 #: ../comps-f22.xml.in.h:158 ../comps-f23.xml.in.h:156
 #: ../comps-f24.xml.in.h:167 ../comps-f25.xml.in.h:167
 msgid "Legacy Fonts"
-msgstr "Tipus de lletra antics"
+msgstr "Lletres antigues"
 
 #: ../comps-f22.xml.in.h:159 ../comps-f23.xml.in.h:157
 #: ../comps-f24.xml.in.h:168 ../comps-f25.xml.in.h:168
 msgid "Older bitmap and vector fonts packages"
-msgstr "Paquets de tipus de lletres de mapes de bit i vector antics"
+msgstr "Paquets de lletres antigues de mapes de bits i de vectors"
 
 #: ../comps-f22.xml.in.h:160 ../comps-f23.xml.in.h:158
 #: ../comps-f24.xml.in.h:169 ../comps-f25.xml.in.h:169
@@ -1036,7 +1037,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:176 ../comps-f23.xml.in.h:174
 #: ../comps-f24.xml.in.h:187 ../comps-f25.xml.in.h:187
 msgid "Multimedia support for LXDE"
-msgstr "Suport multimèdia per al LXDE"
+msgstr "Suport multimèdia per a LXDE"
 
 #: ../comps-f22.xml.in.h:177 ../comps-f23.xml.in.h:175
 #: ../comps-f24.xml.in.h:188 ../comps-f25.xml.in.h:188
@@ -1046,7 +1047,7 @@ msgstr "Ofimàtica LXDE"
 #: ../comps-f22.xml.in.h:178 ../comps-f23.xml.in.h:176
 #: ../comps-f24.xml.in.h:189 ../comps-f25.xml.in.h:189
 msgid "Office suite for LXDE"
-msgstr "Paquet d'ofimàtica per al LXDE"
+msgstr "Paquet d'ofimàtica per a LXDE"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
@@ -1250,7 +1251,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Submòduls comuns de NetworkManager"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
@@ -1258,6 +1259,8 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
+"En aquest grup hi ha els submòduls de NetworkManager que s'utilitzen més "
+"sovint, pot ser que no es vulguin en algunes configuracions simplificades."
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
@@ -1706,7 +1709,7 @@ msgstr "Desenvolupament de programari per a X"
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Aquests paquets us permeten desenvolupar aplicacions per al X Window System."
+"Aquests paquets us permeten desenvolupar aplicacions per a X Window System."
 
 #: ../comps-f22.xml.in.h:294 ../comps-f23.xml.in.h:296
 #: ../comps-f24.xml.in.h:309 ../comps-f25.xml.in.h:309
@@ -1733,7 +1736,7 @@ msgstr "Un entorn d'escriptori lleuger que funciona en ordinadors senzills."
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
 msgid "Extra plugins for the Xfce panel"
-msgstr "Complements extres per al tauler de Xfce"
+msgstr "Connectors extres per al plafó de Xfce"
 
 #: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:301
 #: ../comps-f24.xml.in.h:314 ../comps-f25.xml.in.h:314
@@ -2220,8 +2223,8 @@ msgstr ""
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
 msgstr ""
-"Aquest grup és una col·lecció de servidors de xarxa per a diferents tipus de "
-"maquinari."
+"Aquest grup és una col·lecció de servidors de xarxa per a propòsits "
+"específics."
 
 #: ../comps-el5.xml.in.h:62
 msgid ""
@@ -2458,7 +2461,7 @@ msgstr "Un entorn bàsic de desenvolupament."
 
 #: ../comps-el6.xml.in.h:55 ../comps-epel7.xml.in.h:55
 msgid "Tools for connecting via PPP or ISDN."
-msgstr "Eines per a connectar a través de PPP o ISDN."
+msgstr "Eines per a connectar a través de PPP o XDSI."
 
 #: ../comps-el6.xml.in.h:56 ../comps-epel7.xml.in.h:56
 msgid "Directory Client"
@@ -2525,8 +2528,8 @@ msgstr "Suport per al filipí"
 #: ../comps-el6.xml.in.h:79 ../comps-epel7.xml.in.h:79
 msgid "Fonts for rendering text in a variety of languages and scripts."
 msgstr ""
-"Tipus de lletres per representar el text en una varietat d'idiomes i "
-"alfabets."
+"Lletres per a la renderització de texts en una varietat d'idiomes i alfabets."
+""
 
 #: ../comps-el6.xml.in.h:80 ../comps-epel7.xml.in.h:80
 msgid "French Support"
@@ -2707,7 +2710,7 @@ msgstr "Suport per al letó"
 
 #: ../comps-el6.xml.in.h:138 ../comps-epel7.xml.in.h:138
 msgid "Legacy UNIX compatibility"
-msgstr "Compatibilitat per al llegat UNIX"
+msgstr "Compatibilitat per al llegat d'UNIX"
 
 #: ../comps-el6.xml.in.h:139 ../comps-epel7.xml.in.h:139
 msgid ""
@@ -2719,7 +2722,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:140 ../comps-epel7.xml.in.h:140
 msgid "Legacy X Window System compatibility"
-msgstr "Compatibilitat per al llegat del X Window System"
+msgstr "Compatibilitat per al llegat de X Window System"
 
 #: ../comps-el6.xml.in.h:141 ../comps-epel7.xml.in.h:141
 msgid ""
@@ -2731,7 +2734,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:142 ../comps-epel7.xml.in.h:142
 msgid "Basic legacy X Window System compatibility"
-msgstr "Compatibilitat bàsica per al llegat del X Window System"
+msgstr "Compatibilitat bàsica per al llegat de X Window System"
 
 #: ../comps-el6.xml.in.h:143 ../comps-epel7.xml.in.h:143
 msgid ""
@@ -2768,7 +2771,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:150 ../comps-epel7.xml.in.h:150
 msgid "Mainframe Access"
-msgstr "Accés a ordinadors centals"
+msgstr "Accés a ordinadors centrals"
 
 #: ../comps-el6.xml.in.h:151 ../comps-epel7.xml.in.h:151
 msgid "Tools for accessing mainframe computing resources."
@@ -2885,7 +2888,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:184 ../comps-epel7.xml.in.h:186
 msgid "Perl Support"
-msgstr "Suport per al Perl"
+msgstr "Suport per a Perl"
 
 #: ../comps-el6.xml.in.h:185 ../comps-epel7.xml.in.h:187
 msgid "Perl interfaces to common libraries and functionality."
@@ -3113,7 +3116,7 @@ msgstr "Corredor de missatgeria AMQP per a la gestió de sistemes."
 
 #: ../comps-el6.xml.in.h:244 ../comps-epel7.xml.in.h:246
 msgid "SNMP Support"
-msgstr "Suport per al SNMP"
+msgstr "Suport per a SNMP"
 
 #: ../comps-el6.xml.in.h:245 ../comps-epel7.xml.in.h:247
 msgid "SNMP management agent."
@@ -3149,7 +3152,7 @@ msgstr "Suport per al tetum"
 
 #: ../comps-el6.xml.in.h:255 ../comps-epel7.xml.in.h:257
 msgid "TeX support"
-msgstr "Suport per al TeX"
+msgstr "Suport per a TeX"
 
 #: ../comps-el6.xml.in.h:256 ../comps-epel7.xml.in.h:258
 msgid "Support for the TeX document formatting system."
@@ -3261,7 +3264,7 @@ msgstr "Els paquets de polítiques per a la variant Workstation."
 
 #: ../comps-el6.xml.in.h:288 ../comps-epel7.xml.in.h:290
 msgid "X Window System Support."
-msgstr "Suport per al X Window System."
+msgstr "Suport per a X Window System."
 
 #: ../comps-el6.xml.in.h:291 ../comps-epel7.xml.in.h:293
 msgid "Xhosa Support"

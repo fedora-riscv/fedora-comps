@@ -11,6 +11,7 @@
 # Tamas Szanto <tszanto@mol.hu>, 2004
 # Zoltan Hoppár <zoltanh721@fedoraproject.org>, 2011-2013
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Meskó Balázs <meskobalazs@gmail.com>, 2017. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -19,23 +20,23 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-11-20 06:35-0500\n"
-"Last-Translator: Zoltan Hoppár <zoltanh721@fedoraproject.org>\n"
+"PO-Revision-Date: 2017-04-14 02:07-0400\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
 "Language-Team: Hungarian (http://www.transifex.com/projects/p/comps/language/"
 "hu/)\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 3.9.6\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
 msgid "3D Printing"
-msgstr "3D Nyomtatás"
+msgstr "3D nyomtatás"
 
 #: ../comps-f22.xml.in.h:2 ../comps-f23.xml.in.h:275 ../comps-f24.xml.in.h:288
 #: ../comps-f25.xml.in.h:288
 msgid "3D printing software"
-msgstr "3D nyomtatáshoz szoftverek"
+msgstr "3D nyomtatási szoftverek"
 
 #: ../comps-f22.xml.in.h:3 ../comps-f23.xml.in.h:1 ../comps-f24.xml.in.h:1
 #: ../comps-f25.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -60,28 +61,27 @@ msgstr "Anaconda eszközök"
 #: ../comps-f25.xml.in.h:6 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6
 #: ../comps-epel7.xml.in.h:6
 msgid "Arabic Support"
-msgstr "Arab támogatás"
+msgstr "Arab nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:7 ../comps-f23.xml.in.h:5 ../comps-f24.xml.in.h:7
 #: ../comps-f25.xml.in.h:7 ../comps-el6.xml.in.h:8 ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
-msgstr "Asszám (India) támogatás"
+msgstr "Asszámi nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "Hang előállítás"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "Biztonsági eszközök integritás és a hitelességi ellenőrzéshez."
+msgstr "Különféle eszközök hangszintézishez és zene előállításához."
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
 msgid "Authoring and Publishing"
-msgstr "Irás és kiadás"
+msgstr "Kiadványszerkesztés"
 
 #: ../comps-f22.xml.in.h:11 ../comps-f23.xml.in.h:9 ../comps-f24.xml.in.h:11
 #: ../comps-f25.xml.in.h:11
@@ -101,12 +101,12 @@ msgstr "base-x"
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
 msgid "Local X.org display server"
-msgstr "Helyi X.org kijelző kiszolgáló"
+msgstr "Helyi X.org megjelenítési kiszolgáló"
 
 #: ../comps-f22.xml.in.h:14 ../comps-f23.xml.in.h:12 ../comps-f24.xml.in.h:14
 #: ../comps-f25.xml.in.h:14
 msgid "Basic Desktop"
-msgstr "Alapértelmezett Felület"
+msgstr "Alapvető asztali környezet"
 
 #: ../comps-f22.xml.in.h:15 ../comps-f23.xml.in.h:13 ../comps-f24.xml.in.h:15
 #: ../comps-f25.xml.in.h:15
@@ -116,17 +116,17 @@ msgstr "Alap X Window rendszer önállóan kiválasztott ablakkezelő felülette
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
 #: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
-msgstr "Bengáli  támogatás"
+msgstr "Bengáli nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:17 ../comps-f23.xml.in.h:15 ../comps-f24.xml.in.h:17
 #: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
-msgstr "Butáni támogatás"
+msgstr "Butáni nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:18 ../comps-f23.xml.in.h:16 ../comps-f24.xml.in.h:18
 #: ../comps-f25.xml.in.h:18
 msgid "Bodo Support"
-msgstr "Bodo támogatás"
+msgstr "Bodo nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:19 ../comps-f23.xml.in.h:17 ../comps-f24.xml.in.h:19
 #: ../comps-f25.xml.in.h:19
@@ -136,7 +136,7 @@ msgstr "Könyvek és segédletek"
 #: ../comps-f22.xml.in.h:20 ../comps-f23.xml.in.h:18 ../comps-f24.xml.in.h:20
 #: ../comps-f25.xml.in.h:20
 msgid "Books and Guides for Fedora users and developers"
-msgstr "Könyvek és segédletek Fedora használóknak és fejlesztőknek"
+msgstr "Könyvek és segédletek Fedora felhasználóknak és fejlesztőknek"
 
 #: ../comps-f22.xml.in.h:21 ../comps-f23.xml.in.h:19 ../comps-f24.xml.in.h:21
 #: ../comps-f25.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
@@ -147,12 +147,12 @@ msgstr "Építőrendszer építő csoport"
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
 #: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
-msgstr "Mianmari támogatás"
+msgstr "Mianmari (burmai) nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:23 ../comps-f23.xml.in.h:21 ../comps-f24.xml.in.h:23
 #: ../comps-f25.xml.in.h:23
 msgid "C Development Tools and Libraries"
-msgstr "C nyelv fejlesztői eszközök és könyvtárak."
+msgstr "C nyelv fejlesztői eszközök és könyvtárak"
 
 #: ../comps-f22.xml.in.h:24 ../comps-f23.xml.in.h:22 ../comps-f24.xml.in.h:24
 #: ../comps-f25.xml.in.h:24
@@ -179,18 +179,17 @@ msgstr ""
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
 msgid "Cloud Infrastructure"
-msgstr "Cloud infrastruktúra"
+msgstr "Felhő infrastruktúra"
 
 #: ../comps-f22.xml.in.h:28 ../comps-f23.xml.in.h:26 ../comps-f24.xml.in.h:28
 #: ../comps-f25.xml.in.h:28
 msgid "Infrastructure packages for cloud computing."
-msgstr "Szerkezeti csomagok cloud rendszerhez"
+msgstr "Infrastruktúra csomagok felhős rendszerekhez."
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Fejlesztőeszközök"
+msgstr "Felhő menedzsment eszközök"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
@@ -202,7 +201,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Felhő kiszolgáló eszközök"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
@@ -212,15 +211,13 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "Rendszer Adminisztráció"
+msgstr "Konténerkezelés"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "Eszközök nagygépes számítástechnikai erőforrások eléréséhez."
+msgstr "Eszközök Linux konténerek kezelésére"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
@@ -235,17 +232,17 @@ msgstr "Lehető legkisebb telepítés"
 #: ../comps-f22.xml.in.h:37 ../comps-f23.xml.in.h:35 ../comps-f24.xml.in.h:37
 #: ../comps-f25.xml.in.h:37
 msgid "Critical Path (Applications)"
-msgstr "Critical Path (Alkalmazások)"
+msgstr "Kritikus útvonal (Alkalmazások)"
 
 #: ../comps-f22.xml.in.h:38 ../comps-f23.xml.in.h:36 ../comps-f24.xml.in.h:38
 #: ../comps-f25.xml.in.h:38
 msgid "A set of applications that are considered critical path"
-msgstr "Kritikus eléréshez szükséges alkalmazások"
+msgstr "A kritikus útvonalhoz tartozó alkalmazások csoportja"
 
 #: ../comps-f22.xml.in.h:39 ../comps-f23.xml.in.h:37 ../comps-f24.xml.in.h:39
 #: ../comps-f25.xml.in.h:39
 msgid "Critical Path (Base)"
-msgstr "Kritikus Útvonal (Alap)"
+msgstr "Kritikus útvonal (Alap)"
 
 #: ../comps-f22.xml.in.h:40 ../comps-f23.xml.in.h:38 ../comps-f24.xml.in.h:40
 #: ../comps-f25.xml.in.h:40
@@ -253,13 +250,13 @@ msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
-"Csomagok egy halmaza, amelyek osztott platformot biztosítanak a Kritikus "
-"Útvonal funkcionalitáshoz minden Fedora változaton"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitás közös "
+"platformját biztosítják, minden Fedora változatban"
 
 #: ../comps-f22.xml.in.h:41 ../comps-f23.xml.in.h:39 ../comps-f24.xml.in.h:41
 #: ../comps-f25.xml.in.h:41
 msgid "Critical Path (GNOME)"
-msgstr "Kritikus Útvonal (GNOME)"
+msgstr "Kritikus útvonal (GNOME)"
 
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
@@ -267,13 +264,13 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
 msgstr ""
-"Csomagok egy halmaza, amelyek a Kritikus Útvonal funkcionalitást biztosítják "
-"a GNOME asztal számára"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják a GNOME asztali környezethez"
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
 msgid "Critical Path (KDE)"
-msgstr "Critical Path (KDE)"
+msgstr "Kritikus útvonal (KDE)"
 
 #: ../comps-f22.xml.in.h:44 ../comps-f23.xml.in.h:42 ../comps-f24.xml.in.h:46
 #: ../comps-f25.xml.in.h:46
@@ -281,13 +278,13 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
-"Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást "
-"biztosítják a KDE felület számára"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják a KDE asztali környezethez"
 
 #: ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:43 ../comps-f24.xml.in.h:47
 #: ../comps-f25.xml.in.h:47
 msgid "Critical Path (LXDE)"
-msgstr "Critical Path (LXDE)"
+msgstr "Kritikus útvonal (LXDE)"
 
 #: ../comps-f22.xml.in.h:46 ../comps-f23.xml.in.h:44 ../comps-f24.xml.in.h:48
 #: ../comps-f25.xml.in.h:48
@@ -295,29 +292,27 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
-"Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást "
-"biztosítják az LXDE asztal számára"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják az XFCE asztali környezethez"
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Critical Path (LXDE)"
+msgstr "Kritikus útvonal (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
-"Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást "
-"biztosítják az LXDE asztal számára"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják az LXQt asztali környezethez"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
 msgid "Critical Path (Xfce)"
-msgstr "Critical Path (Xfce)"
+msgstr "Kritikus útvonal (Xfce)"
 
 #: ../comps-f22.xml.in.h:50 ../comps-f23.xml.in.h:48 ../comps-f24.xml.in.h:52
 #: ../comps-f25.xml.in.h:52
@@ -325,21 +320,21 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
-"Alkalmazáscsoport, amelyek a Kritikus Útvonal funkcionalitást "
-"biztosítják az XFCE asztal számára"
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják az Xfce asztali környezethez"
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "C nyelv fejlesztői eszközök és könyvtárak."
+msgstr "D nyelv fejlesztői eszközök és könyvtárak"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr "Ezek általános fejlesztőeszközök, például git és cvs."
+msgstr ""
+"Ezek olyan fejlesztőeszközöket és könyvtárakat tartalmaznak, mint az ldc és "
+"a geany-tag."
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -426,7 +421,7 @@ msgstr "Vállalati szintű, nyílt forráskódú hitelesítés-szolgáltatás"
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "Tartománytagság"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
@@ -477,7 +472,6 @@ msgstr "Elektronikai Labor"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
 msgstr "Tervező és szimulációs eszközök hardvermérnököknek"
 
@@ -499,7 +493,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -507,6 +501,8 @@ msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Az Enlightenment egy sima, gyors, moduláris és jól bővíthető asztali "
+"környezet."
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -531,9 +527,8 @@ msgstr "Fedora csomagkezelés"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Szükséges eszközök és segédprogramok egy Fedora csomagépítő számára."
+msgstr "Szükséges eszközök és segédprogramok egy Fedora csomagépítő számára"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
@@ -576,9 +571,8 @@ msgstr "Betűkészlet csomagok szöveg megjelenítéséhez az asztalon."
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP-kiszolgáló"
+msgstr "FreeIPA kiszolgáló"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -754,9 +748,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "Rendszer Adminisztráció"
+msgstr "Kijelző nélküli menedzsment"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
@@ -814,7 +807,6 @@ msgstr "Támogatás a Java programnyelven történő programok fejlesztéséhez.
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
 msgstr "Java alkalmazás kiszolgáló"
 
@@ -869,12 +861,12 @@ msgstr "KDE oktatási programok"
 #: ../comps-f22.xml.in.h:144 ../comps-f23.xml.in.h:142
 #: ../comps-f24.xml.in.h:153 ../comps-f25.xml.in.h:153
 msgid "KDE Multimedia support"
-msgstr "KDE Multimedia"
+msgstr "KDE multimédia támogatás"
 
 #: ../comps-f22.xml.in.h:145 ../comps-f23.xml.in.h:143
 #: ../comps-f24.xml.in.h:154 ../comps-f25.xml.in.h:154
 msgid "Multimedia support for KDE"
-msgstr "Multimédia támogatás KDE számára"
+msgstr "Multimédia támogatás a KDE-hez"
 
 #: ../comps-f22.xml.in.h:146 ../comps-f23.xml.in.h:144
 #: ../comps-f24.xml.in.h:155 ../comps-f25.xml.in.h:155
@@ -893,10 +885,9 @@ msgstr "KDE szoftverfejlesztés"
 
 #: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:147
 #: ../comps-f24.xml.in.h:158 ../comps-f25.xml.in.h:158
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
 msgstr ""
-"Telepítse ezeket a csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez."
+"Telepítse ezeket a csomagokat Qt és KDE grafikus alkalmazások fejlesztéséhez."
 ""
 
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
@@ -911,19 +902,17 @@ msgstr "KDE Telepathy alkalmazások"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "KDE szoftverfejlesztés"
+msgstr "KDE Frameworks 5 szoftverfejlesztés"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
 msgstr ""
-"Telepítse ezeket a csomagokat QT és KDE grafikus alkalmazások fejlesztéséhez."
-""
+"Telepítse ezeket a csomagokat Qt és KDE Frameworks 5 alkalmazások "
+"fejlesztéséhez."
 
 #: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:152
 #: ../comps-f24.xml.in.h:163 ../comps-f25.xml.in.h:163
@@ -1057,7 +1046,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:176 ../comps-f23.xml.in.h:174
 #: ../comps-f24.xml.in.h:187 ../comps-f25.xml.in.h:187
 msgid "Multimedia support for LXDE"
-msgstr "Multimédia  támogatás LXDE számára"
+msgstr "Multimédia támogatás az LXDE-hez"
 
 #: ../comps-f22.xml.in.h:177 ../comps-f23.xml.in.h:175
 #: ../comps-f24.xml.in.h:188 ../comps-f25.xml.in.h:188
@@ -1071,50 +1060,45 @@ msgstr "Irodai összeállítás az LXDE számára"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Alkalmazások az LXDE felülethez"
+msgstr "Alkalmazások az LXQt asztali környezethez"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "Gyakran használt XFCE alkalmazások gyűjteménye az LXDE felülethez"
+msgstr ""
+"Gyakran használt alkalmazások gyűjteménye az LXQt asztali környezethez"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 ""
 msgstr ""
-"Az LXDE egy pehelykönnyű X11 asztal környezet alacsony hardverspecifikációjú "
-"számítógépek számára mint például netbookok, mobil eszközök vagy régebbi "
-"számítógépek."
+"Az LXQt egy pehelykönnyű X11 asztali környezet alacsony "
+"hardverspecifikációjú számítógépek számára, mint például netbookok, "
+"mobileszközök vagy régebbi számítógépek."
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "Multimédia  támogatás LXDE számára"
+msgstr "Multimédia támogatás az LXQt-hoz"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "LXDE Office"
+msgstr "LXQt Office"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
-#, fuzzy
 msgid "Office suite for LXQt"
-msgstr "Irodai összeállítás az LXDE számára"
+msgstr "Irodai szoftvercsomag az LXQt-hoz"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
 #: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
@@ -1152,21 +1136,18 @@ msgstr "Marati (India) támogatás"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "KDE Alkalmazások"
+msgstr "MATE alkalmazások"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Alkalmazások az LXDE felülethez"
+msgstr "Alkalmazások az LXDE asztali környezethez"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
-#, fuzzy
 msgid "MATE Compiz"
-msgstr "MATE felület"
+msgstr "MATE Compiz"
 
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
@@ -1234,9 +1215,8 @@ msgstr "MongoDB"
 
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
-#, fuzzy
 msgid "Scalable, high-performance NoSQL database."
-msgstr "Skálázható nagy teljesítményű nem SQL alapú adatbázis"
+msgstr "Skálázható, nagy teljesítményű NoSQL adatbázis."
 
 #: ../comps-f22.xml.in.h:206 ../comps-f23.xml.in.h:204
 #: ../comps-f24.xml.in.h:217 ../comps-f25.xml.in.h:217
@@ -1281,7 +1261,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Gyakori NetworkManager almodulok"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
@@ -1307,12 +1287,11 @@ msgstr "OCaml"
 
 #: ../comps-f22.xml.in.h:218 ../comps-f23.xml.in.h:216
 #: ../comps-f24.xml.in.h:229 ../comps-f25.xml.in.h:229
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
-"Támogatás Objective CAML programnyelven illetve programkönyvtárakkal történő "
+"Támogatás Objective Caml programnyelven illetve programkönyvtárakkal történő "
 "fejlesztéshez."
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
@@ -1335,7 +1314,7 @@ msgstr "Hálózati súgó és dokumentáció"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "Orija nyelvi támogatás"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1490,7 +1469,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Hardvertámogatás kiszolgálórendszerekhez"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
@@ -1501,13 +1480,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora Server termékmag"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "Szabályzati csomagok a kiszolgáló változathoz."
+msgstr "A kiszolgáló változat kötelező csomagjai."
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1673,7 +1651,7 @@ msgstr "Urdu (Pakisztán) támogatás"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant libvirt támogatással"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
@@ -1721,13 +1699,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora Workstation termékmag"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "Szabályzati csomagok a munkaállomás változathoz."
+msgstr "A munkaállomás változat kötelező csomagjai."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1776,7 +1753,7 @@ msgstr "Kibővíti az XFCE panel képességeit"
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
 msgid "Multimedia support for Xfce"
-msgstr "Multimédia támogatás az XFCE számára"
+msgstr "Multimédia támogatás az XFCE-hez"
 
 #: ../comps-f22.xml.in.h:301 ../comps-f23.xml.in.h:303
 #: ../comps-f24.xml.in.h:316 ../comps-f25.xml.in.h:316
@@ -1848,9 +1825,8 @@ msgid "Xfce Desktop"
 msgstr "XFCE felület"
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "Hálózat kiszolgálók"
+msgstr "Fedora Server"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1862,9 +1838,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "Munkaállomás szabályzat"
+msgstr "Fedora Workstation"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
@@ -1879,9 +1854,8 @@ msgstr "LXDE felület"
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "LXDE felület"
+msgstr "LXQt asztali környezet"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1896,9 +1870,8 @@ msgstr "MATE felület"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Levelező kiszolgáló"
+msgstr "Fedora Cloud kiszolgáló"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
@@ -2025,7 +1998,7 @@ msgstr ""
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Kijelző nélküli virtualizáció"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
@@ -2034,7 +2007,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Ansible csomópont"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
@@ -2044,17 +2017,19 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "Kritikus útvonal (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
 msgstr ""
+"Azon csomagok csoportja, melyek a kritikus útvonal funkcionalitást "
+"biztosítják a Hawaii asztali környezethez"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Alkalmazások a Hawaii asztali környezethez"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
@@ -2062,7 +2037,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
@@ -2072,19 +2047,19 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Multimédia támogatás a Hawaii-hoz"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii Office"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Irodai szoftvercsomag a Hawaiihoz"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "LiveCD eszközök"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
@@ -2098,25 +2073,27 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii asztali környezet"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Egyéni Fedora operációs rendszer"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Alapvető építőkockák egy egyéni Fedora rendszerhez."
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Fedora Server kiadás"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"Ezek a csomagok a professzionális dizájnereket célozzák meg, és grafikával, "
+"webbel valamint animációval kapcsolatosak."
 
 #: ../comps-el5.xml.in.h:4
 msgid ""
@@ -3071,7 +3048,7 @@ msgstr "Tárolás rendelkezésre-állási eszközök"
 
 #: ../comps-el6.xml.in.h:230 ../comps-epel7.xml.in.h:232
 msgid "A set of tools to manage SAN path availability"
-msgstr "Eszközgyűjtemény SAN elérhetõségek kezeléséhez"
+msgstr "Eszközgyűjtemény a SAN útvonal elérhetőségek kezeléséhez"
 
 #: ../comps-el6.xml.in.h:231 ../comps-epel7.xml.in.h:233
 msgid "Network Storage Server"

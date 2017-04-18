@@ -14,6 +14,7 @@
 # Miro Hrončok <miro@hroncok.cz>, 2013
 # Josef Hruška <hrusjos@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Zdenek <chmelarz@gmail.com>, 2017. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -22,13 +23,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-04-28 09:49-0400\n"
-"Last-Translator: Josef Hruška <hrusjos@gmail.com>\n"
+"PO-Revision-Date: 2017-03-04 07:04-0500\n"
+"Last-Translator: Zdenek <chmelarz@gmail.com>\n"
 "Language-Team: Czech (http://www.transifex.com/projects/p/comps/language/cs/"
 ")\n"
 "Language: cs\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 3.9.6\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -154,7 +155,7 @@ msgstr "Podpora barmštiny"
 #: ../comps-f22.xml.in.h:23 ../comps-f23.xml.in.h:21 ../comps-f24.xml.in.h:23
 #: ../comps-f25.xml.in.h:23
 msgid "C Development Tools and Libraries"
-msgstr "Vývojové nástroje a knihovny C"
+msgstr "Vývojářské nástroje a knihovny C"
 
 #: ../comps-f22.xml.in.h:24 ../comps-f23.xml.in.h:22 ../comps-f24.xml.in.h:24
 #: ../comps-f25.xml.in.h:24
@@ -162,8 +163,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
-"Tyto nástroje zahrnují základní vývojové nástroje jako jsou automake, gcc a "
-"debuggers."
+"Tyto nástroje zahrnují základní vývojářské nástroje jako jsou automake, gcc "
+"a debuggers."
 
 #: ../comps-f22.xml.in.h:25 ../comps-f23.xml.in.h:23 ../comps-f24.xml.in.h:25
 #: ../comps-f25.xml.in.h:25
@@ -322,13 +323,13 @@ msgstr "Sada balíčků kritické funkčnosti pro prostředí pracovní plochy X
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
 msgid "D Development Tools and Libraries"
-msgstr "Vývojové nástroje a knihovny D"
+msgstr "Vývojářské nástroje a knihovny D"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr "Zahrnuje vývojové nástroje a knihovny, jako např. ldc a geany-tag."
+msgstr "Zahrnuje vývojářské nástroje a knihovny, jako např. ldc a geany-tag."
 
 #: ../comps-f22.xml.in.h:53 ../comps-f23.xml.in.h:51 ../comps-f24.xml.in.h:55
 #: ../comps-f25.xml.in.h:55
@@ -363,7 +364,8 @@ msgstr "Vývojářské nástroje"
 #: ../comps-f22.xml.in.h:58 ../comps-f23.xml.in.h:56 ../comps-f24.xml.in.h:60
 #: ../comps-f25.xml.in.h:60
 msgid "These tools include general development tools such as git and CVS."
-msgstr "Tyto nástroje zahrnují hlavni vývojové nástroje jako jsou git a cvs."
+msgstr ""
+"Tyto nástroje zahrnují hlavni vývojářské nástroje jako jsou git a cvs."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
 #: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
@@ -1383,7 +1385,7 @@ msgstr "Vývojářské nástroje RPM"
 #: ../comps-f22.xml.in.h:238 ../comps-f23.xml.in.h:236
 #: ../comps-f24.xml.in.h:249 ../comps-f25.xml.in.h:249
 msgid "These tools include core development tools such rpmbuild."
-msgstr "Tyto nástroje zahrnují základní vývojové nástroje jako rpmbuild."
+msgstr "Tyto nástroje zahrnují základní vývojářské nástroje jako rpmbuild."
 
 #: ../comps-f22.xml.in.h:239 ../comps-f23.xml.in.h:237
 #: ../comps-f24.xml.in.h:250 ../comps-f25.xml.in.h:250
@@ -1439,7 +1441,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:246
 #: ../comps-f24.xml.in.h:259 ../comps-f25.xml.in.h:259
 msgid "Server Configuration Tools"
-msgstr "Konfigurace serveru"
+msgstr "Nástroje pro konfiguraci serveru"
 
 #: ../comps-f22.xml.in.h:249 ../comps-f23.xml.in.h:247
 #: ../comps-f24.xml.in.h:260 ../comps-f25.xml.in.h:260
@@ -2135,7 +2137,7 @@ msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr ""
-"Základní vývojové nástroje jako automake, gcc, perl, python a debuggery."
+"Základní vývojářské nástroje jako automake, gcc, perl, python a debuggery."
 
 #: ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -2426,7 +2428,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:52 ../comps-epel7.xml.in.h:52
 msgid "Development tools"
-msgstr "Vývojové nástroje"
+msgstr "Vývojářské nástroje"
 
 #: ../comps-el6.xml.in.h:53 ../comps-epel7.xml.in.h:53
 msgid "A basic development environment."
@@ -3236,4 +3238,4 @@ msgstr "Aplikace pro koncového uživatele."
 
 #: ../comps-el6.xml.in.h:298 ../comps-epel7.xml.in.h:301
 msgid "Development tools and libraries."
-msgstr "Vývojové nástroje a knihovny."
+msgstr "Vývojářské nástroje a knihovny."
