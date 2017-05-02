@@ -6488,11 +6488,11 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>atomic</packagereq>
+      <packagereq>docker</packagereq>
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree-grub2</packagereq>
       <packagereq>rpm-ostree</packagereq>
-      <packagereq>atomic</packagereq>
-      <packagereq>docker</packagereq>
     </packagelist>
   </group>
   <group>
