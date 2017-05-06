@@ -557,7 +557,6 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
-      <packagereq>gedit</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
@@ -595,6 +594,7 @@
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xed</packagereq>
     </packagelist>
   </group>
   <group>
