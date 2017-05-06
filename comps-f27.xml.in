@@ -550,8 +550,6 @@
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-gui</packagereq>
-      <packagereq>eog</packagereq>
-      <packagereq>evince</packagereq>
       <packagereq>f26-backgrounds-base</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
@@ -570,6 +568,7 @@
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>metacity</packagereq>
+      <packagereq>nemo-extension-xreader</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-image-converter</packagereq>
       <packagereq>nemo-preview</packagereq>
@@ -595,6 +594,9 @@
       <packagereq>thunderbird</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xed</packagereq>
+      <packagereq>xplayer</packagereq>
+      <packagereq>xreader</packagereq>
+      <packagereq>xviewer</packagereq>
     </packagelist>
   </group>
   <group>
