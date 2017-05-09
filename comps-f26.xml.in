@@ -4216,7 +4216,6 @@
       <packagereq>plasma-breeze</packagereq>
       <packagereq>qterminal</packagereq>
       <packagereq>qupzilla</packagereq>
-      <packagereq>qupzilla-kwallet</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
