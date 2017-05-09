@@ -4166,6 +4166,12 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>featherpad</packagereq>
+      <packagereq>kcalc</packagereq>
+      <packagereq>lximage-qt</packagereq>
+      <packagereq>qlipper</packagereq>
+      <packagereq>qpdfview-qt5</packagereq>
+      <packagereq>quassel</packagereq>
       <packagereq>transmission-qt</packagereq>
     </packagelist>
   </group>
@@ -4180,10 +4186,13 @@
       <packagereq>breeze-cursor-theme</packagereq>
       <packagereq>breeze-gtk</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
+      <packagereq>dnfdragora-gui</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
+      <packagereq>gnome-keyring</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>kwin</packagereq>
+      <packagereq>lxappearance</packagereq>
       <packagereq>lxqt-about</packagereq>
       <packagereq>lxqt-common</packagereq>
       <packagereq>lxqt-config</packagereq>
@@ -4196,18 +4205,19 @@
       <packagereq>lxqt-qtplugin</packagereq>
       <packagereq>lxqt-runner</packagereq>
       <packagereq>lxqt-session</packagereq>
+      <packagereq>lxqt-sudo</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>notification-daemon</packagereq>
-      <packagereq>obconf</packagereq>
+      <packagereq>obconf-qt</packagereq>
       <packagereq>openbox</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
-      <packagereq>qterminal-qt5</packagereq>
+      <packagereq>plasma-breeze</packagereq>
+      <packagereq>qterminal</packagereq>
       <packagereq>qupzilla</packagereq>
       <packagereq>qupzilla-kwallet</packagereq>
       <packagereq>sddm</packagereq>
-      <packagereq>sddm-breeze</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
     </packagelist>
@@ -4219,8 +4229,10 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>pavucontrol</packagereq>
+      <packagereq>dragon</packagereq>
+      <packagereq>pavucontrol-qt</packagereq>
       <packagereq>pnmixer</packagereq>
+      <packagereq>yarock</packagereq>
     </packagelist>
   </group>
   <group>
