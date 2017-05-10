@@ -3581,6 +3581,7 @@
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq>plasma-applet-redshift-control</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
