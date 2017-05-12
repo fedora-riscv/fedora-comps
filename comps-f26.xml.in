@@ -584,10 +584,10 @@
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>pix</packagereq>
       <packagereq>redshift-gtk</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
-      <packagereq>shotwell</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
