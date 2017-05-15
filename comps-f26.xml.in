@@ -4622,7 +4622,7 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-ucm</packagereq>
       <packagereq>alsa-utils</packagereq>
-      <packagereq>gstreamer1-plugin-mpg123</packagereq>
+      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
