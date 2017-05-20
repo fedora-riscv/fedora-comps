@@ -2246,8 +2246,8 @@
       <packagereq type="default">tumbler</packagereq>
       <packagereq type="default">xfce4-appfinder</packagereq>
       <packagereq type="default">xfce4-icon-theme</packagereq>
-      <packagereq type="default">xfce4-mixer</packagereq>
       <packagereq type="default">xfce4-power-manager</packagereq>
+      <packagereq type="default">xfce4-pulseaudio-plugin</packagereq>
       <packagereq type="default">xfce4-session-engines</packagereq>
       <packagereq type="default">xfce4-terminal</packagereq>
       <packagereq type="default">xfwm4-theme-nodoka</packagereq>
