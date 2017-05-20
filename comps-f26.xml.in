@@ -4192,6 +4192,7 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-keyring</packagereq>
+      <packagereq>gvfs</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>lxappearance</packagereq>
