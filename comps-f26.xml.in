@@ -3170,6 +3170,7 @@
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">rolekit</packagereq>
+      <packagereq type="default">sscg</packagereq>
       <packagereq type="optional">cockpit-kubernetes</packagereq>
       <packagereq type="optional">cockpit-pcp</packagereq>
     </packagelist>
