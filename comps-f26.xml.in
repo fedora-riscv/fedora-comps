@@ -2651,6 +2651,7 @@
       <packagereq>gnome-software</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
+      <packagereq>gnome-terminal-nautilus</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
