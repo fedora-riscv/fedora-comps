@@ -4620,9 +4620,9 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-ucm</packagereq>
       <packagereq>alsa-utils</packagereq>
-      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
+      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
@@ -6500,11 +6500,11 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>atomic</packagereq>
+      <packagereq>docker</packagereq>
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree-grub2</packagereq>
       <packagereq>rpm-ostree</packagereq>
-      <packagereq>atomic</packagereq>
-      <packagereq>docker</packagereq>
     </packagelist>
   </group>
   <group>
