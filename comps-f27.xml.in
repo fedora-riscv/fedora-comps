@@ -4366,8 +4366,6 @@
     <packagelist>
       <packagereq>atril-thumbnailer</packagereq>
       <packagereq>caja-actions</packagereq>
-      <packagereq>caja-beesu</packagereq>
-      <packagereq>caja-beesu-manager</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
       <packagereq>firewall-applet</packagereq>
@@ -4377,7 +4375,6 @@
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-utils</packagereq>
       <packagereq>pidgin</packagereq>
-      <packagereq>pluma-beesu-plugin</packagereq>
       <packagereq>python-caja</packagereq>
       <packagereq>tigervnc</packagereq>
     </packagelist>
