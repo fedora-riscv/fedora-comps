@@ -6521,7 +6521,6 @@
       <packagereq>acl</packagereq>
       <packagereq>adwaita-qt4</packagereq>
       <packagereq>adwaita-qt5</packagereq>
-      <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
