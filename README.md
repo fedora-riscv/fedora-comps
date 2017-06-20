@@ -33,6 +33,8 @@ In `PackageKit` (Add / Remove Software) the upper left quadrant shows Package co
 
     git clone ssh://git@pagure.io/fedora-comps.git
 
+When changing the packages, make sure the file is sorted. This helps to make it more maintainable. Use `make sort` command to fix the sorting.
+
 ### Tree, Release, and Image Composition ###
 
 The kickstart files in [fedora-kickstarts](https://pagure.io/fedora-kickstarts.git) use the group definitions from comps to compose images and release trees.
