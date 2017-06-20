@@ -5785,7 +5785,6 @@
     <packagelist>
       <packagereq>abrt-cli</packagereq>
       <packagereq>acl</packagereq>
-      <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
@@ -6522,7 +6521,6 @@
       <packagereq>acl</packagereq>
       <packagereq>adwaita-qt4</packagereq>
       <packagereq>adwaita-qt5</packagereq>
-      <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
