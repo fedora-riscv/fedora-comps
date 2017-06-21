@@ -1795,6 +1795,8 @@
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
       <packagereq type="default">adobe-source-han-sans-cn-fonts</packagereq>
       <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-serif-cn-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-serif-tw-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
@@ -5567,6 +5569,7 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libpinyin</packagereq>
       <packagereq type="default">adobe-source-han-sans-cn-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-serif-cn-fonts</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">ibus-table-chinese-erbi</packagereq>
       <packagereq type="optional">ibus-table-chinese-wubi-haifeng</packagereq>
@@ -6295,6 +6298,7 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libzhuyin</packagereq>
       <packagereq type="default">adobe-source-han-sans-tw-fonts</packagereq>
+      <packagereq type="default">adobe-source-han-serif-tw-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">cjkuni-uming-fonts</packagereq>
       <packagereq type="optional">gcin</packagereq>
