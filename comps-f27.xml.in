@@ -3167,6 +3167,7 @@
     <packagelist>
       <packagereq type="mandatory">cockpit-bridge</packagereq>
       <packagereq type="mandatory">cockpit-networkmanager</packagereq>
+      <packagereq type="mandatory">cockpit-packagekit</packagereq>
       <packagereq type="mandatory">cockpit-shell</packagereq>
       <packagereq type="mandatory">cockpit-storaged</packagereq>
       <packagereq type="mandatory">cockpit-ws</packagereq>
