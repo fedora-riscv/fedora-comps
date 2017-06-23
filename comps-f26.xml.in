@@ -6751,10 +6751,10 @@
       <packagereq>albatross-xfwm4-theme</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>arc-theme</packagereq>
+      <packagereq>blueberry</packagereq>
       <packagereq>bluebird-gtk2-theme</packagereq>
       <packagereq>bluebird-gtk3-theme</packagereq>
       <packagereq>bluebird-xfwm4-theme</packagereq>
-      <packagereq>blueman</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
