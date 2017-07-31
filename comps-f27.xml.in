@@ -909,6 +909,7 @@
       <packagereq type="conditional" requires="gimp">gimp-layer-via-copy-cut</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lensfun</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lqr-plugin</packagereq>
+      <packagereq type="conditional" requires="gimp">gimp-luminosity-masks</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-normalmap</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-resynthesizer</packagereq>
