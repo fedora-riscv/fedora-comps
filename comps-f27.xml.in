@@ -4118,6 +4118,7 @@
       <packagereq>lxappearance-obconf</packagereq>
       <packagereq>lxde-common</packagereq>
       <packagereq>lxdm</packagereq>
+      <packagereq>lxhotkey</packagereq>
       <packagereq>lxinput</packagereq>
       <packagereq>lxlauncher</packagereq>
       <packagereq>lxmenu-data</packagereq>
