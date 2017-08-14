@@ -1808,6 +1808,7 @@
       <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-sinhala-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-viet-fonts</packagereq>
@@ -1817,7 +1818,6 @@
       <packagereq type="default">liberation-mono-fonts</packagereq>
       <packagereq type="default">liberation-sans-fonts</packagereq>
       <packagereq type="default">liberation-serif-fonts</packagereq>
-      <packagereq type="default">lklug-fonts</packagereq>
       <packagereq type="default">lohit-assamese-fonts</packagereq>
       <packagereq type="default">lohit-bengali-fonts</packagereq>
       <packagereq type="default">lohit-devanagari-fonts</packagereq>
@@ -5634,10 +5634,11 @@
     <uservisible>false</uservisible>
     <langonly>si</langonly>
     <packagelist>
-      <packagereq type="mandatory">lklug-fonts</packagereq>
+      <packagereq type="mandatory">google-noto-sans-sinhala-fonts</packagereq>
       <packagereq type="mandatory">m17n-db</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-m17n</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-sayura</packagereq>
+      <packagereq type="optional">lklug-fonts</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
     </packagelist>
   </group>
