@@ -2646,6 +2646,7 @@
       <packagereq>gnome-initial-setup</packagereq>
       <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-maps</packagereq>
+      <!-- <packagereq>gnome-music</packagereq> -->
       <!-- <packagereq>gnome-photos</packagereq> -->
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
@@ -2657,6 +2658,7 @@
       <packagereq>gnome-terminal</packagereq>
       <packagereq>gnome-terminal-nautilus</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
+      <packagereq>gnome-todo</packagereq>
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
@@ -2689,6 +2691,7 @@
       <packagereq>polkit</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
+      <packagereq>simple-scan</packagereq>
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
