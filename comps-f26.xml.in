@@ -4926,6 +4926,7 @@
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree</packagereq>
       <packagereq>rpm-ostree</packagereq>
+      <packagereq>fedora-productimg-atomic</packagereq>
     </packagelist>
   </group>
   <group>
