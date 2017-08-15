@@ -665,8 +665,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">docker</packagereq>
       <packagereq type="mandatory">cockpit-docker</packagereq>
+      <packagereq type="mandatory">docker</packagereq>
       <packagereq type="optional">docker-registry</packagereq>
       <packagereq type="optional">fedora-dockerfiles</packagereq>
     </packagelist>
@@ -4931,10 +4931,10 @@
     <packagelist>
       <packagereq>atomic</packagereq>
       <packagereq>docker</packagereq>
+      <packagereq>fedora-productimg-atomic</packagereq>
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree</packagereq>
       <packagereq>rpm-ostree</packagereq>
-      <packagereq>fedora-productimg-atomic</packagereq>
     </packagelist>
   </group>
   <group>
