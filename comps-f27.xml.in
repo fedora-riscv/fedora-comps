@@ -379,7 +379,7 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>i3</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>lightdm</packagereq>
+      <packagereq>lightdm-gtk</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>openbox</packagereq>
       <packagereq>qtile</packagereq>
