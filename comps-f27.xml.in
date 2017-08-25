@@ -85,7 +85,9 @@
       <packagereq>reiserfs-utils</packagereq>
       <packagereq>s390utils</packagereq>
       <packagereq>s390utils-base</packagereq>
-      <packagereq>shim</packagereq>
+      <packagereq>shim-aa64</packagereq>
+      <packagereq>shim-ia32</packagereq>
+      <packagereq>shim-x64</packagereq>
       <packagereq>syslinux-extlinux</packagereq>
       <packagereq>teamd</packagereq>
       <packagereq>xfsprogs</packagereq>
