@@ -571,7 +571,6 @@
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
-      <packagereq>gnome-terminal</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
@@ -603,6 +602,7 @@
       <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
+      <packagereq>tilix</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xed</packagereq>
       <packagereq>xplayer</packagereq>
