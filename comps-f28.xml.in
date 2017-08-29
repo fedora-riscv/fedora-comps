@@ -72,18 +72,18 @@
       <packagereq>firewalld</packagereq>
       <packagereq>gfs2-utils</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
-      <packagereq>grub2-pc</packagereq>
-      <packagereq>grub2-ppc64le</packagereq>
-      <packagereq>grub2-ppc64</packagereq>
       <packagereq>grub2-efi-aa64</packagereq>
       <packagereq>grub2-efi-aa64-cdboot</packagereq>
       <packagereq>grub2-efi-ia32</packagereq>
       <packagereq>grub2-efi-ia32-cdboot</packagereq>
       <packagereq>grub2-efi-x64</packagereq>
       <packagereq>grub2-efi-x64-cdboot</packagereq>
+      <packagereq>grub2-pc</packagereq>
+      <packagereq>grub2-ppc64</packagereq>
+      <packagereq>grub2-ppc64le</packagereq>
       <packagereq>grub2-tools</packagereq>
-      <packagereq>grub2-tools-extra</packagereq>
       <packagereq>grub2-tools-efi</packagereq>
+      <packagereq>grub2-tools-extra</packagereq>
       <packagereq>hfsplus-tools</packagereq>
       <packagereq>iscsi-initiator-utils</packagereq>
       <packagereq>kexec-tools-anaconda-addon</packagereq>
