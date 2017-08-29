@@ -272,6 +272,75 @@
     <packagelist/>
   </group>
   <group>
+    <id>cinnamon-desktop</id>
+    <_name>Cinnamon</_name>
+    <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>abrt-desktop</packagereq>
+      <packagereq>abrt-java-connector</packagereq>
+      <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>brasero</packagereq>
+      <packagereq>cinnamon</packagereq>
+      <packagereq>cinnamon-applet-blueberry</packagereq>
+      <packagereq>cinnamon-control-center</packagereq>
+      <packagereq>cinnamon-screensaver</packagereq>
+      <packagereq>fedora-icon-theme</packagereq>
+      <packagereq>firefox</packagereq>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>fros-recordmydesktop</packagereq>
+      <packagereq>gnome-backgrounds</packagereq>
+      <packagereq>gnome-calculator</packagereq>
+      <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>gnome-screenshot</packagereq>
+      <packagereq>gnome-system-monitor</packagereq>
+      <packagereq>gnome-terminal</packagereq>
+      <packagereq>gvfs-archive</packagereq>
+      <packagereq>gvfs-gphoto2</packagereq>
+      <packagereq>gvfs-mtp</packagereq>
+      <packagereq>gvfs-smb</packagereq>
+      <packagereq>imsettings-cinnamon</packagereq>
+      <packagereq>initial-setup-gui</packagereq>
+      <packagereq>metacity</packagereq>
+      <packagereq>nemo-extension-xreader</packagereq>
+      <packagereq>nemo-fileroller</packagereq>
+      <packagereq>nemo-image-converter</packagereq>
+      <packagereq>nemo-preview</packagereq>
+      <packagereq>NetworkManager-adsl</packagereq>
+      <packagereq>NetworkManager-bluetooth</packagereq>
+      <packagereq>NetworkManager-iodine-gnome</packagereq>
+      <packagereq>NetworkManager-l2tp-gnome</packagereq>
+      <packagereq>NetworkManager-libreswan-gnome</packagereq>
+      <packagereq>NetworkManager-openconnect-gnome</packagereq>
+      <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-pptp-gnome</packagereq>
+      <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-wifi</packagereq>
+      <packagereq>NetworkManager-wwan</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
+      <packagereq>pix</packagereq>
+      <packagereq>powerline</packagereq>
+      <packagereq>redshift-gtk</packagereq>
+      <packagereq>sane-backends-drivers-scanners</packagereq>
+      <packagereq>setroubleshoot</packagereq>
+      <packagereq>simple-scan</packagereq>
+      <packagereq>slick-greeter</packagereq>
+      <packagereq>system-config-printer</packagereq>
+      <packagereq>thunderbird</packagereq>
+      <packagereq>tmux</packagereq>
+      <packagereq>tmux-powerline</packagereq>
+      <packagereq>vim-powerline</packagereq>
+      <packagereq>xawtv</packagereq>
+      <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xed</packagereq>
+      <packagereq>xplayer</packagereq>
+      <packagereq>xreader</packagereq>
+      <packagereq>xviewer</packagereq>
+      <packagereq>yumex</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>compat-libraries</id>
     <_name>Compatibility libraries</_name>
     <_description>Compatibility libraries for applications built on previous versions of Enterprise Linux.</_description>
@@ -913,7 +982,9 @@
     <_description>Software for the input of international text.</_description>
     <default>false</default>
     <uservisible>true</uservisible>
-    <packagelist/>
+    <packagelist>
+      <packagereq type="conditional" requires="cinnamon">imsettings-cinnamon</packagereq>
+    </packagelist>
   </group>
   <group>
     <id>interlingua-support</id>
@@ -2274,6 +2345,31 @@
     <packagelist/>
   </group>
   <environment>
+    <id>cinnamon-desktop-environment</id>
+    <_name>Cinnamon Desktop</_name>
+    <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>cinnamon-desktop</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>libreoffice</groupid>
+      <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <id>mate-desktop-environment</id>
     <_name>MATE Desktop</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
@@ -2297,6 +2393,15 @@
       <groupid>3d-printing</groupid>
     </optionlist>
   </environment>
+  <category>
+    <id>cinnamon-desktop-environment</id>
+    <_name>Cinnamon Desktop</_name>
+    <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
+    <display_order>22</display_order>
+    <grouplist>
+      <groupid>cinnamon-desktop</groupid>
+    </grouplist>
+  </category>
   <category>
     <id>mate-desktop-environment</id>
     <_name>MATE Desktop</_name>
