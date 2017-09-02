@@ -670,6 +670,28 @@
     </packagelist>
   </group>
   <group>
+    <id>compiz</id>
+    <_name>Compiz</_name>
+    <_description>This package group adds Compiz and Emerald</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq>ccsm</packagereq>
+      <packagereq>compiz</packagereq>
+      <packagereq>compiz-bcop</packagereq>
+      <packagereq>compiz-manager</packagereq>
+      <packagereq>compiz-plugins-experimental</packagereq>
+      <packagereq>compiz-plugins-extra</packagereq>
+      <packagereq>compiz-plugins-main</packagereq>
+      <packagereq>compizconfig-python</packagereq>
+      <packagereq>emerald</packagereq>
+      <packagereq>emerald-themes</packagereq>
+      <packagereq>fusion-icon</packagereq>
+      <packagereq>libcompizconfig</packagereq>
+      <packagereq>simple-ccsm</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>container-management</id>
     <_name>Container Management</_name>
     <_description>Tools for managing Linux containers</_description>
@@ -4404,28 +4426,6 @@
     </packagelist>
   </group>
   <group>
-    <id>mate-compiz</id>
-    <_name>MATE Compiz</_name>
-    <_description>This package group adds Compiz and Emerald to MATE desktop</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq>ccsm</packagereq>
-      <packagereq>compiz</packagereq>
-      <packagereq>compiz-bcop</packagereq>
-      <packagereq>compiz-manager</packagereq>
-      <packagereq>compiz-plugins-experimental</packagereq>
-      <packagereq>compiz-plugins-extra</packagereq>
-      <packagereq>compiz-plugins-main</packagereq>
-      <packagereq>compizconfig-python</packagereq>
-      <packagereq>emerald</packagereq>
-      <packagereq>emerald-themes</packagereq>
-      <packagereq>fusion-icon</packagereq>
-      <packagereq>libcompizconfig</packagereq>
-      <packagereq>simple-ccsm</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>mate-desktop</id>
     <_name>MATE</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
@@ -7252,7 +7252,7 @@
     </grouplist>
     <optionlist>
       <groupid>mate-applications</groupid>
-      <groupid>mate-compiz</groupid>
+      <groupid>compiz</groupid>
       <groupid>libreoffice</groupid>
       <groupid>3d-printing</groupid>
     </optionlist>
@@ -7548,8 +7548,8 @@
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <display_order>23</display_order>
     <grouplist>
+      <groupid>compiz</groupid>
       <groupid>mate-applications</groupid>
-      <groupid>mate-compiz</groupid>
       <groupid>mate-desktop</groupid>
     </grouplist>
   </category>
