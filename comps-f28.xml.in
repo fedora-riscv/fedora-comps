@@ -764,6 +764,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">anaconda</packagereq>
+      <packagereq type="mandatory">bash</packagereq>
       <packagereq type="mandatory">createrepo</packagereq>
       <packagereq type="mandatory">dash</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
@@ -781,6 +782,8 @@
       <packagereq type="mandatory">pungi</packagereq>
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
+      <packagereq type="mandatory">selinux-policy</packagereq>
+      <packagereq type="mandatory">setup</packagereq>
       <packagereq type="mandatory">yum</packagereq>
     </packagelist>
   </group>
