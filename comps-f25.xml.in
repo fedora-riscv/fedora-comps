@@ -545,9 +545,9 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
-      <packagereq>blueman</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
+      <packagereq>cinnamon-applet-blueberry</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>eog</packagereq>
@@ -596,6 +596,7 @@
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
+      <packagereq>xawtv</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
     </packagelist>
   </group>

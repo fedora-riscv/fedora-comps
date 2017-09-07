@@ -558,6 +558,7 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
+      <packagereq>cinnamon-applet-blueberry</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-gui</packagereq>
@@ -571,7 +572,6 @@
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
-      <packagereq>gnome-terminal</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
@@ -603,6 +603,8 @@
       <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
+      <packagereq>tilix</packagereq>
+      <packagereq>xawtv</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xed</packagereq>
       <packagereq>xplayer</packagereq>
