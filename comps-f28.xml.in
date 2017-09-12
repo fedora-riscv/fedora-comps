@@ -5261,21 +5261,21 @@
       <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
       <packagereq>rubygem-byebug</packagereq>
+      <packagereq>rubygem-capybara</packagereq>
       <packagereq>rubygem-coffee-rails</packagereq>
       <packagereq>rubygem-jbuilder</packagereq>
-      <packagereq>rubygem-jquery-rails</packagereq>
       <packagereq>rubygem-json</packagereq>
       <packagereq>rubygem-listen</packagereq>
       <packagereq>rubygem-puma</packagereq>
       <packagereq>rubygem-rails</packagereq>
       <packagereq>rubygem-sass-rails</packagereq>
+      <packagereq>rubygem-selenium-webdriver</packagereq>
       <packagereq>rubygem-spring</packagereq>
       <packagereq>rubygem-spring-watcher-listen</packagereq>
       <packagereq>rubygem-sqlite3</packagereq>
       <packagereq>rubygem-turbolinks</packagereq>
       <packagereq>rubygem-uglifier</packagereq>
       <packagereq>rubygem-web-console</packagereq>
-      <packagereq>sqlite-devel</packagereq>
     </packagelist>
   </group>
   <group>
