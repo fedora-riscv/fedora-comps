@@ -4415,7 +4415,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq>atril-thumbnailer</packagereq>
       <packagereq>caja-actions</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
@@ -4441,6 +4440,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
+      <packagereq>atril-thumbnailer</packagereq>
       <packagereq>blueberry</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-image-converter</packagereq>
