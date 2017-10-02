@@ -4414,7 +4414,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq>atril-thumbnailer</packagereq>
       <packagereq>caja-actions</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
@@ -4440,6 +4439,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
+      <packagereq>atril-thumbnailer</packagereq>
       <packagereq>blueberry</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-image-converter</packagereq>
@@ -4453,10 +4453,10 @@
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
       <packagereq>f26-backgrounds-animated</packagereq>
-      <packagereq>f26-backgrounds-base</packagereq>
-      <packagereq>f26-backgrounds-extras-base</packagereq>
-      <packagereq>f26-backgrounds-extras-mate</packagereq>
-      <packagereq>f26-backgrounds-mate</packagereq>
+      <packagereq>f27-backgrounds-base</packagereq>
+      <packagereq>f27-backgrounds-extras-base</packagereq>
+      <packagereq>f27-backgrounds-extras-mate</packagereq>
+      <packagereq>f27-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
