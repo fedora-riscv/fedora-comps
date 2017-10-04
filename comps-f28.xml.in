@@ -2724,6 +2724,8 @@
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
+      <packagereq>tracker</packagereq>
+      <packagereq>tracker-miners</packagereq>
       <packagereq>xdg-desktop-portal</packagereq>
       <packagereq>xdg-desktop-portal-gtk</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
