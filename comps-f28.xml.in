@@ -5804,6 +5804,7 @@
       <packagereq>dosfstools</packagereq>
       <packagereq>ed</packagereq>
       <packagereq>ethtool</packagereq>
+      <packagereq>fedora-release-notes</packagereq>
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
