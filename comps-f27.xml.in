@@ -561,7 +561,7 @@
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-gui</packagereq>
-      <packagereq>f26-backgrounds-base</packagereq>
+      <packagereq>f27-backgrounds-base</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -571,6 +571,7 @@
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
+      <packagereq>gnome-terminal</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
@@ -595,6 +596,7 @@
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>pix</packagereq>
+      <packagereq>powerline</packagereq>
       <packagereq>redshift-gtk</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
@@ -602,7 +604,9 @@
       <packagereq>slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
-      <packagereq>tilix</packagereq>
+      <packagereq>tmux</packagereq>
+      <packagereq>tmux-powerline</packagereq>
+      <packagereq>vim-powerline</packagereq>
       <packagereq>xawtv</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xed</packagereq>
