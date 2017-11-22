@@ -1835,9 +1835,11 @@
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="default">eosrei-emojione-fonts</packagereq>
       <packagereq type="default">gnu-free-mono-fonts</packagereq>
       <packagereq type="default">gnu-free-sans-fonts</packagereq>
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
+      <packagereq type="default">google-noto-emoji-fonts</packagereq>
       <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
@@ -6559,7 +6561,6 @@
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-shell-extension-background-logo</packagereq>
       <packagereq>gnupg2</packagereq>
-      <packagereq>google-noto-emoji-fonts</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>ibus-gtk2</packagereq>
       <packagereq>ibus-gtk3</packagereq>
