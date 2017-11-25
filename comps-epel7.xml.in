@@ -296,10 +296,12 @@
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
+      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
+      <packagereq>hexchat</packagereq>
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm-settings</packagereq>
@@ -320,6 +322,7 @@
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>pidgin</packagereq>
       <packagereq>pix</packagereq>
       <packagereq>powerline</packagereq>
       <packagereq>redshift-gtk</packagereq>
@@ -331,6 +334,7 @@
       <packagereq>thunderbird</packagereq>
       <packagereq>tmux</packagereq>
       <packagereq>tmux-powerline</packagereq>
+      <packagereq>transmission</packagereq>
       <packagereq>vim-powerline</packagereq>
       <packagereq>xawtv</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -2365,7 +2369,7 @@
       <groupid>cinnamon-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>libreoffice</groupid>
+      <groupid>office-suite</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
     </optionlist>
@@ -2390,7 +2394,7 @@
       <groupid>mate-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>libreoffice</groupid>
+      <groupid>office-suite</groupid>
       <groupid>3d-printing</groupid>
     </optionlist>
   </environment>
