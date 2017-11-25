@@ -302,6 +302,7 @@
       <packagereq>gvfs-smb</packagereq>
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>lightdm-settings</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>nemo-extension-xreader</packagereq>
       <packagereq>nemo-fileroller</packagereq>
