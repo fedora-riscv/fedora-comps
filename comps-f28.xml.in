@@ -2168,6 +2168,8 @@
       <packagereq type="optional">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
       <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
+      <packagereq type="optional">polarsys-b612-mono-fonts</packagereq>
+      <packagereq type="optional">polarsys-b612-sans-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
@@ -2998,6 +3000,8 @@
       <packagereq type="optional">mgopen-cosmetica-fonts</packagereq>
       <packagereq type="optional">mgopen-modata-fonts</packagereq>
       <packagereq type="optional">mgopen-moderna-fonts</packagereq>
+      <packagereq type="optional">polarsys-b612-mono-fonts</packagereq>
+      <packagereq type="optional">polarsys-b612-sans-fonts</packagereq>
     </packagelist>
   </group>
   <group>
