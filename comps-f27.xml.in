@@ -857,17 +857,6 @@
     </packagelist>
   </group>
   <group>
-    <id>critical-path-hawaii</id>
-    <_name>Critical Path (Hawaii)</_name>
-    <_description>A set of packages that provide the Critical Path functionality for the Hawaii desktop</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">hawaii-shell</packagereq>
-      <packagereq type="mandatory">sddm</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>critical-path-kde</id>
     <_name>Critical Path (KDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
@@ -3151,67 +3140,6 @@
       <packagereq>hlint</packagereq>
       <packagereq>hscolour</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>hawaii-apps</id>
-    <_name>Applications for the Hawaii Desktop</_name>
-    <_description>A set of commonly used applications for the Hawaii Desktop</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>eyesight</packagereq>
-      <packagereq>transmission-qt</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>hawaii-desktop</id>
-    <_name>Hawaii</_name>
-    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>hawaii-icon-theme</packagereq>
-      <packagereq>hawaii-shell</packagereq>
-      <packagereq>hawaii-system-preferences</packagereq>
-      <packagereq>hawaii-widget-styles</packagereq>
-      <packagereq>hawaii-workspace</packagereq>
-      <packagereq>initial-setup-gui</packagereq>
-      <packagereq>mesa-dri-drivers</packagereq>
-      <packagereq>otter-browser</packagereq>
-      <packagereq>pcmanfm-qt</packagereq>
-      <packagereq>qt5-qdbusviewer</packagereq>
-      <packagereq>qt5-qtbase-gui</packagereq>
-      <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq>qt5-qtwayland</packagereq>
-      <packagereq>qterminal-qt5</packagereq>
-      <packagereq>sddm</packagereq>
-      <packagereq>sddm-theme-hawaii</packagereq>
-      <packagereq>upower</packagereq>
-      <packagereq>xdg-user-dirs</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>hawaii-media</id>
-    <_name>Multimedia support for Hawaii</_name>
-    <_description>Multimedia support for Hawaii</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>pavucontrol</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>hawaii-office</id>
-    <_name>Hawaii Office</_name>
-    <_description>Office suite for Hawaii</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>libreoffice-calc</packagereq>
-      <packagereq>libreoffice-impress</packagereq>
-      <packagereq>libreoffice-writer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -7173,33 +7101,6 @@
     </optionlist>
   </environment>
   <environment>
-    <id>hawaii-desktop-environment</id>
-    <_name>Hawaii Desktop</_name>
-    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
-    <display_order>21</display_order>
-    <grouplist>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
-      <groupid>admin-tools</groupid>
-      <groupid>dial-up</groupid>
-      <groupid>fonts</groupid>
-      <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
-      <groupid>networkmanager-submodules</groupid>
-      <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
-      <groupid>guest-desktop-agents</groupid>
-      <groupid>hawaii-desktop</groupid>
-    </grouplist>
-    <optionlist>
-      <groupid>hawaii-apps</groupid>
-      <groupid>hawaii-media</groupid>
-      <groupid>hawaii-office</groupid>
-      <groupid>3d-printing</groupid>
-      <groupid>cloud-management</groupid>
-    </optionlist>
-  </environment>
-  <environment>
     <id>lxqt-desktop-environment</id>
     <_name>LXQt Desktop</_name>
     <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
@@ -7573,18 +7474,6 @@
       <groupid>compiz</groupid>
       <groupid>mate-applications</groupid>
       <groupid>mate-desktop</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>hawaii-desktop-environment</id>
-    <_name>Hawaii Desktop</_name>
-    <_description>Hawaii is a fast, lightweight, intuitive and user friendly Wayland desktop environment that adapts to desktop and mobile devices.</_description>
-    <display_order>24</display_order>
-    <grouplist>
-      <groupid>hawaii-apps</groupid>
-      <groupid>hawaii-desktop</groupid>
-      <groupid>hawaii-media</groupid>
-      <groupid>hawaii-office</groupid>
     </grouplist>
   </category>
   <category>
