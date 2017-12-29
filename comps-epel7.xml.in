@@ -282,6 +282,7 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>adapta-gtk-theme</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>arc-theme</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-applet-blueberry</packagereq>
