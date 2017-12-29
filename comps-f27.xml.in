@@ -4356,7 +4356,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq>caja-actions</packagereq>
+      <packagereq>caja-beesu</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>caja-terminal</packagereq>
       <packagereq>firewall-applet</packagereq>
@@ -4365,6 +4365,7 @@
       <packagereq>mate-menu</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-utils</packagereq>
+      <packagereq>multimedia-menus</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>python-caja</packagereq>
       <packagereq>tigervnc</packagereq>
@@ -4379,22 +4380,24 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
       <packagereq>atril-thumbnailer</packagereq>
       <packagereq>blueberry</packagereq>
       <packagereq>caja</packagereq>
+      <packagereq>caja-actions</packagereq>
       <packagereq>caja-image-converter</packagereq>
       <packagereq>caja-open-terminal</packagereq>
       <packagereq>caja-sendto</packagereq>
       <packagereq>caja-wallpaper</packagereq>
+      <packagereq>caja-xattr-tags</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
       <packagereq>dnfdragora-gui</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f26-backgrounds-animated</packagereq>
       <packagereq>f27-backgrounds-base</packagereq>
       <packagereq>f27-backgrounds-extras-base</packagereq>
       <packagereq>f27-backgrounds-extras-mate</packagereq>
@@ -4403,6 +4406,8 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
+      <packagereq>gnome-disk-utility</packagereq>
+      <packagereq>gnome-epub-thumbnailer</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>gtk2-engines</packagereq>
@@ -4459,12 +4464,16 @@
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-wifi</packagereq>
+      <packagereq>NetworkManager-wwan</packagereq>
+      <packagereq>nm-connection-editor</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>p7zip</packagereq>
       <packagereq>p7zip-plugins</packagereq>
       <packagereq>parole</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
+      <packagereq>seahorse-caja</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-language</packagereq>
