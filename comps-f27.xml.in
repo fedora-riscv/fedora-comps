@@ -564,12 +564,10 @@
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-gui</packagereq>
-      <packagereq>f27-backgrounds-base</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
-      <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>

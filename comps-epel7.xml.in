@@ -293,7 +293,6 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
-      <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>
