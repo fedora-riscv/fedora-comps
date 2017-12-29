@@ -280,7 +280,10 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>adapta-backgrounds</packagereq>
+      <packagereq>adapta-gtk-theme</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>arc-theme</packagereq>
       <packagereq>brasero</packagereq>
       <packagereq>cinnamon</packagereq>
       <packagereq>cinnamon-applet-blueberry</packagereq>
@@ -290,7 +293,6 @@
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
-      <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-screenshot</packagereq>
