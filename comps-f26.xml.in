@@ -585,6 +585,7 @@
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
+      <packagereq>paper-icon-theme</packagereq>
       <packagereq>pix</packagereq>
       <packagereq>redshift-gtk</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
