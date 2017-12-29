@@ -543,6 +543,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>adapta-backgrounds</packagereq>
       <packagereq>adapta-gtk-theme</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>arc-theme</packagereq>
