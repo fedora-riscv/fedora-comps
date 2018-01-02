@@ -3508,7 +3508,6 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>jovie</packagereq>
       <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
@@ -3563,6 +3562,7 @@
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
@@ -3591,7 +3591,6 @@
       <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
-      <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="conditional" requires="pam_kwallet">socat</packagereq>
     </packagelist>
