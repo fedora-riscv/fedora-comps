@@ -3580,7 +3580,6 @@
       <packagereq>plasma-workspace</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
-      <packagereq>qt5-qdbusviewer</packagereq>
       <packagereq>qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>sddm</packagereq>
