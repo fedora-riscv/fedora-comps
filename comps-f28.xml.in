@@ -3523,7 +3523,6 @@
       <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
-      <packagereq>kdepasswd</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdialog</packagereq>
       <packagereq>kdnssd</packagereq>
