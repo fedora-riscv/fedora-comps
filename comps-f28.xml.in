@@ -3568,6 +3568,7 @@
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
+      <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
       <packagereq>plasma-nm-openconnect</packagereq>
@@ -3579,7 +3580,6 @@
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-user-manager</packagereq>
       <packagereq>plasma-workspace</packagereq>
-      <packagereq>plasma-workspace-drkonqi</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>qt5-qdbusviewer</packagereq>
