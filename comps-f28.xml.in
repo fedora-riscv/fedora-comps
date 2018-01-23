@@ -2792,7 +2792,7 @@
       <packagereq type="default">libgda-devel</packagereq>
       <packagereq type="default">libgnome-keyring-devel</packagereq>
       <packagereq type="default">libnotify-devel</packagereq>
-      <packagereq type="default">webkitgtk4-devel</packagereq>
+      <packagereq type="default">webkit2gtk3-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">cairomm-doc</packagereq>
       <packagereq type="optional">clutter-gst-devel</packagereq>
