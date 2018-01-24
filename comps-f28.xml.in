@@ -3520,7 +3520,6 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>jovie</packagereq>
       <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
@@ -3536,7 +3535,6 @@
       <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
       <packagereq>kdelibs</packagereq>
-      <packagereq>kdepasswd</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdialog</packagereq>
       <packagereq>kdnssd</packagereq>
@@ -3566,7 +3564,6 @@
       <packagereq>kscreenlocker</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
-      <packagereq>kuser</packagereq>
       <packagereq>kwalletmanager</packagereq>
       <packagereq>kwalletmanager5</packagereq>
       <packagereq>kwebkitpart</packagereq>
@@ -3576,10 +3573,12 @@
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
+      <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
       <packagereq>plasma-nm-openconnect</packagereq>
@@ -3591,10 +3590,8 @@
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-user-manager</packagereq>
       <packagereq>plasma-workspace</packagereq>
-      <packagereq>plasma-workspace-drkonqi</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
-      <packagereq>qt5-qdbusviewer</packagereq>
       <packagereq>qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>sddm</packagereq>
@@ -3604,9 +3601,7 @@
       <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
-      <packagereq type="conditional" requires="pinentry">pinentry-qt</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
-      <packagereq type="conditional" requires="pam_kwallet">socat</packagereq>
     </packagelist>
   </group>
   <group>
