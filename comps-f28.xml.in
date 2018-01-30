@@ -3300,8 +3300,12 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-kkc</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
-      <packagereq type="default">vlgothic-fonts</packagereq>
-      <packagereq type="default">vlgothic-p-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-jp-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-mono-cjk-jp-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-jp-fonts</packagereq>
+      <packagereq type="optional">adobe-source-han-code-jp-fonts</packagereq>
+      <packagereq type="optional">adobe-source-han-sans-jp-fonts</packagereq>
+      <packagereq type="optional">adobe-source-han-serif-jp-fonts</packagereq>
       <packagereq type="optional">cmigemo</packagereq>
       <packagereq type="optional">eblook</packagereq>
       <packagereq type="optional">ebview</packagereq>
@@ -3340,6 +3344,8 @@
       <packagereq type="optional">stardict-dic-ja</packagereq>
       <packagereq type="optional">uim-canna</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
+      <packagereq type="optional">vlgothic-fonts</packagereq>
+      <packagereq type="optional">vlgothic-p-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3811,18 +3817,23 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
-      <packagereq type="default">naver-nanum-barun-gothic-fonts</packagereq>
-      <packagereq type="default">naver-nanum-brush-fonts</packagereq>
-      <packagereq type="default">naver-nanum-gothic-fonts</packagereq>
-      <packagereq type="default">naver-nanum-myeongjo-fonts</packagereq>
-      <packagereq type="default">naver-nanum-pen-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-kr-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-mono-cjk-kr-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-kr-fonts</packagereq>
+      <packagereq type="optional">adobe-source-han-sans-kr-fonts</packagereq>
+      <packagereq type="optional">adobe-source-han-serif-kr-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
       <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
       <packagereq type="optional">lv</packagereq>
+      <packagereq type="optional">naver-nanum-barun-gothic-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-brush-fonts</packagereq>
       <packagereq type="optional">naver-nanum-gothic-coding-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-gothic-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="optional">naver-nanum-pen-fonts</packagereq>
       <packagereq type="optional">un-core-batang-fonts</packagereq>
       <packagereq type="optional">un-core-dinaru-fonts</packagereq>
       <packagereq type="optional">un-core-dotum-fonts</packagereq>
