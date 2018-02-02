@@ -4341,7 +4341,6 @@
     <packagelist>
       <packagereq>caja-beesu</packagereq>
       <packagereq>caja-share</packagereq>
-      <packagereq>caja-terminal</packagereq>
       <packagereq>firewall-applet</packagereq>
       <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-icon-theme-faenza</packagereq>
@@ -4368,6 +4367,7 @@
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
       <packagereq>atril-thumbnailer</packagereq>
+      <packagereq>blivet-gui</packagereq>
       <packagereq>blueberry</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-actions</packagereq>
