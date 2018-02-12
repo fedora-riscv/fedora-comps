@@ -1607,6 +1607,7 @@
       <packagereq type="optional">maxima-gui</packagereq>
       <packagereq type="optional">meataxe</packagereq>
       <packagereq type="optional">minisat2</packagereq>
+      <packagereq type="optional">molsketch</packagereq>
       <packagereq type="optional">mona</packagereq>
       <packagereq type="optional">mona-devel</packagereq>
       <packagereq type="optional">mona-emacs</packagereq>
@@ -1641,6 +1642,7 @@
       <packagereq type="optional">root</packagereq>
       <packagereq type="optional">routino</packagereq>
       <packagereq type="optional">rrdtool</packagereq>
+      <packagereq type="optional">scidavis</packagereq>
       <packagereq type="optional">seaview</packagereq>
       <packagereq type="optional">sextractor</packagereq>
       <packagereq type="optional">SIBsim4</packagereq>
