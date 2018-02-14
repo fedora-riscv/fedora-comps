@@ -1833,10 +1833,10 @@
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
-      <packagereq type="default">eosrei-emojione-fonts</packagereq>
       <packagereq type="default">gnu-free-mono-fonts</packagereq>
       <packagereq type="default">gnu-free-sans-fonts</packagereq>
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
+      <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-fonts</packagereq>
       <packagereq type="default">google-noto-sans-jp-fonts</packagereq>
       <packagereq type="default">google-noto-sans-kr-fonts</packagereq>
@@ -1950,6 +1950,7 @@
       <packagereq type="optional">dustin-dustismo-sans-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
+      <packagereq type="optional">eosrei-emojione-fonts</packagereq>
       <packagereq type="optional">extremetuxracer-papercuts-fonts</packagereq>
       <packagereq type="optional">extremetuxracer-papercuts-outline-fonts</packagereq>
       <packagereq type="optional">fontawesome-fonts</packagereq>
