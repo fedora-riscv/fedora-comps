@@ -6684,7 +6684,7 @@
       <packagereq>galculator</packagereq>
       <packagereq>geany</packagereq>
       <packagereq>gparted</packagereq>
-      <packagereq>leafpad</packagereq>
+      <packagereq>mousepad</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>ristretto</packagereq>
@@ -6760,6 +6760,7 @@
       <packagereq>xfce4-session</packagereq>
       <packagereq>xfce4-session-engines</packagereq>
       <packagereq>xfce4-settings</packagereq>
+      <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-terminal</packagereq>
       <packagereq>xfconf</packagereq>
       <packagereq>xfdesktop</packagereq>
