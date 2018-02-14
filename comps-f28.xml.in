@@ -2701,7 +2701,7 @@
       <packagereq>gnome-initial-setup</packagereq>
       <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-maps</packagereq>
-      <!-- <packagereq>gnome-photos</packagereq> -->
+      <packagereq>gnome-photos</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-session-wayland-session</packagereq>
       <packagereq>gnome-session-xsession</packagereq>
@@ -6597,7 +6597,6 @@
       <packagereq>rsync</packagereq>
       <packagereq>scl-utils</packagereq>
       <packagereq>setuptool</packagereq>
-      <packagereq>shotwell</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
       <packagereq>sudo</packagereq>
