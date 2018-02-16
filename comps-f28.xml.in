@@ -6489,6 +6489,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>atomic</packagereq>
+      <packagereq>buildah</packagereq>
       <packagereq>docker</packagereq>
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree-grub2</packagereq>
