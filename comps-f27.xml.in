@@ -3028,6 +3028,7 @@
       <packagereq>open-vm-tools-desktop</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
       <packagereq>spice-vdagent</packagereq>
+      <packagereq>virtualbox-guest-additions</packagereq>
     </packagelist>
   </group>
   <group>
