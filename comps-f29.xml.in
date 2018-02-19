@@ -709,10 +709,11 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">docker</packagereq>
-      <packagereq type="mandatory">docker-cockpit</packagereq>
-      <packagereq type="optional">docker-registry</packagereq>
-      <packagereq type="optional">fedora-dockerfiles</packagereq>
+      <packagereq type="mandatory">atomic</packagereq>
+      <packagereq type="default">docker</packagereq>
+      <packagereq type="default">docker-cockpit</packagereq>
+      <packagereq type="optional">buildah</packagereq>
+      <packagereq type="optional">podman</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4397,9 +4398,8 @@
       <packagereq>caja-sendto</packagereq>
       <packagereq>caja-wallpaper</packagereq>
       <packagereq>caja-xattr-tags</packagereq>
-      <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
@@ -4415,6 +4415,7 @@
       <packagereq>gnome-epub-thumbnailer</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
+      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
@@ -4483,7 +4484,9 @@
       <packagereq>simple-scan</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
+      <packagereq>system-config-printer-applet</packagereq>
       <packagereq>system-config-users</packagereq>
+      <packagereq>thunderbird</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
@@ -6488,8 +6491,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>atomic</packagereq>
-      <packagereq>buildah</packagereq>
       <packagereq>docker</packagereq>
       <packagereq>nss-altfiles</packagereq>
       <packagereq>ostree-grub2</packagereq>
