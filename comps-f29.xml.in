@@ -58,6 +58,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>authconfig</packagereq>
+      <packagereq>authselect</packagereq>
+      <packagereq>authselect-compat</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>chrony</packagereq>
       <packagereq>cryptsetup</packagereq>
