@@ -4406,10 +4406,10 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f27-backgrounds-base</packagereq>
-      <packagereq>f27-backgrounds-extras-base</packagereq>
-      <packagereq>f27-backgrounds-extras-mate</packagereq>
-      <packagereq>f27-backgrounds-mate</packagereq>
+      <packagereq>f28-backgrounds-base</packagereq>
+      <packagereq>f28-backgrounds-extras-base</packagereq>
+      <packagereq>f28-backgrounds-extras-mate</packagereq>
+      <packagereq>f28-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
