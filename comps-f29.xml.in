@@ -6734,7 +6734,7 @@
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
+      <packagereq type="mandatory">lightdm-gtk</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
@@ -6756,22 +6756,22 @@
       <packagereq>thunar-volman</packagereq>
       <packagereq>tumbler</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>xfce4-about</packagereq>
+      <packagereq type="mandatory">xfce4-about</packagereq>
       <packagereq>xfce4-appfinder</packagereq>
       <packagereq>xfce4-datetime-plugin</packagereq>
-      <packagereq>xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
-      <packagereq>xfce4-power-manager</packagereq>
+      <packagereq type="mandatory">xfce4-power-manager</packagereq>
       <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
-      <packagereq>xfce4-session</packagereq>
-      <packagereq>xfce4-session-engines</packagereq>
-      <packagereq>xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-session-engines</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
       <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-terminal</packagereq>
-      <packagereq>xfconf</packagereq>
-      <packagereq>xfdesktop</packagereq>
-      <packagereq>xfwm4</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
       <packagereq>xscreensaver-base</packagereq>
