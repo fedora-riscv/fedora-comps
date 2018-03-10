@@ -57,51 +57,51 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>authselect</packagereq>
-      <packagereq>authselect-compat</packagereq>
-      <packagereq>btrfs-progs</packagereq>
-      <packagereq>chrony</packagereq>
-      <packagereq>cryptsetup</packagereq>
-      <packagereq>device-mapper-multipath</packagereq>
-      <packagereq>dmraid</packagereq>
-      <packagereq>dosfstools</packagereq>
-      <packagereq>dracut-network</packagereq>
-      <packagereq>e2fsprogs</packagereq>
-      <packagereq>efibootmgr</packagereq>
-      <packagereq>extlinux-bootloader</packagereq>
-      <packagereq>fcoe-utils</packagereq>
-      <packagereq>firewalld</packagereq>
-      <packagereq>gfs2-utils</packagereq>
-      <packagereq>glibc-all-langpacks</packagereq>
-      <packagereq>grub2-efi-aa64</packagereq>
-      <packagereq>grub2-efi-aa64-cdboot</packagereq>
-      <packagereq>grub2-efi-ia32</packagereq>
-      <packagereq>grub2-efi-ia32-cdboot</packagereq>
-      <packagereq>grub2-efi-x64</packagereq>
-      <packagereq>grub2-efi-x64-cdboot</packagereq>
-      <packagereq>grub2-pc</packagereq>
-      <packagereq>grub2-ppc64</packagereq>
-      <packagereq>grub2-ppc64le</packagereq>
-      <packagereq>grub2-tools</packagereq>
-      <packagereq>grub2-tools-efi</packagereq>
-      <packagereq>grub2-tools-extra</packagereq>
-      <packagereq>hfsplus-tools</packagereq>
-      <packagereq>iscsi-initiator-utils</packagereq>
-      <packagereq>kexec-tools-anaconda-addon</packagereq>
-      <packagereq>lvm2</packagereq>
-      <packagereq>mactel-boot</packagereq>
-      <packagereq>mdadm</packagereq>
-      <packagereq>ntfsprogs</packagereq>
-      <packagereq>realmd</packagereq>
-      <packagereq>reiserfs-utils</packagereq>
-      <packagereq>s390utils</packagereq>
-      <packagereq>s390utils-base</packagereq>
-      <packagereq>shim-aa64</packagereq>
-      <packagereq>shim-ia32</packagereq>
-      <packagereq>shim-x64</packagereq>
-      <packagereq>syslinux-extlinux</packagereq>
-      <packagereq>teamd</packagereq>
-      <packagereq>xfsprogs</packagereq>
+      <packagereq type="mandatory">authselect</packagereq>
+      <packagereq type="mandatory">authselect-compat</packagereq>
+      <packagereq type="mandatory">btrfs-progs</packagereq>
+      <packagereq type="mandatory">chrony</packagereq>
+      <packagereq type="mandatory">cryptsetup</packagereq>
+      <packagereq type="mandatory">device-mapper-multipath</packagereq>
+      <packagereq type="mandatory">dmraid</packagereq>
+      <packagereq type="mandatory">dosfstools</packagereq>
+      <packagereq type="mandatory">dracut-network</packagereq>
+      <packagereq type="mandatory">e2fsprogs</packagereq>
+      <packagereq type="mandatory" arch="aarch64,x86_64">efibootmgr</packagereq>
+      <packagereq type="mandatory" arch="aarch64,armhfp">extlinux-bootloader</packagereq>
+      <packagereq type="mandatory">fcoe-utils</packagereq>
+      <packagereq type="mandatory">firewalld</packagereq>
+      <packagereq type="mandatory">gfs2-utils</packagereq>
+      <packagereq type="mandatory">glibc-all-langpacks</packagereq>
+      <packagereq type="mandatory" arch="aarch64">grub2-efi-aa64</packagereq>
+      <packagereq type="mandatory" arch="aarch64">grub2-efi-aa64-cdboot</packagereq>
+      <packagereq type="mandatory" arch="x86_64">grub2-efi-ia32</packagereq>
+      <packagereq type="mandatory" arch="x86_64">grub2-efi-ia32-cdboot</packagereq>
+      <packagereq type="mandatory" arch="x86_64">grub2-efi-x64</packagereq>
+      <packagereq type="mandatory" arch="x86_64">grub2-efi-x64-cdboot</packagereq>
+      <packagereq type="mandatory" arch="i386,x86_64">grub2-pc</packagereq>
+      <packagereq type="mandatory" arch="ppc64">grub2-ppc64</packagereq>
+      <packagereq type="mandatory" arch="ppc64le">grub2-ppc64le</packagereq>
+      <packagereq type="mandatory" arch="aarch64,i686,ppc64,ppc64le,x86_64">grub2-tools</packagereq>
+      <packagereq type="mandatory" arch="x86_64">grub2-tools-efi</packagereq>
+      <packagereq type="mandatory" arch="aarch64,i686,ppc64,ppc64le,x86_64">grub2-tools-extra</packagereq>
+      <packagereq type="mandatory">hfsplus-tools</packagereq>
+      <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
+      <packagereq type="mandatory">kexec-tools-anaconda-addon</packagereq>
+      <packagereq type="mandatory">lvm2</packagereq>
+      <packagereq type="mandatory" arch="x86_64">mactel-boot</packagereq>
+      <packagereq type="mandatory">mdadm</packagereq>
+      <packagereq type="mandatory">ntfsprogs</packagereq>
+      <packagereq type="mandatory">realmd</packagereq>
+      <packagereq type="mandatory">reiserfs-utils</packagereq>
+      <packagereq type="mandatory" arch="s390x">s390utils</packagereq>
+      <packagereq type="mandatory" arch="s390x">s390utils-base</packagereq>
+      <packagereq type="mandatory" arch="aarch64">shim-aa64</packagereq>
+      <packagereq type="mandatory" arch="x86_64">shim-ia32</packagereq>
+      <packagereq type="mandatory" arch="x86_64">shim-x64</packagereq>
+      <packagereq type="mandatory" arch="i386,x86_64">syslinux-extlinux</packagereq>
+      <packagereq type="mandatory">teamd</packagereq>
+      <packagereq type="mandatory">xfsprogs</packagereq>
     </packagelist>
   </group>
   <group>
