@@ -560,10 +560,10 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>arc-theme</packagereq>
       <packagereq>brasero</packagereq>
-      <packagereq>cinnamon</packagereq>
+      <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq>cinnamon-applet-blueberry</packagereq>
-      <packagereq>cinnamon-control-center</packagereq>
-      <packagereq>cinnamon-screensaver</packagereq>
+      <packagereq type="mandatory">cinnamon-control-center</packagereq>
+      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
@@ -580,9 +580,9 @@
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
       <packagereq>hexchat</packagereq>
-      <packagereq>imsettings-cinnamon</packagereq>
+      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>metacity</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
       <packagereq>nemo-extension-xreader</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-image-converter</packagereq>
@@ -607,7 +607,7 @@
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq>slick-greeter</packagereq>
+      <packagereq type="mandatory">slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>tmux</packagereq>
