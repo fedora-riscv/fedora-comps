@@ -57,7 +57,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>authconfig</packagereq>
       <packagereq>authselect</packagereq>
       <packagereq>authselect-compat</packagereq>
       <packagereq>btrfs-progs</packagereq>
