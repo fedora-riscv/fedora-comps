@@ -4051,28 +4051,6 @@
       <packagereq type="optional">libreoffice-sdk-doc</packagereq>
     </packagelist>
   </group>
-  <!--
-    Note: The livecd-tools group lists packages that need to be installed
-    into the livecd in order to support the live environment and booting,
-    not all packages are available on all arches so we are using a comps
-    group to be able to ensure they exist
-  -->
-  <group>
-    <id>livecd-tools</id>
-    <_name>LiveCD Tools</_name>
-    <_description>Tools that need to be installed into a livecd for it to function</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>dracut-config-generic</packagereq>
-      <packagereq>dracut-live</packagereq>
-      <packagereq>grub2-efi</packagereq>
-      <packagereq>kernel</packagereq>
-      <packagereq>kernel-modules</packagereq>
-      <packagereq>kernel-modules-extra</packagereq>
-      <packagereq>syslinux</packagereq>
-    </packagelist>
-  </group>
   <group>
     <id>load-balancer</id>
     <_name>Load Balancer</_name>
