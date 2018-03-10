@@ -1768,7 +1768,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>fedora-bookmarks</packagereq>
-      <packagereq>firefox</packagereq>
+      <packagereq type="mandatory">firefox</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2674,8 +2674,8 @@
       <packagereq>caribou-gtk2-module</packagereq>
       <packagereq>caribou-gtk3-module</packagereq>
       <packagereq>cheese</packagereq>
-      <packagereq>control-center</packagereq>
-      <packagereq>dconf</packagereq>
+      <packagereq type="mandatory">control-center</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
       <packagereq>eog</packagereq>
       <!-- <packagereq>epiphany</packagereq> -->
       <packagereq>evince</packagereq>
@@ -2685,11 +2685,11 @@
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>gdm</packagereq>
-      <packagereq>gedit</packagereq>
+      <packagereq type="mandatory">gedit</packagereq>
       <packagereq>glib-networking</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-bluetooth</packagereq>
-      <packagereq>gnome-boxes</packagereq>
+      <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-calendar</packagereq>
       <packagereq>gnome-characters</packagereq>
@@ -2706,13 +2706,13 @@
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-photos</packagereq>
       <packagereq>gnome-screenshot</packagereq>
-      <packagereq>gnome-session-wayland-session</packagereq>
-      <packagereq>gnome-session-xsession</packagereq>
-      <packagereq>gnome-settings-daemon</packagereq>
-      <packagereq>gnome-shell</packagereq>
-      <packagereq>gnome-software</packagereq>
+      <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
+      <packagereq type="mandatory">gnome-session-xsession</packagereq>
+      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
+      <packagereq type="mandatory">gnome-shell</packagereq>
+      <packagereq type="mandatory">gnome-software</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
-      <packagereq>gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
@@ -2732,7 +2732,7 @@
       <packagereq>libsane-hpaio</packagereq>
       <packagereq>ModemManager</packagereq>
       <packagereq>mousetweaks</packagereq>
-      <packagereq>nautilus</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
       <packagereq>nautilus-sendto</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
@@ -2743,7 +2743,7 @@
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
-      <packagereq>polkit</packagereq>
+      <packagereq type="mandatory">polkit</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>sushi</packagereq>
