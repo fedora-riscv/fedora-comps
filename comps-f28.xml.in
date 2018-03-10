@@ -564,7 +564,7 @@
       <packagereq>cinnamon-applet-blueberry</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -3532,7 +3532,7 @@
       <packagereq>cagibi</packagereq>
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>dolphin</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
@@ -4107,7 +4107,7 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>clipit</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>galculator</packagereq>
@@ -6744,7 +6744,7 @@
       <packagereq>bluebird-xfwm4-theme</packagereq>
       <packagereq>blueman</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>

@@ -563,7 +563,7 @@
       <packagereq>cinnamon-applet-blueberry</packagereq>
       <packagereq>cinnamon-control-center</packagereq>
       <packagereq>cinnamon-screensaver</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -4093,7 +4093,7 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>clipit</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>galculator</packagereq>
@@ -4187,7 +4187,7 @@
       <packagereq>breeze-cursor-theme</packagereq>
       <packagereq>breeze-gtk</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-keyring</packagereq>
@@ -4400,7 +4400,7 @@
       <packagereq>caja-xattr-tags</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>dconf-editor</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
@@ -6754,7 +6754,7 @@
       <packagereq>bluebird-gtk3-theme</packagereq>
       <packagereq>bluebird-xfwm4-theme</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
-      <packagereq>dnfdragora-gui</packagereq>
+      <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>fros-recordmydesktop</packagereq>
