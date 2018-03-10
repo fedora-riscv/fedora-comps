@@ -6493,10 +6493,10 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>docker</packagereq>
-      <packagereq>nss-altfiles</packagereq>
-      <packagereq>ostree-grub2</packagereq>
-      <packagereq>rpm-ostree</packagereq>
+      <packagereq type="mandatory">docker</packagereq>
+      <packagereq type="mandatory">nss-altfiles</packagereq>
+      <packagereq type="mandatory">ostree-grub2</packagereq>
+      <packagereq type="mandatory">rpm-ostree</packagereq>
     </packagelist>
   </group>
   <group>
