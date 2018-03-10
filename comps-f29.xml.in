@@ -3594,7 +3594,7 @@
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
-      <packagereq>plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
@@ -3608,14 +3608,14 @@
       <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-user-manager</packagereq>
-      <packagereq>plasma-workspace</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
-      <packagereq>qt5-qtbase-gui</packagereq>
+      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq>sddm</packagereq>
-      <packagereq>sddm-breeze</packagereq>
-      <packagereq>sddm-kcm</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+      <packagereq type="mandatory">sddm-breeze</packagereq>
+      <packagereq type="mandatory">sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
       <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
