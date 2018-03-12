@@ -2746,6 +2746,7 @@
       <packagereq>polkit</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
+      <packagereq>simple-scan</packagereq>
       <packagereq>sushi</packagereq>
       <packagereq>totem</packagereq>
       <packagereq>totem-nautilus</packagereq>
