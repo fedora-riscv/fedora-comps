@@ -5509,6 +5509,7 @@
     <packagelist>
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">fedora-release-server</packagereq>
+      <packagereq type="mandatory">fedora-repos-modular</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
