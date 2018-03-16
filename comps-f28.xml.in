@@ -6779,6 +6779,7 @@
       <packagereq>thunar-media-tags-plugin</packagereq>
       <packagereq>thunar-volman</packagereq>
       <packagereq>tumbler</packagereq>
+      <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfce4-about</packagereq>
       <packagereq>xfce4-appfinder</packagereq>
@@ -6819,7 +6820,6 @@
       <packagereq>xfce4-netload-plugin</packagereq>
       <packagereq>xfce4-sensors-plugin</packagereq>
       <packagereq>xfce4-systemload-plugin</packagereq>
-      <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-time-out-plugin</packagereq>
       <packagereq>xfce4-verve-plugin</packagereq>
       <packagereq>xfce4-weather-plugin</packagereq>
