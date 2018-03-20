@@ -2670,9 +2670,6 @@
       <packagereq>at-spi2-core</packagereq>
       <packagereq>avahi</packagereq>
       <packagereq>baobab</packagereq>
-      <packagereq>caribou</packagereq>
-      <packagereq>caribou-gtk2-module</packagereq>
-      <packagereq>caribou-gtk3-module</packagereq>
       <packagereq>cheese</packagereq>
       <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
