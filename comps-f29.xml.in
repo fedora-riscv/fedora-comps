@@ -67,39 +67,39 @@
       <packagereq type="mandatory">dosfstools</packagereq>
       <packagereq type="mandatory">dracut-network</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
-      <packagereq type="mandatory" arch="aarch64,x86_64">efibootmgr</packagereq>
-      <packagereq type="mandatory" arch="aarch64,armhfp">extlinux-bootloader</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">efibootmgr</packagereq>
+      <packagereq arch="aarch64,armhfp" type="mandatory">extlinux-bootloader</packagereq>
       <packagereq type="mandatory">fcoe-utils</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">gfs2-utils</packagereq>
       <packagereq type="mandatory">glibc-all-langpacks</packagereq>
-      <packagereq type="mandatory" arch="aarch64">grub2-efi-aa64</packagereq>
-      <packagereq type="mandatory" arch="aarch64">grub2-efi-aa64-cdboot</packagereq>
-      <packagereq type="mandatory" arch="x86_64">grub2-efi-ia32</packagereq>
-      <packagereq type="mandatory" arch="x86_64">grub2-efi-ia32-cdboot</packagereq>
-      <packagereq type="mandatory" arch="x86_64">grub2-efi-x64</packagereq>
-      <packagereq type="mandatory" arch="x86_64">grub2-efi-x64-cdboot</packagereq>
-      <packagereq type="mandatory" arch="i386,x86_64">grub2-pc</packagereq>
-      <packagereq type="mandatory" arch="ppc64">grub2-ppc64</packagereq>
-      <packagereq type="mandatory" arch="ppc64le">grub2-ppc64le</packagereq>
-      <packagereq type="mandatory" arch="aarch64,i686,ppc64,ppc64le,x86_64">grub2-tools</packagereq>
-      <packagereq type="mandatory" arch="x86_64">grub2-tools-efi</packagereq>
-      <packagereq type="mandatory" arch="aarch64,i686,ppc64,ppc64le,x86_64">grub2-tools-extra</packagereq>
+      <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64</packagereq>
+      <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64-cdboot</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32-cdboot</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-efi-x64</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-efi-x64-cdboot</packagereq>
+      <packagereq arch="i386,x86_64" type="mandatory">grub2-pc</packagereq>
+      <packagereq arch="ppc64" type="mandatory">grub2-ppc64</packagereq>
+      <packagereq arch="ppc64le" type="mandatory">grub2-ppc64le</packagereq>
+      <packagereq arch="aarch64,i686,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-tools-efi</packagereq>
+      <packagereq arch="aarch64,i686,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
       <packagereq type="mandatory">kexec-tools-anaconda-addon</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
-      <packagereq type="mandatory" arch="x86_64">mactel-boot</packagereq>
+      <packagereq arch="x86_64" type="mandatory">mactel-boot</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
       <packagereq type="mandatory">ntfsprogs</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq type="mandatory">reiserfs-utils</packagereq>
-      <packagereq type="mandatory" arch="s390x">s390utils</packagereq>
-      <packagereq type="mandatory" arch="s390x">s390utils-base</packagereq>
-      <packagereq type="mandatory" arch="aarch64">shim-aa64</packagereq>
-      <packagereq type="mandatory" arch="x86_64">shim-ia32</packagereq>
-      <packagereq type="mandatory" arch="x86_64">shim-x64</packagereq>
-      <packagereq type="mandatory" arch="i386,x86_64">syslinux-extlinux</packagereq>
+      <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
+      <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
+      <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
+      <packagereq arch="x86_64" type="mandatory">shim-ia32</packagereq>
+      <packagereq arch="x86_64" type="mandatory">shim-x64</packagereq>
+      <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
     </packagelist>
@@ -560,10 +560,7 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>arc-theme</packagereq>
       <packagereq>brasero</packagereq>
-      <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq>cinnamon-applet-blueberry</packagereq>
-      <packagereq type="mandatory">cinnamon-control-center</packagereq>
-      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firefox</packagereq>
@@ -580,9 +577,7 @@
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>gvfs-smb</packagereq>
       <packagereq>hexchat</packagereq>
-      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq type="mandatory">metacity</packagereq>
       <packagereq>nemo-extension-xreader</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-image-converter</packagereq>
@@ -607,7 +602,6 @@
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
-      <packagereq type="mandatory">slick-greeter</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>tmux</packagereq>
@@ -620,6 +614,12 @@
       <packagereq>xplayer</packagereq>
       <packagereq>xreader</packagereq>
       <packagereq>xviewer</packagereq>
+      <packagereq type="mandatory">cinnamon</packagereq>
+      <packagereq type="mandatory">cinnamon-control-center</packagereq>
+      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
+      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">slick-greeter</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2674,8 +2674,6 @@
       <packagereq>caribou-gtk2-module</packagereq>
       <packagereq>caribou-gtk3-module</packagereq>
       <packagereq>cheese</packagereq>
-      <packagereq type="mandatory">control-center</packagereq>
-      <packagereq type="mandatory">dconf</packagereq>
       <packagereq>eog</packagereq>
       <!-- <packagereq>epiphany</packagereq> -->
       <packagereq>evince</packagereq>
@@ -2685,11 +2683,9 @@
       <packagereq>file-roller-nautilus</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>gdm</packagereq>
-      <packagereq type="mandatory">gedit</packagereq>
       <packagereq>glib-networking</packagereq>
       <packagereq>gnome-backgrounds</packagereq>
       <packagereq>gnome-bluetooth</packagereq>
-      <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-calendar</packagereq>
       <packagereq>gnome-characters</packagereq>
@@ -2706,13 +2702,7 @@
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-photos</packagereq>
       <packagereq>gnome-screenshot</packagereq>
-      <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
-      <packagereq type="mandatory">gnome-session-xsession</packagereq>
-      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
-      <packagereq type="mandatory">gnome-shell</packagereq>
-      <packagereq type="mandatory">gnome-software</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
-      <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq>gnome-themes-standard</packagereq>
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
@@ -2732,7 +2722,6 @@
       <packagereq>libsane-hpaio</packagereq>
       <packagereq>ModemManager</packagereq>
       <packagereq>mousetweaks</packagereq>
-      <packagereq type="mandatory">nautilus</packagereq>
       <packagereq>nautilus-sendto</packagereq>
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
@@ -2743,7 +2732,6 @@
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
-      <packagereq type="mandatory">polkit</packagereq>
       <packagereq>rygel</packagereq>
       <packagereq>sane-backends-drivers-scanners</packagereq>
       <packagereq>simple-scan</packagereq>
@@ -2756,6 +2744,18 @@
       <packagereq>xdg-desktop-portal-gtk</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>yelp</packagereq>
+      <packagereq type="mandatory">control-center</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
+      <packagereq type="mandatory">gedit</packagereq>
+      <packagereq type="mandatory">gnome-boxes</packagereq>
+      <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
+      <packagereq type="mandatory">gnome-session-xsession</packagereq>
+      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
+      <packagereq type="mandatory">gnome-shell</packagereq>
+      <packagereq type="mandatory">gnome-software</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">polkit</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3595,7 +3595,6 @@
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
-      <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
@@ -3609,17 +3608,18 @@
       <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-user-manager</packagereq>
-      <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
-      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq type="mandatory">sddm</packagereq>
-      <packagereq type="mandatory">sddm-breeze</packagereq>
-      <packagereq type="mandatory">sddm-kcm</packagereq>
       <packagereq>sni-qt</packagereq>
       <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+      <packagereq type="mandatory">sddm-breeze</packagereq>
+      <packagereq type="mandatory">sddm-kcm</packagereq>
       <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
     </packagelist>
@@ -4030,12 +4030,12 @@
     <_name>LibreOffice</_name>
     <_description>LibreOffice Productivity Suite</_description>
     <packagelist>
-      <packagereq type="mandatory">libreoffice-calc</packagereq>
-      <packagereq type="mandatory">libreoffice-draw</packagereq>
       <packagereq>libreoffice-emailmerge</packagereq>
       <packagereq>libreoffice-graphicfilter</packagereq>
-      <packagereq type="mandatory">libreoffice-impress</packagereq>
       <packagereq>libreoffice-math</packagereq>
+      <packagereq type="mandatory">libreoffice-calc</packagereq>
+      <packagereq type="mandatory">libreoffice-draw</packagereq>
+      <packagereq type="mandatory">libreoffice-impress</packagereq>
       <packagereq type="mandatory">libreoffice-writer</packagereq>
       <packagereq type="optional">libreoffice-base</packagereq>
       <packagereq type="optional">libreoffice-pyuno</packagereq>
@@ -6736,7 +6736,6 @@
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq type="mandatory">lightdm-gtk</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
@@ -6759,25 +6758,26 @@
       <packagereq>tumbler</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq type="mandatory">xfce4-about</packagereq>
       <packagereq>xfce4-appfinder</packagereq>
       <packagereq>xfce4-datetime-plugin</packagereq>
-      <packagereq type="mandatory">xfce4-panel</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
-      <packagereq type="mandatory">xfce4-power-manager</packagereq>
       <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
-      <packagereq type="mandatory">xfce4-session</packagereq>
-      <packagereq type="mandatory">xfce4-session-engines</packagereq>
-      <packagereq type="mandatory">xfce4-settings</packagereq>
       <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-terminal</packagereq>
-      <packagereq type="mandatory">xfconf</packagereq>
-      <packagereq type="mandatory">xfdesktop</packagereq>
-      <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
       <packagereq>xscreensaver-base</packagereq>
+      <packagereq type="mandatory">lightdm-gtk</packagereq>
+      <packagereq type="mandatory">xfce4-about</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-power-manager</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-session-engines</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
     </packagelist>
   </group>
   <group>
