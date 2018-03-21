@@ -1242,6 +1242,9 @@
       <packagereq type="mandatory">samba-common-tools</packagereq>
       <packagereq type="mandatory">samba-winbind</packagereq>
       <packagereq type="mandatory">sssd</packagereq>
+      <packagereq type="default">libsss_autofs</packagereq>
+      <packagereq type="default">libsss_sudo</packagereq>
+      <packagereq type="default">sssd-nfs-idmap</packagereq>
     </packagelist>
   </group>
   <group>
