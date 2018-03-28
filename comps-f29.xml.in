@@ -3584,7 +3584,6 @@
       <packagereq>kscreenlocker</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>ksysguard</packagereq>
-      <packagereq>kwalletmanager</packagereq>
       <packagereq>kwalletmanager5</packagereq>
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
