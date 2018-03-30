@@ -7043,6 +7043,7 @@
     <!-- Keep this list in sync with the list in fedora-workstation-packages.ks. -->
     <grouplist>
       <groupid>base-x</groupid>
+      <groupid>container-management</groupid>
       <groupid>core</groupid>
       <groupid>firefox</groupid>
       <groupid>fonts</groupid>
