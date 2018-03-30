@@ -2720,6 +2720,7 @@
       <packagereq>libproxy-mozjs</packagereq>
       <packagereq>librsvg2</packagereq>
       <packagereq>libsane-hpaio</packagereq>
+      <packagereq>mesa-libEGL</packagereq>
       <packagereq>ModemManager</packagereq>
       <packagereq>mousetweaks</packagereq>
       <packagereq>nautilus-sendto</packagereq>
