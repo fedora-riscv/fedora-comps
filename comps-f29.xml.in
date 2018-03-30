@@ -2855,7 +2855,6 @@
       <packagereq type="optional">firefox</packagereq>
       <packagereq type="optional">gajim</packagereq>
       <packagereq type="optional">gftp</packagereq>
-      <packagereq type="optional">gnash-plugin</packagereq>
       <packagereq type="optional">gnome-translate</packagereq>
       <packagereq type="optional">gtk-gnutella</packagereq>
       <packagereq type="optional">gtorrentviewer</packagereq>
@@ -2864,7 +2863,6 @@
       <packagereq type="optional">icedtea-web</packagereq>
       <packagereq type="optional">jd</packagereq>
       <packagereq type="optional">kazehakase</packagereq>
-      <packagereq type="optional">kdepim</packagereq>
       <packagereq type="optional">kdewebdev</packagereq>
       <packagereq type="optional">kita</packagereq>
       <packagereq type="optional">knetstats</packagereq>
@@ -3716,7 +3714,6 @@
       <packagereq type="optional">kdbg</packagereq>
       <packagereq type="optional">kde-baseapps-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
-      <packagereq type="optional">kdepim-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">kiten-devel</packagereq>
@@ -4816,7 +4813,6 @@
       <packagereq type="optional">htmldoc</packagereq>
       <packagereq type="optional">jpilot</packagereq>
       <packagereq type="optional">kchmviewer-qt</packagereq>
-      <packagereq type="optional">kdepim</packagereq>
       <packagereq type="optional">keurocalc</packagereq>
       <packagereq type="optional">klatexformula</packagereq>
       <packagereq type="optional">klatexformula-ktexteditor-plugin</packagereq>
