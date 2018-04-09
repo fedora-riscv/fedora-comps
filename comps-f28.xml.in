@@ -3122,7 +3122,6 @@
       <packagereq type="optional">alsa-firmware</packagereq>
       <packagereq type="optional">bcm283x-firmware</packagereq>
       <packagereq type="optional">cmospwd</packagereq>
-      <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
       <packagereq type="optional">gypsy</packagereq>
@@ -5511,7 +5510,6 @@
       <packagereq type="default">lm_sensors</packagereq>
       <packagereq type="default">openhpi</packagereq>
       <packagereq type="default">smp_utils</packagereq>
-      <packagereq type="optional">firmware-addon-dell</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">hdparm</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
