@@ -553,73 +553,73 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
-      <packagereq>abrt-java-connector</packagereq>
-      <packagereq>adapta-backgrounds</packagereq>
-      <packagereq>adapta-gtk-theme</packagereq>
-      <packagereq>alsa-plugins-pulseaudio</packagereq>
-      <packagereq>arc-theme</packagereq>
-      <packagereq>brasero</packagereq>
-      <packagereq>cinnamon</packagereq>
-      <packagereq>cinnamon-applet-blueberry</packagereq>
-      <packagereq>cinnamon-control-center</packagereq>
-      <packagereq>cinnamon-screensaver</packagereq>
-      <packagereq>dnfdragora-updater</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
-      <packagereq>firefox</packagereq>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>fros-recordmydesktop</packagereq>
-      <packagereq>gnome-calculator</packagereq>
-      <packagereq>gnome-disk-utility</packagereq>
-      <packagereq>gnome-screenshot</packagereq>
-      <packagereq>gnome-system-monitor</packagereq>
-      <packagereq>gnome-terminal</packagereq>
-      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
-      <packagereq>gvfs-archive</packagereq>
-      <packagereq>gvfs-gphoto2</packagereq>
-      <packagereq>gvfs-mtp</packagereq>
-      <packagereq>gvfs-smb</packagereq>
-      <packagereq>hexchat</packagereq>
-      <packagereq>imsettings-cinnamon</packagereq>
-      <packagereq>initial-setup-gui</packagereq>
-      <packagereq>metacity</packagereq>
-      <packagereq>nemo-extension-xreader</packagereq>
-      <packagereq>nemo-fileroller</packagereq>
-      <packagereq>nemo-image-converter</packagereq>
-      <packagereq>nemo-preview</packagereq>
-      <packagereq>NetworkManager-adsl</packagereq>
-      <packagereq>NetworkManager-bluetooth</packagereq>
-      <packagereq>NetworkManager-iodine-gnome</packagereq>
-      <packagereq>NetworkManager-l2tp-gnome</packagereq>
-      <packagereq>NetworkManager-libreswan-gnome</packagereq>
-      <packagereq>NetworkManager-openconnect-gnome</packagereq>
-      <packagereq>NetworkManager-openvpn-gnome</packagereq>
-      <packagereq>NetworkManager-pptp-gnome</packagereq>
-      <packagereq>NetworkManager-vpnc-gnome</packagereq>
-      <packagereq>NetworkManager-wifi</packagereq>
-      <packagereq>NetworkManager-wwan</packagereq>
-      <packagereq>nm-connection-editor</packagereq>
-      <packagereq>paper-icon-theme</packagereq>
-      <packagereq>pidgin</packagereq>
-      <packagereq>pix</packagereq>
-      <packagereq>powerline</packagereq>
-      <packagereq>redshift-gtk</packagereq>
-      <packagereq>sane-backends-drivers-scanners</packagereq>
-      <packagereq>setroubleshoot</packagereq>
-      <packagereq>simple-scan</packagereq>
-      <packagereq>slick-greeter</packagereq>
-      <packagereq>system-config-printer</packagereq>
-      <packagereq>thunderbird</packagereq>
-      <packagereq>tmux</packagereq>
-      <packagereq>tmux-powerline</packagereq>
-      <packagereq>transmission</packagereq>
-      <packagereq>vim-powerline</packagereq>
-      <packagereq>xawtv</packagereq>
-      <packagereq>xdg-user-dirs-gtk</packagereq>
-      <packagereq>xed</packagereq>
-      <packagereq>xplayer</packagereq>
-      <packagereq>xreader</packagereq>
-      <packagereq>xviewer</packagereq>
+      <packagereq type="mandatory">abrt-desktop</packagereq>
+      <packagereq type="mandatory">abrt-java-connector</packagereq>
+      <packagereq type="mandatory">adapta-backgrounds</packagereq>
+      <packagereq type="mandatory">adapta-gtk-theme</packagereq>
+      <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
+      <packagereq type="mandatory">arc-theme</packagereq>
+      <packagereq type="mandatory">brasero</packagereq>
+      <packagereq type="mandatory">cinnamon</packagereq>
+      <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
+      <packagereq type="mandatory">cinnamon-control-center</packagereq>
+      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
+      <packagereq type="mandatory">dnfdragora-updater</packagereq>
+      <packagereq type="mandatory">fedora-icon-theme</packagereq>
+      <packagereq type="mandatory">firefox</packagereq>
+      <packagereq type="mandatory">firewall-config</packagereq>
+      <packagereq type="mandatory">fros-recordmydesktop</packagereq>
+      <packagereq type="mandatory">gnome-calculator</packagereq>
+      <packagereq type="mandatory">gnome-disk-utility</packagereq>
+      <packagereq type="mandatory">gnome-screenshot</packagereq>
+      <packagereq type="mandatory">gnome-system-monitor</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gstreamer1-plugins-ugly-free</packagereq>
+      <packagereq type="mandatory">gvfs-archive</packagereq>
+      <packagereq type="mandatory">gvfs-gphoto2</packagereq>
+      <packagereq type="mandatory">gvfs-mtp</packagereq>
+      <packagereq type="mandatory">gvfs-smb</packagereq>
+      <packagereq type="mandatory">hexchat</packagereq>
+      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
+      <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">nemo-extension-xreader</packagereq>
+      <packagereq type="mandatory">nemo-fileroller</packagereq>
+      <packagereq type="mandatory">nemo-image-converter</packagereq>
+      <packagereq type="mandatory">nemo-preview</packagereq>
+      <packagereq type="mandatory">NetworkManager-adsl</packagereq>
+      <packagereq type="mandatory">NetworkManager-bluetooth</packagereq>
+      <packagereq type="mandatory">NetworkManager-iodine-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-l2tp-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-libreswan-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-openconnect-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-openvpn-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-pptp-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-vpnc-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-wifi</packagereq>
+      <packagereq type="mandatory">NetworkManager-wwan</packagereq>
+      <packagereq type="mandatory">nm-connection-editor</packagereq>
+      <packagereq type="mandatory">paper-icon-theme</packagereq>
+      <packagereq type="mandatory">pidgin</packagereq>
+      <packagereq type="mandatory">pix</packagereq>
+      <packagereq type="mandatory">powerline</packagereq>
+      <packagereq type="mandatory">redshift-gtk</packagereq>
+      <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
+      <packagereq type="mandatory">setroubleshoot</packagereq>
+      <packagereq type="mandatory">simple-scan</packagereq>
+      <packagereq type="mandatory">slick-greeter</packagereq>
+      <packagereq type="mandatory">system-config-printer</packagereq>
+      <packagereq type="mandatory">thunderbird</packagereq>
+      <packagereq type="mandatory">tmux</packagereq>
+      <packagereq type="mandatory">tmux-powerline</packagereq>
+      <packagereq type="mandatory">transmission</packagereq>
+      <packagereq type="mandatory">vim-powerline</packagereq>
+      <packagereq type="mandatory">xawtv</packagereq>
+      <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
+      <packagereq type="mandatory">xed</packagereq>
+      <packagereq type="mandatory">xplayer</packagereq>
+      <packagereq type="mandatory">xreader</packagereq>
+      <packagereq type="mandatory">xviewer</packagereq>
     </packagelist>
   </group>
   <group>
