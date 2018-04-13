@@ -4430,8 +4430,7 @@
       <packagereq>libmateweather</packagereq>
       <packagereq>libsecret</packagereq>
       <packagereq>lightdm</packagereq>
-      <packagereq>lightdm-gtk</packagereq>
-      <packagereq>lightdm-gtk-greeter-settings</packagereq>
+      <packagereq>lm_sensors</packagereq>
       <packagereq>marco</packagereq>
       <packagereq>mate-applets</packagereq>
       <packagereq>mate-backgrounds</packagereq>
@@ -4481,6 +4480,7 @@
       <packagereq>seahorse-caja</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>simple-scan</packagereq>
+      <packagereq>slick-greeter-mate</packagereq>
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>system-config-printer-applet</packagereq>
