@@ -715,6 +715,7 @@
       <packagereq type="default">docker-cockpit</packagereq>
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">podman</packagereq>
+      <packagereq type="optional">origin-clients</packagereq>
     </packagelist>
   </group>
   <group>
@@ -7035,6 +7036,7 @@
     <!-- Keep this list in sync with the list in fedora-workstation-packages.ks. -->
     <grouplist>
       <groupid>base-x</groupid>
+      <groupid>container-management</groupid>
       <groupid>core</groupid>
       <groupid>firefox</groupid>
       <groupid>fonts</groupid>
