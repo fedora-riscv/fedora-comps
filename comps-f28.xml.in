@@ -830,9 +830,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">control-center</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">gnome-control-center</packagereq>
       <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
@@ -2675,7 +2675,6 @@
       <packagereq>avahi</packagereq>
       <packagereq>baobab</packagereq>
       <packagereq>cheese</packagereq>
-      <packagereq>control-center</packagereq>
       <packagereq>dconf</packagereq>
       <packagereq>eog</packagereq>
       <!-- <packagereq>epiphany</packagereq> -->
@@ -2698,6 +2697,7 @@
       <packagereq>gnome-clocks</packagereq>
       <packagereq>gnome-color-manager</packagereq>
       <packagereq>gnome-contacts</packagereq>
+      <packagereq>gnome-control-center</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-documents</packagereq>
       <packagereq>gnome-font-viewer</packagereq>
@@ -5845,7 +5845,7 @@
       <packagereq>wireless-tools</packagereq>
       <packagereq>words</packagereq>
       <packagereq>zip</packagereq>
-      <packagereq type="conditional" requires="control-center">chrony</packagereq>
+      <packagereq type="conditional" requires="gnome-control-center">chrony</packagereq>
     </packagelist>
   </group>
   <group>
