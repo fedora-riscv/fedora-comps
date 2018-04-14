@@ -558,7 +558,6 @@
       <packagereq type="mandatory">adapta-backgrounds</packagereq>
       <packagereq type="mandatory">adapta-gtk-theme</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="mandatory">arc-theme</packagereq>
       <packagereq type="mandatory">brasero</packagereq>
       <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
