@@ -619,6 +619,7 @@
       <packagereq type="mandatory">imsettings-cinnamon</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">slick-greeter</packagereq>
+      <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
     </packagelist>
   </group>
   <group>

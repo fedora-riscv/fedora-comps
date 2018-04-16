@@ -607,6 +607,7 @@
       <packagereq type="mandatory">setroubleshoot</packagereq>
       <packagereq type="mandatory">simple-scan</packagereq>
       <packagereq type="mandatory">slick-greeter</packagereq>
+      <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
       <packagereq type="mandatory">system-config-printer</packagereq>
       <packagereq type="mandatory">thunderbird</packagereq>
       <packagereq type="mandatory">tmux</packagereq>
