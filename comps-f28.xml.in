@@ -836,7 +836,7 @@
       <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
-      <packagereq type="mandatory">gnome-themes-standard</packagereq>
+      <packagereq type="mandatory">gnome-themes-extra</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
@@ -2714,7 +2714,7 @@
       <packagereq>gnome-software</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal</packagereq>
-      <packagereq>gnome-themes-standard</packagereq>
+      <packagereq>gnome-themes-extra</packagereq>
       <packagereq>gnome-user-docs</packagereq>
       <packagereq>gnome-user-share</packagereq>
       <packagereq>gnome-weather</packagereq>
