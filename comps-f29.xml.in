@@ -1841,25 +1841,15 @@
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-jp-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-kr-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
       <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-jp-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-kr-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-sc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-tc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-sc-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="default">google-noto-sans-tai-viet-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-tc-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-jp-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-kr-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-sc-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-tc-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">khmeros-base-fonts</packagereq>
@@ -3313,9 +3303,8 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-kkc</packagereq>
       <packagereq type="conditional" requires="uim">uim-anthy</packagereq>
-      <packagereq type="default">google-noto-sans-jp-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-jp-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-jp-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-code-jp-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-jp-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-jp-fonts</packagereq>
@@ -3828,9 +3817,8 @@
     <langonly>ko</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-hangul</packagereq>
-      <packagereq type="default">google-noto-sans-kr-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-kr-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-kr-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-kr-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-kr-fonts</packagereq>
       <packagereq type="optional">baekmuk-bdf-fonts</packagereq>
@@ -5522,9 +5510,8 @@
     <langonly>zh_CN</langonly>
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libpinyin</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-sc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-sc-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-sc-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-cn-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-cn-fonts</packagereq>
       <packagereq type="optional">fcitx</packagereq>
@@ -6256,9 +6243,8 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-cangjie-engine-cangjie</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">ibus-libzhuyin</packagereq>
-      <packagereq type="default">google-noto-sans-mono-cjk-tc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-tc-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-tc-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
+      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-tw-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-tw-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
