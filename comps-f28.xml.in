@@ -761,7 +761,6 @@
       <packagereq type="mandatory">systemd</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
-      <packagereq type="default">authconfig</packagereq>
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
