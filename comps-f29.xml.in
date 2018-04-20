@@ -766,7 +766,8 @@
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
-      <packagereq type="default">ppc64-utils</packagereq>
+      <packagereq type="default">powerpc-utils</packagereq>
+      <packagereq type="default">lsvpd</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">uboot-images-armv7</packagereq>
