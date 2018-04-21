@@ -712,7 +712,7 @@
     <packagelist>
       <packagereq type="mandatory">atomic</packagereq>
       <packagereq type="default">docker</packagereq>
-      <packagereq type="default">docker-cockpit</packagereq>
+      <packagereq type="conditional" requires="cockpit">cockpit-docker</packagereq>
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">podman</packagereq>
       <packagereq type="optional">origin-clients</packagereq>
