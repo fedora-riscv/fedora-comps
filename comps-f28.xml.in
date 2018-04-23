@@ -6554,6 +6554,7 @@
       <packagereq>ibus-typing-booster</packagereq>
       <packagereq>iptstate</packagereq>
       <packagereq>jwhois</packagereq>
+      <packagereq>linux-firmware</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lrzsz</packagereq>
       <packagereq>lsof</packagereq>
