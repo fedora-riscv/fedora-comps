@@ -2168,7 +2168,6 @@
       <packagereq type="optional">oflb-icelandic-fonts</packagereq>
       <packagereq type="optional">oflb-notcouriersans-fonts</packagereq>
       <packagereq type="optional">oflb-prociono-fonts</packagereq>
-      <packagereq type="optional">oflb-riordonfancy-fonts</packagereq>
       <packagereq type="optional">oflb-roadstencil-fonts</packagereq>
       <packagereq type="optional">oflb-smonohand-fonts</packagereq>
       <packagereq type="optional">oflb-sportrop-fonts</packagereq>
@@ -2195,7 +2194,6 @@
       <packagereq type="optional">sarai-fonts</packagereq>
       <packagereq type="optional">sazanami-gothic-fonts</packagereq>
       <packagereq type="optional">sazanami-mincho-fonts</packagereq>
-      <packagereq type="optional">scholarsfonts-cardo-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-hiwua-fonts</packagereq>
