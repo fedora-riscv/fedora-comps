@@ -1842,15 +1842,8 @@
       <packagereq type="default">gnu-free-sans-fonts</packagereq>
       <packagereq type="default">gnu-free-serif-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
-      <packagereq type="default">google-noto-emoji-fonts</packagereq>
       <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-lisu-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mandaic-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-tagalog-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-tai-tham-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-tai-viet-fonts</packagereq>
       <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
@@ -1875,7 +1868,6 @@
       <packagereq type="default">sil-padauk-fonts</packagereq>
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
-      <packagereq type="default">tabish-eeyek-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-2-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
@@ -2005,6 +1997,7 @@
       <packagereq type="optional">google-droid-sans-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional">google-droid-serif-fonts</packagereq>
+      <packagereq type="optional">google-noto-emoji-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-armenian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-avestan-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-bengali-fonts</packagereq>
@@ -2034,10 +2027,13 @@
       <packagereq type="optional">google-noto-sans-khmer-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lao-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lao-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lycian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lydian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-malayalam-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-malayalam-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-mandaic-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-nko-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-old-south-arabian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-old-turkic-fonts</packagereq>
@@ -2045,6 +2041,9 @@
       <packagereq type="optional">google-noto-sans-phoenician-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-shavian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-symbols-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tagalog-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tai-tham-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tai-viet-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tamil-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tamil-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-fonts</packagereq>
@@ -2218,6 +2217,7 @@
       <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
       <packagereq type="optional">stix-math-fonts</packagereq>
+      <packagereq type="optional">tabish-eeyek-fonts</packagereq>
       <packagereq type="optional">tangerine-fonts</packagereq>
       <packagereq type="optional">thai-arundina-sans-fonts</packagereq>
       <packagereq type="optional">thai-arundina-sans-mono-fonts</packagereq>
