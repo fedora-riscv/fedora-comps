@@ -276,7 +276,7 @@
     <_name>Cinnamon</_name>
     <_description>Cinnamon provides a desktop with a traditional layout, advanced features, easy to use, powerful and flexible.</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
@@ -1368,7 +1368,7 @@
     <_name>MATE</_name>
     <_description>MATE Desktop is based on GNOME 2 and provides a powerful graphical user interface for users who seek a simple easy to use traditional desktop interface.</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">caja</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
