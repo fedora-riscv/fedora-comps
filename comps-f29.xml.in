@@ -559,7 +559,10 @@
       <packagereq type="mandatory">adapta-gtk-theme</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="mandatory">brasero</packagereq>
+      <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
+      <packagereq type="mandatory">cinnamon-control-center</packagereq>
+      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
       <packagereq type="mandatory">fedora-icon-theme</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
@@ -576,7 +579,9 @@
       <packagereq type="mandatory">gvfs-mtp</packagereq>
       <packagereq type="mandatory">gvfs-smb</packagereq>
       <packagereq type="mandatory">hexchat</packagereq>
+      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
       <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nemo-extension-xreader</packagereq>
       <packagereq type="mandatory">nemo-fileroller</packagereq>
       <packagereq type="mandatory">nemo-image-converter</packagereq>
@@ -601,6 +606,8 @@
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">setroubleshoot</packagereq>
       <packagereq type="mandatory">simple-scan</packagereq>
+      <packagereq type="mandatory">slick-greeter</packagereq>
+      <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
       <packagereq type="mandatory">system-config-printer</packagereq>
       <packagereq type="mandatory">thunderbird</packagereq>
       <packagereq type="mandatory">tmux</packagereq>
@@ -613,13 +620,6 @@
       <packagereq type="mandatory">xplayer</packagereq>
       <packagereq type="mandatory">xreader</packagereq>
       <packagereq type="mandatory">xviewer</packagereq>
-      <packagereq type="mandatory">cinnamon</packagereq>
-      <packagereq type="mandatory">cinnamon-control-center</packagereq>
-      <packagereq type="mandatory">cinnamon-screensaver</packagereq>
-      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
-      <packagereq type="mandatory">metacity</packagereq>
-      <packagereq type="mandatory">slick-greeter</packagereq>
-      <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
     </packagelist>
   </group>
   <group>
@@ -711,11 +711,11 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">atomic</packagereq>
-      <packagereq type="default">docker</packagereq>
       <packagereq type="conditional" requires="cockpit">cockpit-docker</packagereq>
+      <packagereq type="default">docker</packagereq>
       <packagereq type="optional">buildah</packagereq>
-      <packagereq type="optional">podman</packagereq>
       <packagereq type="optional">origin-clients</packagereq>
+      <packagereq type="optional">podman</packagereq>
     </packagelist>
   </group>
   <group>
@@ -766,9 +766,9 @@
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
+      <packagereq type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">powerpc-utils</packagereq>
-      <packagereq type="default">lsvpd</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">uboot-images-armv7</packagereq>
