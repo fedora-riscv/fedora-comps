@@ -6347,7 +6347,7 @@
       <packagereq type="default">virt-viewer</packagereq>
       <packagereq type="optional">guestfs-browser</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
-      <packagereq type="optional">python-libguestfs</packagereq>
+      <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
   </group>
@@ -6365,7 +6365,7 @@
       <packagereq type="default">systemd-container</packagereq>
       <packagereq type="optional">guestfs-browser</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
-      <packagereq type="optional">python-libguestfs</packagereq>
+      <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
   </group>
