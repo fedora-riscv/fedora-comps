@@ -593,6 +593,7 @@
       <packagereq type="mandatory">NetworkManager-libreswan-gnome</packagereq>
       <packagereq type="mandatory">NetworkManager-openconnect-gnome</packagereq>
       <packagereq type="mandatory">NetworkManager-openvpn-gnome</packagereq>
+      <packagereq type="mandatory">NetworkManager-ppp</packagereq>
       <packagereq type="mandatory">NetworkManager-pptp-gnome</packagereq>
       <packagereq type="mandatory">NetworkManager-vpnc-gnome</packagereq>
       <packagereq type="mandatory">NetworkManager-wifi</packagereq>
@@ -1155,6 +1156,8 @@
       <packagereq type="default">minicom</packagereq>
       <packagereq type="default">ModemManager</packagereq>
       <packagereq type="default">NetworkManager-adsl</packagereq>
+      <packagereq type="default">NetworkManager-ppp</packagereq>
+      <packagereq type="default">NetworkManager-wwan</packagereq>
       <packagereq type="default">rp-pppoe</packagereq>
       <packagereq type="default">wvdial</packagereq>
       <packagereq type="optional">efax</packagereq>
@@ -2718,9 +2721,11 @@
       <packagereq>NetworkManager-adsl</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-ppp</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-ssh-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
+      <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>orca</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>PackageKit-gtk3-module</packagereq>
@@ -4434,6 +4439,7 @@
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-ppp</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>

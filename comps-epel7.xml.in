@@ -319,6 +319,7 @@
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-ppp</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
