@@ -5211,12 +5211,14 @@
       <packagereq>ruby-devel</packagereq>
       <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
+      <packagereq>rubygem-bootsnap</packagereq>
       <packagereq>rubygem-byebug</packagereq>
       <packagereq>rubygem-capybara</packagereq>
       <packagereq>rubygem-coffee-rails</packagereq>
       <packagereq>rubygem-jbuilder</packagereq>
       <packagereq>rubygem-json</packagereq>
       <packagereq>rubygem-listen</packagereq>
+      <packagereq>rubygem-mini_magick</packagereq>
       <packagereq>rubygem-puma</packagereq>
       <packagereq>rubygem-rails</packagereq>
       <packagereq>rubygem-sass-rails</packagereq>
