@@ -3518,7 +3518,6 @@
       <packagereq>akregator</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
-      <packagereq>cagibi</packagereq>
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dnfdragora</packagereq>
@@ -3536,13 +3535,9 @@
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-gtk-config</packagereq>
       <packagereq>kde-partitionmanager</packagereq>
-      <packagereq>kde-platform-plugin</packagereq>
       <packagereq>kde-print-manager</packagereq>
-      <packagereq>kde-runtime</packagereq>
       <packagereq>kde-settings-pulseaudio</packagereq>
-      <packagereq>kde-style-breeze</packagereq>
       <packagereq>kdegraphics-thumbnailers</packagereq>
-      <packagereq>kdelibs</packagereq>
       <packagereq>kdeplasma-addons</packagereq>
       <packagereq>kdialog</packagereq>
       <packagereq>kdnssd</packagereq>
@@ -3562,7 +3557,6 @@
       <packagereq>kmenuedit</packagereq>
       <packagereq>kmousetool</packagereq>
       <packagereq>kmouth</packagereq>
-      <packagereq>knode</packagereq>
       <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
       <packagereq>kontact</packagereq>
@@ -3578,7 +3572,6 @@
       <packagereq>kwrite</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq>pam-kwallet</packagereq>
-      <packagereq>phonon-backend-gstreamer</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
@@ -3598,7 +3591,6 @@
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq>sni-qt</packagereq>
       <packagereq>spectacle</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="mandatory">plasma-desktop</packagereq>
@@ -3607,7 +3599,6 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="conditional" requires="libreoffice-core">libreoffice-kde</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
     </packagelist>
   </group>
@@ -3647,8 +3638,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>amarok</packagereq>
       <packagereq>dragon</packagereq>
+      <packagereq>juk</pacakgereq>
       <packagereq>k3b</packagereq>
       <packagereq>kamoso</packagereq>
     </packagelist>
