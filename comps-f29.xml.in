@@ -5089,6 +5089,7 @@
       <packagereq>python-magic</packagereq>
       <packagereq>python-mysql</packagereq>
       <packagereq>python-psycopg2</packagereq>
+      <packagereq>python-unversioned-command</packagereq>
       <packagereq>python-virtualenv</packagereq>
       <packagereq>python2</packagereq>
     </packagelist>
