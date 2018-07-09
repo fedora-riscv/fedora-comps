@@ -467,8 +467,6 @@
       <packagereq type="mandatory">fedora-release</packagereq>
       <packagereq type="mandatory">findutils</packagereq>
       <packagereq type="mandatory">gawk</packagereq>
-      <packagereq type="mandatory">gcc</packagereq>
-      <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">grep</packagereq>
       <packagereq type="mandatory">gzip</packagereq>
       <packagereq type="mandatory">info</packagereq>
