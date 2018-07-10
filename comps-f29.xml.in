@@ -3815,7 +3815,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>dragon</packagereq>
-      <packagereq>juk</pacakgereq>
+      <packagereq>juk</packagereq>
       <packagereq>k3b</packagereq>
       <packagereq>kamoso</packagereq>
     </packagelist>
