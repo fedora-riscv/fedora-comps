@@ -6764,7 +6764,6 @@
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
       <packagereq>polkit</packagereq>
-      <packagereq>ppp</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>qgnomeplatform</packagereq>
       <packagereq>qt</packagereq>
@@ -6803,7 +6802,6 @@
       <packagereq>which</packagereq>
       <packagereq>wireless-tools</packagereq>
       <packagereq>words</packagereq>
-      <packagereq>wvdial</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>zip</packagereq>
     </packagelist>
