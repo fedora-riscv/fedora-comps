@@ -6047,7 +6047,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>sugar-analyze</packagereq>
       <packagereq>sugar-calendario</packagereq>
       <packagereq>sugar-connect</packagereq>
       <packagereq>sugar-distance</packagereq>
@@ -6067,7 +6066,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>csound-python</packagereq>
       <packagereq>gnome-power-manager</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>lightdm</packagereq>
