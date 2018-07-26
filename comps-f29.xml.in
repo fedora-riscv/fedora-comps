@@ -335,8 +335,8 @@
       <packagereq type="optional">lout</packagereq>
       <packagereq type="optional">ooo2txt</packagereq>
       <packagereq type="optional">pandoc</packagereq>
-      <packagereq type="optional">python-docutils</packagereq>
-      <packagereq type="optional">python-manuel</packagereq>
+      <packagereq type="optional">python3-docutils</packagereq>
+      <packagereq type="optional">python3-manuel</packagereq>
       <packagereq type="optional">scribus</packagereq>
       <packagereq type="optional">tex-zfuzz</packagereq>
       <packagereq type="optional">texlive-latex</packagereq>
@@ -655,10 +655,10 @@
       <packagereq type="default">imagefactory-plugins-Rackspace</packagereq>
       <packagereq type="default">imagefactory-plugins-Rackspace-JEOS-images</packagereq>
       <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
-      <packagereq type="default">python-boto</packagereq>
-      <packagereq type="default">python-libcloud</packagereq>
+      <packagereq type="default">python3-boto</packagereq>
+      <packagereq type="default">python3-libcloud</packagereq>
       <packagereq type="default">rubygem-amazon-ec2</packagereq>
-      <packagereq type="optional">python-openstackclient</packagereq>
+      <packagereq type="optional">python3-openstackclient</packagereq>
       <packagereq type="optional">rubygem-amazon-ec2-doc</packagereq>
     </packagelist>
   </group>
@@ -1050,8 +1050,7 @@
       <packagereq type="default">pciutils-devel</packagereq>
       <packagereq type="default">pcsc-lite-devel</packagereq>
       <packagereq type="default">perl-devel</packagereq>
-      <packagereq type="default">python-devel</packagereq>
-      <packagereq type="default">python-ldap</packagereq>
+      <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
@@ -1080,7 +1079,6 @@
       <packagereq type="optional">newt-devel</packagereq>
       <packagereq type="optional">poco-devel</packagereq>
       <packagereq type="optional">poco-doc</packagereq>
-      <packagereq type="optional">python-ZODB3-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1476,7 +1474,7 @@
       <packagereq type="default">piklab</packagereq>
       <packagereq type="default">pikloops</packagereq>
       <packagereq type="default">pulseview</packagereq>
-      <packagereq type="default">python-myhdl</packagereq>
+      <packagereq type="default">python3-myhdl</packagereq>
       <packagereq type="default">qtoctave</packagereq>
       <packagereq type="default">qucs</packagereq>
       <packagereq type="default">rtl-sdr</packagereq>
@@ -1519,8 +1517,8 @@
       <packagereq type="mandatory">gsl-devel</packagereq>
       <packagereq type="mandatory">maxima</packagereq>
       <packagereq type="mandatory">octave</packagereq>
-      <packagereq type="mandatory">python2-matplotlib</packagereq>
-      <packagereq type="mandatory">python2-scipy</packagereq>
+      <packagereq type="mandatory">python3-matplotlib</packagereq>
+      <packagereq type="mandatory">python3-scipy</packagereq>
       <packagereq type="mandatory">R</packagereq>
       <packagereq type="mandatory">speedcrunch</packagereq>
       <packagereq type="mandatory">texmaker</packagereq>
@@ -1639,10 +1637,10 @@
       <packagereq type="optional">polymake</packagereq>
       <packagereq type="optional">pvs-sbcl</packagereq>
       <packagereq type="optional">pypop</packagereq>
-      <packagereq type="optional">python2-biopython</packagereq>
-      <packagereq type="optional">python2-cvxopt</packagereq>
-      <packagereq type="optional">python2-networkx</packagereq>
-      <packagereq type="optional">python2-theano</packagereq>
+      <packagereq type="optional">python3-biopython</packagereq>
+      <packagereq type="optional">python3-cvxopt</packagereq>
+      <packagereq type="optional">python3-networkx</packagereq>
+      <packagereq type="optional">python3-theano</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
       <packagereq type="optional">qalculate-kde</packagereq>
       <packagereq type="optional">qepcad-B</packagereq>
@@ -1814,10 +1812,7 @@
       <packagereq type="optional">git</packagereq>
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
-      <packagereq type="optional">python-compositor</packagereq>
-      <packagereq type="optional">python-fontMath</packagereq>
-      <packagereq type="optional">python-robofab</packagereq>
-      <packagereq type="optional">python-ufo2fdk</packagereq>
+      <packagereq type="optional">python3-fontMath</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
       <packagereq type="optional">scribus</packagereq>
@@ -4767,7 +4762,7 @@
       <packagereq type="default">mariadb-server</packagereq>
       <packagereq type="default">mysql-connector-odbc</packagereq>
       <packagereq type="default">perl-DBD-MySQL</packagereq>
-      <packagereq type="default">python-mysql</packagereq>
+      <packagereq type="default">python3-mysql</packagereq>
       <packagereq type="default">unixODBC</packagereq>
       <packagereq type="optional">mariadb-bench</packagereq>
       <packagereq type="optional">mariadb-devel</packagereq>
@@ -5186,19 +5181,14 @@
       <packagereq type="default">libyaml-devel</packagereq>
       <packagereq type="default">make</packagereq>
       <packagereq type="default">pypy3-devel</packagereq>
-      <packagereq type="default">python2-devel</packagereq>
-      <packagereq type="default">python2-docs</packagereq>
-      <packagereq type="default">python2-ipykernel</packagereq>
-      <packagereq type="default">python2-ipython</packagereq>
-      <packagereq type="default">python2-tools</packagereq>
-      <packagereq type="default">python2-virtualenv</packagereq>
       <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">python3-docs</packagereq>
+      <packagereq type="default">python3-idle</packagereq>
       <packagereq type="default">python3-ipykernel</packagereq>
       <packagereq type="default">python3-ipython</packagereq>
       <packagereq type="default">python3-notebook</packagereq>
-      <packagereq type="default">python3-tools</packagereq>
       <packagereq type="default">python3-tox</packagereq>
+      <packagereq type="default">python3-virtualenv</packagereq>
       <packagereq type="default">sed</packagereq>
       <packagereq type="default">tar</packagereq>
       <packagereq type="default">unzip</packagereq>
@@ -5229,31 +5219,6 @@
       <packagereq type="default">python3-scipy</packagereq>
       <packagereq type="default">python3-statsmodels</packagereq>
       <packagereq type="default">python3-sympy</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>python-web</id>
-    <_name>Python</_name>
-    <_description>Basic Python web application support.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>freetype-devel</packagereq>
-      <packagereq>libcurl</packagereq>
-      <packagereq>libcurl-devel</packagereq>
-      <packagereq>libjpeg-turbo</packagereq>
-      <packagereq>libjpeg-turbo-devel</packagereq>
-      <packagereq>mod_wsgi</packagereq>
-      <packagereq>numpy</packagereq>
-      <packagereq>numpy-f2py</packagereq>
-      <packagereq>pymongo</packagereq>
-      <packagereq>pymongo-gridfs</packagereq>
-      <packagereq>python-magic</packagereq>
-      <packagereq>python-mysql</packagereq>
-      <packagereq>python-psycopg2</packagereq>
-      <packagereq>python-unversioned-command</packagereq>
-      <packagereq>python-virtualenv</packagereq>
-      <packagereq>python2</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5306,17 +5271,17 @@
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-python</packagereq>
       <packagereq type="default">player-ruby</packagereq>
-      <packagereq type="default">python-bloom</packagereq>
-      <packagereq type="default">python-catkin_lint</packagereq>
-      <packagereq type="default">python-catkin_pkg</packagereq>
-      <packagereq type="default">python-catkin_tools</packagereq>
-      <packagereq type="default">python-rosdep</packagereq>
-      <packagereq type="default">python-rosdistro</packagereq>
-      <packagereq type="default">python-rosinstall</packagereq>
-      <packagereq type="default">python-rosinstall_generator</packagereq>
-      <packagereq type="default">python-rospkg</packagereq>
-      <packagereq type="default">python-vcstools</packagereq>
-      <packagereq type="default">python-wstool</packagereq>
+      <packagereq type="default">python3-bloom</packagereq>
+      <packagereq type="default">python3-catkin_lint</packagereq>
+      <packagereq type="default">python3-catkin_pkg</packagereq>
+      <packagereq type="default">python3-catkin_tools</packagereq>
+      <packagereq type="default">python3-rosdep</packagereq>
+      <packagereq type="default">python3-rosdistro</packagereq>
+      <packagereq type="default">python3-rosinstall</packagereq>
+      <packagereq type="default">python3-rosinstall_generator</packagereq>
+      <packagereq type="default">python3-rospkg</packagereq>
+      <packagereq type="default">python3-vcstools</packagereq>
+      <packagereq type="default">python3-wstool</packagereq>
       <packagereq type="default">rcsslogplayer</packagereq>
       <packagereq type="default">rcssmonitor</packagereq>
       <packagereq type="default">rcssserver</packagereq>
@@ -7448,7 +7413,6 @@
       <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
-      <groupid>python-web</groupid>
       <groupid>rubyonrails</groupid>
       <groupid>mysql</groupid>
       <groupid>sql-server</groupid>
@@ -7482,7 +7446,6 @@
       <groupid>javaenterprise</groupid>
       <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
-      <groupid>python-web</groupid>
       <groupid>php</groupid>
       <groupid>rubyonrails</groupid>
       <groupid>mysql</groupid>
@@ -7707,7 +7670,6 @@
       <groupid>perl</groupid>
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
-      <groupid>python-web</groupid>
       <groupid>robotics-suite</groupid>
       <groupid>rpm-development-tools</groupid>
       <groupid>ruby</groupid>
@@ -7745,7 +7707,6 @@
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
       <groupid>printing</groupid>
-      <groupid>python-web</groupid>
       <groupid>rubyonrails</groupid>
       <groupid>server-cfg</groupid>
       <groupid>smb-server</groupid>
