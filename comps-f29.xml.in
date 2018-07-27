@@ -6010,7 +6010,6 @@
       <packagereq>systemd-udev</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
-      <packagereq>tcp_wrappers</packagereq>
       <packagereq>telnet</packagereq>
       <packagereq>time</packagereq>
       <packagereq>traceroute</packagereq>
@@ -6781,7 +6780,6 @@
       <packagereq>systemd-udev</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
-      <packagereq>tcp_wrappers</packagereq>
       <packagereq>telnet</packagereq>
       <packagereq>time</packagereq>
       <packagereq>traceroute</packagereq>
