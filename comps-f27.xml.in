@@ -582,7 +582,6 @@
       <packagereq>imsettings-cinnamon</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>metacity</packagereq>
-      <packagereq>nemo-extension-xreader</packagereq>
       <packagereq>nemo-fileroller</packagereq>
       <packagereq>nemo-image-converter</packagereq>
       <packagereq>nemo-preview</packagereq>
