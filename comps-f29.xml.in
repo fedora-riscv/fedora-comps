@@ -7505,7 +7505,6 @@
       <groupid>firefox</groupid>
       <groupid>cinnamon-desktop</groupid>
       <groupid>gnome-desktop</groupid>
-      <groupid>hawaii-desktop</groupid>
       <groupid>input-methods</groupid>
       <groupid>kde-desktop</groupid>
       <groupid>legacy-fonts</groupid>
