@@ -708,12 +708,15 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="mandatory">atomic</packagereq>
-      <packagereq type="conditional" requires="cockpit">cockpit-docker</packagereq>
-      <packagereq type="default">docker</packagereq>
+      <packagereq type="default">podman</packagereq>
+      <packagereq type="optional">docker</packagereq>
+      <packagereq type="optional">cockpit-docker</packagereq>
+      <packagereq type="optional">atomic</packagereq>
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">origin-clients</packagereq>
       <packagereq type="optional">podman</packagereq>
+      <packagereq type="optional">flatpak</packagereq>
+      <packagereq type="optional">flatpak-builder</packagereq>
     </packagelist>
   </group>
   <group>
