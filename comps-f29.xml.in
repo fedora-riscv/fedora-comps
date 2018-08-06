@@ -6723,6 +6723,7 @@
       <packagereq>evolution-help</packagereq>
       <packagereq>fedora-release-workstation</packagereq>
       <packagereq>fedora-user-agent-chrome</packagereq>
+      <packagereq>fedora-workstation-backgrounds</packagereq>
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fros-gnome</packagereq>
