@@ -102,6 +102,7 @@
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
+      <packagereq type="mandatory">zram</packagereq>
     </packagelist>
   </group>
   <group>
@@ -158,6 +159,7 @@
       <packagereq>fedora-arm-installer</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
+      <packagereq>zram</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6315,6 +6317,7 @@
       <packagereq type="optional">xsel</packagereq>
       <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
+      <packagereq type="optional">zram</packagereq>
     </packagelist>
   </group>
   <group>
