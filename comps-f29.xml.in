@@ -6016,7 +6016,6 @@
       <packagereq>rng-tools</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>rsyslog</packagereq>
-      <packagereq>setuptool</packagereq>
       <packagereq>smartmontools</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
@@ -6787,7 +6786,6 @@
       <packagereq>rp-pppoe</packagereq>
       <packagereq>rsync</packagereq>
       <packagereq>scl-utils</packagereq>
-      <packagereq>setuptool</packagereq>
       <packagereq>sos</packagereq>
       <packagereq>sssd</packagereq>
       <packagereq>sudo</packagereq>
