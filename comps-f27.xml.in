@@ -242,7 +242,7 @@
       <packagereq type="default">lv2-abGate</packagereq>
       <packagereq type="default">lv2-artyfx-plugins</packagereq>
       <packagereq type="default">lv2-avw-plugins</packagereq>
-      <packagereq type="default">lv2-c++-tools </packagereq>
+      <packagereq type="default">lv2-c++-tools</packagereq>
       <packagereq type="default">lv2-drumkv1</packagereq>
       <packagereq type="default">lv2-fabla</packagereq>
       <packagereq type="default">lv2-fil-plugins</packagereq>
