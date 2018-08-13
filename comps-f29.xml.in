@@ -1625,7 +1625,6 @@
       <packagereq type="optional">gappalib-coq</packagereq>
       <packagereq type="optional">gdl</packagereq>
       <packagereq type="optional">genius</packagereq>
-      <packagereq type="optional">genus2reduction</packagereq>
       <packagereq type="optional">geomview</packagereq>
       <packagereq type="optional">gfan</packagereq>
       <packagereq type="optional">ginac</packagereq>
