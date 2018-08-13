@@ -1060,7 +1060,6 @@
       <packagereq type="default">rpm-devel</packagereq>
       <packagereq type="default">slang-devel</packagereq>
       <packagereq type="optional">check-devel</packagereq>
-      <packagereq type="optional">coolkey-devel</packagereq>
       <packagereq type="optional">DSDP-devel</packagereq>
       <packagereq type="optional">expat-devel</packagereq>
       <packagereq type="optional">ffcall</packagereq>
@@ -5972,7 +5971,6 @@
       <packagereq>btrfs-progs</packagereq>
       <packagereq>bzip2</packagereq>
       <packagereq>cifs-utils</packagereq>
-      <packagereq>coolkey</packagereq>
       <packagereq>cpio</packagereq>
       <packagereq>crontabs</packagereq>
       <packagereq>cryptsetup</packagereq>
@@ -6007,6 +6005,7 @@
       <packagereq>nmap-ncat</packagereq>
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
+      <packagereq>opensc</packagereq>
       <packagereq>pam_krb5</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
