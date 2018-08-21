@@ -560,12 +560,12 @@
       <packagereq type="mandatory">adapta-backgrounds</packagereq>
       <packagereq type="mandatory">adapta-gtk-theme</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="mandatory">brasero</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
+      <packagereq type="mandatory">eom</packagereq>
       <packagereq type="mandatory">fedora-icon-theme</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">firewall-config</packagereq>
@@ -602,11 +602,11 @@
       <packagereq type="mandatory">nm-connection-editor</packagereq>
       <packagereq type="mandatory">paper-icon-theme</packagereq>
       <packagereq type="mandatory">pidgin</packagereq>
-      <packagereq type="mandatory">pix</packagereq>
       <packagereq type="mandatory">powerline</packagereq>
       <packagereq type="mandatory">redshift-gtk</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">setroubleshoot</packagereq>
+      <packagereq type="mandatory">shotwell</packagereq>
       <packagereq type="mandatory">simple-scan</packagereq>
       <packagereq type="mandatory">slick-greeter</packagereq>
       <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
@@ -619,9 +619,8 @@
       <packagereq type="mandatory">xawtv</packagereq>
       <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
       <packagereq type="mandatory">xed</packagereq>
-      <packagereq type="mandatory">xplayer</packagereq>
+      <packagereq type="mandatory">xfburn</packagereq>
       <packagereq type="mandatory">xreader</packagereq>
-      <packagereq type="mandatory">xviewer</packagereq>
     </packagelist>
   </group>
   <group>
