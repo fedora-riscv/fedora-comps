@@ -893,7 +893,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">lxqt-common</packagereq>
+      <packagereq type="mandatory">lxqt-session</packagereq>
       <!-- specify this because otherwise xfce4-notifyd wins -->
       <packagereq type="default">notification-daemon</packagereq>
     </packagelist>
@@ -4377,7 +4377,6 @@
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>lxqt-about</packagereq>
-      <packagereq>lxqt-common</packagereq>
       <packagereq>lxqt-config</packagereq>
       <packagereq>lxqt-globalkeys</packagereq>
       <packagereq>lxqt-notificationd</packagereq>
@@ -4388,6 +4387,8 @@
       <packagereq>lxqt-qtplugin</packagereq>
       <packagereq>lxqt-runner</packagereq>
       <packagereq>lxqt-session</packagereq>
+      <packagereq>lxqt-themes</packagereq>
+      <packagereq>lxqt-themes-fedora</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>notification-daemon</packagereq>
