@@ -6937,6 +6937,7 @@
       <packagereq>gtk-xfce-engine</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-archive</packagereq>
+      <packagereq>gvfs-mtp</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
