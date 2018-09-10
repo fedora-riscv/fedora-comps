@@ -40,7 +40,7 @@
       <packagereq>system-config-users</packagereq>
     </packagelist>
   </group>
-  <!-- 
+  <!--
     Note: The anaconda-tools group lists packages that anaconda might
     add to the installed package set, depending on the installation
     configuration chosen: the packages in this group are included in
@@ -359,6 +359,7 @@
     <packagelist>
       <packagereq>glx-utils</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq>mesa-vulkan-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
       <packagereq>xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
@@ -780,7 +781,7 @@
       <packagereq type="optional">uboot-tools</packagereq>
     </packagelist>
   </group>
-  <!-- 
+  <!--
     Note: The critical-path-* groups are used to identify the packages
     that are critical to the health of the distro. For details see:
     https://fedoraproject.org/wiki/Critical_Path_Packages_Proposal
