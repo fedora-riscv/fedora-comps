@@ -4585,6 +4585,7 @@
       <packagereq>f28-backgrounds-extras-base</packagereq>
       <packagereq>f28-backgrounds-extras-mate</packagereq>
       <packagereq>f28-backgrounds-mate</packagereq>
+      <packagereq>fedora-release-matecompiz</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -4597,10 +4598,12 @@
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gucharmap</packagereq>
       <packagereq>gvfs-afc</packagereq>
+      <packagereq>gvfs-afp</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-fuse</packagereq>
       <packagereq>gvfs-gphoto2</packagereq>
       <packagereq>gvfs-mtp</packagereq>
+      <packagereq>gvfs-nfs</packagereq>
       <packagereq>gvfs-smb</packagereq>
       <packagereq>hexchat</packagereq>
       <packagereq>initial-setup-gui</packagereq>
@@ -4645,8 +4648,13 @@
       <packagereq>NetworkManager-libreswan-gnome</packagereq>
       <packagereq>NetworkManager-openconnect-gnome</packagereq>
       <packagereq>NetworkManager-openvpn-gnome</packagereq>
+      <packagereq>NetworkManager-ovs</packagereq>
       <packagereq>NetworkManager-ppp</packagereq>
       <packagereq>NetworkManager-pptp-gnome</packagereq>
+      <packagereq>NetworkManager-ssh-gnome</packagereq>
+      <packagereq>NetworkManager-sstp-gnome</packagereq>
+      <packagereq>NetworkManager-strongswan-gnome</packagereq>
+      <packagereq>NetworkManager-team</packagereq>
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
@@ -4655,6 +4663,7 @@
       <packagereq>p7zip</packagereq>
       <packagereq>p7zip-plugins</packagereq>
       <packagereq>parole</packagereq>
+      <packagereq>pavucontrol</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>seahorse-caja</packagereq>
