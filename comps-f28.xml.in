@@ -154,8 +154,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>arm-image-installer</packagereq>
+      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
     </packagelist>
@@ -1261,9 +1261,9 @@
       <packagereq type="default">eclipse-cdt-docker</packagereq>
       <packagereq type="default">eclipse-dltk-mylyn</packagereq>
       <packagereq type="default">eclipse-dltk-sh</packagereq>
+      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-egit-github</packagereq>
       <packagereq type="default">eclipse-egit-mylyn</packagereq>
-      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-epp-logging</packagereq>
       <packagereq type="default">eclipse-linuxtools-changelog</packagereq>
       <packagereq type="default">eclipse-linuxtools-docker</packagereq>
@@ -1289,8 +1289,8 @@
       <packagereq type="default">eclipse-mylyn-versions-subclipse</packagereq>
       <packagereq type="default">eclipse-packagekit</packagereq>
       <packagereq type="default">eclipse-pde</packagereq>
-      <packagereq type="default">eclipse-pydev-mylyn</packagereq>
       <packagereq type="default">eclipse-pydev</packagereq>
+      <packagereq type="default">eclipse-pydev-mylyn</packagereq>
       <packagereq type="default">eclipse-recommenders</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-usage</packagereq>
@@ -1314,8 +1314,8 @@
       <packagereq type="optional">eclipse-m2e-core</packagereq>
       <packagereq type="optional">eclipse-m2e-cxf</packagereq>
       <packagereq type="optional">eclipse-m2e-egit</packagereq>
-      <packagereq type="optional">eclipse-m2e-mavenarchiver</packagereq>
       <packagereq type="optional">eclipse-m2e-maven-dependency-plugin</packagereq>
+      <packagereq type="optional">eclipse-m2e-mavenarchiver</packagereq>
       <packagereq type="optional">eclipse-m2e-mavendev</packagereq>
       <packagereq type="optional">eclipse-m2e-modello</packagereq>
       <packagereq type="optional">eclipse-m2e-plexus</packagereq>

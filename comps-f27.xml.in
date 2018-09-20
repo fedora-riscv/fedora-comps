@@ -153,8 +153,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>arm-image-installer</packagereq>
+      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
     </packagelist>

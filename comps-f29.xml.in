@@ -157,8 +157,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>arm-image-installer</packagereq>
+      <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
       <packagereq>zram</packagereq>
@@ -712,14 +712,13 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">podman</packagereq>
-      <packagereq type="optional">docker</packagereq>
-      <packagereq type="optional">cockpit-docker</packagereq>
       <packagereq type="optional">atomic</packagereq>
       <packagereq type="optional">buildah</packagereq>
-      <packagereq type="optional">origin-clients</packagereq>
-      <packagereq type="optional">podman</packagereq>
+      <packagereq type="optional">cockpit-docker</packagereq>
+      <packagereq type="optional">docker</packagereq>
       <packagereq type="optional">flatpak</packagereq>
       <packagereq type="optional">flatpak-builder</packagereq>
+      <packagereq type="optional">origin-clients</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1265,9 +1264,9 @@
       <packagereq type="default">eclipse-cdt-docker</packagereq>
       <packagereq type="default">eclipse-dltk-mylyn</packagereq>
       <packagereq type="default">eclipse-dltk-sh</packagereq>
+      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-egit-github</packagereq>
       <packagereq type="default">eclipse-egit-mylyn</packagereq>
-      <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-epp-logging</packagereq>
       <packagereq type="default">eclipse-linuxtools-changelog</packagereq>
       <packagereq type="default">eclipse-linuxtools-docker</packagereq>
@@ -1293,8 +1292,8 @@
       <packagereq type="default">eclipse-mylyn-versions-subclipse</packagereq>
       <packagereq type="default">eclipse-packagekit</packagereq>
       <packagereq type="default">eclipse-pde</packagereq>
-      <packagereq type="default">eclipse-pydev-mylyn</packagereq>
       <packagereq type="default">eclipse-pydev</packagereq>
+      <packagereq type="default">eclipse-pydev-mylyn</packagereq>
       <packagereq type="default">eclipse-recommenders</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
       <packagereq type="default">eclipse-usage</packagereq>
@@ -1318,8 +1317,8 @@
       <packagereq type="optional">eclipse-m2e-core</packagereq>
       <packagereq type="optional">eclipse-m2e-cxf</packagereq>
       <packagereq type="optional">eclipse-m2e-egit</packagereq>
-      <packagereq type="optional">eclipse-m2e-mavenarchiver</packagereq>
       <packagereq type="optional">eclipse-m2e-maven-dependency-plugin</packagereq>
+      <packagereq type="optional">eclipse-m2e-mavenarchiver</packagereq>
       <packagereq type="optional">eclipse-m2e-mavendev</packagereq>
       <packagereq type="optional">eclipse-m2e-modello</packagereq>
       <packagereq type="optional">eclipse-m2e-plexus</packagereq>
@@ -1920,8 +1919,6 @@
       <packagereq type="optional">adf-gillius-fonts</packagereq>
       <packagereq type="optional">adf-tribun-fonts</packagereq>
       <packagereq type="optional">adobe-source-code-pro-fonts</packagereq>
-      <packagereq type="optional">adobe-source-sans-pro-fonts</packagereq>
-      <packagereq type="optional">adobe-source-serif-pro-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-code-jp-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-cn-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-sans-jp-fonts</packagereq>
@@ -1931,11 +1928,13 @@
       <packagereq type="optional">adobe-source-han-serif-jp-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-kr-fonts</packagereq>
       <packagereq type="optional">adobe-source-han-serif-tw-fonts</packagereq>
+      <packagereq type="optional">adobe-source-sans-pro-fonts</packagereq>
+      <packagereq type="optional">adobe-source-serif-pro-fonts</packagereq>
       <packagereq type="optional">aftertheflood-sparks-bar-fonts</packagereq>
       <packagereq type="optional">aftertheflood-sparks-dot-fonts</packagereq>
       <packagereq type="optional">aftertheflood-sparks-dot-line-fonts</packagereq>
-      <packagereq type="optional">alef-fonts</packagereq>
       <packagereq type="optional">aldusleaf-crimson-text-fonts</packagereq>
+      <packagereq type="optional">alef-fonts</packagereq>
       <packagereq type="optional">allgeyer-musiqwik-fonts</packagereq>
       <packagereq type="optional">allgeyer-musisync-fonts</packagereq>
       <packagereq type="optional">almas-mongolian-title-fonts</packagereq>
@@ -5482,7 +5481,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="default">ArpON</packagereq>
       <packagereq type="default">afftools</packagereq>
       <packagereq type="default">aide</packagereq>
       <packagereq type="default">aircrack-ng</packagereq>
@@ -5490,6 +5488,7 @@
       <packagereq type="default">argus</packagereq>
       <packagereq type="default">argus-clients</packagereq>
       <packagereq type="default">arp-scan</packagereq>
+      <packagereq type="default">ArpON</packagereq>
       <packagereq type="default">bannergrab</packagereq>
       <packagereq type="default">binwalk</packagereq>
       <packagereq type="default">bkhive</packagereq>
@@ -5652,7 +5651,6 @@
       <packagereq type="default">subnetcalc</packagereq>
       <packagereq type="default">sucrack</packagereq>
       <packagereq type="default">swaks</packagereq>
-      <packagereq type="default">sysstat</packagereq>
       <packagereq type="default">sysstat</packagereq>
       <packagereq type="default">tcpcrypt</packagereq>
       <packagereq type="default">tcpdump</packagereq>
