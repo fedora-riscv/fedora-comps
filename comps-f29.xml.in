@@ -4562,6 +4562,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
+      <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
@@ -4591,6 +4592,7 @@
       <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-epub-thumbnailer</packagereq>
+      <packagereq>gnome-themes-extra</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
