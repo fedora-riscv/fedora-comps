@@ -2883,6 +2883,7 @@
       <packagereq>avahi</packagereq>
       <packagereq>baobab</packagereq>
       <packagereq>cheese</packagereq>
+      <packagereq>chrome-gnome-shell</packagereq>
       <packagereq>eog</packagereq>
       <!-- <packagereq>epiphany</packagereq> -->
       <packagereq>evince</packagereq>
