@@ -5228,7 +5228,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="xorg-x11-server-Xorg">ninja-ide</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">mu</packagereq>
+      <packagereq type="conditional" requires="xorg-x11-server-Xorg">thonny</packagereq>
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bzip2</packagereq>
       <packagereq type="default">curl</packagereq>
