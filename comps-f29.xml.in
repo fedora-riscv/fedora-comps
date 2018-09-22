@@ -31,9 +31,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
-      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
-      <packagereq>recordmydesktop</packagereq>
       <packagereq>setroubleshoot</packagereq>
       <packagereq>system-config-keyboard</packagereq>
       <packagereq>system-config-language</packagereq>
@@ -89,7 +87,7 @@
       <packagereq arch="aarch64,armhfp,i686,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
-      <packagereq type="mandatory">kexec-tools-anaconda-addon</packagereq>
+      <packagereq type="mandatory">kdump-anaconda-addon</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
       <packagereq arch="x86_64" type="mandatory">mactel-boot</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
@@ -115,7 +113,7 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">python2-dnf</packagereq>
-      <packagereq type="conditional" requires="selinux-policy">libselinux-python</packagereq>
+      <packagereq type="conditional" requires="selinux-policy">python2-libselinux</packagereq>
     </packagelist>
   </group>
   <group>
@@ -218,7 +216,6 @@
       <packagereq type="default">harmonyseq</packagereq>
       <packagereq type="default">hexter-dssi</packagereq>
       <packagereq type="default">hydrogen</packagereq>
-      <packagereq type="default">idjc</packagereq>
       <packagereq type="default">jaaa</packagereq>
       <packagereq type="default">jack-audio-connection-kit</packagereq>
       <packagereq type="default">jack-audio-connection-kit-dbus</packagereq>
@@ -250,7 +247,6 @@
       <packagereq type="default">lv2-c++-tools</packagereq>
       <packagereq type="default">lv2-drumkv1</packagereq>
       <packagereq type="default">lv2-fabla</packagereq>
-      <packagereq type="default">lv2-fil-plugins</packagereq>
       <packagereq type="default">lv2-fomp-plugins</packagereq>
       <packagereq type="default">lv2-invada-plugins</packagereq>
       <packagereq type="default">lv2-kn0ck0ut</packagereq>
@@ -342,7 +338,6 @@
       <packagereq type="optional">python3-docutils</packagereq>
       <packagereq type="optional">python3-manuel</packagereq>
       <packagereq type="optional">scribus</packagereq>
-      <packagereq type="optional">tex-zfuzz</packagereq>
       <packagereq type="optional">texlive-latex</packagereq>
       <packagereq type="optional">texlive-xdvi</packagereq>
       <packagereq type="optional">txt2rss</packagereq>
@@ -517,7 +512,7 @@
       <packagereq type="mandatory">glibc-devel</packagereq>
       <packagereq type="mandatory">libtool</packagereq>
       <packagereq type="mandatory">make</packagereq>
-      <packagereq type="mandatory">pkgconfig</packagereq>
+      <packagereq type="mandatory">pkgconf</packagereq>
       <packagereq type="mandatory">strace</packagereq>
       <packagereq type="default">byacc</packagereq>
       <packagereq type="default">ccache</packagereq>
@@ -535,16 +530,14 @@
       <packagereq type="optional">coan</packagereq>
       <packagereq type="optional">cproto</packagereq>
       <packagereq type="optional">ElectricFence</packagereq>
-      <packagereq type="optional">elfinfo</packagereq>
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">pscan</packagereq>
       <packagereq type="optional">remake</packagereq>
-      <packagereq type="optional">scons</packagereq>
+      <packagereq type="optional">python2-scons</packagereq>
       <packagereq type="optional">scorep</packagereq>
       <packagereq type="optional">splint</packagereq>
       <packagereq type="optional">trinity</packagereq>
-      <packagereq type="optional">undertaker</packagereq>
       <packagereq type="optional">yasm</packagereq>
       <packagereq type="optional">zzuf</packagereq>
     </packagelist>
@@ -570,7 +563,6 @@
       <packagereq type="mandatory">fedora-icon-theme</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">firewall-config</packagereq>
-      <packagereq type="mandatory">fros-recordmydesktop</packagereq>
       <packagereq type="mandatory">gnome-calculator</packagereq>
       <packagereq type="mandatory">gnome-disk-utility</packagereq>
       <packagereq type="mandatory">gnome-screenshot</packagereq>
@@ -636,10 +628,7 @@
       <packagereq type="optional">glusterfs</packagereq>
       <packagereq type="optional">hail</packagereq>
       <packagereq type="optional">imagefactory</packagereq>
-      <packagereq type="optional">iwhd</packagereq>
       <packagereq type="optional">sheepdog</packagereq>
-      <packagereq type="optional">StarCluster</packagereq>
-      <packagereq type="optional">tabled</packagereq>
     </packagelist>
   </group>
   <group>
@@ -654,15 +643,10 @@
       <packagereq type="default">imagefactory-plugins</packagereq>
       <packagereq type="default">imagefactory-plugins-EC2</packagereq>
       <packagereq type="default">imagefactory-plugins-EC2-JEOS-images</packagereq>
-      <packagereq type="default">imagefactory-plugins-OpenStack</packagereq>
-      <packagereq type="default">imagefactory-plugins-Rackspace</packagereq>
-      <packagereq type="default">imagefactory-plugins-Rackspace-JEOS-images</packagereq>
       <packagereq type="default">imagefactory-plugins-TinMan</packagereq>
       <packagereq type="default">python3-boto</packagereq>
       <packagereq type="default">python3-libcloud</packagereq>
-      <packagereq type="default">rubygem-amazon-ec2</packagereq>
       <packagereq type="optional">python3-openstackclient</packagereq>
-      <packagereq type="optional">rubygem-amazon-ec2-doc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -921,7 +905,7 @@
       <packagereq basearchonly="true" type="mandatory">ldc-druntime-devel</packagereq>
       <packagereq basearchonly="true" type="mandatory">ldc-phobos-devel</packagereq>
       <packagereq type="mandatory">make</packagereq>
-      <packagereq type="mandatory">pkgconfig</packagereq>
+      <packagereq type="mandatory">pkgconf</packagereq>
       <packagereq type="default">ctags</packagereq>
       <packagereq type="default">indent</packagereq>
       <packagereq type="optional">astyle</packagereq>
@@ -948,7 +932,6 @@
       <packagereq type="conditional" requires="gimp">gimp-fourier-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-gap</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-help</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-help-browser</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-high-pass-filter</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-layer-via-copy-cut</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lensfun</packagereq>
@@ -1012,7 +995,6 @@
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">LuxRender</packagereq>
-      <packagereq type="optional">openclipart</packagereq>
       <packagereq type="optional">pencil</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">rapid-photo-downloader</packagereq>
@@ -1063,16 +1045,14 @@
       <packagereq type="optional">expat-devel</packagereq>
       <packagereq type="optional">ffcall</packagereq>
       <packagereq type="optional">gdbm-devel</packagereq>
-      <packagereq type="optional">geoclue-devel</packagereq>
+      <packagereq type="optional">geoclue2-devel</packagereq>
       <packagereq type="optional">gf2x-devel</packagereq>
       <packagereq type="optional">givaro-devel</packagereq>
       <packagereq type="optional">gmp-ecm-devel</packagereq>
       <packagereq type="optional">gpm-devel</packagereq>
       <packagereq type="optional">gssdp-devel</packagereq>
       <packagereq type="optional">gupnp-devel</packagereq>
-      <packagereq type="optional">gypsy-devel</packagereq>
       <packagereq type="optional">iml-devel</packagereq>
-      <packagereq type="optional">lexertl-devel</packagereq>
       <packagereq type="optional">libdwarf-devel</packagereq>
       <packagereq type="optional">libedit-devel</packagereq>
       <packagereq type="optional">libusbx-devel</packagereq>
@@ -1112,7 +1092,7 @@
       <packagereq type="optional">dejagnu</packagereq>
       <packagereq type="optional">expect</packagereq>
       <packagereq type="optional">gambas3-ide</packagereq>
-      <packagereq type="optional">giggle</packagereq>
+      <packagereq type="optional">gitg</packagereq>
       <packagereq type="optional">git-annex</packagereq>
       <packagereq type="optional">git-cola</packagereq>
       <packagereq type="optional">git2cl</packagereq>
@@ -1124,7 +1104,7 @@
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
       <packagereq type="optional">monotone</packagereq>
-      <packagereq type="optional">mr</packagereq>
+      <packagereq type="optional">myrepos</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">qgit</packagereq>
       <packagereq type="optional">quilt</packagereq>
@@ -1134,7 +1114,6 @@
       <packagereq type="optional">scanmem</packagereq>
       <packagereq type="optional">subunit</packagereq>
       <packagereq type="optional">svn2cl</packagereq>
-      <packagereq type="optional">tailor</packagereq>
       <packagereq type="optional">tig</packagereq>
       <packagereq type="optional">tkcvs</packagereq>
       <packagereq type="optional">tortoisehg</packagereq>
@@ -1348,7 +1327,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional">code-editor</packagereq>
-      <packagereq type="optional">cssed</packagereq>
       <packagereq type="optional">emacs</packagereq>
       <packagereq type="optional">emacs-auctex</packagereq>
       <packagereq type="optional">emacs-bbdb</packagereq>
@@ -1362,7 +1340,6 @@
       <packagereq type="optional">nano</packagereq>
       <packagereq type="optional">nedit</packagereq>
       <packagereq type="optional">poedit</packagereq>
-      <packagereq type="optional">psgml</packagereq>
       <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">vim-X11</packagereq>
       <packagereq type="optional">xemacs</packagereq>
@@ -1589,7 +1566,6 @@
       <packagereq type="optional">brial</packagereq>
       <packagereq type="optional">bwa</packagereq>
       <packagereq type="optional">cantor</packagereq>
-      <packagereq type="optional">cantor-R</packagereq>
       <packagereq type="optional">cddlib</packagereq>
       <packagereq type="optional">chemtool</packagereq>
       <packagereq type="optional">coq</packagereq>
@@ -1601,14 +1577,10 @@
       <packagereq type="optional">csdp-tools</packagereq>
       <packagereq type="optional">cudd</packagereq>
       <packagereq type="optional">cudd-devel</packagereq>
-      <packagereq type="optional">cvc3</packagereq>
-      <packagereq type="optional">cvc3-devel</packagereq>
-      <packagereq type="optional">cvc3-doc</packagereq>
-      <packagereq type="optional">cvc3-emacs</packagereq>
-      <packagereq type="optional">cvc3-xemacs</packagereq>
       <packagereq type="optional">cvc4</packagereq>
+      <packagereq type="optional">cvc4-devel</packagereq>
+      <packagereq type="optional">cvc4-doc</packagereq>
       <packagereq type="optional">dx</packagereq>
-      <packagereq type="optional">dx-samples</packagereq>
       <packagereq type="optional">E</packagereq>
       <packagereq type="optional">eclib</packagereq>
       <packagereq type="optional">EMBOSS</packagereq>
@@ -1631,14 +1603,13 @@
       <packagereq type="optional">ginac</packagereq>
       <packagereq type="optional">glimmer</packagereq>
       <packagereq type="optional">GMT</packagereq>
-      <packagereq type="optional">GMT-coastlines-full</packagereq>
-      <packagereq type="optional">GMT-coastlines-high</packagereq>
+      <packagereq type="optional">gshhg-gmt-nc4-full</packagereq>
+      <packagereq type="optional">gshhg-gmt-nc4-high</packagereq>
       <packagereq type="optional">GMT-doc</packagereq>
       <packagereq type="optional">gnome-chemistry-utils</packagereq>
       <packagereq type="optional">gpredict</packagereq>
       <packagereq type="optional">grace</packagereq>
       <packagereq type="optional">grads</packagereq>
-      <packagereq type="optional">gridengine</packagereq>
       <packagereq type="optional">gromacs</packagereq>
       <packagereq type="optional">gromacs-openmpi</packagereq>
       <packagereq type="optional">gts</packagereq>
@@ -1646,13 +1617,11 @@
       <packagereq type="optional">hdf5</packagereq>
       <packagereq type="optional">hmmer</packagereq>
       <packagereq type="optional">jmol</packagereq>
-      <packagereq type="optional">jnormaliz</packagereq>
       <packagereq type="optional">kpolynome</packagereq>
       <packagereq type="optional">kst</packagereq>
       <packagereq type="optional">lagan</packagereq>
       <packagereq type="optional">lapack</packagereq>
       <packagereq type="optional">latte-integrale</packagereq>
-      <packagereq type="optional">libctl</packagereq>
       <packagereq type="optional">libmatheval</packagereq>
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">linbox</packagereq>
@@ -1680,12 +1649,9 @@
       <packagereq type="optional">picosat</packagereq>
       <packagereq type="optional">picosat-devel</packagereq>
       <packagereq type="optional">plotutils</packagereq>
-      <packagereq type="optional">polybori</packagereq>
-      <packagereq type="optional">polybori-gui</packagereq>
-      <packagereq type="optional">polybori-ipbori</packagereq>
+      <packagereq type="optional">brial</packagereq>
       <packagereq type="optional">polymake</packagereq>
       <packagereq type="optional">pvs-sbcl</packagereq>
-      <packagereq type="optional">pypop</packagereq>
       <packagereq type="optional">python3-biopython</packagereq>
       <packagereq type="optional">python3-cvxopt</packagereq>
       <packagereq type="optional">python3-networkx</packagereq>
@@ -1704,13 +1670,12 @@
       <packagereq type="optional">stix-math-fonts</packagereq>
       <packagereq type="optional">stp</packagereq>
       <packagereq type="optional">symmetrica</packagereq>
-      <packagereq type="optional">sympy</packagereq>
+      <packagereq type="optional">python3-sympy</packagereq>
       <packagereq type="optional">tcd-utils</packagereq>
       <packagereq type="optional">TeXmacs</packagereq>
       <packagereq type="optional">tgif</packagereq>
       <packagereq type="optional">tideEditor</packagereq>
       <packagereq type="optional">TOPCOM</packagereq>
-      <packagereq type="optional">vaspview</packagereq>
       <packagereq type="optional">veusz</packagereq>
       <packagereq type="optional">vinci</packagereq>
       <packagereq type="optional">wgrib</packagereq>
@@ -1733,9 +1698,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>efl</packagereq>
-      <packagereq>elementary</packagereq>
       <packagereq>enlightenment</packagereq>
-      <packagereq>evas-generic-loaders</packagereq>
       <packagereq>terminology</packagereq>
     </packagelist>
   </group>
@@ -1784,7 +1747,6 @@
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">fedora-easy-karma</packagereq>
       <packagereq type="mandatory">fedora-packager</packagereq>
-      <packagereq type="mandatory">fedrepo-req</packagereq>
       <packagereq type="mandatory">git</packagereq>
       <packagereq type="mandatory">koji</packagereq>
       <packagereq type="mandatory">make</packagereq>
@@ -1834,14 +1796,12 @@
       <packagereq type="mandatory">fontforge</packagereq>
       <packagereq type="mandatory">xgridfit</packagereq>
       <packagereq type="default">fontaine</packagereq>
-      <packagereq type="default">fontmatrix</packagereq>
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">fonttools</packagereq>
       <packagereq type="default">ghostscript</packagereq>
       <packagereq type="default">gimp</packagereq>
       <packagereq type="default">gimp-data-extras</packagereq>
       <packagereq type="default">gimp-help</packagereq>
-      <packagereq type="default">gimp-help-browser</packagereq>
       <packagereq type="default">gucharmap</packagereq>
       <packagereq type="default">inkscape</packagereq>
       <packagereq type="default">perl-Font-TTF</packagereq>
@@ -1857,7 +1817,7 @@
       <packagereq type="optional">gbdfed</packagereq>
       <packagereq type="optional">ghostscript-doc</packagereq>
       <packagereq type="optional">ghostscript-gtk</packagereq>
-      <packagereq type="optional">giggle</packagereq>
+      <packagereq type="optional">gitg</packagereq>
       <packagereq type="optional">git</packagereq>
       <packagereq type="optional">meld</packagereq>
       <packagereq type="optional">mercurial</packagereq>
@@ -4592,7 +4552,6 @@
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
-      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-epub-thumbnailer</packagereq>
       <packagereq>gnome-themes-extra</packagereq>
@@ -5061,7 +5020,7 @@
       <packagereq type="optional">taskcoach</packagereq>
       <packagereq type="optional">taskjuggler</packagereq>
       <packagereq type="optional">tellico</packagereq>
-      <packagereq type="optional">tetex-IEEEtran</packagereq>
+      <packagereq type="optional">texlive-IEEEtran</packagereq>
       <packagereq type="optional">texlive-xdvi</packagereq>
       <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">vym</packagereq>
@@ -6941,7 +6900,6 @@
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
-      <packagereq>fros-recordmydesktop</packagereq>
       <packagereq>greybird-gtk2-theme</packagereq>
       <packagereq>greybird-gtk3-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>
