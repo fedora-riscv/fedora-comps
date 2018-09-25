@@ -1,0 +1,49 @@
+#!/bin/python3
+
+# This script looks for the 'latest' comps-fXX.xml.in file, assumes it's
+# for Rawhide, and looks through its `pkgreq` lines for ones that specify
+# packages that do not currently exist in Rawhide. It is arch-aware. It
+# expects to be run on a Fedora system with network access, as it will
+# try to query the 'rawhide' dnf repo to get lists of currently-existing
+# packages.
+
+import glob
+import subprocess
+import xml.etree.ElementTree as ET
+
+ARCHES = ('aarch64', 'armv7hl', 'i686', 'ppc64le', 's390x', 'x86_64')
+
+# gather package lists. this eats lots of RAM. I don't care.
+pkgs = {}
+for arch in ARCHES:
+    pkgtext = subprocess.run(('dnf', '--forcearch={}'.format(arch), '--disablerepo=*', '--enablerepo=rawhide', 'repoquery', '--qf=%{NAME}'), capture_output=True, text=True).stdout
+    pkgs[arch] = pkgtext.splitlines()
+
+# find the *latest* comps file (assume it's rawhide)
+compsfiles = glob.glob('comps-f*.xml.in')
+latest = sorted(compsfiles, key=lambda x: int(''.join(c for c in x if c.isdigit())))[-1]
+# find package reqs in comps
+root = ET.parse(latest).getroot()
+pkgreqs = root.findall('.//packagereq')
+
+# check!
+for pkgreq in pkgreqs:
+    # list of arches the package is missing on
+    missing = []
+    # arches the package is listed for (if no 'arch' key, it's listed for all)
+    reqarches = pkgreq.get('arch', '').replace('armhfp', 'armv7hl').replace('i386', 'i686').replace('ppc64,','')
+    if reqarches:
+        reqarches = reqarches.split(',')
+    else:
+        reqarches = ARCHES
+
+    # do the actual check, append arch to 'missing' if it's not there
+    for arch in reqarches:
+        if arch in pkgs and pkgreq.text not in pkgs[arch]:
+            missing.append(arch)
+
+    # print the result
+    if missing == list(ARCHES):
+        print('Package {} not found for any arch'.format(pkgreq.text))
+    elif missing:
+        print('Package {} not found for arches {}'.format(pkgreq.text, ', '.join(missing)))
