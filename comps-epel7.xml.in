@@ -2308,7 +2308,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">Thunar</packagereq>
-      <packagereq type="mandatory">xfce-utils</packagereq>
       <packagereq type="mandatory">xfce4-panel</packagereq>
       <packagereq type="mandatory">xfce4-session</packagereq>
       <packagereq type="mandatory">xfce4-settings</packagereq>
