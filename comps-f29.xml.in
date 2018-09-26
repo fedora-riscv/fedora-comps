@@ -4554,6 +4554,7 @@
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>gnome-epub-thumbnailer</packagereq>
+      <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-themes-extra</packagereq>
       <packagereq>gnote</packagereq>
       <packagereq>gparted</packagereq>
