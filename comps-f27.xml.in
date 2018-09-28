@@ -4457,6 +4457,7 @@
       <packagereq>mate-system-monitor</packagereq>
       <packagereq>mate-terminal</packagereq>
       <packagereq>mate-themes</packagereq>
+      <packagereq>mate-user-admin</packagereq>
       <packagereq>mate-user-guide</packagereq>
       <packagereq>mozo</packagereq>
       <packagereq>network-manager-applet</packagereq>
