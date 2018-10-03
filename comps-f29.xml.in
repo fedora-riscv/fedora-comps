@@ -1988,11 +1988,12 @@
       <packagereq type="optional">dustin-dustismo-sans-fonts</packagereq>
       <packagereq type="optional">ecolier-court-fonts</packagereq>
       <packagereq type="optional">ecolier-court-lignes-fonts</packagereq>
-      <packagereq type="optional">ekmukta-fonts</packagereq>
+      <packagereq type="optional">ektype-mukta-devanagari-fonts</packagereq>
+      <packagereq type="optional">ektype-mukta-mahee-fonts</packagereq>
+      <packagereq type="optional">ektype-mukta-malar-fonts</packagereq>
+      <packagereq type="optional">ektype-mukta-vaani-fonts</packagereq>
       <packagereq type="optional">entypo-fonts</packagereq>
       <packagereq type="optional">eosrei-emojione-fonts</packagereq>
-      <packagereq type="optional">extremetuxracer-papercuts-fonts</packagereq>
-      <packagereq type="optional">extremetuxracer-papercuts-outline-fonts</packagereq>
       <packagereq type="optional">fontawesome-fonts</packagereq>
       <packagereq type="optional">fontsquirrel-crete-round-fonts</packagereq>
       <packagereq type="optional">freecol-imperator-fonts</packagereq>
@@ -2532,7 +2533,6 @@
       <packagereq type="optional">beneath-a-steel-sky-cd</packagereq>
       <packagereq type="optional">berusky</packagereq>
       <packagereq type="optional">berusky2</packagereq>
-      <packagereq type="optional">billiards</packagereq>
       <packagereq type="optional">biloba</packagereq>
       <packagereq type="optional">biniax</packagereq>
       <packagereq type="optional">blobby</packagereq>
@@ -2564,7 +2564,6 @@
       <packagereq type="optional">crossfire-client</packagereq>
       <packagereq type="optional">crystal-stacker</packagereq>
       <packagereq type="optional">crystal-stacker-themes</packagereq>
-      <packagereq type="optional">csmash</packagereq>
       <packagereq type="optional">curblaster</packagereq>
       <packagereq type="optional">cylindrix</packagereq>
       <packagereq type="optional">cyphesis</packagereq>
@@ -2634,7 +2633,6 @@
       <packagereq type="optional">hitori</packagereq>
       <packagereq type="optional">iagno</packagereq>
       <packagereq type="optional">iapetal</packagereq>
-      <packagereq type="optional">joystick</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kcheckers</packagereq>
       <packagereq type="optional">kdeaddons-atlantikdesigner</packagereq>
@@ -2647,6 +2645,8 @@
       <packagereq type="optional">lbrickbuster2</packagereq>
       <packagereq type="optional">lightsoff</packagereq>
       <packagereq type="optional">lincity-ng</packagereq>
+      <!-- linuxconsoletools is for joystick support -->
+      <packagereq type="optional">linuxconsoletools</packagereq>
       <packagereq type="optional">liquidwar</packagereq>
       <packagereq type="optional">lmarbles</packagereq>
       <packagereq type="optional">londonlaw</packagereq>
@@ -2658,15 +2658,12 @@
       <packagereq type="optional">Maelstrom</packagereq>
       <packagereq type="optional">magicmaze</packagereq>
       <packagereq type="optional">magicor</packagereq>
-      <packagereq type="optional">maniadrive</packagereq>
-      <packagereq type="optional">maniadrive-music</packagereq>
       <packagereq type="optional">megaglest</packagereq>
       <packagereq type="optional">methane</packagereq>
       <packagereq type="optional">mindless</packagereq>
       <packagereq type="optional">minetest</packagereq>
       <packagereq type="optional">mine_detector</packagereq>
       <packagereq type="optional">mirrormagic</packagereq>
-      <packagereq type="optional">mj</packagereq>
       <packagereq type="optional">monsterz</packagereq>
       <packagereq type="optional">naev</packagereq>
       <packagereq type="optional">nagi</packagereq>
@@ -2709,7 +2706,6 @@
       <packagereq type="optional">quake3</packagereq>
       <packagereq type="optional">quake3-demo</packagereq>
       <packagereq type="optional">quarry</packagereq>
-      <packagereq type="optional">rafkill</packagereq>
       <packagereq type="optional">raidem</packagereq>
       <packagereq type="optional">raidem-music</packagereq>
       <packagereq type="optional">redeclipse</packagereq>
@@ -2762,7 +2758,6 @@
       <packagereq type="optional">uqm</packagereq>
       <packagereq type="optional">urbanterror</packagereq>
       <packagereq type="optional">vavoom</packagereq>
-      <packagereq type="optional">vdr-sudoku</packagereq>
       <packagereq type="optional">vdrift</packagereq>
       <packagereq type="optional">vegastrike</packagereq>
       <packagereq type="optional">vegastrike-extra</packagereq>
@@ -2993,7 +2988,7 @@
       <packagereq type="default">webkit2gtk3-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">cairomm-doc</packagereq>
-      <packagereq type="optional">clutter-gst-devel</packagereq>
+      <packagereq type="optional">clutter-gst3-devel</packagereq>
       <packagereq type="optional">glade3</packagereq>
       <packagereq type="optional">glibmm24-devel</packagereq>
       <packagereq type="optional">gnome-builder</packagereq>
@@ -3024,7 +3019,6 @@
       <packagereq type="optional">evolution</packagereq>
       <packagereq type="optional">evolution-bogofilter</packagereq>
       <packagereq type="optional">evolution-help</packagereq>
-      <packagereq type="optional">evolution-perl</packagereq>
       <packagereq type="optional">filezilla</packagereq>
       <packagereq type="optional">firefox</packagereq>
       <packagereq type="optional">gajim</packagereq>
@@ -3034,24 +3028,20 @@
       <packagereq type="optional">gtorrentviewer</packagereq>
       <packagereq type="optional">gwget</packagereq>
       <packagereq type="optional">gyachi</packagereq>
+      <packagereq type="optional">hexchat</packagereq>
       <packagereq type="optional">icedtea-web</packagereq>
       <packagereq type="optional">jd</packagereq>
-      <packagereq type="optional">kazehakase</packagereq>
       <packagereq type="optional">kdewebdev</packagereq>
       <packagereq type="optional">kita</packagereq>
-      <packagereq type="optional">knetstats</packagereq>
       <packagereq type="optional">konversation</packagereq>
       <packagereq type="optional">kvirc</packagereq>
-      <packagereq type="optional">licq</packagereq>
       <packagereq type="optional">liferea</packagereq>
       <packagereq type="optional">linphone</packagereq>
       <packagereq type="optional">logjam</packagereq>
       <packagereq type="optional">mail-notification</packagereq>
       <packagereq type="optional">meiga</packagereq>
-      <packagereq type="optional">mitter</packagereq>
       <packagereq type="optional">mtr-gtk</packagereq>
       <packagereq type="optional">nicotine+</packagereq>
-      <packagereq type="optional">nntpgrab-gui</packagereq>
       <packagereq type="optional">ochusha</packagereq>
       <packagereq type="optional">pan</packagereq>
       <packagereq type="optional">pcmanx-gtk2</packagereq>
@@ -3070,12 +3060,7 @@
       <packagereq type="optional">transmission-gtk</packagereq>
       <packagereq type="optional">transmission-qt</packagereq>
       <packagereq type="optional">uget</packagereq>
-      <packagereq type="optional">valknut</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
-      <packagereq type="optional">xchat</packagereq>
-      <packagereq type="optional">xchat-gnome</packagereq>
-      <packagereq type="optional">xchat-ruby</packagereq>
-      <packagereq type="optional">xchat-tcl</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3090,9 +3075,7 @@
       <packagereq type="optional">asciio</packagereq>
       <packagereq type="optional">asymptote</packagereq>
       <packagereq type="optional">blender</packagereq>
-      <packagereq type="optional">calligra-krita</packagereq>
       <packagereq type="optional">cbrpager</packagereq>
-      <packagereq type="optional">cinepaint</packagereq>
       <packagereq type="optional">comix</packagereq>
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">digikam</packagereq>
@@ -3103,7 +3086,6 @@
       <packagereq type="optional">gimp</packagereq>
       <packagereq type="optional">gimp-data-extras</packagereq>
       <packagereq type="optional">gimp-help</packagereq>
-      <packagereq type="optional">gimp-help-browser</packagereq>
       <packagereq type="optional">gipfel</packagereq>
       <packagereq type="optional">gnofract4d</packagereq>
       <packagereq type="optional">graphviz</packagereq>
@@ -3118,15 +3100,16 @@
       <packagereq type="optional">kf5-kipi-plugins</packagereq>
       <packagereq type="optional">kolourpaint</packagereq>
       <packagereq type="optional">kphotoalbum</packagereq>
-      <packagereq type="optional">ksnapshot</packagereq>
+      <packagereq type="optional">krita</packagereq>
       <packagereq type="optional">libsane-hpaio</packagereq>
       <packagereq type="optional">mirage</packagereq>
+      <packagereq type="optional">mtpaint</packagereq>
       <packagereq type="optional">netpbm-progs</packagereq>
       <packagereq type="optional">nip2</packagereq>
       <packagereq type="optional">optipng</packagereq>
       <packagereq type="optional">Panini</packagereq>
       <packagereq type="optional">pstoedit</packagereq>
-      <packagereq type="optional">pydot</packagereq>
+      <packagereq type="optional">python3-pydot</packagereq>
       <packagereq type="optional">qiv</packagereq>
       <packagereq type="optional">rawstudio</packagereq>
       <packagereq type="optional">renrot</packagereq>
@@ -3135,6 +3118,7 @@
       <packagereq type="optional">sane-frontends</packagereq>
       <packagereq type="optional">shotwell</packagereq>
       <packagereq type="optional">simple-scan</packagereq>
+      <packagereq type="optional">spectacle</packagereq>
       <packagereq type="optional">tachyon</packagereq>
       <packagereq type="optional">tuxpaint</packagereq>
       <packagereq type="optional">tzclock</packagereq>
@@ -3143,7 +3127,6 @@
       <packagereq type="optional">viewnior</packagereq>
       <packagereq type="optional">wings</packagereq>
       <packagereq type="optional">xfig</packagereq>
-      <packagereq type="optional">xpaint</packagereq>
       <packagereq type="optional">xsane</packagereq>
     </packagelist>
   </group>
@@ -3243,7 +3226,7 @@
       <packagereq>omping</packagereq>
       <packagereq>pacemaker</packagereq>
       <packagereq>pcs</packagereq>
-      <packagereq type="optional">clufter</packagereq>
+      <packagereq type="optional">clufter-cli</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3297,16 +3280,13 @@
       <packagereq type="optional">cmospwd</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
-      <packagereq type="optional">gypsy</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">hdparm</packagereq>
-      <packagereq type="optional">i8kutils</packagereq>
       <packagereq type="optional">iscan-firmware</packagereq>
       <packagereq type="optional">isight-firmware-tools</packagereq>
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">multican</packagereq>
-      <packagereq type="optional">openct</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
@@ -3346,7 +3326,6 @@
       <packagereq type="mandatory">cockpit-storaged</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
-      <packagereq type="mandatory">rolekit</packagereq>
       <packagereq type="optional">cockpit-kubernetes</packagereq>
       <packagereq type="optional">cockpit-pcp</packagereq>
     </packagelist>
@@ -3425,22 +3404,21 @@
       <packagereq type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
+      <packagereq type="optional">caribou</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
-      <packagereq type="optional">eekboard</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-anthy</packagereq>
       <packagereq type="optional">ibus-bogo</packagereq>
       <packagereq type="optional">ibus-cangjie-engine-quick</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
-      <packagereq type="optional">ibus-gucharmap</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
       <packagereq type="optional">ibus-input-pad</packagereq>
       <packagereq type="optional">ibus-mozc</packagereq>
       <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-skk</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
-      <packagereq type="optional">ibus-table-array30</packagereq>
+      <packagereq type="optional">ibus-table-chinese-array</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">ibus-xkbc</packagereq>
       <packagereq type="optional">input-pad</packagereq>
@@ -3469,7 +3447,7 @@
       <packagereq type="optional">uim-gtk2</packagereq>
       <packagereq type="optional">uim-gtk3</packagereq>
       <packagereq type="optional">uim-m17n</packagereq>
-      <packagereq type="optional">uim-qt3</packagereq>
+      <packagereq type="optional">uim-qt</packagereq>
       <packagereq type="optional">uim-skk</packagereq>
       <packagereq type="optional">WritRecogn</packagereq>
     </packagelist>
@@ -3615,7 +3593,6 @@
       <packagereq type="optional">jcip-annotations</packagereq>
       <packagereq type="optional">jinput</packagereq>
       <packagereq type="optional">jsr-305</packagereq>
-      <packagereq type="optional">pmd</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3848,33 +3825,30 @@
       <packagereq type="mandatory">cmake</packagereq>
       <packagereq type="mandatory">kdelibs-devel</packagereq>
       <packagereq type="mandatory">qt-devel</packagereq>
+      <packagereq type="default">cervisia</packagereq>
+      <packagereq type="default">dolphin-plugins</packagereq>
+      <packagereq type="default">kapptemplate</packagereq>
       <packagereq type="default">kate</packagereq>
+      <packagereq type="default">kcachegrind</packagereq>
+      <packagereq type="default">kde-dev-scripts</packagereq>
       <packagereq type="default">kdelibs-webkit-devel</packagereq>
       <packagereq type="default">kdepimlibs-devel</packagereq>
-      <packagereq type="default">kdesdk-cervisia</packagereq>
-      <packagereq type="default">kdesdk-dolphin-plugins</packagereq>
-      <packagereq type="default">kdesdk-kapptemplate</packagereq>
-      <packagereq type="default">kdesdk-kcachegrind</packagereq>
-      <packagereq type="default">kdesdk-kioslave</packagereq>
-      <packagereq type="default">kdesdk-kmtrace</packagereq>
-      <packagereq type="default">kdesdk-kompare</packagereq>
-      <packagereq type="default">kdesdk-kpartloader</packagereq>
-      <packagereq type="default">kdesdk-kstartperf</packagereq>
-      <packagereq type="default">kdesdk-kuiviewer</packagereq>
-      <packagereq type="default">kdesdk-okteta</packagereq>
-      <packagereq type="default">kdesdk-poxml</packagereq>
-      <packagereq type="default">kdesdk-scripts</packagereq>
+      <packagereq type="default">kdesdk-kioslaves</packagereq>
       <packagereq type="default">kdesdk-thumbnailers</packagereq>
-      <packagereq type="default">kdesdk-umbrello</packagereq>
       <packagereq type="default">kdevelop</packagereq>
+      <packagereq type="default">kompare</packagereq>
+      <packagereq type="default">kpartloader</packagereq>
+      <packagereq type="default">kuiviewer</packagereq>
+      <packagereq type="default">okteta</packagereq>
+      <packagereq type="default">poxml</packagereq>
       <packagereq type="default">pykde4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
+      <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
       <packagereq type="optional">cantor-devel</packagereq>
       <packagereq type="optional">gambas3-runtime</packagereq>
       <packagereq type="optional">kate-devel</packagereq>
       <packagereq type="optional">kdbg</packagereq>
-      <packagereq type="optional">kde-baseapps-devel</packagereq>
       <packagereq type="optional">kdelibs3-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
@@ -3885,9 +3859,7 @@
       <packagereq type="optional">libkcompactdisc-devel</packagereq>
       <packagereq type="optional">libkdeedu-devel</packagereq>
       <packagereq type="optional">libkdegames-devel</packagereq>
-      <packagereq type="optional">marble-devel</packagereq>
-      <packagereq type="optional">PyKDE-devel</packagereq>
-      <packagereq type="optional">PyQt-devel</packagereq>
+      <packagereq type="optional">marble-widget-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
       <packagereq type="optional">qt3-designer</packagereq>
@@ -3933,10 +3905,8 @@
       <packagereq type="default">qt5-qtwebkit-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt5-qtconnectivity-devel</packagereq>
-      <packagereq type="optional">qt5-qtimageformats-devel</packagereq>
       <packagereq type="optional">qt5-qtlocation-devel</packagereq>
       <packagereq type="optional">qt5-qtmultimedia-devel</packagereq>
-      <packagereq type="optional">qt5-qtquick1-devel</packagereq>
       <packagereq type="optional">qt5-qtscript-devel</packagereq>
       <packagereq type="optional">qt5-qtsensors-devel</packagereq>
       <packagereq type="optional">qt5-qtserialport-devel</packagereq>
@@ -4068,7 +4038,6 @@
       <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
       <packagereq type="optional">bitmap-fixed-fonts</packagereq>
       <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
-      <packagereq type="optional">ctan-musixtex-fonts</packagereq>
       <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
       <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
       <packagereq type="optional">culmus-david-clm-fonts</packagereq>
@@ -4105,6 +4074,7 @@
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
+      <packagereq type="optional">texlive-musixtex-fonts</packagereq>
       <packagereq type="optional">texmacs-fedora-fonts</packagereq>
       <packagereq type="optional">ucs-miscfixed-fonts</packagereq>
       <packagereq type="optional">urw-base35-fonts</packagereq>
@@ -4132,7 +4102,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="optional">bootparamd</packagereq>
       <packagereq type="optional">rarpd</packagereq>
       <packagereq type="optional">rsh-server</packagereq>
       <packagereq type="optional">rusers</packagereq>
@@ -4357,7 +4326,7 @@
       <packagereq>openbox</packagereq>
       <packagereq>pcmanfm-qt</packagereq>
       <packagereq>perl-File-MimeInfo</packagereq>
-      <packagereq>qterminal-qt5</packagereq>
+      <packagereq>qterminal</packagereq>
       <packagereq>sddm</packagereq>
       <packagereq>sddm-breeze</packagereq>
       <packagereq>upower</packagereq>
@@ -4405,21 +4374,19 @@
       <packagereq type="optional">clamav-milter</packagereq>
       <packagereq type="optional">crm114</packagereq>
       <packagereq type="optional">cyrus-imapd</packagereq>
-      <packagereq type="optional">dbmail</packagereq>
       <packagereq type="optional">enemies-of-carlotta</packagereq>
       <packagereq type="optional">esmtp</packagereq>
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-clamav</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
-      <packagereq type="optional">imp</packagereq>
       <packagereq type="optional">mailman</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">opendkim</packagereq>
+      <packagereq type="optional">php-horde-imp</packagereq>
       <packagereq type="optional">postfix</packagereq>
       <packagereq type="optional">pyzor</packagereq>
       <packagereq type="optional">roundcubemail</packagereq>
       <packagereq type="optional">spamass-milter</packagereq>
-      <packagereq type="optional">spambayes</packagereq>
       <packagereq type="optional">sqlgrey</packagereq>
       <packagereq type="optional">squirrelmail</packagereq>
       <packagereq type="optional">up-imapproxy</packagereq>
@@ -4511,8 +4478,7 @@
       <packagereq>mate-utils</packagereq>
       <packagereq>multimedia-menus</packagereq>
       <packagereq>pidgin</packagereq>
-      <packagereq>pluma-beesu-plugin</packagereq>
-      <packagereq>python-caja</packagereq>
+      <packagereq>python3-caja</packagereq>
       <packagereq>tigervnc</packagereq>
     </packagelist>
   </group>
@@ -4678,7 +4644,6 @@
       <packagereq type="default">flterm</packagereq>
       <packagereq type="default">gcc</packagereq>
       <packagereq type="default">gd-devel</packagereq>
-      <packagereq type="default">gplcver</packagereq>
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">iverilog</packagereq>
       <packagereq type="default">lemon</packagereq>
@@ -4729,12 +4694,12 @@
       <packagereq type="optional">mingw32-pdcurses</packagereq>
       <packagereq type="optional">mingw32-pixman</packagereq>
       <packagereq type="optional">mingw32-proj</packagereq>
-      <packagereq type="optional">mingw32-pthreads</packagereq>
       <packagereq type="optional">mingw32-readline</packagereq>
       <packagereq type="optional">mingw32-SDL</packagereq>
       <packagereq type="optional">mingw32-sqlite</packagereq>
       <packagereq type="optional">mingw32-termcap</packagereq>
       <packagereq type="optional">mingw32-win-iconv</packagereq>
+      <packagereq type="optional">mingw32-winpthreads</packagereq>
       <packagereq type="optional">mingw32-zlib</packagereq>
     </packagelist>
   </group>
@@ -4745,9 +4710,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>libmongodb</packagereq>
+      <packagereq>mongo-cxx-driver</packagereq>
+      <packagereq>mongo-cxx-driver-devel</packagereq>
       <packagereq>mongodb</packagereq>
-      <packagereq>mongodb-devel</packagereq>
       <packagereq>mongodb-server</packagereq>
     </packagelist>
   </group>
@@ -4823,7 +4788,8 @@
       <packagereq type="optional">amanda-server</packagereq>
       <packagereq type="optional">babeld</packagereq>
       <packagereq type="optional">cobbler</packagereq>
-      <packagereq type="optional">dhcp</packagereq>
+      <packagereq type="optional">dhcp-relay</packagereq>
+      <packagereq type="optional">dhcp-server</packagereq>
       <packagereq type="optional">dnsmasq</packagereq>
       <packagereq type="optional">ejabberd</packagereq>
       <packagereq type="optional">flumotion</packagereq>
@@ -4833,15 +4799,12 @@
       <packagereq type="optional">icecast</packagereq>
       <packagereq type="optional">ipxripd</packagereq>
       <packagereq type="optional">jabberd</packagereq>
-      <packagereq type="optional">kannel</packagereq>
       <packagereq type="optional">koan</packagereq>
       <packagereq type="optional">krb5-server</packagereq>
       <packagereq type="optional">libreswan</packagereq>
-      <packagereq type="optional">netatalk</packagereq>
       <packagereq type="optional">nsd</packagereq>
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
-      <packagereq type="optional">polipo</packagereq>
       <packagereq type="optional">privoxy</packagereq>
       <packagereq type="optional">puppet-server</packagereq>
       <packagereq type="optional">quagga</packagereq>
@@ -4892,7 +4855,6 @@
       <packagereq type="optional">leafnode</packagereq>
       <packagereq type="optional">newscache</packagereq>
       <packagereq type="optional">newsx</packagereq>
-      <packagereq type="optional">suck</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4965,13 +4927,10 @@
       <packagereq type="optional">calcurse</packagereq>
       <packagereq type="optional">calibre</packagereq>
       <packagereq type="optional">calligra</packagereq>
-      <packagereq type="optional">calligra-braindump</packagereq>
-      <packagereq type="optional">calligra-flow</packagereq>
-      <packagereq type="optional">calligra-kexi</packagereq>
-      <packagereq type="optional">calligra-plan</packagereq>
       <packagereq type="optional">calligra-sheets</packagereq>
       <packagereq type="optional">calligra-stage</packagereq>
       <packagereq type="optional">calligra-words</packagereq>
+      <packagereq type="optional">calligraplan</packagereq>
       <packagereq type="optional">cherrytree</packagereq>
       <packagereq type="optional">dayplanner</packagereq>
       <packagereq type="optional">dia</packagereq>
@@ -4987,10 +4946,10 @@
       <packagereq type="optional">hnb</packagereq>
       <packagereq type="optional">htmldoc</packagereq>
       <packagereq type="optional">jpilot</packagereq>
-      <packagereq type="optional">kchmviewer-qt</packagereq>
+      <packagereq type="optional">kchmviewer</packagereq>
       <packagereq type="optional">keurocalc</packagereq>
+      <packagereq type="optional">kexi</packagereq>
       <packagereq type="optional">klatexformula</packagereq>
-      <packagereq type="optional">klatexformula-ktexteditor-plugin</packagereq>
       <packagereq type="optional">kmymoney</packagereq>
       <packagereq type="optional">krecipes</packagereq>
       <packagereq type="optional">kreetingkard</packagereq>
@@ -5011,7 +4970,6 @@
       <packagereq type="optional">lyx</packagereq>
       <packagereq type="optional">MagicPoint</packagereq>
       <packagereq type="optional">okular</packagereq>
-      <packagereq type="optional">pdfedit</packagereq>
       <packagereq type="optional">planner</packagereq>
       <packagereq type="optional">pybliographer</packagereq>
       <packagereq type="optional">rednotebook</packagereq>
@@ -5050,9 +5008,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">perl-core</packagereq>
-      <packagereq type="default">cpan-upload</packagereq>
+      <packagereq type="mandatory">perl</packagereq>
       <packagereq type="default">git-cpan-patch</packagereq>
+      <packagereq type="default">perl-CPAN-Uploader</packagereq>
       <packagereq type="default">perltidy</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">eclipse-epic</packagereq>
@@ -5070,8 +5028,8 @@
     <packagelist>
       <packagereq>ImageMagick-perl</packagereq>
       <packagereq>mod_perl</packagereq>
+      <packagereq>perl</packagereq>
       <packagereq>perl-App-cpanminus</packagereq>
-      <packagereq>perl-core</packagereq>
       <packagereq>perl-CPAN</packagereq>
       <packagereq>perl-CPANPLUS</packagereq>
       <packagereq>perl-DBD-MySQL</packagereq>
@@ -5104,12 +5062,12 @@
       <packagereq>php-gd</packagereq>
       <packagereq>php-imap</packagereq>
       <packagereq>php-mbstring</packagereq>
-      <packagereq>php-mcrypt</packagereq>
       <packagereq>php-mysqlnd</packagereq>
       <packagereq>php-pdo</packagereq>
       <packagereq>php-pear</packagereq>
-      <packagereq>php-pecl-apc</packagereq>
-      <packagereq>php-pecl-mongo</packagereq>
+      <packagereq>php-pecl-apcu-bc</packagereq>
+      <packagereq>php-pecl-mcrypt</packagereq>
+      <packagereq>php-pecl-mongodb</packagereq>
       <packagereq>php-pgsql</packagereq>
       <packagereq>php-process</packagereq>
       <packagereq>php-soap</packagereq>
@@ -5270,7 +5228,7 @@
       <packagereq type="default">fawkes-plugin-joystick</packagereq>
       <packagereq type="default">fawkes-plugin-katana</packagereq>
       <packagereq type="default">fawkes-plugin-laser</packagereq>
-      <packagereq type="default">fawkes-plugin-laserht</packagereq>
+      <packagereq type="default">fawkes-plugin-laser-lines</packagereq>
       <packagereq type="default">fawkes-plugin-luaagent</packagereq>
       <packagereq type="default">fawkes-plugin-pantilt</packagereq>
       <packagereq type="default">fawkes-plugin-player</packagereq>
@@ -5278,7 +5236,6 @@
       <packagereq type="default">fawkes-plugin-skiller</packagereq>
       <packagereq type="default">fawkes-plugin-ttmainloop</packagereq>
       <packagereq type="default">fawkes-plugin-webview</packagereq>
-      <packagereq type="default">fawkes-plugin-worldmodel</packagereq>
       <packagereq type="default">fawkes-plugin-xmlrpc</packagereq>
       <packagereq type="default">gazebo</packagereq>
       <packagereq type="default">gazebo-doc</packagereq>
@@ -5293,8 +5250,8 @@
       <packagereq type="default">player</packagereq>
       <packagereq type="default">player-doc</packagereq>
       <packagereq type="default">player-examples</packagereq>
-      <packagereq type="default">player-python</packagereq>
-      <packagereq type="default">player-ruby</packagereq>
+      <packagereq type="default">player-stage</packagereq>
+      <packagereq type="default">python2-player</packagereq>
       <packagereq type="default">python3-bloom</packagereq>
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
@@ -5312,8 +5269,8 @@
       <packagereq type="default">rcssserver-gui</packagereq>
       <packagereq type="default">rcssserver3d</packagereq>
       <packagereq type="default">rcssserver3d-doc</packagereq>
+      <packagereq type="default">ruby-player</packagereq>
       <packagereq type="default">stage</packagereq>
-      <packagereq type="default">stage-playerplugin</packagereq>
       <packagereq type="default">urg</packagereq>
       <packagereq type="optional">fawkes-devel</packagereq>
       <packagereq type="optional">gazebo-devel</packagereq>
@@ -5478,7 +5435,6 @@
       <packagereq type="default">dnstracer</packagereq>
       <packagereq type="default">driftnet</packagereq>
       <packagereq type="default">dsniff</packagereq>
-      <packagereq type="default">dstat</packagereq>
       <packagereq type="default">echoping</packagereq>
       <packagereq type="default">etherape</packagereq>
       <packagereq type="default">ettercap</packagereq>
@@ -5486,8 +5442,6 @@
       <packagereq type="default">examiner</packagereq>
       <packagereq type="default">extundelete</packagereq>
       <packagereq type="default">firewalk</packagereq>
-      <packagereq type="default">firstaidkit-gui</packagereq>
-      <packagereq type="default">firstaidkit-plugin-all</packagereq>
       <packagereq type="default">flawfinder</packagereq>
       <packagereq type="default">foremost</packagereq>
       <packagereq type="default">fpdns</packagereq>
@@ -5526,7 +5480,6 @@
       <packagereq type="default">lynis</packagereq>
       <packagereq type="default">macchanger</packagereq>
       <packagereq type="default">masscan</packagereq>
-      <packagereq type="default">mausezahn</packagereq>
       <packagereq type="default">mc</packagereq>
       <packagereq type="default">mcabber</packagereq>
       <packagereq type="default">medusa</packagereq>
@@ -5534,14 +5487,10 @@
       <packagereq type="default">mutt</packagereq>
       <packagereq type="default">nano</packagereq>
       <packagereq type="default">nbtscan</packagereq>
-      <packagereq type="default">nc</packagereq>
-      <packagereq type="default">nc6</packagereq>
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
       <packagereq type="default">net-snmp</packagereq>
       <packagereq type="default">net-snmp-utils</packagereq>
-      <packagereq type="default">netactview</packagereq>
-      <packagereq type="default">netdisco</packagereq>
       <packagereq type="default">nethogs</packagereq>
       <packagereq type="default">netsed</packagereq>
       <packagereq type="default">netsniff-ng</packagereq>
@@ -5553,6 +5502,7 @@
       <packagereq type="default">nload</packagereq>
       <packagereq type="default">nmap</packagereq>
       <packagereq type="default">nmap-frontend</packagereq>
+      <packagereq type="default">nmap-ncat</packagereq>
       <packagereq type="default">nmbscan</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
@@ -5560,6 +5510,8 @@
       <packagereq type="default">ntp</packagereq>
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
+      <packagereq type="default">openscap-content-sectool</packagereq>
+      <packagereq type="default">openscap-scanner</packagereq>
       <packagereq type="default">openssh</packagereq>
       <packagereq type="default">openvas-cli</packagereq>
       <packagereq type="default">openvas-gsa</packagereq>
@@ -5571,14 +5523,15 @@
       <packagereq type="default">paris-traceroute</packagereq>
       <packagereq type="default">pcapdiff</packagereq>
       <packagereq type="default">pcapfix</packagereq>
+      <packagereq type="default">pcp-system-tools</packagereq>
       <packagereq type="default">pdfcrack</packagereq>
-      <packagereq type="default">picviz-gui</packagereq>
       <packagereq type="default">powertop</packagereq>
       <packagereq type="default">proxychains-ng</packagereq>
       <packagereq type="default">psad</packagereq>
       <packagereq type="default">pscan</packagereq>
       <packagereq type="default">pwgen</packagereq>
       <packagereq type="default">pyrit</packagereq>
+      <packagereq type="default">python3-scapy</packagereq>
       <packagereq type="default">raddump</packagereq>
       <packagereq type="default">ratproxy</packagereq>
       <packagereq type="default">rats</packagereq>
@@ -5591,10 +5544,8 @@
       <packagereq type="default">scanmem</packagereq>
       <packagereq type="default">scap-security-guide</packagereq>
       <packagereq type="default">scap-workbench</packagereq>
-      <packagereq type="default">scapy</packagereq>
       <packagereq type="default">screen</packagereq>
       <packagereq type="default">scrub</packagereq>
-      <packagereq type="default">sectool-gui</packagereq>
       <packagereq type="default">security-menus</packagereq>
       <packagereq type="default">setools-gui</packagereq>
       <packagereq type="default">siege</packagereq>
@@ -5610,7 +5561,6 @@
       <packagereq type="default">splint</packagereq>
       <packagereq type="default">sqlninja</packagereq>
       <packagereq type="default">srm</packagereq>
-      <packagereq type="default">sshscan</packagereq>
       <packagereq type="default">ssldump</packagereq>
       <packagereq type="default">sslscan</packagereq>
       <packagereq type="default">sslsplit</packagereq>
@@ -5647,7 +5597,7 @@
       <packagereq type="default">whois</packagereq>
       <packagereq type="default">wipe</packagereq>
       <packagereq type="default">wireshark</packagereq>
-      <packagereq type="default">wireshark-gtk</packagereq>
+      <packagereq type="default">wireshark-cli</packagereq>
       <packagereq type="default">yersinia</packagereq>
       <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zmap</packagereq>
@@ -5664,7 +5614,7 @@
       <packagereq type="default">system-config-httpd</packagereq>
       <packagereq type="optional">system-config-bind</packagereq>
       <packagereq type="optional">system-config-printer</packagereq>
-      <packagereq type="optional">system-switch-mail-gnome</packagereq>
+      <packagereq type="optional">system-switch-mail-gui</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5692,8 +5642,6 @@
     <packagelist>
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">fedora-release-server</packagereq>
-      <packagereq type="mandatory">fedora-repos-modular</packagereq>
-      <packagereq type="mandatory">fedora-repos-rawhide-modular</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
@@ -5794,7 +5742,6 @@
       <packagereq type="optional">audacity</packagereq>
       <packagereq type="optional">banshee</packagereq>
       <packagereq type="optional">brasero</packagereq>
-      <packagereq type="optional">camE</packagereq>
       <packagereq type="optional">cdcollect</packagereq>
       <packagereq type="optional">cdlabelgen</packagereq>
       <packagereq type="optional">cdparanoia</packagereq>
@@ -5884,7 +5831,6 @@
       <packagereq type="optional">vdr-skinsoppalusikka</packagereq>
       <packagereq type="optional">vdr-streamdev-client</packagereq>
       <packagereq type="optional">vdr-streamdev-server</packagereq>
-      <packagereq type="optional">vdr-sudoku</packagereq>
       <packagereq type="optional">vdr-ttxtsubs</packagereq>
       <packagereq type="optional">vdr-tvonscreen</packagereq>
       <packagereq type="optional">volumeicon</packagereq>
@@ -5917,7 +5863,7 @@
       <packagereq type="optional">postgresql-jdbc</packagereq>
       <packagereq type="optional">postgresql-odbc</packagereq>
       <packagereq type="optional">postgresql-test</packagereq>
-      <packagereq type="optional">PyGreSQL</packagereq>
+      <packagereq type="optional">python3-pygresql</packagereq>
       <packagereq type="optional">qt-odbc</packagereq>
       <packagereq type="optional">qt-postgresql</packagereq>
       <packagereq type="optional">qt3-ODBC</packagereq>
@@ -6023,11 +5969,11 @@
       <packagereq>sugar-calendario</packagereq>
       <packagereq>sugar-connect</packagereq>
       <packagereq>sugar-distance</packagereq>
-      <packagereq>sugar-emulator</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
       <packagereq>sugar-implode</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
+      <packagereq>sugar-runner</packagereq>
       <packagereq>sugar-view-slides</packagereq>
       <packagereq>sugar-xomail</packagereq>
     </packagelist>
@@ -6044,7 +5990,9 @@
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>metacity</packagereq>
-      <packagereq>pygame</packagereq>
+      <!-- this is for sugargame, which doesn't yet work with python3
+           https://github.com/sugarlabs/sugargame/issues/2 -->
+      <packagereq>python2-pygame</packagereq>
       <packagereq>sugar</packagereq>
       <packagereq>sugar-abacus</packagereq>
       <packagereq>sugar-browse</packagereq>
@@ -6056,7 +6004,6 @@
       <packagereq>sugar-finance</packagereq>
       <packagereq>sugar-fototoon</packagereq>
       <packagereq>sugar-getiabooks</packagereq>
-      <packagereq>sugar-help</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
       <packagereq>sugar-infoslicer</packagereq>
       <packagereq>sugar-jukebox</packagereq>
@@ -6134,8 +6081,6 @@
       <packagereq type="optional">avahi-tools</packagereq>
       <packagereq type="optional">bochs</packagereq>
       <packagereq type="optional">cabextract</packagereq>
-      <packagereq type="optional">catfish</packagereq>
-      <packagereq type="optional">cfengine</packagereq>
       <packagereq type="optional">chrpath</packagereq>
       <packagereq type="optional">conman</packagereq>
       <packagereq type="optional">connect-proxy</packagereq>
@@ -6145,9 +6090,7 @@
       <packagereq type="optional">createrepo</packagereq>
       <packagereq type="optional">dar</packagereq>
       <packagereq type="optional">ddclient</packagereq>
-      <packagereq type="optional">denyhosts</packagereq>
       <packagereq type="optional">dkms</packagereq>
-      <packagereq type="optional">dstat</packagereq>
       <packagereq type="optional">dtach</packagereq>
       <packagereq type="optional">ebtables</packagereq>
       <packagereq type="optional">ed2k_hash</packagereq>
@@ -6156,8 +6099,8 @@
       <packagereq type="optional">enca</packagereq>
       <packagereq type="optional">environment-modules</packagereq>
       <packagereq type="optional">epylog</packagereq>
-      <packagereq type="optional">etherbat</packagereq>
       <packagereq type="optional">ettercap</packagereq>
+      <packagereq type="optional">fail2ban</packagereq>
       <packagereq type="optional">fatsort</packagereq>
       <packagereq type="optional">fdupes</packagereq>
       <packagereq type="optional">fedora-package-config-apt</packagereq>
@@ -6169,14 +6112,13 @@
       <packagereq type="optional">fwknop</packagereq>
       <packagereq type="optional">fwrestart</packagereq>
       <packagereq type="optional">ganglia</packagereq>
-      <packagereq type="optional">geoclue</packagereq>
+      <packagereq type="optional">geoclue2</packagereq>
       <packagereq type="optional">ghasher</packagereq>
       <packagereq type="optional">ghex</packagereq>
       <packagereq type="optional">gigolo</packagereq>
       <packagereq type="optional">gkrellm</packagereq>
       <packagereq type="optional">gnokii</packagereq>
       <packagereq type="optional">gnutls-utils</packagereq>
-      <packagereq type="optional">greadelf</packagereq>
       <packagereq type="optional">grepmail</packagereq>
       <packagereq type="optional">grsync</packagereq>
       <packagereq type="optional">gssdp</packagereq>
@@ -6198,15 +6140,13 @@
       <packagereq type="optional">javasysmon</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">john</packagereq>
-      <packagereq type="optional">kdirstat</packagereq>
+      <packagereq type="optional">k4dirstat</packagereq>
       <packagereq type="optional">keychain</packagereq>
-      <packagereq type="optional">ksmarttray</packagereq>
-      <packagereq type="optional">limph</packagereq>
-      <packagereq type="optional">lirc</packagereq>
-      <packagereq type="optional">liveusb-creator</packagereq>
+      <packagereq type="optional">lirc-compat</packagereq>
       <packagereq type="optional">lzop</packagereq>
       <packagereq type="optional">macchanger</packagereq>
       <packagereq type="optional">mc</packagereq>
+      <packagereq type="optional">mediawriter</packagereq>
       <packagereq type="optional">mmv</packagereq>
       <packagereq type="optional">mrtg</packagereq>
       <packagereq type="optional">mtx</packagereq>
@@ -6224,7 +6164,6 @@
       <packagereq type="optional">ntp-perl</packagereq>
       <packagereq type="optional">ntpdate</packagereq>
       <packagereq type="optional">nut</packagereq>
-      <packagereq type="optional">obexftp</packagereq>
       <packagereq type="optional">oddjob</packagereq>
       <packagereq type="optional">oddjob-mkhomedir</packagereq>
       <packagereq type="optional">p0f</packagereq>
@@ -6233,12 +6172,14 @@
       <packagereq type="optional">PackageKit-command-not-found</packagereq>
       <packagereq type="optional">par2cmdline</packagereq>
       <packagereq type="optional">pbzip2</packagereq>
+      <packagereq type="optional">pcp-system-tools</packagereq>
       <packagereq type="optional">portecle</packagereq>
-      <packagereq type="optional">powerman</packagereq>
       <packagereq type="optional">powertop</packagereq>
       <packagereq type="optional">procinfo</packagereq>
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">pwgen</packagereq>
+      <!-- as of 2018-10-02, binary is still in py2 package not py3 -->
+      <packagereq type="optional">python2-catfish</packagereq>
       <packagereq type="optional">qdbm</packagereq>
       <packagereq type="optional">qstat</packagereq>
       <packagereq type="optional">radeontool</packagereq>
@@ -6248,10 +6189,8 @@
       <packagereq type="optional">remmina</packagereq>
       <packagereq type="optional">remmina-plugins-nx</packagereq>
       <packagereq type="optional">remmina-plugins-rdp</packagereq>
-      <packagereq type="optional">remmina-plugins-telepathy</packagereq>
       <packagereq type="optional">remmina-plugins-xdmcp</packagereq>
       <packagereq type="optional">reptyr</packagereq>
-      <packagereq type="optional">rmanage</packagereq>
       <packagereq type="optional">rootsh</packagereq>
       <packagereq type="optional">rsnapshot</packagereq>
       <packagereq type="optional">scrub</packagereq>
@@ -6259,7 +6198,7 @@
       <packagereq type="optional">shorewall</packagereq>
       <packagereq type="optional">socat</packagereq>
       <packagereq type="optional">speech-dispatcher</packagereq>
-      <packagereq type="optional">speech-dispatcher-espeak</packagereq>
+      <packagereq type="optional">speech-dispatcher-espeak-ng</packagereq>
       <packagereq type="optional">speech-dispatcher-festival</packagereq>
       <packagereq type="optional">speech-dispatcher-flite</packagereq>
       <packagereq type="optional">stripesnoop</packagereq>
@@ -6272,7 +6211,6 @@
       <packagereq type="optional">tn5250</packagereq>
       <packagereq type="optional">torque-client</packagereq>
       <packagereq type="optional">torque-gui</packagereq>
-      <packagereq type="optional">ttywatch</packagereq>
       <packagereq type="optional">tunctl</packagereq>
       <packagereq type="optional">unison213</packagereq>
       <packagereq type="optional">unison227</packagereq>
@@ -6280,13 +6218,12 @@
       <packagereq type="optional">uucp</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">wine</packagereq>
-      <packagereq type="optional">wireshark-gnome</packagereq>
+      <packagereq type="optional">wireshark</packagereq>
       <packagereq type="optional">wlassistant</packagereq>
       <packagereq type="optional">w_scan</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
       <packagereq type="optional">xmobar</packagereq>
       <packagereq type="optional">xsel</packagereq>
-      <packagereq type="optional">xsupplicant</packagereq>
       <packagereq type="optional">zidrav</packagereq>
       <packagereq type="optional">zram</packagereq>
     </packagelist>
@@ -6364,7 +6301,6 @@
       <packagereq type="optional">offlineimap</packagereq>
       <packagereq type="optional">rss2email</packagereq>
       <packagereq type="optional">rtorrent</packagereq>
-      <packagereq type="optional">sitecopy</packagereq>
       <packagereq type="optional">slrn</packagereq>
       <packagereq type="optional">snownews</packagereq>
       <packagereq type="optional">tftp</packagereq>
@@ -6373,7 +6309,6 @@
       <packagereq type="optional">w3m</packagereq>
       <packagereq type="optional">websec</packagereq>
       <packagereq type="optional">whatmask</packagereq>
-      <packagereq type="optional">xprobe2</packagereq>
       <packagereq type="optional">yafc</packagereq>
       <packagereq type="optional">youtube-dl</packagereq>
     </packagelist>
@@ -6584,14 +6519,13 @@
       <packagereq type="default">webalizer</packagereq>
       <packagereq type="optional">apachetop</packagereq>
       <packagereq type="optional">awstats</packagereq>
-      <packagereq type="optional">boa</packagereq>
+      <packagereq type="optional">bes</packagereq>
       <packagereq type="optional">cherokee</packagereq>
-      <packagereq type="optional">dap-server</packagereq>
       <packagereq type="optional">drupal7</packagereq>
       <packagereq type="optional">lighttpd</packagereq>
       <packagereq type="optional">lighttpd-fastcgi</packagereq>
       <packagereq type="optional">mediawiki</packagereq>
-      <packagereq type="optional">mod_auth_kerb</packagereq>
+      <packagereq type="optional">mod_auth_gssapi</packagereq>
       <packagereq type="optional">mod_fcgid</packagereq>
       <packagereq type="optional">mod_geoip</packagereq>
       <packagereq type="optional">mod_security</packagereq>
@@ -6601,13 +6535,12 @@
       <packagereq type="optional">perl-HTML-Mason</packagereq>
       <packagereq type="optional">perl-Kwiki</packagereq>
       <packagereq type="optional">php-odbc</packagereq>
-      <packagereq type="optional">php-pecl-apc</packagereq>
+      <packagereq type="optional">php-pecl-apcu-bc</packagereq>
       <packagereq type="optional">php-pgsql</packagereq>
       <packagereq type="optional">phpldapadmin</packagereq>
       <packagereq type="optional">phpMyAdmin</packagereq>
       <packagereq type="optional">Pound</packagereq>
       <packagereq type="optional">thttpd</packagereq>
-      <packagereq type="optional">tiquit</packagereq>
       <packagereq type="optional">wordpress</packagereq>
     </packagelist>
   </group>
@@ -6620,7 +6553,6 @@
     <packagelist>
       <packagereq type="optional">bbkeys</packagereq>
       <packagereq type="optional">blackbox</packagereq>
-      <packagereq type="optional">bluetile</packagereq>
       <packagereq type="optional">dwm</packagereq>
       <packagereq type="optional">dwm-user</packagereq>
       <packagereq type="optional">fluxbox</packagereq>
@@ -6809,7 +6741,6 @@
       <packagereq type="default">libXcursor-devel</packagereq>
       <packagereq type="default">libXdamage-devel</packagereq>
       <packagereq type="default">libXdmcp-devel</packagereq>
-      <packagereq type="default">libXevie-devel</packagereq>
       <packagereq type="default">libXext-devel</packagereq>
       <packagereq type="default">libXfont-devel</packagereq>
       <packagereq type="default">libXft-devel</packagereq>
@@ -6848,7 +6779,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>catfish</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>claws-mail-plugins-archive</packagereq>
       <packagereq>claws-mail-plugins-att-remover</packagereq>
@@ -6871,6 +6801,8 @@
       <packagereq>mousepad</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
+      <!-- as of 2018-10-02, binary is still in py2 package not py3 -->
+      <packagereq>python2-catfish</packagereq>
       <packagereq>ristretto</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>transmission</packagereq>
@@ -6926,7 +6858,6 @@
       <packagereq>NetworkManager-vpnc-gnome</packagereq>
       <packagereq>nm-connection-editor</packagereq>
       <packagereq>openssh-askpass</packagereq>
-      <packagereq>rodent-icon-theme</packagereq>
       <packagereq>Thunar</packagereq>
       <packagereq>thunar-archive-plugin</packagereq>
       <packagereq>thunar-media-tags-plugin</packagereq>
