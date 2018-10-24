@@ -659,12 +659,12 @@
       <packagereq type="mandatory">cloud-init</packagereq>
       <packagereq type="mandatory">cloud-utils-growpart</packagereq>
       <packagereq type="mandatory">dracut-config-generic</packagereq>
-      <packagereq type="mandatory">fedora-release-cloud</packagereq>
       <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">heat-cfntools</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="default">fedora-release-cloud</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4511,7 +4511,6 @@
       <packagereq>f29-backgrounds-extras-base</packagereq>
       <packagereq>f29-backgrounds-extras-mate</packagereq>
       <packagereq>f29-backgrounds-mate</packagereq>
-      <packagereq>fedora-release-matecompiz</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -4608,6 +4607,7 @@
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
+      <packagereq type="default">fedora-release-matecompiz</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5637,12 +5637,12 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">chrony</packagereq>
-      <packagereq type="mandatory">fedora-release-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq type="mandatory">timedatex</packagereq>
       <packagereq type="default">dhcp-client</packagereq>
+      <packagereq type="default">fedora-release-server</packagereq>
       <packagereq type="default">NetworkManager-team</packagereq>
     </packagelist>
   </group>
@@ -6622,7 +6622,6 @@
       <packagereq>evolution</packagereq>
       <packagereq>evolution-ews</packagereq>
       <packagereq>evolution-help</packagereq>
-      <packagereq>fedora-release-workstation</packagereq>
       <packagereq>fedora-user-agent-chrome</packagereq>
       <packagereq>fedora-workstation-backgrounds</packagereq>
       <packagereq>file</packagereq>
@@ -6707,6 +6706,7 @@
       <packagereq>words</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq>zip</packagereq>
+      <packagereq type="default">fedora-release-workstation</packagereq>
     </packagelist>
   </group>
   <group>
