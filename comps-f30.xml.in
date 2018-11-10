@@ -2864,6 +2864,7 @@
       <packagereq>gnome-logs</packagereq>
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-photos</packagereq>
+      <packagereq>gnome-remote-desktop</packagereq>
       <packagereq>gnome-screenshot</packagereq>
       <packagereq>gnome-system-monitor</packagereq>
       <packagereq>gnome-terminal-nautilus</packagereq>
