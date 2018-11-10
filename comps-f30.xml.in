@@ -6590,120 +6590,119 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-cli</packagereq>
-      <packagereq>abrt-desktop</packagereq>
-      <packagereq>abrt-java-connector</packagereq>
-      <packagereq>acl</packagereq>
-      <packagereq>adwaita-qt4</packagereq>
-      <packagereq>adwaita-qt5</packagereq>
-      <packagereq>at</packagereq>
-      <packagereq>attr</packagereq>
-      <packagereq>bash-completion</packagereq>
-      <packagereq>bc</packagereq>
-      <packagereq>bind-utils</packagereq>
-      <packagereq>bridge-utils</packagereq>
-      <packagereq>btrfs-progs</packagereq>
-      <packagereq>bzip2</packagereq>
-      <packagereq>chrony</packagereq>
-      <packagereq>cifs-utils</packagereq>
-      <packagereq>cpio</packagereq>
-      <packagereq>crontabs</packagereq>
-      <packagereq>cryptsetup</packagereq>
-      <packagereq>cyrus-sasl-plain</packagereq>
-      <packagereq>deltarpm</packagereq>
-      <packagereq>desktop-backgrounds-gnome</packagereq>
-      <packagereq>dnf</packagereq>
-      <packagereq>dnf-plugins-core</packagereq>
-      <packagereq>dos2unix</packagereq>
-      <packagereq>dosfstools</packagereq>
-      <packagereq>ethtool</packagereq>
-      <packagereq>evolution</packagereq>
-      <packagereq>evolution-ews</packagereq>
-      <packagereq>evolution-help</packagereq>
-      <packagereq>fedora-user-agent-chrome</packagereq>
-      <packagereq>fedora-workstation-backgrounds</packagereq>
-      <packagereq>file</packagereq>
-      <packagereq>fpaste</packagereq>
-      <packagereq>fros-gnome</packagereq>
-      <packagereq>git</packagereq>
-      <packagereq>glibc-all-langpacks</packagereq>
-      <packagereq>gnome-shell-extension-background-logo</packagereq>
-      <packagereq>gnupg2</packagereq>
-      <packagereq>hunspell</packagereq>
-      <packagereq>ibus-gtk2</packagereq>
-      <packagereq>ibus-gtk3</packagereq>
-      <packagereq>ibus-hangul</packagereq>
-      <packagereq>ibus-kkc</packagereq>
-      <packagereq>ibus-libpinyin</packagereq>
-      <packagereq>ibus-libzhuyin</packagereq>
-      <packagereq>ibus-m17n</packagereq>
-      <packagereq>ibus-qt</packagereq>
-      <packagereq>ibus-typing-booster</packagereq>
-      <packagereq>iptstate</packagereq>
-      <packagereq>jwhois</packagereq>
-      <packagereq>linux-firmware</packagereq>
-      <packagereq>logrotate</packagereq>
-      <packagereq>lrzsz</packagereq>
-      <packagereq>lsof</packagereq>
-      <packagereq>mailcap</packagereq>
-      <packagereq>man-pages</packagereq>
-      <packagereq>mcelog</packagereq>
-      <packagereq>mdadm</packagereq>
-      <packagereq>microcode_ctl</packagereq>
-      <packagereq>mlocate</packagereq>
-      <packagereq>mtr</packagereq>
-      <packagereq>net-tools</packagereq>
-      <packagereq>nfs-utils</packagereq>
-      <packagereq>nmap-ncat</packagereq>
-      <packagereq>nss-mdns</packagereq>
-      <packagereq>ntfs-3g</packagereq>
-      <packagereq>ntfsprogs</packagereq>
-      <packagereq>pam_krb5</packagereq>
-      <packagereq>passwdqc</packagereq>
-      <packagereq>pciutils</packagereq>
-      <packagereq>pinentry-gnome3</packagereq>
-      <packagereq>pinfo</packagereq>
-      <packagereq>plymouth</packagereq>
-      <packagereq>polkit</packagereq>
-      <packagereq>psacct</packagereq>
-      <packagereq>qgnomeplatform</packagereq>
-      <packagereq>qt</packagereq>
-      <packagereq>qt-settings</packagereq>
-      <packagereq>qt-x11</packagereq>
-      <packagereq>qt5-qtbase</packagereq>
-      <packagereq>qt5-qtbase-gui</packagereq>
-      <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq>qt5-qtxmlpatterns</packagereq>
-      <packagereq>quota</packagereq>
-      <packagereq>rdist</packagereq>
-      <packagereq>realmd</packagereq>
-      <packagereq>rhythmbox</packagereq>
-      <packagereq>rng-tools</packagereq>
-      <packagereq>rp-pppoe</packagereq>
-      <packagereq>rsync</packagereq>
-      <packagereq>scl-utils</packagereq>
-      <packagereq>sos</packagereq>
-      <packagereq>sssd</packagereq>
-      <packagereq>sudo</packagereq>
-      <packagereq>symlinks</packagereq>
-      <packagereq>systemd-udev</packagereq>
-      <packagereq>tar</packagereq>
-      <packagereq>tcpdump</packagereq>
-      <packagereq>telnet</packagereq>
-      <packagereq>time</packagereq>
-      <packagereq>traceroute</packagereq>
-      <packagereq>tree</packagereq>
-      <packagereq>unoconv</packagereq>
-      <packagereq>unzip</packagereq>
-      <packagereq>usbutils</packagereq>
-      <packagereq>vconfig</packagereq>
-      <packagereq>wget</packagereq>
-      <packagereq>which</packagereq>
-      <packagereq>wireless-tools</packagereq>
-      <packagereq>words</packagereq>
-      <packagereq>xorg-x11-drv-libinput</packagereq>
-      <packagereq>zip</packagereq>
+      <packagereq type="default">abrt-cli</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
+      <packagereq type="default">abrt-java-connector</packagereq>
+      <packagereq type="default">acl</packagereq>
+      <packagereq type="default">adwaita-qt4</packagereq>
+      <packagereq type="default">adwaita-qt5</packagereq>
+      <packagereq type="default">at</packagereq>
+      <packagereq type="default">attr</packagereq>
+      <packagereq type="default">bash-completion</packagereq>
+      <packagereq type="default">bc</packagereq>
+      <packagereq type="default">bind-utils</packagereq>
+      <packagereq type="default">bridge-utils</packagereq>
+      <packagereq type="default">btrfs-progs</packagereq>
+      <packagereq type="default">bzip2</packagereq>
+      <packagereq type="default">chrony</packagereq>
+      <packagereq type="default">cifs-utils</packagereq>
+      <packagereq type="default">cpio</packagereq>
+      <packagereq type="default">crontabs</packagereq>
+      <packagereq type="default">cryptsetup</packagereq>
+      <packagereq type="default">cyrus-sasl-plain</packagereq>
+      <packagereq type="default">deltarpm</packagereq>
+      <packagereq type="default">desktop-backgrounds-gnome</packagereq>
+      <packagereq type="default">dnf-plugins-core</packagereq>
+      <packagereq type="default">dos2unix</packagereq>
+      <packagereq type="default">dosfstools</packagereq>
+      <packagereq type="default">ethtool</packagereq>
+      <packagereq type="default">evolution</packagereq>
+      <packagereq type="default">evolution-ews</packagereq>
+      <packagereq type="default">evolution-help</packagereq>
       <packagereq type="default">fedora-release-workstation</packagereq>
+      <packagereq type="default">fedora-user-agent-chrome</packagereq>
+      <packagereq type="default">fedora-workstation-backgrounds</packagereq>
+      <packagereq type="default">file</packagereq>
+      <packagereq type="default">fpaste</packagereq>
+      <packagereq type="default">fros-gnome</packagereq>
+      <packagereq type="default">git</packagereq>
+      <packagereq type="default">glibc-all-langpacks</packagereq>
+      <packagereq type="default">gnome-shell-extension-background-logo</packagereq>
+      <packagereq type="default">gnupg2</packagereq>
+      <packagereq type="default">hunspell</packagereq>
+      <packagereq type="default">ibus-gtk2</packagereq>
+      <packagereq type="default">ibus-gtk3</packagereq>
+      <packagereq type="default">ibus-hangul</packagereq>
+      <packagereq type="default">ibus-kkc</packagereq>
+      <packagereq type="default">ibus-libpinyin</packagereq>
+      <packagereq type="default">ibus-libzhuyin</packagereq>
+      <packagereq type="default">ibus-m17n</packagereq>
+      <packagereq type="default">ibus-qt</packagereq>
+      <packagereq type="default">ibus-typing-booster</packagereq>
+      <packagereq type="default">iptstate</packagereq>
+      <packagereq type="default">jwhois</packagereq>
+      <packagereq type="default">logrotate</packagereq>
+      <packagereq type="default">lrzsz</packagereq>
+      <packagereq type="default">lsof</packagereq>
+      <packagereq type="default">mailcap</packagereq>
+      <packagereq type="default">man-pages</packagereq>
+      <packagereq type="default">mcelog</packagereq>
+      <packagereq type="default">mdadm</packagereq>
+      <packagereq type="default">mlocate</packagereq>
+      <packagereq type="default">mtr</packagereq>
+      <packagereq type="default">net-tools</packagereq>
+      <packagereq type="default">nfs-utils</packagereq>
+      <packagereq type="default">nmap-ncat</packagereq>
+      <packagereq type="default">nss-mdns</packagereq>
+      <packagereq type="default">ntfs-3g</packagereq>
+      <packagereq type="default">ntfsprogs</packagereq>
+      <packagereq type="default">pam_krb5</packagereq>
+      <packagereq type="default">passwdqc</packagereq>
+      <packagereq type="default">pciutils</packagereq>
+      <packagereq type="default">pinentry-gnome3</packagereq>
+      <packagereq type="default">pinfo</packagereq>
+      <packagereq type="default">plymouth</packagereq>
+      <packagereq type="default">psacct</packagereq>
+      <packagereq type="default">qgnomeplatform</packagereq>
+      <packagereq type="default">qt</packagereq>
+      <packagereq type="default">qt-settings</packagereq>
+      <packagereq type="default">qt-x11</packagereq>
+      <packagereq type="default">qt5-qtbase</packagereq>
+      <packagereq type="default">qt5-qtbase-gui</packagereq>
+      <packagereq type="default">qt5-qtdeclarative</packagereq>
+      <packagereq type="default">qt5-qtxmlpatterns</packagereq>
+      <packagereq type="default">quota</packagereq>
+      <packagereq type="default">rdist</packagereq>
+      <packagereq type="default">realmd</packagereq>
+      <packagereq type="default">rhythmbox</packagereq>
+      <packagereq type="default">rng-tools</packagereq>
+      <packagereq type="default">rp-pppoe</packagereq>
+      <packagereq type="default">rsync</packagereq>
+      <packagereq type="default">scl-utils</packagereq>
+      <packagereq type="default">sos</packagereq>
+      <packagereq type="default">sssd</packagereq>
+      <packagereq type="default">symlinks</packagereq>
+      <packagereq type="default">tcpdump</packagereq>
+      <packagereq type="default">telnet</packagereq>
+      <packagereq type="default">time</packagereq>
+      <packagereq type="default">traceroute</packagereq>
+      <packagereq type="default">tree</packagereq>
+      <packagereq type="default">unoconv</packagereq>
+      <packagereq type="default">unzip</packagereq>
+      <packagereq type="default">usbutils</packagereq>
+      <packagereq type="default">vconfig</packagereq>
+      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">which</packagereq>
+      <packagereq type="default">wireless-tools</packagereq>
+      <packagereq type="default">words</packagereq>
+      <packagereq type="default">zip</packagereq>
+      <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">linux-firmware</packagereq>
+      <packagereq type="mandatory">microcode_ctl</packagereq>
+      <packagereq type="mandatory">sudo</packagereq>
+      <packagereq type="mandatory">systemd-udev</packagereq>
+      <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
     </packagelist>
   </group>
   <group>
