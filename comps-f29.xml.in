@@ -5540,7 +5540,6 @@
       <packagereq type="default">scamper</packagereq>
       <packagereq type="default">scanmem</packagereq>
       <packagereq type="default">scap-security-guide</packagereq>
-      <packagereq type="default">scap-workbench</packagereq>
       <packagereq type="default">screen</packagereq>
       <packagereq type="default">scrub</packagereq>
       <packagereq type="default">security-menus</packagereq>
@@ -5596,7 +5595,6 @@
       <packagereq type="default">wireshark</packagereq>
       <packagereq type="default">wireshark-cli</packagereq>
       <packagereq type="default">yersinia</packagereq>
-      <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zmap</packagereq>
     </packagelist>
   </group>
