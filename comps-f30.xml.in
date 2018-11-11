@@ -5595,7 +5595,6 @@
       <packagereq type="default">wireshark</packagereq>
       <packagereq type="default">wireshark-cli</packagereq>
       <packagereq type="default">yersinia</packagereq>
-      <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zmap</packagereq>
     </packagelist>
   </group>
