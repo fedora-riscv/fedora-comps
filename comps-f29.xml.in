@@ -6667,6 +6667,7 @@
       <packagereq>pinentry-gnome3</packagereq>
       <packagereq>pinfo</packagereq>
       <packagereq>plymouth</packagereq>
+      <packagereq>policycoreutils-python-utils</packagereq>
       <packagereq>polkit</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>qgnomeplatform</packagereq>
