@@ -2831,6 +2831,21 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">dconf</packagereq>
+      <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">gedit</packagereq>
+      <packagereq type="mandatory">gnome-boxes</packagereq>
+      <packagereq type="mandatory">gnome-control-center</packagereq>
+      <packagereq type="mandatory">gnome-initial-setup</packagereq>
+      <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
+      <packagereq type="mandatory">gnome-session-xsession</packagereq>
+      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
+      <packagereq type="mandatory">gnome-shell</packagereq>
+      <packagereq type="mandatory">gnome-software</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">polkit</packagereq>
+      <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="default">at-spi2-atk</packagereq>
       <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
@@ -2908,21 +2923,6 @@
       <packagereq type="default">xdg-desktop-portal</packagereq>
       <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
-      <packagereq type="mandatory">dconf</packagereq>
-      <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gedit</packagereq>
-      <packagereq type="mandatory">gnome-boxes</packagereq>
-      <packagereq type="mandatory">gnome-control-center</packagereq>
-      <packagereq type="mandatory">gnome-initial-setup</packagereq>
-      <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
-      <packagereq type="mandatory">gnome-session-xsession</packagereq>
-      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
-      <packagereq type="mandatory">gnome-shell</packagereq>
-      <packagereq type="mandatory">gnome-software</packagereq>
-      <packagereq type="mandatory">gnome-terminal</packagereq>
-      <packagereq type="mandatory">nautilus</packagereq>
-      <packagereq type="mandatory">polkit</packagereq>
-      <packagereq type="mandatory">yelp</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6590,6 +6590,13 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">linux-firmware</packagereq>
+      <packagereq type="mandatory">microcode_ctl</packagereq>
+      <packagereq type="mandatory">sudo</packagereq>
+      <packagereq type="mandatory">systemd-udev</packagereq>
+      <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
       <packagereq type="default">abrt-cli</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
@@ -6697,13 +6704,6 @@
       <packagereq type="default">wireless-tools</packagereq>
       <packagereq type="default">words</packagereq>
       <packagereq type="default">zip</packagereq>
-      <packagereq type="mandatory">dnf</packagereq>
-      <packagereq type="mandatory">linux-firmware</packagereq>
-      <packagereq type="mandatory">microcode_ctl</packagereq>
-      <packagereq type="mandatory">sudo</packagereq>
-      <packagereq type="mandatory">systemd-udev</packagereq>
-      <packagereq type="mandatory">tar</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
     </packagelist>
   </group>
   <group>
