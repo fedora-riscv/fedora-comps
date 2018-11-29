@@ -157,7 +157,6 @@
     <packagelist>
       <packagereq>arm-image-installer</packagereq>
       <packagereq>cloud-utils-growpart</packagereq>
-      <packagereq>grubby</packagereq>
       <packagereq>grubby-deprecated</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
@@ -5900,6 +5899,7 @@
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>gnupg2</packagereq>
+      <packagereq>grubby</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
       <packagereq>irqbalance</packagereq>
