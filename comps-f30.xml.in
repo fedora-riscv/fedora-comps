@@ -157,6 +157,8 @@
     <packagelist>
       <packagereq>arm-image-installer</packagereq>
       <packagereq>cloud-utils-growpart</packagereq>
+      <packagereq>grubby</packagereq>
+      <packagereq>grubby-deprecated</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
       <packagereq>zram</packagereq>
@@ -753,8 +755,6 @@
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
-      <packagereq type="default">grubby</packagereq>
-      <packagereq type="default">grubby-deprecated</packagereq>
       <packagereq type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">powerpc-utils</packagereq>
