@@ -6726,6 +6726,7 @@
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">net-tools</packagereq>
+      <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
       <packagereq type="default">nmap-ncat</packagereq>
       <packagereq type="default">nss-mdns</packagereq>
