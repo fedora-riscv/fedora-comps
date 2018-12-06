@@ -5482,7 +5482,6 @@
       <packagereq type="default">bmon</packagereq>
       <packagereq type="default">bonesi</packagereq>
       <packagereq type="default">bro</packagereq>
-      <packagereq type="default">captcp</packagereq>
       <packagereq type="default">chkrootkit</packagereq>
       <packagereq type="default">ciphertest</packagereq>
       <packagereq type="default">cmospwd</packagereq>
@@ -5605,7 +5604,6 @@
       <packagereq type="default">scamper</packagereq>
       <packagereq type="default">scanmem</packagereq>
       <packagereq type="default">scap-security-guide</packagereq>
-      <packagereq type="default">scap-workbench</packagereq>
       <packagereq type="default">screen</packagereq>
       <packagereq type="default">scrub</packagereq>
       <packagereq type="default">security-menus</packagereq>
