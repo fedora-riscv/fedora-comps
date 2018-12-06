@@ -5571,7 +5571,6 @@
       <packagereq type="default">ntp</packagereq>
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
-      <packagereq type="default">openscap-content-sectool</packagereq>
       <packagereq type="default">openscap-scanner</packagereq>
       <packagereq type="default">openssh</packagereq>
       <packagereq type="default">openvas-cli</packagereq>
