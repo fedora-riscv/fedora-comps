@@ -6690,9 +6690,6 @@
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
       <packagereq type="default">ethtool</packagereq>
-      <packagereq type="default">evolution</packagereq>
-      <packagereq type="default">evolution-ews</packagereq>
-      <packagereq type="default">evolution-help</packagereq>
       <packagereq type="default">fedora-release-workstation</packagereq>
       <packagereq type="default">fedora-user-agent-chrome</packagereq>
       <packagereq type="default">fedora-workstation-backgrounds</packagereq>
