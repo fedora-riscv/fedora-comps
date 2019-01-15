@@ -3990,6 +3990,7 @@
       <packagereq type="optional">taipeifonts</packagereq>
       <packagereq type="optional">terminus-fonts</packagereq>
       <packagereq type="optional">terminus-fonts-console</packagereq>
+      <packagereq type="optional">terminus-fonts-grub2</packagereq>
       <packagereq type="optional">texmacs-fedora-fonts</packagereq>
       <packagereq type="optional">ucs-miscfixed-fonts</packagereq>
       <packagereq type="optional">urw-base35-fonts</packagereq>
