@@ -6143,6 +6143,7 @@
       <packagereq type="optional">avahi-tools</packagereq>
       <packagereq type="optional">bochs</packagereq>
       <packagereq type="optional">cabextract</packagereq>
+      <packagereq type="optional">catfish</packagereq>
       <packagereq type="optional">chrpath</packagereq>
       <packagereq type="optional">conman</packagereq>
       <packagereq type="optional">connect-proxy</packagereq>
@@ -6239,8 +6240,6 @@
       <packagereq type="optional">procinfo</packagereq>
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">pwgen</packagereq>
-      <!-- as of 2018-10-02, binary is still in py2 package not py3 -->
-      <packagereq type="optional">python2-catfish</packagereq>
       <packagereq type="optional">qdbm</packagereq>
       <packagereq type="optional">qstat</packagereq>
       <packagereq type="optional">radeontool</packagereq>
@@ -6837,6 +6836,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>catfish</packagereq>
       <packagereq>claws-mail</packagereq>
       <packagereq>claws-mail-plugins-archive</packagereq>
       <packagereq>claws-mail-plugins-att-remover</packagereq>
@@ -6859,8 +6859,6 @@
       <packagereq>mousepad</packagereq>
       <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
-      <!-- as of 2018-10-02, binary is still in py2 package not py3 -->
-      <packagereq>python2-catfish</packagereq>
       <packagereq>ristretto</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>transmission</packagereq>
