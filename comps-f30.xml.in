@@ -4747,7 +4747,7 @@
       <packagereq type="default">perl-DBD-MySQL</packagereq>
       <packagereq type="default">python3-mysql</packagereq>
       <packagereq type="default">unixODBC</packagereq>
-      <packagereq type="optional">mariadb-bench</packagereq>
+      <packagereq type="optional">mariadb-server-utils</packagereq>
       <packagereq type="optional">mariadb-devel</packagereq>
       <packagereq type="optional">mysqlreport</packagereq>
       <packagereq type="optional">mysqltuner</packagereq>
