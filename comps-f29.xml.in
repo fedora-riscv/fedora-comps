@@ -3283,8 +3283,10 @@
       <packagereq type="optional">iscan-firmware</packagereq>
       <packagereq type="optional">isight-firmware-tools</packagereq>
       <packagereq type="optional">libifp</packagereq>
+      <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">multican</packagereq>
+      <packagereq type="optional">netronome-firmware</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
@@ -5625,7 +5627,9 @@
       <packagereq type="default">smp_utils</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">hdparm</packagereq>
+      <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
+      <packagereq type="optional">netronome-firmware</packagereq>
     </packagelist>
   </group>
   <group>
