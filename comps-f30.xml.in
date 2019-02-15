@@ -106,17 +106,6 @@
     </packagelist>
   </group>
   <group>
-    <id>ansible-node</id>
-    <_name>Ansible node</_name>
-    <_description>This group contains packages necessary for the system to be controlled by Ansible.</_description>
-    <default>false</default>
-    <uservisible>true</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">python2-dnf</packagereq>
-      <packagereq type="conditional" requires="selinux-policy">python2-libselinux</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>arm-tools</id>
     <_name>ARM Tools</_name>
     <_description>Tools for working with arm systems</_description>
@@ -6262,7 +6251,6 @@
       <groupid>networkmanager-submodules</groupid>
     </grouplist>
     <optionlist>
-      <groupid>ansible-node</groupid>
       <groupid>arm-tools</groupid>
       <groupid>container-management</groupid>
       <groupid>dogtag</groupid>
