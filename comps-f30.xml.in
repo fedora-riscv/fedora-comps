@@ -3062,11 +3062,13 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">cockpit</packagereq>
-      <packagereq type="mandatory">cockpit-networkmanager</packagereq>
-      <packagereq type="mandatory">cockpit-packagekit</packagereq>
-      <packagereq type="mandatory">cockpit-storaged</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">PackageKit</packagereq>
+      <packagereq type="default">cockpit-networkmanager</packagereq>
+      <packagereq type="default">cockpit-packagekit</packagereq>
+      <packagereq type="default">cockpit-selinux</packagereq>
+      <packagereq type="default">cockpit-storaged</packagereq>
+      <packagereq type="optional">cockpit-docker</packagereq>
       <packagereq type="optional">cockpit-kubernetes</packagereq>
       <packagereq type="optional">cockpit-pcp</packagereq>
     </packagelist>
