@@ -1372,6 +1372,7 @@
       <packagereq type="default">piklab</packagereq>
       <packagereq type="default">pikloops</packagereq>
       <packagereq type="default">pulseview</packagereq>
+      <packagereq type="default">python3-migen</packagereq>
       <packagereq type="default">python3-myhdl</packagereq>
       <packagereq type="default">qtoctave</packagereq>
       <packagereq type="default">qucs</packagereq>
