@@ -3807,7 +3807,6 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>kwin</packagereq>
       <packagereq>lxqt-about</packagereq>
       <packagereq>lxqt-config</packagereq>
       <packagereq>lxqt-globalkeys</packagereq>
@@ -3830,9 +3829,35 @@
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>qterminal</packagereq>
       <packagereq>sddm</packagereq>
-      <packagereq>sddm-breeze</packagereq>
+      <packagereq>sddm-themes</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>lxqt-l10n</id>
+    <_name>Translations of LXQt</_name>
+    <_description>Translations of LXQt</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>libfm-qt-l10n</packagereq>
+      <packagereq>liblxqt-l10n</packagereq>
+      <packagereq>lxqt-about-l10n</packagereq>
+      <packagereq>lxqt-admin-l10n</packagereq>
+      <packagereq>lxqt-config-l10n</packagereq>
+      <packagereq>lxqt-globalkeys-l10n</packagereq>
+      <packagereq>lxqt-notificationd-l10n</packagereq>
+      <packagereq>lxqt-openssh-askpass-l10n</packagereq>
+      <packagereq>lxqt-panel-l10n</packagereq>
+      <packagereq>lxqt-policykit-l10n</packagereq>
+      <packagereq>lxqt-powermanagement-l10n</packagereq>
+      <packagereq>lxqt-runner-l10n</packagereq>
+      <packagereq>lxqt-session-l10n</packagereq>
+      <packagereq>lxqt-sudo-l10n</packagereq>
+      <packagereq>pcmanfm-qt-l10n</packagereq>
+      <packagereq>qterminal-l10n</packagereq>
+      <packagereq>qtermwidget-l10n</packagereq>
     </packagelist>
   </group>
   <group>
