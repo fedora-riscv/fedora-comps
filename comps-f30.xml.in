@@ -4230,19 +4230,6 @@
     </packagelist>
   </group>
   <group>
-    <id>mongodb</id>
-    <_name>MongoDB</_name>
-    <_description>Scalable, high-performance NoSQL database.</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>mongo-cxx-driver</packagereq>
-      <packagereq>mongo-cxx-driver-devel</packagereq>
-      <packagereq>mongodb</packagereq>
-      <packagereq>mongodb-server</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>multimedia</id>
     <_name>Multimedia</_name>
     <_description>Audio/video framework common to desktops</_description>
@@ -6593,7 +6580,6 @@
     <optionlist>
       <groupid>java-development</groupid>
       <groupid>javaenterprise</groupid>
-      <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
       <groupid>rubyonrails</groupid>
@@ -6627,7 +6613,6 @@
     <optionlist>
       <groupid>haproxy</groupid>
       <groupid>javaenterprise</groupid>
-      <groupid>mongodb</groupid>
       <groupid>perl-web</groupid>
       <groupid>php</groupid>
       <groupid>rubyonrails</groupid>
@@ -6858,7 +6843,6 @@
       <groupid>libreoffice-development</groupid>
       <groupid>milkymist</groupid>
       <groupid>mingw32</groupid>
-      <groupid>mongodb</groupid>
       <groupid>mysql</groupid>
       <groupid>ocaml</groupid>
       <groupid>perl</groupid>
@@ -6894,7 +6878,6 @@
       <groupid>legacy-network-server</groupid>
       <groupid>load-balancer</groupid>
       <groupid>mail-server</groupid>
-      <groupid>mongodb</groupid>
       <groupid>mysql</groupid>
       <groupid>network-server</groupid>
       <groupid>news-server</groupid>
