@@ -114,7 +114,6 @@
     <packagelist>
       <packagereq>arm-image-installer</packagereq>
       <packagereq>cloud-utils-growpart</packagereq>
-      <packagereq>grubby-deprecated</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
       <packagereq>zram</packagereq>
