@@ -2650,6 +2650,7 @@
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
+      <packagereq type="default">adobe-source-code-pro-fonts</packagereq>
       <packagereq type="default">at-spi2-atk</packagereq>
       <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
