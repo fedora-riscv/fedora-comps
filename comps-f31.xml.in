@@ -698,6 +698,17 @@
     </packagelist>
   </group>
   <group>
+    <id>critical-path-deepin-desktop</id>
+    <_name>Critical Path (Deepin desktop)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the Deepin desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">deepin-desktop</packagereq>
+      <packagereq type="mandatory">deepin-wm</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-gnome</id>
     <_name>Critical Path (GNOME)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the GNOME desktop</_description>
@@ -800,6 +811,60 @@
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">nemiver</packagereq>
       <packagereq type="optional">uncrustify</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>deepin-desktop</id>
+    <_name>Deepin Desktop Environment</_name>
+    <_description>Deepin Desktop is a desktop environment aims at being elegant and easy to use.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">chromium</packagereq>
+      <packagereq type="default">deepin-calculator</packagereq>
+      <packagereq type="default">deepin-calendar</packagereq>
+      <packagereq type="default">deepin-desktop</packagereq>
+      <packagereq type="default">deepin-editor</packagereq>
+      <packagereq type="default">deepin-file-manager</packagereq>
+      <packagereq type="default">deepin-image-viewer</packagereq>
+      <packagereq type="default">deepin-picker</packagereq>
+      <packagereq type="default">deepin-screenshot</packagereq>
+      <packagereq type="default">deepin-system-monitor</packagereq>
+      <packagereq type="default">dnfdragora-updater</packagereq>
+      <packagereq type="default">fedora-icon-theme</packagereq>
+      <packagereq type="default">firewall-config</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>deepin-desktop-apps</id>
+    <_name>Deepin Desktop Applications</_name>
+    <_description>Deepin Desktop Applications</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">transmission-qt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>deepin-desktop-media</id>
+    <_name>Media packages for Deepin Desktop</_name>
+    <_description>Media packages for Deepin Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">pavucontrol-qt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>deepin-desktop-office</id>
+    <_name>Deepin Desktop Office</_name>
+    <_description>Office suite for Deepin Desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">libreoffice-calc</packagereq>
+      <packagereq type="default">libreoffice-impress</packagereq>
+      <packagereq type="default">libreoffice-writer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6454,6 +6519,34 @@
     </optionlist>
   </environment>
   <environment>
+    <id>deepin-desktop-environment</id>
+    <_name>Deepin Desktop</_name>
+    <_description>Deepin desktop is the desktop environment released with deepin. It aims at being elegant and easy to use.</_description>
+    <display_order>26</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>deepin-desktop</groupid>
+      <groupid>deepin-desktop-apps</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>deepin-desktop-media</groupid>
+      <groupid>deepin-desktop-office</groupid>
+      <groupid>3d-printing</groupid>
+      <groupid>cloud-management</groupid>
+    </optionlist>
+  </environment>
+  <environment>
     <!-- Intended to allow interactive installation of components that will eventually be
          used in a cloud image. -->
     <id>cloud-server-environment</id>
@@ -6732,6 +6825,18 @@
     <grouplist>
       <groupid>sugar-apps</groupid>
       <groupid>sugar-desktop</groupid>
+    </grouplist>
+  </category>
+  <category>
+    <id>deepin-desktop-environment</id>
+    <_name>Deepin Desktop</_name>
+    <_description>Deepin desktop is the desktop environment released with deepin. It aims at being elegant and easy to use.</_description>
+    <display_order>26</display_order>
+    <grouplist>
+      <groupid>deepin-desktop</groupid>
+      <groupid>deepin-desktop-apps</groupid>
+      <groupid>deepin-desktop-media</groupid>
+      <groupid>deepin-desktop-office</groupid>
     </grouplist>
   </category>
   <category>
