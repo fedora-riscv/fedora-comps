@@ -5826,6 +5826,7 @@
       <packagereq type="default">file</packagereq>
       <packagereq type="default">fpaste</packagereq>
       <packagereq type="default">fros-gnome</packagereq>
+      <packagereq type="default">gamemode</packagereq>
       <packagereq type="default">git</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-shell-extension-background-logo</packagereq>
