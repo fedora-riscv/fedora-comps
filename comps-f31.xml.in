@@ -678,7 +678,6 @@
     <packagelist>
       <packagereq type="mandatory">anaconda</packagereq>
       <packagereq type="mandatory">bash</packagereq>
-      <packagereq type="mandatory">dash</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
