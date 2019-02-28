@@ -6277,26 +6277,10 @@
       <groupid>networkmanager-submodules</groupid>
     </grouplist>
     <optionlist>
-      <groupid>arm-tools</groupid>
       <groupid>container-management</groupid>
-      <groupid>dogtag</groupid>
       <groupid>domain-client</groupid>
-      <groupid>directory-server</groupid>
-      <groupid>dns-server</groupid>
-      <groupid>freeipa-server</groupid>
-      <groupid>ftp-server</groupid>
       <groupid>guest-agents</groupid>
-      <groupid>ha</groupid>
       <groupid>server-hardware-support</groupid>
-      <groupid>load-balancer</groupid>
-      <groupid>mail-server</groupid>
-      <groupid>mysql</groupid>
-      <groupid>network-server</groupid>
-      <groupid>printing</groupid>
-      <groupid>smb-server</groupid>
-      <groupid>sql-server</groupid>
-      <groupid>virtualization-headless</groupid>
-      <groupid>web-server</groupid>
     </optionlist>
   </environment>
   <environment>
