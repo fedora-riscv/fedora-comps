@@ -17,7 +17,6 @@
       <packagereq type="default">openscad-MCAD</packagereq>
       <packagereq type="default">printrun</packagereq>
       <packagereq type="default">slic3r</packagereq>
-      <packagereq type="optional">RepetierHost</packagereq>
       <packagereq type="optional">repsnapper</packagereq>
       <packagereq type="optional">sfact</packagereq>
       <packagereq type="optional">skeinforge</packagereq>
