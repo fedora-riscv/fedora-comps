@@ -408,7 +408,7 @@
       <packagereq type="default">elfutils</packagereq>
       <packagereq type="default">indent</packagereq>
       <packagereq basearchonly="true" type="default">ltrace</packagereq>
-      <packagereq basearchonly="true" type="default">oprofile</packagereq>
+      <packagereq basearchonly="true" type="default">perf</packagereq>
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">astyle</packagereq>
       <packagereq type="optional">cbmc</packagereq>
@@ -1185,7 +1185,6 @@
       <packagereq type="default">eclipse-linuxtools-gprof</packagereq>
       <packagereq type="default">eclipse-linuxtools-javadocs</packagereq>
       <packagereq type="default">eclipse-linuxtools-libhover</packagereq>
-      <packagereq type="default">eclipse-linuxtools-oprofile</packagereq>
       <packagereq type="default">eclipse-linuxtools-perf</packagereq>
       <packagereq type="default">eclipse-linuxtools-rpm-editor</packagereq>
       <packagereq type="default">eclipse-linuxtools-systemtap</packagereq>
