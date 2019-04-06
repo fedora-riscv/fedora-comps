@@ -4534,11 +4534,6 @@
       <packagereq type="default">elementary-theme</packagereq>
       <packagereq type="default">elementary-videos</packagereq>
       <packagereq type="default">elementary-wallpapers</packagereq>
-      <packagereq type="default">gsignond</packagereq>
-      <packagereq type="default">gsignond-plugin-lastfm</packagereq>
-      <packagereq type="default">gsignond-plugin-mail</packagereq>
-      <packagereq type="default">gsignond-plugin-oauth</packagereq>
-      <packagereq type="default">gsignond-plugin-sasl</packagereq>
       <packagereq type="default">switchboard</packagereq>
       <packagereq type="default">switchboard-plug-a11y</packagereq>
       <packagereq type="default">switchboard-plug-about</packagereq>
