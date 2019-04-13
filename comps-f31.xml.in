@@ -4738,7 +4738,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">arduino</packagereq>
-      <packagereq type="default">catkin</packagereq>
       <packagereq type="default">eclipse-cdt</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-subclipse</packagereq>
@@ -4778,7 +4777,7 @@
       <packagereq type="default">player-doc</packagereq>
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-stage</packagereq>
-      <packagereq type="default">python2-player</packagereq>
+      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-bloom</packagereq>
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
