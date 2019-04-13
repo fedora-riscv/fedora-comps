@@ -842,6 +842,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="optional">deepin-draw</packagereq>
       <packagereq type="optional">transmission-qt</packagereq>
     </packagelist>
   </group>
