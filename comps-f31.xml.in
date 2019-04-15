@@ -1395,6 +1395,7 @@
       <packagereq type="default">hct</packagereq>
       <packagereq type="default">hiredis</packagereq>
       <packagereq type="default">icaro</packagereq>
+      <packagereq type="default">icestorm</packagereq>
       <packagereq type="default">irsim</packagereq>
       <packagereq type="default">iverilog</packagereq>
       <packagereq type="default">kicad</packagereq>
@@ -1407,6 +1408,7 @@
       <packagereq type="default">mot-adms</packagereq>
       <packagereq type="default">nesc</packagereq>
       <packagereq type="default">netgen</packagereq>
+      <packagereq type="default">nextpnr</packagereq>
       <packagereq type="default">ngspice</packagereq>
       <packagereq type="default">openocd</packagereq>
       <packagereq type="default">pcb</packagereq>
@@ -1449,6 +1451,7 @@
       <packagereq type="default">tkcvs</packagereq>
       <packagereq type="default">tkgate</packagereq>
       <packagereq type="default">toped</packagereq>
+      <packagereq type="default">trellis</packagereq>
       <packagereq type="default">uisp</packagereq>
       <packagereq type="default">verilator</packagereq>
       <packagereq type="default">vhd2vl</packagereq>
@@ -1458,6 +1461,7 @@
       <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
+      <packagereq type="default">yosys</packagereq>
       <packagereq type="optional">freehdl</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">minicom</packagereq>
