@@ -6128,7 +6128,6 @@
       <packagereq type="mandatory">xfce4-panel</packagereq>
       <packagereq type="mandatory">xfce4-power-manager</packagereq>
       <packagereq type="mandatory">xfce4-session</packagereq>
-      <packagereq type="mandatory">xfce4-session-engines</packagereq>
       <packagereq type="mandatory">xfce4-settings</packagereq>
       <packagereq type="mandatory">xfconf</packagereq>
       <packagereq type="mandatory">xfdesktop</packagereq>
