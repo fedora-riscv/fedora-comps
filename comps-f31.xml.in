@@ -5854,6 +5854,7 @@
       <packagereq type="mandatory">systemd-udev</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
+      <packagereq type="mandatory">zram</packagereq>
       <packagereq type="default">abrt-cli</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
