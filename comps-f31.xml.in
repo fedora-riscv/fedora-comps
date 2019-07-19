@@ -314,6 +314,7 @@
       <packagereq>xorg-x11-xauth</packagereq>
       <packagereq>xorg-x11-xinit</packagereq>
       <packagereq type="optional">xorg-x11-drv-geode</packagereq>
+      <packagereq arch="armhfp">xorg-x11-drv-armada</packagereq>
     </packagelist>
   </group>
   <group>
