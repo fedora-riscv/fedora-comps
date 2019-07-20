@@ -3186,7 +3186,6 @@
       <packagereq type="optional">ibus-table-chinese-array</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">input-pad</packagereq>
-      <packagereq type="optional">iok</packagereq>
       <packagereq type="optional">kinput2</packagereq>
       <packagereq type="optional">scim-anthy</packagereq>
       <packagereq type="optional">scim-array</packagereq>
