@@ -32,9 +32,7 @@
       <packagereq>abrt-desktop</packagereq>
       <packagereq>gnome-disk-utility</packagereq>
       <packagereq>setroubleshoot</packagereq>
-      <packagereq>system-config-keyboard</packagereq>
       <packagereq>system-config-language</packagereq>
-      <packagereq>system-config-users</packagereq>
     </packagelist>
   </group>
   <!--
