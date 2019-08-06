@@ -16,6 +16,7 @@
       <packagereq type="default">openscad</packagereq>
       <packagereq type="default">openscad-MCAD</packagereq>
       <packagereq type="default">printrun</packagereq>
+      <packagereq type="default">prusa-slicer</packagereq>
       <packagereq type="default">slic3r</packagereq>
       <packagereq type="optional">repsnapper</packagereq>
     </packagelist>
