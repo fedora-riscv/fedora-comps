@@ -6180,7 +6180,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abiword</packagereq>
       <packagereq>gnumeric</packagereq>
     </packagelist>
   </group>
