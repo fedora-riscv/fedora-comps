@@ -3826,7 +3826,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>asunder</packagereq>
-      <packagereq>gnomebaker</packagereq>
+      <packagereq>brasero</packagereq>
       <packagereq>lxmusic</packagereq>
       <packagereq>pavucontrol</packagereq>
       <packagereq>pnmixer</packagereq>
