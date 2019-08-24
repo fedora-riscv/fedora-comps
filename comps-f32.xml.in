@@ -545,7 +545,6 @@
       <packagereq type="mandatory">cloud-utils-growpart</packagereq>
       <packagereq type="mandatory">dracut-config-generic</packagereq>
       <packagereq type="mandatory">grubby</packagereq>
-      <packagereq type="mandatory">heat-cfntools</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
