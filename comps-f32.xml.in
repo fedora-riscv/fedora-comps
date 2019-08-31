@@ -116,6 +116,17 @@
     </packagelist>
   </group>
   <group>
+    <id>x86-baremetal-tools</id>
+    <_name>x86 Baremetal Tools</_name>
+    <_description>Tools for working with baremetal x86 systems</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>memtest86+</packagereq>
+      <packagereq>syslinux</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>audio</id>
     <_name>Audio Production</_name>
     <_description>Various tools for audio synthesis and music production.</_description>
