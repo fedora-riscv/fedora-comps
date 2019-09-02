@@ -4938,7 +4938,6 @@
       <packagereq type="default">hydra</packagereq>
       <packagereq type="default">iftop</packagereq>
       <packagereq type="default">ike-scan</packagereq>
-      <packagereq type="default">inception</packagereq>
       <packagereq type="default">inxi</packagereq>
       <packagereq type="default">iperf</packagereq>
       <packagereq type="default">iptraf-ng</packagereq>
@@ -4983,9 +4982,6 @@
       <packagereq type="default">onesixtyone</packagereq>
       <packagereq type="default">openscap-scanner</packagereq>
       <packagereq type="default">openssh</packagereq>
-      <packagereq type="default">openvas-cli</packagereq>
-      <packagereq type="default">openvas-gsa</packagereq>
-      <packagereq type="default">openvas-scanner</packagereq>
       <packagereq type="default">ophcrack</packagereq>
       <packagereq type="default">p0f</packagereq>
       <packagereq type="default">packETH</packagereq>
