@@ -4764,9 +4764,8 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">arduino</packagereq>
-      <packagereq type="default">eclipse-cdt</packagereq>
-      <packagereq type="default">eclipse-egit</packagereq>
-      <packagereq type="default">eclipse-subclipse</packagereq>
+      <packagereq type="default">qtcreator</packagereq>
+      <packagereq type="default">git</packagereq>
       <packagereq type="default">fawkes</packagereq>
       <packagereq type="default">fawkes-core</packagereq>
       <packagereq type="default">fawkes-doc</packagereq>
