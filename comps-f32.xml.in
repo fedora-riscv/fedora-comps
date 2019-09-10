@@ -6961,6 +6961,15 @@
       <groupid>books</groupid>
     </grouplist>
   </category>
+  <category>
+    <id>neuroscience</id>
+    <_name>Neuroscience</_name>
+    <_description>Tools for Neuroscience.</_description>
+    <display_order>120</display_order>
+    <grouplist>
+      <groupid>neuron-modelling-simulators</groupid>
+    </grouplist>
+  </category>
   <langpacks>
     <match install="LabPlot-doc-%s" name="LabPlot-doc"/>
     <match install="aspell-%s" name="aspell"/>
