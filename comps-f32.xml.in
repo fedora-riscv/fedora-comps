@@ -4361,6 +4361,27 @@
     </packagelist>
   </group>
   <group>
+    <id>neuron-modelling-simulators</id>
+    <_name>Neuron Modelling Simulators</_name>
+    <_description>This group includes simulators used in modelling of neurons and their networks.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="optional">bionetgen</packagereq>
+      <packagereq type="optional">calcium-calculator</packagereq>
+      <packagereq type="optional">COPASI</packagereq>
+      <packagereq type="optional">genesis</packagereq>
+      <packagereq type="optional">moose</packagereq>
+      <packagereq type="optional">neurord</packagereq>
+      <packagereq type="optional">python3-brian2</packagereq>
+      <packagereq type="optional">python3-nest</packagereq>
+      <packagereq type="optional">python3-neuron</packagereq>
+      <packagereq type="optional">python3-nineml</packagereq>
+      <packagereq type="optional">python3-PyLEMS</packagereq>
+      <packagereq type="optional">smoldyn</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>news-server</id>
     <_name>News Server</_name>
     <_description>This group allows you to configure the system as a news server.</_description>
