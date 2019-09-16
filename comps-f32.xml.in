@@ -447,8 +447,6 @@
     <packagelist>
       <packagereq type="mandatory">abrt-desktop</packagereq>
       <packagereq type="mandatory">abrt-java-connector</packagereq>
-      <packagereq type="mandatory">adapta-backgrounds</packagereq>
-      <packagereq type="mandatory">adapta-gtk-theme</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
