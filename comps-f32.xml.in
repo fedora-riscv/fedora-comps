@@ -1204,7 +1204,6 @@
       <packagereq type="default">eclipse-mylyn-context-pde</packagereq>
       <packagereq type="default">eclipse-mylyn-tasks-bugzilla</packagereq>
       <packagereq type="default">eclipse-mylyn-tasks-trac</packagereq>
-      <packagereq type="default">eclipse-mylyn-tasks-web</packagereq>
       <packagereq type="default">eclipse-mylyn-versions-cvs</packagereq>
       <packagereq type="default">eclipse-mylyn-versions-git</packagereq>
       <packagereq type="default">eclipse-mylyn-versions-subclipse</packagereq>
