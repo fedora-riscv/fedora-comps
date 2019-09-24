@@ -1754,7 +1754,6 @@
       <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
       <packagereq type="default">google-noto-sans-gurmukhi-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">khmeros-base-fonts</packagereq>
@@ -2073,6 +2072,7 @@
       <packagereq type="optional">google-noto-serif-cjk-kr-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-cjk-sc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-cjk-tc-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-devanagari-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-georgian-vf-fonts</packagereq>
