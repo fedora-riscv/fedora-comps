@@ -4368,7 +4368,7 @@
       <packagereq type="optional">bionetgen</packagereq>
       <packagereq type="optional">calcium-calculator</packagereq>
       <packagereq type="optional">COPASI</packagereq>
-      <packagereq type="optional">genesis</packagereq>
+      <packagereq type="optional">genesis-simulator</packagereq>
       <packagereq type="optional">moose</packagereq>
       <packagereq type="optional">neurord</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
