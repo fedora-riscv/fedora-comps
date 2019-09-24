@@ -4042,10 +4042,10 @@
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
       <packagereq>exaile</packagereq>
-      <packagereq>f30-backgrounds-base</packagereq>
-      <packagereq>f30-backgrounds-extras-base</packagereq>
-      <packagereq>f30-backgrounds-extras-mate</packagereq>
-      <packagereq>f30-backgrounds-mate</packagereq>
+      <packagereq>f31-backgrounds-base</packagereq>
+      <packagereq>f31-backgrounds-extras-base</packagereq>
+      <packagereq>f31-backgrounds-extras-mate</packagereq>
+      <packagereq>f31-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
@@ -4135,7 +4135,6 @@
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>system-config-printer-applet</packagereq>
-      <packagereq>system-config-users</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
