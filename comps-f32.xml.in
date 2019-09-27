@@ -2836,7 +2836,7 @@
       <packagereq type="mandatory">clutter-devel</packagereq>
       <packagereq type="mandatory">dbus-devel</packagereq>
       <packagereq type="mandatory">glib2-devel</packagereq>
-      <packagereq type="mandatory">gstreamer-devel</packagereq>
+      <packagereq type="mandatory">gstreamer1-devel</packagereq>
       <packagereq type="mandatory">gtk3-devel</packagereq>
       <packagereq type="mandatory">gtk3-devel-docs</packagereq>
       <packagereq type="mandatory">intltool</packagereq>
@@ -4261,9 +4261,7 @@
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
       <packagereq>pulseaudio-utils</packagereq>
-      <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-bad-free</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-espeak</packagereq>
-      <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-good</packagereq>
     </packagelist>
   </group>
   <group>
