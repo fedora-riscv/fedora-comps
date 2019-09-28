@@ -1516,8 +1516,6 @@
       <packagereq type="optional">cryptominisat</packagereq>
       <packagereq type="optional">csdp</packagereq>
       <packagereq type="optional">csdp-tools</packagereq>
-      <packagereq type="optional">cudd</packagereq>
-      <packagereq type="optional">cudd-devel</packagereq>
       <packagereq type="optional">cvc4</packagereq>
       <packagereq type="optional">cvc4-devel</packagereq>
       <packagereq type="optional">cvc4-doc</packagereq>
