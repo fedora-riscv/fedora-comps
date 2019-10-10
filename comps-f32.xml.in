@@ -5772,7 +5772,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">httpd</packagereq>
-      <packagereq type="default">crypto-utils</packagereq>
       <packagereq type="default">httpd-manual</packagereq>
       <packagereq type="default">mod_perl</packagereq>
       <packagereq type="default">mod_ssl</packagereq>
