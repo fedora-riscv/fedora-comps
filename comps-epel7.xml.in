@@ -1260,6 +1260,35 @@
     <packagelist/>
   </group>
   <group>
+    <id>lxqt-desktop</id>
+    <_name>LXQt Desktop</_name>
+    <_description>LXQt is a lightweight X11 desktop environment designed for computers with low hardware specifications like netbooks, mobile devices or older computers.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq>firewall-config</packagereq>
+      <packagereq>lxqt-about</packagereq>
+      <packagereq>lxqt-config</packagereq>
+      <packagereq>lxqt-globalkeys</packagereq>
+      <packagereq>lxqt-notificationd</packagereq>
+      <packagereq>lxqt-openssh-askpass</packagereq>
+      <packagereq>lxqt-panel</packagereq>
+      <packagereq>lxqt-policykit</packagereq>
+      <packagereq>lxqt-powermanagement</packagereq>
+      <packagereq>lxqt-qtplugin</packagereq>
+      <packagereq>lxqt-runner</packagereq>
+      <packagereq>lxqt-session</packagereq>
+      <packagereq>lxqt-themes</packagereq>
+      <packagereq>lxqt-themes-fedora</packagereq>
+      <packagereq>network-manager-applet</packagereq>
+      <packagereq>obconf-qt</packagereq>
+      <packagereq>openbox</packagereq>
+      <packagereq>pcmanfm-qt</packagereq>
+      <packagereq>perl-File-MimeInfo</packagereq>
+      <packagereq>qterminal</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>macedonian-support</id>
     <_name>Macedonian Support</_name>
     <_description/>
