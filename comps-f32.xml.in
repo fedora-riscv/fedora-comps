@@ -930,7 +930,6 @@
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
-      <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
