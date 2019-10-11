@@ -935,8 +935,8 @@
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
+      <packagereq type="default">pdfarranger</packagereq>
       <packagereq type="default">pdfmod</packagereq>
-      <packagereq type="default">pdfshuffler</packagereq>
       <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">screenruler</packagereq>
@@ -950,7 +950,7 @@
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
-      <packagereq type="optional">LuxRender</packagereq>
+      <packagereq type="optional">luxcorerender</packagereq>
       <packagereq type="optional">pencil</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">rapid-photo-downloader</packagereq>

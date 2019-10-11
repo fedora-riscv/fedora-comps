@@ -931,13 +931,12 @@
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
-      <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
+      <packagereq type="default">pdfarranger</packagereq>
       <packagereq type="default">pdfmod</packagereq>
-      <packagereq type="default">pdfshuffler</packagereq>
       <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">screenruler</packagereq>
