@@ -613,7 +613,6 @@
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">dhcp-client</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
-      <packagereq type="mandatory">dnf-yum</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
@@ -975,7 +974,6 @@
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
-      <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
       <packagereq type="default">libattr-devel</packagereq>
@@ -2789,7 +2787,6 @@
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="default">sushi</packagereq>
       <packagereq type="default">totem</packagereq>
-      <packagereq type="default">totem-nautilus</packagereq>
       <packagereq type="default">tracker</packagereq>
       <packagereq type="default">tracker-miners</packagereq>
       <packagereq type="default">xdg-desktop-portal</packagereq>
@@ -3517,7 +3514,6 @@
       <packagereq type="default">kuiviewer</packagereq>
       <packagereq type="default">okteta</packagereq>
       <packagereq type="default">poxml</packagereq>
-      <packagereq type="default">pykde4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
@@ -6015,7 +6011,6 @@
       <packagereq type="default">libXtst-devel</packagereq>
       <packagereq type="default">libXvMC-devel</packagereq>
       <packagereq type="default">libXxf86dga-devel</packagereq>
-      <packagereq type="default">libXxf86misc-devel</packagereq>
       <packagereq type="default">libXxf86vm-devel</packagereq>
       <packagereq type="default">mesa-libGL-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>
