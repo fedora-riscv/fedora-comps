@@ -558,6 +558,9 @@
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="default">fedora-release-cloud</packagereq>
+      <packagereq type="default">console-login-helper-messages-issuegen</packagereq>
+      <packagereq type="default">console-login-helper-messages-motdgen</packagereq>
+      <packagereq type="default">console-login-helper-messages-profile</packagereq>
     </packagelist>
   </group>
   <group>
