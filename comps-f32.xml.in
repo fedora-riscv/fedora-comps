@@ -429,7 +429,7 @@
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">pscan</packagereq>
-      <packagereq type="optional">python2-scons</packagereq>
+      <packagereq type="optional">python3-scons</packagereq>
       <packagereq type="optional">remake</packagereq>
       <packagereq type="optional">scorep</packagereq>
       <packagereq type="optional">splint</packagereq>
