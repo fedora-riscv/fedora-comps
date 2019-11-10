@@ -429,7 +429,7 @@
       <packagereq type="optional">insight</packagereq>
       <packagereq type="optional">nasm</packagereq>
       <packagereq type="optional">pscan</packagereq>
-      <packagereq type="optional">python2-scons</packagereq>
+      <packagereq type="optional">python3-scons</packagereq>
       <packagereq type="optional">remake</packagereq>
       <packagereq type="optional">scorep</packagereq>
       <packagereq type="optional">splint</packagereq>
@@ -558,6 +558,9 @@
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="default">fedora-release-cloud</packagereq>
+      <packagereq type="default">console-login-helper-messages-issuegen</packagereq>
+      <packagereq type="default">console-login-helper-messages-motdgen</packagereq>
+      <packagereq type="default">console-login-helper-messages-profile</packagereq>
     </packagelist>
   </group>
   <group>
@@ -613,7 +616,6 @@
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">dhcp-client</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
-      <packagereq type="mandatory">dnf-yum</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
@@ -642,6 +644,7 @@
       <packagereq type="mandatory">systemd</packagereq>
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
+      <packagereq type="mandatory">yum</packagereq>
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
@@ -974,7 +977,6 @@
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
-      <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
       <packagereq type="default">libattr-devel</packagereq>
@@ -2788,7 +2790,6 @@
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="default">sushi</packagereq>
       <packagereq type="default">totem</packagereq>
-      <packagereq type="default">totem-nautilus</packagereq>
       <packagereq type="default">tracker</packagereq>
       <packagereq type="default">tracker-miners</packagereq>
       <packagereq type="default">xdg-desktop-portal</packagereq>
@@ -3516,7 +3517,6 @@
       <packagereq type="default">kuiviewer</packagereq>
       <packagereq type="default">okteta</packagereq>
       <packagereq type="default">poxml</packagereq>
-      <packagereq type="default">pykde4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
@@ -6014,7 +6014,6 @@
       <packagereq type="default">libXtst-devel</packagereq>
       <packagereq type="default">libXvMC-devel</packagereq>
       <packagereq type="default">libXxf86dga-devel</packagereq>
-      <packagereq type="default">libXxf86misc-devel</packagereq>
       <packagereq type="default">libXxf86vm-devel</packagereq>
       <packagereq type="default">mesa-libGL-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>
