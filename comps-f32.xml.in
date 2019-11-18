@@ -5925,6 +5925,7 @@
       <packagereq type="default">mdadm</packagereq>
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
+      <packagereq type="default">nano</packagereq>
       <packagereq type="default">net-tools</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
