@@ -4987,7 +4987,6 @@
       <packagereq type="default">nethogs</packagereq>
       <packagereq type="default">netsed</packagereq>
       <packagereq type="default">netsniff-ng</packagereq>
-      <packagereq type="default">nfspy</packagereq>
       <packagereq type="default">nfswatch</packagereq>
       <packagereq type="default">ngrep</packagereq>
       <packagereq type="default">nicstat</packagereq>
