@@ -5348,7 +5348,7 @@
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
       <packagereq>opensc</packagereq>
-      <packagereq>pam_krb5</packagereq>
+      <packagereq>pam_afs_session</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pinfo</packagereq>
@@ -5931,7 +5931,7 @@
       <packagereq type="default">nss-mdns</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
-      <packagereq type="default">pam_krb5</packagereq>
+      <packagereq type="default">pam_afs_session</packagereq>
       <packagereq type="default">passwdqc</packagereq>
       <packagereq type="default">pciutils</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
