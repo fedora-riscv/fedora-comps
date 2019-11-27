@@ -1178,14 +1178,12 @@
     <packagelist>
       <packagereq type="mandatory">eclipse-cdt</packagereq>
       <packagereq type="mandatory">eclipse-jdt</packagereq>
-      <packagereq type="default">eclipse-abrt</packagereq>
       <packagereq type="default">eclipse-cdt-docker</packagereq>
       <packagereq type="default">eclipse-dltk-mylyn</packagereq>
       <packagereq type="default">eclipse-dltk-sh</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-egit-github</packagereq>
       <packagereq type="default">eclipse-egit-mylyn</packagereq>
-      <packagereq type="default">eclipse-epp-logging</packagereq>
       <packagereq type="default">eclipse-linuxtools-changelog</packagereq>
       <packagereq type="default">eclipse-linuxtools-docker</packagereq>
       <packagereq type="default">eclipse-linuxtools-gcov</packagereq>
@@ -1216,7 +1214,6 @@
       <packagereq type="optional">eclipse-avr</packagereq>
       <packagereq type="optional">eclipse-cdt-arduino</packagereq>
       <packagereq type="optional">eclipse-cdt-llvm</packagereq>
-      <packagereq type="optional">eclipse-cdt-parsers</packagereq>
       <packagereq type="optional">eclipse-cdt-qt</packagereq>
       <packagereq type="optional">eclipse-checkstyle</packagereq>
       <packagereq type="optional">eclipse-color-theme</packagereq>
@@ -1243,7 +1240,6 @@
       <packagereq type="optional">eclipse-m2e-tycho</packagereq>
       <packagereq type="optional">eclipse-m2e-wtp</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
-      <packagereq type="optional">eclipse-mylyn-builds-hudson</packagereq>
       <packagereq type="optional">eclipse-pdt</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
       <packagereq type="optional">eclipse-quickrex</packagereq>
