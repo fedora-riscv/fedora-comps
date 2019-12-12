@@ -449,7 +449,7 @@
       <packagereq type="mandatory">abrt-java-connector</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
-      <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
+      <packagereq type="mandatory">blueberry</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
