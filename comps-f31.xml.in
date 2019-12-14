@@ -931,13 +931,12 @@
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
-      <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
+      <packagereq type="default">pdfarranger</packagereq>
       <packagereq type="default">pdfmod</packagereq>
-      <packagereq type="default">pdfshuffler</packagereq>
       <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">screenruler</packagereq>
@@ -976,7 +975,6 @@
       <packagereq type="default">cyrus-sasl-devel</packagereq>
       <packagereq type="default">dbus-devel</packagereq>
       <packagereq type="default">gmp-devel</packagereq>
-      <packagereq type="default">hesiod-devel</packagereq>
       <packagereq type="default">krb5-devel</packagereq>
       <packagereq type="default">libacl-devel</packagereq>
       <packagereq type="default">libattr-devel</packagereq>
@@ -1180,14 +1178,12 @@
     <packagelist>
       <packagereq type="mandatory">eclipse-cdt</packagereq>
       <packagereq type="mandatory">eclipse-jdt</packagereq>
-      <packagereq type="default">eclipse-abrt</packagereq>
       <packagereq type="default">eclipse-cdt-docker</packagereq>
       <packagereq type="default">eclipse-dltk-mylyn</packagereq>
       <packagereq type="default">eclipse-dltk-sh</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-egit-github</packagereq>
       <packagereq type="default">eclipse-egit-mylyn</packagereq>
-      <packagereq type="default">eclipse-epp-logging</packagereq>
       <packagereq type="default">eclipse-linuxtools-changelog</packagereq>
       <packagereq type="default">eclipse-linuxtools-docker</packagereq>
       <packagereq type="default">eclipse-linuxtools-gcov</packagereq>
@@ -1218,7 +1214,6 @@
       <packagereq type="optional">eclipse-avr</packagereq>
       <packagereq type="optional">eclipse-cdt-arduino</packagereq>
       <packagereq type="optional">eclipse-cdt-llvm</packagereq>
-      <packagereq type="optional">eclipse-cdt-parsers</packagereq>
       <packagereq type="optional">eclipse-cdt-qt</packagereq>
       <packagereq type="optional">eclipse-checkstyle</packagereq>
       <packagereq type="optional">eclipse-color-theme</packagereq>
@@ -1245,7 +1240,6 @@
       <packagereq type="optional">eclipse-m2e-tycho</packagereq>
       <packagereq type="optional">eclipse-m2e-wtp</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
-      <packagereq type="optional">eclipse-mylyn-builds-hudson</packagereq>
       <packagereq type="optional">eclipse-pdt</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
       <packagereq type="optional">eclipse-quickrex</packagereq>
@@ -2790,7 +2784,6 @@
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="default">sushi</packagereq>
       <packagereq type="default">totem</packagereq>
-      <packagereq type="default">totem-nautilus</packagereq>
       <packagereq type="default">tracker</packagereq>
       <packagereq type="default">tracker-miners</packagereq>
       <packagereq type="default">xdg-desktop-portal</packagereq>
@@ -3518,7 +3511,6 @@
       <packagereq type="default">kuiviewer</packagereq>
       <packagereq type="default">okteta</packagereq>
       <packagereq type="default">poxml</packagereq>
-      <packagereq type="default">pykde4-devel</packagereq>
       <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
@@ -5773,7 +5765,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">httpd</packagereq>
-      <packagereq type="default">crypto-utils</packagereq>
       <packagereq type="default">httpd-manual</packagereq>
       <packagereq type="default">mod_perl</packagereq>
       <packagereq type="default">mod_ssl</packagereq>
@@ -6017,7 +6008,6 @@
       <packagereq type="default">libXtst-devel</packagereq>
       <packagereq type="default">libXvMC-devel</packagereq>
       <packagereq type="default">libXxf86dga-devel</packagereq>
-      <packagereq type="default">libXxf86misc-devel</packagereq>
       <packagereq type="default">libXxf86vm-devel</packagereq>
       <packagereq type="default">mesa-libGL-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>

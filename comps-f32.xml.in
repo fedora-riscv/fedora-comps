@@ -449,7 +449,7 @@
       <packagereq type="mandatory">abrt-java-connector</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
-      <packagereq type="mandatory">cinnamon-applet-blueberry</packagereq>
+      <packagereq type="mandatory">blueberry</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
@@ -933,12 +933,16 @@
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
-      <packagereq type="default">mypaint</packagereq>
       <packagereq type="default">nautilus-image-converter</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
+<<<<<<< HEAD
       <packagereq type="default">pdfshuffler</packagereq>
+=======
+      <packagereq type="default">pdfarranger</packagereq>
+      <packagereq type="default">pdfmod</packagereq>
+>>>>>>> upstream/master
       <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">redhat-display-fonts</packagereq>
@@ -953,7 +957,7 @@
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
-      <packagereq type="optional">LuxRender</packagereq>
+      <packagereq type="optional">luxcorerender</packagereq>
       <packagereq type="optional">pencil</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">rapid-photo-downloader</packagereq>
@@ -1181,14 +1185,12 @@
     <packagelist>
       <packagereq type="mandatory">eclipse-cdt</packagereq>
       <packagereq type="mandatory">eclipse-jdt</packagereq>
-      <packagereq type="default">eclipse-abrt</packagereq>
       <packagereq type="default">eclipse-cdt-docker</packagereq>
       <packagereq type="default">eclipse-dltk-mylyn</packagereq>
       <packagereq type="default">eclipse-dltk-sh</packagereq>
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-egit-github</packagereq>
       <packagereq type="default">eclipse-egit-mylyn</packagereq>
-      <packagereq type="default">eclipse-epp-logging</packagereq>
       <packagereq type="default">eclipse-linuxtools-changelog</packagereq>
       <packagereq type="default">eclipse-linuxtools-docker</packagereq>
       <packagereq type="default">eclipse-linuxtools-gcov</packagereq>
@@ -1219,7 +1221,6 @@
       <packagereq type="optional">eclipse-avr</packagereq>
       <packagereq type="optional">eclipse-cdt-arduino</packagereq>
       <packagereq type="optional">eclipse-cdt-llvm</packagereq>
-      <packagereq type="optional">eclipse-cdt-parsers</packagereq>
       <packagereq type="optional">eclipse-cdt-qt</packagereq>
       <packagereq type="optional">eclipse-checkstyle</packagereq>
       <packagereq type="optional">eclipse-color-theme</packagereq>
@@ -1246,7 +1247,6 @@
       <packagereq type="optional">eclipse-m2e-tycho</packagereq>
       <packagereq type="optional">eclipse-m2e-wtp</packagereq>
       <packagereq type="optional">eclipse-moreunit</packagereq>
-      <packagereq type="optional">eclipse-mylyn-builds-hudson</packagereq>
       <packagereq type="optional">eclipse-pdt</packagereq>
       <packagereq type="optional">eclipse-photran</packagereq>
       <packagereq type="optional">eclipse-quickrex</packagereq>
@@ -1746,9 +1746,6 @@
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
-      <packagereq type="default">gnu-free-mono-fonts</packagereq>
-      <packagereq type="default">gnu-free-sans-fonts</packagereq>
-      <packagereq type="default">gnu-free-serif-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
       <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
       <packagereq type="default">google-noto-sans-gurmukhi-fonts</packagereq>
@@ -1937,6 +1934,9 @@
       <packagereq type="optional">gfs-solomos-fonts</packagereq>
       <packagereq type="optional">gfs-theokritos-fonts</packagereq>
       <packagereq type="optional">glyphicons-halflings-fonts</packagereq>
+      <packagereq type="optional">gnu-free-mono-fonts</packagereq>
+      <packagereq type="optional">gnu-free-sans-fonts</packagereq>
+      <packagereq type="optional">gnu-free-serif-fonts</packagereq>
       <packagereq type="optional">google-croscore-arimo-fonts</packagereq>
       <packagereq type="optional">google-croscore-cousine-fonts</packagereq>
       <packagereq type="optional">google-croscore-symbolneu-fonts</packagereq>
@@ -4037,7 +4037,6 @@
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
-      <packagereq>exaile</packagereq>
       <packagereq>f31-backgrounds-base</packagereq>
       <packagereq>f31-backgrounds-extras-base</packagereq>
       <packagereq>f31-backgrounds-extras-mate</packagereq>
@@ -4988,7 +4987,6 @@
       <packagereq type="default">nethogs</packagereq>
       <packagereq type="default">netsed</packagereq>
       <packagereq type="default">netsniff-ng</packagereq>
-      <packagereq type="default">nfspy</packagereq>
       <packagereq type="default">nfswatch</packagereq>
       <packagereq type="default">ngrep</packagereq>
       <packagereq type="default">nicstat</packagereq>
@@ -5350,7 +5348,7 @@
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
       <packagereq>opensc</packagereq>
-      <packagereq>pam_krb5</packagereq>
+      <packagereq>pam_afs_session</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pinfo</packagereq>
@@ -5925,6 +5923,7 @@
       <packagereq type="default">mdadm</packagereq>
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
+      <packagereq type="default">nano</packagereq>
       <packagereq type="default">net-tools</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
@@ -5932,7 +5931,7 @@
       <packagereq type="default">nss-mdns</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
-      <packagereq type="default">pam_krb5</packagereq>
+      <packagereq type="default">pam_afs_session</packagereq>
       <packagereq type="default">passwdqc</packagereq>
       <packagereq type="default">pciutils</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
