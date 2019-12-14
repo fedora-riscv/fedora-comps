@@ -4012,7 +4012,6 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
-      <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
