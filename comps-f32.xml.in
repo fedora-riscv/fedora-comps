@@ -937,12 +937,9 @@
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
-<<<<<<< HEAD
       <packagereq type="default">pdfshuffler</packagereq>
-=======
       <packagereq type="default">pdfarranger</packagereq>
       <packagereq type="default">pdfmod</packagereq>
->>>>>>> upstream/master
       <packagereq type="default">phatch</packagereq>
       <packagereq type="default">pitivi</packagereq>
       <packagereq type="default">redhat-display-fonts</packagereq>
