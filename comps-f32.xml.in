@@ -5387,13 +5387,19 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>sugar-calendario</packagereq>
+      <packagereq>sugar-castle</packagereq>
       <packagereq>sugar-connect</packagereq>
-      <packagereq>sugar-distance</packagereq>
+      <packagereq>sugar-countries</packagereq>
+      <packagereq>sugar-deducto</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
       <packagereq>sugar-implode</packagereq>
+      <packagereq>sugar-kuku</packagereq>
+      <packagereq>sugar-labyrinth</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
       <packagereq>sugar-runner</packagereq>
+      <packagereq>sugar-srilanka</packagereq>
+      <packagereq>sugar-starchart</packagereq>
       <packagereq>sugar-view-slides</packagereq>
       <packagereq>sugar-xomail</packagereq>
     </packagelist>
@@ -5419,15 +5425,14 @@
       <packagereq>sugar-calculator</packagereq>
       <packagereq>sugar-chat</packagereq>
       <packagereq>sugar-clock</packagereq>
-      <packagereq>sugar-countries</packagereq>
       <packagereq>sugar-cp-all</packagereq>
+      <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-finance</packagereq>
       <packagereq>sugar-fototoon</packagereq>
       <packagereq>sugar-getiabooks</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
       <packagereq>sugar-infoslicer</packagereq>
       <packagereq>sugar-jukebox</packagereq>
-      <packagereq>sugar-labyrinth</packagereq>
       <packagereq>sugar-log</packagereq>
       <packagereq>sugar-maze</packagereq>
       <packagereq>sugar-memorize</packagereq>
@@ -5443,7 +5448,6 @@
       <packagereq>sugar-stopwatch</packagereq>
       <packagereq>sugar-story</packagereq>
       <packagereq>sugar-terminal</packagereq>
-      <packagereq>sugar-toolkit</packagereq>
       <packagereq>sugar-toolkit-gtk3</packagereq>
       <packagereq>sugar-turtleart</packagereq>
       <packagereq>sugar-typing-turtle</packagereq>
