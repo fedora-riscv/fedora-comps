@@ -6093,8 +6093,8 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
-      <packagereq>greybird-gtk2-theme</packagereq>
-      <packagereq>greybird-gtk3-theme</packagereq>
+      <packagereq>greybird-light-theme</packagereq>
+      <packagereq>greybird-dark-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>
       <packagereq>greybird-xfwm4-theme</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
