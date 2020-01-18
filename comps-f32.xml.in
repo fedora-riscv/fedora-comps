@@ -899,7 +899,6 @@
       <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-resynthesizer</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-save-for-web</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-separate+</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-wavelet-denoise-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimpfx-foundry</packagereq>
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
