@@ -937,7 +937,6 @@
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
-      <packagereq type="default">pdfshuffler</packagereq>
       <packagereq type="default">pdfarranger</packagereq>
       <packagereq type="default">pdfmod</packagereq>
       <packagereq type="default">phatch</packagereq>
