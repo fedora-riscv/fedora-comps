@@ -5391,6 +5391,8 @@
       <packagereq>sugar-implode</packagereq>
       <packagereq>sugar-kuku</packagereq>
       <packagereq>sugar-labyrinth</packagereq>
+      <packagereq>sugar-physics</packagereq>
+      <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
       <packagereq>sugar-runner</packagereq>
@@ -5434,8 +5436,6 @@
       <packagereq>sugar-memorize</packagereq>
       <packagereq>sugar-moon</packagereq>
       <packagereq>sugar-paint</packagereq>
-      <packagereq>sugar-physics</packagereq>
-      <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-portfolio</packagereq>
       <packagereq>sugar-read</packagereq>
       <packagereq>sugar-record</packagereq>
