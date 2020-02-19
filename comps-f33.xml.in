@@ -5394,6 +5394,7 @@
       <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
+      <packagereq>sugar-ruler</packagereq>
       <packagereq>sugar-srilanka</packagereq>
       <packagereq>sugar-starchart</packagereq>
       <packagereq>sugar-view-slides</packagereq>
@@ -5406,15 +5407,25 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>alsa-plugins-pulseaudio</packagereq>
+      <packagereq>alsa-utils</packagereq>
       <packagereq>gnome-power-manager</packagereq>
+      <packagereq>gstreamer1-plugins-base</packagereq>
+      <packagereq>gstreamer1-plugins-good</packagereq>
+      <packagereq>gstreamer1-plugins-bad-free</packagereq>
+      <packagereq>gstreamer-plugins-espeak</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>metacity</packagereq>
+      <packagereq>pulseaudio</packagereq>
+      <packagereq>pulseaudio-utils</packagereq>
       <!-- this is for sugargame, which doesn't yet work with python3
            https://github.com/sugarlabs/sugargame/issues/2 -->
       <packagereq>python2-pygame</packagereq>
       <packagereq>sugar</packagereq>
+      <packagereq>sugar-logos</packagereq>
+      <packagereq>sugar-cp-updater</packagereq>
       <packagereq>sugar-abacus</packagereq>
       <packagereq>sugar-browse</packagereq>
       <packagereq>sugar-calculator</packagereq>
@@ -5436,7 +5447,6 @@
       <packagereq>sugar-portfolio</packagereq>
       <packagereq>sugar-read</packagereq>
       <packagereq>sugar-record</packagereq>
-      <packagereq>sugar-ruler</packagereq>
       <packagereq>sugar-speak</packagereq>
       <packagereq>sugar-stopwatch</packagereq>
       <packagereq>sugar-story</packagereq>
