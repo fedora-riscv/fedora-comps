@@ -6819,7 +6819,6 @@
     <grouplist>
       <groupid>firefox</groupid>
       <groupid>gnome-desktop</groupid>
-      <groupid>gnome-games</groupid>
       <groupid>libreoffice</groupid>
     </grouplist>
   </category>
