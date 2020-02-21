@@ -1624,16 +1624,6 @@
     </packagelist>
   </group>
   <group>
-    <id>epiphany</id>
-    <_name>Epiphany Web Browser</_name>
-    <_description>Epiphany Web Browser for GNOME</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>epiphany</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>fedora-packager</id>
     <_name>Fedora Packager</_name>
     <_description>Tools and utilities needed by a Fedora Packager</_description>
@@ -6827,7 +6817,6 @@
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
     <display_order>5</display_order>
     <grouplist>
-      <groupid>epiphany</groupid>
       <groupid>firefox</groupid>
       <groupid>gnome-desktop</groupid>
       <groupid>gnome-games</groupid>
