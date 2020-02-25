@@ -5884,7 +5884,6 @@
       <packagereq type="default">gnome-shell-extension-background-logo</packagereq>
       <packagereq type="default">gnupg2</packagereq>
       <packagereq type="default">hunspell</packagereq>
-      <packagereq type="default">ibus-gtk2</packagereq>
       <packagereq type="default">ibus-gtk3</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-kkc</packagereq>
