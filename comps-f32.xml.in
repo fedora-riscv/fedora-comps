@@ -6346,7 +6346,7 @@
     <_name>Fedora Workstation</_name>
     <_description>Fedora Workstation is a user friendly desktop system for laptops and PCs.</_description>
     <display_order>2</display_order>
-    <!-- Keep this list in sync with the list in fedora-workstation-packages.ks. -->
+    <!-- Keep this list in sync with the list in fedora-workstation-common.ks. -->
     <grouplist>
       <groupid>base-x</groupid>
       <groupid>container-management</groupid>
