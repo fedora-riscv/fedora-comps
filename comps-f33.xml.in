@@ -5869,8 +5869,8 @@
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
-      <packagereq type="default">ethtool</packagereq>
       <packagereq type="default">earlyoom</packagereq>
+      <packagereq type="default">ethtool</packagereq>
       <packagereq type="default">fedora-chromium-config</packagereq>
       <packagereq type="default">fedora-release-workstation</packagereq>
       <packagereq type="default">fedora-workstation-backgrounds</packagereq>
