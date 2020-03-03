@@ -606,6 +606,7 @@
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
+      <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">hostname</packagereq>
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
@@ -5305,7 +5306,6 @@
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
       <packagereq>gnupg2</packagereq>
-      <packagereq>grubby</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
       <packagereq>irqbalance</packagereq>
