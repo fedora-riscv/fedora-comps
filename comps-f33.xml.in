@@ -5363,12 +5363,10 @@
       <packagereq>sugar-connect</packagereq>
       <packagereq>sugar-countries</packagereq>
       <packagereq>sugar-deducto</packagereq>
+      <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
-      <packagereq>sugar-implode</packagereq>
       <packagereq>sugar-kuku</packagereq>
       <packagereq>sugar-labyrinth</packagereq>
-      <packagereq>sugar-physics</packagereq>
-      <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
       <packagereq>sugar-ruler</packagereq>
@@ -5397,9 +5395,6 @@
       <packagereq>metacity</packagereq>
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-utils</packagereq>
-      <!-- this is for sugargame, which doesn't yet work with python3
-           https://github.com/sugarlabs/sugargame/issues/2 -->
-      <packagereq>python2-pygame</packagereq>
       <packagereq>sugar</packagereq>
       <packagereq>sugar-logos</packagereq>
       <packagereq>sugar-cp-updater</packagereq>
@@ -5409,11 +5404,11 @@
       <packagereq>sugar-chat</packagereq>
       <packagereq>sugar-clock</packagereq>
       <packagereq>sugar-cp-all</packagereq>
-      <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-finance</packagereq>
       <packagereq>sugar-fototoon</packagereq>
       <packagereq>sugar-getiabooks</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
+      <packagereq>sugar-implode</packagereq>
       <packagereq>sugar-infoslicer</packagereq>
       <packagereq>sugar-jukebox</packagereq>
       <packagereq>sugar-log</packagereq>
@@ -5421,6 +5416,8 @@
       <packagereq>sugar-memorize</packagereq>
       <packagereq>sugar-moon</packagereq>
       <packagereq>sugar-paint</packagereq>
+      <packagereq>sugar-physics</packagereq>
+      <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-portfolio</packagereq>
       <packagereq>sugar-read</packagereq>
       <packagereq>sugar-record</packagereq>
