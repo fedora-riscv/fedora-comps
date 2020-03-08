@@ -935,7 +935,7 @@
       <packagereq type="default">sparkleshare</packagereq>
       <packagereq type="default">synfigstudio</packagereq>
       <packagereq type="default">typetype-molot-fonts</packagereq>
-      <packagereq type="default">xournal</packagereq>
+      <packagereq type="default">xournalpp</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
