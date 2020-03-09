@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2012-2013
@@ -15,16 +15,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
+"PO-Revision-Date: 2016-07-05 07:00+0000\n"
+"Last-Translator: Juhani Numminen <juhaninumminen0@gmail.com>\n"
+"Language-Team: Finnish (http://www.transifex.com/projects/p/comps/language/fi/)\n"
+"Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2016-07-05 07:00-0400\n"
-"Last-Translator: Juhani Numminen <juhaninumminen0@gmail.com>\n"
-"Language-Team: Finnish (http://www.transifex.com/projects/p/comps/language/"
-"fi/)\n"
-"Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.9.5\n"
+"X-Generator: Zanata 4.6.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -44,11 +43,11 @@ msgstr "Hallintatyökalut"
 #: ../comps-f22.xml.in.h:4 ../comps-f23.xml.in.h:2 ../comps-f24.xml.in.h:2
 #: ../comps-f25.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Tämä ryhmä sisältää kokoelman graafisia järjestelmänhallintatyökaluja, kuten "
-"käyttäjätunnuksien ja järjestelmän laitteiston hallinnan."
+"Tämä ryhmä sisältää kokoelman graafisia järjestelmänhallintatyökaluja, kuten"
+" käyttäjätunnuksien ja järjestelmän laitteiston hallinnan."
 
 #: ../comps-f22.xml.in.h:5 ../comps-f23.xml.in.h:3 ../comps-f24.xml.in.h:3
 #: ../comps-f25.xml.in.h:3
@@ -111,12 +110,14 @@ msgid "Basic X Window System with a choice of window manager."
 msgstr "X-ikkunointijärjestelmä ja ikkunanhallintaohjelman valinta."
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
-#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
+#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20
+#: ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
 msgstr "Bengalin kielituki"
 
 #: ../comps-f22.xml.in.h:17 ../comps-f23.xml.in.h:15 ../comps-f24.xml.in.h:17
-#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:21
+#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21
+#: ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
 msgstr "Bhutanin kielituki"
 
@@ -142,7 +143,8 @@ msgid "Buildsystem building group"
 msgstr "Ryhmä käännösjärjestelmän rakentamiseen"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
-#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
+#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27
+#: ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
 msgstr "Myanmarin (burman) kielituki"
 
@@ -203,8 +205,7 @@ msgstr "Pilvipalvelintyökalut"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
-msgid ""
-"Software for servers and system images that run in \"cloud\" environments"
+msgid "Software for servers and system images that run in \"cloud\" environments"
 msgstr "Ohjelmistoja pilvipalvelimille ja -järjestelmäkuville"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
@@ -218,7 +219,8 @@ msgid "Tools for managing Linux containers"
 msgstr "Linux container -hallintaan tarvittavia työkaluja"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
-#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
+#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39
+#: ../comps-epel7.xml.in.h:39
 msgid "Core"
 msgstr "Keskeiset"
 
@@ -259,11 +261,11 @@ msgstr "Kriittinen polku (Gnome)"
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
-"Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden Gnome-"
-"työpöytäympäristössä"
+"Joukko paketteja, jotka toteuttavat kriittisen polun toiminnallisuuden "
+"Gnome-työpöytäympäristössä"
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
@@ -354,8 +356,8 @@ msgstr "Ohjelmistokehityskirjastot"
 #: ../comps-f22.xml.in.h:56 ../comps-f23.xml.in.h:54 ../comps-f24.xml.in.h:58
 #: ../comps-f25.xml.in.h:58
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-""
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "Tämän ryhmän paketit ovat keskeisiä sovelluskehityksessä tarvittavia "
 "kirjastoja."
@@ -372,17 +374,20 @@ msgstr ""
 "Nämä työkalut sisältävät yleisiä kehitystyökaluja, kuten gitin ja CVS:n."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
-#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
+#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54
+#: ../comps-epel7.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "Tuki puhelinverkkoyhteyksille"
 
 #: ../comps-f22.xml.in.h:60 ../comps-f23.xml.in.h:58 ../comps-f24.xml.in.h:62
-#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58 ../comps-epel7.xml.in.h:58
+#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58
+#: ../comps-epel7.xml.in.h:58
 msgid "Directory Server"
 msgstr "Hakemistopalvelin"
 
 #: ../comps-f22.xml.in.h:61 ../comps-f23.xml.in.h:59 ../comps-f24.xml.in.h:63
-#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:59
+#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59
+#: ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
 msgstr "Koneiden ja käyttäjien tunnistamiseen tarkoitettuja palvelimia"
 
@@ -507,7 +512,8 @@ msgid "Epiphany Web Browser for GNOME"
 msgstr "Epiphany-selain Gnomelle"
 
 #: ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:81 ../comps-f24.xml.in.h:85
-#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:71
+#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71
+#: ../comps-epel7.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "Etiopian kielituki"
 
@@ -523,7 +529,8 @@ msgid "Tools and utilities needed by a Fedora Packager"
 msgstr "Fedora-paketoijan tarvitsemia työkaluja ja ohjelmia"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
-#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
+#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
+#: ../comps-epel7.xml.in.h:77
 msgid "Finnish Support"
 msgstr "Suomen kielituki"
 
@@ -552,7 +559,8 @@ msgstr ""
 "muokkaamiseen ja paketointiin."
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
-#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
+#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78
+#: ../comps-epel7.xml.in.h:78
 msgid "Fonts"
 msgstr "Kirjasimet"
 
@@ -601,13 +609,13 @@ msgstr "Useita tapoja rentoutumiseen ja vapaa-ajan viettämiseen."
 msgid "Georgian Support"
 msgstr "Georgian kielituki"
 
-#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98 ../comps-f24.xml.in.h:102
-#: ../comps-f25.xml.in.h:102
+#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98
+#: ../comps-f24.xml.in.h:102 ../comps-f25.xml.in.h:102
 msgid "GNOME"
 msgstr "Gnome"
 
-#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99 ../comps-f24.xml.in.h:103
-#: ../comps-f25.xml.in.h:103
+#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99
+#: ../comps-f24.xml.in.h:103 ../comps-f25.xml.in.h:103
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
 msgstr ""
 "Gnome on hyvin intuitiivinen ja käyttäjäystävällinen työpöytäympäristö."
@@ -623,12 +631,14 @@ msgid "A variety of games for the GNOME Desktop"
 msgstr "Monenlaisia pelejä Gnome-työpöydälle"
 
 #: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:102
-#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106 ../comps-el5.xml.in.h:33
+#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106
+#: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "Gnome-ohjelmistokehitys"
 
 #: ../comps-f22.xml.in.h:105 ../comps-f23.xml.in.h:103
-#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107 ../comps-el5.xml.in.h:34
+#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107
+#: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
@@ -636,7 +646,8 @@ msgstr ""
 "Asenna nämä paketit graafisten GTK+- ja Gnome-sovellusten kehittämiseksi."
 
 #: ../comps-f22.xml.in.h:106 ../comps-f23.xml.in.h:104
-#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108 ../comps-el5.xml.in.h:35
+#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108
+#: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "Graafinen Internet"
 
@@ -647,18 +658,20 @@ msgstr ""
 "Tämä ryhmä sisältää graafisia sähköposti-, WWW- ja keskusteluohjelmia."
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
-#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
+#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110
+#: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "Grafiikka"
 
 #: ../comps-f22.xml.in.h:109 ../comps-f23.xml.in.h:107
-#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111 ../comps-el5.xml.in.h:38
+#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111
+#: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr "Tämä ryhmä sisältää paketteja kuvien muokkaamiseen ja skannaamiseen."
 
 #: ../comps-f22.xml.in.h:110 ../comps-f23.xml.in.h:108
-#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112 ../comps-el6.xml.in.h:95
-#: ../comps-epel7.xml.in.h:95
+#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112
+#: ../comps-el6.xml.in.h:95 ../comps-epel7.xml.in.h:95
 msgid "Greek Support"
 msgstr "Kreikan kielituki"
 
@@ -683,8 +696,8 @@ msgid "Agents used when running as a virtualized desktop."
 msgstr "Virtualisoidussa työpöydässä käytettävät agentit."
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
-#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
-#: ../comps-epel7.xml.in.h:96
+#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117
+#: ../comps-el6.xml.in.h:96 ../comps-epel7.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "Gudžaratin kielituki"
 
@@ -711,19 +724,21 @@ msgid "TCP/HTTP Load Balancer."
 msgstr "TCP- ja HTTP-kuorman tasapainottaja."
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
-#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122 ../comps-el5.xml.in.h:39
+#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122
+#: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "Laitteistotuki"
 
 #: ../comps-f22.xml.in.h:121 ../comps-f23.xml.in.h:119
-#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123 ../comps-el5.xml.in.h:40
+#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123
+#: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "Tämä ryhmä on kokoelma laitteistospesifisiä hyötyohjelmia."
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
-#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124 ../comps-el6.xml.in.h:99
-#: ../comps-epel7.xml.in.h:99
+#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124
+#: ../comps-el6.xml.in.h:99 ../comps-epel7.xml.in.h:99
 msgid "Haskell"
 msgstr "Haskell"
 
@@ -745,8 +760,9 @@ msgstr ""
 "Työkaluja järjestelmän hallintaan ilman siihen liitettyä graafista konsolia."
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
-#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
-#: ../comps-el6.xml.in.h:101 ../comps-epel7.xml.in.h:101
+#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135
+#: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:101
+#: ../comps-epel7.xml.in.h:101
 msgid "Hebrew Support"
 msgstr "Heprean kielituki"
 
@@ -768,8 +784,9 @@ msgid "Input method packages for the input of international text."
 msgstr "Syöttömenetelmäpaketteja kansainvälisen tekstin syöttämiseen."
 
 #: ../comps-f22.xml.in.h:130 ../comps-f23.xml.in.h:128
-#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139 ../comps-el5.xml.in.h:43
-#: ../comps-el6.xml.in.h:119 ../comps-epel7.xml.in.h:119
+#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139
+#: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
+#: ../comps-epel7.xml.in.h:119
 msgid "Japanese Support"
 msgstr "Japanin kielituki"
 
@@ -867,7 +884,8 @@ msgid "KDE Office applications"
 msgstr "KDE-toimistosovellukset"
 
 #: ../comps-f22.xml.in.h:148 ../comps-f23.xml.in.h:146
-#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157 ../comps-el5.xml.in.h:47
+#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157
+#: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "KDE-ohjelmistokehitys"
 
@@ -943,8 +961,8 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
-"Nämä paketit sisältävät palvelimet vanhoille verkkoprotokollille, kuten rsh:"
-"lle ja telnetille."
+"Nämä paketit sisältävät palvelimet vanhoille verkkoprotokollille, kuten "
+"rsh:lle ja telnetille."
 
 #: ../comps-f22.xml.in.h:162 ../comps-f23.xml.in.h:160
 #: ../comps-f24.xml.in.h:171 ../comps-f25.xml.in.h:171
@@ -986,8 +1004,8 @@ msgstr "LibreOfficen kehitys"
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
-"Nämä paketit ovat hyödyllisiä kehitettäessä LibreOffice-laajennoksia tai -"
-"makroja"
+"Nämä paketit ovat hyödyllisiä kehitettäessä LibreOffice-laajennoksia tai "
+"-makroja"
 
 #: ../comps-f22.xml.in.h:170 ../comps-f23.xml.in.h:168
 #: ../comps-f24.xml.in.h:181 ../comps-f25.xml.in.h:181
@@ -1018,8 +1036,8 @@ msgstr "LXDE"
 #: ../comps-f24.xml.in.h:186 ../comps-f25.xml.in.h:186
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE on kevyt X11-työpöytäympäristö, joka on suunniteltu vähäisillä "
 "laitteiston ominaisuuksilla varustetuille tietokoneille, kuten "
@@ -1059,8 +1077,8 @@ msgstr "LXQt"
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXQt on kevyt X11-työpöytäympäristö, joka on suunniteltu vähäisillä "
 "laitteiston ominaisuuksilla varustetuille tietokoneille, kuten "
@@ -1082,12 +1100,14 @@ msgid "Office suite for LXQt"
 msgstr "Toimisto-ohjelmisto LXQt:lle"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
-#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
+#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197
+#: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "Postipalvelin"
 
 #: ../comps-f22.xml.in.h:187 ../comps-f23.xml.in.h:185
-#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198 ../comps-el5.xml.in.h:50
+#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198
+#: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr ""
 "Nämä paketit mahdollistavat IMAP- tai SMTP-postipalvelimen perustamisen."
@@ -1229,7 +1249,8 @@ msgid "Nepali Support"
 msgstr "Nepalin kielituki"
 
 #: ../comps-f22.xml.in.h:211 ../comps-f23.xml.in.h:209
-#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222 ../comps-el5.xml.in.h:51
+#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222
+#: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "Verkkopalvelimet"
 
@@ -1238,8 +1259,8 @@ msgstr "Verkkopalvelimet"
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
-"Nämä paketit sisältävät verkkopohjaiset palvelimet, kuten DHCP:n, Kerberosin "
-"ja NIS:n."
+"Nämä paketit sisältävät verkkopohjaiset palvelimet, kuten DHCP:n, Kerberosin"
+" ja NIS:n."
 
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
@@ -1256,12 +1277,14 @@ msgstr ""
 "tarvita kaikissa karsituissa asennuksissa."
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
-#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
+#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226
+#: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "Keskusteluryhmäpalvelin"
 
 #: ../comps-f22.xml.in.h:216 ../comps-f23.xml.in.h:214
-#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227 ../comps-el5.xml.in.h:54
+#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227
+#: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr "Tämä ryhmä mahdollistaa postipalvelimen konfiguroinnin järjestelmään."
 
@@ -1276,16 +1299,18 @@ msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
-"Tuki ohjelmistokehitykselle käyttäen Objective Caml -ohjelmointikieltä ja -"
-"kirjastoja."
+"Tuki ohjelmistokehitykselle käyttäen Objective Caml -ohjelmointikieltä ja "
+"-kirjastoja."
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
-#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
+#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230
+#: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "Toimisto/Tuottavuus"
 
 #: ../comps-f22.xml.in.h:220 ../comps-f23.xml.in.h:218
-#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231 ../comps-el5.xml.in.h:56
+#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231
+#: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "Sovellukset sisältävät mm. toimistosovelluksia ja PDF-näyttimiä."
 
@@ -1429,8 +1454,8 @@ msgstr "Turvallisuuslaboratorio"
 #: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:245
 #: ../comps-f24.xml.in.h:258 ../comps-f25.xml.in.h:258
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 "Työkaluja turvallisuusauditointiin, rikostutkintaan, "
 "järjestelmänpalautukseen ja turvallisuustestauksen menetelmien opetukseen."
@@ -1495,16 +1520,18 @@ msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr ""
-"Tämä paketti mahdollistaa tiedostojen jakamisen Linux- ja MS Windows™ -"
-"järjestelmien välillä."
+"Tämä paketti mahdollistaa tiedostojen jakamisen Linux- ja MS Windows™ "
+"-järjestelmien välillä."
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
-#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270 ../comps-el5.xml.in.h:57
+#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270
+#: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "Ääni ja video"
 
 #: ../comps-f22.xml.in.h:260 ../comps-f23.xml.in.h:258
-#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271 ../comps-el5.xml.in.h:58
+#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271
+#: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -1556,12 +1583,14 @@ msgid "A software playground for learning about learning."
 msgstr "Ohjelmistoleikkikenttä oppimisen oppimiselle."
 
 #: ../comps-f22.xml.in.h:269 ../comps-f23.xml.in.h:267
-#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280 ../comps-el5.xml.in.h:59
+#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280
+#: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "Järjestelmätyökalut"
 
 #: ../comps-f22.xml.in.h:270 ../comps-f23.xml.in.h:268
-#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281 ../comps-el5.xml.in.h:60
+#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281
+#: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -1583,7 +1612,8 @@ msgid "Telugu Support"
 msgstr "Telugun kielituki"
 
 #: ../comps-f22.xml.in.h:273 ../comps-f23.xml.in.h:271
-#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284 ../comps-el5.xml.in.h:61
+#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284
+#: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "Tekstipohjainen Internet"
 
@@ -1594,8 +1624,8 @@ msgid ""
 "applications do not require the X Window System."
 msgstr ""
 "Tämä ryhmä sisältää tekstipohjaisia sähköpostiohjelmia sekä web- ja "
-"keskusteluasiakasohjelmistoja. Nämä ohjelmat eivät tarvitse X-"
-"ikkunointijärjestelmää."
+"keskusteluasiakasohjelmistoja. Nämä ohjelmat eivät tarvitse "
+"X-ikkunointijärjestelmää."
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1662,17 +1692,20 @@ msgid "Basic Web Server"
 msgstr "Perus-WWW-palvelin"
 
 #: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:289
-#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302 ../comps-el5.xml.in.h:66
+#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302
+#: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "Näillä työkaluilla järjestelmässä voidaan ajaa WWW-palvelinta."
 
 #: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:290
-#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303 ../comps-el5.xml.in.h:67
+#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303
+#: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "Ikkunankäsittelijät"
 
 #: ../comps-f22.xml.in.h:289 ../comps-f23.xml.in.h:291
-#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304 ../comps-el5.xml.in.h:68
+#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304
+#: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
@@ -1827,8 +1860,8 @@ msgstr "Fedora Workstation"
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
-"Fedora Workstation on käyttäjäystävällinen työpöytäjärjestelmä kannettaville "
-"ja pöytäkoneille."
+"Fedora Workstation on käyttäjäystävällinen työpöytäjärjestelmä kannettaville"
+" ja pöytäkoneille."
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1873,8 +1906,9 @@ msgstr ""
 "Työasema ohjelmiston, laitteiston, grafiikan ja sisällön tuottamiseen."
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
-#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
-#: ../comps-el6.xml.in.h:280 ../comps-epel7.xml.in.h:282
+#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347
+#: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
+#: ../comps-epel7.xml.in.h:282
 msgid "Web Server"
 msgstr "WWW-palvelin"
 
@@ -1915,8 +1949,9 @@ msgstr ""
 "järjestelmäkuvakkeet ja graafinen tiedostohallinta sekä useita KDE-ohjelmia."
 
 #: ../comps-f22.xml.in.h:336 ../comps-f23.xml.in.h:338
-#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354 ../comps-el5.xml.in.h:73
-#: ../comps-el6.xml.in.h:295 ../comps-epel7.xml.in.h:298
+#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354
+#: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
+#: ../comps-epel7.xml.in.h:298
 msgid "Applications"
 msgstr "Apuohjelmat"
 
@@ -1931,13 +1966,15 @@ msgid "GNOME Desktop"
 msgstr "Gnome-työpöytä"
 
 #: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:341
-#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
-#: ../comps-el6.xml.in.h:297 ../comps-epel7.xml.in.h:300
+#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357
+#: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
+#: ../comps-epel7.xml.in.h:300
 msgid "Development"
 msgstr "Ohjelmistokehitys"
 
 #: ../comps-f22.xml.in.h:340 ../comps-f23.xml.in.h:342
-#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358 ../comps-el5.xml.in.h:76
+#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358
+#: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
@@ -1945,22 +1982,26 @@ msgstr ""
 "Paketit, jotka tarjoavat tuen sovellusten kehittämiselle ja kääntämiselle."
 
 #: ../comps-f22.xml.in.h:341 ../comps-f23.xml.in.h:343
-#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359 ../comps-el5.xml.in.h:77
+#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359
+#: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "Palvelimet"
 
 #: ../comps-f22.xml.in.h:342 ../comps-f23.xml.in.h:344
-#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360 ../comps-el5.xml.in.h:78
+#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360
+#: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "Verkkopalvelimina käytettäviä ohjelmistoja"
 
 #: ../comps-f22.xml.in.h:343 ../comps-f23.xml.in.h:345
-#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361 ../comps-el5.xml.in.h:79
+#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361
+#: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "Perusjärjestelmä"
 
 #: ../comps-f22.xml.in.h:344 ../comps-f23.xml.in.h:346
-#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362 ../comps-el5.xml.in.h:80
+#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362
+#: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "Erilaisia järjestelmän ydinosia."
 
@@ -2120,7 +2161,8 @@ msgid ""
 "Install this group of packages to use the base graphical (X) user interface."
 msgstr "Asenna tämä pakettiryhmä graafisen (X-)käyttöliittymän käyttämiseksi."
 
-#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42 ../comps-epel7.xml.in.h:42
+#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42
+#: ../comps-epel7.xml.in.h:42
 msgid "Czech Support"
 msgstr "Tšekin kielituki"
 
@@ -2136,8 +2178,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc, perl, "
 "python, and debuggers."
 msgstr ""
-"Nämä työkalut sisältävät keskeisiä kehitystyökaluja, kuten automaken, gcc:n, "
-"perlin, pythonin ja vianjäljitysohjelmia."
+"Nämä työkalut sisältävät keskeisiä kehitystyökaluja, kuten automaken, gcc:n,"
+" perlin, pythonin ja vianjäljitysohjelmia."
 
 #: ../comps-el5.xml.in.h:16
 msgid "Dialup Networking Support"
@@ -2196,11 +2238,11 @@ msgstr "KDE (KDE-työpöytäympäristö)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
-"KDE on tehokas, graafinen käyttöliittymä, joka sisältää paneelin, työpöydän, "
-"järjestelmäkuvakkeet ja graafisen tiedostohallinnan."
+"KDE on tehokas, graafinen käyttöliittymä, joka sisältää paneelin, työpöydän,"
+" järjestelmäkuvakkeet ja graafisen tiedostohallinnan."
 
 #: ../comps-el5.xml.in.h:48
 msgid "Install these packages to develop QT and KDE graphical applications."
@@ -2216,8 +2258,8 @@ msgid ""
 "applications do not require the X Window System."
 msgstr ""
 "Tämä ryhmä sisältää tekstipohjaisia sähköpostiohjelmia sekä web- ja "
-"keskusteluasiakasohjelmistoja. Nämä ohjelmat eivät tarvitse X-"
-"ikkunointijärjestelmää."
+"keskusteluasiakasohjelmistoja. Nämä ohjelmat eivät tarvitse "
+"X-ikkunointijärjestelmää."
 
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
@@ -2600,8 +2642,8 @@ msgstr "Infiniband-tuki"
 
 #: ../comps-el6.xml.in.h:108 ../comps-epel7.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "Klusteroinnin ja hajautetun laskennan työkaluja RDMA-pohjaisiin InfiniBand- "
 "ja iWARP-verkkoihin"
@@ -2719,8 +2761,8 @@ msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
 msgstr ""
-"Minimijoukko yhteensopivuusohjelmia vanhoista X-"
-"ikkunointijärjestelmäympäristöistä siirtymiseen tai niiden kanssa "
+"Minimijoukko yhteensopivuusohjelmia vanhoista "
+"X-ikkunointijärjestelmäympäristöistä siirtymiseen tai niiden kanssa "
 "työskentelyyn."
 
 #: ../comps-el6.xml.in.h:144 ../comps-epel7.xml.in.h:144
@@ -2862,8 +2904,8 @@ msgstr "Suorituskykytyökalut"
 msgid ""
 "Tools for diagnosing system and application-level performance problems."
 msgstr ""
-"Työkaluja järjestelmä- ja sovellustason suorituskykyongelmien diagnosointiin."
-""
+"Työkaluja järjestelmä- ja sovellustason suorituskykyongelmien "
+"diagnosointiin."
 
 #: ../comps-el6.xml.in.h:184 ../comps-epel7.xml.in.h:186
 msgid "Perl Support"

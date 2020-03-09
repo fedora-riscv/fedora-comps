@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Krishnababu Krothapalli <kkrothap@redhat.com>, 2008, 2009
@@ -14,16 +14,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
+"PO-Revision-Date: 2016-03-30 04:26+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Telugu (http://www.transifex.com/projects/p/comps/language/te/)\n"
+"Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-11-20 06:35-0500\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Telugu (http://www.transifex.com/projects/p/comps/language/te/"
-")\n"
-"Language: te\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 4.6.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -43,8 +42,8 @@ msgstr "నిర్వాహణా సాధనాలు"
 #: ../comps-f22.xml.in.h:4 ../comps-f23.xml.in.h:2 ../comps-f24.xml.in.h:2
 #: ../comps-f25.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
 "ఈ సమూహం వినియోగదారుని ఖాతా మరియూ కంప్యూటరు hardware నిర్ధారణాది కంప్యూటరు "
 "చిత్ర నిర్వహణ ఉపకరణాల సమాహారం"
@@ -111,12 +110,14 @@ msgid "Basic X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
-#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
+#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20
+#: ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
 msgstr "బెంగాలీ మద్దతు"
 
 #: ../comps-f22.xml.in.h:17 ../comps-f23.xml.in.h:15 ../comps-f24.xml.in.h:17
-#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:21
+#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21
+#: ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
 msgstr "బూటానీస్ మద్దతు"
 
@@ -143,7 +144,8 @@ msgid "Buildsystem building group"
 msgstr "బుల్డ్‍‌సిస్టమ్ నిర్మాణ సమూహం"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
-#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
+#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27
+#: ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
 msgstr "మయన్మార్ (బర్మీస్) మద్దతు"
 
@@ -203,8 +205,7 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
-msgid ""
-"Software for servers and system images that run in \"cloud\" environments"
+msgid "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
@@ -220,7 +221,8 @@ msgid "Tools for managing Linux containers"
 msgstr "మెయిన్‌ఫ్రేమ్ కంప్యూటింగ్ వనరుల యక్సెస్‌కు సాధనాలు."
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
-#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
+#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39
+#: ../comps-epel7.xml.in.h:39
 msgid "Core"
 msgstr "అంతర్భాగం"
 
@@ -261,8 +263,8 @@ msgstr "క్రిటికల్ పాత్ (GNOME)"
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr ""
 "GNOME డెస్కుటాపునకు క్రిటికల్ పాత్ ఫంక్షనాలిటీను అందించునటువంటి ప్యాకేజీల "
 "సమితి"
@@ -357,8 +359,8 @@ msgstr "అభివృద్ధి లైబ్రరీలు"
 #: ../comps-f22.xml.in.h:56 ../comps-f23.xml.in.h:54 ../comps-f24.xml.in.h:58
 #: ../comps-f25.xml.in.h:58
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-""
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr ""
 "ఈ సమూహంలో ఉన్న packages అనువర్తనాల అభివృద్ధికి అవసరమైన మూడి libraries."
 
@@ -376,17 +378,20 @@ msgstr ""
 "ఉపకరణాలను కూడి ఉంటుంది."
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
-#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
+#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54
+#: ../comps-epel7.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "డయిల్-అప్ నెట్ వర్కు మద్దతు"
 
 #: ../comps-f22.xml.in.h:60 ../comps-f23.xml.in.h:58 ../comps-f24.xml.in.h:62
-#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58 ../comps-epel7.xml.in.h:58
+#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58
+#: ../comps-epel7.xml.in.h:58
 msgid "Directory Server"
 msgstr "డెరెక్టరీ సర్వరు"
 
 #: ../comps-f22.xml.in.h:61 ../comps-f23.xml.in.h:59 ../comps-f24.xml.in.h:63
-#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:59
+#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59
+#: ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
 msgstr "మిషన్ మరియు వినియోగదారి గుర్తింపు సేవికలు."
 
@@ -486,8 +491,8 @@ msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
-"ఈ సమూహం గణితం మరియూ వైజ్ఞానిక కంప్యూటరీకరణ మరియూ plotting ఇంకా సమూహ బదిలీలకు "
-"packagesని కలిగి ఉంది."
+"ఈ సమూహం గణితం మరియూ వైజ్ఞానిక కంప్యూటరీకరణ మరియూ plotting ఇంకా సమూహ బదిలీలకు"
+" packagesని కలిగి ఉంది."
 
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
@@ -512,7 +517,8 @@ msgid "Epiphany Web Browser for GNOME"
 msgstr "GNOME కొరకు ఎపిఫనీ వెబ్ బ్రౌజర్"
 
 #: ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:81 ../comps-f24.xml.in.h:85
-#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:71
+#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71
+#: ../comps-epel7.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "ఇథియోపిక్ మద్దతు"
 
@@ -529,7 +535,8 @@ msgid "Tools and utilities needed by a Fedora Packager"
 msgstr "ఫెడోరా ప్యాకేజర్‌కు అవసరమైన సాధనాలు మరియు సౌలభ్యాలు."
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
-#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
+#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
+#: ../comps-epel7.xml.in.h:77
 msgid "Finnish Support"
 msgstr "ఫిన్నిష్ మద్దతు"
 
@@ -558,7 +565,8 @@ msgstr ""
 "చేయుటకు వుపయోగించిన సాధనముల సంపుటము."
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
-#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
+#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78
+#: ../comps-epel7.xml.in.h:78
 msgid "Fonts"
 msgstr "ఫాంట్లు"
 
@@ -606,13 +614,13 @@ msgstr "విశ్రాంతికి మరియూ మీ ఖాళీ �
 msgid "Georgian Support"
 msgstr "జార్జియన్ మద్దతు"
 
-#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98 ../comps-f24.xml.in.h:102
-#: ../comps-f25.xml.in.h:102
+#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98
+#: ../comps-f24.xml.in.h:102 ../comps-f25.xml.in.h:102
 msgid "GNOME"
 msgstr "GNOME"
 
-#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99 ../comps-f24.xml.in.h:103
-#: ../comps-f25.xml.in.h:103
+#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99
+#: ../comps-f24.xml.in.h:103 ../comps-f25.xml.in.h:103
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
 msgstr ""
 "GNOME ఒక అత్యంత సహజమైన మరియు వినియోగదారుని స్నేహపూరిత డెస్క్టాప్ పర్యావరణం."
@@ -628,19 +636,22 @@ msgid "A variety of games for the GNOME Desktop"
 msgstr "GNOME డెస్క్టాప్ కొరకు ఆటలు వివిధ"
 
 #: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:102
-#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106 ../comps-el5.xml.in.h:33
+#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106
+#: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "GNOME సాఫ్ట్‍‌వేర్ అభివృద్ధి"
 
 #: ../comps-f22.xml.in.h:105 ../comps-f23.xml.in.h:103
-#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107 ../comps-el5.xml.in.h:34
+#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107
+#: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr "GTK+ మరియు GNOME చిత్ర అనువర్తనాల క్రమంలో ఈ packageలు సంస్థాపించు."
 
 #: ../comps-f22.xml.in.h:106 ../comps-f23.xml.in.h:104
-#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108 ../comps-el5.xml.in.h:35
+#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108
+#: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "గ్రాఫికల్ ఇంటర్‌నెట్"
 
@@ -651,20 +662,22 @@ msgid "This group includes graphical email, web, and chat clients."
 msgstr "ఈ సమూహం చిత్ర ఇ-టపా, Web, మరియూ సంభాషణా కక్షిదారులని కలిగిఉంది."
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
-#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
+#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110
+#: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "చిత్రాలు"
 
 #: ../comps-f22.xml.in.h:109 ../comps-f23.xml.in.h:107
-#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111 ../comps-el5.xml.in.h:38
+#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111
+#: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
 "చిత్రములను మార్చుట మరియు స్కాన్‌చేయుటలో మీకు సహాయపడు సంకలనాలను ఈ సమూహం "
 "కలిగివుంది."
 
 #: ../comps-f22.xml.in.h:110 ../comps-f23.xml.in.h:108
-#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112 ../comps-el6.xml.in.h:95
-#: ../comps-epel7.xml.in.h:95
+#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112
+#: ../comps-el6.xml.in.h:95 ../comps-epel7.xml.in.h:95
 msgid "Greek Support"
 msgstr "గ్రీకు మద్దతు"
 
@@ -689,8 +702,8 @@ msgid "Agents used when running as a virtualized desktop."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
-#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
-#: ../comps-epel7.xml.in.h:96
+#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117
+#: ../comps-el6.xml.in.h:96 ../comps-epel7.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "గుజరాతీ మద్దతు"
 
@@ -715,19 +728,21 @@ msgid "TCP/HTTP Load Balancer."
 msgstr "TCP/HTTP లోడ్ Balancer."
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
-#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122 ../comps-el5.xml.in.h:39
+#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122
+#: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "హార్డ్‍‌వేర్ మద్దతు"
 
 #: ../comps-f22.xml.in.h:121 ../comps-f23.xml.in.h:119
-#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123 ../comps-el5.xml.in.h:40
+#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123
+#: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "ఈ సమూహం పెక్కు హార్డువేరు వినియోగాలకు కావలసిన ఉపకరణాలను కలిగి ఉంది."
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
-#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124 ../comps-el6.xml.in.h:99
-#: ../comps-epel7.xml.in.h:99
+#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124
+#: ../comps-el6.xml.in.h:99 ../comps-epel7.xml.in.h:99
 msgid "Haskell"
 msgstr "హాస్కెల్"
 
@@ -749,8 +764,9 @@ msgid "Tools for managing the system without an attached graphical console."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
-#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
-#: ../comps-el6.xml.in.h:101 ../comps-epel7.xml.in.h:101
+#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135
+#: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:101
+#: ../comps-epel7.xml.in.h:101
 msgid "Hebrew Support"
 msgstr "హిబ్రూ మద్దతు"
 
@@ -772,8 +788,9 @@ msgid "Input method packages for the input of international text."
 msgstr "అంతర్జాతీయ పాఠ్యము ఇన్‌పుట్ చేయుటకు ఇన్‌పుట్ పద్దతి సంకలనాలు."
 
 #: ../comps-f22.xml.in.h:130 ../comps-f23.xml.in.h:128
-#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139 ../comps-el5.xml.in.h:43
-#: ../comps-el6.xml.in.h:119 ../comps-epel7.xml.in.h:119
+#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139
+#: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
+#: ../comps-epel7.xml.in.h:119
 msgid "Japanese Support"
 msgstr "జపనీస్ మద్దతు"
 
@@ -873,7 +890,8 @@ msgid "KDE Office applications"
 msgstr "KDE ఆఫీస్ అనువర్తనములు"
 
 #: ../comps-f22.xml.in.h:148 ../comps-f23.xml.in.h:146
-#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157 ../comps-el5.xml.in.h:47
+#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157
+#: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "KDE Software మద్దతు"
 
@@ -1027,8 +1045,8 @@ msgstr "LXDE"
 #: ../comps-f24.xml.in.h:186 ../comps-f25.xml.in.h:186
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "నెట్‌బుక్సు, మొబైల్ పరికరములు లేదా పాత కంప్యూటర్లవంటి తక్కువ హార్డువేరు "
 "సామర్ధ్యత కంప్యూటర్ల కొరకు రూపొందించబడిందే లైట్‌వెయిట్ X11 డెస్కుటాప్ "
@@ -1071,8 +1089,8 @@ msgstr ""
 #, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "నెట్‌బుక్సు, మొబైల్ పరికరములు లేదా పాత కంప్యూటర్లవంటి తక్కువ హార్డువేరు "
 "సామర్ధ్యత కంప్యూటర్ల కొరకు రూపొందించబడిందే లైట్‌వెయిట్ X11 డెస్కుటాప్ "
@@ -1097,12 +1115,14 @@ msgid "Office suite for LXQt"
 msgstr "LXDE కొరకు ఆఫీస్ సూట్"
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
-#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
+#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197
+#: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "మెయిల్ సేవిక"
 
 #: ../comps-f22.xml.in.h:187 ../comps-f23.xml.in.h:185
-#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198 ../comps-el5.xml.in.h:50
+#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198
+#: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr "IMAP లేక SMTP mail సర్వరు ఆకృతీకరణలో ఈ అనువర్తనాలు మద్దతిస్తాయి."
 
@@ -1244,7 +1264,8 @@ msgid "Nepali Support"
 msgstr "నేపాలి మద్దతు"
 
 #: ../comps-f22.xml.in.h:211 ../comps-f23.xml.in.h:209
-#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222 ../comps-el5.xml.in.h:51
+#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222
+#: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "నెట్వర్క్‍ సర్వరు"
 
@@ -1253,8 +1274,8 @@ msgstr "నెట్వర్క్‍ సర్వరు"
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
-"ఈ packageలు network ఆధారిత సర్వర్లు - DHCP, Kerberos మరియూ NISమొ. కలిగి ఉంది."
-""
+"ఈ packageలు network ఆధారిత సర్వర్లు - DHCP, Kerberos మరియూ NISమొ. కలిగి "
+"ఉంది."
 
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
@@ -1269,12 +1290,14 @@ msgid ""
 msgstr ""
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
-#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
+#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226
+#: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "వార్తల సేవిక"
 
 #: ../comps-f22.xml.in.h:216 ../comps-f23.xml.in.h:214
-#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227 ../comps-el5.xml.in.h:54
+#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227
+#: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
 "వార్తా సర్వరుగా మీ కంప్యూటరును ఆకృతీకరించటానికి ఈ సమూహం మిమ్మల్ని "
@@ -1296,12 +1319,14 @@ msgstr ""
 "అభివృద్దికి మద్దతిచ్చుట."
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
-#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
+#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230
+#: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "కార్యాలయం/ఉత్పాదకత"
 
 #: ../comps-f22.xml.in.h:220 ../comps-f23.xml.in.h:218
-#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231 ../comps-el5.xml.in.h:56
+#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231
+#: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "ఈ అనువర్తనాలు కార్యాలయ suites, PDF దృశ్యాలు మరియూ అనేకం కలిగి ఉంది."
 
@@ -1444,8 +1469,8 @@ msgstr "భద్రతా ల్యాబ్"
 #: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:245
 #: ../comps-f24.xml.in.h:258 ../comps-f25.xml.in.h:258
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:246
@@ -1513,12 +1538,14 @@ msgstr ""
 "అనుమతిస్తుంది."
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
-#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270 ../comps-el5.xml.in.h:57
+#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270
+#: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "శబ్ధం మరియూ దృశ్యం"
 
 #: ../comps-f22.xml.in.h:260 ../comps-f23.xml.in.h:258
-#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271 ../comps-el5.xml.in.h:58
+#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271
+#: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -1569,12 +1596,14 @@ msgid "A software playground for learning about learning."
 msgstr "నేర్చుకున్నదాన్ని గురించి నేర్చుకోవటానికి ఒక సాఫ్టువేర్ ఆటస్థలము."
 
 #: ../comps-f22.xml.in.h:269 ../comps-f23.xml.in.h:267
-#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280 ../comps-el5.xml.in.h:59
+#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280
+#: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "సిస్టమ్ సాధనములు"
 
 #: ../comps-f22.xml.in.h:270 ../comps-f23.xml.in.h:268
-#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281 ../comps-el5.xml.in.h:60
+#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281
+#: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -1595,7 +1624,8 @@ msgid "Telugu Support"
 msgstr "తెలుగు మద్దతు"
 
 #: ../comps-f22.xml.in.h:273 ../comps-f23.xml.in.h:271
-#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284 ../comps-el5.xml.in.h:61
+#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284
+#: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "పాఠ్యము-ఆధారిత ఇంటర్‌నెట్"
 
@@ -1674,17 +1704,20 @@ msgid "Basic Web Server"
 msgstr "ప్రాథమిక వెబ్ సర్వర్"
 
 #: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:289
-#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302 ../comps-el5.xml.in.h:66
+#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302
+#: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "ఈ సాధనములు కంప్యూటరులో Web సర్వరును వాడటానికి మిమ్మల్ని అనుమతిస్తాయి."
 
 #: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:290
-#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303 ../comps-el5.xml.in.h:67
+#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303
+#: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "విండో నిర్వాహికలు"
 
 #: ../comps-f22.xml.in.h:289 ../comps-f23.xml.in.h:291
-#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304 ../comps-el5.xml.in.h:68
+#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304
+#: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "దీర్ఘ డెస్కుటాప్ వాతావరణంలో భాగం కాని సాధారణ విండో నిర్వాహికలు."
@@ -1886,8 +1919,9 @@ msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
-#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
-#: ../comps-el6.xml.in.h:280 ../comps-epel7.xml.in.h:282
+#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347
+#: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
+#: ../comps-epel7.xml.in.h:282
 msgid "Web Server"
 msgstr "వెబ్ సేవిక"
 
@@ -1930,8 +1964,9 @@ msgstr ""
 "కలిగివుంది."
 
 #: ../comps-f22.xml.in.h:336 ../comps-f23.xml.in.h:338
-#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354 ../comps-el5.xml.in.h:73
-#: ../comps-el6.xml.in.h:295 ../comps-epel7.xml.in.h:298
+#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354
+#: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
+#: ../comps-epel7.xml.in.h:298
 msgid "Applications"
 msgstr "అనువర్తనాలు"
 
@@ -1946,35 +1981,41 @@ msgid "GNOME Desktop"
 msgstr "GNOME రంగస్థలం"
 
 #: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:341
-#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
-#: ../comps-el6.xml.in.h:297 ../comps-epel7.xml.in.h:300
+#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357
+#: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
+#: ../comps-epel7.xml.in.h:300
 msgid "Development"
 msgstr "అభివృద్ధి"
 
 #: ../comps-f22.xml.in.h:340 ../comps-f23.xml.in.h:342
-#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358 ../comps-el5.xml.in.h:76
+#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358
+#: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr "అనువర్తనాల అభివృద్దికి మరియు నిర్మాణంకు కార్యధక్షతను అందిచే సంకలనాలు."
 
 #: ../comps-f22.xml.in.h:341 ../comps-f23.xml.in.h:343
-#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359 ../comps-el5.xml.in.h:77
+#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359
+#: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "సేవికలు"
 
 #: ../comps-f22.xml.in.h:342 ../comps-f23.xml.in.h:344
-#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360 ../comps-el5.xml.in.h:78
+#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360
+#: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "నెట్వర్క్‍ సేవికలను నడుపుటకు ఉపయోగపడే సాఫ్ట్‍‌వేర్"
 
 #: ../comps-f22.xml.in.h:343 ../comps-f23.xml.in.h:345
-#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361 ../comps-el5.xml.in.h:79
+#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361
+#: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "ఆధార వ్యవస్థ"
 
 #: ../comps-f22.xml.in.h:344 ../comps-f23.xml.in.h:346
-#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362 ../comps-el5.xml.in.h:80
+#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362
+#: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "కంప్యూటరు యొక్క అనేక ముడి భాగాలు."
 
@@ -2123,7 +2164,8 @@ msgstr ""
 "ఈ package సమూహాన్ని సంస్థాపించటానికి మూల graphical (X) వినియోగదారుని "
 "interfaceని ఉపయోగించండి."
 
-#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42 ../comps-epel7.xml.in.h:42
+#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42
+#: ../comps-epel7.xml.in.h:42
 msgid "Czech Support"
 msgstr "చెక్ మద్దతు"
 
@@ -2192,8 +2234,8 @@ msgstr "KDE (K Desktop వాతావారణం)"
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "KDE శక్తివంతమైన graphical user interface. ఇది ఫలకం, తెర, కంప్యూటరు రూపు, "
 "మరియూ చిత్ర ఫైలు నిర్వహణని కలిగిఉంది.KDE శక్తివంతమైన చిత్రసంబంధ వినియోగ "
@@ -2595,8 +2637,8 @@ msgstr "ఇన్ఫిబాండ్ తోడ్పాటు"
 
 #: ../comps-el6.xml.in.h:108 ../comps-epel7.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 "RDMA-ఆధారిత యిన్ఫిబాండ్ మరియు iWARP ఫాబ్రిక్స్ వుపయోగించి క్లస్టరింగ్ మరియు "
 "గ్రిడ్ అనుసంధానతకు తోడ్పడుటకు రూపొందించిన సాఫ్టువేర్."
@@ -2644,8 +2686,8 @@ msgstr "జావా ప్లాట్‌ఫాం"
 #: ../comps-el6.xml.in.h:121 ../comps-epel7.xml.in.h:121
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
 msgstr ""
-"ఎంటర్‌ప్రైజ్ లైనక్స్ సర్వర్ మరియు డెస్కుటాప్ ప్లాట్‌ఫాంల కొరకు జావా తోడ్పాటు."
-""
+"ఎంటర్‌ప్రైజ్ లైనక్స్ సర్వర్ మరియు డెస్కుటాప్ ప్లాట్‌ఫాంల కొరకు జావా "
+"తోడ్పాటు."
 
 #: ../comps-el6.xml.in.h:124 ../comps-epel7.xml.in.h:124
 msgid "Kashubian Support"
@@ -2716,8 +2758,8 @@ msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
 msgstr ""
-"పాత X విండో సిస్టమ్ యెన్విరాన్మెంట్సుతో పనిచేయుటకు లేదా దానినుండి వలసపోవుటకు "
-"కనీసపు సారూప్యతా ప్రోగ్రామ్ల సమితి."
+"పాత X విండో సిస్టమ్ యెన్విరాన్మెంట్సుతో పనిచేయుటకు లేదా దానినుండి వలసపోవుటకు"
+" కనీసపు సారూప్యతా ప్రోగ్రామ్ల సమితి."
 
 #: ../comps-el6.xml.in.h:144 ../comps-epel7.xml.in.h:144
 msgid "Lithuanian Support"

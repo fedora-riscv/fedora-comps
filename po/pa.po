@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Amanpreet Singh Alam <aalam@redhat.com>, 2004
 # Amanpreet Singh Alam <aalam@redhat.cpm>, 2004
@@ -11,21 +11,21 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Jaswinder Singh <jsingh@redhat.com>, 2008, 2009
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# A S Alam <aalam@fedoraproject.org>, 2019. #zanata
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
+"PO-Revision-Date: 2019-05-23 04:27+0000\n"
+"Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/comps/language/pa/)\n"
+"Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-11-20 06:35-0500\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/comps/"
-"language/pa/)\n"
-"Language: pa\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 3.8.4\n"
+"X-Generator: Zanata 4.6.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -45,11 +45,11 @@ msgstr "ਪਰਸ਼ਾਸ਼ਕੀ ਟੂਲ"
 #: ../comps-f22.xml.in.h:4 ../comps-f23.xml.in.h:2 ../comps-f24.xml.in.h:2
 #: ../comps-f25.xml.in.h:2 ../comps-el5.xml.in.h:2
 msgid ""
-"This group is a collection of graphical administration tools for the system, "
-"such as for managing user accounts and configuring system hardware."
+"This group is a collection of graphical administration tools for the system,"
+" such as for managing user accounts and configuring system hardware."
 msgstr ""
-"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਸਿਸਟਮ ਲਈ ਗਰਾਫਿਕਲ ਪਰਸ਼ਾਸ਼ਕੀ ਟੂਲ ਸ਼ਾਮਿਲ ਹਨ, ਜਿਵੇਂ ਕਿ ਯੂਜ਼ਰ ਅਕਾਊਂਟ "
-"ਪਰਬੰਧ ਅਤੇ ਸਿਸਟਮ ਜੰਤਰ ਸੰਰਚਨਾ ਆਦਿ।"
+"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਸਿਸਟਮ ਲਈ ਗਰਾਫਿਕਲ ਪਰਸ਼ਾਸ਼ਕੀ ਟੂਲ ਸ਼ਾਮਿਲ ਹਨ, ਜਿਵੇਂ ਕਿ ਯੂਜ਼ਰ ਅਕਾਊਂਟ"
+" ਪਰਬੰਧ ਅਤੇ ਸਿਸਟਮ ਜੰਤਰ ਸੰਰਚਨਾ ਆਦਿ।"
 
 #: ../comps-f22.xml.in.h:5 ../comps-f23.xml.in.h:3 ../comps-f24.xml.in.h:3
 #: ../comps-f25.xml.in.h:3
@@ -70,12 +70,12 @@ msgstr "ਆਸਾਮੀ ਸਹਿਯੋਗ"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "ਆਡੀਓ ਉਤਪਾਦਨ"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
 msgid "Various tools for audio synthesis and music production."
-msgstr ""
+msgstr "ਆਡੀਓ ਸੰਸਲੇਸ਼ਣ ਅਤੇ ਸੰਗੀਤ ਉਤਪਾਦਨ ਲਈ ਵੱਖੋ-ਵੱਖ ਸੰਦ"
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -99,7 +99,7 @@ msgstr "ਬੇਸ ਐਕਸ"
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
 msgid "Local X.org display server"
-msgstr ""
+msgstr "ਲੋਕਲ X.org ਡਿਸਪਲੇਅ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:14 ../comps-f23.xml.in.h:12 ../comps-f24.xml.in.h:14
 #: ../comps-f25.xml.in.h:14
@@ -112,12 +112,14 @@ msgid "Basic X Window System with a choice of window manager."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
-#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20 ../comps-epel7.xml.in.h:20
+#: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20
+#: ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
 msgstr "ਬੰਗਾਲੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:17 ../comps-f23.xml.in.h:15 ../comps-f24.xml.in.h:17
-#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21 ../comps-epel7.xml.in.h:21
+#: ../comps-f25.xml.in.h:17 ../comps-el6.xml.in.h:21
+#: ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
 msgstr "ਭੁਟਾਨੀ ਸਹਿਯੋਗ"
 
@@ -143,14 +145,15 @@ msgid "Buildsystem building group"
 msgstr "ਬਿਲਡ-ਸਿਸਟਮ ਬਿਲਡਿੰਗ ਗਰੁੱਪ"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
-#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27 ../comps-epel7.xml.in.h:27
+#: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27
+#: ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
 msgstr "ਮਿਆਂਮਾਰ (ਬਰਮੀ) ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:23 ../comps-f23.xml.in.h:21 ../comps-f24.xml.in.h:23
 #: ../comps-f25.xml.in.h:23
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ"
 
 #: ../comps-f22.xml.in.h:24 ../comps-f23.xml.in.h:22 ../comps-f24.xml.in.h:24
 #: ../comps-f25.xml.in.h:24
@@ -179,45 +182,43 @@ msgstr "ਕਲਾਉਡ ਢਾਂਚਾ"
 #: ../comps-f22.xml.in.h:28 ../comps-f23.xml.in.h:26 ../comps-f24.xml.in.h:28
 #: ../comps-f25.xml.in.h:28
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "ਕਲਾਉਡ ਕੰਪਿਊਟਿੰਗ ਲਈ ਮੂਲ-ਢਾਂਚਾ ਪੈਕੇਜ।"
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ"
+msgstr "ਕਲਾਉਡ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ"
 
 #: ../comps-f22.xml.in.h:30 ../comps-f23.xml.in.h:28 ../comps-f24.xml.in.h:30
 #: ../comps-f25.xml.in.h:30
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
-msgstr ""
+msgstr "ਸਰਵਰ ਅਤੇ \"ਕਲਾਉਡ\" ਇੰਵਾਇਨਮੈਂਟਾਂ ਵਿੱਚ ਸਿਸਟਮ ਈਮੇਜ਼ਾਂ ਦੇ ਬੰਦੋਬਸਤ ਲਈ ਸਾਫਟਵੇਅਰ"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "ਕਲਾਉਡ ਸਰਵਰ ਟੂਲ"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
-msgid ""
-"Software for servers and system images that run in \"cloud\" environments"
+msgid "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
-#, fuzzy
 msgid "Container Management"
-msgstr "ਸਿਸਟਮ ਪਰਬੰਧ"
+msgstr "ਸਿਸਟਮ ਬੰਦੋਬਸਤ"
 
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
 msgid "Tools for managing Linux containers"
-msgstr ""
+msgstr "ਲੀਨਕਸ ਕਨਟੇਨਰਾਂ ਦੇ ਬੰਦੋਬਸਤ ਲਈ ਟੂਲ"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
-#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39 ../comps-epel7.xml.in.h:39
+#: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39
+#: ../comps-epel7.xml.in.h:39
 msgid "Core"
 msgstr "ਕੋਰ"
 
@@ -258,8 +259,8 @@ msgstr "ਨਾਜ਼ੁਕ ਮਾਰਗ (ਗਨੋਮ)"
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
 msgid ""
-"A set of packages that provide the Critical Path functionality for the GNOME "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the GNOME"
+" desktop"
 msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ ਗਨੋਮ ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
@@ -314,9 +315,8 @@ msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ Xfce ਡੈਸਕਟ�
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ"
+msgstr "ਡੀ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
@@ -346,8 +346,8 @@ msgstr "ਡਿਵੈਲਪਮੈਂਟ ਲਾਇਬਰੇਰੀਆਂ"
 #: ../comps-f22.xml.in.h:56 ../comps-f23.xml.in.h:54 ../comps-f24.xml.in.h:58
 #: ../comps-f25.xml.in.h:58
 msgid ""
-"The packages in this group are core libraries needed to develop applications."
-""
+"The packages in this group are core libraries needed to develop "
+"applications."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪੈਕੇਜ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਮੁੱਢਲੀਆਂ ਲਾਇਬਰੇਰੀਆਂ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:57 ../comps-f23.xml.in.h:55 ../comps-f24.xml.in.h:59
@@ -364,19 +364,22 @@ msgstr ""
 "ਡੀਬੱਗਰ ਆਦਿ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:59 ../comps-f23.xml.in.h:57 ../comps-f24.xml.in.h:61
-#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54 ../comps-epel7.xml.in.h:54
+#: ../comps-f25.xml.in.h:61 ../comps-el6.xml.in.h:54
+#: ../comps-epel7.xml.in.h:54
 msgid "Dial-up Networking Support"
 msgstr "ਡਾਇਲ-ਅੱਪ ਨੈੱਟਵਰਕ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:60 ../comps-f23.xml.in.h:58 ../comps-f24.xml.in.h:62
-#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58 ../comps-epel7.xml.in.h:58
+#: ../comps-f25.xml.in.h:62 ../comps-el6.xml.in.h:58
+#: ../comps-epel7.xml.in.h:58
 msgid "Directory Server"
 msgstr "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:61 ../comps-f23.xml.in.h:59 ../comps-f24.xml.in.h:63
-#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59 ../comps-epel7.xml.in.h:59
+#: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59
+#: ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
-msgstr "ਮਸ਼ੀਨ ਅਤੇ ਯੂਜ਼ਰ ਪਛਾਣ ਸਰਵਰ।"
+msgstr "ਮਸ਼ੀਨ ਅਤੇ ਵਰਤੋਂਕਾਰ ਪਛਾਣ ਸਰਵਰ।"
 
 #: ../comps-f22.xml.in.h:62 ../comps-f23.xml.in.h:60 ../comps-f24.xml.in.h:64
 #: ../comps-f25.xml.in.h:64
@@ -408,12 +411,12 @@ msgstr "ਇੰਟਰਪਰਾਈਸ-ਕਲਾਸ ਓਪਨ ਸੋਰਸ ਸਰ�
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "ਡੋਮੇਨ ਮੈਂਬਰਸ਼ਿਪ"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "FreeIPA ਜਾਂ ਐਕਟਿਵ ਡਾਇਰੈਕਟਰੀ ਡੋਮੇਨ ਨਾਲ ਜੁੜਨ ਲਈ ਸਹਾਇਤਾ"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -458,7 +461,6 @@ msgstr "ਇਲੈਕਟਰਿਕ ਲੈਬ"
 
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
 msgstr "ਹਾਰਡਵੇਅਰ ਇੰਜਨੀਅਰਾਂ ਲਈ ਡਿਜ਼ਾਇਨ ਅਤੇ ਸਿਮੁਲੇਟਿੰਗ ਟੂਲ"
 
@@ -479,7 +481,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "ਇਨਲਾਇਟਨਮੈਂਟ"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -491,15 +493,16 @@ msgstr ""
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "ਏਪੀਫਨੀ ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
 
 #: ../comps-f22.xml.in.h:82 ../comps-f23.xml.in.h:80 ../comps-f24.xml.in.h:84
 #: ../comps-f25.xml.in.h:84
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "ਗਨੋਮ ਲਈ ਏਪੀਫਨੀ ਵੈੱਬ ਬਰਾਊਜ਼ਰ"
 
 #: ../comps-f22.xml.in.h:83 ../comps-f23.xml.in.h:81 ../comps-f24.xml.in.h:85
-#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71 ../comps-epel7.xml.in.h:71
+#: ../comps-f25.xml.in.h:85 ../comps-el6.xml.in.h:71
+#: ../comps-epel7.xml.in.h:71
 msgid "Ethiopic Support"
 msgstr "ਈਥੋਪਿਕ ਸਹਿਯੋਗ"
 
@@ -511,12 +514,12 @@ msgstr "ਫੇਡੋਰਾ ਪੈਕੇਜਰ"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "ਫੇਡੋਰਾ ਪੈਕਜ਼ਰ ਵਲੋਂ ਲੋੜੀਦੀ ਟੂਲ ਅਤੇ ਸਹੂਲਤਾਂ।"
+msgstr "ਫੇਡੋਰਾ ਪੈਕਜ਼ਰ ਵਲੋਂ ਲੋੜੀਦੀ ਟੂਲ ਅਤੇ ਸਹੂਲਤਾਂ"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
-#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77 ../comps-epel7.xml.in.h:77
+#: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
+#: ../comps-epel7.xml.in.h:77
 msgid "Finnish Support"
 msgstr "ਫੈਨਿਸ਼ ਸਹਿਯੋਗ"
 
@@ -545,7 +548,8 @@ msgstr ""
 "ਪੈਕੇਜ ਬਣਾਉਣ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
-#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78 ../comps-epel7.xml.in.h:78
+#: ../comps-f25.xml.in.h:93 ../comps-el6.xml.in.h:78
+#: ../comps-epel7.xml.in.h:78
 msgid "Fonts"
 msgstr "ਫੋਂਟ"
 
@@ -556,9 +560,8 @@ msgstr "ਡੈਸਕਟਾਪ ਉੱਤੇ ਰੈਂਡਰਿੰਗ ਲਈ ਫ�
 
 #: ../comps-f22.xml.in.h:93 ../comps-f23.xml.in.h:91 ../comps-f24.xml.in.h:95
 #: ../comps-f25.xml.in.h:95
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP ਸਰਵਰ"
+msgstr "FreeIPA ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:94 ../comps-f23.xml.in.h:92 ../comps-f24.xml.in.h:96
 #: ../comps-f25.xml.in.h:96
@@ -593,40 +596,43 @@ msgstr "ਤੁਹਾਡਾ ਵੇਹਲਾ ਸਮਾਂ ਗੁਜ਼ਾਰਨ ਅ�
 msgid "Georgian Support"
 msgstr "ਜਾਰਜੀਆਈ ਸਹਿਯੋਗ"
 
-#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98 ../comps-f24.xml.in.h:102
-#: ../comps-f25.xml.in.h:102
+#: ../comps-f22.xml.in.h:100 ../comps-f23.xml.in.h:98
+#: ../comps-f24.xml.in.h:102 ../comps-f25.xml.in.h:102
 msgid "GNOME"
 msgstr "ਗਨੋਮ"
 
-#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99 ../comps-f24.xml.in.h:103
-#: ../comps-f25.xml.in.h:103
+#: ../comps-f22.xml.in.h:101 ../comps-f23.xml.in.h:99
+#: ../comps-f24.xml.in.h:103 ../comps-f25.xml.in.h:103
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
 msgstr "ਗਨੋਮ ਯੂਜ਼ਰ ਲਈ ਸੌਖਾ ਯੂਜ਼ਰ ਇੰਨਵਾਇਰਨਮੈਂਟ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:102 ../comps-f23.xml.in.h:100
 #: ../comps-f24.xml.in.h:104 ../comps-f25.xml.in.h:104
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ ਲਈ ਵਾਧੂ ਖੇਡਾਂ"
 
 #: ../comps-f22.xml.in.h:103 ../comps-f23.xml.in.h:101
 #: ../comps-f24.xml.in.h:105 ../comps-f25.xml.in.h:105
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ ਲਈ ਕਈ ਕਿਸਮ ਦੀਆਂ ਖੇਡਾਂ"
 
 #: ../comps-f22.xml.in.h:104 ../comps-f23.xml.in.h:102
-#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106 ../comps-el5.xml.in.h:33
+#: ../comps-f24.xml.in.h:106 ../comps-f25.xml.in.h:106
+#: ../comps-el5.xml.in.h:33
 msgid "GNOME Software Development"
 msgstr "ਗਨੋਮ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f22.xml.in.h:105 ../comps-f23.xml.in.h:103
-#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107 ../comps-el5.xml.in.h:34
+#: ../comps-f24.xml.in.h:107 ../comps-f25.xml.in.h:107
+#: ../comps-el5.xml.in.h:34
 msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr "GTK+ ਅਤੇ GNOME ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
 
 #: ../comps-f22.xml.in.h:106 ../comps-f23.xml.in.h:104
-#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108 ../comps-el5.xml.in.h:35
+#: ../comps-f24.xml.in.h:108 ../comps-f25.xml.in.h:108
+#: ../comps-el5.xml.in.h:35
 msgid "Graphical Internet"
 msgstr "ਗਰਾਫਿਕਲ ਇੰਟਰਨੈੱਟ"
 
@@ -637,27 +643,29 @@ msgid "This group includes graphical email, web, and chat clients."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਗਰਾਫਿਕਲ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
-#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110 ../comps-el5.xml.in.h:37
+#: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110
+#: ../comps-el5.xml.in.h:37
 msgid "Graphics"
 msgstr "ਗਰਾਫਿਕਸ"
 
 #: ../comps-f22.xml.in.h:109 ../comps-f23.xml.in.h:107
-#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111 ../comps-el5.xml.in.h:38
+#: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111
+#: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
 "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਚਿੱਤਰ ਸਕੈਨ ਅਤੇ ਉਹਨਾਂ ਨੂੰ ਪੇਸ਼ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰਨ ਵਾਲੇ ਪੈਕੇਜ "
 "ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:110 ../comps-f23.xml.in.h:108
-#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112 ../comps-el6.xml.in.h:95
-#: ../comps-epel7.xml.in.h:95
+#: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112
+#: ../comps-el6.xml.in.h:95 ../comps-epel7.xml.in.h:95
 msgid "Greek Support"
 msgstr "ਗਰੀਕ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:109
 #: ../comps-f24.xml.in.h:113 ../comps-f25.xml.in.h:113
 msgid "Guest Agents"
-msgstr ""
+msgstr "ਗੈਸਟ ਏਜੰਟ"
 
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
@@ -675,8 +683,8 @@ msgid "Agents used when running as a virtualized desktop."
 msgstr "ਏਜੰਟ, ਜੋ ਕਿ ਵੁਰਚੁਅਲ ਡੈਸਕਟਾਪ ਚੱਲਣ ਦੌਰਾਨ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
-#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117 ../comps-el6.xml.in.h:96
-#: ../comps-epel7.xml.in.h:96
+#: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117
+#: ../comps-el6.xml.in.h:96 ../comps-epel7.xml.in.h:96
 msgid "Gujarati Support"
 msgstr "ਗੁਜਰਾਤੀ ਸਹਿਯੋਗ"
 
@@ -698,22 +706,24 @@ msgstr ""
 #: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:117
 #: ../comps-f24.xml.in.h:121 ../comps-f25.xml.in.h:121
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP ਲੋਡ ਬੈਲੈਂਸਰ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
-#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122 ../comps-el5.xml.in.h:39
+#: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122
+#: ../comps-el5.xml.in.h:39
 msgid "Hardware Support"
 msgstr "ਜੰਤਰ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:121 ../comps-f23.xml.in.h:119
-#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123 ../comps-el5.xml.in.h:40
+#: ../comps-f24.xml.in.h:123 ../comps-f25.xml.in.h:123
+#: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr "ਇਹ ਗਰੁੱਪ ਵਿੱਚ ਜੰਤਰਾਂ ਲਈ ਖਾਸ ਸਹੂਲਤਾਂ ਉਪਲੱਬਧ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
-#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124 ../comps-el6.xml.in.h:99
-#: ../comps-epel7.xml.in.h:99
+#: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124
+#: ../comps-el6.xml.in.h:99 ../comps-epel7.xml.in.h:99
 msgid "Haskell"
 msgstr "ਹਾਸਕਲ"
 
@@ -725,9 +735,8 @@ msgstr "ਹਾਸਕਿੱਲ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵ
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
-msgstr "ਸਿਸਟਮ ਪਰਬੰਧ"
+msgstr "ਹੈੱਡਲੈਸ ਬੰਦੋਬਸਤ"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
@@ -735,8 +744,9 @@ msgid "Tools for managing the system without an attached graphical console."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
-#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135 ../comps-el5.xml.in.h:41
-#: ../comps-el6.xml.in.h:101 ../comps-epel7.xml.in.h:101
+#: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135
+#: ../comps-el5.xml.in.h:41 ../comps-el6.xml.in.h:101
+#: ../comps-epel7.xml.in.h:101
 msgid "Hebrew Support"
 msgstr "ਹੈਬਰਿਓ ਸਹਿਯੋਗ"
 
@@ -758,8 +768,9 @@ msgid "Input method packages for the input of international text."
 msgstr "ਅੰਤਰਰਾਸ਼ਟਰੀ ਟੈਕਸਟ ਇੰਪੁੱਟ ਕਰਨ ਵਾਸਤੇ ਇੰਪੁੱਟ ਢੰਗ ਪੈਕੇਜ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:130 ../comps-f23.xml.in.h:128
-#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139 ../comps-el5.xml.in.h:43
-#: ../comps-el6.xml.in.h:119 ../comps-epel7.xml.in.h:119
+#: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139
+#: ../comps-el5.xml.in.h:43 ../comps-el6.xml.in.h:119
+#: ../comps-epel7.xml.in.h:119
 msgid "Japanese Support"
 msgstr "ਜਾਪਾਨੀ ਸਹਿਯੋਗ"
 
@@ -785,14 +796,13 @@ msgstr "ਜਾਵਾ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ
 
 #: ../comps-f22.xml.in.h:135 ../comps-f23.xml.in.h:133
 #: ../comps-f24.xml.in.h:144 ../comps-f25.xml.in.h:144
-#, fuzzy
 msgid "Java Application Server"
-msgstr "ਐਪਲੀਕੇਸ਼ਨ"
+msgstr "ਜਾਵਾ ਐਪਲੀਕੇਸ਼ਨ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
 msgid "Java application server."
-msgstr ""
+msgstr "ਜਾਵਾ ਐਪਲੀਕੇਸ਼ਨ ਸਰਵਰ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:135
 #: ../comps-f24.xml.in.h:146 ../comps-f25.xml.in.h:146
@@ -819,7 +829,7 @@ msgstr "ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਕੇਡੀਈ ਐਪ�
 #: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:139
 #: ../comps-f24.xml.in.h:150 ../comps-f25.xml.in.h:150
 msgid "KDE"
-msgstr ""
+msgstr "ਕੇਡੀਈ"
 
 #: ../comps-f22.xml.in.h:142 ../comps-f23.xml.in.h:140
 #: ../comps-f24.xml.in.h:151 ../comps-f25.xml.in.h:151
@@ -858,15 +868,15 @@ msgid "KDE Office applications"
 msgstr "ਕੇਡੀਈ ਆਫਿਸ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f22.xml.in.h:148 ../comps-f23.xml.in.h:146
-#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157 ../comps-el5.xml.in.h:47
+#: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157
+#: ../comps-el5.xml.in.h:47
 msgid "KDE Software Development"
 msgstr "ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f22.xml.in.h:149 ../comps-f23.xml.in.h:147
 #: ../comps-f24.xml.in.h:158 ../comps-f25.xml.in.h:158
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
-msgstr "QT ਅਤੇ KDE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
+msgstr "Qt ਅਤੇ KDE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
 
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
 #: ../comps-f24.xml.in.h:159 ../comps-f25.xml.in.h:159
@@ -880,17 +890,17 @@ msgstr "ਕੇਡੀਈ ਟੈਲੀਪੈਥੀ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "ਕੇਡੀਈ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
+msgstr "ਕੇਡੀਈ ਫਰੇਮਵਰਕਸ 5 ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f22.xml.in.h:153 ../comps-f23.xml.in.h:151
 #: ../comps-f24.xml.in.h:162 ../comps-f25.xml.in.h:162
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr "QT ਅਤੇ KDE ਗਰਾਫਿਕਲ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦੇ ਵਿਕਾਸ ਲਈ ਇਹ ਪੈਕੇਜ ਇੰਸਟਾਲ ਕਰੋ।"
+msgstr ""
+"Qt5 ਅਤੇ KDE ਫਰੇਮਵਕਸ 5 ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਐਪਲੀਕੇਸ਼ਨ ਵਿਕਸਤ ਲਈ ਇਹ ਪੈਕੇਜਾਂ ਨੂੰ ਇੰਸਟਾਲ"
+" ਕਰੋ।"
 
 #: ../comps-f22.xml.in.h:154 ../comps-f23.xml.in.h:152
 #: ../comps-f24.xml.in.h:163 ../comps-f25.xml.in.h:163
@@ -986,7 +996,7 @@ msgstr "ਲਿਬਰੇਆਫਿਸ ਇਕਸਟੈਸ਼ਨ ਜਾਂ ਮਾਈਕ
 #: ../comps-f22.xml.in.h:170 ../comps-f23.xml.in.h:168
 #: ../comps-f24.xml.in.h:181 ../comps-f25.xml.in.h:181
 msgid "Load Balancer"
-msgstr ""
+msgstr "ਲੋਡ ਬੈਲੈਂਸਰ"
 
 #: ../comps-f22.xml.in.h:171 ../comps-f23.xml.in.h:169
 #: ../comps-f24.xml.in.h:182 ../comps-f25.xml.in.h:182
@@ -996,7 +1006,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:170
 #: ../comps-f24.xml.in.h:183 ../comps-f25.xml.in.h:183
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "LXDE ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
 #: ../comps-f22.xml.in.h:173 ../comps-f23.xml.in.h:171
 #: ../comps-f24.xml.in.h:184 ../comps-f25.xml.in.h:184
@@ -1012,8 +1022,8 @@ msgstr "LXDE"
 #: ../comps-f24.xml.in.h:186 ../comps-f25.xml.in.h:186
 msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
 "LXDE ਇੱਕ ਹਲਕਾ X11 ਡੈਸਕਟਾਪ ਇਨਵਾਇਰਮੈਂਟ ਹੈ ਜੋ ਘੱਟ ਦਰਜੇ ਦੇ ਹਾਰਡਵੇਅਰ ਵਾਲੇ "
 "ਕੰਪਿਊਟਰਾਂ ਲਈ ਬਣਾਇਆ ਹੈ ਜਿਵੇਂ ਨੈੱਟਬੁੱਕ, ਮੋਬਾਈਲ ਜੰਤਰ ਜਾਂ ਪੁਰਾਣੇ ਕੰਪਿਊਟਰ।"
@@ -1026,52 +1036,47 @@ msgstr ""
 #: ../comps-f22.xml.in.h:177 ../comps-f23.xml.in.h:175
 #: ../comps-f24.xml.in.h:188 ../comps-f25.xml.in.h:188
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE ਔਫਿਸ"
 
 #: ../comps-f22.xml.in.h:178 ../comps-f23.xml.in.h:176
 #: ../comps-f24.xml.in.h:189 ../comps-f25.xml.in.h:189
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "LXDE ਲਈ ਆਫਿਸ ਸੂਟ"
 
 #: ../comps-f22.xml.in.h:179 ../comps-f23.xml.in.h:177
 #: ../comps-f24.xml.in.h:190 ../comps-f25.xml.in.h:190
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "ਕਈ ਕੰਮਾਂ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+msgstr "LXQt ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਸਮੂਹ"
+msgstr "LXQt ਡੈਸਕਟਾਪ ਲਈ ਆਮ ਵਰਤੀਆਂ ਜਾਂਦੀਆਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦਾ ਸਮੂਹ ਹੈ"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
-"low hardware specifications like netbooks, mobile devices or older computers."
-""
+"low hardware specifications like netbooks, mobile devices or older "
+"computers."
 msgstr ""
-"LXDE ਇੱਕ ਹਲਕਾ X11 ਡੈਸਕਟਾਪ ਇਨਵਾਇਰਮੈਂਟ ਹੈ ਜੋ ਘੱਟ ਦਰਜੇ ਦੇ ਹਾਰਡਵੇਅਰ ਵਾਲੇ "
+"LXQt ਇੱਕ ਹਲਕਾ X11 ਡੈਸਕਟਾਪ ਇਨਵਾਇਰਮੈਂਟ ਹੈ ਜੋ ਘੱਟ ਦਰਜੇ ਦੇ ਹਾਰਡਵੇਅਰ ਵਾਲੇ "
 "ਕੰਪਿਊਟਰਾਂ ਲਈ ਬਣਾਇਆ ਹੈ ਜਿਵੇਂ ਨੈੱਟਬੁੱਕ, ਮੋਬਾਈਲ ਜੰਤਰ ਜਾਂ ਪੁਰਾਣੇ ਕੰਪਿਊਟਰ।"
 
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
-#, fuzzy
 msgid "Multimedia support for LXQt"
-msgstr "ਕੇਡੀਈ ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
+msgstr "LXQt ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
-#, fuzzy
 msgid "LXQt Office"
-msgstr "ਕੇਡੀਈ ਆਫਿਸ"
+msgstr "LXQt ਆਫਿਸ"
 
 #: ../comps-f22.xml.in.h:185 ../comps-f23.xml.in.h:183
 #: ../comps-f24.xml.in.h:196 ../comps-f25.xml.in.h:196
@@ -1079,12 +1084,14 @@ msgid "Office suite for LXQt"
 msgstr ""
 
 #: ../comps-f22.xml.in.h:186 ../comps-f23.xml.in.h:184
-#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197 ../comps-el5.xml.in.h:49
+#: ../comps-f24.xml.in.h:197 ../comps-f25.xml.in.h:197
+#: ../comps-el5.xml.in.h:49
 msgid "Mail Server"
 msgstr "ਮੇਲ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:187 ../comps-f23.xml.in.h:185
-#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198 ../comps-el5.xml.in.h:50
+#: ../comps-f24.xml.in.h:198 ../comps-f25.xml.in.h:198
+#: ../comps-el5.xml.in.h:50
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr ""
 "ਇਸ ਪੈਕੇਜ ਤੁਹਾਨੂੰ ਇੱਕ IMAP ਜਾਂ SMTP ਮੇਲ ਸਰਵਰ ਦੀ ਸੰਰਚਨਾ ਕਰਨ ਵਿੱਚ ਸਹਾਇਕ ਸ਼ਾਮਿਲ "
@@ -1115,15 +1122,13 @@ msgstr "ਮਰਾਠੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:192 ../comps-f23.xml.in.h:190
 #: ../comps-f24.xml.in.h:203 ../comps-f25.xml.in.h:203
-#, fuzzy
 msgid "MATE Applications"
-msgstr "ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ"
+msgstr "ਮੇਟ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "ਕਈ ਕੰਮਾਂ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
+msgstr "ਮੇਟ ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1184,13 +1189,13 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
-"ਵਿੰਡੋਜ਼ ਟਾਰਗੇਟ ਨਾਲ ੩੨-ਬਿੱਟ ਅੰਤਰ-ਕੰਪਾਇਲ ਕਰਨ, ਟੈਸਟ ਕਰਨ ਅਤੇ ਇੰਸਟਾਲਰ ਬਣਾਉਣ ਵਾਸਤੇ "
-"ਸਹਿਯੋਗ, ਸਭ ਕੁਝ ਫੇਡੋਰਾ ਵਿੱਚ।"
+"ਵਿੰਡੋਜ਼ ਟਾਰਗੇਟ ਨਾਲ ੩੨-ਬਿੱਟ ਅੰਤਰ-ਕੰਪਾਇਲ ਕਰਨ, ਟੈਸਟ ਕਰਨ ਅਤੇ ਇੰਸਟਾਲਰ ਬਣਾਉਣ ਵਾਸਤੇ"
+" ਸਹਿਯੋਗ, ਸਭ ਕੁਝ ਫੇਡੋਰਾ ਵਿੱਚ।"
 
 #: ../comps-f22.xml.in.h:204 ../comps-f23.xml.in.h:202
 #: ../comps-f24.xml.in.h:215 ../comps-f25.xml.in.h:215
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f22.xml.in.h:205 ../comps-f23.xml.in.h:203
 #: ../comps-f24.xml.in.h:216 ../comps-f25.xml.in.h:216
@@ -1225,7 +1230,8 @@ msgid "Nepali Support"
 msgstr "ਨੇਪਾਲੀ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:211 ../comps-f23.xml.in.h:209
-#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222 ../comps-el5.xml.in.h:51
+#: ../comps-f24.xml.in.h:222 ../comps-f25.xml.in.h:222
+#: ../comps-el5.xml.in.h:51
 msgid "Network Servers"
 msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ"
 
@@ -1234,8 +1240,8 @@ msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ"
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
-"ਇਸ ਪੈਕੇਜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਅਧਾਰਿਤ ਸਰਵਰ, ਜਿਵੇ ਕਿ DHCP, ਕੀਰਬੀਰੋਸ ਅਤੇ NIS ਆਦਿ, ਸ਼ਾਮਿਲ "
-"ਹਨ।"
+"ਇਸ ਪੈਕੇਜ ਵਿੱਚ ਨੈੱਟਵਰਕ ਅਧਾਰਿਤ ਸਰਵਰ, ਜਿਵੇ ਕਿ DHCP, ਕੀਰਬੀਰੋਸ ਅਤੇ NIS ਆਦਿ, ਸ਼ਾਮਿਲ"
+" ਹਨ।"
 
 #: ../comps-f22.xml.in.h:213 ../comps-f23.xml.in.h:211
 #: ../comps-f24.xml.in.h:224 ../comps-f25.xml.in.h:224
@@ -1250,12 +1256,14 @@ msgid ""
 msgstr ""
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
-#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226 ../comps-el5.xml.in.h:53
+#: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226
+#: ../comps-el5.xml.in.h:53
 msgid "News Server"
 msgstr "ਨਿਊਜ਼ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:216 ../comps-f23.xml.in.h:214
-#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227 ../comps-el5.xml.in.h:54
+#: ../comps-f24.xml.in.h:227 ../comps-f25.xml.in.h:227
+#: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
 "ਇਹ ਗਰੁੱਪ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਸਿਸਟਮ ਨੂੰ ਖਬਰਾਂ ਸਰਵਰ ਦੇ ਰੂਪ ਵਿੱਚ ਸੰਰਚਿਤ ਕਰਨ ਵਿੱਚ "
@@ -1277,12 +1285,14 @@ msgstr ""
 "ਕਰਨ ਲਈ ਸਹਿਯੋਗ।"
 
 #: ../comps-f22.xml.in.h:219 ../comps-f23.xml.in.h:217
-#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230 ../comps-el5.xml.in.h:55
+#: ../comps-f24.xml.in.h:230 ../comps-f25.xml.in.h:230
+#: ../comps-el5.xml.in.h:55
 msgid "Office/Productivity"
 msgstr "ਦਫਤਰੀ/ਉਤਪਾਦਨ"
 
 #: ../comps-f22.xml.in.h:220 ../comps-f23.xml.in.h:218
-#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231 ../comps-el5.xml.in.h:56
+#: ../comps-f24.xml.in.h:231 ../comps-f25.xml.in.h:231
+#: ../comps-el5.xml.in.h:56
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr "ਐਪਲੀਕੇਸ਼ਨਾਂ ਵਿੱਚ ਦਫਤਰੀ ਟੂਲ, PDF ਦਰਸ਼ਕ ਤੇ ਹੋਰ ਕਈ ਵੀ ਸ਼ਾਮਿਲ ਹਨ।"
 
@@ -1294,7 +1304,7 @@ msgstr "ਆਨਲਾਈਨ ਮੱਦਦ ਅਤੇ ਡੌਕੂਮੈਂਟੇਸ
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "ਓੜੀਸਾ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1309,7 +1319,7 @@ msgstr "Perl ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਵਿੱਚ ਪਰ�
 #: ../comps-f22.xml.in.h:225 ../comps-f23.xml.in.h:223
 #: ../comps-f24.xml.in.h:236 ../comps-f25.xml.in.h:236
 msgid "Perl for Web"
-msgstr ""
+msgstr "ਵੈੱਬ ਲਈ ਪਰਲ"
 
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
@@ -1325,7 +1335,7 @@ msgstr "ਪਰਸੀਆਈ ਸਹਿਯੋਗ"
 #: ../comps-f22.xml.in.h:228 ../comps-f23.xml.in.h:226
 #: ../comps-f24.xml.in.h:239 ../comps-f25.xml.in.h:239
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f22.xml.in.h:229 ../comps-f23.xml.in.h:227
 #: ../comps-f24.xml.in.h:240 ../comps-f25.xml.in.h:240
@@ -1424,8 +1434,8 @@ msgstr "ਸੁਰੱਖਿਆ ਲੈਬ"
 #: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:245
 #: ../comps-f24.xml.in.h:258 ../comps-f25.xml.in.h:258
 msgid ""
-"Tools for security auditing, forensics, system rescue, and teaching security "
-"testing methodologies."
+"Tools for security auditing, forensics, system rescue, and teaching security"
+" testing methodologies."
 msgstr ""
 
 #: ../comps-f22.xml.in.h:248 ../comps-f23.xml.in.h:246
@@ -1442,7 +1452,7 @@ msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਸਾਰੇ Red Hat ਦੇ ਪਸ�
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "ਸਰਵਰ ਸਿਸਟਮਾਂ ਲਈ ਹਾਰਡਵੇਅਰ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
@@ -1453,7 +1463,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "ਫੇਡੋਰਾ ਸਰਵਰ ਉਤਪਾਦ ਕੋਰ"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
@@ -1493,12 +1503,14 @@ msgstr ""
 "ਕਰਨ ਲਈ ਸਹਾਈ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
-#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270 ../comps-el5.xml.in.h:57
+#: ../comps-f24.xml.in.h:270 ../comps-f25.xml.in.h:270
+#: ../comps-el5.xml.in.h:57
 msgid "Sound and Video"
 msgstr "ਆਵਾਜ਼ ਅਤੇ ਵਿਡੀਓ"
 
 #: ../comps-f22.xml.in.h:260 ../comps-f23.xml.in.h:258
-#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271 ../comps-el5.xml.in.h:58
+#: ../comps-f24.xml.in.h:271 ../comps-f25.xml.in.h:271
+#: ../comps-el5.xml.in.h:58
 msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
@@ -1548,12 +1560,14 @@ msgid "A software playground for learning about learning."
 msgstr "ਸਿੱਖਣ ਲਈ ਤਿਆਰ ਕੀਤਾ ਸਾਫਟਵੇਅਰ ਪਲੇਅਗਰਾਊਂਡ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:269 ../comps-f23.xml.in.h:267
-#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280 ../comps-el5.xml.in.h:59
+#: ../comps-f24.xml.in.h:280 ../comps-f25.xml.in.h:280
+#: ../comps-el5.xml.in.h:59
 msgid "System Tools"
 msgstr "ਸਿਸਟਮ ਟੂਲ"
 
 #: ../comps-f22.xml.in.h:270 ../comps-f23.xml.in.h:268
-#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281 ../comps-el5.xml.in.h:60
+#: ../comps-f24.xml.in.h:281 ../comps-f25.xml.in.h:281
+#: ../comps-el5.xml.in.h:60
 msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
@@ -1574,7 +1588,8 @@ msgid "Telugu Support"
 msgstr "ਤੇਲਗੂ ਸਹਿਯੋਗ"
 
 #: ../comps-f22.xml.in.h:273 ../comps-f23.xml.in.h:271
-#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284 ../comps-el5.xml.in.h:61
+#: ../comps-f24.xml.in.h:284 ../comps-f25.xml.in.h:284
+#: ../comps-el5.xml.in.h:61
 msgid "Text-based Internet"
 msgstr "ਟੈਕਸਟ-ਅਧਾਰਿਤ ਇੰਟਰਨੈੱਟ"
 
@@ -1585,8 +1600,8 @@ msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X "
-"ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
+"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X"
+" ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1603,12 +1618,12 @@ msgstr "ਤਿੱਬਤੀ ਸਹਿਯੋਗ"
 #: ../comps-f22.xml.in.h:277 ../comps-f23.xml.in.h:277
 #: ../comps-f24.xml.in.h:290 ../comps-f25.xml.in.h:290
 msgid "Tomcat"
-msgstr ""
+msgstr "ਟੋਮਕੈਟ"
 
 #: ../comps-f22.xml.in.h:278 ../comps-f23.xml.in.h:278
 #: ../comps-f24.xml.in.h:291 ../comps-f25.xml.in.h:291
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "ਟੋਮੈਕਟ ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਸਰਵਰ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:279 ../comps-f23.xml.in.h:279
 #: ../comps-f24.xml.in.h:292 ../comps-f25.xml.in.h:292
@@ -1653,17 +1668,20 @@ msgid "Basic Web Server"
 msgstr "ਮੁੱਢਲਾ ਵੈੱਬ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:287 ../comps-f23.xml.in.h:289
-#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302 ../comps-el5.xml.in.h:66
+#: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302
+#: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
 msgstr "ਇਹ ਟੂਲ ਤੁਹਾਨੂੰ ਸਿਸਟਮ ਤੇ ਵੈੱਬ ਸਰਵਰ ਚਲਾਉਣ ਵਿੱਚ ਸਹਾਇਕ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:290
-#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303 ../comps-el5.xml.in.h:67
+#: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303
+#: ../comps-el5.xml.in.h:67
 msgid "Window Managers"
 msgstr "ਵਿੰਡੋ ਮੈਨੇਜਰ"
 
 #: ../comps-f22.xml.in.h:289 ../comps-f23.xml.in.h:291
-#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304 ../comps-el5.xml.in.h:68
+#: ../comps-f24.xml.in.h:304 ../comps-f25.xml.in.h:304
+#: ../comps-el5.xml.in.h:68
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr "ਸਧਾਰਨ ਵਿੰਡੋ ਮੈਨੇਜਰ, ਜੋ ਕਿ ਵੱਡੇ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ ਦੇ ਭਾਗ ਨਹੀਂ ਹਨ।"
@@ -1671,13 +1689,12 @@ msgstr "ਸਧਾਰਨ ਵਿੰਡੋ ਮੈਨੇਜਰ, ਜੋ ਕਿ ਵੱ
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "ਫੇਡੋਰਾ ਵਰਕਸਟੇਸ਼ਨ ਉਤਪਾਦ ਕੋਰ"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "ਵਰਕਸਟੇਸ਼ਨ ਲਈ ਪਾਲਸੀ ਪੈਕੇਜ"
+msgstr "ਵਰਕਸਟੇਸ਼ਨ ਉਤਪਾਦ ਲਈ ਲਾਜ਼ਮੀ ਪੈਕੇਜ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1798,9 +1815,8 @@ msgid "Xfce Desktop"
 msgstr ""
 
 #: ../comps-f22.xml.in.h:314 ../comps-f23.xml.in.h:316
-#, fuzzy
 msgid "Fedora Server"
-msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ"
+msgstr "ਫੇਡੋਰਾ ਸਰਵਰ"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1812,15 +1828,14 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:319 ../comps-f23.xml.in.h:321
 #: ../comps-f24.xml.in.h:337 ../comps-f25.xml.in.h:337
-#, fuzzy
 msgid "Fedora Workstation"
-msgstr "ਵਰਕਸਟੇਸ਼ਨ ਪਾਲਸੀ"
+msgstr "ਫੇਡੋਰਾ ਵਰਕਸਟੇਸ਼ਨ"
 
 #: ../comps-f22.xml.in.h:320 ../comps-f23.xml.in.h:322
 #: ../comps-f24.xml.in.h:338 ../comps-f25.xml.in.h:338
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
-msgstr ""
+msgstr "ਫੇਡੋਰਾ ਵਰਕਸਟੇਸ਼ਨ ਲੈਪਟਾਪ ਤੇ ਪੀਸੀ ਲਈ ਵਰਤੋਂਕਾਰ ਲਈ ਸੌਖਾ ਡੈਸਕਟਾਪ ਸਿਸਟਮ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:321 ../comps-f23.xml.in.h:323
 #: ../comps-f24.xml.in.h:339 ../comps-f25.xml.in.h:339
@@ -1829,9 +1844,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:322 ../comps-f23.xml.in.h:324
 #: ../comps-f24.xml.in.h:340 ../comps-f25.xml.in.h:340
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "ਡੈਸਕਟਾਪ"
+msgstr "LXQt ਡੈਸਕਟਾਪ"
 
 #: ../comps-f22.xml.in.h:323 ../comps-f23.xml.in.h:325
 #: ../comps-f24.xml.in.h:341 ../comps-f25.xml.in.h:341
@@ -1846,9 +1860,8 @@ msgstr "ਮੇਟ ਡੈਸਕਟਾਪ"
 
 #: ../comps-f22.xml.in.h:325 ../comps-f23.xml.in.h:327
 #: ../comps-f24.xml.in.h:343 ../comps-f25.xml.in.h:343
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "ਮੇਲ ਸਰਵਰ"
+msgstr "ਫੇਡੋਰਾ ਕਲਾਉਡ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:326 ../comps-f23.xml.in.h:328
 #: ../comps-f24.xml.in.h:344 ../comps-f25.xml.in.h:344
@@ -1866,8 +1879,9 @@ msgid "Workstation for software, hardware, graphics, or content development."
 msgstr "ਸਾਫਟਵੇਅਰ, ਹਾਰਡਵੇਅਰ, ਗਾਰਫਿਕਸ ਜਾਂ ਸਮੱਗਰੀ ਬਣਾਉਣ ਲਈ ਵਰਕਸਟੇਸ਼ਨ ਹੈ।"
 
 #: ../comps-f22.xml.in.h:329 ../comps-f23.xml.in.h:331
-#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347 ../comps-el5.xml.in.h:65
-#: ../comps-el6.xml.in.h:280 ../comps-epel7.xml.in.h:282
+#: ../comps-f24.xml.in.h:347 ../comps-f25.xml.in.h:347
+#: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
+#: ../comps-epel7.xml.in.h:282
 msgid "Web Server"
 msgstr "ਵੈੱਬ ਸਰਵਰ"
 
@@ -1879,7 +1893,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:331 ../comps-f23.xml.in.h:333
 #: ../comps-f24.xml.in.h:349 ../comps-f25.xml.in.h:349
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "ਇੰਫਰਾਸਟੱਕਚਰ ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:332 ../comps-f23.xml.in.h:334
 #: ../comps-f24.xml.in.h:350 ../comps-f25.xml.in.h:350
@@ -1905,12 +1919,13 @@ msgid ""
 "widgets, and many powerful KDE applications."
 msgstr ""
 "ਕੇਡੀਈ ਐਸਸੀ ਵਿੱਚ ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਡੈਸਕਟਾਪ, ਉੱਚ-ਸੰਰਚਨਾ ਗਰਾਫਿਕਲ ਯੂਜ਼ਰ ਇੰਟਰਫੇਸ ਸ਼ਾਮਿਲ "
-"ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈੱਟ ਤੇ ਕੋਈ ਹੋਰ ਮਜ਼ਬੂਤ "
-"ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ਾਮਿਲ ਹਨ।"
+"ਹੈ, ਜਿਸ ਵਿੱਚ ਪੈਨਲ, ਡੈਸਕਟਾਪ, ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਡੈਸਕਟਾਪ ਵਿਦਜੈੱਟ ਤੇ ਕੋਈ ਹੋਰ ਮਜ਼ਬੂਤ"
+" ਕੇਡੀਈ ਐਪਲੀਕੇਸ਼ਨ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:336 ../comps-f23.xml.in.h:338
-#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354 ../comps-el5.xml.in.h:73
-#: ../comps-el6.xml.in.h:295 ../comps-epel7.xml.in.h:298
+#: ../comps-f24.xml.in.h:354 ../comps-f25.xml.in.h:354
+#: ../comps-el5.xml.in.h:73 ../comps-el6.xml.in.h:295
+#: ../comps-epel7.xml.in.h:298
 msgid "Applications"
 msgstr "ਐਪਲੀਕੇਸ਼ਨ"
 
@@ -1925,13 +1940,15 @@ msgid "GNOME Desktop"
 msgstr "ਗਨੋਮ ਡੈਸਕਟਾਪ"
 
 #: ../comps-f22.xml.in.h:339 ../comps-f23.xml.in.h:341
-#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357 ../comps-el5.xml.in.h:75
-#: ../comps-el6.xml.in.h:297 ../comps-epel7.xml.in.h:300
+#: ../comps-f24.xml.in.h:357 ../comps-f25.xml.in.h:357
+#: ../comps-el5.xml.in.h:75 ../comps-el6.xml.in.h:297
+#: ../comps-epel7.xml.in.h:300
 msgid "Development"
 msgstr "ਡਿਵੈਲਪਮੈਂਟ"
 
 #: ../comps-f22.xml.in.h:340 ../comps-f23.xml.in.h:342
-#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358 ../comps-el5.xml.in.h:76
+#: ../comps-f24.xml.in.h:358 ../comps-f25.xml.in.h:358
+#: ../comps-el5.xml.in.h:76
 msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
@@ -1939,22 +1956,26 @@ msgstr ""
 "ਪੈਕੇਜ, ਜੋ ਕਿ ਐਪਲੀਕੇਸ਼ਨ ਡਿਵੈਲਪ ਅਤੇ ਬਿਲਡ ਕਰਨ ਲਈ ਸਹੂਲਤਾਂ ਉਪਲੱਬਧ ਕਰਵਾਉਦੇ ਹਨ।"
 
 #: ../comps-f22.xml.in.h:341 ../comps-f23.xml.in.h:343
-#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359 ../comps-el5.xml.in.h:77
+#: ../comps-f24.xml.in.h:359 ../comps-f25.xml.in.h:359
+#: ../comps-el5.xml.in.h:77
 msgid "Servers"
 msgstr "ਸਰਵਰ"
 
 #: ../comps-f22.xml.in.h:342 ../comps-f23.xml.in.h:344
-#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360 ../comps-el5.xml.in.h:78
+#: ../comps-f24.xml.in.h:360 ../comps-f25.xml.in.h:360
+#: ../comps-el5.xml.in.h:78
 msgid "Software used for running network servers"
 msgstr "ਨੈੱਟਵਰਕ ਸਰਵਰ ਚਲਾਉਣ ਲਈ ਲੋੜੀਦੇ ਸਾਫਟਵੇਅਰ"
 
 #: ../comps-f22.xml.in.h:343 ../comps-f23.xml.in.h:345
-#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361 ../comps-el5.xml.in.h:79
+#: ../comps-f24.xml.in.h:361 ../comps-f25.xml.in.h:361
+#: ../comps-el5.xml.in.h:79
 msgid "Base System"
 msgstr "ਮੁੱਢਲਾ ਸਿਸਟਮ"
 
 #: ../comps-f22.xml.in.h:344 ../comps-f23.xml.in.h:346
-#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362 ../comps-el5.xml.in.h:80
+#: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362
+#: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
 msgstr "ਸਿਸਟਮ ਦੇ ਕਈ ਮੁੱਢਲੇ ਭਾਗ ਹਨ।"
 
@@ -1985,7 +2006,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "ਐਂਸੀਬਲ ਨੋਡ"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
@@ -2013,7 +2034,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "ਹਵਾਈ"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
@@ -2053,7 +2074,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "ਫੇਡੋਰਾ ਕਸਟਮ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
@@ -2061,7 +2082,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "ਫੇਡੋਰਾ ਸਰਵਰ ਐਡੀਸ਼ਨ"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
@@ -2102,7 +2123,8 @@ msgid ""
 msgstr ""
 "ਬੇਸ ਗਰਾਫਿਕਲ (X) ਯੂਜਰ ਇੰਟਰਫੇਸ ਨੂੰ ਇਸਤੇਮਾਲ ਕਰਨ ਲਈ ਇਹ ਪੈਕੇਜ ਗਰੁੱਪ ਇੰਸਟਾਲ ਕਰੋ।"
 
-#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42 ../comps-epel7.xml.in.h:42
+#: ../comps-el5.xml.in.h:12 ../comps-el6.xml.in.h:42
+#: ../comps-epel7.xml.in.h:42
 msgid "Czech Support"
 msgstr "ਚੈੱਕ ਸਹਿਯੋਗ"
 
@@ -2171,8 +2193,8 @@ msgstr "ਕੇਡੀਈ (K ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂ�
 
 #: ../comps-el5.xml.in.h:46
 msgid ""
-"KDE is a powerful, graphical user interface which includes a panel, desktop, "
-"system icons, and a graphical file manager."
+"KDE is a powerful, graphical user interface which includes a panel, desktop,"
+" system icons, and a graphical file manager."
 msgstr ""
 "ਕੇਡੀਈ ਇੱਕ ਸ਼ਕਤੀਸ਼ਾਲੀ, ਗਰਾਫਿਕਲ ਯੂਜਰ ਇੰਟਰਫੇਸ ਹੈ, ਜਿਸ ਵਿੱਚ ਇੱਕ ਪੈਨਲ, ਡੈਸਕਟਾਪ, "
 "ਸਿਸਟਮ ਆਈਕਾਨ ਅਤੇ ਗਰਾਫਿਕਲ ਫਾਇਲ ਮੈਨੇਜਰ ਸ਼ਾਮਿਲ ਹੈ।"
@@ -2190,8 +2212,8 @@ msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X "
-"ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
+"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X"
+" ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
 
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
@@ -2560,8 +2582,8 @@ msgstr "ਇੰਫੀਬੈਂਡ ਸਹਿਯੋਗ"
 
 #: ../comps-el6.xml.in.h:108 ../comps-epel7.xml.in.h:108
 msgid ""
-"Software designed for supporting clustering and grid connectivity using RDMA-"
-"based InfiniBand and iWARP fabrics."
+"Software designed for supporting clustering and grid connectivity using "
+"RDMA-based InfiniBand and iWARP fabrics."
 msgstr ""
 
 #: ../comps-el6.xml.in.h:110 ../comps-epel7.xml.in.h:110
