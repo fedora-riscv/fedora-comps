@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Audrey Simons <asimons@redhat.com>, 2003, 2004
 # troubi51 <corentin.perard@gmail.com>, 2009
@@ -18,7 +18,7 @@
 # Kévin Raymond <shaiton@fedoraproject.org>, 2011, 2012
 # Sam Friedmann <sam.friedmann@redhat.com>, 2009
 # Thomas Canniot <mrtom@fedoraproject.org>, 2006, 2007, 2008, 2009
-# Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2016. #zanata
+# Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2016. #zanata, 2020.
 # José Fournier <jaaf64@zoraldia.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 msgid ""
@@ -26,15 +26,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-04-23 01:46+0000\n"
+"PO-Revision-Date: 2020-03-09 23:49+0000\n"
 "Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
-"Language-Team: French (http://www.transifex.com/projects/p/comps/language/fr/)\n"
+"Language-Team: French <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -85,7 +86,7 @@ msgstr "Production audio"
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
 msgid "Various tools for audio synthesis and music production."
-msgstr "Outils variés de synthèse audio et de production de musique"
+msgstr "Outils variés de synthèse audio et de production de musique."
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -548,7 +549,7 @@ msgstr "Empaqueteur Fedora"
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Outils et utilitaires nécessaires pour un empaqueteur Fedora."
+msgstr "Outils et utilitaires nécessaires pour un empaqueteur Fedora"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
@@ -614,7 +615,7 @@ msgstr "Serveur FTP"
 #: ../comps-f22.xml.in.h:96 ../comps-f23.xml.in.h:94 ../comps-f24.xml.in.h:98
 #: ../comps-f25.xml.in.h:98 ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
-msgstr "Ces outils vous permettent d'exécuter un serveur FTP sur le système. "
+msgstr "Ces outils vous permettent d'exécuter un serveur FTP sur le système."
 
 #: ../comps-f22.xml.in.h:97 ../comps-f23.xml.in.h:95 ../comps-f24.xml.in.h:99
 #: ../comps-f25.xml.in.h:99 ../comps-el5.xml.in.h:29
@@ -777,7 +778,7 @@ msgstr "Haskell"
 msgid "Support for developing programs in the Haskell programming language."
 msgstr ""
 "Prise en charge du développement d'applications en langage de programmation "
-"Haskell"
+"Haskell."
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
@@ -1185,7 +1186,7 @@ msgstr "Applications MATE"
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
 msgid "Applications for the MATE Desktop."
-msgstr "Applications pour le bureau MATE"
+msgstr "Applications pour le bureau MATE."
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1392,7 +1393,7 @@ msgstr "Perl pour le Web"
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
 msgid "Basic Perl web application support."
-msgstr "Prise en charge de base de Perl pour les applications web"
+msgstr "Prise en charge de base de Perl pour les applications web."
 
 #: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:225
 #: ../comps-f24.xml.in.h:238 ../comps-f25.xml.in.h:238
@@ -1427,7 +1428,7 @@ msgstr ""
 #: ../comps-f24.xml.in.h:243 ../comps-f25.xml.in.h:243
 #: ../comps-el6.xml.in.h:199 ../comps-epel7.xml.in.h:201
 msgid "Punjabi Support"
-msgstr "Prise en charge du "
+msgstr "Prise en charge du Pendjabi"
 
 #: ../comps-f22.xml.in.h:233 ../comps-f23.xml.in.h:231
 #: ../comps-f24.xml.in.h:244 ../comps-f25.xml.in.h:244
@@ -1437,7 +1438,7 @@ msgstr "Python"
 #: ../comps-f22.xml.in.h:234 ../comps-f23.xml.in.h:232
 #: ../comps-f24.xml.in.h:245 ../comps-f25.xml.in.h:245
 msgid "Basic Python web application support."
-msgstr "Prise en charge de base de Python pour les applications web"
+msgstr "Prise en charge de base de Python pour les applications web."
 
 #: ../comps-f22.xml.in.h:235 ../comps-f23.xml.in.h:233
 #: ../comps-f24.xml.in.h:246 ../comps-f25.xml.in.h:246
@@ -1452,7 +1453,7 @@ msgstr "Ensemble de paquets pour le développement robotique"
 #: ../comps-f22.xml.in.h:237 ../comps-f23.xml.in.h:235
 #: ../comps-f24.xml.in.h:248 ../comps-f25.xml.in.h:248
 msgid "RPM Development Tools"
-msgstr "Outils de développement RPM "
+msgstr "Outils de développement RPM"
 
 #: ../comps-f22.xml.in.h:238 ../comps-f23.xml.in.h:236
 #: ../comps-f24.xml.in.h:249 ../comps-f25.xml.in.h:249
@@ -1469,7 +1470,7 @@ msgstr "Ruby"
 #: ../comps-f22.xml.in.h:240 ../comps-f23.xml.in.h:238
 #: ../comps-f24.xml.in.h:251 ../comps-f25.xml.in.h:251
 msgid "Basic support for the Ruby programming language."
-msgstr "Prise en charge de base pour le langage de programmation Ruby"
+msgstr "Prise en charge de base pour le langage de programmation Ruby."
 
 #: ../comps-f22.xml.in.h:241 ../comps-f23.xml.in.h:239
 #: ../comps-f24.xml.in.h:252 ../comps-f25.xml.in.h:252
@@ -1479,7 +1480,7 @@ msgstr "Ruby on Rails"
 #: ../comps-f22.xml.in.h:242 ../comps-f23.xml.in.h:240
 #: ../comps-f24.xml.in.h:253 ../comps-f25.xml.in.h:253
 msgid "Ruby on Rails web application stack."
-msgstr "Pile applicative web Ruby on Rails"
+msgstr "Pile applicative web Ruby on Rails."
 
 #: ../comps-f22.xml.in.h:243 ../comps-f23.xml.in.h:241
 #: ../comps-f24.xml.in.h:254 ../comps-f25.xml.in.h:254
@@ -1624,7 +1625,7 @@ msgstr "Activités additionelles pour Sugar"
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr "Activités additionelles pour utiliser avec l'environnement Sugar"
+msgstr "Activités additionnelles pour utiliser avec l'environnement Sugar."
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1975,9 +1976,7 @@ msgstr "Serveur Web"
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:332
 #: ../comps-f24.xml.in.h:348 ../comps-f25.xml.in.h:348
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
-"Serveur pour la mise à disposition de contenu statique et dynamique sur "
-"Internet"
+msgstr "Serveur de contenu statique et dynamique sur Internet."
 
 #: ../comps-f22.xml.in.h:331 ../comps-f23.xml.in.h:333
 #: ../comps-f24.xml.in.h:349 ../comps-f25.xml.in.h:349
@@ -2007,8 +2006,8 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
-"La compilation de logiciels KDE contient le bureau Plasma KDE, une interface"
-" graphique  utilisateur hautement configurable qui contient un tableau de "
+"La compilation de logiciels KDE contient le bureau Plasma KDE, une interface "
+"graphique utilisateur hautement configurable qui contient un tableau de "
 "bord, un bureau, des icônes systèmes, des widgets de bureau ainsi que de "
 "nombreuses applications KDE."
 
@@ -2704,7 +2703,7 @@ msgstr "Utilitaires permettant de contrôler le matériel"
 msgid "A set of tools to monitor server hardware"
 msgstr ""
 "Un ensemble d'outils permettant de gérer les composants physiques d'un "
-"serveur."
+"serveur"
 
 #: ../comps-el6.xml.in.h:102 ../comps-epel7.xml.in.h:102
 msgid "Hiligaynon Support"
@@ -2760,7 +2759,7 @@ msgstr "Navigateur web Firefox"
 
 #: ../comps-el6.xml.in.h:116 ../comps-epel7.xml.in.h:116
 msgid "Inuktitut Support"
-msgstr "Prise en charge de l'inuktitut "
+msgstr "Prise en charge de l'inuktitut"
 
 #: ../comps-el6.xml.in.h:117 ../comps-epel7.xml.in.h:117
 msgid "Irish Support"
@@ -3153,7 +3152,7 @@ msgstr "Client de stockage FCoE"
 
 #: ../comps-el6.xml.in.h:226 ../comps-epel7.xml.in.h:228
 msgid "Fiber Channel over Ethernet support"
-msgstr "Prise en charge du Fibre Channel sur Ethernet."
+msgstr "Prise en charge du Fibre Channel over Ethernet"
 
 #: ../comps-el6.xml.in.h:227 ../comps-epel7.xml.in.h:229
 msgid "iSCSI Storage Client"
