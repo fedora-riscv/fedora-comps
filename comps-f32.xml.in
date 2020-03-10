@@ -4112,6 +4112,7 @@
       <packagereq>system-config-printer-applet</packagereq>
       <packagereq>thunderbird</packagereq>
       <packagereq>transmission-gtk</packagereq>
+      <packagereq>usermode-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfburn</packagereq>
