@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Egemen Metin Turan <mturan@aegee-ankara.org>, 2006, 2007
@@ -9,20 +9,22 @@
 # Necdet Yücel <necdetyucel@gmail.com>, 2012
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Emin Tufan Çetin <etcetin@gmail.com>, 2017. #zanata
+# Oğuz Ersen <oguzersen@protonmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2017-09-30 07:48+0000\n"
-"Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>\n"
-"Language-Team: Turkish (http://www.transifex.com/projects/p/comps/language/tr/)\n"
+"PO-Revision-Date: 2020-03-12 14:38+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+"X-Generator: Weblate 3.11.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -45,7 +47,7 @@ msgid ""
 "This group is a collection of graphical administration tools for the system,"
 " such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Bu küme, kullanıcı hesaplarının yönetimi ve donanım yapılandırması gibi "
+"Bu grup, kullanıcı hesaplarının yönetimi ve donanım yapılandırması gibi "
 "sistem yönetimi araçlarının grafik ortamda çalışanlarını içerir."
 
 #: ../comps-f22.xml.in.h:5 ../comps-f23.xml.in.h:3 ../comps-f24.xml.in.h:3
@@ -85,8 +87,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
-"Bu araçlar DocBook biçeminde belgeler oluşturabilmenizi ve onları HTML, PDF,"
-" Postscript ve metin biçimlere dönüştürebilmenizi mümkün kılar."
+"Bu araçlar DocBook biçiminde belgeler oluşturabilmenizi ve onları HTML, PDF, "
+"Postscript ve metin biçimlerine dönüştürebilmenizi mümkün kılar."
 
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
@@ -139,7 +141,7 @@ msgstr "Fedora kullanıcıları ve geliştiricileri için Kitaplar ve Kılavuzla
 #: ../comps-f25.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
 #: ../comps-epel7.xml.in.h:25
 msgid "Buildsystem building group"
-msgstr "İnşa sistemi inşası kümesi"
+msgstr "Derleme sistemleri grubu"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
 #: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27
@@ -252,8 +254,8 @@ msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
-"Tüm Fedora spin'leri üzerinde Kritik Yol işlevselliği için paylaşımlı "
-"platformu sağlayan paketler takımı."
+"Tüm Fedora spinleri arasında Kritik Yol işlevselliği için paylaşılan "
+"platformu sağlayan bir paketler takımı"
 
 #: ../comps-f22.xml.in.h:41 ../comps-f23.xml.in.h:39 ../comps-f24.xml.in.h:41
 #: ../comps-f25.xml.in.h:41
@@ -265,8 +267,7 @@ msgstr "Kritik Yol (GNOME)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr ""
-"GNOME masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "GNOME masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
@@ -278,7 +279,7 @@ msgstr "Kritik Yol (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "KDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "KDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:43 ../comps-f24.xml.in.h:47
 #: ../comps-f25.xml.in.h:47
@@ -290,8 +291,7 @@ msgstr "Kritik Yol (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr ""
-"LXDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "LXDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
@@ -303,8 +303,7 @@ msgstr "Kritik Yol (LXQt)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr ""
-"LXQt masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "LXQt masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
@@ -316,8 +315,7 @@ msgstr "Kritik Yol (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr ""
-"Xfce masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "Xfce masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
@@ -341,7 +339,8 @@ msgid ""
 "These packages are targeted towards professional designers related to "
 "graphics, web and animation."
 msgstr ""
-"Bu paketler grafik, ağ ve animasyonla ilgili uzman tasarımcıları hedef alır."
+"Bu paketler grafik, web ve animasyon ile ilgili profesyonel tasarımcılara "
+"yöneliktir."
 
 #: ../comps-f22.xml.in.h:55 ../comps-f23.xml.in.h:53 ../comps-f24.xml.in.h:57
 #: ../comps-f25.xml.in.h:57
@@ -354,7 +353,7 @@ msgid ""
 "The packages in this group are core libraries needed to develop "
 "applications."
 msgstr ""
-"Bu kümedeki paketler yazılım geliştirme için gereken temel kütüphaneleri "
+"Bu gruptaki paketler yazılım geliştirme için gereken temel kütüphaneleri "
 "içerir."
 
 #: ../comps-f22.xml.in.h:57 ../comps-f23.xml.in.h:55 ../comps-f24.xml.in.h:59
@@ -421,7 +420,7 @@ msgstr "Etki Alanı Üyeliği"
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr "FreeIPA veya Active Directory Domain'e katılmak için destek."
+msgstr "FreeIPA veya Active Directory etki alanına katılma desteği"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -481,7 +480,7 @@ msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
-"Bu küme, matematiksel ve bilimsel hesaplamalar ve çizimlerden birim "
+"Bu grup, matematiksel ve bilimsel hesaplamalar ve çizimlerden birim "
 "dönüşümlerine kadar çeşitli işlemleri yapabilmenizi sağlayan paketleri "
 "içerir."
 
@@ -554,7 +553,7 @@ msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
-"Bu küme; yazı tiplerinin tasarımı, düzenlenmesi, tahrif edilmesi ve "
+"Bu grup, yazı tiplerinin tasarımı, düzenlenmesi, tahrif edilmesi ve "
 "paketlenmesinde kullanılan araçları içerir."
 
 #: ../comps-f22.xml.in.h:91 ../comps-f23.xml.in.h:89 ../comps-f24.xml.in.h:93
@@ -590,7 +589,7 @@ msgstr "FTP Sunucusu"
 #: ../comps-f22.xml.in.h:96 ../comps-f23.xml.in.h:94 ../comps-f24.xml.in.h:98
 #: ../comps-f25.xml.in.h:98 ../comps-el5.xml.in.h:28
 msgid "These tools allow you to run an FTP server on the system."
-msgstr "Bu araçlar sisteminizde bir FTP sunucusu çalıştırmanızı mümkün kılar"
+msgstr "Bu araçlar sisteminizde bir FTP sunucusu çalıştırmanızı mümkün kılar."
 
 #: ../comps-f22.xml.in.h:97 ../comps-f23.xml.in.h:95 ../comps-f24.xml.in.h:99
 #: ../comps-f25.xml.in.h:99 ../comps-el5.xml.in.h:29
@@ -651,7 +650,7 @@ msgstr "Grafiksel İnternet"
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "Bu küme; grafiksel e-posta, ağ ve sohbet istemcilerini içerir."
+msgstr "Bu grup, grafiksel e-posta, web ve sohbet istemcilerini içerir."
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
 #: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110
@@ -663,8 +662,7 @@ msgstr "Grafik"
 #: ../comps-f24.xml.in.h:111 ../comps-f25.xml.in.h:111
 #: ../comps-el5.xml.in.h:38
 msgid "This group includes packages to help you manipulate and scan images."
-msgstr ""
-"Bu küme, resimleri taramak ve düzenlemek için gereken paketleri içerir."
+msgstr "Bu grup, resimleri taramak ve düzenlemek için gereken paketleri içerir."
 
 #: ../comps-f22.xml.in.h:110 ../comps-f23.xml.in.h:108
 #: ../comps-f24.xml.in.h:112 ../comps-f25.xml.in.h:112
@@ -731,8 +729,7 @@ msgstr "Donanım Desteği"
 #: ../comps-el5.xml.in.h:40
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr ""
-"Bu küme, çeşitli donanıma özel yardımcı yazılımların ortak bir takımıdır."
+msgstr "Bu grup, donanıma özgü çeşitli yardımcı yazılımların bir takımıdır."
 
 #: ../comps-f22.xml.in.h:122 ../comps-f23.xml.in.h:120
 #: ../comps-f24.xml.in.h:124 ../comps-f25.xml.in.h:124
@@ -1012,7 +1009,7 @@ msgstr "Yük Dengeleyici"
 #: ../comps-f22.xml.in.h:171 ../comps-f23.xml.in.h:169
 #: ../comps-f24.xml.in.h:182 ../comps-f25.xml.in.h:182
 msgid "Load balancing support for network traffic"
-msgstr "Ağ trafiği için yük dengeleme desteği."
+msgstr "Ağ trafiği için yük dengeleme desteği"
 
 #: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:170
 #: ../comps-f24.xml.in.h:183 ../comps-f25.xml.in.h:183
@@ -1148,7 +1145,7 @@ msgstr "MATE Compiz"
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
 msgid "This package group adds Compiz and Emerald to MATE desktop"
-msgstr "Bu paket kümesi MATE masaüstüne Compiz ve Emerald'ı ekler"
+msgstr "Bu paket grubu MATE masaüstüne Compiz ve Emerald'ı ekler"
 
 #: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:194
 #: ../comps-f24.xml.in.h:207 ../comps-f25.xml.in.h:207
@@ -1176,7 +1173,7 @@ msgstr "Medikal Uygulamalar"
 #: ../comps-f22.xml.in.h:199 ../comps-f23.xml.in.h:197
 #: ../comps-f24.xml.in.h:210 ../comps-f25.xml.in.h:210
 msgid "This is a group of applications related to health care."
-msgstr "Bu, sağlık hizmetlerine ilişkin uygulamaların bir kümesidir."
+msgstr "Bu, sağlık hizmetlerine ilişkin bir uygulamalar grubudur."
 
 #: ../comps-f22.xml.in.h:200 ../comps-f23.xml.in.h:198
 #: ../comps-f24.xml.in.h:211 ../comps-f25.xml.in.h:211
@@ -1234,8 +1231,7 @@ msgstr "MariaDB (MySQL) Veri Tabanı"
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
-"Bu paket kümesi MariaDB (MySQL) ile kullanmak için kullanışlı paketler "
-"içerir."
+"Bu paket grubu MariaDB (MySQL) ile kullanmak için faydalı paketler içerir."
 
 #: ../comps-f22.xml.in.h:210 ../comps-f23.xml.in.h:208
 #: ../comps-f24.xml.in.h:221 ../comps-f25.xml.in.h:221
@@ -1266,8 +1262,8 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
-"Bu küme, ortak olarak kullanılan NetworkManager alt modüllerini içerir, bazı"
-" modern yapılandırmalarda istenmeyebilir."
+"Bu grup, yaygın olarak kullanılan ancak bazı modern yapılandırmalarda "
+"istenmeyebilecek NetworkManager alt modüllerini içerir."
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226
@@ -1280,7 +1276,7 @@ msgstr "Haber Sunucu"
 #: ../comps-el5.xml.in.h:54
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
-"Bu küme, sisteminizi bir haber sunucusu olarak yapılandırmanızı sağlar."
+"Bu grup, sisteminizi bir haber sunucusu olarak yapılandırmanızı mümkün kılar."
 
 #: ../comps-f22.xml.in.h:217 ../comps-f23.xml.in.h:215
 #: ../comps-f24.xml.in.h:228 ../comps-f25.xml.in.h:228
@@ -1465,8 +1461,7 @@ msgstr "Sunucu Yapılandırma Araçları"
 #: ../comps-f24.xml.in.h:260 ../comps-f25.xml.in.h:260
 msgid ""
 "This group contains all of Red Hat's custom server configuration tools."
-msgstr ""
-"Bu küme, Red Hat'ın özel sunucu yapılandırma araçlarının tümünü içerir."
+msgstr "Bu grup, Red Hat'ın tüm özel sunucu yapılandırma araçlarını içerir."
 
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
@@ -1478,8 +1473,7 @@ msgid ""
 "This group is a limited collection of tools for various hardware specific "
 "utilities."
 msgstr ""
-"Bu küme, çeşitli donanıma özel yardımcı yazılımların kısıtlı ortak "
-"takımıdır."
+"Bu grup, donanıma özgü çeşitli yardımcı yazılımların sınırlı bir takımıdır."
 
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
@@ -1489,7 +1483,7 @@ msgstr "Fedora Sunucu ürün çekirdeği"
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
 msgid "Packages mandatory for the server product."
-msgstr "Sunucu ürünü için zorunlu paketler. "
+msgstr "Sunucu ürünü için zorunlu paketler."
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1519,7 +1513,7 @@ msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr ""
-"Bu paket grubu Linux ile MS Windows (tm) sistemleri arasında dosya "
+"Bu paket grubu Linux ve MS Windows (tm) sistemleri arasında dosya "
 "paylaşımını mümkün kılar."
 
 #: ../comps-f22.xml.in.h:259 ../comps-f23.xml.in.h:257
@@ -1535,7 +1529,7 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
-"Ses disklerinin ve çokluortam dosyalarının kaydından çalınmasına kadar, bu "
+"Ses disklerinin ve çoklu ortam dosyalarının kaydından çalınmasına kadar, bu "
 "paket grubu sisteminizde ses ve görüntü çalışmaları yapmanızı mümkün kılar."
 
 #: ../comps-f22.xml.in.h:261 ../comps-f23.xml.in.h:259
@@ -1547,7 +1541,7 @@ msgstr "PostgreSQL Veri Tabanı"
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
-"Bu paket kümesi PostgreSQL ile birlikte kullanmak için kullanışlı paketler "
+"Bu paket grubu PostgreSQL ile birlikte kullanmak için faydalı paketler "
 "içerir."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
@@ -1593,8 +1587,8 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
-"Bu küme, ağ trafiğini izlemek ve SMB paylaşımlarına bağlanmak gibi işlemler "
-"için gereken türlü sistem araçlarını içerir."
+"Bu grup, ağ trafiğini izlemek ve SMB paylaşımlarına bağlanmak gibi işlemler "
+"için gereken çeşitli sistem araçlarını içerir."
 
 #: ../comps-f22.xml.in.h:271 ../comps-f23.xml.in.h:269
 #: ../comps-f24.xml.in.h:282 ../comps-f25.xml.in.h:282
@@ -1620,8 +1614,8 @@ msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Bu küme; metin tabanlı e-posta, ağ ve sohbet istemcilerini içerir. Bu "
-"paketler X Pencere Sistemini gerektirmez."
+"Bu grup, metin tabanlı e-posta, web ve sohbet istemcilerini içerir. Bu "
+"uygulamalar X Pencere Sistemini gerektirmez."
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
 #: ../comps-f24.xml.in.h:286 ../comps-f25.xml.in.h:286
@@ -1664,7 +1658,7 @@ msgstr "libvirt desteğiyle Vagrant"
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr "Bu paketler, libvirt sağlayıcı desteğiyle birlikte Vagrant'ı sağlar."
+msgstr "Bu paketler, libvirt sağlayıcı desteğiyle birlikte Vagrant'ı sağlar"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1691,7 +1685,7 @@ msgstr "Temel Web Sunucusu"
 #: ../comps-f24.xml.in.h:302 ../comps-f25.xml.in.h:302
 #: ../comps-el5.xml.in.h:66
 msgid "These tools allow you to run a Web server on the system."
-msgstr "Bu araçlar sisteminizde bir Ağ sunucusu çalıştırmanızı mümkün kılar."
+msgstr "Bu araçlar sisteminizde bir Web sunucusu çalıştırmanızı mümkün kılar."
 
 #: ../comps-f22.xml.in.h:288 ../comps-f23.xml.in.h:290
 #: ../comps-f24.xml.in.h:303 ../comps-f25.xml.in.h:303
@@ -1715,7 +1709,7 @@ msgstr "Fedora İş İstasyonu ürün çekirdeği"
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
 msgid "Packages mandatory for the workstation product."
-msgstr "İş istasyonu ürünü için zorunlu paketler. "
+msgstr "İş istasyonu ürünü için zorunlu paketler."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1727,7 +1721,7 @@ msgstr "X Yazılım Geliştirme"
 msgid ""
 "These packages allow you to develop applications for the X Window System."
 msgstr ""
-"Bu paketler X Pencere Sistemi uygulamalarını geliştirebilmenizi mümkün "
+"Bu paketler X Pencere Sistemi için uygulamalar geliştirebilmenizi mümkün "
 "kılar."
 
 #: ../comps-f22.xml.in.h:294 ../comps-f23.xml.in.h:296
@@ -1908,7 +1902,7 @@ msgstr "Yazılım, donanim, grafik veya içerik geliştirme için iş istasyonu.
 #: ../comps-el5.xml.in.h:65 ../comps-el6.xml.in.h:280
 #: ../comps-epel7.xml.in.h:282
 msgid "Web Server"
-msgstr "Ağ Sunucusu"
+msgstr "Web Sunucusu"
 
 #: ../comps-f22.xml.in.h:330 ../comps-f23.xml.in.h:332
 #: ../comps-f24.xml.in.h:348 ../comps-f25.xml.in.h:348
@@ -2002,7 +1996,7 @@ msgstr "Temel Sistem"
 #: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
-msgstr "Sistemin çeşitli önemli parçaları"
+msgstr "Sistemin çeşitli önemli parçaları."
 
 #: ../comps-f22.xml.in.h:345 ../comps-f23.xml.in.h:347
 #: ../comps-f24.xml.in.h:363 ../comps-f25.xml.in.h:363
@@ -2038,7 +2032,7 @@ msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
 msgstr ""
-"Bu küme, sistemin Ansible tarafından denetlenmesi için gereken paketleri "
+"Bu grup, sistemin Ansible tarafından kontrol edilmesi için gereken paketleri "
 "içerir."
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
@@ -2049,8 +2043,7 @@ msgstr "Kritik Yol (Hawaii)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
-msgstr ""
-"Hawaii masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı."
+msgstr "Hawaii masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
@@ -2098,8 +2091,8 @@ msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
 msgstr ""
-"Bu küme, çeşitli donanıma özel yardımcı yazılımların kısıtlı ortak "
-"takımıdır."
+"Bu grup, donanıma özgü yaygın olmayan çeşitli yardımcı yazılımların sınırlı "
+"bir takımıdır."
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
@@ -2128,8 +2121,7 @@ msgstr ""
 #: ../comps-el5.xml.in.h:4
 msgid ""
 "This group is a collection of tools and resources of Arabic environments."
-msgstr ""
-"Bu küme, Arapça ortamların kaynaklarının ve araçlarının bir takımıdır."
+msgstr "Bu grup, Arapça ortamların kaynaklarının ve araçlarının bir takımıdır."
 
 #: ../comps-el5.xml.in.h:5 ../comps-el6.xml.in.h:7 ../comps-epel7.xml.in.h:7
 msgid "Armenian Support"
@@ -2139,15 +2131,15 @@ msgstr "Ermenice Desteği"
 msgid ""
 "This group is a collection of tools and resources of Armenian environments."
 msgstr ""
-"Bu küme, Ermenice ortamların kaynaklarının ve araçlarının bir takımıdır."
+"Bu grup, Ermenice ortamların kaynaklarının ve araçlarının bir takımıdır."
 
 #: ../comps-el5.xml.in.h:8
 msgid ""
 "These tools allow you to create documentation in the DocBook format and "
 "convert them to HTML, PDF, Postscript, and text."
 msgstr ""
-"Bu araçlar Docbook biçiminde belgeler oluşturabilmenizi ve onları HTML, PDF,"
-" PS ve metin biçimlere dönüştürebilmenizi mümkün kılar."
+"Bu araçlar Docbook biçiminde belgeler oluşturabilmenizi ve onları HTML, PDF, "
+"PS ve metin biçimlerine dönüştürebilmenizi mümkün kılar."
 
 #: ../comps-el5.xml.in.h:9 ../comps-el6.xml.in.h:287
 #: ../comps-epel7.xml.in.h:289
@@ -2168,7 +2160,7 @@ msgstr "Çekçe Desteği"
 #: ../comps-el5.xml.in.h:13
 msgid ""
 "This group is a collection of tools and resources of Czech environments."
-msgstr "Bu küme, Çekçe ortamların kaynaklarının ve araçlarının bir takımıdır."
+msgstr "Bu grup, Çekçe ortamların kaynaklarının ve araçlarının bir takımıdır."
 
 #: ../comps-el5.xml.in.h:15
 msgid ""
@@ -2214,19 +2206,18 @@ msgstr ""
 
 #: ../comps-el5.xml.in.h:36
 msgid "This group includes graphical email, Web, and chat clients."
-msgstr "Bu küme; grafiksel e-posta, ağ ve sohbet istemcilerini içerir."
+msgstr "Bu grup, grafiksel e-posta, web ve sohbet istemcilerini içerir."
 
 #: ../comps-el5.xml.in.h:42
 msgid ""
 "This group is a collection of tools and resources of Hebrew environments."
 msgstr ""
-"Bu küme, İbranice ortamların kaynaklarının ve araçlarının bir takımıdır."
+"Bu grup, İbranice ortamların kaynaklarının ve araçlarının bir takımıdır."
 
 #: ../comps-el5.xml.in.h:44
 msgid ""
 "This group is a collection of tools and resources of Japanese environments."
-msgstr ""
-"Bu küme, Japonca ortamların kaynaklarının ve araçlarının bir takımıdır."
+msgstr "Bu grup, Japonca ortamların kaynaklarının ve araçlarının bir takımıdır."
 
 #: ../comps-el5.xml.in.h:45
 msgid "KDE (K Desktop Environment)"
@@ -2246,15 +2237,15 @@ msgstr "QT ve KDE uygulamaları geliştirilecekse bu paketleri kurun."
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "Bu küme, özel amaçlar için ağ sunucularının bir takımıdır."
+msgstr "Bu grup, belirli amaçlar için bir ağ sunucuları takımıdır"
 
 #: ../comps-el5.xml.in.h:62
 msgid ""
 "This group includes text-based email, Web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Bu küme; metin tabanlı e-posta, ağ ve sohbet istemcilerini içerir. Bu "
-"paketler X Pencere Sistemini gerektirmez."
+"Bu grup, metin tabanlı e-posta, web ve sohbet istemcilerini içerir. Bu "
+"uygulamalar X Pencere Sistemini gerektirmez."
 
 #: ../comps-el5.xml.in.h:63
 msgid "Web Development"
@@ -2272,7 +2263,7 @@ msgstr "XEmacs"
 
 #: ../comps-el5.xml.in.h:70
 msgid "The XEmacs text editor."
-msgstr "XEMacs metin düzenleyici"
+msgstr "XEMacs metin düzenleyicisi."
 
 #: ../comps-el5.xml.in.h:71
 msgid "Desktop Environments"
@@ -3030,7 +3021,7 @@ msgstr "Akıllı kart desteği"
 
 #: ../comps-el6.xml.in.h:221 ../comps-epel7.xml.in.h:223
 msgid "Support for using smart card authentication."
-msgstr "Akıllı kart yetkilendirme kullanımı için destek"
+msgstr "Akıllı kart kimlik doğrulaması kullanma desteği."
 
 #: ../comps-el6.xml.in.h:222 ../comps-epel7.xml.in.h:224
 msgid "Southern Ndebele Support"
@@ -3066,7 +3057,7 @@ msgstr "Depolama Ulaşılabilirliği Araçları"
 
 #: ../comps-el6.xml.in.h:230 ../comps-epel7.xml.in.h:232
 msgid "A set of tools to manage SAN path availability"
-msgstr "SAN yolu uygunluğunu yönetmek için bir araç takımı."
+msgstr "SAN yolu uygunluğunu yönetmek için bir dizi araç"
 
 #: ../comps-el6.xml.in.h:231 ../comps-epel7.xml.in.h:233
 msgid "Network Storage Server"
@@ -3270,7 +3261,7 @@ msgstr "İş İstasyonu türü için politika paketleri."
 
 #: ../comps-el6.xml.in.h:288 ../comps-epel7.xml.in.h:290
 msgid "X Window System Support."
-msgstr "X Pencere Sistemi Desteği"
+msgstr "X Pencere Sistemi Desteği."
 
 #: ../comps-el6.xml.in.h:291 ../comps-epel7.xml.in.h:293
 msgid "Xhosa Support"
