@@ -21,13 +21,14 @@
 # Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2016. #zanata, 2020.
 # José Fournier <jaaf64@zoraldia.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-03-09 23:49+0000\n"
-"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
+"PO-Revision-Date: 2020-03-11 01:46+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/fr/>\n"
 "Language: fr\n"
@@ -45,12 +46,12 @@ msgstr "Impression 3D"
 #: ../comps-f22.xml.in.h:2 ../comps-f23.xml.in.h:275 ../comps-f24.xml.in.h:288
 #: ../comps-f25.xml.in.h:288
 msgid "3D printing software"
-msgstr "Logiciels d'impression 3D"
+msgstr "Logiciels d’impression 3D"
 
 #: ../comps-f22.xml.in.h:3 ../comps-f23.xml.in.h:1 ../comps-f24.xml.in.h:1
 #: ../comps-f25.xml.in.h:1 ../comps-el5.xml.in.h:1
 msgid "Administration Tools"
-msgstr "Outils d'administration"
+msgstr "Outils d’administration"
 
 #: ../comps-f22.xml.in.h:4 ../comps-f23.xml.in.h:2 ../comps-f24.xml.in.h:2
 #: ../comps-f25.xml.in.h:2 ../comps-el5.xml.in.h:2
@@ -58,7 +59,7 @@ msgid ""
 "This group is a collection of graphical administration tools for the system,"
 " such as for managing user accounts and configuring system hardware."
 msgstr ""
-"Ce groupe est un ensemble d'outils graphiques d'administration pour le "
+"Ce groupe est un ensemble d’outils graphiques d’administration pour le "
 "système, comme pour la gestion des comptes utilisateurs et la configuration "
 "du matériel système."
 
@@ -71,12 +72,12 @@ msgstr "Outils Anaconda"
 #: ../comps-f25.xml.in.h:6 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6
 #: ../comps-epel7.xml.in.h:6
 msgid "Arabic Support"
-msgstr "Prise en charge de l'arabe"
+msgstr "Prise en charge de l’arabe"
 
 #: ../comps-f22.xml.in.h:7 ../comps-f23.xml.in.h:5 ../comps-f24.xml.in.h:7
 #: ../comps-f25.xml.in.h:7 ../comps-el6.xml.in.h:8 ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
-msgstr "Prise en charge de l'assamais"
+msgstr "Prise en charge de l’assamais"
 
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
@@ -110,7 +111,7 @@ msgstr "base-x"
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
 msgid "Local X.org display server"
-msgstr "Serveur d'affichage local X.org"
+msgstr "Serveur d’affichage local X.org"
 
 #: ../comps-f22.xml.in.h:14 ../comps-f23.xml.in.h:12 ../comps-f24.xml.in.h:14
 #: ../comps-f25.xml.in.h:14
@@ -154,7 +155,7 @@ msgstr "Livres et guides pour les utilisateurs et les développeurs de Fedora"
 #: ../comps-f25.xml.in.h:21 ../comps-el5.xml.in.h:11 ../comps-el6.xml.in.h:25
 #: ../comps-epel7.xml.in.h:25
 msgid "Buildsystem building group"
-msgstr "Groupe de construction de l'environnement de compilation"
+msgstr "Groupe de construction de l’environnement de compilation"
 
 #: ../comps-f22.xml.in.h:22 ../comps-f23.xml.in.h:20 ../comps-f24.xml.in.h:22
 #: ../comps-f25.xml.in.h:22 ../comps-el6.xml.in.h:27
@@ -193,7 +194,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
 msgid "Cloud Infrastructure"
-msgstr "Infrastructure pour l'informatique en nuage"
+msgstr "Infrastructure pour l’informatique en nuage"
 
 #: ../comps-f22.xml.in.h:28 ../comps-f23.xml.in.h:26 ../comps-f24.xml.in.h:28
 #: ../comps-f25.xml.in.h:28
