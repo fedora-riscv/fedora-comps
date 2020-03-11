@@ -6352,6 +6352,7 @@
       <groupid default="true">pantheon-apps</groupid>
     </optionlist>
   </environment>
+  <environment>
     <!-- Intended only for the Fedora Server product; other products will not
          show this because they don’t include the fedora-release-server
          package.  Please keep this mostly in sync with
