@@ -1,34 +1,36 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Nasir Hussain <nasirhussainm14@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-03-30 04:28+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Urdu (http://www.transifex.com/projects/p/comps/language/ur/)\n"
+"PO-Revision-Date: 2020-03-14 18:38+0000\n"
+"Last-Translator: Nasir Hussain <nasirhussainm14@gmail.com>\n"
+"Language-Team: Urdu <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/ur/>\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.3\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
 msgid "3D Printing"
-msgstr ""
+msgstr "تین جہتی پرنٹنگ"
 
 #: ../comps-f22.xml.in.h:2 ../comps-f23.xml.in.h:275 ../comps-f24.xml.in.h:288
 #: ../comps-f25.xml.in.h:288
 msgid "3D printing software"
-msgstr ""
+msgstr "تین جہتی پرنٹنگ سافٹ ویئ"
 
 #: ../comps-f22.xml.in.h:3 ../comps-f23.xml.in.h:1 ../comps-f24.xml.in.h:1
 #: ../comps-f25.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -47,7 +49,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:5 ../comps-f23.xml.in.h:3 ../comps-f24.xml.in.h:3
 #: ../comps-f25.xml.in.h:3
 msgid "Anaconda tools"
-msgstr ""
+msgstr "یناکونڈا کے اوزار"
 
 #: ../comps-f22.xml.in.h:6 ../comps-f23.xml.in.h:4 ../comps-f24.xml.in.h:6
 #: ../comps-f25.xml.in.h:6 ../comps-el5.xml.in.h:3 ../comps-el6.xml.in.h:6
@@ -58,22 +60,22 @@ msgstr "عربِی کا ساتھ"
 #: ../comps-f22.xml.in.h:7 ../comps-f23.xml.in.h:5 ../comps-f24.xml.in.h:7
 #: ../comps-f25.xml.in.h:7 ../comps-el6.xml.in.h:8 ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
-msgstr "کا ساتھ Assamese"
+msgstr "اسسامسے سپورٹ"
 
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "آڈیو پروڈکشن"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
 msgid "Various tools for audio synthesis and music production."
-msgstr ""
+msgstr "آڈیو ترکیب اور موسیقی کی تیاری کے لئے مختلف ٹولز"
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
 msgid "Authoring and Publishing"
-msgstr "مصننف  اور  اشاعت  "
+msgstr "مصننف اور اشاعت"
 
 #: ../comps-f22.xml.in.h:11 ../comps-f23.xml.in.h:9 ../comps-f24.xml.in.h:11
 #: ../comps-f25.xml.in.h:11
@@ -81,11 +83,13 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
+"یہ الات اپ کو اجازت د ے گا ڈوکمينٹاشن بنانےکے لے DocBook فارمیٹ می اور بدلنے "
+"کے لے HTML, PDF, Postscript, اور text میں."
 
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
 msgid "base-x"
-msgstr ""
+msgstr "بیس- x"
 
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
