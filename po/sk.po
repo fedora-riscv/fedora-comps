@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # feonsu <feonsu@gmail.com>, 2011
@@ -10,20 +10,22 @@
 # Marcel Telka <marcel@telka.sk>, 2003, 2004
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # feonsu <feonsu@gmail.com>, 2016. #zanata
+# Ondrej Sulek <feonsu@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-09-12 10:06+0000\n"
-"Last-Translator: feonsu <feonsu@gmail.com>\n"
-"Language-Team: Slovak (http://www.transifex.com/projects/p/comps/language/sk/)\n"
+"PO-Revision-Date: 2020-03-14 18:38+0000\n"
+"Last-Translator: Ondrej Sulek <feonsu@gmail.com>\n"
+"Language-Team: Slovak <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 3.11.3\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -184,7 +186,7 @@ msgstr "Cloudová infraštruktúra"
 #: ../comps-f22.xml.in.h:28 ../comps-f23.xml.in.h:26 ../comps-f24.xml.in.h:28
 #: ../comps-f25.xml.in.h:28
 msgid "Infrastructure packages for cloud computing."
-msgstr "Balíčky pre cloudovú infraštruktúru"
+msgstr "Balíčky pre cloudovú infraštruktúru."
 
 #: ../comps-f22.xml.in.h:29 ../comps-f23.xml.in.h:27 ../comps-f24.xml.in.h:29
 #: ../comps-f25.xml.in.h:29
@@ -218,7 +220,7 @@ msgstr "Správa kontajnerov"
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
 msgid "Tools for managing Linux containers"
-msgstr "Nástroje pre správu linuxových kontajnerov."
+msgstr "Nástroje pre správu linuxových kontajnerov"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39
