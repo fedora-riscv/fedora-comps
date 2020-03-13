@@ -2891,7 +2891,6 @@
       <packagereq type="optional">linphone</packagereq>
       <packagereq type="optional">logjam</packagereq>
       <packagereq type="optional">mail-notification</packagereq>
-      <packagereq type="optional">meiga</packagereq>
       <packagereq type="optional">mtr-gtk</packagereq>
       <packagereq type="optional">nicotine+</packagereq>
       <packagereq type="optional">ochusha</packagereq>
