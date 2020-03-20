@@ -4681,9 +4681,11 @@
       <packagereq type="default">libyaml-devel</packagereq>
       <packagereq type="default">make</packagereq>
       <packagereq type="default">pipenv</packagereq>
+      <packagereq type="default">poetry</packagereq>
       <packagereq type="default">pypy3-devel</packagereq>
       <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">python3-docs</packagereq>
+      <packagereq type="default">python3-flit</packagereq>
       <packagereq type="default">python3-idle</packagereq>
       <packagereq type="default">python3-ipykernel</packagereq>
       <packagereq type="default">python3-ipython</packagereq>
