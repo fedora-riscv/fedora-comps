@@ -154,6 +154,7 @@
       <packagereq type="default">Carla</packagereq>
       <packagereq type="default">drumkv1</packagereq>
       <packagereq type="default">dssi</packagereq>
+      <packagereq type="default">ffado</packagereq>
       <packagereq type="default">fluid-soundfont-gm</packagereq>
       <packagereq type="default">fluidsynth</packagereq>
       <packagereq type="default">fluidsynth-dssi</packagereq>
@@ -183,6 +184,7 @@
       <packagereq type="default">ladspa-vco-plugins</packagereq>
       <packagereq type="default">lash</packagereq>
       <packagereq type="default">lilypond</packagereq>
+      <packagereq type="default">lsp-plugins-jack</packagereq>
       <packagereq type="default">lsp-plugins-ladspa</packagereq>
       <packagereq type="default">lsp-plugins-lv2</packagereq>
       <packagereq type="default">lv2</packagereq>
@@ -209,6 +211,8 @@
       <packagereq type="default">mup</packagereq>
       <packagereq type="default">muse</packagereq>
       <packagereq type="default">nekobee-dssi</packagereq>
+      <packagereq type="default">pulseaudio-module-jack</packagereq>
+      <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">qastools</packagereq>
       <packagereq type="default">qjackctl</packagereq>
       <packagereq type="default">qmidiarp</packagereq>
