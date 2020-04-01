@@ -1605,7 +1605,6 @@
       <packagereq type="optional">vinci</packagereq>
       <packagereq type="optional">wgrib</packagereq>
       <packagereq type="optional">wgrib2</packagereq>
-      <packagereq type="optional">why</packagereq>
       <packagereq type="optional">why3</packagereq>
       <packagereq type="optional">wise2</packagereq>
       <packagereq type="optional">wvs-data</packagereq>
