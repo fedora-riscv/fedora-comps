@@ -1913,12 +1913,11 @@
       <packagereq type="optional">gnu-free-mono-fonts</packagereq>
       <packagereq type="optional">gnu-free-sans-fonts</packagereq>
       <packagereq type="optional">gnu-free-serif-fonts</packagereq>
-      <packagereq type="optional">google-croscore-arimo-fonts</packagereq>
-      <packagereq type="optional">google-croscore-cousine-fonts</packagereq>
-      <packagereq type="optional">google-croscore-symbolneu-fonts</packagereq>
-      <packagereq type="optional">google-croscore-tinos-fonts</packagereq>
+      <packagereq type="optional">google-arimo-fonts</packagereq>
+      <packagereq type="optional">google-cousine-fonts</packagereq>
+      <packagereq type="optional">google-tinos-fonts</packagereq>
       <packagereq type="optional">google-crosextra-caladea-fonts</packagereq>
-      <packagereq type="optional">google-crosextra-carlito-fonts</packagereq>
+      <packagereq type="optional">google-carlito-fonts</packagereq>
       <packagereq type="optional">google-droid-kufi-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-mono-fonts</packagereq>
