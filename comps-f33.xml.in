@@ -154,7 +154,7 @@
       <packagereq type="default">Carla</packagereq>
       <packagereq type="default">drumkv1</packagereq>
       <packagereq type="default">dssi</packagereq>
-      <packagereq type="default">ffado</packagreq>
+      <packagereq type="default">ffado</packagereq>
       <packagereq type="default">fluid-soundfont-gm</packagereq>
       <packagereq type="default">fluidsynth</packagereq>
       <packagereq type="default">fluidsynth-dssi</packagereq>
