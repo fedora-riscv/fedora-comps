@@ -220,6 +220,7 @@
       <packagereq type="default">qtractor</packagereq>
       <packagereq type="default">radium-compressor</packagereq>
       <packagereq type="default">rakarrack</packagereq>
+      <packagereq type="default">raysession</packagereq>
       <packagereq type="default">realTimeConfigQuickScan</packagereq>
       <packagereq type="default">rosegarden4</packagereq>
       <packagereq type="default">rtirq</packagereq>
