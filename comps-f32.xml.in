@@ -211,6 +211,9 @@
       <packagereq type="default">mup</packagereq>
       <packagereq type="default">muse</packagereq>
       <packagereq type="default">nekobee-dssi</packagereq>
+      <packagereq type="default">non-mixer</packagereq>
+      <packagereq type="default">non-session-manager</packagereq>
+      <packagereq type="default">non-sequencer</packagereq>
       <packagereq type="default">pulseaudio-module-jack</packagereq>
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">qastools</packagereq>
