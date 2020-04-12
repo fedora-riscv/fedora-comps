@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-03-24 13:38+0000\n"
+"PO-Revision-Date: 2020-04-14 10:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/tr/>\n"
@@ -198,8 +198,8 @@ msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
-"\"Bulut\" ortamlarında çalışan sunucuları ve sistem görüntülerini yönetmek "
-"için yazılım"
+"\"Bulut\" ortamlarında çalışan sunucuları ve sistem kalıplarını yönetmek "
+"için yazılımlar"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
@@ -210,7 +210,7 @@ msgstr "Bulut Sunucu Araçları"
 #: ../comps-f25.xml.in.h:32
 msgid "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
-"\"Bulut\" ortamlarında çalışan sunucular ve sistem görüntüleri için yazılım"
+"\"Bulut\" ortamlarında çalışan sunucular ve sistem kalıpları için yazılımlar"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
@@ -523,8 +523,7 @@ msgstr "Fedora Paketçisi"
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr ""
-"Bir Fedora Paketçisi tarafından gereksinen araçlar ve yardımcı yazılımlar"
+msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
@@ -2189,8 +2188,7 @@ msgstr "Donanım mühendisleri için Tasarım ve Benzetim araçları"
 
 #: ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr ""
-"Bir Fedora Paketçisi tarafından gereksinen araçlar ve yardımcı yazılımlar"
+msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar"
 
 #: ../comps-el5.xml.in.h:31
 msgid "GNOME Desktop Environment"
@@ -2523,8 +2521,7 @@ msgstr "Faroese Desteği"
 
 #: ../comps-el6.xml.in.h:74 ../comps-epel7.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr ""
-"Bir Fedora Paketçisi tarafından gereksinen araçlar ve yardımcı yazılımlar."
+msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar."
 
 #: ../comps-el6.xml.in.h:75 ../comps-epel7.xml.in.h:75
 msgid "Fijian Support"
@@ -2594,7 +2591,7 @@ msgstr "Grafik Yaratım Araçları"
 
 #: ../comps-el6.xml.in.h:94 ../comps-epel7.xml.in.h:94
 msgid "Software for creation and manipulation of still images."
-msgstr "Durgun görüntülerin yaratımı ve işlenmesi için araçlar."
+msgstr "Durgun görüntülerin oluşturulması ve işlenmesi için yazılımlar."
 
 #: ../comps-el6.xml.in.h:97 ../comps-epel7.xml.in.h:97
 msgid "Hardware monitoring utilities"
@@ -3226,7 +3223,7 @@ msgstr "Sanallaştırma Araçları"
 
 #: ../comps-el6.xml.in.h:278 ../comps-epel7.xml.in.h:280
 msgid "Tools for offline virtual image management."
-msgstr "Çevrim dışı sanal görüntü yönetimi için araçlar."
+msgstr "Çevrim dışı sanal kalıp yönetimi için araçlar."
 
 #: ../comps-el6.xml.in.h:279 ../comps-epel7.xml.in.h:281
 msgid "Walloon Support"
