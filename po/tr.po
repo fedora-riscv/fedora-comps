@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-04-14 10:40+0000\n"
+"PO-Revision-Date: 2020-04-16 17:40+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/tr/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 3.11.3\n"
+"X-Generator: Weblate 4.0.1\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -518,12 +518,12 @@ msgstr "Etiyopyaca Desteği"
 #: ../comps-f25.xml.in.h:86 ../comps-el5.xml.in.h:25 ../comps-el6.xml.in.h:73
 #: ../comps-epel7.xml.in.h:73
 msgid "Fedora Packager"
-msgstr "Fedora Paketçisi"
+msgstr "Fedora Paketleyicisi"
 
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar"
+msgstr "Bir Fedora Paketleyicisi için gereken araçlar ve yardımcı programlar"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
@@ -2188,7 +2188,7 @@ msgstr "Donanım mühendisleri için Tasarım ve Benzetim araçları"
 
 #: ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
-msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar"
+msgstr "Bir Fedora Paketleyicisi için gereken araçlar ve yardımcı programlar"
 
 #: ../comps-el5.xml.in.h:31
 msgid "GNOME Desktop Environment"
@@ -2521,7 +2521,7 @@ msgstr "Faroese Desteği"
 
 #: ../comps-el6.xml.in.h:74 ../comps-epel7.xml.in.h:74
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr "Bir Fedora Paketçisi için gereken araçlar ve yardımcı programlar."
+msgstr "Bir Fedora Paketleyicisi için gereken araçlar ve yardımcı programlar."
 
 #: ../comps-el6.xml.in.h:75 ../comps-epel7.xml.in.h:75
 msgid "Fijian Support"
