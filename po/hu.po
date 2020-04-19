@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
 # Translators:
 # Arpad Biro <biro_arpad@yahoo.com>, 2004, 2005, 2006, 2007
 # Dimitris Glezos <glezos@transifex.com>, 2011
@@ -12,20 +12,22 @@
 # Zoltan Hoppár <zoltanh721@fedoraproject.org>, 2011-2013
 # Meskó Balázs <meskobalazs@gmail.com>, 2017. #zanata
 # Meskó Balázs <meskobalazs@gmail.com>, 2018. #zanata
+# Balázs Meskó <meskobalazs@mailbox.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2018-08-24 06:19+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Hungarian (http://www.transifex.com/projects/p/comps/language/hu/)\n"
+"PO-Revision-Date: 2020-04-20 16:40+0000\n"
+"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"Language-Team: Hungarian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0.1\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -830,7 +832,7 @@ msgstr "Java alkalmazás kiszolgáló"
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
 msgid "Java application server."
-msgstr "Java alkalmazáskiszolgáló"
+msgstr "Java alkalmazáskiszolgáló."
 
 #: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:135
 #: ../comps-f24.xml.in.h:146 ../comps-f25.xml.in.h:146
@@ -1161,7 +1163,7 @@ msgstr "MATE alkalmazások"
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
 msgid "Applications for the MATE Desktop."
-msgstr "Alkalmazások az LXDE asztali környezethez"
+msgstr "Alkalmazások az LXDE asztali környezethez."
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1364,7 +1366,7 @@ msgstr "Perl a webhez"
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
 msgid "Basic Perl web application support."
-msgstr "Alapvető Perl webalkalmazás támogatás"
+msgstr "Alapvető Perl webalkalmazás támogatás."
 
 #: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:225
 #: ../comps-f24.xml.in.h:238 ../comps-f25.xml.in.h:238
@@ -1806,7 +1808,7 @@ msgstr "Xfce iroda"
 #: ../comps-f22.xml.in.h:302 ../comps-f23.xml.in.h:304
 #: ../comps-f24.xml.in.h:317 ../comps-f25.xml.in.h:317
 msgid "Office suite for Xfce"
-msgstr "Irodai szoftvercsomag az  Xfce-hez"
+msgstr "Irodai szoftvercsomag az Xfce-hez"
 
 #: ../comps-f22.xml.in.h:303 ../comps-f23.xml.in.h:305
 #: ../comps-f24.xml.in.h:318 ../comps-f25.xml.in.h:318
@@ -2126,7 +2128,7 @@ msgstr "LiveCD eszközök"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
-msgstr "Eszközök, melyeknek telepítve kell lenniük egy livecd működéséhez."
+msgstr "Eszközök, melyeknek telepítve kell lenniük egy livecd működéséhez"
 
 #: ../comps-f24.xml.in.h:262 ../comps-f25.xml.in.h:262
 msgid ""
@@ -2291,7 +2293,7 @@ msgstr ""
 msgid "This group is a collection of network servers for specific purposes"
 msgstr ""
 "Ez a csoport különböző konkrét célokat szolgáló hálózati kiszolgálók "
-"gyűjteménye."
+"gyűjteménye"
 
 #: ../comps-el5.xml.in.h:62
 msgid ""
@@ -2559,7 +2561,7 @@ msgstr "Oktatási szoftverek tanuláshoz."
 
 #: ../comps-el6.xml.in.h:66 ../comps-epel7.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Tervezési és szimulációs eszközök hardvermérnökök számára"
+msgstr "Tervezési és szimulációs eszközök hardvermérnökök számára."
 
 #: ../comps-el6.xml.in.h:67 ../comps-epel7.xml.in.h:67
 msgid "Emacs"
@@ -3345,7 +3347,7 @@ msgstr "Asztali környezetek"
 
 #: ../comps-el6.xml.in.h:294 ../comps-epel7.xml.in.h:297
 msgid "Desktops and thin clients."
-msgstr "Asztali környezetek és vékonykliensek"
+msgstr "Asztali környezetek és vékonykliensek."
 
 #: ../comps-el6.xml.in.h:296 ../comps-epel7.xml.in.h:299
 msgid "End-user applications."
