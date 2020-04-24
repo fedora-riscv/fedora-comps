@@ -6243,6 +6243,7 @@
     <optionlist>
       <groupid>standard</groupid>
       <groupid>guest-agents</groupid>
+      <groupid>networkmanager-submodules</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -6256,6 +6257,7 @@
     <optionlist>
       <groupid>standard</groupid>
       <groupid>guest-agents</groupid>
+      <groupid>networkmanager-submodules</groupid>
     </optionlist>
   </environment>
   <environment>
