@@ -714,7 +714,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
   </group>
@@ -3152,7 +3151,6 @@
       <packagereq>kscreenlocker</packagereq>
       <packagereq>ksshaskpass</packagereq>
       <packagereq>kwalletmanager5</packagereq>
-      <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
