@@ -1918,7 +1918,7 @@
       <packagereq type="optional">google-arimo-fonts</packagereq>
       <packagereq type="optional">google-cousine-fonts</packagereq>
       <packagereq type="optional">google-tinos-fonts</packagereq>
-      <packagereq type="optional">google-crosextra-caladea-fonts</packagereq>
+      <packagereq type="optional">ht-caladea-fonts</packagereq>
       <packagereq type="optional">google-carlito-fonts</packagereq>
       <packagereq type="optional">google-droid-kufi-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-fonts</packagereq>
