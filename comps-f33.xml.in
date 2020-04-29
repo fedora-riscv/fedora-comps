@@ -4484,7 +4484,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">cerbere</packagereq>
       <packagereq type="mandatory">contractor</packagereq>
       <packagereq type="mandatory">gala</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
