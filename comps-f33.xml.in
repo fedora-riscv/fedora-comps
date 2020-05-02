@@ -588,7 +588,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">podman</packagereq>
-      <packagereq type="optional">atomic</packagereq>
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">cockpit-docker</packagereq>
       <packagereq type="optional">docker</packagereq>
@@ -2192,7 +2191,6 @@
       <packagereq type="optional">oflb-icelandic-fonts</packagereq>
       <packagereq type="optional">oflb-notcouriersans-fonts</packagereq>
       <packagereq type="optional">oflb-prociono-fonts</packagereq>
-      <packagereq type="optional">oflb-roadstencil-fonts</packagereq>
       <packagereq type="optional">oflb-smonohand-fonts</packagereq>
       <packagereq type="optional">oflb-sportrop-fonts</packagereq>
       <packagereq type="optional">oldstandard-sfd-fonts</packagereq>
@@ -2221,19 +2219,9 @@
       <packagereq type="optional">samyak-malayalam-fonts</packagereq>
       <packagereq type="optional">samyak-odia-fonts</packagereq>
       <packagereq type="optional">samyak-tamil-fonts</packagereq>
-      <packagereq type="optional">sarai-fonts</packagereq>
       <packagereq type="optional">sazanami-gothic-fonts</packagereq>
       <packagereq type="optional">sazanami-mincho-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-fantuwua-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-hiwua-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-jiret-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-tint-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-wookianos-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-yebse-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-yigezu-bisrat-goffer-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-yigezu-bisrat-gothic-fonts</packagereq>
-      <packagereq type="optional">senamirmir-washra-zelan-fonts</packagereq>
+      <packagereq type="optional">senamirmir-washra-fonts-all</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
       <packagereq type="optional">shadowsintolight-fonts</packagereq>
       <packagereq type="optional">sil-andika-fonts</packagereq>
@@ -2256,7 +2244,6 @@
       <packagereq type="optional">smc-rachana-fonts</packagereq>
       <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
-      <packagereq type="optional">specialelite-fonts</packagereq>
       <packagereq type="optional">stix-math-fonts</packagereq>
       <packagereq type="optional">tabish-eeyek-fonts</packagereq>
       <packagereq type="optional">tangerine-fonts</packagereq>
@@ -2294,7 +2281,6 @@
       <packagereq type="optional">tlomt-orbitron-fonts</packagereq>
       <packagereq type="optional">tlomt-sniglet-fonts</packagereq>
       <packagereq type="optional">trabajo-fonts</packagereq>
-      <packagereq type="optional">tuladha-jejeg-fonts</packagereq>
       <packagereq type="optional">tulrich-tuffy-fonts</packagereq>
       <packagereq type="optional">twitter-twemoji-fonts</packagereq>
       <packagereq type="optional">typemade-josefinsansstd-light-fonts</packagereq>
@@ -4659,7 +4645,6 @@
       <packagereq type="optional">cups-bjnp</packagereq>
       <packagereq type="optional">cups-pdf</packagereq>
       <packagereq type="optional">enscript</packagereq>
-      <packagereq type="optional">min12xxw</packagereq>
       <packagereq type="optional">pnm2ppa</packagereq>
       <packagereq type="optional">ptouch-driver</packagereq>
       <packagereq type="optional">splix</packagereq>
@@ -5323,7 +5308,6 @@
       <packagereq>ntfs-3g</packagereq>
       <packagereq>ntfsprogs</packagereq>
       <packagereq>opensc</packagereq>
-      <packagereq>pam_afs_session</packagereq>
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pinfo</packagereq>
