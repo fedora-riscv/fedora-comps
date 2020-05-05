@@ -12,13 +12,14 @@
 # Ricardo Pinto <ricardo.bigote@gmail.com>, 2016. #zanata
 # Rui Gouveia <ruigo@fedoraproject.org>, 2016. #zanata
 # Manuela Silva <mmsrs@sky.com>, 2019. #zanata, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
 "PO-Revision-Date: 2020-05-05 12:02+0000\n"
-"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/pt/>\n"
 "Language: pt\n"
@@ -2085,6 +2086,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Hawaii desktop"
 msgstr ""
+"Um conjunto de pacotes que disponibilizam a funcionalidade de 'Caminho "
+"Crítico' para o ambiente de trabalho Xfce"
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
