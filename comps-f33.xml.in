@@ -4772,7 +4772,6 @@
       <packagereq type="default">python3-rospkg</packagereq>
       <packagereq type="default">python3-vcstools</packagereq>
       <packagereq type="default">python3-wstool</packagereq>
-      <packagereq type="default">rcsslogplayer</packagereq>
       <packagereq type="default">rcssmonitor</packagereq>
       <packagereq type="default">rcssserver</packagereq>
       <packagereq type="default">rcssserver-gui</packagereq>
@@ -4788,7 +4787,6 @@
       <packagereq type="optional">mrpt-devel</packagereq>
       <packagereq type="optional">pcl-devel</packagereq>
       <packagereq type="optional">player-devel</packagereq>
-      <packagereq type="optional">rcsslogplayer-devel</packagereq>
       <packagereq type="optional">rcssserver-devel</packagereq>
       <packagereq type="optional">rcssserver3d-devel</packagereq>
       <packagereq type="optional">stage-devel</packagereq>
