@@ -5898,6 +5898,7 @@
       <packagereq type="default">nss-mdns</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
+      <packagereq type="default">opensc</packagereq>
       <packagereq type="default">pam_afs_session</packagereq>
       <packagereq type="default">passwdqc</packagereq>
       <packagereq type="default">pciutils</packagereq>
