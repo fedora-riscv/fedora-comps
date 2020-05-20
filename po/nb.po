@@ -8,30 +8,32 @@
 # Kjartan Maraas <kmaraas@gnome.org>, 2012-2013,2015
 # Kjartan Maraas <kmaraas@gnome.org>, 2011
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Allan Nordhøy <epost@anotheragency.no>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-03-30 04:17+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/comps/language/nb/)\n"
+"PO-Revision-Date: 2020-05-21 04:40+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://translate.fedoraproject.org/"
+"projects/fedora-comps/master/nb_NO/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
 msgid "3D Printing"
-msgstr ""
+msgstr "3D-skriveri"
 
 #: ../comps-f22.xml.in.h:2 ../comps-f23.xml.in.h:275 ../comps-f24.xml.in.h:288
 #: ../comps-f25.xml.in.h:288
 msgid "3D printing software"
-msgstr ""
+msgstr "3D-skriverprogramvare"
 
 #: ../comps-f22.xml.in.h:3 ../comps-f23.xml.in.h:1 ../comps-f24.xml.in.h:1
 #: ../comps-f25.xml.in.h:1 ../comps-el5.xml.in.h:1
@@ -66,7 +68,7 @@ msgstr "Støtte for assamesisk"
 #: ../comps-f22.xml.in.h:8 ../comps-f23.xml.in.h:6 ../comps-f24.xml.in.h:8
 #: ../comps-f25.xml.in.h:8
 msgid "Audio Production"
-msgstr ""
+msgstr "Lydproduksjon"
 
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
@@ -96,7 +98,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Lokal X.org-skjermtjener"
 
 #: ../comps-f22.xml.in.h:14 ../comps-f23.xml.in.h:12 ../comps-f24.xml.in.h:14
 #: ../comps-f25.xml.in.h:14
@@ -106,7 +108,7 @@ msgstr "Enkelt skrivebord"
 #: ../comps-f22.xml.in.h:15 ../comps-f23.xml.in.h:13 ../comps-f24.xml.in.h:15
 #: ../comps-f25.xml.in.h:15
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Grunnleggende X-vindussystem med valg av vindushåndtering."
 
 #: ../comps-f22.xml.in.h:16 ../comps-f23.xml.in.h:14 ../comps-f24.xml.in.h:16
 #: ../comps-f25.xml.in.h:16 ../comps-el6.xml.in.h:20
@@ -158,6 +160,8 @@ msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
+"Disse verktøyene inneholder kjerneutviklingsverktøy, som automake, GCC og "
+"avlusere."
 
 #: ../comps-f22.xml.in.h:25 ../comps-f23.xml.in.h:23 ../comps-f24.xml.in.h:25
 #: ../comps-f25.xml.in.h:25
@@ -170,6 +174,8 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
+"Cinnamon tilbyr et skrivebord med tradisjonelt oppsett, avanserte "
+"funksjoner, enkel bruk, kraftfullt og fleksibelt."
 
 #: ../comps-f22.xml.in.h:27 ../comps-f23.xml.in.h:25 ../comps-f24.xml.in.h:27
 #: ../comps-f25.xml.in.h:27
@@ -193,16 +199,18 @@ msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
+"Programvare for å håndtere tjenere og systemavtrykk som kjører i \"sky\""
+"-miljø"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Skytjenerverktøy"
 
 #: ../comps-f22.xml.in.h:32 ../comps-f23.xml.in.h:30 ../comps-f24.xml.in.h:32
 #: ../comps-f25.xml.in.h:32
 msgid "Software for servers and system images that run in \"cloud\" environments"
-msgstr ""
+msgstr "Programvare for tjenere og systemavtrykk som kjører i \"sky\"-miljø"
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
@@ -421,12 +429,12 @@ msgstr "Enterprise-klasse open source sertifikatautoritet"
 #: ../comps-f22.xml.in.h:67 ../comps-f23.xml.in.h:65 ../comps-f24.xml.in.h:69
 #: ../comps-f25.xml.in.h:69
 msgid "Domain Membership"
-msgstr ""
+msgstr "Domenemedlemskap"
 
 #: ../comps-f22.xml.in.h:68 ../comps-f23.xml.in.h:66 ../comps-f24.xml.in.h:70
 #: ../comps-f25.xml.in.h:70
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "Støtte for deltagelse i FreeIPA aller Active Directory-domene"
 
 #: ../comps-f22.xml.in.h:69 ../comps-f23.xml.in.h:67 ../comps-f24.xml.in.h:71
 #: ../comps-f25.xml.in.h:71
@@ -492,7 +500,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -500,6 +508,8 @@ msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment er et skrint, raskt, modulært og utvidbart vindusbasert "
+"skrivebordsmiljø."
 
 #: ../comps-f22.xml.in.h:81 ../comps-f23.xml.in.h:79 ../comps-f24.xml.in.h:83
 #: ../comps-f25.xml.in.h:83
@@ -582,6 +592,8 @@ msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Tilbyr sentrale mappetjenester for identitet, praksishåndtering og "
+"granskning."
 
 #: ../comps-f22.xml.in.h:95 ../comps-f23.xml.in.h:93 ../comps-f24.xml.in.h:97
 #: ../comps-f25.xml.in.h:97 ../comps-el5.xml.in.h:27
@@ -677,12 +689,12 @@ msgstr "Støtte for gresk"
 #: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:109
 #: ../comps-f24.xml.in.h:113 ../comps-f25.xml.in.h:113
 msgid "Guest Agents"
-msgstr ""
+msgstr "Gjesteagenter"
 
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Agenter brukt under kjøring i hypervisor."
 
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
@@ -692,7 +704,7 @@ msgstr "3D-utskrift"
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Agenter brukt når kjørt som virtualisert skrivebord."
 
 #: ../comps-f22.xml.in.h:115 ../comps-f23.xml.in.h:113
 #: ../comps-f24.xml.in.h:117 ../comps-f25.xml.in.h:117
@@ -757,7 +769,7 @@ msgstr "Systemadministrasjon"
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "Verktøy for håndtering av system uten tilkoblet grafisk konsoll."
 
 #: ../comps-f22.xml.in.h:126 ../comps-f23.xml.in.h:124
 #: ../comps-f24.xml.in.h:135 ../comps-f25.xml.in.h:135
@@ -820,7 +832,7 @@ msgstr "JBoss applikasjonsserver"
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
 msgid "Java application server."
-msgstr ""
+msgstr "Java-programtjener."
 
 #: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:135
 #: ../comps-f24.xml.in.h:146 ../comps-f25.xml.in.h:146
@@ -842,7 +854,7 @@ msgstr "KDE programmer"
 #: ../comps-f22.xml.in.h:140 ../comps-f23.xml.in.h:138
 #: ../comps-f24.xml.in.h:149 ../comps-f25.xml.in.h:149
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Et sett ofte brukte KDE-programmer"
 
 #: ../comps-f22.xml.in.h:141 ../comps-f23.xml.in.h:139
 #: ../comps-f24.xml.in.h:150 ../comps-f25.xml.in.h:150
@@ -860,27 +872,27 @@ msgstr ""
 #: ../comps-f22.xml.in.h:143 ../comps-f23.xml.in.h:141
 #: ../comps-f24.xml.in.h:152 ../comps-f25.xml.in.h:152
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE-undervisningsprogrammer"
 
 #: ../comps-f22.xml.in.h:144 ../comps-f23.xml.in.h:142
 #: ../comps-f24.xml.in.h:153 ../comps-f25.xml.in.h:153
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE-multimediastøtte"
 
 #: ../comps-f22.xml.in.h:145 ../comps-f23.xml.in.h:143
 #: ../comps-f24.xml.in.h:154 ../comps-f25.xml.in.h:154
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Multimediastøtte for KDE"
 
 #: ../comps-f22.xml.in.h:146 ../comps-f23.xml.in.h:144
 #: ../comps-f24.xml.in.h:155 ../comps-f25.xml.in.h:155
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE-kontor"
 
 #: ../comps-f22.xml.in.h:147 ../comps-f23.xml.in.h:145
 #: ../comps-f24.xml.in.h:156 ../comps-f25.xml.in.h:156
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE-kontorprogram"
 
 #: ../comps-f22.xml.in.h:148 ../comps-f23.xml.in.h:146
 #: ../comps-f24.xml.in.h:157 ../comps-f25.xml.in.h:157
@@ -897,12 +909,12 @@ msgstr "Installer disse pakkene for utvikling av QT og KDE-programmer."
 #: ../comps-f22.xml.in.h:150 ../comps-f23.xml.in.h:148
 #: ../comps-f24.xml.in.h:159 ../comps-f25.xml.in.h:159
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f22.xml.in.h:151 ../comps-f23.xml.in.h:149
 #: ../comps-f24.xml.in.h:160 ../comps-f25.xml.in.h:160
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE Telepathy-programmer"
 
 #: ../comps-f22.xml.in.h:152 ../comps-f23.xml.in.h:150
 #: ../comps-f24.xml.in.h:161 ../comps-f25.xml.in.h:161
@@ -1022,12 +1034,12 @@ msgstr "Støtte for lastbalansering av nettverkstrafikk"
 #: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:170
 #: ../comps-f24.xml.in.h:183 ../comps-f25.xml.in.h:183
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Programmer for LXDE-skrivebordet"
 
 #: ../comps-f22.xml.in.h:173 ../comps-f23.xml.in.h:171
 #: ../comps-f24.xml.in.h:184 ../comps-f25.xml.in.h:184
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Et sett ofte brukte programmer for LXDE-skrivebordet"
 
 #: ../comps-f22.xml.in.h:174 ../comps-f23.xml.in.h:172
 #: ../comps-f24.xml.in.h:185 ../comps-f25.xml.in.h:185
@@ -1048,7 +1060,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:176 ../comps-f23.xml.in.h:174
 #: ../comps-f24.xml.in.h:187 ../comps-f25.xml.in.h:187
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Multimediastøtte for LXDE"
 
 #: ../comps-f22.xml.in.h:177 ../comps-f23.xml.in.h:175
 #: ../comps-f24.xml.in.h:188 ../comps-f25.xml.in.h:188
@@ -1069,12 +1081,12 @@ msgstr "Programmer for en rekke forsskjellige oppgaver"
 #: ../comps-f22.xml.in.h:180 ../comps-f23.xml.in.h:178
 #: ../comps-f24.xml.in.h:191 ../comps-f25.xml.in.h:191
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr ""
+msgstr "Et sett ofte brukte programmer for LXQt-skrivebordet"
 
 #: ../comps-f22.xml.in.h:181 ../comps-f23.xml.in.h:179
 #: ../comps-f24.xml.in.h:192 ../comps-f25.xml.in.h:192
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f22.xml.in.h:182 ../comps-f23.xml.in.h:180
 #: ../comps-f24.xml.in.h:193 ../comps-f25.xml.in.h:193
@@ -1091,7 +1103,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:183 ../comps-f23.xml.in.h:181
 #: ../comps-f24.xml.in.h:194 ../comps-f25.xml.in.h:194
 msgid "Multimedia support for LXQt"
-msgstr ""
+msgstr "Multimediastøtte for LXQt"
 
 #: ../comps-f22.xml.in.h:184 ../comps-f23.xml.in.h:182
 #: ../comps-f24.xml.in.h:195 ../comps-f25.xml.in.h:195
@@ -1161,7 +1173,7 @@ msgstr "MATE skrivebord"
 #: ../comps-f22.xml.in.h:195 ../comps-f23.xml.in.h:193
 #: ../comps-f24.xml.in.h:206 ../comps-f25.xml.in.h:206
 msgid "This package group adds Compiz and Emerald to MATE desktop"
-msgstr ""
+msgstr "Denne pakkegruppen legger til Compiz og Emerald til i MATE-skrivebordet"
 
 #: ../comps-f22.xml.in.h:196 ../comps-f23.xml.in.h:194
 #: ../comps-f24.xml.in.h:207 ../comps-f25.xml.in.h:207
@@ -1323,7 +1335,7 @@ msgstr "Hjelp og dokumentasjon"
 #: ../comps-f22.xml.in.h:222 ../comps-f23.xml.in.h:220
 #: ../comps-f24.xml.in.h:233 ../comps-f25.xml.in.h:233
 msgid "Odia Support"
-msgstr ""
+msgstr "Odia-støtte"
 
 #: ../comps-f22.xml.in.h:223 ../comps-f23.xml.in.h:221
 #: ../comps-f24.xml.in.h:234 ../comps-f25.xml.in.h:234
@@ -1343,7 +1355,7 @@ msgstr "Perl for nettet"
 #: ../comps-f22.xml.in.h:226 ../comps-f23.xml.in.h:224
 #: ../comps-f24.xml.in.h:237 ../comps-f25.xml.in.h:237
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Grunnleggende støtte for Perl i vev-programmer."
 
 #: ../comps-f22.xml.in.h:227 ../comps-f23.xml.in.h:225
 #: ../comps-f24.xml.in.h:238 ../comps-f25.xml.in.h:238
@@ -1359,7 +1371,7 @@ msgstr "PHP"
 #: ../comps-f22.xml.in.h:229 ../comps-f23.xml.in.h:227
 #: ../comps-f24.xml.in.h:240 ../comps-f25.xml.in.h:240
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Generelt skriptspråk for vevutvikling."
 
 #: ../comps-f22.xml.in.h:230 ../comps-f23.xml.in.h:228
 #: ../comps-f24.xml.in.h:241 ../comps-f25.xml.in.h:241
@@ -1473,7 +1485,7 @@ msgstr "Denne gruppen inneholder Red Hats konfigurasjonsverktøy."
 #: ../comps-f22.xml.in.h:250 ../comps-f23.xml.in.h:248
 #: ../comps-f24.xml.in.h:261 ../comps-f25.xml.in.h:261
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Maskinvarestøtte for tjenersystemer"
 
 #: ../comps-f22.xml.in.h:251 ../comps-f23.xml.in.h:249
 msgid ""
@@ -1484,12 +1496,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:252 ../comps-f23.xml.in.h:250
 #: ../comps-f24.xml.in.h:263 ../comps-f25.xml.in.h:263
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Produktkjerne for Fedora-tjener"
 
 #: ../comps-f22.xml.in.h:253 ../comps-f23.xml.in.h:251
 #: ../comps-f24.xml.in.h:264 ../comps-f25.xml.in.h:264
 msgid "Packages mandatory for the server product."
-msgstr ""
+msgstr "Pakker obligatoriske for tjenerproduktet."
 
 #: ../comps-f22.xml.in.h:254 ../comps-f23.xml.in.h:252
 #: ../comps-f24.xml.in.h:265 ../comps-f25.xml.in.h:265
@@ -1568,7 +1580,7 @@ msgstr "Flere aktiviteter for Sugar"
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Ytterligere aktiviteter for bruk med Sugar-miljøet."
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1644,7 +1656,7 @@ msgstr "Tomcat"
 #: ../comps-f22.xml.in.h:278 ../comps-f23.xml.in.h:278
 #: ../comps-f24.xml.in.h:291 ../comps-f25.xml.in.h:291
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat-vevprogramtjener."
 
 #: ../comps-f22.xml.in.h:279 ../comps-f23.xml.in.h:279
 #: ../comps-f24.xml.in.h:292 ../comps-f25.xml.in.h:292
@@ -1660,12 +1672,12 @@ msgstr "Støtte for urdu"
 #: ../comps-f22.xml.in.h:281 ../comps-f23.xml.in.h:281
 #: ../comps-f24.xml.in.h:294 ../comps-f25.xml.in.h:294
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant med libvirt-støtte"
 
 #: ../comps-f22.xml.in.h:282 ../comps-f23.xml.in.h:282
 #: ../comps-f24.xml.in.h:295 ../comps-f25.xml.in.h:295
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "Disse pakkene gir støtte for Vagrant med libvirt-tilbyderstøtte"
 
 #: ../comps-f22.xml.in.h:283 ../comps-f23.xml.in.h:283
 #: ../comps-f24.xml.in.h:296 ../comps-f25.xml.in.h:296
@@ -1711,12 +1723,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:290 ../comps-f23.xml.in.h:292
 #: ../comps-f24.xml.in.h:305 ../comps-f25.xml.in.h:305
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Produktkjerne for Fedora-arbeidsstasjon"
 
 #: ../comps-f22.xml.in.h:291 ../comps-f23.xml.in.h:293
 #: ../comps-f24.xml.in.h:306 ../comps-f25.xml.in.h:306
 msgid "Packages mandatory for the workstation product."
-msgstr ""
+msgstr "Pakker obligatoriske for arbeidsstasjonsproduktet."
 
 #: ../comps-f22.xml.in.h:292 ../comps-f23.xml.in.h:294
 #: ../comps-f24.xml.in.h:307 ../comps-f25.xml.in.h:307
@@ -1732,7 +1744,7 @@ msgstr "Disse pakkene lar deg utvikle programmer for X."
 #: ../comps-f22.xml.in.h:294 ../comps-f23.xml.in.h:296
 #: ../comps-f24.xml.in.h:309 ../comps-f25.xml.in.h:309
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Programmer for Xfce-skrivebordet"
 
 #: ../comps-f22.xml.in.h:295 ../comps-f23.xml.in.h:297
 #: ../comps-f24.xml.in.h:310 ../comps-f25.xml.in.h:310
@@ -1756,27 +1768,27 @@ msgstr ""
 #: ../comps-f22.xml.in.h:298 ../comps-f23.xml.in.h:300
 #: ../comps-f24.xml.in.h:313 ../comps-f25.xml.in.h:313
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Ekstra programtillegg for Xfce-panelet"
 
 #: ../comps-f22.xml.in.h:299 ../comps-f23.xml.in.h:301
 #: ../comps-f24.xml.in.h:314 ../comps-f25.xml.in.h:314
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Utvid Xfce-panelets funksjonalitet"
 
 #: ../comps-f22.xml.in.h:300 ../comps-f23.xml.in.h:302
 #: ../comps-f24.xml.in.h:315 ../comps-f25.xml.in.h:315
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Multimediastøtte for Xfce"
 
 #: ../comps-f22.xml.in.h:301 ../comps-f23.xml.in.h:303
 #: ../comps-f24.xml.in.h:316 ../comps-f25.xml.in.h:316
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce-kontor"
 
 #: ../comps-f22.xml.in.h:302 ../comps-f23.xml.in.h:304
 #: ../comps-f24.xml.in.h:317 ../comps-f25.xml.in.h:317
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Kontorpakke for Xfce"
 
 #: ../comps-f22.xml.in.h:303 ../comps-f23.xml.in.h:305
 #: ../comps-f24.xml.in.h:318 ../comps-f25.xml.in.h:318
@@ -1788,7 +1800,7 @@ msgstr "Programvareutvikling for Xfce"
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Installer disse pakkene for å utvikle GTK+- og grafiske programmer."
 
 #: ../comps-f22.xml.in.h:305 ../comps-f23.xml.in.h:307
 #: ../comps-f24.xml.in.h:320 ../comps-f25.xml.in.h:320
@@ -1803,12 +1815,12 @@ msgstr ""
 #: ../comps-f22.xml.in.h:307 ../comps-f23.xml.in.h:309
 #: ../comps-f24.xml.in.h:322 ../comps-f25.xml.in.h:322
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad for MATE"
 
 #: ../comps-f22.xml.in.h:308 ../comps-f23.xml.in.h:310
 #: ../comps-f24.xml.in.h:323 ../comps-f25.xml.in.h:323
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad-vindusbehandler med MATE"
 
 #: ../comps-f22.xml.in.h:309 ../comps-f23.xml.in.h:311
 #: ../comps-f24.xml.in.h:324 ../comps-f25.xml.in.h:324
@@ -2013,12 +2025,12 @@ msgstr "Tekst og annet fritt innhold."
 #: ../comps-f23.xml.in.h:285 ../comps-f24.xml.in.h:298
 #: ../comps-f25.xml.in.h:298
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "Disse pakkene tilbyr et grafisk virtualiseringsmiljø."
 
 #: ../comps-f23.xml.in.h:286 ../comps-f24.xml.in.h:299
 #: ../comps-f25.xml.in.h:299
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Virtualisering uten tilkoblet skjerm"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
@@ -2027,7 +2039,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
-msgstr ""
+msgstr "Ansible-node"
 
 #: ../comps-f24.xml.in.h:5 ../comps-f25.xml.in.h:5
 msgid ""
@@ -2037,7 +2049,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr ""
+msgstr "Kritisk sti (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
@@ -2047,7 +2059,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:126 ../comps-f25.xml.in.h:126
 msgid "Applications for the Hawaii Desktop"
-msgstr ""
+msgstr "Programmer for Hawaii-skrivebordet"
 
 #: ../comps-f24.xml.in.h:127 ../comps-f25.xml.in.h:127
 msgid "A set of commonly used applications for the Hawaii Desktop"
@@ -2055,7 +2067,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:128 ../comps-f25.xml.in.h:128
 msgid "Hawaii"
-msgstr ""
+msgstr "Hawaii"
 
 #: ../comps-f24.xml.in.h:129 ../comps-f25.xml.in.h:129
 msgid ""
@@ -2065,19 +2077,19 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:130 ../comps-f25.xml.in.h:130
 msgid "Multimedia support for Hawaii"
-msgstr ""
+msgstr "Multimediastøtte for Hawaii"
 
 #: ../comps-f24.xml.in.h:131 ../comps-f25.xml.in.h:131
 msgid "Hawaii Office"
-msgstr ""
+msgstr "Hawaii-kontor"
 
 #: ../comps-f24.xml.in.h:132 ../comps-f25.xml.in.h:132
 msgid "Office suite for Hawaii"
-msgstr ""
+msgstr "Kontorpakke for Hawaii"
 
 #: ../comps-f24.xml.in.h:179 ../comps-f25.xml.in.h:179
 msgid "LiveCD Tools"
-msgstr ""
+msgstr "LiveCD-verktøy"
 
 #: ../comps-f24.xml.in.h:180 ../comps-f25.xml.in.h:180
 msgid "Tools that need to be installed into a livecd for it to function"
@@ -2091,7 +2103,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:325 ../comps-f25.xml.in.h:325
 msgid "Hawaii Desktop"
-msgstr ""
+msgstr "Hawaii-skrivebord"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
@@ -3030,7 +3042,7 @@ msgstr "Støtte for iSCSI-klienter"
 
 #: ../comps-el6.xml.in.h:229 ../comps-epel7.xml.in.h:231
 msgid "Storage Availability Tools"
-msgstr ""
+msgstr "Verktøy for lagringstilgjengelighet"
 
 #: ../comps-el6.xml.in.h:230 ../comps-epel7.xml.in.h:232
 msgid "A set of tools to manage SAN path availability"
@@ -3070,7 +3082,7 @@ msgstr "Systemadministrasjon"
 
 #: ../comps-el6.xml.in.h:239 ../comps-epel7.xml.in.h:241
 msgid "Various low-level hardware management frameworks."
-msgstr ""
+msgstr "Forskjellige lavnivårammeverk for maskinvarehåndtering."
 
 #: ../comps-el6.xml.in.h:240 ../comps-epel7.xml.in.h:242
 msgid "Messaging Client Support"
@@ -3142,11 +3154,11 @@ msgstr "Støtte for Tswana"
 
 #: ../comps-el6.xml.in.h:261 ../comps-epel7.xml.in.h:263
 msgid "TurboGears application framework"
-msgstr ""
+msgstr "TurboGears-programrammevark"
 
 #: ../comps-el6.xml.in.h:262 ../comps-epel7.xml.in.h:264
 msgid "TurboGears web application framework."
-msgstr ""
+msgstr "Rammeverk for TurboGears-vevprogram"
 
 #: ../comps-el6.xml.in.h:263 ../comps-epel7.xml.in.h:265
 msgid "Turkish Support"
@@ -3202,7 +3214,7 @@ msgstr "Virtualiseringsverktøy"
 
 #: ../comps-el6.xml.in.h:278 ../comps-epel7.xml.in.h:280
 msgid "Tools for offline virtual image management."
-msgstr ""
+msgstr "Verktøy for frakoblet håndtering av virtuelle avtrykk."
 
 #: ../comps-el6.xml.in.h:279 ../comps-epel7.xml.in.h:281
 msgid "Walloon Support"
@@ -3234,7 +3246,7 @@ msgstr "Regelsett for arbeidsstasjon"
 
 #: ../comps-el6.xml.in.h:286 ../comps-epel7.xml.in.h:288
 msgid "Policy packages for the Workstation variant."
-msgstr ""
+msgstr "Praksispakker for arbeidsstasjonsvarianten."
 
 #: ../comps-el6.xml.in.h:288 ../comps-epel7.xml.in.h:290
 msgid "X Window System Support."
