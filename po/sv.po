@@ -13,20 +13,22 @@
 # fedoratrans <fedoratrans@gmail.com>, 2007-2008
 # Göran Uddeborg <goeran@uddeborg.se>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Allan Nordhøy <epost@anotheragency.no>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-04-29 03:22+0000\n"
-"Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
-"Language-Team: Swedish (http://www.transifex.com/projects/p/comps/language/sv/)\n"
+"PO-Revision-Date: 2020-05-24 07:40+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -2040,8 +2042,9 @@ msgstr "Virtualisering utan huvud"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
+#, fuzzy
 msgid "These packages provide a headless virtualization environment."
-msgstr "Dessa paket ger en virtualiseringsmiljö utan huvud."
+msgstr "Dessa paket ger en virtualiseringsmiljö utan tillkopplad skärm."
 
 #: ../comps-f24.xml.in.h:4 ../comps-f25.xml.in.h:4
 msgid "Ansible node"
