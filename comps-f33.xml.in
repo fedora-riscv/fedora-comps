@@ -230,6 +230,7 @@
       <packagereq type="default">sbc</packagereq>
       <packagereq type="default">seq24</packagereq>
       <packagereq type="default">sooperlooper</packagereq>
+      <packagereq type="default">studio-controls</packagereq>
       <packagereq type="default">swami</packagereq>
       <packagereq type="default">synthv1</packagereq>
       <packagereq type="default">timidity++</packagereq>
