@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-05-06 13:40+0000\n"
+"PO-Revision-Date: 2020-05-27 14:40+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/pt/>\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.0.3\n"
+"X-Generator: Weblate 4.0.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -51,8 +51,8 @@ msgid ""
 " such as for managing user accounts and configuring system hardware."
 msgstr ""
 "Este grupo é uma coleção de ferramentas de administração gráficas para o "
-"sistema, tais como a gestão das contas do utilizador e configurar o hardware"
-" do sistema."
+"sistema, tais como a gestão de contas do utilizador e configuração do "
+"hardware do sistema."
 
 #: ../comps-f22.xml.in.h:5 ../comps-f23.xml.in.h:3 ../comps-f24.xml.in.h:3
 #: ../comps-f25.xml.in.h:3
@@ -78,7 +78,7 @@ msgstr "Produção de Áudio"
 #: ../comps-f22.xml.in.h:9 ../comps-f23.xml.in.h:7 ../comps-f24.xml.in.h:9
 #: ../comps-f25.xml.in.h:9
 msgid "Various tools for audio synthesis and music production."
-msgstr "Várias ferramentas para a síntese de áudio e produção musical."
+msgstr "Várias ferramentas para a síntese de áudio e produção de música."
 
 #: ../comps-f22.xml.in.h:10 ../comps-f23.xml.in.h:8 ../comps-f24.xml.in.h:10
 #: ../comps-f25.xml.in.h:10 ../comps-el5.xml.in.h:7
@@ -92,7 +92,7 @@ msgid ""
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
 "Estas ferramentas permitem-lhe criar documentos no formato DocBook e "
-"convertê-los em HTML, PDF, PostScript e texto."
+"convertê-los para HTML, PDF, PostScript e texto."
 
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
@@ -737,9 +737,8 @@ msgstr "HAProxy"
 
 #: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:117
 #: ../comps-f24.xml.in.h:121 ../comps-f25.xml.in.h:121
-#, fuzzy
 msgid "TCP/HTTP Load Balancer."
-msgstr "TCP/HTTP Load Balancer."
+msgstr "Balanceador de Carga TCP / HTTP."
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
 #: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122
@@ -1034,9 +1033,8 @@ msgstr ""
 
 #: ../comps-f22.xml.in.h:170 ../comps-f23.xml.in.h:168
 #: ../comps-f24.xml.in.h:181 ../comps-f25.xml.in.h:181
-#, fuzzy
 msgid "Load Balancer"
-msgstr "Load Balancer"
+msgstr "Balanceador de Carga"
 
 #: ../comps-f22.xml.in.h:171 ../comps-f23.xml.in.h:169
 #: ../comps-f24.xml.in.h:182 ../comps-f25.xml.in.h:182
