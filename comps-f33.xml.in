@@ -206,6 +206,7 @@
       <packagereq type="default">lv2dynparam</packagereq>
       <packagereq type="default">monobristol</packagereq>
       <packagereq type="default">mscore</packagereq>
+      <packagereq type="default">mudita24</packagereq>
       <packagereq type="default">multimedia-menus</packagereq>
       <packagereq type="default">mup</packagereq>
       <packagereq type="default">muse</packagereq>
