@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
 # Bernd Groh <bgroh@redhat.com>, 2003, 2004
 # Daniela Kugelmann <dkugelma@redhat.com >, 2008
@@ -23,13 +23,14 @@
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Raphael Groner <projects.rg@smart.ms>, 2016. #zanata
 # Tobias Weise <tobias.weise@web.de>, 2016. #zanata, 2020.
+# Wolfgang Stoeggl <c72578@yahoo.de>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-04-18 22:40+0000\n"
-"Last-Translator: Tobias Weise <tobias.weise@web.de>\n"
+"PO-Revision-Date: 2020-06-21 14:40+0000\n"
+"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/de/>\n"
 "Language: de\n"
@@ -37,7 +38,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.1\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -166,7 +167,7 @@ msgstr "Unterstützung für Burmesisch (Myanmar)"
 #: ../comps-f22.xml.in.h:23 ../comps-f23.xml.in.h:21 ../comps-f24.xml.in.h:23
 #: ../comps-f25.xml.in.h:23
 msgid "C Development Tools and Libraries"
-msgstr "C-Entwicklungswerkzeuge und -Bibliotheken"
+msgstr "C-Entwicklungswerkzeuge und -bibliotheken"
 
 #: ../comps-f22.xml.in.h:24 ../comps-f23.xml.in.h:22 ../comps-f24.xml.in.h:24
 #: ../comps-f25.xml.in.h:24
@@ -342,7 +343,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:51 ../comps-f23.xml.in.h:49 ../comps-f24.xml.in.h:53
 #: ../comps-f25.xml.in.h:53
 msgid "D Development Tools and Libraries"
-msgstr "C-Entwicklungswerkzeuge und -bibliotheken"
+msgstr "D-Entwicklungswerkzeuge und -bibliotheken"
 
 #: ../comps-f22.xml.in.h:52 ../comps-f23.xml.in.h:50 ../comps-f24.xml.in.h:54
 #: ../comps-f25.xml.in.h:54
@@ -491,7 +492,7 @@ msgstr "Electronic Lab"
 #: ../comps-f22.xml.in.h:76 ../comps-f23.xml.in.h:74 ../comps-f24.xml.in.h:78
 #: ../comps-f25.xml.in.h:78
 msgid "Design and simulation tools for hardware engineers"
-msgstr "Design- und Simulationswekzeuge für Hardwareentwickler"
+msgstr "Design- und Simulationswerkzeuge für Hardwareentwickler"
 
 #: ../comps-f22.xml.in.h:77 ../comps-f23.xml.in.h:75 ../comps-f24.xml.in.h:79
 #: ../comps-f25.xml.in.h:79 ../comps-el5.xml.in.h:23
@@ -676,7 +677,7 @@ msgstr "Grafische Internetprogramme"
 #: ../comps-f22.xml.in.h:107 ../comps-f23.xml.in.h:105
 #: ../comps-f24.xml.in.h:109 ../comps-f25.xml.in.h:109
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "äDiese Gruppe umfasst grafische E-Mail-, Web- und Chat-Clients."
+msgstr "Diese Gruppe umfasst grafische E-Mail-, Web- und Chat-Clients."
 
 #: ../comps-f22.xml.in.h:108 ../comps-f23.xml.in.h:106
 #: ../comps-f24.xml.in.h:110 ../comps-f25.xml.in.h:110
@@ -1054,7 +1055,7 @@ msgstr "Loadbalancing-Unterstützung für Netzwerkverkehr"
 #: ../comps-f22.xml.in.h:172 ../comps-f23.xml.in.h:170
 #: ../comps-f24.xml.in.h:183 ../comps-f25.xml.in.h:183
 msgid "Applications for the LXDE Desktop"
-msgstr "Anwendungen für dieLXDE-Benutzeroberfläche"
+msgstr "Anwendungen für die LXDE-Benutzeroberfläche"
 
 #: ../comps-f22.xml.in.h:173 ../comps-f23.xml.in.h:171
 #: ../comps-f24.xml.in.h:184 ../comps-f25.xml.in.h:184
@@ -1588,8 +1589,8 @@ msgstr "PostgreSQL-Datenbank"
 #: ../comps-f24.xml.in.h:273 ../comps-f25.xml.in.h:273
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
-"Diese Paketgruppe umfasst Pakete, die zur Verwendung mit Postgresql nützlich"
-" sind."
+"Diese Paketgruppe umfasst Pakete, die zur Verwendung mit PostgreSQL nützlich "
+"sind."
 
 #: ../comps-f22.xml.in.h:263 ../comps-f23.xml.in.h:261
 #: ../comps-f24.xml.in.h:274 ../comps-f25.xml.in.h:274
@@ -2253,7 +2254,7 @@ msgstr ""
 
 #: ../comps-el5.xml.in.h:22
 msgid "Design and Simulation tools for hardware engineers"
-msgstr "Design- und Simulationswekzeuge für Hardwareentwickler"
+msgstr "Design- und Simulationswerkzeuge für Hardwareentwickler"
 
 #: ../comps-el5.xml.in.h:26
 msgid "Tools and Utilities needed by a Fedora Packager"
@@ -2581,7 +2582,7 @@ msgstr "Eclipse-basierte integrierte Entwicklungsumgebung"
 
 #: ../comps-el6.xml.in.h:64 ../comps-epel7.xml.in.h:64
 msgid "Educational software for learning."
-msgstr "Bildungs-Software zum lLernen."
+msgstr "Bildungs-Software zum Lernen."
 
 #: ../comps-el6.xml.in.h:66 ../comps-epel7.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
@@ -3005,7 +3006,7 @@ msgstr "PostgreSQL-Datenbank-Server"
 
 #: ../comps-el6.xml.in.h:192 ../comps-epel7.xml.in.h:194
 msgid "The PostgreSQL SQL database server, and associated packages."
-msgstr "Der PostgerSQL-Datenbankserver und zugehörige Pakete."
+msgstr "Der PostgreSQL-Datenbankserver und zugehörige Pakete."
 
 #: ../comps-el6.xml.in.h:193 ../comps-epel7.xml.in.h:195
 msgid "PostgreSQL Database client"
@@ -3142,7 +3143,7 @@ msgstr "iSCSI-Client-Unterstützung"
 
 #: ../comps-el6.xml.in.h:229 ../comps-epel7.xml.in.h:231
 msgid "Storage Availability Tools"
-msgstr "Werkzeuge für die Verfügbakeit von Speichern"
+msgstr "Werkzeuge für die Verfügbarkeit von Speichern"
 
 #: ../comps-el6.xml.in.h:230 ../comps-epel7.xml.in.h:232
 msgid "A set of tools to manage SAN path availability"
