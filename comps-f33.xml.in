@@ -75,12 +75,12 @@
       <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32-cdboot</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-x64</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-x64-cdboot</packagereq>
-      <packagereq arch="i386,x86_64" type="mandatory">grub2-pc</packagereq>
+      <packagereq arch="x86_64" type="mandatory">grub2-pc</packagereq>
       <packagereq arch="ppc64" type="mandatory">grub2-ppc64</packagereq>
       <packagereq arch="ppc64le" type="mandatory">grub2-ppc64le</packagereq>
-      <packagereq arch="aarch64,armhfp,i686,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
+      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
       <packagereq arch="aarch64,armhfp,x86_64" type="mandatory">grub2-tools-efi</packagereq>
-      <packagereq arch="aarch64,armhfp,i686,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
+      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
       <packagereq type="mandatory">kdump-anaconda-addon</packagereq>
@@ -95,7 +95,7 @@
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-x64</packagereq>
-      <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
+      <packagereq arch="x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
     </packagelist>
@@ -545,7 +545,7 @@
       <packagereq type="mandatory">dracut-config-generic</packagereq>
       <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
-      <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
+      <packagereq arch="x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="default">fedora-release-cloud</packagereq>
       <packagereq type="default">console-login-helper-messages-issuegen</packagereq>

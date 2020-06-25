@@ -11,7 +11,7 @@ import glob
 import subprocess
 import xml.etree.ElementTree as ET
 
-ARCHES = ('aarch64', 'armv7hl', 'i686', 'ppc64le', 's390x', 'x86_64')
+ARCHES = ('aarch64', 'armv7hl', 'ppc64le', 's390x', 'x86_64')
 
 # gather package lists. this eats lots of RAM. I don't care.
 pkgs = {}
@@ -31,7 +31,7 @@ for pkgreq in pkgreqs:
     # list of arches the package is missing on
     missing = []
     # arches the package is listed for (if no 'arch' key, it's listed for all)
-    reqarches = pkgreq.get('arch', '').replace('armhfp', 'armv7hl').replace('i386', 'i686').replace('ppc64,','')
+    reqarches = pkgreq.get('arch', '').replace('armhfp', 'armv7hl').replace('ppc64,','')
     if reqarches:
         reqarches = reqarches.split(',')
     else:
