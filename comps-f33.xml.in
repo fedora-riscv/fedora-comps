@@ -4490,7 +4490,6 @@
       <packagereq type="mandatory">plank</packagereq>
       <packagereq type="mandatory">wingpanel</packagereq>
       <packagereq type="mandatory">wingpanel-applications-menu</packagereq>
-      <packagereq type="mandatory">wingpanel-indicator-ayatana</packagereq>
       <packagereq type="mandatory">wingpanel-indicator-bluetooth</packagereq>
       <packagereq type="mandatory">wingpanel-indicator-datetime</packagereq>
       <packagereq type="mandatory">wingpanel-indicator-keyboard</packagereq>
