@@ -8,10 +8,17 @@
 # packages.
 
 import glob
+import argparse
 import subprocess
-import xml.etree.ElementTree as ET
+import lxml.etree as ET
+from collections import defaultdict
 
 ARCHES = ('aarch64', 'armv7hl', 'ppc64le', 's390x', 'x86_64')
+
+parser = argparse.ArgumentParser(description='Check the comps file for missing packages and packages missing on architectures')
+parser.add_argument('--update', dest='update', action='store_true', default=False,
+                    help='Update the comps file with the changes')
+args = parser.parse_args()
 
 # gather package lists. this eats lots of RAM. I don't care.
 pkgs = {}
@@ -22,14 +29,21 @@ for arch in ARCHES:
 # find the *latest* comps file (assume it's rawhide)
 compsfiles = glob.glob('comps-f*.xml.in')
 latest = sorted(compsfiles, key=lambda x: int(''.join(c for c in x if c.isdigit())))[-1]
+
+
 # find package reqs in comps
-root = ET.parse(latest).getroot()
+tree = ET.parse(latest) #, ET.XMLParser(target=CommentedTreeBuilder()))
+root = tree.getroot()
 pkgreqs = root.findall('.//packagereq')
 
-# check!
+# Check if each package is in the repository for each architecture
+removedpkgs = defaultdict(list)
+archpkgs = defaultdict(list)
 for pkgreq in pkgreqs:
     # list of arches the package is missing on
     missing = []
+    present = []
+
     # arches the package is listed for (if no 'arch' key, it's listed for all)
     reqarches = pkgreq.get('arch', '').replace('armhfp', 'armv7hl').replace('ppc64,','')
     if reqarches:
@@ -41,9 +55,82 @@ for pkgreq in pkgreqs:
     for arch in reqarches:
         if arch in pkgs and pkgreq.text not in pkgs[arch]:
             missing.append(arch)
+        else:
+            present.append(arch)
+
+    grpid = pkgreq.find('./../../id').text
+    pkgname = pkgreq.text
 
     # print the result
     if missing == list(ARCHES):
-        print('Package {} not found for any arch'.format(pkgreq.text))
+        if pkgreq.getparent() is not None:
+            removedpkgs[pkgname].append(grpid)
+            pkgreq.getparent().remove(pkgreq)
     elif missing:
-        print('Package {} not found for arches {}'.format(pkgreq.text, ', '.join(missing)))
+        archpkgs[pkgname] = ', '.join(present)
+
+# Find empty groups after packages not in repositories have been removed
+pkglists = root.findall('.//packagelist')
+removedgrps = {}
+for pkglist in pkglists:
+    if not len(pkglist):
+        group = pkglist.getparent()
+        grpid = group.find('./id').text
+        removedgrps[grpid] = []
+        group.getparent().remove(group)
+
+
+# Remove any empty groups from the environment lists
+envlists = root.findall('.//environment//groupid')
+for envgrp in envlists:
+    grpid = envgrp.text
+    if grpid in removedgrps:
+        # The groups are inside a grouplist inside the environment
+        par = envgrp.getparent()
+        envid = par.getparent().find('./id').text
+        removedgrps[grpid].append(envid)
+        par.remove(envgrp)
+
+
+# Remove any empty groups from the category lists
+catlists = root.findall('.//category//groupid')
+for catgrp in catlists:
+    grpid = catgrp.text
+    if grpid in removedgrps:
+        # The groups are inside a grouplist inside the category
+        par = catgrp.getparent()
+        catid = par.getparent().find('./id').text
+        removedgrps[grpid].append(catid)
+        par.remove(catgrp)
+
+
+# Remove any language packs for packages that don't exist anymore
+langpacks = root.find('.//langpacks')
+removedlang = []
+for lang in langpacks.getchildren():
+    pkg = lang.get('name')
+    if pkg in list(removedpkgs):
+        removedlang.append(pkg)
+        lang.getparent().remove(lang)
+
+# Print out a summary
+print('Packages with incorrect architecture tags:')
+for pkg in sorted(archpkgs):
+    print('    {} only available on {}'.format(pkg, archpkgs[pkg]))
+
+print('\nRemoving packages:')
+for pkg in sorted(removedpkgs):
+    print('    {} in group {}'.format(pkg, ', '.join(removedpkgs[pkg])))
+
+print('\nRemoving empty groups:')
+for group in sorted(removedgrps):
+    print('    {} in {}'.format(group, ', '.join(removedgrps[group])))
+
+print('\nRemoving language packs for:')
+for lang in removedlang:
+    print('    {}'.format(lang))
+
+
+# Write out the updated XML file if desired
+if args.update:
+    tree.write(latest, encoding="UTF-8", xml_declaration=True)
