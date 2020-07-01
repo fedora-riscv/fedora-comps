@@ -3691,12 +3691,12 @@
     <packagelist>
       <packagereq>libreoffice-emailmerge</packagereq>
       <packagereq>libreoffice-graphicfilter</packagereq>
-      <packagereq>libreoffice-math</packagereq>
       <packagereq type="mandatory">libreoffice-calc</packagereq>
       <packagereq type="mandatory">libreoffice-impress</packagereq>
       <packagereq type="mandatory">libreoffice-writer</packagereq>
       <packagereq type="optional">libreoffice-base</packagereq>
       <packagereq type="optional">libreoffice-draw</packagereq>
+      <packagereq type="optional">libreoffice-math</packagereq>
       <packagereq type="optional">libreoffice-pyuno</packagereq>
     </packagelist>
   </group>
