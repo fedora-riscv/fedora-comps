@@ -450,7 +450,6 @@
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
       <packagereq type="mandatory">eom</packagereq>
-      <packagereq type="mandatory">fedora-icon-theme</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">firewall-config</packagereq>
       <packagereq type="mandatory">gnome-calculator</packagereq>
@@ -3837,7 +3836,6 @@
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>falkon</packagereq>
       <packagereq>falkon-kwallet</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lxqt-about</packagereq>
