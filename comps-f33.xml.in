@@ -6049,7 +6049,6 @@
       <packagereq>blueberry</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>greybird-light-theme</packagereq>
