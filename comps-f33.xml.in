@@ -332,7 +332,6 @@
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>awesome</packagereq>
       <packagereq>dwm</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>i3</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lightdm-gtk</packagereq>
