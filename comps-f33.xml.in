@@ -3747,7 +3747,6 @@
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>clipit</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
-      <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>galculator</packagereq>
       <packagereq>gigolo</packagereq>
