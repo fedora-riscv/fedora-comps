@@ -835,7 +835,7 @@
       <packagereq type="default">deepin-screenshot</packagereq>
       <packagereq type="default">deepin-system-monitor</packagereq>
       <packagereq type="default">dnfdragora-updater</packagereq>
-      <packagereq type="default">fedora-icon-theme</packagereq>
+      <packagereq type="default">deepin-icon-theme</packagereq>
       <packagereq type="default">firewall-config</packagereq>
     </packagelist>
   </group>
