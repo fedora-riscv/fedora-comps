@@ -5527,6 +5527,7 @@
       <packagereq type="default">sssd</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">tcpdump</packagereq>
+      <packagereq type="default">thermald</packagereq>
       <packagereq type="default">time</packagereq>
       <packagereq type="default">traceroute</packagereq>
       <packagereq type="default">tree</packagereq>
