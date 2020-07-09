@@ -98,7 +98,6 @@
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
-      <packagereq type="mandatory">zram</packagereq>
     </packagelist>
   </group>
   <group>
@@ -112,7 +111,6 @@
       <packagereq>cloud-utils-growpart</packagereq>
       <packagereq>uboot-images-armv7</packagereq>
       <packagereq>uboot-images-armv8</packagereq>
-      <packagereq>zram</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5331,6 +5329,7 @@
       <packagereq>wireless-tools</packagereq>
       <packagereq>words</packagereq>
       <packagereq>zip</packagereq>
+      <packagereq>zram-generator-defaults</packagereq>
       <packagereq type="conditional" requires="gnome-control-center">chrony</packagereq>
     </packagelist>
   </group>
@@ -5607,7 +5606,6 @@
       <packagereq type="optional">xmobar</packagereq>
       <packagereq type="optional">xsel</packagereq>
       <packagereq type="optional">zidrav</packagereq>
-      <packagereq type="optional">zram</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5824,7 +5822,6 @@
       <packagereq type="mandatory">systemd-udev</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
-      <packagereq type="mandatory">zram</packagereq>
       <packagereq type="default">abrt-cli</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
@@ -5933,6 +5930,7 @@
       <packagereq type="default">wireless-tools</packagereq>
       <packagereq type="default">words</packagereq>
       <packagereq type="default">zip</packagereq>
+      <packagereq type="default">zram-generator-defaults</packagereq>
     </packagelist>
   </group>
   <group>
