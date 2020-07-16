@@ -618,6 +618,7 @@
       <packagereq type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">powerpc-utils</packagereq>
+      <packagereq type="default">zram-generator-defaults</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">initscripts</packagereq>
@@ -4949,7 +4950,6 @@
       <packagereq>wireless-tools</packagereq>
       <packagereq>words</packagereq>
       <packagereq>zip</packagereq>
-      <packagereq>zram-generator-defaults</packagereq>
       <packagereq type="conditional" requires="gnome-control-center">chrony</packagereq>
     </packagelist>
   </group>
@@ -5524,7 +5524,6 @@
       <packagereq type="default">wireless-tools</packagereq>
       <packagereq type="default">words</packagereq>
       <packagereq type="default">zip</packagereq>
-      <packagereq type="default">zram-generator-defaults</packagereq>
     </packagelist>
   </group>
   <group>
