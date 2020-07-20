@@ -4342,6 +4342,7 @@
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">emacs</packagereq>
       <packagereq type="optional">nano</packagereq>
+      <packagereq type="optional">nano-default-editor</packagereq>
       <packagereq type="optional">openssh-clients</packagereq>
       <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">wget</packagereq>
@@ -4580,6 +4581,7 @@
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">mutt</packagereq>
       <packagereq type="default">nano</packagereq>
+      <packagereq type="default">nano-default-editor</packagereq>
       <packagereq type="default">nbtscan</packagereq>
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
@@ -4909,6 +4911,7 @@
       <packagereq>mlocate</packagereq>
       <packagereq>mtr</packagereq>
       <packagereq>nano</packagereq>
+      <packagereq>nano-default-editor</packagereq>
       <packagereq>net-tools</packagereq>
       <packagereq>nfs-utils</packagereq>
       <packagereq>nmap-ncat</packagereq>
@@ -5471,6 +5474,7 @@
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">nano</packagereq>
+      <packagereq type="default">nano-default-editor</packagereq>
       <packagereq type="default">net-tools</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
