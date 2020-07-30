@@ -1039,18 +1039,18 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">ppp</packagereq>
-      <packagereq type="default">linux-atm</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">minicom</packagereq>
       <packagereq type="default">ModemManager</packagereq>
       <packagereq type="default">NetworkManager-adsl</packagereq>
       <packagereq type="default">NetworkManager-ppp</packagereq>
       <packagereq type="default">NetworkManager-wwan</packagereq>
-      <packagereq type="default">rp-pppoe</packagereq>
-      <packagereq type="default">wvdial</packagereq>
       <packagereq type="optional">efax</packagereq>
+      <packagereq type="optional">linux-atm</packagereq>
       <packagereq type="optional">pptp</packagereq>
+      <packagereq type="optional">rp-pppoe</packagereq>
       <packagereq type="optional">statserial</packagereq>
+      <packagereq type="optional">wvdial</packagereq>
     </packagelist>
   </group>
   <group>
