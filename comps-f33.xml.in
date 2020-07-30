@@ -4880,7 +4880,6 @@
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bind-utils</packagereq>
-      <packagereq>bridge-utils</packagereq>
       <packagereq>btrfs-progs</packagereq>
       <packagereq>bzip2</packagereq>
       <packagereq>cifs-utils</packagereq>
@@ -4937,17 +4936,14 @@
       <packagereq>systemd-udev</packagereq>
       <packagereq>tar</packagereq>
       <packagereq>tcpdump</packagereq>
-      <packagereq>telnet</packagereq>
       <packagereq>time</packagereq>
       <packagereq>traceroute</packagereq>
       <packagereq>tree</packagereq>
       <packagereq>unzip</packagereq>
       <packagereq>usbutils</packagereq>
       <packagereq>util-linux-user</packagereq>
-      <packagereq>vconfig</packagereq>
       <packagereq>wget</packagereq>
       <packagereq>which</packagereq>
-      <packagereq>wireless-tools</packagereq>
       <packagereq>words</packagereq>
       <packagereq>zip</packagereq>
       <packagereq type="conditional" requires="gnome-control-center">chrony</packagereq>
@@ -5426,7 +5422,6 @@
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bc</packagereq>
       <packagereq type="default">bind-utils</packagereq>
-      <packagereq type="default">bridge-utils</packagereq>
       <packagereq type="default">btrfs-progs</packagereq>
       <packagereq type="default">bzip2</packagereq>
       <packagereq type="default">chrony</packagereq>
@@ -5501,27 +5496,22 @@
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">qt5-qtxmlpatterns</packagereq>
       <packagereq type="default">quota</packagereq>
-      <packagereq type="default">rdist</packagereq>
       <packagereq type="default">realmd</packagereq>
       <packagereq type="default">rhythmbox</packagereq>
       <packagereq type="default">rng-tools</packagereq>
-      <packagereq type="default">rp-pppoe</packagereq>
       <packagereq type="default">rsync</packagereq>
       <packagereq type="default">sos</packagereq>
       <packagereq type="default">sssd</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">tcpdump</packagereq>
-      <packagereq type="default">telnet</packagereq>
       <packagereq type="default">time</packagereq>
       <packagereq type="default">traceroute</packagereq>
       <packagereq type="default">tree</packagereq>
       <packagereq type="default">unoconv</packagereq>
       <packagereq type="default">unzip</packagereq>
       <packagereq type="default">usbutils</packagereq>
-      <packagereq type="default">vconfig</packagereq>
       <packagereq type="default">wget</packagereq>
       <packagereq type="default">which</packagereq>
-      <packagereq type="default">wireless-tools</packagereq>
       <packagereq type="default">words</packagereq>
       <packagereq type="default">zip</packagereq>
     </packagelist>
