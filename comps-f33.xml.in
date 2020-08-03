@@ -3059,6 +3059,7 @@
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dnfdragora</packagereq>
       <packagereq>dolphin</packagereq>
+      <packagereq>earlyoom</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
