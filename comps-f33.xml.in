@@ -293,6 +293,7 @@
       <packagereq>mesa-dri-drivers</packagereq>
       <packagereq>mesa-vulkan-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
+      <packagereq>xorg-x11-drv-amdgpu</packagereq>
       <packagereq>xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
@@ -698,6 +699,7 @@
       <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq type="mandatory">gnome-themes-extra</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">xorg-x11-drv-amdgpu</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-fbdev</packagereq>
