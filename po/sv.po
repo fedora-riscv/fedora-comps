@@ -7,11 +7,11 @@
 # Christian Rose <menthos@menthos.com>, 2002-2005
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Dimitris Glezos <glezos@transifex.com>, 2011
-# Göran Uddeborg <goeran@uddeborg.se>, 2011,2014
+# Göran Uddeborg <goeran@uddeborg.se>, 2011,2014, 2020.
 # Klap Hest <jojje3000@hotmail.com>, 2013
 # Klap Hest <jojje3000@hotmail.com>, 2013
 # fedoratrans <fedoratrans@gmail.com>, 2007-2008
-# Göran Uddeborg <goeran@uddeborg.se>, 2016. #zanata
+# Göran Uddeborg <goeran@uddeborg.se>, 2016. #zanata, 2020.
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Allan Nordhøy <epost@anotheragency.no>, 2020.
 msgid ""
@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-05-24 07:40+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"PO-Revision-Date: 2020-08-13 18:29+0000\n"
+"Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/sv/>\n"
 "Language: sv\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -725,7 +725,7 @@ msgstr "HAProxy"
 #: ../comps-f22.xml.in.h:119 ../comps-f23.xml.in.h:117
 #: ../comps-f24.xml.in.h:121 ../comps-f25.xml.in.h:121
 msgid "TCP/HTTP Load Balancer."
-msgstr "Lastbalanserare för TCP/HTTP"
+msgstr "Lastbalanserare för TCP/HTTP."
 
 #: ../comps-f22.xml.in.h:120 ../comps-f23.xml.in.h:118
 #: ../comps-f24.xml.in.h:122 ../comps-f25.xml.in.h:122
@@ -1583,7 +1583,7 @@ msgstr "Ytterligare Sugar-aktiviteter"
 #: ../comps-f22.xml.in.h:266 ../comps-f23.xml.in.h:264
 #: ../comps-f24.xml.in.h:277 ../comps-f25.xml.in.h:277
 msgid "Additional activities for use with the Sugar Environment."
-msgstr "Ytterligare aktiviteter att användas med miljön Sugar"
+msgstr "Ytterligare aktiviteter att användas med miljön Sugar."
 
 #: ../comps-f22.xml.in.h:267 ../comps-f23.xml.in.h:265
 #: ../comps-f24.xml.in.h:278 ../comps-f25.xml.in.h:278
@@ -1636,7 +1636,7 @@ msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Denna grupp inkluderar textbaserade klienter för e-post, webb och chatt.  "
+"Denna grupp inkluderar textbaserade klienter för e-post, webb och chatt. "
 "Dessa program kräver inte fönstersystemet X."
 
 #: ../comps-f22.xml.in.h:275 ../comps-f23.xml.in.h:273
@@ -2018,7 +2018,7 @@ msgstr "Bassystem"
 #: ../comps-f24.xml.in.h:362 ../comps-f25.xml.in.h:362
 #: ../comps-el5.xml.in.h:80
 msgid "Various core pieces of the system."
-msgstr "Olika nyckeldelar av systemet"
+msgstr "Olika nyckeldelar av systemet."
 
 #: ../comps-f22.xml.in.h:345 ../comps-f23.xml.in.h:347
 #: ../comps-f24.xml.in.h:363 ../comps-f25.xml.in.h:363
@@ -2705,7 +2705,7 @@ msgstr "Javaplattform"
 #: ../comps-el6.xml.in.h:121 ../comps-epel7.xml.in.h:121
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
 msgstr ""
-"Stöd för Java för server- och skrivbordsplattformarna av Enterprise Linux"
+"Stöd för Java för server- och skrivbordsplattformarna av Enterprise Linux."
 
 #: ../comps-el6.xml.in.h:124 ../comps-epel7.xml.in.h:124
 msgid "Kashubian Support"
