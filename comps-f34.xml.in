@@ -4238,6 +4238,26 @@
     </packagelist>
   </group>
   <group>
+    <id>phosh-desktop</id>
+    <_name>A phone/tablet UX environment</_name>
+    <_description>A phone/tablet desktop UX based on GNOME3 technologies.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>calls</packagereq>
+      <packagereq>feedbackd</packagereq>
+      <packagereq>gnome-terminal</packagereq>
+      <packagereq>gnome-contacts</packagereq>
+      <packagereq>NetworkManager</packagereq>
+      <packagereq>phoc</packagereq>
+      <packagereq>phosh</packagereq>
+      <packagereq>pidgin</packagereq>
+      <packagereq>purple-matrix</packagereq>
+      <packagereq>purple-telegram</packagereq>
+      <packagereq>squeekboard</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>php</id>
     <_name>PHP</_name>
     <_description>General-purpose web development scripting language.</_description>
