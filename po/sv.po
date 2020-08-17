@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-08-13 18:29+0000\n"
+"PO-Revision-Date: 2020-08-18 12:29+0000\n"
 "Last-Translator: Göran Uddeborg <goeran@uddeborg.se>\n"
 "Language-Team: Swedish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/sv/>\n"
@@ -2042,7 +2042,6 @@ msgstr "Virtualisering utan huvud"
 
 #: ../comps-f23.xml.in.h:287 ../comps-f24.xml.in.h:300
 #: ../comps-f25.xml.in.h:300
-#, fuzzy
 msgid "These packages provide a headless virtualization environment."
 msgstr "Dessa paket ger en virtualiseringsmiljö utan tillkopplad skärm."
 
