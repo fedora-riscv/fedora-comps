@@ -20,13 +20,14 @@
 # Tian Shixiong <tiansworld@fedoraproject.org>, 2016. #zanata
 # mosquito <sensor.wen@gmail.com>, 2016. #zanata
 # Tian Shixiong <tiansworld@gmail.com>, 2020.
+# Charles Lee <lchopn@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-06-02 09:40+0000\n"
-"Last-Translator: Tian Shixiong <tiansworld@gmail.com>\n"
+"PO-Revision-Date: 2020-08-20 15:29+0000\n"
+"Last-Translator: Charles Lee <lchopn@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
 "projects/fedora-comps/master/zh_CN/>\n"
 "Language: zh_CN\n"
@@ -34,7 +35,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.0.4\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -199,7 +200,7 @@ msgstr "云管理工具"
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
-msgstr "用于管理运行在云环境中的服务器和系统镜像的软件。"
+msgstr "用于管理运行在云环境中的服务器和系统镜像的软件"
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
@@ -252,7 +253,7 @@ msgstr "关键路径（基本）"
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr "一组为所有 Fedora 定制版的关键路径功能提供共享平台的软件包。"
+msgstr "一组为所有 Fedora 定制版的关键路径功能提供共享平台的软件包"
 
 #: ../comps-f22.xml.in.h:41 ../comps-f23.xml.in.h:39 ../comps-f24.xml.in.h:41
 #: ../comps-f25.xml.in.h:41
@@ -264,7 +265,7 @@ msgstr "关键路径（GNOME）"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME"
 " desktop"
-msgstr "一组为 GNOME 桌面提供关键路径功能的软件包。"
+msgstr "一组为 GNOME 桌面提供关键路径功能的软件包"
 
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
@@ -505,7 +506,7 @@ msgstr "Fedora Packager"
 #: ../comps-f22.xml.in.h:85 ../comps-f23.xml.in.h:83 ../comps-f24.xml.in.h:87
 #: ../comps-f25.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Fedora Packager 所需的工具和实用程序。"
+msgstr "Fedora 打包者所需的工具和实用程序"
 
 #: ../comps-f22.xml.in.h:86 ../comps-f23.xml.in.h:84 ../comps-f24.xml.in.h:88
 #: ../comps-f25.xml.in.h:88 ../comps-el6.xml.in.h:77
@@ -681,7 +682,7 @@ msgstr "高可用组件"
 #: ../comps-f22.xml.in.h:117 ../comps-f23.xml.in.h:115
 #: ../comps-f24.xml.in.h:119 ../comps-f25.xml.in.h:119
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr "面向高可用服务及/或共享存储的基础设施"
+msgstr "面向高可用服务及/或共享存储的基础设施。"
 
 #: ../comps-f22.xml.in.h:118 ../comps-f23.xml.in.h:116
 #: ../comps-f24.xml.in.h:120 ../comps-f25.xml.in.h:120
@@ -720,7 +721,6 @@ msgstr "对用 Haskell 编程语言开发程序的支持。"
 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
-#, fuzzy
 msgid "Headless Management"
 msgstr "无头设备（Headless）管理"
 
@@ -788,7 +788,7 @@ msgstr "Java 应用程序服务器"
 #: ../comps-f22.xml.in.h:136 ../comps-f23.xml.in.h:134
 #: ../comps-f24.xml.in.h:145 ../comps-f25.xml.in.h:145
 msgid "Java application server."
-msgstr "Java 应用程序服务器"
+msgstr "Java 应用程序服务器。"
 
 #: ../comps-f22.xml.in.h:137 ../comps-f23.xml.in.h:135
 #: ../comps-f24.xml.in.h:146 ../comps-f25.xml.in.h:146
@@ -1099,7 +1099,7 @@ msgstr "MATE 应用程序"
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
 msgid "Applications for the MATE Desktop."
-msgstr "用于 MATE 桌面环境的应用程序"
+msgstr "用于 MATE 桌面环境的应用程序。"
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1146,7 +1146,7 @@ msgstr "Milkymist"
 #: ../comps-f24.xml.in.h:212 ../comps-f25.xml.in.h:212
 #: ../comps-el6.xml.in.h:161 ../comps-epel7.xml.in.h:163
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr "Milkymist 硬件工程师的工具链"
+msgstr "Milkymist 硬件工程师的工具链。"
 
 #: ../comps-f22.xml.in.h:202 ../comps-f23.xml.in.h:200
 #: ../comps-f24.xml.in.h:213 ../comps-f25.xml.in.h:213
@@ -1216,11 +1216,10 @@ msgstr "常用 NetworkManager 子模块"
 
 #: ../comps-f22.xml.in.h:214 ../comps-f23.xml.in.h:212
 #: ../comps-f24.xml.in.h:225 ../comps-f25.xml.in.h:225
-#, fuzzy
 msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
-msgstr "该组包​​含了常用的 NetworkManager 子模块，但可能不适合用于某些流水化配置中。"
+msgstr "该组包含了常用的 NetworkManager 子模块，但可能不适合用于某些流水化配置中。"
 
 #: ../comps-f22.xml.in.h:215 ../comps-f23.xml.in.h:213
 #: ../comps-f24.xml.in.h:226 ../comps-f25.xml.in.h:226
@@ -1734,9 +1733,8 @@ msgstr "XMonad MATE 支持"
 
 #: ../comps-f22.xml.in.h:308 ../comps-f23.xml.in.h:310
 #: ../comps-f24.xml.in.h:323 ../comps-f25.xml.in.h:323
-#, fuzzy
 msgid "XMonad window manager with MATE"
-msgstr "为 MATE 提供 XMonad 窗口管理器"
+msgstr "带有 MATE 的 XMonad 窗口管理器"
 
 #: ../comps-f22.xml.in.h:309 ../comps-f23.xml.in.h:311
 #: ../comps-f24.xml.in.h:324 ../comps-f25.xml.in.h:324
@@ -1958,7 +1956,7 @@ msgstr "Ansible 节点"
 msgid ""
 "This group contains packages necessary for the system to be controlled by "
 "Ansible."
-msgstr "该组包​​含使用 Ansible 控制系统所必需的软件包。"
+msgstr "该组包含了需要受到 Ansible 控制的系统所必需的软件包。"
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
@@ -2140,7 +2138,7 @@ msgstr "安装这些软件包以便于开发 QT 和 KDE 图形化应用程序。
 
 #: ../comps-el5.xml.in.h:52
 msgid "This group is a collection of network servers for specific purposes"
-msgstr "这组是特殊用途的网络服务器合集。"
+msgstr "这组是特殊用途的网络服务器合集"
 
 #: ../comps-el5.xml.in.h:62
 msgid ""
@@ -2382,7 +2380,7 @@ msgstr "Eclipse"
 
 #: ../comps-el6.xml.in.h:62 ../comps-epel7.xml.in.h:62
 msgid "Eclipse-based Integrated Development Environment."
-msgstr "基于Eclipse的集成开发环境"
+msgstr "基于 Eclipse 的集成开发环境。"
 
 #: ../comps-el6.xml.in.h:64 ../comps-epel7.xml.in.h:64
 msgid "Educational software for learning."
@@ -2390,7 +2388,7 @@ msgstr "学习用教育软件。"
 
 #: ../comps-el6.xml.in.h:66 ../comps-epel7.xml.in.h:66
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "硬件工程师的设计和模拟工具"
+msgstr "硬件工程师的设计和模拟工具。"
 
 #: ../comps-el6.xml.in.h:67 ../comps-epel7.xml.in.h:67
 msgid "Emacs"
@@ -2731,7 +2729,7 @@ msgstr "NFS 文件服务器"
 
 #: ../comps-el6.xml.in.h:175 ../comps-epel7.xml.in.h:177
 msgid "NFS file server."
-msgstr "NFS 文件服务器"
+msgstr "NFS 文件服务器。"
 
 #: ../comps-el6.xml.in.h:176 ../comps-epel7.xml.in.h:178
 msgid "Northern Sotho Support"
@@ -2780,7 +2778,7 @@ msgstr "PHP 支持"
 
 #: ../comps-el6.xml.in.h:188 ../comps-epel7.xml.in.h:190
 msgid "PHP web application framework."
-msgstr "PHP web 应用程序构架"
+msgstr "PHP web 应用程序构架。"
 
 #: ../comps-el6.xml.in.h:189 ../comps-epel7.xml.in.h:191
 msgid "Polish Support"
