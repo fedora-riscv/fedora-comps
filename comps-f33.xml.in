@@ -4014,7 +4014,6 @@
       <packagereq type="optional">COPASI</packagereq>
       <packagereq type="optional">genesis-simulator</packagereq>
       <packagereq type="optional">moose</packagereq>
-      <packagereq type="optional">neurord</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
       <packagereq type="optional">python3-nest</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
