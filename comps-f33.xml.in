@@ -5532,6 +5532,7 @@
       <packagereq type="default">tree</packagereq>
       <packagereq type="default">unoconv</packagereq>
       <packagereq type="default">unzip</packagereq>
+      <packagereq type="default">uresourced</packagereq>
       <packagereq type="default">usbutils</packagereq>
       <packagereq type="default">wget</packagereq>
       <packagereq type="default">which</packagereq>
