@@ -107,10 +107,10 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>arm-image-installer</packagereq>
-      <packagereq>cloud-utils-growpart</packagereq>
-      <packagereq>uboot-images-armv7</packagereq>
-      <packagereq>uboot-images-armv8</packagereq>
+      <packagereq arch="armhfp,aarch64">arm-image-installer</packagereq>
+      <packagereq arch="armhfp,aarch64">cloud-utils-growpart</packagereq>
+      <packagereq arch="armhfp">uboot-images-armv7</packagereq>
+      <packagereq arch="aarch64">uboot-images-armv8</packagereq>
     </packagelist>
   </group>
   <group>
@@ -623,9 +623,9 @@
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">initscripts</packagereq>
-      <packagereq type="optional">uboot-images-armv7</packagereq>
-      <packagereq type="optional">uboot-images-armv8</packagereq>
-      <packagereq type="optional">uboot-tools</packagereq>
+      <packagereq type="optional" arch="armhfp">uboot-images-armv7</packagereq>
+      <packagereq type="optional" arch="aarch64">uboot-images-armv8</packagereq>
+      <packagereq type="optional" arch="armhfp,aarch64">uboot-tools</packagereq>
     </packagelist>
   </group>
   <!--
