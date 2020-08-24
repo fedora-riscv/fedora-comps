@@ -6498,14 +6498,6 @@
     </grouplist>
   </category>
   <category>
-    <id>content</id>
-    <_name>Content</_name>
-    <_description>Text and other Free content.</_description>
-    <display_order>99</display_order>
-    <grouplist>
-      </grouplist>
-  </category>
-  <category>
     <id>neuroscience</id>
     <_name>Neuroscience</_name>
     <_description>Tools for Neuroscience.</_description>
