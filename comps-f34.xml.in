@@ -4987,6 +4987,8 @@
       <packagereq>sugar-deducto</packagereq>
       <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
+      <packagereq>sugar-getiabooks</packagereq>
+      <packagereq>sugar-infoslicer</packagereq>
       <packagereq>sugar-kuku</packagereq>
       <packagereq>sugar-labyrinth</packagereq>
       <packagereq>sugar-playgo</packagereq>
@@ -4995,6 +4997,8 @@
       <packagereq>sugar-srilanka</packagereq>
       <packagereq>sugar-starchart</packagereq>
       <packagereq>sugar-view-slides</packagereq>
+      <packagereq>sugar-visualmatch</packagereq>
+      <packagereq>sugar-xoirc</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5028,10 +5032,8 @@
       <packagereq>sugar-cp-all</packagereq>
       <packagereq>sugar-finance</packagereq>
       <packagereq>sugar-fototoon</packagereq>
-      <packagereq>sugar-getiabooks</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
       <packagereq>sugar-implode</packagereq>
-      <packagereq>sugar-infoslicer</packagereq>
       <packagereq>sugar-jukebox</packagereq>
       <packagereq>sugar-log</packagereq>
       <packagereq>sugar-maze</packagereq>
@@ -5050,10 +5052,8 @@
       <packagereq>sugar-toolkit-gtk3</packagereq>
       <packagereq>sugar-turtleart</packagereq>
       <packagereq>sugar-typing-turtle</packagereq>
-      <packagereq>sugar-visualmatch</packagereq>
       <packagereq>sugar-words</packagereq>
       <packagereq>sugar-write</packagereq>
-      <packagereq>sugar-xoirc</packagereq>
     </packagelist>
   </group>
   <group>
