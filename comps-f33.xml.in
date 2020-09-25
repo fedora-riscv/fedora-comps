@@ -5846,11 +5846,11 @@
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>firefox</groupid>
-      <groupid>kde-apps</groupid>
+      <groupid default="true">firefox</groupid>
+      <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
-      <groupid>kde-media</groupid>
-      <groupid>kde-office</groupid>
+      <groupid default="true">kde-media</groupid>
+      <groupid default="true">kde-office</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
