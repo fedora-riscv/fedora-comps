@@ -3545,7 +3545,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>ark</packagereq>
       <packagereq>breeze-cursor-theme</packagereq>
       <packagereq>breeze-gtk</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
@@ -3554,6 +3553,7 @@
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lxqt-about</packagereq>
+      <packagereq>lxqt-archiver</packagereq>
       <packagereq>lxqt-config</packagereq>
       <packagereq>lxqt-globalkeys</packagereq>
       <packagereq>lxqt-notificationd</packagereq>
