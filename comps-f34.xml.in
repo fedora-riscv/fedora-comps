@@ -2511,7 +2511,6 @@
       <packagereq type="default">mesa-libEGL</packagereq>
       <packagereq type="default">ModemManager</packagereq>
       <packagereq type="default">mousetweaks</packagereq>
-      <packagereq type="default">nautilus-sendto</packagereq>
       <packagereq type="default">NetworkManager-adsl</packagereq>
       <packagereq type="default">NetworkManager-openconnect-gnome</packagereq>
       <packagereq type="default">NetworkManager-openvpn-gnome</packagereq>
