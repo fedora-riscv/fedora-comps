@@ -24,7 +24,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2020-08-20 15:29+0000\n"
+"PO-Revision-Date: 2020-10-03 15:30+0000\n"
 "Last-Translator: Emilio Herrera <ehespinosa57@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/master/es/>\n"
@@ -33,7 +33,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.2.2\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -209,7 +209,7 @@ msgid ""
 "environments"
 msgstr ""
 "Programas de gestión de servidores e imágenes de sistema que se ejecutan en "
-"entornos de \"nube\"."
+"entornos de \"nube\""
 
 #: ../comps-f22.xml.in.h:31 ../comps-f23.xml.in.h:29 ../comps-f24.xml.in.h:31
 #: ../comps-f25.xml.in.h:31
@@ -221,7 +221,7 @@ msgstr "Herramientas de servidores de nube"
 msgid "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
 "Software para servidores e imágenes de sistema que se ejecutan en entornos "
-"de \"nube\"."
+"de \"nube\""
 
 #: ../comps-f22.xml.in.h:33 ../comps-f23.xml.in.h:31 ../comps-f24.xml.in.h:33
 #: ../comps-f25.xml.in.h:33
