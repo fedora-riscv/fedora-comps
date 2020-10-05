@@ -1329,7 +1329,6 @@
       <packagereq type="mandatory">python3-matplotlib</packagereq>
       <packagereq type="mandatory">python3-scipy</packagereq>
       <packagereq type="mandatory">R</packagereq>
-      <packagereq type="mandatory">speedcrunch</packagereq>
       <packagereq type="mandatory">texmaker</packagereq>
       <packagereq type="mandatory">transfig</packagereq>
       <packagereq type="mandatory">units</packagereq>
