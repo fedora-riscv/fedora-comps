@@ -166,6 +166,7 @@
       <packagereq type="default">jack-audio-connection-kit-dbus</packagereq>
       <packagereq type="default">jackctlmmc</packagereq>
       <packagereq type="default">jack_capture</packagereq>
+      <packagereq type="default">jack-mixer</packagereq>
       <packagereq type="default">japa</packagereq>
       <packagereq type="default">jmeters</packagereq>
       <packagereq type="default">kernel-tools</packagereq>
