@@ -197,14 +197,10 @@
       <packagereq variant="AppStream">glx-utils</packagereq>
       <packagereq variant="AppStream">mesa-dri-drivers</packagereq>
       <packagereq variant="AppStream">plymouth-system-theme</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-ati</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-evdev</packagereq>
       <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-fbdev</packagereq>
-      <packagereq variant="AppStream" arch="x86_64">xorg-x11-drv-intel</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-nouveau</packagereq>
       <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-qxl</packagereq>
-      <packagereq variant="AppStream" arch="x86_64">xorg-x11-drv-vesa</packagereq>
       <packagereq variant="AppStream" arch="x86_64">xorg-x11-drv-vmware</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-wacom</packagereq>
       <packagereq variant="AppStream">xorg-x11-server-Xorg</packagereq>
@@ -975,7 +971,6 @@
       <packagereq variant="AppStream">qt5-qtxmlpatterns-devel</packagereq>
       <packagereq variant="AppStream">qt5-qtserialbus</packagereq>
       <packagereq arch="x86_64,ppc64le,aarch64" variant="AppStream">qt5-qtwayland</packagereq>
-      <packagereq variant="AppStream">xorg-x11-docs</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools-libs</packagereq>
       <packagereq type="optional" arch="x86_64" variant="AppStream">vulkan-tools</packagereq>
@@ -3010,7 +3005,6 @@
       <packagereq type="default">cairomm-devel</packagereq>
       <packagereq type="default">cairomm-doc</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">cdparanoia-devel</packagereq>
-      <packagereq type="default">celt051-devel</packagereq>
       <packagereq type="default">cglib</packagereq>
       <packagereq type="default">clucene-core-devel</packagereq>
       <packagereq type="default">codemodel</packagereq>
@@ -3117,7 +3111,6 @@
       <packagereq type="default">glassfish-jaxb-txw-parent</packagereq>
       <packagereq type="default">glassfish-jsp-api</packagereq>
       <packagereq type="default">glassfish-servlet-api</packagereq>
-      <packagereq type="default">glew-devel</packagereq>
       <packagereq type="default">glib2-doc</packagereq>
       <packagereq type="default">glib2-static</packagereq>
       <packagereq type="default">glibc-benchtests</packagereq>
@@ -3175,7 +3168,6 @@
       <packagereq type="default">ibus-devel</packagereq>
       <packagereq type="default">ibus-devel-docs</packagereq>
       <packagereq type="default">ima-evm-utils-devel</packagereq>
-      <packagereq type="default">imake</packagereq>
       <packagereq type="default">iproute-devel</packagereq>
       <packagereq type="default">ipset-devel</packagereq>
       <packagereq type="default">irssi-devel</packagereq>
@@ -3290,7 +3282,6 @@
       <packagereq type="default">libmnl-devel</packagereq>
       <packagereq type="default">libmodulemd-devel</packagereq>
       <packagereq type="default">libmount-devel</packagereq>
-      <packagereq type="default">libmpcdec-devel</packagereq>
       <packagereq type="default">libmpc-devel</packagereq>
       <packagereq type="default">libmspack-devel</packagereq>
       <packagereq type="default">libmusicbrainz5-devel</packagereq>
@@ -3346,7 +3337,6 @@
       <packagereq type="default">librevenge-devel</packagereq>
       <packagereq type="default">librx</packagereq>
       <packagereq type="default">librx-devel</packagereq>
-      <packagereq type="default">libsamplerate-devel</packagereq>
       <packagereq type="default">libsass</packagereq>
       <packagereq type="default">libsass-devel</packagereq>
       <packagereq type="default">libseccomp-devel</packagereq>
@@ -3400,7 +3390,6 @@
       <packagereq type="default">libxkbfile-devel</packagereq>
       <packagereq type="default">libxklavier-devel</packagereq>
       <packagereq type="default">libXvMC-devel</packagereq>
-      <packagereq type="default">libXNVCtrl-devel</packagereq>
       <packagereq type="default">libXres-devel</packagereq>
       <packagereq type="default">libyaml-devel</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
