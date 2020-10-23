@@ -27,53 +27,53 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq variant="BaseOS">atlas-devel</packagereq>
-      <packagereq variant="BaseOS">audit-libs-devel</packagereq>
-      <packagereq variant="BaseOS">bzip2-devel</packagereq>
-      <packagereq variant="BaseOS">c-ares-devel</packagereq>
-      <packagereq variant="BaseOS">cyrus-sasl-devel</packagereq>
-      <packagereq variant="BaseOS">e2fsprogs-devel</packagereq>
-      <packagereq variant="BaseOS">elfutils-devel</packagereq>
-      <packagereq variant="BaseOS">elfutils-libelf-devel</packagereq>
-      <packagereq variant="BaseOS">expat-devel</packagereq>
-      <packagereq variant="BaseOS">fuse3-devel</packagereq>
-      <packagereq variant="BaseOS">gmp-devel</packagereq>
+      <packagereq variant="AppStream">atlas-devel</packagereq>
+      <packagereq variant="AppStream">audit-libs-devel</packagereq>
+      <packagereq variant="AppStream">bzip2-devel</packagereq>
+      <packagereq variant="AppStream">c-ares-devel</packagereq>
+      <packagereq variant="AppStream">cyrus-sasl-devel</packagereq>
+      <packagereq variant="AppStream">e2fsprogs-devel</packagereq>
+      <packagereq variant="AppStream">elfutils-devel</packagereq>
+      <packagereq variant="AppStream">elfutils-libelf-devel</packagereq>
+      <packagereq variant="AppStream">expat-devel</packagereq>
+      <packagereq variant="AppStream">fuse3-devel</packagereq>
+      <packagereq variant="AppStream">gmp-devel</packagereq>
       <packagereq variant="BaseOS">hmaccalc</packagereq>
-      <packagereq variant="BaseOS">iptables-devel</packagereq>
-      <packagereq variant="BaseOS">libacl-devel</packagereq>
-      <packagereq variant="BaseOS">libaio-devel</packagereq>
-      <packagereq variant="BaseOS">libattr-devel</packagereq>
-      <packagereq variant="BaseOS">libblkid-devel</packagereq>
-      <packagereq variant="BaseOS">libcap-devel</packagereq>
-      <packagereq variant="BaseOS">libcap-ng-devel</packagereq>
-      <packagereq variant="BaseOS">libcurl-devel</packagereq>
-      <packagereq variant="BaseOS">libffi-devel</packagereq>
-      <packagereq variant="BaseOS">libgcrypt-devel</packagereq>
-      <packagereq variant="BaseOS">libhugetlbfs-devel</packagereq>
-      <packagereq variant="BaseOS">rdma-core-devel</packagereq>
-      <packagereq variant="BaseOS">libnl3-devel</packagereq>
+      <packagereq variant="AppStream">iptables-devel</packagereq>
+      <packagereq variant="AppStream">libacl-devel</packagereq>
+      <packagereq variant="AppStream">libaio-devel</packagereq>
+      <packagereq variant="AppStream">libattr-devel</packagereq>
+      <packagereq variant="AppStream">libblkid-devel</packagereq>
+      <packagereq variant="AppStream">libcap-devel</packagereq>
+      <packagereq variant="AppStream">libcap-ng-devel</packagereq>
+      <packagereq variant="AppStream">libcurl-devel</packagereq>
+      <packagereq variant="AppStream">libffi-devel</packagereq>
+      <packagereq variant="AppStream">libgcrypt-devel</packagereq>
+      <packagereq variant="AppStream">libhugetlbfs-devel</packagereq>
+      <packagereq variant="AppStream">rdma-core-devel</packagereq>
+      <packagereq variant="AppStream">libnl3-devel</packagereq>
       <packagereq variant="AppStream">libpfm-devel</packagereq>
-      <packagereq variant="BaseOS">libselinux-devel</packagereq>
-      <packagereq variant="BaseOS">libusbx-devel</packagereq>
-      <packagereq variant="BaseOS">libuuid-devel</packagereq>
-      <packagereq variant="BaseOS">lksctp-tools-devel</packagereq>
-      <packagereq arch="aarch64,ppc64le,x86_64" variant="BaseOS">numactl-devel</packagereq>
+      <packagereq variant="AppStream">libselinux-devel</packagereq>
+      <packagereq variant="AppStream">libusbx-devel</packagereq>
+      <packagereq variant="AppStream">libuuid-devel</packagereq>
+      <packagereq variant="AppStream">lksctp-tools-devel</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" variant="AppStream">numactl-devel</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" variant="AppStream">papi-devel</packagereq>
-      <packagereq variant="BaseOS">pciutils-devel</packagereq>
-      <packagereq variant="BaseOS">pcre-devel</packagereq>
-      <packagereq variant="BaseOS">polkit-devel</packagereq>
-      <packagereq variant="BaseOS">popt-devel</packagereq>
-      <packagereq type="optional" arch="s390x" variant="BaseOS">qclib</packagereq>
-      <packagereq variant="BaseOS">readline-devel</packagereq>
-      <packagereq variant="BaseOS">sqlite-devel</packagereq>
-      <packagereq variant="BaseOS">systemd-devel</packagereq>
+      <packagereq variant="AppStream">pciutils-devel</packagereq>
+      <packagereq variant="AppStream">pcre-devel</packagereq>
+      <packagereq variant="AppStream">polkit-devel</packagereq>
+      <packagereq variant="AppStream">popt-devel</packagereq>
+      <packagereq type="optional" arch="s390x" variant="AppStream">qclib</packagereq>
+      <packagereq variant="AppStream">readline-devel</packagereq>
+      <packagereq variant="AppStream">sqlite-devel</packagereq>
+      <packagereq variant="AppStream">systemd-devel</packagereq>
       <packagereq variant="BaseOS">lz4</packagereq>
-      <packagereq variant="BaseOS">lz4-devel</packagereq>
+      <packagereq variant="AppStream">lz4-devel</packagereq>
       <packagereq variant="BaseOS">lzo</packagereq>
-      <packagereq variant="BaseOS">lzo-devel</packagereq>
-      <packagereq variant="BaseOS">tcl-devel</packagereq>
-      <packagereq variant="BaseOS">xfsprogs-devel</packagereq>
-      <packagereq variant="BaseOS">xz-devel</packagereq>
+      <packagereq variant="AppStream">lzo-devel</packagereq>
+      <packagereq variant="AppStream">tcl-devel</packagereq>
+      <packagereq variant="AppStream">xfsprogs-devel</packagereq>
+      <packagereq variant="AppStream">xz-devel</packagereq>
       <packagereq variant="AppStream">alsa-lib-devel</packagereq>
       <packagereq variant="AppStream">binutils-devel</packagereq>
       <packagereq variant="AppStream">boost-devel</packagereq>
@@ -890,17 +890,17 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq variant="BaseOS">fontconfig-devel</packagereq>
-      <packagereq variant="BaseOS">freetype-devel</packagereq>
-      <packagereq variant="BaseOS">glib2-devel</packagereq>
-      <packagereq variant="BaseOS">glibc-devel</packagereq>
-      <packagereq variant="BaseOS">krb5-devel</packagereq>
-      <packagereq variant="BaseOS">libpng-devel</packagereq>
-      <packagereq variant="BaseOS">ncurses-devel</packagereq>
-      <packagereq variant="BaseOS">openldap-devel</packagereq>
-      <packagereq variant="BaseOS">openssl-devel</packagereq>
-      <packagereq variant="BaseOS">pam-devel</packagereq>
-      <packagereq variant="BaseOS">zlib-devel</packagereq>
+      <packagereq variant="AppStream">fontconfig-devel</packagereq>
+      <packagereq variant="AppStream">freetype-devel</packagereq>
+      <packagereq variant="AppStream">glib2-devel</packagereq>
+      <packagereq variant="AppStream">glibc-devel</packagereq>
+      <packagereq variant="AppStream">krb5-devel</packagereq>
+      <packagereq variant="AppStream">libpng-devel</packagereq>
+      <packagereq variant="AppStream">ncurses-devel</packagereq>
+      <packagereq variant="AppStream">openldap-devel</packagereq>
+      <packagereq variant="AppStream">openssl-devel</packagereq>
+      <packagereq variant="AppStream">pam-devel</packagereq>
+      <packagereq variant="AppStream">zlib-devel</packagereq>
       <packagereq variant="AppStream">atk-devel</packagereq>
       <packagereq variant="AppStream">cairo-devel</packagereq>
       <packagereq variant="AppStream">compat-libtiff3</packagereq>
