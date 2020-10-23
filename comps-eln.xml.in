@@ -234,7 +234,6 @@
       <packagereq type="mandatory" variant="BaseOS">firewalld</packagereq>
       <packagereq type="mandatory" variant="BaseOS">glibc</packagereq>
       <packagereq type="mandatory" variant="BaseOS">grubby</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">hostname</packagereq>
       <packagereq type="mandatory" variant="BaseOS">initscripts</packagereq>
       <packagereq type="mandatory" variant="BaseOS">iproute</packagereq>
       <packagereq type="mandatory" variant="BaseOS">iprutils</packagereq>
@@ -744,7 +743,6 @@
       <packagereq type="optional" variant="AppStream">freeradius</packagereq>
       <packagereq type="optional" variant="AppStream">idn2</packagereq>
       <packagereq type="optional" variant="AppStream">frr</packagereq>
-      <packagereq type="optional" variant="AppStream">frr-contrib</packagereq>
       <packagereq type="optional" variant="AppStream">libreswan</packagereq>
       <packagereq type="optional" variant="AppStream">radvd</packagereq>
       <packagereq type="optional" variant="AppStream">rsyslog-gnutls</packagereq>
@@ -1079,7 +1077,6 @@
       <packagereq type="mandatory" variant="BaseOS">redhat-release-eula</packagereq>
       <packagereq type="mandatory" variant="BaseOS">polkit</packagereq>
       <packagereq type="mandatory" variant="BaseOS">realmd</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">timedatex</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-config-server</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-team</packagereq>
       <packagereq type="default" variant="AppStream">PackageKit</packagereq>
@@ -1961,7 +1958,6 @@
       <packagereq type="default">pnm2ppa</packagereq>
       <packagereq type="default">system-config-printer-udev</packagereq>
       <packagereq type="optional">hplip</packagereq>
-      <packagereq type="optional" arch="aarch64,ppc64le,x86_64">hplip-gui</packagereq>
     </packagelist>
   </group>
   <group arch="x86_64" variant="AppStream">
@@ -2263,11 +2259,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">gutenprint-plugin</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
       <packagereq type="default">sane-backends-drivers-scanners</packagereq>
-      <packagereq type="default">sane-frontends</packagereq>
-      <packagereq type="default">xsane-gimp</packagereq>
       <packagereq type="optional">dcraw</packagereq>
       <packagereq type="optional">netpbm-progs</packagereq>
     </packagelist>
@@ -2305,7 +2298,6 @@
     <packagelist>
       <packagereq type="default">bind-chroot</packagereq>
       <packagereq type="optional">bind</packagereq>
-      <packagereq type="optional">ldns</packagereq>
       <packagereq type="optional">unbound</packagereq>
     </packagelist>
   </group>
@@ -2927,7 +2919,6 @@
       <packagereq type="default">rt-setup</packagereq>
       <packagereq type="default">tuned-profiles-nfv</packagereq>
       <packagereq type="default">tuned-profiles-nfv-host</packagereq>
-      <packagereq type="default">tuned-profiles-nfv-host-bin</packagereq>
       <packagereq type="default">tuned-profiles-nfv-guest</packagereq>
     </packagelist>
   </group>
@@ -3054,8 +3045,6 @@
       <packagereq type="default">colord-devel</packagereq>
       <packagereq type="default">colord-devel-docs</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">colord-gtk-devel</packagereq>
-      <packagereq type="default">compat-guile18</packagereq>
-      <packagereq type="default">compat-guile18-devel</packagereq>
       <packagereq type="default">corosync-vqsim</packagereq>
       <packagereq type="default">cppcheck</packagereq>
       <packagereq type="default">cppunit</packagereq>
@@ -3247,7 +3236,6 @@
       <packagereq type="default">json-c-devel</packagereq>
       <packagereq type="default">json-c-doc</packagereq>
       <packagereq type="default">jsr-305</packagereq>
-      <packagereq type="default">js-uglify</packagereq>
       <packagereq type="default">Judy-devel</packagereq>
       <packagereq type="default">junit</packagereq>
       <packagereq type="default">jvnet-parent</packagereq>
@@ -3263,7 +3251,6 @@
       <packagereq type="default">lapack-static</packagereq>
       <packagereq type="default">latex2html</packagereq>
       <packagereq type="default">lcms2-devel</packagereq>
-      <packagereq type="default">ldns-devel</packagereq>
       <packagereq type="default">lensfun</packagereq>
       <packagereq type="default">lensfun-devel</packagereq>
       <packagereq type="default">leptonica</packagereq>
@@ -3309,7 +3296,6 @@
       <packagereq type="default">libdbusmenu-doc</packagereq>
       <packagereq type="default">libdbusmenu-gtk3-devel</packagereq>
       <packagereq type="default">libdnet-devel</packagereq>
-      <packagereq type="default">libdv-devel</packagereq>
       <packagereq type="default">libdvdread-devel</packagereq>
       <packagereq type="default">libdwarf-devel</packagereq>
       <packagereq type="default">libdwarf-static</packagereq>
@@ -3343,7 +3329,6 @@
       <packagereq type="default">libIDL</packagereq>
       <packagereq type="default">libIDL-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
-      <packagereq type="default">libidn-devel</packagereq>
       <packagereq type="default">libiec61883-devel</packagereq>
       <packagereq type="default">libimobiledevice-devel</packagereq>
       <packagereq type="default">libindicator-gtk3-devel</packagereq>
@@ -4010,7 +3995,6 @@
       <packagereq type="default">vala-devel</packagereq>
       <packagereq type="default">vte291-devel</packagereq>
       <packagereq type="default">wavpack-devel</packagereq>
-      <packagereq type="default">web-assets-devel</packagereq>
       <packagereq type="default">web-assets-filesystem</packagereq>
       <packagereq type="default">wireshark-devel</packagereq>
       <packagereq type="default">Xaw3d-devel</packagereq>
