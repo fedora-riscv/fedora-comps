@@ -582,22 +582,13 @@
       <packagereq type="mandatory" variant="BaseOS">librdmacm-utils</packagereq>
       <packagereq type="mandatory" variant="BaseOS">rdma-core</packagereq>
       <packagereq type="default" variant="BaseOS">ibacm</packagereq>
-      <packagereq type="default" variant="BaseOS">libibmad</packagereq>
       <packagereq type="default" variant="BaseOS">libibumad</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">libpsm2</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">libpsm2-compat</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">opa-fastfabric</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">opa-basic-tools</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">opa-libopamgt</packagereq>
-      <packagereq type="default" arch="x86_64" variant="BaseOS">opa-address-resolution</packagereq>
-      <packagereq type="conditional" requires="glusterfs" variant="BaseOS">glusterfs-rdma</packagereq>
       <packagereq type="default" variant="BaseOS">infiniband-diags</packagereq>
       <packagereq type="default" variant="BaseOS">iwpmd</packagereq>
       <packagereq type="default" variant="BaseOS">perftest</packagereq>
       <packagereq type="default" variant="AppStream">qperf</packagereq>
       <packagereq type="default" variant="BaseOS">srp_daemon</packagereq>
       <packagereq type="optional" variant="BaseOS">opensm</packagereq>
-      <packagereq type="optional" arch="x86_64" variant="BaseOS">opa-fm</packagereq>
       <packagereq type="optional" arch="aarch64,ppc64le,x86_64" variant="AppStream">libvma</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default" variant="AppStream">mstflint</packagereq>
     </packagelist>
@@ -3312,7 +3303,6 @@
       <packagereq type="default" arch="x86_64">libvmem-debug</packagereq>
       <packagereq type="default" arch="x86_64">libvmmalloc-debug</packagereq>
       <packagereq type="default">libproxy-devel</packagereq>
-      <packagereq type="default">libpsm2-devel</packagereq>
       <packagereq type="default">libpurple-devel</packagereq>
       <packagereq type="default">libpwquality-devel</packagereq>
       <packagereq type="default">libqhull</packagereq>
