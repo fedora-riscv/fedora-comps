@@ -3063,11 +3063,6 @@
       <packagereq type="default">frei0r-devel</packagereq>
       <packagereq type="default">fuse-sshfs</packagereq>
       <packagereq type="default">gcc-plugin-devel</packagereq>
-      <packagereq type="default">gcc-toolset-9-dyninst-devel</packagereq>
-      <packagereq type="default">gcc-toolset-9-dyninst-doc</packagereq>
-      <packagereq type="default">gcc-toolset-9-dyninst-static</packagereq>
-      <packagereq type="default">gcc-toolset-9-dyninst-testsuite</packagereq>
-      <packagereq type="default">gcc-toolset-9-gcc-plugin-devel</packagereq>
       <packagereq type="default">gc-devel</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib-devel</packagereq>
