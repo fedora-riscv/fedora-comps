@@ -504,18 +504,18 @@
       <packagereq variant="AppStream">qemu-guest-agent</packagereq>
     </packagelist>
   </group>
-  <group variant="BaseOS">
+  <group>
     <id>hardware-monitoring</id>
     <_name>Hardware Monitoring Utilities</_name>
     <_description>A set of tools to monitor server hardware.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default" arch="x86_64">mcelog</packagereq>
-      <packagereq type="default" arch="aarch64,x86_64,ppc64le">rasdaemon</packagereq>
-      <packagereq type="default">smartmontools</packagereq>
-      <packagereq type="optional">lm_sensors</packagereq>
-      <packagereq type="optional" arch="x86_64">intel-cmt-cat</packagereq>
+      <packagereq variant="BaseOS" type="default" arch="x86_64">mcelog</packagereq>
+      <packagereq variant="AppStream" type="default" arch="aarch64,x86_64,ppc64le">rasdaemon</packagereq>
+      <packagereq variant="BaseOS" type="default">smartmontools</packagereq>
+      <packagereq variant="AppStream" type="optional">lm_sensors</packagereq>
+      <packagereq variant="BaseOS" type="optional" arch="x86_64">intel-cmt-cat</packagereq>
     </packagelist>
   </group>
   <group variant="BaseOS">
@@ -650,7 +650,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default" variant="BaseOS">cyrus-sasl</packagereq>
-      <packagereq type="default" variant="BaseOS">postfix</packagereq>
+      <packagereq type="default" variant="AppStream">postfix</packagereq>
       <packagereq type="default" variant="AppStream">dovecot</packagereq>
       <packagereq type="default" variant="AppStream">spamassassin</packagereq>
       <packagereq type="optional" variant="AppStream">cyrus-imapd</packagereq>
@@ -767,7 +767,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory" variant="BaseOS">blktrace</packagereq>
+      <packagereq type="mandatory" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">iotop</packagereq>
       <packagereq type="default" variant="BaseOS">perf</packagereq>
       <packagereq type="default" variant="BaseOS">elfutils</packagereq>
@@ -2309,7 +2309,7 @@
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind-devel</packagereq>
       <packagereq type="optional" variant="AppStream">cmake</packagereq>
-      <packagereq type="optional" variant="BaseOS">expect</packagereq>
+      <packagereq type="optional" variant="AppStream">expect</packagereq>
       <packagereq type="optional" variant="AppStream">rpmdevtools</packagereq>
       <packagereq type="optional" variant="AppStream">rpmlint</packagereq>
     </packagelist>
