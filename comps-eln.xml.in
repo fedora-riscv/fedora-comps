@@ -637,7 +637,6 @@
       <packagereq type="optional" variant="AppStream">ncompress</packagereq>
       <packagereq type="optional" variant="AppStream">telnet</packagereq>
       <packagereq type="optional" variant="AppStream">telnet-server</packagereq>
-      <packagereq type="optional" variant="AppStream">tftp</packagereq>
       <packagereq type="optional" variant="AppStream">xinetd</packagereq>
       <packagereq type="optional" variant="AppStream">ypbind</packagereq>
       <packagereq type="optional" variant="AppStream">ypserv</packagereq>
@@ -751,7 +750,6 @@
       <packagereq type="optional" variant="AppStream">rsyslog-pgsql</packagereq>
       <packagereq type="optional" variant="AppStream">rsyslog-relp</packagereq>
       <packagereq type="optional" variant="AppStream">tang</packagereq>
-      <packagereq type="optional" variant="AppStream">tftp-server</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2080,12 +2078,11 @@
   <group variant="AppStream">
     <id>legacy-network-server</id>
     <_name>Legacy Network Server</_name>
-    <_description>These packages include servers for old network protocols such as telnet and tftp.</_description>
+    <_description>These packages include servers for old network protocols such as telnet.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">telnet-server</packagereq>
-      <packagereq type="optional">tftp-server</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2767,7 +2764,6 @@
     <packagelist>
       <packagereq>firefox</packagereq>
       <packagereq type="optional">libappindicator-gtk3</packagereq>
-      <packagereq type="optional">redhat-lsb-core</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2780,7 +2776,6 @@
       <packagereq type="mandatory">emacs</packagereq>
       <packagereq type="optional">emacs-lucid</packagereq>
       <packagereq type="optional">emacs-nox</packagereq>
-      <packagereq type="optional">emacs-terminal</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -3090,7 +3085,6 @@
       <packagereq type="default">eigen3-devel</packagereq>
       <packagereq type="default">elfutils-devel-static</packagereq>
       <packagereq type="default">elfutils-libelf-devel-static</packagereq>
-      <packagereq type="default">elinks</packagereq>
       <packagereq type="default">enca</packagereq>
       <packagereq type="default">enca-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">enchant2-devel</packagereq>
@@ -3362,7 +3356,6 @@
       <packagereq type="default">libnfsidmap-devel</packagereq>
       <packagereq type="default">libnftnl-devel</packagereq>
       <packagereq type="default">libnghttp2-devel</packagereq>
-      <packagereq type="default">libnice-devel</packagereq>
       <packagereq type="default">libnma-devel</packagereq>
       <packagereq type="default">libnsl2-devel</packagereq>
       <packagereq type="default" arch="ppc64le">libocxl-devel</packagereq>
