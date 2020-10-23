@@ -2155,7 +2155,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">java-1.8.0-openjdk</packagereq>
-      <packagereq type="default">icedtea-web</packagereq>
     </packagelist>
   </group>
   <group arch="aarch64,x86_64,ppc64le" variant="AppStream">
