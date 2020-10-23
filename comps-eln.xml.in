@@ -2997,10 +2997,6 @@
       <packagereq type="default">colord-devel-docs</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">colord-gtk-devel</packagereq>
       <packagereq type="default">corosync-vqsim</packagereq>
-      <packagereq type="default">cppcheck</packagereq>
-      <packagereq type="default">cppunit</packagereq>
-      <packagereq type="default">cppunit-devel</packagereq>
-      <packagereq type="default">cppunit-doc</packagereq>
       <packagereq type="default">cracklib-devel</packagereq>
       <packagereq type="default">crash-devel</packagereq>
       <packagereq type="default">ctags-etags</packagereq>
@@ -3518,7 +3514,6 @@
       <packagereq type="default">munge-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">mutter-devel</packagereq>
       <packagereq type="default">mythes-devel</packagereq>
-      <packagereq type="default">nasm</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">nautilus-devel</packagereq>
       <packagereq type="default">ndctl-devel</packagereq>
       <packagereq type="default">neon-devel</packagereq>
@@ -3852,8 +3847,6 @@
       <packagereq type="default">texlive-lib-devel</packagereq>
       <packagereq type="default">tinycdb</packagereq>
       <packagereq type="default">tinycdb-devel</packagereq>
-      <packagereq type="default">tinyxml2</packagereq>
-      <packagereq type="default">tinyxml2-devel</packagereq>
       <packagereq type="default">tokyocabinet-devel</packagereq>
       <packagereq type="default">tokyocabinet-doc</packagereq>
       <packagereq type="default">tog-pegasus-devel</packagereq>
@@ -3919,7 +3912,6 @@
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
       <packagereq type="default">yaml-cpp-devel</packagereq>
-      <packagereq type="default">yasm</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">yelp-devel</packagereq>
       <packagereq type="default">zlib-static</packagereq>
       <packagereq type="default">zziplib-devel</packagereq>
