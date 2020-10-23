@@ -1015,8 +1015,6 @@
       <packagereq type="optional" variant="AppStream">fftw</packagereq>
       <packagereq type="optional" variant="AppStream">fftw-devel</packagereq>
       <packagereq type="optional" variant="AppStream">fftw-static</packagereq>
-      <packagereq type="optional" variant="AppStream">gnuplot</packagereq>
-      <packagereq type="optional" variant="AppStream">gsl-devel</packagereq>
       <packagereq type="optional" variant="AppStream">lapack</packagereq>
       <packagereq type="optional" variant="AppStream">mpich-devel</packagereq>
       <packagereq type="optional" variant="AppStream">python3-numpy</packagereq>
@@ -1909,7 +1907,6 @@
       <packagereq type="default" variant="BaseOS">cockpit</packagereq>
       <packagereq type="default" variant="AppStream">net-snmp</packagereq>
       <packagereq type="default" variant="AppStream">net-snmp-utils</packagereq>
-      <packagereq type="default" variant="AppStream">openwsman-client</packagereq>
       <packagereq type="default" variant="AppStream">tog-pegasus</packagereq>
       <packagereq type="default" variant="AppStream">wsmancli</packagereq>
       <packagereq type="optional" variant="AppStream">openwsman-server</packagereq>
@@ -2785,7 +2782,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>amanda-server</packagereq>
       <packagereq>mt-st</packagereq>
       <packagereq>mtx</packagereq>
     </packagelist>
@@ -2937,7 +2933,6 @@
     <_description>RHEL for SAP packages.</_description>
     <uservisible>false</uservisible>
     <packagelist>
-<!--      <packagereq type="default">sapconf</packagereq> - RCM-61748 -->
       <packagereq type="default">sap-cluster-connector</packagereq>
       <packagereq type="optional">resource-agents-sap</packagereq>
       <packagereq type="optional">tuned-profiles-sap</packagereq>
@@ -3168,7 +3163,6 @@
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gnome-menus-devel</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi-devel</packagereq>
-      <packagereq type="default">gnuplot-doc</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
       <packagereq type="default">go-compilers-golang-compiler</packagereq>
       <packagereq type="default">google-noto-sans-cjk-jp-fonts</packagereq>
@@ -3210,7 +3204,6 @@
       <packagereq type="default">hyphen-devel</packagereq>
       <packagereq type="default">ibus-devel</packagereq>
       <packagereq type="default">ibus-devel-docs</packagereq>
-      <packagereq type="default">ilmbase-devel</packagereq>
       <packagereq type="default">ima-evm-utils-devel</packagereq>
       <packagereq type="default">imake</packagereq>
       <packagereq type="default">iproute-devel</packagereq>
@@ -3666,7 +3659,6 @@
       <packagereq type="default">opencl-headers</packagereq>
       <packagereq type="default">opencryptoki-devel</packagereq>
       <packagereq type="default">opencv-devel</packagereq>
-      <packagereq type="default">OpenEXR-devel</packagereq>
       <packagereq type="default">OpenIPMI-devel</packagereq>
       <packagereq type="default">openjade</packagereq>
       <packagereq type="default">openjpeg2-devel</packagereq>
@@ -3869,7 +3861,6 @@
       <packagereq type="default">python3-Cython</packagereq>
       <packagereq type="default">python3-greenlet-devel</packagereq>
       <packagereq type="default">python3-html5lib</packagereq>
-      <packagereq type="default">python3-httplib2</packagereq>
       <packagereq type="default">python3-hypothesis</packagereq>
       <packagereq type="default">python3-imagesize</packagereq>
       <packagereq type="default">python3-iso8601</packagereq>
@@ -3960,8 +3951,6 @@
       <packagereq type="default">tinycdb-devel</packagereq>
       <packagereq type="default">tinyxml2</packagereq>
       <packagereq type="default">tinyxml2-devel</packagereq>
-      <packagereq type="default">tix</packagereq>
-      <packagereq type="default">tix-devel</packagereq>
       <packagereq type="default">tokyocabinet-devel</packagereq>
       <packagereq type="default">tokyocabinet-doc</packagereq>
       <packagereq type="default">tog-pegasus-devel</packagereq>
