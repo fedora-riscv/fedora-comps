@@ -700,7 +700,6 @@
       <packagereq variant="BaseOS">cifs-utils</packagereq>
       <packagereq variant="BaseOS">device-mapper-multipath</packagereq>
       <packagereq variant="BaseOS">fcoe-utils</packagereq>
-      <packagereq variant="BaseOS">glusterfs-fuse</packagereq>
       <packagereq variant="BaseOS">gssproxy</packagereq>
       <packagereq variant="BaseOS">iscsi-initiator-utils</packagereq>
       <packagereq variant="BaseOS">lldpad</packagereq>
@@ -3095,8 +3094,6 @@
       <packagereq type="default">glm-doc</packagereq>
       <packagereq type="default">glog</packagereq>
       <packagereq type="default">glog-devel</packagereq>
-      <packagereq type="default">glusterfs-api-devel</packagereq>
-      <packagereq type="default">glusterfs-devel</packagereq>
       <packagereq type="default">gmock</packagereq>
       <packagereq type="default">gmock-devel</packagereq>
       <packagereq type="default" arch="aarch64,x86_64,ppc64le">gnome-bluetooth-libs-devel</packagereq>
@@ -3752,7 +3749,6 @@
       <packagereq type="default">pygobject3-devel</packagereq>
       <packagereq type="default">python-cups-doc</packagereq>
       <packagereq type="default">python-wcwidth</packagereq>  <!-- RCM-71368 -->
-      <packagereq type="default">python2-gluster</packagereq>
       <packagereq type="default">python2-iso8601</packagereq>
       <packagereq type="default">python2-scipy</packagereq>
       <packagereq type="default">python2-talloc</packagereq>
