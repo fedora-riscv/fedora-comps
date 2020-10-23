@@ -3247,7 +3247,6 @@
       <packagereq type="default">libgudev-devel</packagereq>
       <packagereq type="default">libgusb-devel</packagereq>
       <packagereq type="default">libgxps-devel</packagereq>
-      <packagereq type="default">libhbaapi-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
       <packagereq type="default">libiec61883-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
