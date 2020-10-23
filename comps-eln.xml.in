@@ -477,7 +477,6 @@
       <packagereq arch="ppc64le,x86_64" variant="AppStream">totem-nautilus</packagereq>
       <packagereq variant="AppStream">tracker</packagereq>
       <packagereq variant="AppStream">tracker-miners</packagereq>
-      <packagereq variant="AppStream">vino</packagereq>
       <packagereq variant="AppStream">xdg-desktop-portal</packagereq>
       <packagereq variant="AppStream">xdg-desktop-portal-gtk</packagereq>
       <packagereq variant="AppStream">xdg-user-dirs-gtk</packagereq>
@@ -1894,7 +1893,6 @@
     <packagelist>
       <packagereq type="optional">freerdp</packagereq>
       <packagereq type="optional">tigervnc</packagereq>
-      <packagereq type="optional">vinagre</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2760,7 +2758,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>firefox</packagereq>
-      <packagereq type="optional">libappindicator-gtk3</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -3109,7 +3106,6 @@
       <packagereq type="default">freerdp-devel</packagereq>
       <packagereq type="default">frei0r-devel</packagereq>
       <packagereq type="default">fuse-sshfs</packagereq>
-      <packagereq type="default">gamin-devel</packagereq>
       <packagereq type="default">gcc-plugin-devel</packagereq>
       <packagereq type="default">gcc-toolset-9-dyninst-devel</packagereq>
       <packagereq type="default">gcc-toolset-9-dyninst-doc</packagereq>
@@ -3117,7 +3113,6 @@
       <packagereq type="default">gcc-toolset-9-dyninst-testsuite</packagereq>
       <packagereq type="default">gcc-toolset-9-gcc-plugin-devel</packagereq>
       <packagereq type="default">gc-devel</packagereq>
-      <packagereq type="default">GConf2-devel</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">gegl04-devel</packagereq>
@@ -3244,7 +3239,6 @@
       <packagereq type="default">libaec</packagereq>
       <packagereq type="default">libaec-devel</packagereq>
       <packagereq type="default">libao-devel</packagereq>
-      <packagereq type="default">libappindicator-gtk3-devel</packagereq>
       <packagereq type="default">libappstream-glib-devel</packagereq>
       <packagereq type="default">libarchive-devel</packagereq>
       <packagereq type="default">libassuan-devel</packagereq>
@@ -3278,9 +3272,6 @@
       <packagereq type="default">libdb-devel-doc</packagereq>
       <packagereq type="default">libdb-sql</packagereq>
       <packagereq type="default">libdb-sql-devel</packagereq>
-      <packagereq type="default">libdbusmenu-devel</packagereq>
-      <packagereq type="default">libdbusmenu-doc</packagereq>
-      <packagereq type="default">libdbusmenu-gtk3-devel</packagereq>
       <packagereq type="default">libdnet-devel</packagereq>
       <packagereq type="default">libdvdread-devel</packagereq>
       <packagereq type="default">libdwarf-devel</packagereq>
@@ -3317,7 +3308,6 @@
       <packagereq type="default">libidn2-devel</packagereq>
       <packagereq type="default">libiec61883-devel</packagereq>
       <packagereq type="default">libimobiledevice-devel</packagereq>
-      <packagereq type="default">libindicator-gtk3-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
       <packagereq type="default">libinput-devel</packagereq>
       <packagereq type="default">libisoburn-devel</packagereq>
@@ -3889,7 +3879,6 @@
       <packagereq type="default">python-sphinx-locale</packagereq>
       <packagereq type="default">qdox</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
-      <packagereq type="default">qrencode-devel</packagereq>
       <packagereq type="default">qt5-devel</packagereq>
       <packagereq type="default">qt5-qtbase-static</packagereq>
       <packagereq type="default">qt5-qtdeclarative-static</packagereq>
@@ -4015,7 +4004,6 @@
       <packagereq type="default">xorg-x11-xkb-utils-devel</packagereq>
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
-      <packagereq type="default">yajl-devel</packagereq>
       <packagereq type="default">yaml-cpp-devel</packagereq>
       <packagereq type="default">yasm</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">yelp-devel</packagereq>
