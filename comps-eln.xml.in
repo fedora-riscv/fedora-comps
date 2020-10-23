@@ -2809,10 +2809,6 @@
       <packagereq type="optional">booth-arbitrator</packagereq>
       <packagereq type="optional">booth-site</packagereq>
       <packagereq type="optional">booth-test</packagereq>
-      <packagereq type="optional">clufter-cli</packagereq>
-      <packagereq type="optional">clufter-lib-ccs</packagereq>
-      <packagereq type="optional">clufter-lib-general</packagereq>
-      <packagereq type="optional">clufter-lib-pcs</packagereq>
       <packagereq type="optional">corosync-qdevice</packagereq>
       <packagereq type="optional">corosync-qnetd</packagereq>
       <packagereq type="optional">spausedd</packagereq>
