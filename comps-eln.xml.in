@@ -755,7 +755,6 @@
       <packagereq type="optional" variant="BaseOS">arpwatch</packagereq>
       <packagereq type="optional" variant="BaseOS">ipset</packagereq>
       <packagereq type="optional" variant="BaseOS">iptraf-ng</packagereq>
-      <packagereq type="optional" variant="BaseOS">iptstate</packagereq>
       <packagereq type="optional" variant="BaseOS">lksctp-tools</packagereq>
       <packagereq type="optional" variant="BaseOS">netlabel_tools</packagereq>
       <packagereq type="optional" variant="BaseOS">stunnel</packagereq>
