@@ -451,7 +451,6 @@
       <packagereq variant="AppStream">gnome-system-monitor</packagereq>
       <packagereq variant="AppStream">gnome-terminal</packagereq>
       <packagereq variant="AppStream">gnome-terminal-nautilus</packagereq>
-      <packagereq variant="AppStream">gnome-themes-standard</packagereq>
       <packagereq variant="AppStream">gnome-user-docs</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" variant="AppStream">gvfs-afc</packagereq>
       <packagereq variant="AppStream">gvfs-afp</packagereq>
@@ -465,7 +464,6 @@
       <packagereq variant="AppStream">librsvg2</packagereq>
       <packagereq variant="AppStream">libsane-hpaio</packagereq>
       <packagereq variant="AppStream">mesa-dri-drivers</packagereq>
-      <packagereq variant="AppStream">mousetweaks</packagereq>
       <packagereq variant="AppStream">nautilus</packagereq>
       <packagereq variant="AppStream">nautilus-sendto</packagereq>
       <packagereq variant="AppStream">orca</packagereq>
@@ -1176,7 +1174,6 @@
       <packagereq type="default" variant="BaseOS">zip</packagereq>
       <packagereq type="optional" variant="BaseOS">cifs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">fwupd</packagereq>
-      <packagereq type="optional" arch="aarch64,x86_64" variant="BaseOS">fwupdate</packagereq>
       <packagereq type="optional" variant="BaseOS">ima-evm-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nfs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nvmetcli</packagereq>
@@ -1286,7 +1283,6 @@
       <packagereq type="default" variant="BaseOS">zip</packagereq>
       <packagereq type="optional" variant="BaseOS">cifs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">fwupd</packagereq>
-      <packagereq type="optional" arch="aarch64,x86_64" variant="BaseOS">fwupdate</packagereq>
       <packagereq type="optional" variant="BaseOS">ima-evm-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nfs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nvmetcli</packagereq>
@@ -1336,8 +1332,6 @@
       <packagereq type="optional" variant="AppStream">convmv</packagereq>
       <packagereq type="optional" variant="AppStream">createrepo_c</packagereq>
       <packagereq type="optional" variant="AppStream">freerdp</packagereq>
-      <packagereq type="optional" variant="AppStream">gssdp</packagereq>
-      <packagereq type="optional" variant="AppStream">gupnp</packagereq>
       <packagereq type="optional" variant="AppStream">gpm</packagereq>
       <packagereq type="optional" variant="AppStream">mc</packagereq>
       <packagereq type="optional" variant="AppStream">mrtg</packagereq>
@@ -1782,7 +1776,6 @@
       <packagereq variant="AppStream">qt5-qtbase-gui</packagereq>
       <packagereq variant="AppStream">qt5-qtdeclarative</packagereq>
       <packagereq variant="AppStream">qt5-qtxmlpatterns</packagereq>
-      <packagereq arch="ppc64le,x86_64" variant="AppStream">rhythmbox</packagereq>
       <packagereq variant="AppStream">setroubleshoot</packagereq>
       <packagereq variant="AppStream">telnet</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
@@ -2266,7 +2259,6 @@
     <packagelist>
       <packagereq>brasero</packagereq>
       <packagereq>brasero-nautilus</packagereq>
-      <packagereq>rhythmbox</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -3022,13 +3014,7 @@
       <packagereq type="default">celt051-devel</packagereq>
       <packagereq type="default">cglib</packagereq>
       <packagereq type="default">clucene-core-devel</packagereq>
-      <packagereq type="default">clutter-devel</packagereq>
-      <packagereq type="default">clutter-doc</packagereq>
-      <packagereq type="default">clutter-gst3-devel</packagereq>
-      <packagereq type="default">clutter-gtk-devel</packagereq>
       <packagereq type="default">codemodel</packagereq>
-      <packagereq type="default">cogl-devel</packagereq>
-      <packagereq type="default">cogl-doc</packagereq>
       <packagereq type="default">colord-devel</packagereq>
       <packagereq type="default">colord-devel-docs</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">colord-gtk-devel</packagereq>
@@ -3044,9 +3030,6 @@
       <packagereq type="default">cups-filters-devel</packagereq>
       <packagereq type="default">daxctl-devel</packagereq>
       <packagereq type="default">dblatex</packagereq>
-      <packagereq type="default">dbus-c++</packagereq>
-      <packagereq type="default">dbus-c++-devel</packagereq>
-      <packagereq type="default">dbus-c++-glib</packagereq>
       <packagereq type="default">dconf-devel</packagereq>
       <packagereq type="default">dejagnu</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">devhelp-devel</packagereq>
@@ -3076,8 +3059,6 @@
       <packagereq type="default">eigen3-devel</packagereq>
       <packagereq type="default">elfutils-devel-static</packagereq>
       <packagereq type="default">elfutils-libelf-devel-static</packagereq>
-      <packagereq type="default">enca</packagereq>
-      <packagereq type="default">enca-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">enchant2-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">enchant-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">evolution-data-server-doc</packagereq>
@@ -3155,7 +3136,6 @@
       <packagereq type="default">gmock-devel</packagereq>
       <packagereq type="default" arch="aarch64,x86_64,ppc64le">gnome-bluetooth-libs-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gnome-common</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gnome-menus-devel</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi-devel</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
@@ -3173,8 +3153,6 @@
       <packagereq type="default">gsm-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gspell-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gspell-doc</packagereq>
-      <packagereq type="default">gssdp-devel</packagereq>
-      <packagereq type="default">gssdp-docs</packagereq>
       <packagereq type="default">gstreamer1-plugins-bad-free-devel</packagereq>
       <packagereq type="default">gtest</packagereq>
       <packagereq type="default">gtest-devel</packagereq>
@@ -3188,8 +3166,6 @@
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gtkspell3-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">gtkspell-devel</packagereq>
       <packagereq type="default">guile-devel</packagereq>
-      <packagereq type="default">gupnp-devel</packagereq>
-      <packagereq type="default">gupnp-igd-devel</packagereq>
       <packagereq type="default">hamcrest</packagereq>
       <packagereq type="default">hamcrest-core</packagereq>
       <packagereq type="default">help2man</packagereq>
@@ -3236,8 +3212,6 @@
       <packagereq type="default">lensfun-devel</packagereq>
       <packagereq type="default">leptonica</packagereq>
       <packagereq type="default">leptonica-devel</packagereq>
-      <packagereq type="default">libaec</packagereq>
-      <packagereq type="default">libaec-devel</packagereq>
       <packagereq type="default">libao-devel</packagereq>
       <packagereq type="default">libappstream-glib-devel</packagereq>
       <packagereq type="default">libarchive-devel</packagereq>
@@ -3254,14 +3228,10 @@
       <packagereq type="default">libcdio-paranoia-devel</packagereq>
       <packagereq type="default">libcephfs2</packagereq>
       <packagereq type="default">libcephfs-devel</packagereq>
-      <packagereq type="default">libchamplain</packagereq>
-      <packagereq type="default">libchamplain-devel</packagereq>
-      <packagereq type="default">libchamplain-gtk</packagereq>
       <packagereq type="default">libcmocka</packagereq>
       <packagereq type="default">libcmocka-devel</packagereq>
       <packagereq type="default">libcollection-devel</packagereq>
       <packagereq type="default">libconfig-devel</packagereq>
-      <packagereq type="default">libcroco-devel</packagereq>
       <packagereq type="default" arch="ppc64le">libcxl-devel</packagereq>
       <packagereq type="default">libdaemon-devel</packagereq>
       <packagereq type="default">libdap</packagereq>
@@ -3294,8 +3264,6 @@
       <packagereq type="default">libGLEW</packagereq>
       <packagereq type="default">libgnomekbd-devel</packagereq>
       <packagereq type="default">libgphoto2-devel</packagereq>
-      <packagereq type="default">libgpod-devel</packagereq>
-      <packagereq type="default">libgpod-doc</packagereq>
       <packagereq type="default">libgs-devel</packagereq>
       <packagereq type="default">libgsf-devel</packagereq>
       <packagereq type="default">libgtop2-devel</packagereq>
@@ -3303,11 +3271,8 @@
       <packagereq type="default">libgusb-devel</packagereq>
       <packagereq type="default">libgxps-devel</packagereq>
       <packagereq type="default">libhbaapi-devel</packagereq>
-      <packagereq type="default">libIDL</packagereq>
-      <packagereq type="default">libIDL-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
       <packagereq type="default">libiec61883-devel</packagereq>
-      <packagereq type="default">libimobiledevice-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
       <packagereq type="default">libinput-devel</packagereq>
       <packagereq type="default">libisoburn-devel</packagereq>
@@ -3329,7 +3294,6 @@
       <packagereq type="default">libmpcdec-devel</packagereq>
       <packagereq type="default">libmpc-devel</packagereq>
       <packagereq type="default">libmspack-devel</packagereq>
-      <packagereq type="default">libmtp-devel</packagereq>
       <packagereq type="default">libmusicbrainz5-devel</packagereq>
       <packagereq type="default">libnet-devel</packagereq>
       <packagereq type="default">libnetfilter_conntrack-devel</packagereq>
@@ -3354,7 +3318,6 @@
       <packagereq type="default">libpciaccess-devel</packagereq>
       <packagereq type="default">libpeas-devel</packagereq>
       <packagereq type="default">libpfm-static</packagereq>
-      <packagereq type="default">libplist-devel</packagereq>
       <packagereq type="default" arch="x86_64">libpmem-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmemblk-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmemlog-debug</packagereq>
@@ -3370,7 +3333,6 @@
       <packagereq type="default">libqhull</packagereq>
       <packagereq type="default">libqhull_p</packagereq>
       <packagereq type="default">libqhull_r</packagereq>
-      <packagereq type="default">libquvi-devel</packagereq>
       <packagereq type="default">librabbitmq-devel</packagereq>
       <packagereq type="default">librados-devel</packagereq>
       <packagereq type="default">libradosstriper1</packagereq>
@@ -3410,7 +3372,6 @@
       <packagereq type="default">libuninameslist</packagereq>
       <packagereq type="default">libunistring-devel</packagereq>
       <packagereq type="default">libusb-devel</packagereq>
-      <packagereq type="default">libusbmuxd-devel</packagereq>
       <packagereq type="default">libutempter-devel</packagereq>
       <packagereq type="default">libv4l-devel</packagereq>
       <packagereq type="default">libvarlink-devel</packagereq>
@@ -3446,10 +3407,6 @@
       <packagereq type="default">linuxdoc-tools</packagereq>
       <packagereq type="default">lockdev-devel</packagereq>
       <packagereq type="default">lttng-ust-devel</packagereq>
-      <packagereq type="default">lua-devel</packagereq>
-      <packagereq type="default">lua-filesystem</packagereq>
-      <packagereq type="default">lua-lunit</packagereq>
-      <packagereq type="default">lua-posix</packagereq>
       <packagereq type="default">lvm2-devel</packagereq>
       <packagereq type="default">lynx</packagereq>
       <packagereq type="default">maven-archiver</packagereq>
@@ -3596,7 +3553,6 @@
       <packagereq type="default">mockito</packagereq>
       <packagereq type="default">ModemManager-devel</packagereq>
       <packagereq type="default">ModemManager-glib-devel</packagereq>
-      <packagereq type="default">mozjs52-devel</packagereq>
       <packagereq type="default">mpg123-devel</packagereq>
       <packagereq type="default">msv-msv</packagereq>
       <packagereq type="default">mtdev-devel</packagereq>
