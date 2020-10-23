@@ -800,7 +800,6 @@
       <packagereq type="default" variant="AppStream">pcp-import-sar2pcp</packagereq>
       <packagereq type="default" variant="AppStream">pcp-libs</packagereq>
       <packagereq type="default" variant="AppStream">pcp-libs-devel</packagereq>
-      <packagereq type="default" variant="AppStream">pcp-manager</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-activemq</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-apache</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-bash</packagereq>
