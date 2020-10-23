@@ -1833,7 +1833,6 @@
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">libguestfs-tools-c</packagereq>
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
-      <packagereq type="optional" arch="x86_64">spice-qxl-wddm-dod</packagereq>
       <packagereq type="default" arch="x86_64">virtio-win</packagereq>
     </packagelist>
   </group>
@@ -2255,8 +2254,6 @@
       <packagereq arch="x86_64">hyperv-daemons</packagereq>
       <packagereq arch="x86_64">open-vm-tools-desktop</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
-      <packagereq>spice-vdagent</packagereq>
-      <packagereq arch="x86_64" type="optional">spice-streaming-agent</packagereq>
     </packagelist>
   </group>
   <group arch="x86_64,ppc64le,aarch64" variant="AppStream">
@@ -3581,7 +3578,6 @@
       <packagereq type="default">mingw32-pixman</packagereq>
       <packagereq type="default">mingw32-pkg-config</packagereq>
       <packagereq type="default">mingw32-readline</packagereq>
-      <packagereq type="default">mingw32-spice-vdagent</packagereq>
       <packagereq type="default">mingw32-sqlite</packagereq>
       <packagereq type="default">mingw32-sqlite-static</packagereq>
       <packagereq type="default">mingw32-termcap</packagereq>
@@ -3626,7 +3622,6 @@
       <packagereq type="default">mingw64-pixman</packagereq>
       <packagereq type="default">mingw64-pkg-config</packagereq>
       <packagereq type="default">mingw64-readline</packagereq>
-      <packagereq type="default">mingw64-spice-vdagent</packagereq>
       <packagereq type="default">mingw64-sqlite</packagereq>
       <packagereq type="default">mingw64-sqlite-static</packagereq>
       <packagereq type="default">mingw64-termcap</packagereq>
@@ -3975,7 +3970,6 @@
       <packagereq type="default">speech-dispatcher-doc</packagereq>
       <packagereq type="default">speex-devel</packagereq>
       <packagereq type="default">speexdsp-devel</packagereq>
-      <packagereq type="default">spice-server-devel</packagereq>
       <packagereq type="default">spirv-tools-devel</packagereq>
       <packagereq type="default">suitesparse-devel</packagereq>
       <packagereq type="default">SuperLU</packagereq>
