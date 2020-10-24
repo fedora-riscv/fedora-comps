@@ -705,7 +705,7 @@
       <packagereq variant="BaseOS">lldpad</packagereq>
       <packagereq variant="BaseOS">nfs-utils</packagereq>
       <packagereq variant="BaseOS">nfs4-acl-tools</packagereq>
-      <packagereq variant="BaseOS">samba-client</packagereq>
+      <packagereq variant="AppStream">samba-client</packagereq>
       <packagereq variant="AppStream">cgdcbxd</packagereq>
       <packagereq variant="AppStream">targetcli</packagereq>
       <packagereq variant="BaseOS" type="optional">cachefilesd</packagereq>
@@ -1058,16 +1058,16 @@
       <packagereq type="default" variant="AppStream">PackageKit</packagereq>
     </packagelist>
   </group>
-  <group variant="BaseOS">
+  <group>
     <id>smb-server</id>
     <_name>Windows File Server</_name>
     <_description>This package group allows you to share files between Linux and MS Windows(tm) systems.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">samba</packagereq>
-      <packagereq type="mandatory">samba-client</packagereq>
-      <packagereq type="default">cifs-utils</packagereq>
+      <packagereq variant="BaseOS" type="mandatory">samba</packagereq>
+      <packagereq variant="AppStream" type="mandatory">samba-client</packagereq>
+      <packagereq variant="BaseOS" type="default">cifs-utils</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1292,7 +1292,7 @@
       <packagereq type="default" variant="BaseOS">chrony</packagereq>
       <packagereq type="default" variant="BaseOS">cifs-utils</packagereq>
       <packagereq type="default" variant="BaseOS">openldap-clients</packagereq>
-      <packagereq type="default" variant="BaseOS">samba-client</packagereq>
+      <packagereq type="default" variant="AppStream">samba-client</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="BaseOS">setserial</packagereq>
       <packagereq type="default" variant="BaseOS">tmux</packagereq>
       <packagereq type="default" variant="BaseOS">xdelta</packagereq>
