@@ -1110,7 +1110,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
-      <packagereq type="default" variant="BaseOS">blktrace</packagereq>
+      <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
       <packagereq type="default" variant="BaseOS">bzip2</packagereq>
       <packagereq type="default" variant="BaseOS">chrony</packagereq>
@@ -1218,7 +1218,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
-      <packagereq type="default" variant="BaseOS">blktrace</packagereq>
+      <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
       <packagereq type="default" variant="BaseOS">bzip2</packagereq>
       <packagereq type="default" variant="BaseOS">chrony</packagereq>
