@@ -2951,7 +2951,6 @@
       <packagereq type="default">autoconf213</packagereq>
       <packagereq type="default">autoconf-archive</packagereq>
       <packagereq type="default">autogen</packagereq>
-      <packagereq type="default">autotrace</packagereq>
       <packagereq type="default">avahi-compat-howl</packagereq>
       <packagereq type="default">avahi-compat-howl-devel</packagereq>
       <packagereq type="default">avahi-compat-libdns_sd</packagereq>
@@ -3052,7 +3051,6 @@
       <packagereq type="default">fltk-devel</packagereq>
       <packagereq type="default">fontawesome-fonts-web</packagereq>
       <packagereq type="default">fontconfig-devel-doc</packagereq>
-      <packagereq type="default">fontforge</packagereq>
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">freeipmi-devel</packagereq>
       <packagereq type="default">freerdp-devel</packagereq>
@@ -3739,7 +3737,6 @@
       <packagereq type="default">protobuf-c-devel</packagereq>
       <packagereq type="default">protobuf-compiler</packagereq>
       <packagereq type="default">protobuf-devel</packagereq>
-      <packagereq type="default">pstoedit</packagereq>
       <packagereq type="default">ptscotch-mpich</packagereq>
       <packagereq type="default">ptscotch-mpich-devel</packagereq>
       <packagereq type="default">ptscotch-mpich-devel-parmetis</packagereq>
