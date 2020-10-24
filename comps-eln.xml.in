@@ -583,7 +583,7 @@
       <packagereq type="mandatory" variant="BaseOS">rdma-core</packagereq>
       <packagereq type="default" variant="BaseOS">ibacm</packagereq>
       <packagereq type="default" variant="BaseOS">libibumad</packagereq>
-      <packagereq type="default" variant="BaseOS">infiniband-diags</packagereq>
+      <packagereq type="default" variant="AppStream">infiniband-diags</packagereq>
       <packagereq type="default" variant="BaseOS">iwpmd</packagereq>
       <packagereq type="default" variant="BaseOS">perftest</packagereq>
       <packagereq type="default" variant="AppStream">qperf</packagereq>
