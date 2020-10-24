@@ -769,7 +769,7 @@
     <packagelist>
       <packagereq type="mandatory" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">iotop</packagereq>
-      <packagereq type="default" variant="BaseOS">perf</packagereq>
+      <packagereq type="default" variant="AppStream">perf</packagereq>
       <packagereq type="default" variant="BaseOS">elfutils</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
       <packagereq type="optional" variant="AppStream">libpfm</packagereq>
