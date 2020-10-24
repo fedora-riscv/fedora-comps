@@ -177,7 +177,7 @@
       <packagereq variant="BaseOS">mdadm</packagereq>
       <packagereq variant="BaseOS">realmd</packagereq>
       <packagereq variant="AppStream" arch="s390x">s390utils</packagereq>
-      <packagereq variant="BaseOS" arch="s390x">s390utils-base</packagereq>
+      <packagereq variant="AppStream" arch="s390x">s390utils-base</packagereq>
       <packagereq variant="BaseOS" arch="aarch64">shim-aa64</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">shim-ia32</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">shim-x64</packagereq>
@@ -293,9 +293,10 @@
       <packagereq type="default" variant="BaseOS" arch="x86_64">microcode_ctl</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">opal-prd</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">ppc64-diag</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="ppc64le">powerpc-utils</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="ppc64le">powerpc-utils-core</packagereq>
+      <packagereq type="default" variant="AppStream" arch="ppc64le">powerpc-utils</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">lsvpd</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="s390x">s390utils-base</packagereq>
+      <packagereq type="default" variant="AppStream" arch="s390x">s390utils-base</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils-libs</packagereq>
       <packagereq type="optional" variant="BaseOS">dracut-config-generic</packagereq>
