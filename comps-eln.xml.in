@@ -307,11 +307,6 @@
       <packagereq type="optional" variant="BaseOS">selinux-policy-mls</packagereq>
       <packagereq type="optional" variant="BaseOS" arch="x86_64">tboot</packagereq>
       <packagereq type="optional" variant="AppStream">initial-setup</packagereq>
-      <packagereq type="mandatory" variant="AppStream">dnf-plugin-spacewalk</packagereq>
-      <packagereq type="mandatory" variant="AppStream">rhn-client-tools</packagereq>
-      <packagereq type="mandatory" variant="AppStream">rhnlib</packagereq>
-      <packagereq type="mandatory" variant="AppStream">rhnsd</packagereq>
-      <packagereq type="mandatory" variant="AppStream">rhn-setup</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1171,11 +1166,6 @@
       <packagereq type="default" variant="AppStream">tcpdump</packagereq>
       <packagereq type="default" variant="AppStream">wget</packagereq>
       <packagereq type="default" variant="AppStream">vim-enhanced</packagereq>
-      <packagereq type="default" variant="AppStream">dnf-plugin-spacewalk</packagereq>
-      <packagereq type="default" variant="AppStream">rhn-client-tools</packagereq>
-      <packagereq type="default" variant="AppStream">rhnlib</packagereq>
-      <packagereq type="default" variant="AppStream">rhnsd</packagereq>
-      <packagereq type="default" variant="AppStream">rhn-setup</packagereq>
       <packagereq type="default" variant="AppStream">insights-client</packagereq>
     </packagelist>
   </group>
@@ -1241,7 +1231,6 @@
       <packagereq type="default" variant="AppStream">pinfo</packagereq>
       <packagereq type="default" variant="AppStream">plymouth</packagereq>
       <packagereq type="default" variant="BaseOS">realmd</packagereq>
-      <packagereq type="default" variant="AppStream">rhnsd</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cmsfs-fuse</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cpacfstatsd</packagereq>
