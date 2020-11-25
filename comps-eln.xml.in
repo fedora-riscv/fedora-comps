@@ -435,9 +435,22 @@
       <packagereq variant="AppStream">gnome-session-xsession</packagereq>
       <packagereq variant="AppStream">gnome-settings-daemon</packagereq>
       <packagereq variant="AppStream">gnome-shell</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-apps-menu</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-auto-move-windows</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-dash-to-dock</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-desktop-icons</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-disable-screenshield</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-drive-menu</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-horizontal-workspaces</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-launch-new-instance</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-native-window-placement</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-places-menu</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-screenshot-window-sizer</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-user-theme</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-windows-list</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-windowsNavigator</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-window-grouper</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-workspace-indicator</packagereq>
       <packagereq variant="AppStream">gnome-software</packagereq>
       <packagereq variant="AppStream">gnome-system-monitor</packagereq>
       <packagereq variant="AppStream">gnome-terminal</packagereq>
