@@ -333,6 +333,7 @@
       <packagereq type="default" variant="AppStream">crash-trace-command</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind-devel</packagereq>
+      <packagereq type="optional" arch="x86_64" variant="AppStream">xdp-tools</packagereq>
       <packagereq type="optional" variant="AppStream">bpftrace</packagereq>
       <packagereq type="optional" variant="AppStream">gdb-gdbserver</packagereq>
       <packagereq type="optional" variant="AppStream">glibc-utils</packagereq>
