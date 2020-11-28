@@ -869,7 +869,9 @@
       <packagereq type="conditional" requires="gimp">gmic-gimp</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-psd</packagereq>
       <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
+      <packagereq type="conditional" requires="darktable">darktable-tools-noise</packagereq>
       <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
+      <packagereq type="conditional" requires="scribus">scribus-generator</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
       <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
@@ -904,17 +906,18 @@
       <packagereq type="default">redhat-text-fonts</packagereq>
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">shotwell</packagereq>
-      <packagereq type="default">shutter</packagereq>
       <packagereq type="default">sparkleshare</packagereq>
       <packagereq type="default">synfigstudio</packagereq>
       <packagereq type="default">typetype-molot-fonts</packagereq>
-      <packagereq type="default">xournal</packagereq>
+      <packagereq type="default">xournalpp</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
       <packagereq type="optional">geeqie</packagereq>
       <packagereq type="optional">ImageMagick</packagereq>
       <packagereq type="optional">luxcorerender</packagereq>
+      <packagereq type="optional">mypaint</packagereq>
       <packagereq type="optional">pngcrush</packagereq>
       <packagereq type="optional">rapid-photo-downloader</packagereq>
+      <packagereq type="optional">shutter</packagereq>
       <packagereq type="optional">YafaRay</packagereq>
     </packagelist>
   </group>
