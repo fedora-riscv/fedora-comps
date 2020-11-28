@@ -4356,6 +4356,7 @@
       <packagereq type="optional">neurord</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
       <packagereq type="optional">python3-nest</packagereq>
+      <packagereq type="optional">python3-netpyne</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
       <packagereq type="optional">python3-nineml</packagereq>
       <packagereq type="optional">python3-PyLEMS</packagereq>
