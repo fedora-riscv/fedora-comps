@@ -1940,6 +1940,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">open-vm-tools</packagereq>
+      <packagereq type="optional">open-vm-tools-sdmp</packagereq>
       <packagereq type="optional">open-vm-tools-desktop</packagereq>
     </packagelist>
   </group>
