@@ -3304,6 +3304,7 @@
       <packagereq type="default">libsass</packagereq>
       <packagereq type="default">libsass-devel</packagereq>
       <packagereq type="default">libseccomp-devel</packagereq>
+      <packagereq type="default">libsemanage-devel</packagereq>
       <packagereq type="default">libsepol-static</packagereq>
       <packagereq type="default">libshout-devel</packagereq>
       <packagereq type="default">libsigc++20-devel</packagereq>
