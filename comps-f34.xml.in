@@ -755,6 +755,17 @@
     </packagelist>
   </group>
   <group>
+    <id>critical-path-standard</id>
+    <_name>Critical Path (standard)</_name>
+    <!-- not all deliverables include @standard, critical-path-base only includes stuff from @base -->
+    <_description>A set of packages that relate to Critical Path functionality and are in standard but not base</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">fprintd-pam</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-xfce</id>
     <_name>Critical Path (Xfce)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the Xfce desktop</_description>

@@ -658,6 +658,7 @@
       <packagereq type="mandatory">dbus-broker</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
+      <packagereq type="mandatory">fprintd-pam</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
       <!-- 'kernel' is listed because we need to ensure that kernel
