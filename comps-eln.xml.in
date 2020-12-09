@@ -1035,7 +1035,7 @@
       <packagereq type="optional" variant="AppStream">udica</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,ppc64le,aarch64">
+  <group>
     <id>smart-card</id>
     <_name>Smart Card Support</_name>
     <_description>Support for using smart card authentication.</_description>
@@ -1044,6 +1044,12 @@
     <packagelist>
       <packagereq type="default" variant="BaseOS">pcsc-lite-ccid</packagereq>
       <packagereq type="optional" variant="BaseOS">opencryptoki</packagereq>
+      <packagereq type="optional" variant="BaseOS">opencryptoki-icsftok</packagereq>
+      <packagereq type="optional" variant="BaseOS">opencryptoki-swtok</packagereq>
+      <packagereq type="optional" variant="BaseOS">opencryptoki-tpmtok</packagereq>
+      <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-ccatok</packagereq>
+      <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-ep11tok</packagereq>
+      <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-icatok</packagereq>
       <packagereq type="optional" variant="BaseOS">opensc</packagereq>
       <packagereq type="optional" variant="BaseOS">openssl-pkcs11</packagereq>
       <packagereq type="optional" variant="BaseOS">sssd-polkit-rules</packagereq>
