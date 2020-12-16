@@ -486,7 +486,7 @@
       <packagereq variant="AppStream">yelp-tools</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,ppc64le">
+  <group>
     <id>graphical-admin-tools</id>
     <_name>Graphical Administration Tools</_name>
     <_description>Graphical system administration tools for managing many aspects of a system.</_description>
