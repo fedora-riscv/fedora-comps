@@ -418,7 +418,6 @@
       <packagereq type="optional" variant="AppStream">gedit-plugins</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-backgrounds</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" variant="AppStream">gnome-bluetooth</packagereq>
-      <packagereq arch="x86_64" variant="AppStream">gnome-boxes</packagereq>
       <packagereq variant="AppStream">gnome-calculator</packagereq>
       <packagereq variant="AppStream">gnome-characters</packagereq>
       <packagereq variant="AppStream">gnome-classic-session</packagereq>
@@ -1848,7 +1847,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory" arch="x86_64">gnome-boxes</packagereq>
       <packagereq type="mandatory">virt-install</packagereq>
       <packagereq type="mandatory">virt-manager</packagereq>
       <packagereq type="mandatory">virt-viewer</packagereq>
