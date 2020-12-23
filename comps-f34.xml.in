@@ -5651,7 +5651,6 @@
       <packagereq>geany</packagereq>
       <packagereq>gparted</packagereq>
       <packagereq>mousepad</packagereq>
-      <packagereq>orage</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>ristretto</packagereq>
       <packagereq>seahorse</packagereq>
@@ -5672,7 +5671,6 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>alsa-utils</packagereq>
-      <packagereq>arc-theme</packagereq>
       <packagereq>blueberry</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
@@ -5687,6 +5685,7 @@
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-mtp</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>mint-y-theme</packagereq>
       <packagereq>network-manager-applet</packagereq>
       <packagereq>NetworkManager-fortisslvpn-gnome</packagereq>
       <packagereq>NetworkManager-iodine-gnome</packagereq>
@@ -5712,12 +5711,12 @@
       <packagereq>xfce4-datetime-plugin</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
       <packagereq>xfce4-pulseaudio-plugin</packagereq>
+      <packagereq>xfce4-screensaver</packagereq>
       <packagereq>xfce4-screenshooter-plugin</packagereq>
       <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-terminal</packagereq>
       <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
-      <packagereq>xscreensaver-base</packagereq>
       <packagereq type="mandatory">lightdm-gtk</packagereq>
       <packagereq type="mandatory">xfce4-about</packagereq>
       <packagereq type="mandatory">xfce4-panel</packagereq>
@@ -5745,6 +5744,7 @@
       <packagereq>xfce4-mailwatch-plugin</packagereq>
       <packagereq>xfce4-mount-plugin</packagereq>
       <packagereq>xfce4-netload-plugin</packagereq>
+      <packagereq>xfce4-panel-profiles</packagereq>
       <packagereq>xfce4-sensors-plugin</packagereq>
       <packagereq>xfce4-systemload-plugin</packagereq>
       <packagereq>xfce4-time-out-plugin</packagereq>
@@ -5754,7 +5754,6 @@
       <packagereq>xfce4-xkb-plugin</packagereq>
       <packagereq>xfdashboard</packagereq>
       <packagereq>xfdashboard-themes</packagereq>
-      <packagereq>xfpanel-switch</packagereq>
     </packagelist>
   </group>
   <group>
