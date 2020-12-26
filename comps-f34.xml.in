@@ -4690,7 +4690,6 @@
       <packagereq type="default">sing</packagereq>
       <packagereq type="default">sipp</packagereq>
       <packagereq type="default">sipsak</packagereq>
-      <packagereq type="default">skipfish</packagereq>
       <packagereq type="default">sleuthkit</packagereq>
       <packagereq type="default">slowhttptest</packagereq>
       <packagereq type="default">snmpcheck</packagereq>
