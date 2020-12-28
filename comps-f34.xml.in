@@ -889,7 +889,7 @@
       <packagereq type="default">google-roboto-condensed-fonts</packagereq>
       <packagereq type="default">google-roboto-fonts</packagereq>
       <packagereq type="default">google-roboto-slab-fonts</packagereq>
-      <packagereq type="default">gpick</packagereq>
+      <packagereq type="default">gcolor3</packagereq>
       <packagereq type="default">GraphicsMagick</packagereq>
       <packagereq type="default">hugin</packagereq>
       <packagereq type="default">inkscape</packagereq>
