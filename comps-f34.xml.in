@@ -2882,6 +2882,53 @@
     </packagelist>
   </group>
   <group>
+    <id>i3</id>
+    <_name>i3 window manager</_name>
+    <_description>i3 is a tiling window manager primarily targeted at advanced users and developers. This group is a minimal, lightweight group of packages to use i3wm with other system components.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">i3</packagereq>
+      <packagereq type="mandatory">i3lock</packagereq>
+      <packagereq type="mandatory">i3status</packagereq>
+      <packagereq type="mandatory">dunst</packagereq>
+      <packagereq type="mandatory">lightdm</packagereq>
+      <packagereq type="mandatory">lightdm-gtk</packagereq>
+      <packagereq type="mandatory">lightdm-gtk-greeter-settings </packagereq>
+      <packagereq type="mandatory">nmcli</packagereq>
+      <packagereq type="mandatory">network-manager-applet</packagereq>
+      <packagereq type="mandatory">pactl</packagereq>
+      <packagereq type="mandatory">pavucontrol</packagereq>
+      <packagereq type="mandatory">volumeicon</packagereq>
+      <packagereq type="mandatory">xbrightlight</packagereq>
+      <packagereq type="mandatory">mousepad</packagereq>
+      <packagereq type="default">azote</packagereq>
+      <packagereq type="default">dmenu</packagereq>
+      <packagereq type="default">firefox</packagereq>
+      <packagereq type="default">htop</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>i3-extended</id>
+    <_name>i3 window manager (supplemental packages)</_name>
+    <_description>i3 is a tiling window manager primarily targeted at advanced users and developers. This group includes supplemental, optional packages for the i3 window manager.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+        <packagereq type="default">rofi</packagereq>
+        <packagereq type="default">powertop</packagereq>
+        <packagereq type="default">arandr</packagereq>
+        <packagereq type="default">conky</packagereq>
+        <packagereq type="default">i3status-rs</packagereq>
+        <packagereq type="default">alacritty</packagereq>
+        <packagereq type="default">tmux</packagereq>
+        <packagereq type="default">xarchiver</packagereq>
+        <packagereq type="default">qutebrowser</packagereq>
+        <packagereq type="default">py3status</packagereq>
+        <packagereq type="default">lxappearance</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>input-methods</id>
     <_name>Input Methods</_name>
     <_description>Input method packages for the input of international text.</_description>
@@ -5975,6 +6022,27 @@
       <groupid>arm-tools</groupid>
     </optionlist>
   </environment>
+  <environment>
+    <id>i3-desktop-environment</id>
+    <name>i3 desktop</name>
+    <grouplist>
+        <groupid>admin-tools</groupid>
+        <groupid>base-x</groupid>
+        <groupid>core</groupid>
+        <groupid>dial-up</groupid>
+        <groupid>fonts</groupid>
+        <groupid>hardware-support</groupid>
+        <groupid>i3</groupid>
+        <groupid>input-methods</groupid>
+        <groupid>multimedia</groupid>
+        <groupid>networkmanager-submodules</groupid>
+        <groupid>standard</groupid>
+        <groupid>printing</groupid>
+    </grouplist>
+    <optionlist>
+        <groupid>i3-extended</groupid>
+    </optionlist>
+ </environment>
   <environment>
     <id>lxde-desktop-environment</id>
     <_name>LXDE Desktop</_name>
