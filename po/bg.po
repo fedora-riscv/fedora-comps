@@ -10,20 +10,22 @@
 # Valentin Laskov <laskov@festa.bg>, 2011-2013
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Valentin Laskov <laskov@festa.bg>, 2016. #zanata
+# Nickys Music Group <nickys.music.group@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-04-21 10:24-0600\n"
-"PO-Revision-Date: 2016-05-25 07:34+0000\n"
-"Last-Translator: Valentin Laskov <laskov@festa.bg>\n"
-"Language-Team: Bulgarian (http://www.transifex.com/projects/p/comps/language/bg/)\n"
+"PO-Revision-Date: 2021-01-04 15:36+0000\n"
+"Last-Translator: Nickys Music Group <nickys.music.group@gmail.com>\n"
+"Language-Team: Bulgarian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/master/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: ../comps-f22.xml.in.h:1 ../comps-f23.xml.in.h:274 ../comps-f24.xml.in.h:287
 #: ../comps-f25.xml.in.h:287
@@ -94,7 +96,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:12 ../comps-f23.xml.in.h:10 ../comps-f24.xml.in.h:12
 #: ../comps-f25.xml.in.h:12
 msgid "base-x"
-msgstr "base-x"
+msgstr "база-х"
 
 #: ../comps-f22.xml.in.h:13 ../comps-f23.xml.in.h:11 ../comps-f24.xml.in.h:13
 #: ../comps-f25.xml.in.h:13
@@ -220,7 +222,7 @@ msgstr "Управление на контейнери"
 #: ../comps-f22.xml.in.h:34 ../comps-f23.xml.in.h:32 ../comps-f24.xml.in.h:34
 #: ../comps-f25.xml.in.h:34
 msgid "Tools for managing Linux containers"
-msgstr "Инструменти за управление на Linux контейнери."
+msgstr "Инструменти за управление на Linux контейнери"
 
 #: ../comps-f22.xml.in.h:35 ../comps-f23.xml.in.h:33 ../comps-f24.xml.in.h:35
 #: ../comps-f25.xml.in.h:35 ../comps-el6.xml.in.h:39
@@ -260,7 +262,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:41 ../comps-f23.xml.in.h:39 ../comps-f24.xml.in.h:41
 #: ../comps-f25.xml.in.h:41
 msgid "Critical Path (GNOME)"
-msgstr "Critical Path (GNOME)"
+msgstr "Критичен път (GNOME)"
 
 #: ../comps-f22.xml.in.h:42 ../comps-f23.xml.in.h:40 ../comps-f24.xml.in.h:42
 #: ../comps-f25.xml.in.h:42
@@ -272,7 +274,7 @@ msgstr "Комплект пакети, осигуряващ функционал
 #: ../comps-f22.xml.in.h:43 ../comps-f23.xml.in.h:41 ../comps-f24.xml.in.h:45
 #: ../comps-f25.xml.in.h:45
 msgid "Critical Path (KDE)"
-msgstr "Critical Path (KDE)"
+msgstr "Критичен Път (KDE)"
 
 #: ../comps-f22.xml.in.h:44 ../comps-f23.xml.in.h:42 ../comps-f24.xml.in.h:46
 #: ../comps-f25.xml.in.h:46
@@ -286,7 +288,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:45 ../comps-f23.xml.in.h:43 ../comps-f24.xml.in.h:47
 #: ../comps-f25.xml.in.h:47
 msgid "Critical Path (LXDE)"
-msgstr "Critical Path (LXDE)"
+msgstr "Критичен Път (LXDE)"
 
 #: ../comps-f22.xml.in.h:46 ../comps-f23.xml.in.h:44 ../comps-f24.xml.in.h:48
 #: ../comps-f25.xml.in.h:48
@@ -300,7 +302,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:47 ../comps-f23.xml.in.h:45 ../comps-f24.xml.in.h:49
 #: ../comps-f25.xml.in.h:49
 msgid "Critical Path (LXQt)"
-msgstr "Critical Path (LXQt)"
+msgstr "Критичен Път (LXQt)"
 
 #: ../comps-f22.xml.in.h:48 ../comps-f23.xml.in.h:46 ../comps-f24.xml.in.h:50
 #: ../comps-f25.xml.in.h:50
@@ -314,7 +316,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:49 ../comps-f23.xml.in.h:47 ../comps-f24.xml.in.h:51
 #: ../comps-f25.xml.in.h:51
 msgid "Critical Path (Xfce)"
-msgstr "Critical Path (Xfce)"
+msgstr "Критичен Път (Xfce)"
 
 #: ../comps-f22.xml.in.h:50 ../comps-f23.xml.in.h:48 ../comps-f24.xml.in.h:52
 #: ../comps-f25.xml.in.h:52
@@ -392,7 +394,7 @@ msgstr "Директориен сървър"
 #: ../comps-f25.xml.in.h:63 ../comps-el6.xml.in.h:59
 #: ../comps-epel7.xml.in.h:59
 msgid "Machine and user identity servers."
-msgstr "Сървъри за идентичност на машини и потребители"
+msgstr "Сървъри за идентичност на машини и потребители."
 
 #: ../comps-f22.xml.in.h:62 ../comps-f23.xml.in.h:60 ../comps-f24.xml.in.h:64
 #: ../comps-f25.xml.in.h:64
@@ -494,7 +496,7 @@ msgstr ""
 #: ../comps-f22.xml.in.h:79 ../comps-f23.xml.in.h:77 ../comps-f24.xml.in.h:81
 #: ../comps-f25.xml.in.h:81
 msgid "Enlightenment"
-msgstr "Enlightenment"
+msgstr "Просветление"
 
 #: ../comps-f22.xml.in.h:80 ../comps-f23.xml.in.h:78 ../comps-f24.xml.in.h:82
 #: ../comps-f25.xml.in.h:82
@@ -685,7 +687,7 @@ msgstr "Поддръжка на Гръцки"
 #: ../comps-f22.xml.in.h:111 ../comps-f23.xml.in.h:109
 #: ../comps-f24.xml.in.h:113 ../comps-f25.xml.in.h:113
 msgid "Guest Agents"
-msgstr "Guest Agents"
+msgstr "Агенти за гости"
 
 #: ../comps-f22.xml.in.h:112 ../comps-f23.xml.in.h:110
 #: ../comps-f24.xml.in.h:114 ../comps-f25.xml.in.h:114
@@ -695,7 +697,7 @@ msgstr "Агенти, използвани при работа в хиперва
 #: ../comps-f22.xml.in.h:113 ../comps-f23.xml.in.h:111
 #: ../comps-f24.xml.in.h:115 ../comps-f25.xml.in.h:115
 msgid "Guest Desktop Agents"
-msgstr "Guest Desktop Agents"
+msgstr "Десктоп Агенти за Гости"
 
 #: ../comps-f22.xml.in.h:114 ../comps-f23.xml.in.h:112
 #: ../comps-f24.xml.in.h:116 ../comps-f25.xml.in.h:116
@@ -711,7 +713,7 @@ msgstr "Поддръжка на Гуарати"
 #: ../comps-f22.xml.in.h:116 ../comps-f23.xml.in.h:114
 #: ../comps-f24.xml.in.h:118 ../comps-f25.xml.in.h:118
 msgid "High Availability"
-msgstr "High Availability"
+msgstr "Висока Наличност"
 
 #: ../comps-f22.xml.in.h:117 ../comps-f23.xml.in.h:115
 #: ../comps-f24.xml.in.h:119 ../comps-f25.xml.in.h:119
@@ -758,7 +760,7 @@ msgstr "Поддръжка за разработка на програми на 
 #: ../comps-f22.xml.in.h:124 ../comps-f23.xml.in.h:122
 #: ../comps-f24.xml.in.h:133 ../comps-f25.xml.in.h:133
 msgid "Headless Management"
-msgstr "Управление без монитор."
+msgstr "Управление без монитор"
 
 #: ../comps-f22.xml.in.h:125 ../comps-f23.xml.in.h:123
 #: ../comps-f24.xml.in.h:134 ../comps-f25.xml.in.h:134
@@ -787,7 +789,7 @@ msgstr "Методи за писане"
 #: ../comps-f22.xml.in.h:129 ../comps-f23.xml.in.h:127
 #: ../comps-f24.xml.in.h:138 ../comps-f25.xml.in.h:138
 msgid "Input method packages for the input of international text."
-msgstr "Пакети с методи за писане за въвеждане на интернационален текст"
+msgstr "Пакети с методи за писане за въвеждане на интернационален текст."
 
 #: ../comps-f22.xml.in.h:130 ../comps-f23.xml.in.h:128
 #: ../comps-f24.xml.in.h:139 ../comps-f25.xml.in.h:139
@@ -1149,7 +1151,7 @@ msgstr "MATE приложения"
 #: ../comps-f22.xml.in.h:193 ../comps-f23.xml.in.h:191
 #: ../comps-f24.xml.in.h:204 ../comps-f25.xml.in.h:204
 msgid "Applications for the MATE Desktop."
-msgstr "Приложения за десктопа MATE"
+msgstr "Приложения за десктопа MATE."
 
 #: ../comps-f22.xml.in.h:194 ../comps-f23.xml.in.h:192
 #: ../comps-f24.xml.in.h:205 ../comps-f25.xml.in.h:205
@@ -1455,7 +1457,7 @@ msgstr "Поддръжка на Santali"
 #: ../comps-f22.xml.in.h:246 ../comps-f23.xml.in.h:244
 #: ../comps-f24.xml.in.h:257 ../comps-f25.xml.in.h:257
 msgid "Security Lab"
-msgstr "Security Lab"
+msgstr "Лаборатория за сигурност"
 
 #: ../comps-f22.xml.in.h:247 ../comps-f23.xml.in.h:245
 #: ../comps-f24.xml.in.h:258 ../comps-f25.xml.in.h:258
@@ -2057,7 +2059,7 @@ msgstr ""
 
 #: ../comps-f24.xml.in.h:43 ../comps-f25.xml.in.h:43
 msgid "Critical Path (Hawaii)"
-msgstr "Critical Path (Hawaii)"
+msgstr "Критичен Път (Hawaii)"
 
 #: ../comps-f24.xml.in.h:44 ../comps-f25.xml.in.h:44
 msgid ""
@@ -2121,15 +2123,15 @@ msgstr "Hawaii десктоп"
 
 #: ../comps-f24.xml.in.h:328 ../comps-f25.xml.in.h:328
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Персонализирана операционна система на Fedora"
 
 #: ../comps-f24.xml.in.h:329 ../comps-f25.xml.in.h:329
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Основен градивен елемент за персонализирана система Fedora."
 
 #: ../comps-f24.xml.in.h:332 ../comps-f25.xml.in.h:332
 msgid "Fedora Server Edition"
-msgstr "Fedora Server Edition"
+msgstr "Сървърно Издание Fedora"
 
 #: ../comps-f25.xml.in.h:56
 msgid ""
@@ -2202,7 +2204,7 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit files. These include Emacs and Vi."
 msgstr ""
-"Програмите, често наричани текстови редактори,  позволяват създаването и "
+"Програмите, често наричани текстови редактори, позволяват създаването и "
 "редактирането на файлове. Те включват emacs и vi."
 
 #: ../comps-el5.xml.in.h:22
@@ -2595,7 +2597,7 @@ msgstr "Поддръжка на Галицийски"
 
 #: ../comps-el6.xml.in.h:87 ../comps-epel7.xml.in.h:87
 msgid "General Purpose Desktop"
-msgstr "Работен плот с общо предназначение."
+msgstr "Работен плот с общо предназначение"
 
 #: ../comps-el6.xml.in.h:88 ../comps-epel7.xml.in.h:88
 msgid "A general purpose desktop."
@@ -3082,7 +3084,7 @@ msgstr "iSCSI клиентска поддръжка"
 
 #: ../comps-el6.xml.in.h:229 ../comps-epel7.xml.in.h:231
 msgid "Storage Availability Tools"
-msgstr "Инструменти за съхранение."
+msgstr "Инструменти за съхранение"
 
 #: ../comps-el6.xml.in.h:230 ../comps-epel7.xml.in.h:232
 msgid "A set of tools to manage SAN path availability"
@@ -3195,7 +3197,7 @@ msgstr "Поддръжка на Тсвана"
 
 #: ../comps-el6.xml.in.h:261 ../comps-epel7.xml.in.h:263
 msgid "TurboGears application framework"
-msgstr "Работна среда за приложения TurboGears."
+msgstr "Работна среда за приложения TurboGears"
 
 #: ../comps-el6.xml.in.h:262 ../comps-epel7.xml.in.h:264
 msgid "TurboGears web application framework."
@@ -3271,7 +3273,7 @@ msgstr ""
 
 #: ../comps-el6.xml.in.h:282 ../comps-epel7.xml.in.h:284
 msgid "Web Servlet Engine"
-msgstr "Web Servlet Engine"
+msgstr "Двигател на уеб сървлети"
 
 #: ../comps-el6.xml.in.h:283 ../comps-epel7.xml.in.h:285
 msgid "Allows the system to host Java servlets."
