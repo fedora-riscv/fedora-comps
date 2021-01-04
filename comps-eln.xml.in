@@ -1103,6 +1103,7 @@
       <packagereq type="mandatory" variant="BaseOS">iptstate</packagereq>
       <packagereq type="mandatory" arch="aarch64,ppc64le,x86_64" variant="BaseOS">irqbalance</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">kpatch-dnf</packagereq>
       <packagereq type="mandatory" variant="BaseOS">logrotate</packagereq>
       <packagereq type="mandatory" variant="BaseOS">lsof</packagereq>
       <packagereq type="mandatory" arch="x86_64" variant="BaseOS">mcelog</packagereq>
@@ -1207,6 +1208,7 @@
       <packagereq type="mandatory" variant="BaseOS">iptstate</packagereq>
       <packagereq type="mandatory" arch="aarch64,ppc64le,x86_64" variant="BaseOS">irqbalance</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">kpatch-dnf</packagereq>
       <packagereq type="mandatory" variant="BaseOS">logrotate</packagereq>
       <packagereq type="mandatory" variant="BaseOS">lsof</packagereq>
       <packagereq type="mandatory" arch="x86_64" variant="BaseOS">mcelog</packagereq>
