@@ -1800,7 +1800,7 @@
       <packagereq>rpm-ostree</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,ppc64le,s390x" variant="AppStream">
+  <group variant="AppStream">
     <id>virtualization-tools</id>
     <_name>Virtualization Tools</_name>
     <_description>Tools for offline virtual image management.</_description>
@@ -1815,7 +1815,7 @@
       <packagereq type="default" arch="x86_64">virtio-win</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,s390x,ppc64le" variant="AppStream">
+  <group variant="AppStream">
     <id>virtualization-platform</id>
     <_name>Virtualization Platform</_name>
     <_description>Provides an interface for accessing and controlling virtualized guests and containers.</_description>
@@ -1831,18 +1831,18 @@
       <packagereq type="optional">perl-Sys-Virt</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,s390x,ppc64le" variant="AppStream">
+  <group variant="AppStream">
     <id>virtualization-hypervisor</id>
     <_name>Virtualization Hypervisor</_name>
     <_description>Smallest possible virtualization host installation.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory" arch="x86_64,ppc64le,s390x">libvirt</packagereq>
-      <packagereq type="mandatory" arch="x86_64,ppc64le,s390x">qemu-kvm</packagereq>
+      <packagereq type="mandatory">libvirt</packagereq>
+      <packagereq type="mandatory">qemu-kvm</packagereq>
     </packagelist>
   </group>
-  <group arch="aarch64,x86_64,s390x,ppc64le" variant="AppStream">
+  <group variant="AppStream">
     <id>virtualization-client</id>
     <_name>Virtualization Client</_name>
     <_description>Clients for installing and managing virtualization instances.</_description>
@@ -1961,7 +1961,7 @@
       <packagereq type="default">hyperv-daemons</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64" variant="AppStream">
+  <group variant="AppStream">
     <id>platform-kvm</id>
     <_name>KVM platform specific packages</_name>
     <_description>Virtualization utilities and drivers for KVM</_description>
@@ -2218,7 +2218,7 @@
       <packagereq>rubygem-rest-client</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,ppc64le,aarch64" variant="AppStream">
+  <group variant="AppStream">
     <id>guest-desktop-agents</id>
     <_name>Guest Desktop Agents</_name>
     <_description>Agents used when running as a virtualized desktop.</_description>
