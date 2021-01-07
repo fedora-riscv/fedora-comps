@@ -6,18 +6,6 @@ top_srcdir=..
 
 all:
 
-refresh-po: comps.pot $(POFILES)
-
-%.po: comps.pot
-	@if msgmerge $@ comps.pot > $@.new ; then \
-		echo "msgmerge of $@ succeeded" ; \
-		mv $@.new $@ ; \
-		msgfmt -o /dev/null --statistics $@ ; \
-	else \
-		echo "msgmerge of $@ failed" ; \
-		rm -f $@.new ; \
-	fi
-
 comps.pot: $(XMLFILES)
 	intltool-update --pot --gettext-package=comps
 	
