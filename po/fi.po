@@ -10,21 +10,22 @@
 # Ville-Pekka Vainio <vpivaini@cs.helsinki.fi>, 2011
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Jan Kuparinen <copper_fin@hotmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-07-05 07:00+0000\n"
-"Last-Translator: Juhani Numminen <juhaninumminen0@gmail.com>\n"
-"Language-Team: Finnish (http://www.transifex.com/projects/p/comps/language/"
-"fi/)\n"
+"PO-Revision-Date: 2021-01-11 19:36+0000\n"
+"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -72,7 +73,7 @@ msgstr "Äänituotanto"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
 msgid "Various tools for audio synthesis and music production."
-msgstr "Äänisynteesi- ja musiikintuottotyökaluja"
+msgstr "Äänisynteesi- ja musiikintuottotyökaluja."
 
 #: ../comps-f32.xml.in.h:12 ../comps-f33.xml.in.h:12 ../comps-f34.xml.in.h:12
 msgid "Authoring and Publishing"
@@ -88,7 +89,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:14 ../comps-f33.xml.in.h:14 ../comps-f34.xml.in.h:14
 msgid "base-x"
-msgstr "base-x"
+msgstr "kanta-x"
 
 #: ../comps-f32.xml.in.h:15 ../comps-f33.xml.in.h:15 ../comps-f34.xml.in.h:15
 msgid "Local X.org display server"
@@ -388,7 +389,7 @@ msgstr "Hakemistopalvelin"
 #: ../comps-f32.xml.in.h:69 ../comps-f33.xml.in.h:67 ../comps-f34.xml.in.h:67
 #: ../comps-epel7.xml.in.h:61
 msgid "Machine and user identity servers."
-msgstr "Koneiden ja käyttäjien tunnistamiseen tarkoitettuja palvelimia"
+msgstr "Koneiden ja käyttäjien tunnistamiseen tarkoitettuja palvelimia."
 
 #: ../comps-f32.xml.in.h:70 ../comps-f33.xml.in.h:68 ../comps-f34.xml.in.h:68
 msgid "DNS Name Server"
@@ -613,7 +614,7 @@ msgstr "Guest-agentit"
 #: ../comps-f32.xml.in.h:115 ../comps-f33.xml.in.h:111
 #: ../comps-f34.xml.in.h:111
 msgid "Agents used when running under a hypervisor."
-msgstr "Hypervisorin alaisuudessa käytettävät agentit"
+msgstr "Hypervisorin alaisuudessa käytettävät agentit."
 
 #: ../comps-f32.xml.in.h:116 ../comps-f33.xml.in.h:112
 #: ../comps-f34.xml.in.h:112
@@ -712,7 +713,7 @@ msgstr "Ohjelmistokehitystuki Java-ohjelmointikielelle."
 #: ../comps-f32.xml.in.h:134 ../comps-f33.xml.in.h:130
 #: ../comps-f34.xml.in.h:130
 msgid "Java Application Server"
-msgstr "Java-sovelluspalvelin."
+msgstr "Java-sovelluspalvelin"
 
 #: ../comps-f32.xml.in.h:135 ../comps-f33.xml.in.h:131
 #: ../comps-f34.xml.in.h:131
@@ -858,8 +859,8 @@ msgstr "LibreOfficen kehitys"
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
-"Nämä paketit ovat hyödyllisiä kehitettäessä LibreOffice-laajennoksia tai -"
-"makroja"
+"Nämä paketit ovat hyödyllisiä kehitettäessä LibreOffice-laajennoksia tai "
+"-makroja."
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
@@ -975,7 +976,7 @@ msgstr "MATE-sovellukset"
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
 msgid "Applications for the MATE Desktop."
-msgstr "Sovelluksia MATE-työpöydälle"
+msgstr "Sovelluksia MATE-työpöydälle."
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
@@ -1009,7 +1010,7 @@ msgstr "Milkymist"
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr "Työkaluketju Milkymist-laitteistoinsinööreille"
+msgstr "Työkaluketju Milkymist-laitteistoinsinööreille."
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
@@ -1475,7 +1476,7 @@ msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
 "Yksinkertaiset ikkunankäsittelijät, jotka eivät ole osa suurempaa "
-"työpöytäympäristöä"
+"työpöytäympäristöä."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
@@ -1801,7 +1802,7 @@ msgstr "Sisältö"
 
 #: ../comps-f32.xml.in.h:336
 msgid "Text and other Free content."
-msgstr "Tekstejä ja muuta vapaata sisältöä"
+msgstr "Tekstejä ja muuta vapaata sisältöä."
 
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
@@ -2232,7 +2233,7 @@ msgid ""
 "based InfiniBand and iWARP fabrics."
 msgstr ""
 "Klusteroinnin ja hajautetun laskennan työkaluja RDMA-pohjaisiin InfiniBand- "
-"ja iWARP-verkkoihin"
+"ja iWARP-verkkoihin."
 
 #: ../comps-epel7.xml.in.h:112
 msgid "Software for the input of international text."
@@ -2553,7 +2554,7 @@ msgstr "PHP-tuki"
 
 #: ../comps-epel7.xml.in.h:194
 msgid "PHP web application framework."
-msgstr "PHP-web-sovelluskehys"
+msgstr "PHP-web-sovelluskehys."
 
 #: ../comps-epel7.xml.in.h:195
 msgid "Polish Support"
