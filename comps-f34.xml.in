@@ -3914,8 +3914,10 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-ucm</packagereq>
       <packagereq>alsa-utils</packagereq>
+      <packagereq>gstreamer1-plugin-openh264</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
+      <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-module-x11</packagereq>
