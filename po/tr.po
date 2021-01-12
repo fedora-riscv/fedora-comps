@@ -9,22 +9,22 @@
 # Necdet Yücel <necdetyucel@gmail.com>, 2012
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Emin Tufan Çetin <etcetin@gmail.com>, 2017. #zanata
-# Oğuz Ersen <oguzersen@protonmail.com>, 2020.
+# Oğuz Ersen <oguzersen@protonmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2020-04-21 18:40+0000\n"
+"PO-Revision-Date: 2021-01-14 06:37+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
-"Language-Team: Turkish <https://translate.fedoraproject.org/projects/fedora-"
-"comps/master/tr/>\n"
+"Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.0.1\n"
+"X-Generator: Weblate 4.4.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -52,19 +52,19 @@ msgstr "Anaconda araçları"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM Araçları"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "ARM sistemleriyle çalışmak için araçlar"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 Doğrudan Donanım Araçları"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Doğrudan x86 donanım sistemleriyle çalışmak için araçlar"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -172,16 +172,12 @@ msgstr ""
 "\"Bulut\" ortamlarında çalışan sunucular ve sistem kalıpları için yazılımlar"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
-#| msgid "MATE Compiz"
 msgid "Compiz"
-msgstr "MATE Compiz"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
-#, fuzzy
-#| msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgid "This package group adds Compiz and Emerald"
-msgstr "Bu paket grubu MATE masaüstüne Compiz ve Emerald'ı ekler"
+msgstr "Bu paket grubu Compiz ve Emerald'ı ekler"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -221,20 +217,14 @@ msgstr ""
 "platformu sağlayan bir paketler takımı"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Kritik Yol (KDE)"
+msgstr "Kritik Yol (Deepin masaüstü)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "KDE masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
+msgstr "Deepin masaüstü için Kritik Yol işlevselliğini sağlayan paketler takımı"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -299,40 +289,32 @@ msgstr ""
 "Bunlar ldc ve geany-tag gibi geliştirme araçlarını ve kütüphaneleri içerir."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Masaüstü Ortamları"
+msgstr "Deepin Masaüstü Ortamı"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Deepin Masaüstü, şık ve kullanımı kolay olmayı amaçlayan bir masaüstü "
+"ortamıdır."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "İnternet Uygulamaları"
+msgstr "Deepin Masaüstü Uygulamaları"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Masaüstünde metin işlemek için yazı tipi paketleri."
+msgstr "Deepin Masaüstü için ortam paketleri"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Uzak Masaüstü İstemcileri"
+msgstr "Deepin Masaüstü Ofis"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "LXDE için ofis takımı"
+msgstr "Deepin Masaüstü için ofis takımı"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -443,7 +425,7 @@ msgstr "Elektronik Laboratuvarı"
 
 #: ../comps-f32.xml.in.h:83 ../comps-f33.xml.in.h:81 ../comps-f34.xml.in.h:81
 msgid "Design and simulation tools for hardware engineers"
-msgstr "Donanım mühendisleri için tasarım ve benzetim araçları"
+msgstr "Donanım mühendisleri için tasarım ve simülasyon araçları"
 
 #: ../comps-f32.xml.in.h:84 ../comps-f33.xml.in.h:82 ../comps-f34.xml.in.h:82
 msgid "Engineering and Scientific"
@@ -753,12 +735,12 @@ msgstr "KDE için çoklu ortam desteği"
 #: ../comps-f32.xml.in.h:143 ../comps-f33.xml.in.h:139
 #: ../comps-f34.xml.in.h:139 ../comps-epel8.xml.in.h:12
 msgid "KDE Office"
-msgstr "KDE Office"
+msgstr "KDE Ofis"
 
 #: ../comps-f32.xml.in.h:144 ../comps-f33.xml.in.h:140
 #: ../comps-f34.xml.in.h:140 ../comps-epel8.xml.in.h:13
 msgid "KDE Office applications"
-msgstr "KDE Office uygulamaları"
+msgstr "KDE Ofis uygulamaları"
 
 #: ../comps-f32.xml.in.h:145 ../comps-f33.xml.in.h:141
 #: ../comps-f34.xml.in.h:141 ../comps-epel8.xml.in.h:14
@@ -926,7 +908,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "LXQt çevirileri"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -1072,7 +1054,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Nöron Modelleme Simülatörleri"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1080,11 +1062,13 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"Bu grup, nöronların ve ağlarının modellenmesinde kullanılan simülatörleri "
+"içerir."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
 msgid "News Server"
-msgstr "Haber Sunucu"
+msgstr "Haber Sunucusu"
 
 #: ../comps-f32.xml.in.h:204 ../comps-f33.xml.in.h:195
 #: ../comps-f34.xml.in.h:195
@@ -1109,14 +1093,13 @@ msgstr ""
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
 msgid "Office/Productivity"
-msgstr "Büro/Verimlilik"
+msgstr "Ofis/Verimlilik"
 
 #: ../comps-f32.xml.in.h:208 ../comps-f33.xml.in.h:199
 #: ../comps-f34.xml.in.h:199
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
-"Büro uygulamalarını, PDF görüntüleyicileri ve benzerlerini içeren "
-"uygulamalar."
+"Ofis takımlarını, PDF görüntüleyicileri ve benzerlerini içeren uygulamalar."
 
 #: ../comps-f32.xml.in.h:209
 msgid "Online Help and Documentation"
@@ -1124,15 +1107,14 @@ msgstr "Çevrim İçi Yardım ve Belgeleme"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Cinnamon Masaüstü"
+msgstr "Pantheon Masaüstü"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
 msgstr ""
+"Pantheon masaüstü ortamı, elementaryOS'de kullanılan masaüstü ortamıdır."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1166,15 +1148,13 @@ msgstr "Genel amaçlı web geliştirme kodlama dili."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Marati Desteği"
+msgstr "VMware Platform Desteği"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "VMware sanal makinelerine kurulacak paketler"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1192,24 +1172,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Python Sınıfı"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Python öğretmek ve öğrenmek için kullanılan araçlar."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Bilimsel Python"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Python'da bilimsel çalışmalar yapmak için kullanılan araçlar."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1463,28 +1441,24 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Fedora İş İstasyonu ürün çekirdeği"
+msgstr "Fedora Workstation ostree desteği"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "İş istasyonu ürünü için zorunlu paketler."
+msgstr "Workstation ostree ürünü için zorunlu paketler."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
 #: ../comps-f34.xml.in.h:267
 msgid "Fedora Workstation product core"
-msgstr "Fedora İş İstasyonu ürün çekirdeği"
+msgstr "Fedora Workstation ürün çekirdeği"
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
 msgid "Packages mandatory for the workstation product."
-msgstr "İş istasyonu ürünü için zorunlu paketler."
+msgstr "Workstation ürünü için zorunlu paketler."
 
 #: ../comps-f32.xml.in.h:277 ../comps-f33.xml.in.h:269
 #: ../comps-f34.xml.in.h:269
@@ -1634,7 +1608,7 @@ msgstr "Fedora İş İstasyonu"
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
-"Fedora İş İstasyonu, dizüstü ve kişisel bilgisayarlar için kullanıcı dostu "
+"Fedora Workstation, dizüstü ve kişisel bilgisayarlar için kullanıcı dostu "
 "masaüstü sistemidir."
 
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
@@ -1659,10 +1633,8 @@ msgstr "MATE Masaüstü"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE Masaüstü"
+msgstr "Deepin Masaüstü"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1670,6 +1642,8 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Deepin masaüstü, Deepin dağıtımı ile yayınlanan masaüstü ortamıdır. Şık ve "
+"kullanımı kolay olmayı hedefler."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
@@ -1686,12 +1660,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:317 ../comps-f33.xml.in.h:309
 #: ../comps-f34.xml.in.h:309
 msgid "Development and Creative Workstation"
-msgstr "Geliştirme ve Yaratıcı İş İstasyonu"
+msgstr "Geliştirme ve Yaratıcılık İş İstasyonu"
 
 #: ../comps-f32.xml.in.h:318 ../comps-f33.xml.in.h:310
 #: ../comps-f34.xml.in.h:310
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr "Yazılım, donanim, grafik veya içerik geliştirme için iş istasyonu."
+msgstr "Yazılım, donanım, grafik veya içerik geliştirme için iş istasyonu."
 
 #: ../comps-f32.xml.in.h:319 ../comps-f33.xml.in.h:311
 #: ../comps-f34.xml.in.h:311 ../comps-epel7.xml.in.h:286
@@ -1794,20 +1768,21 @@ msgstr "Metin ve diğer Özgür içerik."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Sinir Bilimi"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Sinir bilimi için araçlar."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Telefon/tablet kullanıcı deneyimi ortamı"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
 msgstr ""
+"GNOME3 teknolojilerine dayalı bir telefon/tablet masaüstü kullanıcı deneyimi."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
@@ -2059,7 +2034,7 @@ msgstr "Öğrenim için eğitsel yazılım."
 
 #: ../comps-epel7.xml.in.h:68
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Donanım mühendisleri için Tasarım ve Benzetim araçları."
+msgstr "Donanım mühendisleri için Tasarım ve Simülasyon araçları."
 
 #: ../comps-epel7.xml.in.h:69
 msgid "Emacs"
@@ -2931,11 +2906,11 @@ msgstr "Galce Desteği"
 
 #: ../comps-epel7.xml.in.h:291
 msgid "Workstation Policy"
-msgstr "İş İstasyonu Politikası"
+msgstr "Workstation Politikası"
 
 #: ../comps-epel7.xml.in.h:292
 msgid "Policy packages for the Workstation variant."
-msgstr "İş İstasyonu türü için politika paketleri."
+msgstr "Workstation çeşidi için politika paketleri."
 
 #: ../comps-epel7.xml.in.h:293
 msgid "X Window System"
