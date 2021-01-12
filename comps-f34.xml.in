@@ -134,8 +134,6 @@
       <packagereq type="default">a2jmidid</packagereq>
       <packagereq type="default">Add64</packagereq>
       <packagereq type="default">alsa-firmware</packagereq>
-      <packagereq type="default">alsa-plugins-jack</packagereq>
-      <packagereq type="default">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="default">alsa-plugins-samplerate</packagereq>
       <packagereq type="default">alsa-plugins-upmix</packagereq>
       <packagereq type="default">alsa-plugins-usbstream</packagereq>
@@ -162,8 +160,6 @@
       <packagereq type="default">hexter-dssi</packagereq>
       <packagereq type="default">hydrogen</packagereq>
       <packagereq type="default">jaaa</packagereq>
-      <packagereq type="default">jack-audio-connection-kit</packagereq>
-      <packagereq type="default">jack-audio-connection-kit-dbus</packagereq>
       <packagereq type="default">jackctlmmc</packagereq>
       <packagereq type="default">jack_capture</packagereq>
       <packagereq type="default">jack-mixer</packagereq>
@@ -209,8 +205,11 @@
       <packagereq type="default">mup</packagereq>
       <packagereq type="default">muse</packagereq>
       <packagereq type="default">new-session-manager</packagereq>
-      <packagereq type="default">pulseaudio-module-jack</packagereq>
       <packagereq type="default">pavucontrol</packagereq>
+      <packagereq type="default">pipewire-alsa</packagereq>
+      <packagereq type="default">pipewire-jack-audio-connection-kit</packagereq>
+      <packagereq type="default">pipewire-pulseaudio</packagereq>
+      <packagereq type="default">pipewire-utils</packagereq>
       <packagereq type="default">qastools</packagereq>
       <packagereq type="default">qjackctl</packagereq>
       <packagereq type="default">qmidiarp</packagereq>
@@ -422,7 +421,6 @@
     <packagelist>
       <packagereq type="mandatory">abrt-desktop</packagereq>
       <packagereq type="mandatory">abrt-java-connector</packagereq>
-      <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">blueberry</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
@@ -463,6 +461,8 @@
       <packagereq type="mandatory">nm-connection-editor</packagereq>
       <packagereq type="mandatory">paper-icon-theme</packagereq>
       <packagereq type="mandatory">pidgin</packagereq>
+      <packagereq type="mandatory">pipewire-alsa</packagereq>
+      <packagereq type="mandatory">pipewire-pulseaudio</packagereq>
       <packagereq type="mandatory">powerline</packagereq>
       <packagereq type="mandatory">redshift-gtk</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
@@ -717,7 +717,6 @@
       <packagereq type="default">gnome-software</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">nautilus</packagereq>
-      <packagereq type="default">pulseaudio-module-x11</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3696,7 +3695,6 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>abrt-java-connector</packagereq>
-      <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>atril</packagereq>
       <packagereq>atril-caja</packagereq>
       <packagereq>atril-thumbnailer</packagereq>
@@ -3797,6 +3795,8 @@
       <packagereq>p7zip-plugins</packagereq>
       <packagereq>parole</packagereq>
       <packagereq>pavucontrol</packagereq>
+      <packagereq>pipewire-alsa</packagereq>
+      <packagereq>pipewire-pulseaudio</packagereq>
       <packagereq>pluma</packagereq>
       <packagereq>seahorse</packagereq>
       <packagereq>seahorse-caja</packagereq>
@@ -3911,7 +3911,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-ucm</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>gstreamer1-plugin-openh264</packagereq>
@@ -3919,9 +3918,10 @@
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
-      <packagereq>pulseaudio</packagereq>
-      <packagereq>pulseaudio-module-x11</packagereq>
-      <packagereq>pulseaudio-utils</packagereq>
+      <packagereq>pipewire-alsa</packagereq>
+      <packagereq>pipewire-gstreamer</packagereq>
+      <packagereq>pipewire-pulseaudio</packagereq>
+      <packagereq>pipewire-utils</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-espeak</packagereq>
     </packagelist>
   </group>
@@ -4836,7 +4836,6 @@
       <packagereq type="optional">id3v2</packagereq>
       <packagereq type="optional">irstlm</packagereq>
       <packagereq type="optional">isomaster</packagereq>
-      <packagereq type="optional">jack-audio-connection-kit</packagereq>
       <packagereq type="optional">juk</packagereq>
       <packagereq type="optional">k3b</packagereq>
       <packagereq type="optional">kid3</packagereq>
@@ -4861,8 +4860,9 @@
       <packagereq type="optional">pitivi</packagereq>
       <packagereq type="optional">pocketsphinx</packagereq>
       <packagereq type="optional">pocketsphinx-plugin</packagereq>
-      <packagereq type="optional">pulseaudio-module-lirc</packagereq>
-      <packagereq type="optional">pulseaudio-module-zeroconf</packagereq>
+      <packagereq type="optional">pipewire</packagereq>
+      <packagereq type="optional">pipewire-jack-audio-connection-kit</packagereq>
+      <packagereq type="optional">pipewire-pulseaudio</packagereq>
       <packagereq type="optional">qmmp</packagereq>
       <packagereq type="optional">qmmp-plugin-pack</packagereq>
       <packagereq type="optional">quodlibet</packagereq>
@@ -5038,7 +5038,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>gnome-power-manager</packagereq>
       <packagereq>gstreamer1-plugins-base</packagereq>
@@ -5049,8 +5048,9 @@
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>metacity</packagereq>
-      <packagereq>pulseaudio</packagereq>
-      <packagereq>pulseaudio-utils</packagereq>
+      <packagereq>pipewire-alsa</packagereq>
+      <packagereq>pipewire-pulseaudio</packagereq>
+      <packagereq>pipewire-utils</packagereq>
       <packagereq>sugar</packagereq>
       <packagereq>sugar-logos</packagereq>
       <packagereq>sugar-cp-updater</packagereq>
