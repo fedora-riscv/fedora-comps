@@ -389,7 +389,7 @@
       <packagereq variant="BaseOS" type="optional">isns-utils</packagereq>
     </packagelist>
   </group>
-  <group arch="aarch64,x86_64,ppc64le">
+  <group arch="aarch64,s390x,x86_64,ppc64le">
     <id>gnome-desktop</id>
     <_name>GNOME</_name>
     <_description>GNOME is a highly intuitive and user-friendly desktop environment.</_description>
@@ -1683,7 +1683,7 @@
       <packagereq type="optional">mod_security_crs</packagereq>
     </packagelist>
   </group>
-  <group arch="aarch64,x86_64,ppc64le">
+  <group arch="aarch64,s390x,x86_64,ppc64le">
     <id>workstation-product</id>
     <_name>Workstation product core</_name>
     <_description>Packages mandatory for the workstation product.</_description>
@@ -2151,7 +2151,7 @@
       <packagereq type="mandatory">java-1.8.0-openjdk</packagereq>
     </packagelist>
   </group>
-  <group arch="aarch64,x86_64,ppc64le" variant="AppStream">
+  <group variant="AppStream">
     <id>internet-applications</id>
     <_name>Internet Applications</_name>
     <_description>Email, chat, and video conferencing software.</_description>
