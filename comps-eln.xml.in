@@ -2358,8 +2358,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional" arch="x86_64">dotnet-sdk-2.1</packagereq>
-      <packagereq type="optional" arch="x86_64">dotnet-sdk-3.0</packagereq>
       <packagereq type="optional" arch="x86_64">dotnet-sdk-3.1</packagereq>
     </packagelist>
   </group>
