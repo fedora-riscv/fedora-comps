@@ -294,7 +294,7 @@
       <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">powerpc-utils-core</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">lsvpd</packagereq>
-      <packagereq type="default" variant="AppStream" arch="s390x">s390utils-core</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="s390x">s390utils-core</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils-libs</packagereq>
       <packagereq type="optional" variant="BaseOS">dracut-config-generic</packagereq>
