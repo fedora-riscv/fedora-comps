@@ -474,7 +474,6 @@
       <packagereq variant="AppStream">sane-backends-drivers-scanners</packagereq>
       <packagereq variant="AppStream">sushi</packagereq>
       <packagereq arch="ppc64le,x86_64" variant="AppStream">totem</packagereq>
-      <packagereq arch="ppc64le,x86_64" variant="AppStream">totem-nautilus</packagereq>
       <packagereq variant="AppStream">tracker</packagereq>
       <packagereq variant="AppStream">tracker-miners</packagereq>
       <packagereq variant="AppStream">xdg-desktop-portal</packagereq>
