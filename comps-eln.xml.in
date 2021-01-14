@@ -468,7 +468,6 @@
       <packagereq variant="AppStream">libsane-hpaio</packagereq>
       <packagereq variant="AppStream">mesa-dri-drivers</packagereq>
       <packagereq variant="AppStream">nautilus</packagereq>
-      <packagereq variant="AppStream">nautilus-sendto</packagereq>
       <packagereq variant="AppStream">orca</packagereq>
       <packagereq variant="AppStream">PackageKit-command-not-found</packagereq>
       <packagereq variant="AppStream">PackageKit-gtk3-module</packagereq>
