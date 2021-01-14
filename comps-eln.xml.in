@@ -2287,7 +2287,7 @@
       <packagereq type="mandatory" variant="AppStream" basearchonly="true">gcc</packagereq>
       <packagereq type="mandatory" variant="AppStream" basearchonly="true">gcc-c++</packagereq>
       <packagereq type="mandatory" variant="AppStream" basearchonly="true">gdb</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">glibc-devel</packagereq>
+      <packagereq type="mandatory" variant="AppStream">glibc-devel</packagereq>
       <packagereq type="mandatory" variant="AppStream">libtool</packagereq>
       <packagereq type="mandatory" variant="BaseOS">make</packagereq>
       <packagereq type="mandatory" variant="BaseOS">pkgconf</packagereq>
