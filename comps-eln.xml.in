@@ -1806,7 +1806,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">libguestfs</packagereq>
-      <packagereq type="optional">libguestfs-java</packagereq>
       <packagereq type="optional">libguestfs-tools</packagereq>
       <packagereq type="optional">libguestfs-tools-c</packagereq>
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
