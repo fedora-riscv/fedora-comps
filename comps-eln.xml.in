@@ -1151,7 +1151,7 @@
       <packagereq type="default" variant="BaseOS">sssd</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
       <packagereq type="default" variant="BaseOS">subscription-manager-cockpit</packagereq>
-      <packagereq type="default" variant="BaseOS">dnf-plugin-subscription-manager</packagereq>
+      <packagereq type="default" variant="BaseOS">libdnf-plugin-subscription-manager</packagereq>
       <packagereq type="default" variant="BaseOS">teamd</packagereq>
       <packagereq type="default" variant="BaseOS">time</packagereq>
       <packagereq type="default" variant="BaseOS">unzip</packagereq>
@@ -1256,7 +1256,7 @@
       <packagereq type="default" variant="BaseOS">sssd</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
       <packagereq type="default" variant="BaseOS">subscription-manager-cockpit</packagereq>
-      <packagereq type="default" variant="BaseOS">dnf-plugin-subscription-manager</packagereq>
+      <packagereq type="default" variant="BaseOS">libdnf-plugin-subscription-manager</packagereq>
       <packagereq type="default" variant="BaseOS">teamd</packagereq>
       <packagereq type="default" variant="BaseOS">time</packagereq>
       <packagereq type="default" variant="BaseOS">unzip</packagereq>
