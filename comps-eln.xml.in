@@ -1301,7 +1301,6 @@
       <packagereq type="default" variant="AppStream">samba-client</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="BaseOS">setserial</packagereq>
       <packagereq type="default" variant="BaseOS">tmux</packagereq>
-      <packagereq type="default" variant="BaseOS">xdelta</packagereq>
       <packagereq type="default" variant="BaseOS">zsh</packagereq>
       <packagereq type="optional" variant="BaseOS">arpwatch</packagereq>
       <packagereq type="optional" variant="BaseOS">autofs</packagereq>
