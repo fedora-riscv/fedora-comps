@@ -1739,7 +1739,7 @@
       <packagereq variant="BaseOS">which</packagereq>
       <packagereq variant="BaseOS">words</packagereq>
       <packagereq variant="BaseOS">zip</packagereq>
-      <packagereq variant="AppStream">adwaita-qt</packagereq>
+      <packagereq variant="AppStream">adwaita-qt5</packagereq>
       <packagereq variant="AppStream">bind-utils</packagereq>
       <packagereq variant="AppStream">evolution</packagereq>
       <packagereq variant="AppStream">evolution-ews</packagereq>
