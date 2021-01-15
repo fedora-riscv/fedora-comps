@@ -1038,7 +1038,6 @@
       <packagereq type="optional" variant="BaseOS">opencryptoki</packagereq>
       <packagereq type="optional" variant="BaseOS">opencryptoki-icsftok</packagereq>
       <packagereq type="optional" variant="BaseOS">opencryptoki-swtok</packagereq>
-      <packagereq type="optional" variant="BaseOS">opencryptoki-tpmtok</packagereq>
       <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-ccatok</packagereq>
       <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-ep11tok</packagereq>
       <packagereq type="optional" arch="s390x" variant="BaseOS">opencryptoki-icatok</packagereq>
