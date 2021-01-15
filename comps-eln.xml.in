@@ -974,7 +974,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq variant="BaseOS">freetype-devel</packagereq>
+      <packagereq variant="AppStream">freetype-devel</packagereq>
       <packagereq variant="BaseOS">libcurl</packagereq>
       <packagereq variant="BaseOS">libcurl-devel</packagereq>
       <packagereq variant="BaseOS">python3-magic</packagereq>
