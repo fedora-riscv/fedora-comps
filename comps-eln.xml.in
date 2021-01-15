@@ -1015,7 +1015,6 @@
       <packagereq type="optional" variant="BaseOS">hmaccalc</packagereq>
       <packagereq type="optional" variant="BaseOS">tpm-tools</packagereq>
       <packagereq type="optional" arch="x86_64" variant="BaseOS">tpm2-tools</packagereq>
-      <packagereq type="optional" variant="BaseOS">tpm-quote-tools</packagereq>
       <packagereq type="optional" arch="ppc64le" variant="BaseOS">tss2</packagereq>
       <packagereq type="optional" variant="BaseOS">trousers</packagereq>
       <packagereq type="default" variant="AppStream">scap-security-guide</packagereq>
