@@ -259,7 +259,6 @@
       <packagereq type="mandatory" variant="BaseOS">vim-minimal</packagereq>
       <packagereq type="mandatory" variant="BaseOS">xfsprogs</packagereq>
       <packagereq type="default" variant="BaseOS">authselect</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">biosdevname</packagereq>
       <packagereq type="default" variant="BaseOS">prefixdevname</packagereq>
       <packagereq type="default" variant="BaseOS">dnf-plugins-core</packagereq>
       <packagereq type="default" variant="BaseOS">dracut-config-rescue</packagereq>
