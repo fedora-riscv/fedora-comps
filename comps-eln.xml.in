@@ -255,7 +255,6 @@
       <packagereq type="mandatory" variant="BaseOS">sssd-kcm</packagereq>
       <packagereq type="mandatory" variant="BaseOS">sudo</packagereq>
       <packagereq type="mandatory" variant="BaseOS">systemd</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">tuned</packagereq>
       <packagereq type="mandatory" variant="BaseOS">util-linux</packagereq>
       <packagereq type="mandatory" variant="BaseOS">vim-minimal</packagereq>
       <packagereq type="mandatory" variant="BaseOS">xfsprogs</packagereq>
