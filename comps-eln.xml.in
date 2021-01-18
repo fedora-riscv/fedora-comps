@@ -212,7 +212,7 @@
   <group>
     <id>core</id>
     <_name>Core</_name>
-    <_description>Smallest possible installation</_description>
+    <_description>Minimal host installation</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
