@@ -898,7 +898,6 @@
       <packagereq variant="AppStream">zlib-devel</packagereq>
       <packagereq variant="AppStream">atk-devel</packagereq>
       <packagereq variant="AppStream">cairo-devel</packagereq>
-      <packagereq variant="AppStream">compat-libtiff3</packagereq>
       <packagereq variant="AppStream">dbus-devel</packagereq>
       <packagereq variant="AppStream">desktop-file-utils</packagereq>
       <packagereq variant="AppStream">gtk2-devel</packagereq>
