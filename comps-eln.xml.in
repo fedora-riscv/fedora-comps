@@ -2677,9 +2677,7 @@
       <packagereq type="optional" variant="AppStream">sil-scheherazade-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">smc-anjalioldlipi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">smc-dyuthi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-kalyani-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">smc-rachana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-raghumalayalam-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">smc-suruma-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">stix-math-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-garuda-fonts</packagereq>
