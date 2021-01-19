@@ -2580,7 +2580,6 @@
       <packagereq type="optional" variant="AppStream">bpg-serif-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">bpg-serif-modern-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-droid-kufi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-serif-fonts</packagereq>
