@@ -286,7 +286,7 @@
       <packagereq type="default" variant="BaseOS">kernel-tools</packagereq>
       <packagereq type="default" variant="BaseOS" arch="x86_64">microcode_ctl</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">opal-prd</packagereq>
-      <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="ppc64le">ppc64-diag-rtas</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">powerpc-utils-core</packagereq>
       <packagereq type="default" variant="BaseOS" arch="ppc64le">lsvpd</packagereq>
       <packagereq type="default" variant="BaseOS" arch="s390x">s390utils-core</packagereq>
@@ -1129,6 +1129,7 @@
       <packagereq type="default" variant="BaseOS">mtr</packagereq>
       <packagereq type="default" variant="BaseOS">nano</packagereq>
       <packagereq type="default" variant="AppStream">pinfo</packagereq>
+      <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">powerpc-utils</packagereq>
       <packagereq type="default" variant="AppStream">plymouth</packagereq>
       <packagereq type="default" variant="BaseOS">realmd</packagereq>
@@ -1235,6 +1236,7 @@
       <packagereq type="default" variant="BaseOS">mtr</packagereq>
       <packagereq type="default" variant="BaseOS">nano</packagereq>
       <packagereq type="default" variant="AppStream">pinfo</packagereq>
+      <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">powerpc-utils</packagereq>
       <packagereq type="default" variant="AppStream">plymouth</packagereq>
       <packagereq type="default" variant="BaseOS">realmd</packagereq>
