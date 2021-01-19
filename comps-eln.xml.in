@@ -2665,7 +2665,6 @@
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-nepali-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">madan-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">navilu-fonts</packagereq>
