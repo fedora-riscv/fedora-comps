@@ -450,8 +450,6 @@
       <packagereq variant="AppStream">gnome-terminal</packagereq>
       <packagereq variant="AppStream">gnome-terminal-nautilus</packagereq>
       <packagereq variant="AppStream">gnome-user-docs</packagereq>
-      <packagereq variant="AppStream">gvfs-afp</packagereq>
-      <packagereq variant="AppStream">gvfs-archive</packagereq>
       <packagereq variant="AppStream">gvfs-fuse</packagereq>
       <packagereq variant="AppStream">gvfs-goa</packagereq>
       <packagereq variant="AppStream">gvfs-gphoto2</packagereq>
