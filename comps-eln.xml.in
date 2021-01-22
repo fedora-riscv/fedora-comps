@@ -3009,9 +3009,9 @@
       <packagereq type="default">doxygen-latex</packagereq>
       <packagereq type="default">dtc</packagereq>
       <packagereq type="default">dwarves</packagereq>
-      <packagereq type="default">dyninst-devel</packagereq>
-      <packagereq type="default">dyninst-doc</packagereq>
-      <packagereq type="default">dyninst-testsuite</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">dyninst-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">dyninst-doc</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">dyninst-testsuite</packagereq>
       <packagereq type="default">easymock</packagereq>
       <packagereq type="default">eglexternalplatform-devel</packagereq>
       <packagereq type="default">eigen3-devel</packagereq>
@@ -3143,7 +3143,7 @@
       <packagereq type="default">junit</packagereq>
       <packagereq type="default">jvnet-parent</packagereq>
       <packagereq type="default">jzlib</packagereq>
-      <packagereq type="default">kernel-tools-libs-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">kernel-tools-libs-devel</packagereq>
       <packagereq type="default">keybinder3-devel</packagereq>
       <packagereq type="default">keybinder3-doc</packagereq>
       <packagereq type="default">kmod-devel</packagereq>
@@ -3212,7 +3212,7 @@
       <packagereq type="default">libgusb-devel</packagereq>
       <packagereq type="default">libgxps-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
-      <packagereq type="default">libiec61883-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">libiec61883-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
       <packagereq type="default">libinput-devel</packagereq>
       <packagereq type="default">libisoburn-devel</packagereq>
@@ -3274,7 +3274,7 @@
       <packagereq type="default">librados-devel</packagereq>
       <packagereq type="default">libradosstriper1</packagereq>
       <packagereq type="default">libradosstriper-devel</packagereq>
-      <packagereq type="default">libraw1394-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">libraw1394-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">LibRaw-devel</packagereq>
       <packagereq type="default">librbd-devel</packagereq>
       <packagereq type="default">librdkafka-devel</packagereq>
@@ -3556,7 +3556,7 @@
       <packagereq type="default">pandoc</packagereq>
       <packagereq type="default">pangomm-devel</packagereq>
       <packagereq type="default">pangomm-doc</packagereq>
-      <packagereq type="default">papi-testsuite</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">papi-testsuite</packagereq>
       <packagereq type="default">parted-devel</packagereq>
       <packagereq type="default">pcre-static</packagereq>
       <packagereq type="default">pcsc-lite-devel</packagereq>
