@@ -3394,93 +3394,93 @@
       <packagereq type="default">metis</packagereq>
       <packagereq type="default">metis-devel</packagereq>
       <packagereq type="default">mingw32-binutils</packagereq>
-      <packagereq type="default">mingw32-bzip2</packagereq>
-      <packagereq type="default">mingw32-bzip2-static</packagereq>
-      <packagereq type="default">mingw32-cairo</packagereq>
-      <packagereq type="default">mingw32-cpp</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-bzip2</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-bzip2-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-cairo</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-cpp</packagereq>
       <packagereq type="default">mingw32-crt</packagereq>
-      <packagereq type="default">mingw32-expat</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-expat</packagereq>
       <packagereq type="default">mingw32-filesystem</packagereq>
-      <packagereq type="default">mingw32-fontconfig</packagereq>
-      <packagereq type="default">mingw32-freetype</packagereq>
-      <packagereq type="default">mingw32-freetype-static</packagereq>
-      <packagereq type="default">mingw32-gcc</packagereq>
-      <packagereq type="default">mingw32-gcc-c++</packagereq>
-      <packagereq type="default">mingw32-gettext</packagereq>
-      <packagereq type="default">mingw32-gettext-static</packagereq>
-      <packagereq type="default">mingw32-glib2</packagereq>
-      <packagereq type="default">mingw32-glib2-static</packagereq>
-      <packagereq type="default">mingw32-gstreamer1</packagereq>
-      <packagereq type="default">mingw32-harfbuzz</packagereq>
-      <packagereq type="default">mingw32-harfbuzz-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-fontconfig</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-freetype</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-freetype-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-gcc</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-gcc-c++</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-gettext</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-gettext-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-glib2</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-glib2-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-gstreamer1</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-harfbuzz</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-harfbuzz-static</packagereq>
       <packagereq type="default">mingw32-headers</packagereq>
-      <packagereq type="default">mingw32-icu</packagereq>
-      <packagereq type="default">mingw32-libffi</packagereq>
-      <packagereq type="default">mingw32-libjpeg-turbo</packagereq>
-      <packagereq type="default">mingw32-libjpeg-turbo-static</packagereq>
-      <packagereq type="default">mingw32-libpng</packagereq>
-      <packagereq type="default">mingw32-libpng-static</packagereq>
-      <packagereq type="default">mingw32-libtiff</packagereq>
-      <packagereq type="default">mingw32-libtiff-static</packagereq>
-      <packagereq type="default">mingw32-openssl</packagereq>
-      <packagereq type="default">mingw32-pcre</packagereq>
-      <packagereq type="default">mingw32-pcre-static</packagereq>
-      <packagereq type="default">mingw32-pixman</packagereq>
-      <packagereq type="default">mingw32-pkg-config</packagereq>
-      <packagereq type="default">mingw32-readline</packagereq>
-      <packagereq type="default">mingw32-sqlite</packagereq>
-      <packagereq type="default">mingw32-sqlite-static</packagereq>
-      <packagereq type="default">mingw32-termcap</packagereq>
-      <packagereq type="default">mingw32-win-iconv</packagereq>
-      <packagereq type="default">mingw32-win-iconv-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-icu</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libffi</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libjpeg-turbo</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libjpeg-turbo-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libpng</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libpng-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libtiff</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-libtiff-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-openssl</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-pcre</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-pcre-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-pixman</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-pkg-config</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-readline</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-sqlite</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-sqlite-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-termcap</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-win-iconv</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-win-iconv-static</packagereq>
       <packagereq type="default">mingw32-winpthreads</packagereq>
       <packagereq type="default">mingw32-winpthreads-static</packagereq>
-      <packagereq type="default">mingw32-zlib</packagereq>
-      <packagereq type="default">mingw32-zlib-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-zlib</packagereq>
+      <packagereq type="default" arch="x86_64">mingw32-zlib-static</packagereq>
       <packagereq type="default">mingw64-binutils</packagereq>
-      <packagereq type="default">mingw64-bzip2</packagereq>
-      <packagereq type="default">mingw64-bzip2-static</packagereq>
-      <packagereq type="default">mingw64-cairo</packagereq>
-      <packagereq type="default">mingw64-cpp</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-bzip2</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-bzip2-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-cairo</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-cpp</packagereq>
       <packagereq type="default">mingw64-crt</packagereq>
-      <packagereq type="default">mingw64-expat</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-expat</packagereq>
       <packagereq type="default">mingw64-filesystem</packagereq>
-      <packagereq type="default">mingw64-fontconfig</packagereq>
-      <packagereq type="default">mingw64-freetype</packagereq>
-      <packagereq type="default">mingw64-freetype-static</packagereq>
-      <packagereq type="default">mingw64-gcc</packagereq>
-      <packagereq type="default">mingw64-gcc-c++</packagereq>
-      <packagereq type="default">mingw64-gettext</packagereq>
-      <packagereq type="default">mingw64-gettext-static</packagereq>
-      <packagereq type="default">mingw64-glib2</packagereq>
-      <packagereq type="default">mingw64-glib2-static</packagereq>
-      <packagereq type="default">mingw64-gstreamer1</packagereq>
-      <packagereq type="default">mingw64-harfbuzz</packagereq>
-      <packagereq type="default">mingw64-harfbuzz-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-fontconfig</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-freetype</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-freetype-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-gcc</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-gcc-c++</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-gettext</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-gettext-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-glib2</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-glib2-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-gstreamer1</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-harfbuzz</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-harfbuzz-static</packagereq>
       <packagereq type="default">mingw64-headers</packagereq>
-      <packagereq type="default">mingw64-icu</packagereq>
-      <packagereq type="default">mingw64-libffi</packagereq>
-      <packagereq type="default">mingw64-libjpeg-turbo</packagereq>
-      <packagereq type="default">mingw64-libjpeg-turbo-static</packagereq>
-      <packagereq type="default">mingw64-libpng</packagereq>
-      <packagereq type="default">mingw64-libpng-static</packagereq>
-      <packagereq type="default">mingw64-libtiff</packagereq>
-      <packagereq type="default">mingw64-libtiff-static</packagereq>
-      <packagereq type="default">mingw64-openssl</packagereq>
-      <packagereq type="default">mingw64-pcre</packagereq>
-      <packagereq type="default">mingw64-pcre-static</packagereq>
-      <packagereq type="default">mingw64-pixman</packagereq>
-      <packagereq type="default">mingw64-pkg-config</packagereq>
-      <packagereq type="default">mingw64-readline</packagereq>
-      <packagereq type="default">mingw64-sqlite</packagereq>
-      <packagereq type="default">mingw64-sqlite-static</packagereq>
-      <packagereq type="default">mingw64-termcap</packagereq>
-      <packagereq type="default">mingw64-win-iconv</packagereq>
-      <packagereq type="default">mingw64-win-iconv-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-icu</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libffi</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libjpeg-turbo</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libjpeg-turbo-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libpng</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libpng-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libtiff</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-libtiff-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-openssl</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-pcre</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-pcre-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-pixman</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-pkg-config</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-readline</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-sqlite</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-sqlite-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-termcap</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-win-iconv</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-win-iconv-static</packagereq>
       <packagereq type="default">mingw64-winpthreads</packagereq>
       <packagereq type="default">mingw64-winpthreads-static</packagereq>
-      <packagereq type="default">mingw64-zlib</packagereq>
-      <packagereq type="default">mingw64-zlib-static</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-zlib</packagereq>
+      <packagereq type="default" arch="x86_64">mingw64-zlib-static</packagereq>
       <packagereq type="default">mingw-binutils-generic</packagereq>
       <packagereq type="default">mingw-filesystem-base</packagereq>
       <packagereq type="default">mockito</packagereq>
