@@ -2169,7 +2169,6 @@
       <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
-      <packagereq type="optional">ibus-sayura</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
     </packagelist>
