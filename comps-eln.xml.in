@@ -2692,7 +2692,6 @@
       <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypist-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypo-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-umpush-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">wqy-microhei-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-75dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-misc</packagereq>
