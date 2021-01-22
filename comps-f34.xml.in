@@ -5507,7 +5507,6 @@
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
-      <packagereq type="default">ibus-qt</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">iptstate</packagereq>
       <packagereq type="default">jwhois</packagereq>
@@ -5540,9 +5539,6 @@
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
       <packagereq type="default">qgnomeplatform</packagereq>
-      <packagereq type="default">qt</packagereq>
-      <packagereq type="default">qt-settings</packagereq>
-      <packagereq type="default">qt-x11</packagereq>
       <packagereq type="default">qt5-qtbase</packagereq>
       <packagereq type="default">qt5-qtbase-gui</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
