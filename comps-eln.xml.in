@@ -2630,7 +2630,6 @@
       <packagereq type="optional" variant="AppStream">google-noto-sans-thai-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-thai-ui-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-ugaritic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-ui-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-vai-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-serif-armenian-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-serif-fonts</packagereq>
