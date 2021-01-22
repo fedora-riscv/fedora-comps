@@ -79,13 +79,13 @@
       <packagereq variant="AppStream">cups-devel</packagereq>
       <packagereq variant="AppStream">compat-libgfortran-48</packagereq>
       <packagereq variant="AppStream">dbus-glib-devel</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">evolution-data-server-devel</packagereq>
+      <packagereq variant="AppStream">evolution-data-server-devel</packagereq>
       <packagereq type="optional" variant="AppStream">flatpak</packagereq>
       <packagereq type="optional" variant="AppStream">flatpak-builder</packagereq>
       <packagereq type="optional" variant="AppStream">flatpak-session-helper</packagereq>
       <packagereq type="optional" variant="AppStream">flatpak-selinux</packagereq>
       <packagereq variant="AppStream">gd-devel</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">gnome-desktop3-devel</packagereq>
+      <packagereq variant="AppStream">gnome-desktop3-devel</packagereq>
       <packagereq variant="AppStream">gnutls-devel</packagereq>
       <packagereq variant="AppStream">gpm-devel</packagereq>
       <packagereq variant="AppStream">gstreamer1-devel</packagereq>
@@ -126,7 +126,7 @@
       <packagereq variant="AppStream">net-snmp-devel</packagereq>
       <packagereq variant="AppStream">newt-devel</packagereq>
       <packagereq variant="AppStream">openscap-devel</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">pulseaudio-libs-devel</packagereq>
+      <packagereq variant="AppStream">pulseaudio-libs-devel</packagereq>
       <packagereq variant="AppStream">protobuf-c</packagereq>
       <packagereq variant="AppStream">sane-backends-devel</packagereq>
       <packagereq variant="AppStream">scl-utils</packagereq>
@@ -346,12 +346,12 @@
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">crash-gcore-command</packagereq>
       <packagereq type="default" arch="x86_64" variant="AppStream">crash-ptdump-command</packagereq>
       <packagereq type="default" variant="AppStream">crash-trace-command</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="BaseOS">libreport-gtk</packagereq>
+      <packagereq type="default" variant="BaseOS">libreport-gtk</packagereq>
       <packagereq type="optional" variant="BaseOS">tuna</packagereq>
       <packagereq type="optional" variant="AppStream">xrestop</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">abrt-desktop</packagereq>
-      <packagereq type="optional" arch="aarch64,ppc64le,x86_64" variant="AppStream">abrt-gui</packagereq>
-      <packagereq type="optional" arch="aarch64,ppc64le,x86_64" variant="AppStream">pcp-gui</packagereq>
+      <packagereq type="default" variant="AppStream">abrt-desktop</packagereq>
+      <packagereq type="optional" variant="AppStream">abrt-gui</packagereq>
+      <packagereq type="optional" variant="AppStream">pcp-gui</packagereq>
     </packagelist>
   </group>
   <group variant="BaseOS">
@@ -786,7 +786,7 @@
       <packagereq type="default" variant="AppStream">pcp-export-pcp2xml</packagereq>
       <packagereq type="default" variant="AppStream">pcp-export-pcp2zabbix</packagereq>
       <packagereq type="default" variant="AppStream">pcp-export-zabbix-agent</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">pcp-gui</packagereq>
+      <packagereq type="default" variant="AppStream">pcp-gui</packagereq>
       <packagereq type="default" variant="AppStream">pcp-import-collectl2pcp</packagereq>
       <packagereq type="default" variant="AppStream">pcp-import-ganglia2pcp</packagereq>
       <packagereq type="default" variant="AppStream">pcp-import-iostat2pcp</packagereq>
@@ -2919,7 +2919,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">accountsservice-devel</packagereq>
+      <packagereq type="default">accountsservice-devel</packagereq>
       <packagereq type="default">ant-junit</packagereq>
       <packagereq type="default">antlr-C++</packagereq>
       <packagereq type="default">antlr-tool</packagereq>
@@ -2967,20 +2967,20 @@
       <packagereq type="default">boost-python3</packagereq>
       <packagereq type="default">boost-python3-devel</packagereq>
       <packagereq type="default">boost-static</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">brasero-devel</packagereq>
+      <packagereq type="default">brasero-devel</packagereq>
       <packagereq type="default">brlapi-devel</packagereq>
       <packagereq type="default">brotli-devel</packagereq>
       <packagereq type="default">bsf</packagereq>
       <packagereq type="default">bsh</packagereq>
       <packagereq type="default">cairomm-devel</packagereq>
       <packagereq type="default">cairomm-doc</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">cdparanoia-devel</packagereq>
+      <packagereq type="default">cdparanoia-devel</packagereq>
       <packagereq type="default">cglib</packagereq>
       <packagereq type="default">clucene-core-devel</packagereq>
       <packagereq type="default">codemodel</packagereq>
       <packagereq type="default">colord-devel</packagereq>
       <packagereq type="default">colord-devel-docs</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">colord-gtk-devel</packagereq>
+      <packagereq type="default">colord-gtk-devel</packagereq>
       <packagereq type="default">corosync-vqsim</packagereq>
       <packagereq type="default">cracklib-devel</packagereq>
       <packagereq type="default">crash-devel</packagereq>
@@ -2991,7 +2991,7 @@
       <packagereq type="default">dblatex</packagereq>
       <packagereq type="default">dconf-devel</packagereq>
       <packagereq type="default">dejagnu</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">devhelp-devel</packagereq>
+      <packagereq type="default">devhelp-devel</packagereq>
       <packagereq type="default">device-mapper-devel</packagereq>
       <packagereq type="default">device-mapper-event-devel</packagereq>
       <packagereq type="default">device-mapper-multipath-devel</packagereq>
@@ -3012,15 +3012,15 @@
       <packagereq type="default">easymock</packagereq>
       <packagereq type="default">eglexternalplatform-devel</packagereq>
       <packagereq type="default">eigen3-devel</packagereq>
-      <packagereq type="default" arch="ppc64le,x86_64">enchant2-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">enchant-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">evolution-data-server-doc</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">evolution-data-server-perl</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">evolution-data-server-tests</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">evolution-devel</packagereq>
+      <packagereq type="default">enchant2-devel</packagereq>
+      <packagereq type="default">enchant-devel</packagereq>
+      <packagereq type="default">evolution-data-server-doc</packagereq>
+      <packagereq type="default">evolution-data-server-perl</packagereq>
+      <packagereq type="default">evolution-data-server-tests</packagereq>
+      <packagereq type="default">evolution-devel</packagereq>
       <packagereq type="default">execstack</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">exempi-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">exiv2-devel</packagereq>
+      <packagereq type="default">exempi-devel</packagereq>
+      <packagereq type="default">exiv2-devel</packagereq>
       <packagereq type="default">exiv2-doc</packagereq>
       <packagereq type="default">felix-utils</packagereq>
       <packagereq type="default">fftw-doc</packagereq>
@@ -3079,7 +3079,7 @@
       <packagereq type="default">gmock</packagereq>
       <packagereq type="default">gmock-devel</packagereq>
       <packagereq type="default" arch="aarch64,x86_64,ppc64le">gnome-bluetooth-libs-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gnome-common</packagereq>
+      <packagereq type="default">gnome-common</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi-devel</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
@@ -3093,10 +3093,10 @@
       <packagereq type="default">graphviz-doc</packagereq>
       <packagereq type="default">graphviz-gd</packagereq>
       <packagereq type="default">graphviz-python3</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">grilo-devel</packagereq>
+      <packagereq type="default">grilo-devel</packagereq>
       <packagereq type="default">gsm-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gspell-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gspell-doc</packagereq>
+      <packagereq type="default">gspell-devel</packagereq>
+      <packagereq type="default">gspell-doc</packagereq>
       <packagereq type="default">gstreamer1-plugins-bad-free-devel</packagereq>
       <packagereq type="default">gtest</packagereq>
       <packagereq type="default">gtest-devel</packagereq>
@@ -3107,8 +3107,8 @@
       <packagereq type="default">gtkmm30-devel</packagereq>
       <packagereq type="default">gtkmm30-doc</packagereq>
       <packagereq type="default">gtksourceview3-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gtkspell3-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">gtkspell-devel</packagereq>
+      <packagereq type="default">gtkspell3-devel</packagereq>
+      <packagereq type="default">gtkspell-devel</packagereq>
       <packagereq type="default">guile-devel</packagereq>
       <packagereq type="default">hamcrest</packagereq>
       <packagereq type="default">hamcrest-core</packagereq>
@@ -3490,9 +3490,9 @@
       <packagereq type="default">msv-msv</packagereq>
       <packagereq type="default">mtdev-devel</packagereq>
       <packagereq type="default">munge-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">mutter-devel</packagereq>
+      <packagereq type="default">mutter-devel</packagereq>
       <packagereq type="default">mythes-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">nautilus-devel</packagereq>
+      <packagereq type="default">nautilus-devel</packagereq>
       <packagereq type="default">ndctl-devel</packagereq>
       <packagereq type="default">neon-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>
@@ -3769,11 +3769,11 @@
       <packagereq type="default">qt5-qtquickcontrols2-devel</packagereq>
       <packagereq type="default">qt5-qttools-static</packagereq>
       <packagereq type="default">qt5-qtwayland-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">raptor2-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">rasqal-devel</packagereq>
+      <packagereq type="default">raptor2-devel</packagereq>
+      <packagereq type="default">rasqal-devel</packagereq>
       <packagereq type="default">re2c</packagereq>
       <packagereq type="default">recode-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">redland-devel</packagereq>
+      <packagereq type="default">redland-devel</packagereq>
       <packagereq type="default">rpcgen</packagereq>
       <packagereq type="default">rpcsvc-proto-devel</packagereq>
       <packagereq type="default">rrdtool-devel</packagereq>
@@ -3834,8 +3834,8 @@
       <packagereq type="default">turbojpeg-devel</packagereq>
       <packagereq type="default">uglify-js</packagereq>
       <packagereq type="default">uid_wrapper</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">upower-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">upower-devel-docs</packagereq>
+      <packagereq type="default">upower-devel</packagereq>
+      <packagereq type="default">upower-devel-docs</packagereq>
       <packagereq type="default">urw-base35-fonts-devel</packagereq>
       <packagereq type="default">usbredir-devel</packagereq>
       <packagereq type="default">userspace-rcu-devel</packagereq>
@@ -3885,7 +3885,7 @@
       <packagereq type="default">xorg-x11-xkb-utils-devel</packagereq>
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">yelp-devel</packagereq>
+      <packagereq type="default">yelp-devel</packagereq>
       <packagereq type="default">zlib-static</packagereq>
       <packagereq type="default">zziplib-devel</packagereq>
     </packagelist>
@@ -3948,7 +3948,7 @@
       <groupid>virtualization-hypervisor</groupid>
     </optionlist>
   </environment>
-  <environment arch="aarch64,ppc64le,x86_64">
+  <environment arch="aarch64,s390x,ppc64le,x86_64">
     <id>graphical-server-environment</id>
     <_name>Server with GUI</_name>
     <_description>An integrated, easy-to-manage server with a graphical interface.</_description>
@@ -4256,7 +4256,7 @@
       <groupid>scientific</groupid>
     </grouplist>
   </category>
-  <category arch="aarch64,ppc64le,x86_64">
+  <category arch="aarch64,s390x,ppc64le,x86_64">
     <id>desktops</id>
     <_name>Desktops</_name>
     <_description>Desktops and thin clients.</_description>
