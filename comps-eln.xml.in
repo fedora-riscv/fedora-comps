@@ -2659,7 +2659,6 @@
       <packagereq type="optional" variant="AppStream">khmeros-metal-chrieng-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmeros-muol-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmeros-siemreap-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kurdit-unikurd-web-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
