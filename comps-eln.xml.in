@@ -2995,9 +2995,6 @@
       <packagereq type="default">device-mapper-devel</packagereq>
       <packagereq type="default">device-mapper-event-devel</packagereq>
       <packagereq type="default">device-mapper-multipath-devel</packagereq>
-      <packagereq type="default">djvulibre</packagereq>
-      <packagereq type="default">djvulibre-devel</packagereq>
-      <packagereq type="default">djvulibre-libs</packagereq>
       <packagereq type="default">docbook2X</packagereq>
       <packagereq type="default">docbook5-schemas</packagereq>
       <packagereq type="default">docbook-style-dsssl</packagereq>
@@ -3731,7 +3728,6 @@
       <packagereq type="default">ptscotch-openmpi-devel</packagereq>
       <packagereq type="default">pygobject3-devel</packagereq>
       <packagereq type="default">python-cups-doc</packagereq>
-      <packagereq type="default">python-wcwidth</packagereq>  <!-- RCM-71368 -->
       <packagereq type="default">python2-iso8601</packagereq>
       <packagereq type="default">python2-scipy</packagereq>
       <packagereq type="default">python2-talloc</packagereq>
@@ -3827,7 +3823,6 @@
       <packagereq type="default">tinycdb</packagereq>
       <packagereq type="default">tinycdb-devel</packagereq>
       <packagereq type="default">tokyocabinet-devel</packagereq>
-      <packagereq type="default">tokyocabinet-doc</packagereq>
       <packagereq type="default">tog-pegasus-devel</packagereq>
       <packagereq type="default">torque</packagereq>
       <packagereq type="default">torque-devel</packagereq>
@@ -3890,7 +3885,6 @@
       <packagereq type="default">xorg-x11-xkb-utils-devel</packagereq>
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
-      <packagereq type="default">yaml-cpp-devel</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">yelp-devel</packagereq>
       <packagereq type="default">zlib-static</packagereq>
       <packagereq type="default">zziplib-devel</packagereq>
