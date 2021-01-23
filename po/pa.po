@@ -12,21 +12,22 @@
 # Jaswinder Singh <jsingh@redhat.com>, 2008, 2009
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # A S Alam <aalam@fedoraproject.org>, 2019. #zanata
+# A S Alam <amanpreet.alam@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2019-05-23 04:27+0000\n"
-"Last-Translator: A S Alam <aalam@fedoraproject.org>\n"
-"Language-Team: Panjabi (Punjabi) (http://www.transifex.com/projects/p/comps/"
-"language/pa/)\n"
+"PO-Revision-Date: 2021-01-24 17:38+0000\n"
+"Last-Translator: A S Alam <amanpreet.alam@gmail.com>\n"
+"Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.4.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -54,11 +55,11 @@ msgstr "ਐਨਾਕੌਂਡਾ ਟੂਲ"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM ਟੂਲ"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "ARM ਸਿਸਟਮ ਨਾਲ ਕੰਮ ਕਰਨ ਵਾਲੇ ਟੂਲ"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
@@ -167,9 +168,8 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
 msgid "Compiz"
-msgstr "ਮੇਟ ਡੈਸਕਟਾਪ"
+msgstr "ਕੰਪਿਜ਼"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
@@ -211,20 +211,14 @@ msgid ""
 msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ ਸਭ ਫੇਡੋਰਾ ਸਪਿੰਨਾਂ ਉੱਤੇ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਲਈ ਸਾਂਝਾ ਪਲੇਟਫਾਰਮ ਦਿੰਦਾ ਹੈ"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "ਨਾਜ਼ੁਕ ਮਾਰਗ (ਕੇਡੀਈ)"
+msgstr "ਨਾਜ਼ੁਕ ਮਾਰਗ (ਡੀਪਿਨ ਡੈਸਕਟਾਪ)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ KDE ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
+msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -259,16 +253,14 @@ msgid ""
 msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ LXDE ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "ਨਾਜ਼ੁਕ ਮਾਰਗ (LXDE)"
+msgstr "ਨਾਜ਼ੁਕ ਮਾਰਗ (LXQt)"
 
 #: ../comps-f32.xml.in.h:50 ../comps-f33.xml.in.h:48 ../comps-f34.xml.in.h:48
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ LXDE ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
+msgstr "ਪੈਕੇਜਾਂ ਦਾ ਸਮੂਹ, ਜੋ LXQt ਡੈਸਕਟਾਪ ਲਈ ਨਾਜ਼ੁਕ ਮਾਰਗ ਸਹੂਲਤ ਦਿੰਦਾ ਹੈ"
 
 #: ../comps-f32.xml.in.h:51 ../comps-f33.xml.in.h:49 ../comps-f34.xml.in.h:49
 msgid "Critical Path (Xfce)"
@@ -285,48 +277,36 @@ msgid "D Development Tools and Libraries"
 msgstr "ਡੀ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ"
 
 #: ../comps-f32.xml.in.h:54 ../comps-f33.xml.in.h:52 ../comps-f34.xml.in.h:52
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
 msgstr ""
-"ਇਹਨਾਂ ਟੂਲਾਂ ਵਿੱਚ ਕੋਰ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ, ਜਿਵੇ ਕਿ automake, gcc, ਪਰਲ, ਪਾਈਥਨ ਅਤੇ ਡੀਬੱਗਰ ਆਦਿ "
-"ਸ਼ਾਮਿਲ ਹਨ।"
+"ਇਹਨਾਂ ਟੂਲਾਂ ਵਿੱਚ ਕੋਰ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ, ਜਿਵੇ ਕਿ ldc ਅਤੇ geany-tag ਆਦਿ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
-msgstr ""
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਵਰਤਣ ਲਈ ਸ਼ਾਨਦਾਰ ਅਤੇ ਵਰਤਣ ਲਈ ਸੌਖਾ ਡੈਸਕਟਾਪ ਇੰਵਾਇਰਨਮੈਂਟ ਹੈ।"
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "ਇੰਟਰਨੈੱਟ ਐਪਲੀਕੇਸ਼ਨ"
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "ਡੈਸਕਟਾਪ ਉੱਤੇ ਰੈਂਡਰਿੰਗ ਲਈ ਫੋਂਟ ਪੈਕੇਜ।"
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਲਈ ਮੀਡੀਆ ਪੈਕੇਜ"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਕਲਾਇਟ"
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਆਫਿਸ"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "LXDE ਲਈ ਆਫਿਸ ਸੂਟ"
+msgstr "ਡੀਪਿੰਨ ਡੈਸਕਟਾਪ ਲਈ ਆਫਿਸ ਸਮੂਹ"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -352,11 +332,8 @@ msgid "Development Tools"
 msgstr "ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ"
 
 #: ../comps-f32.xml.in.h:66 ../comps-f33.xml.in.h:64 ../comps-f34.xml.in.h:64
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
-msgstr ""
-"ਇਹਨਾਂ ਟੂਲਾਂ ਵਿੱਚ ਕੋਰ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ, ਜਿਵੇ ਕਿ automake, gcc, ਪਰਲ, ਪਾਈਥਨ ਅਤੇ ਡੀਬੱਗਰ ਆਦਿ "
-"ਸ਼ਾਮਿਲ ਹਨ।"
+msgstr "ਇਹਨਾਂ ਟੂਲਾਂ ਵਿੱਚ ਆਮ ਡਿਵੈਲਪਮੈਂਟ ਟੂਲ ਸ਼ਾਮਲ ਹਨ, ਜਿਵੇਂ ਕਿ git ਅਤੇ CVS ਆਦਿ।"
 
 #: ../comps-f32.xml.in.h:67 ../comps-f33.xml.in.h:65 ../comps-f34.xml.in.h:65
 #: ../comps-epel7.xml.in.h:56
@@ -569,7 +546,6 @@ msgstr "ਗਰਾਫਿਕਲ ਇੰਟਰਨੈੱਟ"
 
 #: ../comps-f32.xml.in.h:111 ../comps-f33.xml.in.h:107
 #: ../comps-f34.xml.in.h:107
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
 msgstr "ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਗਰਾਫਿਕਲ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ।"
 
@@ -606,7 +582,7 @@ msgstr "ਏਜੰਟ, ਜੋ ਕਿ ਵੁਰਚੁਅਲ ਡੈਸਕਟਾਪ 
 #: ../comps-f32.xml.in.h:118 ../comps-f33.xml.in.h:114
 #: ../comps-f34.xml.in.h:114
 msgid "High Availability"
-msgstr ""
+msgstr "ਉੱਚ ਉਪਲੱਬਧਤਾ"
 
 #: ../comps-f32.xml.in.h:119 ../comps-f33.xml.in.h:115
 #: ../comps-f34.xml.in.h:115
