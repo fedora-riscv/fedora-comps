@@ -2529,9 +2529,6 @@
       <packagereq type="default" variant="BaseOS">dejavu-sans-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-serif-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">gnu-free-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">gnu-free-sans-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">gnu-free-serif-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-meetei-mayek-fonts</packagereq>
