@@ -2558,22 +2558,6 @@
       <packagereq type="default" variant="AppStream">smc-meera-fonts</packagereq>
       <packagereq type="default" variant="AppStream">stix-fonts</packagereq>
       <packagereq type="default" variant="AppStream">thai-scalable-waree-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-algeti-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-chveulebrivi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-courier-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-courier-s-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-elite-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-excelsior-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-glaho-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-ingiri-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-nino-medium-cond-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-nino-medium-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-sans-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-sans-medium-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-sans-modern-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-sans-regular-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-serif-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">bpg-serif-modern-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
