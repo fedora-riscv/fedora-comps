@@ -4520,6 +4520,7 @@
       <packagereq>rubygem-mini_magick</packagereq>
       <packagereq>rubygem-puma</packagereq>
       <packagereq>rubygem-rails</packagereq>
+      <packagereq>rubygem-sassc-rails</packagereq>
       <packagereq>rubygem-selenium-webdriver</packagereq>
       <packagereq>rubygem-spring</packagereq>
       <packagereq>rubygem-spring-watcher-listen</packagereq>
