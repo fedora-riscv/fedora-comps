@@ -3626,7 +3626,6 @@
       <packagereq type="default">perl-PerlIO-utf8_strict</packagereq>
       <packagereq type="default">perl-Pod-Coverage</packagereq>
       <packagereq type="default">perl-Pod-Markdown</packagereq>
-      <packagereq type="default">perl-prefork</packagereq>
       <packagereq type="default">perl-Readonly</packagereq>
       <packagereq type="default">perl-Ref-Util</packagereq>
       <packagereq type="default">perl-Ref-Util-XS</packagereq>
