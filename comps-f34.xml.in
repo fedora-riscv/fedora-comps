@@ -62,6 +62,7 @@
       <packagereq type="mandatory">dracut-network</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq arch="aarch64,armhfp,x86_64" type="mandatory">efibootmgr</packagereq>
+      <packagereq type="mandatory">exfatprogs</packagereq>
       <packagereq arch="aarch64,armhfp" type="mandatory">extlinux-bootloader</packagereq>
       <packagereq type="mandatory">fcoe-utils</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
@@ -5007,6 +5008,7 @@
       <packagereq>dosfstools</packagereq>
       <packagereq>ed</packagereq>
       <packagereq>ethtool</packagereq>
+      <packagereq>exfatprogs</packagereq>
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
       <packagereq>fprintd-pam</packagereq>
@@ -5547,6 +5549,7 @@
       <packagereq type="default">dosfstools</packagereq>
       <packagereq type="default">earlyoom</packagereq>
       <packagereq type="default">ethtool</packagereq>
+      <packagereq type="default">exfatprogs</packagereq>
       <packagereq type="default">fedora-chromium-config</packagereq>
       <packagereq type="default">fedora-release-workstation</packagereq>
       <packagereq type="default">fedora-workstation-backgrounds</packagereq>
