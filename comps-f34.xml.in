@@ -3066,7 +3066,6 @@
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dnfdragora</packagereq>
       <packagereq>dolphin</packagereq>
-      <packagereq>elisa-player</packagereq>
       <packagereq>earlyoom</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
@@ -3185,6 +3184,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>dragon</packagereq>
+      <packagereq>elisa-player</packagereq>
       <packagereq>juk</packagereq>
       <packagereq>k3b</packagereq>
       <packagereq>kamoso</packagereq>
