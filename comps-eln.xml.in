@@ -701,7 +701,6 @@
       <packagereq variant="BaseOS">nfs-utils</packagereq>
       <packagereq variant="BaseOS">nfs4-acl-tools</packagereq>
       <packagereq variant="AppStream">samba-client</packagereq>
-      <packagereq variant="AppStream">cgdcbxd</packagereq>
       <packagereq variant="AppStream">targetcli</packagereq>
       <packagereq variant="BaseOS" type="optional">cachefilesd</packagereq>
     </packagelist>
