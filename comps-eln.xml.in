@@ -2871,7 +2871,6 @@
       <packagereq type="optional">vhostmd</packagereq>
       <packagereq type="optional">vm-dump-metrics</packagereq>
       <packagereq type="optional">compat-locales-sap</packagereq>
-      <packagereq type="optional" arch="ppc64le,x86_64">compat-sap-c++-9</packagereq>
     </packagelist>
   </group>
   <group arch="ppc64le,s390x,x86_64">
@@ -2886,7 +2885,6 @@
       <packagereq type="default">tuned-profiles-sap-hana</packagereq>
       <packagereq type="optional">vhostmd</packagereq>
       <packagereq type="optional">vm-dump-metrics</packagereq>
-      <packagereq type="optional" arch="ppc64le,x86_64">compat-sap-c++-9</packagereq>
     </packagelist>
   </group>
 
