@@ -610,6 +610,7 @@
       <packagereq type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">powerpc-utils</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">zram-generator-defaults</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
@@ -3114,7 +3115,6 @@
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dnfdragora</packagereq>
       <packagereq>dolphin</packagereq>
-      <packagereq>earlyoom</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
@@ -5538,7 +5538,6 @@
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
-      <packagereq type="default">earlyoom</packagereq>
       <packagereq type="default">ethtool</packagereq>
       <packagereq type="default">exfatprogs</packagereq>
       <packagereq type="default">fedora-chromium-config</packagereq>
