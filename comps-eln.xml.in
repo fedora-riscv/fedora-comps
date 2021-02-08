@@ -1737,10 +1737,10 @@
       <packagereq variant="AppStream">git</packagereq>
       <packagereq variant="AppStream">google-noto-emoji-fonts</packagereq>
       <packagereq variant="AppStream">hunspell</packagereq>
+      <packagereq variant="AppStream">ibus-anthy</packagereq>
       <packagereq variant="AppStream">ibus-gtk2</packagereq>
       <packagereq variant="AppStream">ibus-gtk3</packagereq>
       <packagereq variant="AppStream">ibus-hangul</packagereq>
-      <packagereq variant="AppStream">ibus-kkc</packagereq>
       <packagereq variant="AppStream">ibus-libpinyin</packagereq>
       <packagereq variant="AppStream">ibus-libzhuyin</packagereq>
       <packagereq variant="AppStream">ibus-m17n</packagereq>
@@ -2159,12 +2159,13 @@
       <packagereq type="conditional" requires="gtk3">gtk3-immodule-xim</packagereq>
       <packagereq type="conditional" requires="gtk2">ibus-gtk2</packagereq>
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
+      <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
-      <packagereq type="default">ibus-kkc</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
+      <packagereq type="optional">ibus-kkc</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
     </packagelist>
