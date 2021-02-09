@@ -2894,7 +2894,7 @@
       <packagereq type="mandatory">dunst</packagereq>
       <packagereq type="mandatory">lightdm</packagereq>
       <packagereq type="mandatory">lightdm-gtk</packagereq>
-      <packagereq type="mandatory">lightdm-gtk-greeter-settings </packagereq>
+      <packagereq type="mandatory">lightdm-gtk-greeter-settings</packagereq>
       <packagereq type="mandatory">nmcli</packagereq>
       <packagereq type="mandatory">network-manager-applet</packagereq>
       <packagereq type="mandatory">pactl</packagereq>
