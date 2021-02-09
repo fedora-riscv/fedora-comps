@@ -29,5 +29,5 @@ sort:
 	./update-comps $@
 
 # Add an easy alias to generate a rawhide comps file
-comps-rawhide.xml comps-rawhide: comps-f34.xml
-	@mv comps-f34.xml comps-rawhide.xml
+comps-rawhide.xml comps-rawhide: comps-f35.xml
+	@mv comps-f35.xml comps-rawhide.xml
