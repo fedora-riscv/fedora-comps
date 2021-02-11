@@ -11,13 +11,14 @@
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Jan Kuparinen <copper_fin@hotmail.com>, 2021.
+# Ricky Tigg <ricky.tigg@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-01-26 16:38+0000\n"
-"Last-Translator: Jan Kuparinen <copper_fin@hotmail.com>\n"
+"PO-Revision-Date: 2021-02-12 14:40+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/fi/>\n"
 "Language: fi\n"
@@ -1465,7 +1466,7 @@ msgstr "Fedora työpöydän ostree tuki"
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Workstation ostree-version välttämättömät paketit."
+msgstr "Workstation ostree -tuotteelle välttämättömät paketit."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
