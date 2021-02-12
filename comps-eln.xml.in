@@ -3717,6 +3717,9 @@
       <packagereq type="default">suitesparse-devel</packagereq>
       <packagereq type="default">SuperLU</packagereq>
       <packagereq type="default">SuperLU-devel</packagereq>
+      <packagereq type="default">swig</packagereq>
+      <packagereq type="default">swig-doc</packagereq>
+      <packagereq type="default">swig-gdb</packagereq>
       <packagereq type="default">taglib-devel</packagereq>
       <packagereq type="default">texi2html</packagereq>
       <packagereq type="default">texinfo</packagereq>
