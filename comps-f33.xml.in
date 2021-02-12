@@ -4019,6 +4019,7 @@
       <packagereq type="optional">python3-netpyne</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
       <packagereq type="optional">python3-PyLEMS</packagereq>
+      <packagereq type="optional">python3-pynn</packagereq>
       <packagereq type="optional">smoldyn</packagereq>
     </packagelist>
   </group>
