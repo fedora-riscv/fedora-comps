@@ -746,7 +746,6 @@
       <packagereq type="default" variant="AppStream">nmap-ncat</packagereq>
       <packagereq type="default" variant="AppStream">libreswan</packagereq>
       <packagereq type="default" variant="AppStream">socat</packagereq>
-      <packagereq type="optional" variant="AppStream">dropwatch</packagereq>
       <packagereq type="optional" variant="AppStream">mrtg</packagereq>
       <packagereq type="optional" variant="AppStream">nmap</packagereq>
       <packagereq type="optional" variant="AppStream">nmstate</packagereq>
