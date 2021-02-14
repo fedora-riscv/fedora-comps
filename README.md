@@ -25,7 +25,7 @@ Usually optional is the way, however if you feel that your package deserves a de
 
 ### Running System ###
 
-In dnf, groups are used by `dnf groupinstall` and `dnf groupremove` commands, and can be queried with `dnf grouplist` command.
+In dnf, groups are used by `dnf group install` and `dnf group remove` commands, and can be queried with `dnf group list` command.
 
 In `PackageKit` (Add / Remove Software) the upper left quadrant shows Package collections.  When this is clicked, the grouping information is loaded from the configured software repositories, and the complete list of groups, stripped from their categories, are shown in the right hand pane. Selecting a group for installation causes only the default packages within the group to be installed.
 
