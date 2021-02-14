@@ -463,6 +463,7 @@
       <packagereq type="mandatory">paper-icon-theme</packagereq>
       <packagereq type="mandatory">pidgin</packagereq>
       <packagereq type="mandatory">powerline</packagereq>
+      <packagereq type="mandatory">qgnomeplatform</packagereq>
       <packagereq type="mandatory">redshift-gtk</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">setroubleshoot</packagereq>

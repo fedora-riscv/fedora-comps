@@ -464,6 +464,7 @@
       <packagereq type="mandatory">pipewire-alsa</packagereq>
       <packagereq type="mandatory">pipewire-pulseaudio</packagereq>
       <packagereq type="mandatory">powerline</packagereq>
+      <packagereq type="mandatory">qgnomeplatform</packagereq>
       <packagereq type="mandatory">redshift-gtk</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">setroubleshoot</packagereq>
