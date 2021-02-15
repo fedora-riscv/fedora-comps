@@ -5777,7 +5777,6 @@
       <packagereq>xfce4-screenshooter-plugin</packagereq>
       <packagereq>xfce4-taskmanager</packagereq>
       <packagereq>xfce4-terminal</packagereq>
-      <packagereq>xfwm4-theme-nodoka</packagereq>
       <packagereq>xfwm4-themes</packagereq>
       <packagereq type="mandatory">lightdm-gtk</packagereq>
       <packagereq type="mandatory">xfce4-about</packagereq>
