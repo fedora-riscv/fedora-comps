@@ -2,6 +2,17 @@
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
+    <id>critical-path-kde</id>
+    <_name>Critical Path (KDE)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">kdelibs</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>fedora-packager</id>
     <_name>Fedora Packager</_name>
     <_description>Tools and utilities needed by a Fedora Packager.</_description>
@@ -20,14 +31,13 @@
     </packagelist>
   </group>
   <group>
-    <id>critical-path-kde</id>
-    <_name>Critical Path (KDE)</_name>
-    <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
+    <id>firefox</id>
+    <_name>Firefox Web Browser</_name>
+    <_description>The Firefox web browser</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">kdelibs</packagereq>
-      <packagereq type="mandatory">sddm</packagereq>
+      <packagereq type="mandatory">firefox</packagereq>
     </packagelist>
   </group>
   <group>
@@ -60,19 +70,16 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>akregator</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
-      <packagereq>dnfdragora</packagereq>
       <packagereq>dolphin</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
-      <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
@@ -92,20 +99,16 @@
       <packagereq>kf5-baloo-file</packagereq>
       <packagereq>kf5-kipi-plugins</packagereq>
       <packagereq>kfind</packagereq>
-      <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
       <packagereq>kmag</packagereq>
-      <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>kmousetool</packagereq>
       <packagereq>kmouth</packagereq>
       <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
-      <packagereq>kontact</packagereq>
-      <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
       <packagereq>kscreenlocker</packagereq>
@@ -115,13 +118,10 @@
       <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
-      <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
-      <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
-      <packagereq>plasma-discover</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
@@ -143,7 +143,6 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
     </packagelist>
   </group>
   <group>
@@ -286,29 +285,29 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-       <packagereq type="mandatory">Thunar</packagereq>
-       <packagereq type="mandatory">xfce4-panel</packagereq>
-       <packagereq type="mandatory">xfce4-session</packagereq>
-       <packagereq type="mandatory">xfce4-settings</packagereq>
-       <packagereq type="mandatory">xfconf</packagereq>
-       <packagereq type="mandatory">xfdesktop</packagereq>
-       <packagereq type="mandatory">xfwm4</packagereq>
-       <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
-       <packagereq type="default">gdm</packagereq>
-       <packagereq type="default">mousepad</packagereq>
-       <packagereq type="default">NetworkManager-gnome</packagereq>
-       <packagereq type="default">openssh-askpass</packagereq>
-       <packagereq type="default">xfce-polkit</packagereq>
-       <packagereq type="default">thunar-archive-plugin</packagereq>
-       <packagereq type="default">thunar-volman</packagereq>
-       <packagereq type="default">tumbler</packagereq>
-       <packagereq type="default">xfce4-appfinder</packagereq>
-       <packagereq type="default">xfce4-power-manager</packagereq>
-       <packagereq type="default">xfce4-pulseaudio-plugin</packagereq>
-       <packagereq type="default">xfce4-screensaver</packagereq>
-       <packagereq type="default">xfce4-terminal</packagereq>
+      <packagereq type="mandatory">Thunar</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">mousepad</packagereq>
+      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">openssh-askpass</packagereq>
+      <packagereq type="default">thunar-archive-plugin</packagereq>
+      <packagereq type="default">thunar-volman</packagereq>
+      <packagereq type="default">tumbler</packagereq>
+      <packagereq type="default">xfce-polkit</packagereq>
+      <packagereq type="default">xfce4-appfinder</packagereq>
+      <packagereq type="default">xfce4-power-manager</packagereq>
+      <packagereq type="default">xfce4-pulseaudio-plugin</packagereq>
+      <packagereq type="default">xfce4-screensaver</packagereq>
+      <packagereq type="default">xfce4-terminal</packagereq>
     </packagelist>
-   </group>
+  </group>
   <environment>
     <id>kde-desktop-environment</id>
     <_name>KDE Plasma Workspaces</_name>
@@ -335,9 +334,6 @@
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
       <groupid>kde-office</groupid>
-      <groupid>kde-telepathy</groupid>
-      <groupid>3d-printing</groupid>
-      <groupid>cloud-management</groupid>
     </optionlist>
   </environment>
   <category>
