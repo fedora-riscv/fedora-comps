@@ -875,6 +875,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dbp</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dds-plugin</packagereq>
@@ -897,7 +898,6 @@
       <packagereq type="conditional" requires="inkscape">inkscape-psd</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-table</packagereq>
-      <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
       <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
@@ -4788,11 +4788,11 @@
       <packagereq type="default">player-doc</packagereq>
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-stage</packagereq>
-      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-bloom</packagereq>
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
       <packagereq type="default">python3-catkin_tools</packagereq>
+      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-rosdep</packagereq>
       <packagereq type="default">python3-rosdistro</packagereq>
       <packagereq type="default">python3-rosinstall</packagereq>
@@ -6724,6 +6724,15 @@
     </grouplist>
   </category>
   <category>
+    <id>neuroscience</id>
+    <_name>Neuroscience</_name>
+    <_description>Tools for Neuroscience.</_description>
+    <display_order>120</display_order>
+    <grouplist>
+      <groupid>neuron-modelling-simulators</groupid>
+    </grouplist>
+  </category>
+  <category>
     <id>xfce-desktop-environment</id>
     <_name>Xfce Desktop</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
@@ -6941,15 +6950,6 @@
     <display_order>99</display_order>
     <grouplist>
       <groupid>books</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>neuroscience</id>
-    <_name>Neuroscience</_name>
-    <_description>Tools for Neuroscience.</_description>
-    <display_order>120</display_order>
-    <grouplist>
-      <groupid>neuron-modelling-simulators</groupid>
     </grouplist>
   </category>
   <langpacks>

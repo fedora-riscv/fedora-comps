@@ -116,17 +116,6 @@
     </packagelist>
   </group>
   <group>
-    <id>x86-baremetal-tools</id>
-    <_name>x86 Baremetal Tools</_name>
-    <_description>Tools for working with baremetal x86 systems</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>memtest86+</packagereq>
-      <packagereq>syslinux</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>audio</id>
     <_name>Audio Production</_name>
     <_description>Various tools for audio synthesis and music production.</_description>
@@ -212,10 +201,10 @@
       <packagereq type="default">muse</packagereq>
       <packagereq type="default">nekobee-dssi</packagereq>
       <packagereq type="default">non-mixer</packagereq>
-      <packagereq type="default">non-session-manager</packagereq>
       <packagereq type="default">non-sequencer</packagereq>
-      <packagereq type="default">pulseaudio-module-jack</packagereq>
+      <packagereq type="default">non-session-manager</packagereq>
       <packagereq type="default">pavucontrol</packagereq>
+      <packagereq type="default">pulseaudio-module-jack</packagereq>
       <packagereq type="default">qastools</packagereq>
       <packagereq type="default">qjackctl</packagereq>
       <packagereq type="default">qmidiarp</packagereq>
@@ -300,6 +289,7 @@
       <packagereq>mesa-vulkan-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
       <packagereq>xorg-x11-drv-amdgpu</packagereq>
+      <packagereq arch="armhfp">xorg-x11-drv-armada</packagereq>
       <packagereq>xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
@@ -318,7 +308,6 @@
       <packagereq>xorg-x11-xauth</packagereq>
       <packagereq>xorg-x11-xinit</packagereq>
       <packagereq type="optional">xorg-x11-drv-geode</packagereq>
-      <packagereq arch="armhfp">xorg-x11-drv-armada</packagereq>
     </packagelist>
   </group>
   <group>
@@ -444,8 +433,8 @@
       <packagereq type="mandatory">abrt-desktop</packagereq>
       <packagereq type="mandatory">abrt-java-connector</packagereq>
       <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">blueberry</packagereq>
+      <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
@@ -553,10 +542,10 @@
       <packagereq type="mandatory">rsync</packagereq>
       <packagereq arch="i386,x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
-      <packagereq type="default">fedora-release-cloud</packagereq>
       <packagereq type="default">console-login-helper-messages-issuegen</packagereq>
       <packagereq type="default">console-login-helper-messages-motdgen</packagereq>
       <packagereq type="default">console-login-helper-messages-profile</packagereq>
+      <packagereq type="default">fedora-release-cloud</packagereq>
     </packagelist>
   </group>
   <group>
@@ -883,6 +872,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
+      <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dbp</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dds-plugin</packagereq>
@@ -904,7 +894,6 @@
       <packagereq type="conditional" requires="inkscape">inkscape-psd</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-sozi</packagereq>
       <packagereq type="conditional" requires="inkscape">inkscape-table</packagereq>
-      <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
       <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
       <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
@@ -1941,7 +1930,6 @@
       <!-- <packagereq type="optional">google-noto-cjk-fonts</packagereq> -->
       <packagereq type="optional">google-noto-emoji-fonts</packagereq>
       <packagereq type="optional">google-noto-kufi-arabic-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-mono-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-naskh-arabic-fonts</packagereq>
       <packagereq type="optional">google-noto-naskh-arabic-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-nastaliq-urdu-fonts</packagereq>
@@ -1950,8 +1938,8 @@
       <packagereq type="optional">google-noto-sans-balinese-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-bamum-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-batak-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-bengali-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-bengali-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-bengali-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-brahmi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-buginese-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-buhid-fonts</packagereq>
@@ -1967,11 +1955,10 @@
       <packagereq type="optional">google-noto-sans-cuneiform-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cypriot-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-deseret-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-devanagari-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-devanagari-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-devanagari-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-egyptian-hieroglyphs-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ethiopic-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-georgian-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-glagolitic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-gothic-fonts</packagereq>
@@ -1986,23 +1973,23 @@
       <packagereq type="optional">google-noto-sans-javanese-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-jp-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kaithi-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-kannada-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kannada-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-kannada-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kayah-li-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kharoshthi-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-khmer-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-khmer-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-khmer-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kr-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lao-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lepcha-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-limbu-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-linear-b-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lycian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lydian-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-malayalam-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-malayalam-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-malayalam-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mongolian-fonts</packagereq>
@@ -2010,8 +1997,9 @@
       <packagereq type="optional">google-noto-sans-mono-cjk-kr-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mono-cjk-sc-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mono-cjk-tc-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-myanmar-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-mono-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-myanmar-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-myanmar-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-new-tai-lue-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-nko-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ogham-fonts</packagereq>
@@ -2042,19 +2030,20 @@
       <packagereq type="optional">google-noto-sans-tai-le-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tai-viet-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-tamil-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tamil-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tamil-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thaana-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-thai-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-thai-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tibetan-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tifinagh-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ugaritic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-vai-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-yi-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-armenian-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-bengali-fonts</packagereq>
@@ -2064,7 +2053,6 @@
       <packagereq type="optional">google-noto-serif-cjk-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-devanagari-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-georgian-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-gujarati-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-jp-fonts</packagereq>
@@ -2078,6 +2066,7 @@
       <packagereq type="optional">google-noto-serif-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-telugu-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-thai-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-vf-fonts</packagereq>
       <packagereq type="optional">google-roboto-condensed-fonts</packagereq>
       <packagereq type="optional">google-roboto-fonts</packagereq>
       <packagereq type="optional">google-roboto-mono-fonts</packagereq>
@@ -3051,6 +3040,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq arch="x86_64" type="default">alsa-sof-firmware</packagereq>
       <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
@@ -3075,7 +3065,6 @@
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
-      <packagereq arch="x86_64" type="default">alsa-sof-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">alsa-firmware</packagereq>
@@ -4751,8 +4740,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">arduino</packagereq>
-      <packagereq type="default">qtcreator</packagereq>
-      <packagereq type="default">git</packagereq>
       <packagereq type="default">fawkes</packagereq>
       <packagereq type="default">fawkes-core</packagereq>
       <packagereq type="default">fawkes-doc</packagereq>
@@ -4778,6 +4765,7 @@
       <packagereq type="default">gazebo</packagereq>
       <packagereq type="default">gazebo-doc</packagereq>
       <packagereq type="default">gearbox</packagereq>
+      <packagereq type="default">git</packagereq>
       <packagereq type="default">libphidget</packagereq>
       <packagereq type="default">mrpt-apps</packagereq>
       <packagereq type="default">mrpt-doc</packagereq>
@@ -4789,11 +4777,11 @@
       <packagereq type="default">player-doc</packagereq>
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-stage</packagereq>
-      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-bloom</packagereq>
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
       <packagereq type="default">python3-catkin_tools</packagereq>
+      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-rosdep</packagereq>
       <packagereq type="default">python3-rosdistro</packagereq>
       <packagereq type="default">python3-rosinstall</packagereq>
@@ -4801,6 +4789,7 @@
       <packagereq type="default">python3-rospkg</packagereq>
       <packagereq type="default">python3-vcstools</packagereq>
       <packagereq type="default">python3-wstool</packagereq>
+      <packagereq type="default">qtcreator</packagereq>
       <packagereq type="default">rcsslogplayer</packagereq>
       <packagereq type="default">rcssmonitor</packagereq>
       <packagereq type="default">rcssserver</packagereq>
@@ -5409,10 +5398,10 @@
       <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>gnome-power-manager</packagereq>
+      <packagereq>gstreamer-plugins-espeak</packagereq>
+      <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-base</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
-      <packagereq>gstreamer1-plugins-bad-free</packagereq>
-      <packagereq>gstreamer-plugins-espeak</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>lightdm</packagereq>
       <packagereq>lightdm-gtk</packagereq>
@@ -5420,20 +5409,20 @@
       <packagereq>pulseaudio</packagereq>
       <packagereq>pulseaudio-utils</packagereq>
       <packagereq>sugar</packagereq>
-      <packagereq>sugar-logos</packagereq>
-      <packagereq>sugar-cp-updater</packagereq>
       <packagereq>sugar-abacus</packagereq>
       <packagereq>sugar-browse</packagereq>
       <packagereq>sugar-calculator</packagereq>
       <packagereq>sugar-chat</packagereq>
       <packagereq>sugar-clock</packagereq>
       <packagereq>sugar-cp-all</packagereq>
+      <packagereq>sugar-cp-updater</packagereq>
       <packagereq>sugar-finance</packagereq>
       <packagereq>sugar-fototoon</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
       <packagereq>sugar-implode</packagereq>
       <packagereq>sugar-jukebox</packagereq>
       <packagereq>sugar-log</packagereq>
+      <packagereq>sugar-logos</packagereq>
       <packagereq>sugar-maze</packagereq>
       <packagereq>sugar-memorize</packagereq>
       <packagereq>sugar-moon</packagereq>
@@ -6029,6 +6018,17 @@
     </packagelist>
   </group>
   <group>
+    <id>x86-baremetal-tools</id>
+    <_name>x86 Baremetal Tools</_name>
+    <_description>Tools for working with baremetal x86 systems</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>memtest86+</packagereq>
+      <packagereq>syslinux</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>xfce-apps</id>
     <_name>Applications for the Xfce Desktop</_name>
     <_description>A set of commonly used applications for the Xfce Desktop</_description>
@@ -6090,8 +6090,8 @@
       <packagereq>fedora-icon-theme</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
-      <packagereq>greybird-light-theme</packagereq>
       <packagereq>greybird-dark-theme</packagereq>
+      <packagereq>greybird-light-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>
       <packagereq>greybird-xfwm4-theme</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
@@ -6726,6 +6726,15 @@
     </grouplist>
   </category>
   <category>
+    <id>neuroscience</id>
+    <_name>Neuroscience</_name>
+    <_description>Tools for Neuroscience.</_description>
+    <display_order>120</display_order>
+    <grouplist>
+      <groupid>neuron-modelling-simulators</groupid>
+    </grouplist>
+  </category>
+  <category>
     <id>xfce-desktop-environment</id>
     <_name>Xfce Desktop</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
@@ -6945,15 +6954,6 @@
     <display_order>99</display_order>
     <grouplist>
       <groupid>books</groupid>
-    </grouplist>
-  </category>
-  <category>
-    <id>neuroscience</id>
-    <_name>Neuroscience</_name>
-    <_description>Tools for Neuroscience.</_description>
-    <display_order>120</display_order>
-    <grouplist>
-      <groupid>neuron-modelling-simulators</groupid>
     </grouplist>
   </category>
   <langpacks>
