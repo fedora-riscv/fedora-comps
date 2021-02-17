@@ -1117,7 +1117,7 @@
       <packagereq type="default" variant="BaseOS">gnupg2</packagereq>
       <packagereq type="default" variant="BaseOS">iprutils</packagereq>
       <packagereq type="default" variant="BaseOS">ledmon</packagereq>
-      <packagereq type="default" variant="BaseOS">libstoragemgmt</packagereq>
+      <packagereq type="default" variant="AppStream">libstoragemgmt</packagereq>
       <packagereq type="default" variant="BaseOS">lvm2</packagereq>
       <packagereq type="default" variant="BaseOS">mailcap</packagereq>
       <packagereq type="default" variant="BaseOS">man-pages</packagereq>
@@ -1224,7 +1224,7 @@
       <packagereq type="default" variant="BaseOS">gnupg2</packagereq>
       <packagereq type="default" variant="BaseOS">iprutils</packagereq>
       <packagereq type="default" variant="BaseOS">ledmon</packagereq>
-      <packagereq type="default" variant="BaseOS">libstoragemgmt</packagereq>
+      <packagereq type="default" variant="AppStream">libstoragemgmt</packagereq>
       <packagereq type="default" variant="BaseOS">lvm2</packagereq>
       <packagereq type="default" variant="BaseOS">mailcap</packagereq>
       <packagereq type="default" variant="BaseOS">man-pages</packagereq>
