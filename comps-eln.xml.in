@@ -3663,6 +3663,7 @@
       <packagereq type="default">python3-sure</packagereq>
       <packagereq type="default">python3-webencodings</packagereq>
       <packagereq type="default">python3-whoosh</packagereq>
+      <packagereq type="default" arch="x86_64">qatlib-devel</packagereq>
       <packagereq type="default">qdox</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
       <packagereq type="default">qt5-devel</packagereq>
