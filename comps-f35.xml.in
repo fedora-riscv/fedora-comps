@@ -4989,6 +4989,7 @@
       <packagereq>btrfs-progs</packagereq>
       <packagereq>bzip2</packagereq>
       <packagereq>cifs-utils</packagereq>
+      <packagereq>compsize</packagereq>
       <packagereq>cpio</packagereq>
       <packagereq>crontabs</packagereq>
       <packagereq>cryptsetup</packagereq>
@@ -5530,6 +5531,7 @@
       <packagereq type="default">bzip2</packagereq>
       <packagereq type="default">chrony</packagereq>
       <packagereq type="default">cifs-utils</packagereq>
+      <packagereq type="default">compsize</packagereq>
       <packagereq type="default">cpio</packagereq>
       <packagereq type="default">cryptsetup</packagereq>
       <packagereq type="default">cyrus-sasl-plain</packagereq>
