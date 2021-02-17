@@ -2487,7 +2487,6 @@
       <packagereq type="default">gnome-contacts</packagereq>
       <packagereq type="default">gnome-disk-utility</packagereq>
       <packagereq type="default">gnome-font-viewer</packagereq>
-      <packagereq type="default">gnome-getting-started-docs</packagereq>
       <packagereq type="default">gnome-logs</packagereq>
       <packagereq type="default">gnome-maps</packagereq>
       <packagereq type="default">gnome-photos</packagereq>
@@ -6619,7 +6618,6 @@
     <match install="eclipse-nls-%s" name="eclipse-platform"/>
     <match install="firefox-langpack-%s" name="firefox"/>
     <match install="gimp-help-%s" name="gimp-help"/>
-    <match install="gnome-getting-started-docs-%s" name="gnome-getting-started-docs"/>
     <match install="hunspell-%s" name="hunspell"/>
     <match install="hyphen-%s" name="hyphen"/>
     <match install="kde-l10n-%s" name="kdelibs"/>
