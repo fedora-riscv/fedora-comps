@@ -18,7 +18,12 @@ validate: $(XMLFILES) comps.rng
 
 sort:
 	@# Run xsltproc on each xml.in file and exit with non-zero if any sorting fails
+	@# The comps-eln.xml.in is not sorted alphabetically but manually
+	@# based on the need needs of Fedora ELN SIG.
 	@RES=0; for f in $(XMLINFILES); do \
+		if [[ "$$f" == 'comps-eln.xml.in' ]]; then \
+			continue; \
+		fi; \
 		xsltproc --novalid -o $$f comps-cleanup.xsl $$f; \
 		RES=$$(($$RES + $$?)); \
 	done; exit $$RES
