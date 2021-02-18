@@ -1001,7 +1001,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="optional" variant="BaseOS">hmaccalc</packagereq>
-      <packagereq type="optional" variant="BaseOS">tpm-tools</packagereq>
       <packagereq type="optional" arch="x86_64" variant="BaseOS">tpm2-tools</packagereq>
       <packagereq type="optional" arch="ppc64le" variant="BaseOS">tss2</packagereq>
       <packagereq type="optional" variant="BaseOS">trousers</packagereq>
@@ -2958,7 +2957,6 @@
       <packagereq type="default">corosync-vqsim</packagereq>
       <packagereq type="default">cracklib-devel</packagereq>
       <packagereq type="default">crash-devel</packagereq>
-      <packagereq type="default">ctags-etags</packagereq>
       <packagereq type="default">CUnit-devel</packagereq>
       <packagereq type="default">cups-filters-devel</packagereq>
       <packagereq type="default">daxctl-devel</packagereq>
@@ -3065,13 +3063,9 @@
       <packagereq type="default">gtest</packagereq>
       <packagereq type="default">gtest-devel</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
-      <packagereq type="default">gtkmm24</packagereq>
-      <packagereq type="default">gtkmm24-devel</packagereq>
-      <packagereq type="default">gtkmm24-docs</packagereq>
       <packagereq type="default">gtkmm30-devel</packagereq>
       <packagereq type="default">gtkmm30-doc</packagereq>
       <packagereq type="default">gtkspell3-devel</packagereq>
-      <packagereq type="default">gtkspell-devel</packagereq>
       <packagereq type="default">guile-devel</packagereq>
       <packagereq type="default">hamcrest</packagereq>
       <packagereq type="default">hamcrest-core</packagereq>
@@ -3143,7 +3137,6 @@
       <packagereq type="default">libdb-devel-doc</packagereq>
       <packagereq type="default">libdb-sql</packagereq>
       <packagereq type="default">libdb-sql-devel</packagereq>
-      <packagereq type="default">libdnet-devel</packagereq>
       <packagereq type="default">libdvdread-devel</packagereq>
       <packagereq type="default">libedit-devel</packagereq>
       <packagereq type="default">libEMF</packagereq>
@@ -3222,7 +3215,6 @@
       <packagereq type="default" arch="x86_64">libvmem-debug</packagereq>
       <packagereq type="default" arch="x86_64">libvmmalloc-debug</packagereq>
       <packagereq type="default">libproxy-devel</packagereq>
-      <packagereq type="default">libpurple-devel</packagereq>
       <packagereq type="default">libpwquality-devel</packagereq>
       <packagereq type="default">libqhull</packagereq>
       <packagereq type="default">libqhull_p</packagereq>
@@ -3241,8 +3233,6 @@
       <packagereq type="default">librevenge-devel</packagereq>
       <packagereq type="default">librx</packagereq>
       <packagereq type="default">librx-devel</packagereq>
-      <packagereq type="default">libsass</packagereq>
-      <packagereq type="default">libsass-devel</packagereq>
       <packagereq type="default">libseccomp-devel</packagereq>
       <packagereq type="default">libsemanage-devel</packagereq>
       <packagereq type="default">libsepol-static</packagereq>
@@ -3279,7 +3269,6 @@
       <packagereq type="default">libvpx-devel</packagereq>
       <packagereq type="default">libwacom-devel</packagereq>
       <packagereq type="default">libwbclient-devel</packagereq>
-      <packagereq type="default">libwmf-devel</packagereq>
       <packagereq type="default">libwnck3-devel</packagereq>
       <packagereq type="default">libwpd-devel</packagereq>
       <packagereq type="default">libwpd-doc</packagereq>
@@ -3294,7 +3283,6 @@
       <packagereq type="default">libxkbcommon-x11-devel</packagereq>
       <packagereq type="default">libxkbfile-devel</packagereq>
       <packagereq type="default">libxklavier-devel</packagereq>
-      <packagereq type="default">libXvMC-devel</packagereq>
       <packagereq type="default">libXres-devel</packagereq>
       <packagereq type="default">libyaml-devel</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
@@ -3730,7 +3718,6 @@
       <packagereq type="default">tokyocabinet-devel</packagereq>
       <packagereq type="default">tog-pegasus-devel</packagereq>
       <packagereq type="default">tpm2-abrmd-devel</packagereq>
-      <packagereq type="default">tpm-tools-devel</packagereq>
       <packagereq type="default">transfig</packagereq>
       <packagereq type="default">trousers-devel</packagereq>
       <packagereq type="default" arch="ppc64le">tss2-devel</packagereq>
