@@ -5590,6 +5590,7 @@
       <packagereq type="default">policycoreutils-python-utils</packagereq>
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
+      <packagereq type="default">python3-dnf-plugin-system-upgrade</packagereq>
       <packagereq type="default">qgnomeplatform</packagereq>
       <packagereq type="default">qt5-qtbase</packagereq>
       <packagereq type="default">qt5-qtbase-gui</packagereq>
