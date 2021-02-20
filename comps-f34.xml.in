@@ -215,7 +215,6 @@
       <packagereq type="default">sbc</packagereq>
       <packagereq type="default">sooperlooper</packagereq>
       <packagereq type="default">studio-controls</packagereq>
-      <packagereq type="default">swami</packagereq>
       <packagereq type="default">synthv1</packagereq>
       <packagereq type="default">timidity++</packagereq>
       <packagereq type="default">tuxguitar</packagereq>
