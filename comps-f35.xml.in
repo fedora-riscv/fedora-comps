@@ -413,7 +413,7 @@
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
       <packagereq type="mandatory">dnfdragora-updater</packagereq>
-      <packagereq type="mandatory">eom</packagereq>
+      <packagereq type="mandatory">eog</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
       <packagereq type="mandatory">firewall-config</packagereq>
       <packagereq type="mandatory">gnome-calculator</packagereq>
@@ -431,7 +431,6 @@
       <packagereq type="mandatory">initial-setup-gui</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nemo-fileroller</packagereq>
-      <packagereq type="mandatory">nemo-image-converter</packagereq>
       <packagereq type="mandatory">nemo-preview</packagereq>
       <packagereq type="mandatory">NetworkManager-adsl</packagereq>
       <packagereq type="mandatory">NetworkManager-bluetooth</packagereq>
