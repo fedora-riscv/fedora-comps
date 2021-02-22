@@ -2525,10 +2525,11 @@
       <packagereq type="default" variant="BaseOS">dejavu-sans-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-serif-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-sans-mono-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">google-noto-sans-gurmukhi-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-lisu-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-mandaic-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-meetei-mayek-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-sinhala-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">google-noto-sans-sinhala-vf-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-tai-tham-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-tai-viet-fonts</packagereq>
@@ -2536,18 +2537,17 @@
       <packagereq type="default" variant="AppStream">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="default" variant="AppStream">jomolhari-fonts</packagereq>
       <packagereq type="default" variant="AppStream">julietaula-montserrat-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">khmeros-base-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">khmer-os-base-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-assamese-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-bengali-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-devanagari-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-gujarati-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-gurmukhi-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-kannada-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-odia-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-tamil-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-telugu-fonts</packagereq>
       <packagereq type="default" variant="AppStream">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">paratype-pt-sans-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">pt-sans-fonts</packagereq>
       <packagereq type="default" variant="AppStream">sil-abyssinica-fonts</packagereq>
       <packagereq type="default" variant="AppStream">sil-nuosu-fonts</packagereq>
       <packagereq type="default" variant="AppStream">sil-padauk-fonts</packagereq>
@@ -2597,6 +2597,7 @@
       <packagereq type="optional" variant="AppStream">google-noto-sans-osmanya-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-phoenician-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-shavian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sinhala-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-symbols-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-ui-fonts</packagereq>
@@ -2629,13 +2630,17 @@
       <packagereq type="optional" variant="AppStream">kacst-screen-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">kacst-title-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">kacst-titlel-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-battambang-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-bokor-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-handwritten-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-metal-chrieng-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-muol-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmeros-siemreap-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-battambang-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-bokor-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-content-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-fasthad-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-freehand-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-handwritten-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-metal-chrieng-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-muol-fonts-all</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-siemreap-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">lohit-gurmukhi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">madan-fonts</packagereq>
