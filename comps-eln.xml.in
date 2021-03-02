@@ -2526,19 +2526,17 @@
       <packagereq type="default" variant="BaseOS">dejavu-sans-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-serif-fonts</packagereq>
       <packagereq type="default" variant="BaseOS">dejavu-sans-mono-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">google-noto-emoji-color-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-gurmukhi-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-lisu-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-mandaic-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-meetei-mayek-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-sinhala-vf-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-tagalog-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-tai-tham-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-tai-viet-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-sans-cjk-ttc-fonts</packagereq>
       <packagereq type="default" variant="AppStream">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="default" variant="AppStream">jomolhari-fonts</packagereq>
       <packagereq type="default" variant="AppStream">julietaula-montserrat-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">khmer-os-base-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">khmer-os-system-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">liberation-mono-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">liberation-sans-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">liberation-serif-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-assamese-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-bengali-fonts</packagereq>
       <packagereq type="default" variant="AppStream">lohit-devanagari-fonts</packagereq>
@@ -2555,6 +2553,7 @@
       <packagereq type="default" variant="AppStream">smc-meera-fonts</packagereq>
       <packagereq type="default" variant="AppStream">stix-fonts</packagereq>
       <packagereq type="default" variant="AppStream">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">adobe-source-code-pro-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
