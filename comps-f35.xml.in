@@ -2469,8 +2469,6 @@
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
       <packagereq type="default">evince-nautilus</packagereq>
-      <packagereq type="default">file-roller</packagereq>
-      <packagereq type="default">file-roller-nautilus</packagereq>
       <packagereq type="default">fprintd-pam</packagereq>
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
