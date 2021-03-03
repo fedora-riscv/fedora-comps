@@ -4195,9 +4195,15 @@
     <_name>Pantheon Desktop</_name>
     <_description>The Pantheon desktop environment is the DE that powers elementaryOS.</_description>
     <default>false</default>
-    <uservisible>false</uservisible>
+    <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="mandatory">contractor</packagereq>
+      <packagereq type="mandatory">elementary-capnet-assist</packagereq>
+      <packagereq type="mandatory">elementary-icon-theme</packagereq>
+      <packagereq type="mandatory">elementary-notifications</packagereq>
+      <packagereq type="mandatory">elementary-sound-theme</packagereq>
+      <packagereq type="mandatory">elementary-theme</packagereq>
+      <packagereq type="mandatory">elementary-wallpapers</packagereq>
       <packagereq type="mandatory">gala</packagereq>
       <packagereq type="mandatory">gnome-session</packagereq>
       <packagereq type="mandatory">pantheon-agent-geoclue2</packagereq>
@@ -4220,16 +4226,15 @@
       <packagereq type="default">elementary-camera</packagereq>
       <packagereq type="default">elementary-code</packagereq>
       <packagereq type="default">elementary-files</packagereq>
-      <packagereq type="default">elementary-icon-theme</packagereq>
+      <packagereq type="default">elementary-greeter</packagereq>
       <packagereq type="default">elementary-music</packagereq>
       <packagereq type="default">elementary-photos</packagereq>
       <packagereq type="default">elementary-print</packagereq>
       <packagereq type="default">elementary-screenshot-tool</packagereq>
-      <packagereq type="default">elementary-sound-theme</packagereq>
+      <packagereq type="default">elementary-shortcut-overlay</packagereq>
+      <packagereq type="default">elementary-sideload</packagereq>
       <packagereq type="default">elementary-terminal</packagereq>
-      <packagereq type="default">elementary-theme</packagereq>
       <packagereq type="default">elementary-videos</packagereq>
-      <packagereq type="default">elementary-wallpapers</packagereq>
       <packagereq type="default">switchboard</packagereq>
       <packagereq type="default">switchboard-plug-a11y</packagereq>
       <packagereq type="default">switchboard-plug-about</packagereq>
@@ -4245,9 +4250,6 @@
       <packagereq type="default">switchboard-plug-printers</packagereq>
       <packagereq type="default">switchboard-plug-sharing</packagereq>
       <packagereq type="default">switchboard-plug-sound</packagereq>
-      <packagereq type="optional">elementary-capnet-assist</packagereq>
-      <packagereq type="optional">elementary-greeter</packagereq>
-      <packagereq type="optional">elementary-shortcut-overlay</packagereq>
     </packagelist>
   </group>
   <group>
