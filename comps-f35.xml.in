@@ -585,7 +585,6 @@
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">parted</packagereq>
       <packagereq type="mandatory">passwd</packagereq>
-      <packagereq type="mandatory">plymouth</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
@@ -5025,7 +5024,6 @@
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pinfo</packagereq>
-      <packagereq>plymouth</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>quota</packagereq>
       <packagereq>realmd</packagereq>
@@ -5583,7 +5581,7 @@
       <packagereq type="default">pciutils</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">pinfo</packagereq>
-      <packagereq type="default">plymouth</packagereq>
+      <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-python-utils</packagereq>
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
