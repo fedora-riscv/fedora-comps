@@ -4244,7 +4244,6 @@
       <packagereq type="default">switchboard-plug-mouse-touchpad</packagereq>
       <packagereq type="default">switchboard-plug-networking</packagereq>
       <packagereq type="default">switchboard-plug-notifications</packagereq>
-      <packagereq type="default">switchboard-plug-onlineaccounts</packagereq>
       <packagereq type="default">switchboard-plug-pantheon-shell</packagereq>
       <packagereq type="default">switchboard-plug-printers</packagereq>
       <packagereq type="default">switchboard-plug-sharing</packagereq>
