@@ -10,29 +10,30 @@
 # Michelle J Kim <mkim@redhat.com>, 2003-2004
 # Michelle Kim <mkim@redhat.com>, 2002
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# simmon <simmon@nplob.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-03-30 04:14+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Korean (http://www.transifex.com/projects/p/comps/language/"
-"ko/)\n"
+"PO-Revision-Date: 2021-03-15 08:01+0000\n"
+"Last-Translator: simmon <simmon@nplob.com>\n"
+"Language-Team: Korean <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.5.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr ""
+msgstr "3D 출력"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
-msgstr ""
+msgstr "3D 출력 소프트웨어"
 
 #: ../comps-f32.xml.in.h:3 ../comps-f33.xml.in.h:3 ../comps-f34.xml.in.h:3
 msgid "Administration Tools"
@@ -42,38 +43,35 @@ msgstr "관리 도구"
 msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
-msgstr ""
-"이 그룹은 사용자 계정을 관리하고 시스템 하드웨어를 설정하는 그래픽 시스템 관"
-"리 도구 모음입니다. "
+msgstr "이 그룹은 사용자 계정을 관리하고 시스템 하드웨어를 설정하는 그래픽 시스템 관리 도구 모음입니다."
 
 #: ../comps-f32.xml.in.h:5 ../comps-f33.xml.in.h:5 ../comps-f34.xml.in.h:5
 msgid "Anaconda tools"
-msgstr ""
+msgstr "아나콘다 도구"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "암(ARM) 도구"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "암 시스템에 동작하기 위한 도구"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 베어메탈 도구"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "베어메탈 x86 시스템에 동작하기 위한 도구"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
-msgstr ""
+msgstr "오디오 제작"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "무결성 및 신뢰성 확인을 위한 보안 도구 "
+msgstr "무결성와 신뢰성 확인을 위한 보안 도구."
 
 #: ../comps-f32.xml.in.h:12 ../comps-f33.xml.in.h:12 ../comps-f34.xml.in.h:12
 msgid "Authoring and Publishing"
@@ -89,100 +87,97 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:14 ../comps-f33.xml.in.h:14 ../comps-f34.xml.in.h:14
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f32.xml.in.h:15 ../comps-f33.xml.in.h:15 ../comps-f34.xml.in.h:15
 msgid "Local X.org display server"
-msgstr ""
+msgstr "로컬 X.org 표시용 서버"
 
 #: ../comps-f32.xml.in.h:16 ../comps-f33.xml.in.h:16 ../comps-f34.xml.in.h:16
 msgid "Basic Desktop"
-msgstr ""
+msgstr "기본 데스크탑"
 
 #: ../comps-f32.xml.in.h:17 ../comps-f33.xml.in.h:17 ../comps-f34.xml.in.h:17
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "윈도우 관자자를 선택 할 수 있는 기본 X 윈도우 시스템."
 
 #: ../comps-f32.xml.in.h:18
 msgid "Books and Guides"
-msgstr "관련 서적 및 가이드 "
+msgstr "서적 및 안내서"
 
 #: ../comps-f32.xml.in.h:19
 msgid "Books and Guides for Fedora users and developers"
-msgstr "Fedora 사용자 및 개발자를 위한 관련 서적 및 가이드  "
+msgstr "페도라 사용자 및 개발자를 위한 관련 서적 및 가이드"
 
 #: ../comps-f32.xml.in.h:20 ../comps-f33.xml.in.h:18 ../comps-f34.xml.in.h:18
 #: ../comps-epel7.xml.in.h:25
 msgid "Buildsystem building group"
-msgstr "빌드 시스템 작성 그룹 "
+msgstr "작성시스템 작성 그룹"
 
 #: ../comps-f32.xml.in.h:21 ../comps-f33.xml.in.h:19 ../comps-f34.xml.in.h:19
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C 개발 도구 및 라이브러리"
 
 #: ../comps-f32.xml.in.h:22 ../comps-f33.xml.in.h:20 ../comps-f34.xml.in.h:20
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
-msgstr ""
+msgstr "이들 도구에는 automake, gcc, perl와 디버거와 같은 핵심 개발 도구를 포함하고 있습니다."
 
 #: ../comps-f32.xml.in.h:23 ../comps-f33.xml.in.h:21 ../comps-f34.xml.in.h:21
 #: ../comps-epel7.xml.in.h:34
 msgid "Cinnamon"
-msgstr ""
+msgstr "시나몬"
 
 #: ../comps-f32.xml.in.h:24 ../comps-f33.xml.in.h:22 ../comps-f34.xml.in.h:22
 #: ../comps-epel7.xml.in.h:35
 msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
-msgstr ""
+msgstr "시나몬은 전통적인 구성, 고급 기능, 손쉬운 사용, 강력함과 유연성을 포함하여 제공합니다."
 
 #: ../comps-f32.xml.in.h:25 ../comps-f33.xml.in.h:23 ../comps-f34.xml.in.h:23
 msgid "Cloud Infrastructure"
-msgstr "클라우드 기반 "
+msgstr "클라우드 기반"
 
 #: ../comps-f32.xml.in.h:26 ../comps-f33.xml.in.h:24 ../comps-f34.xml.in.h:24
 msgid "Infrastructure packages for cloud computing."
-msgstr "클라우드 컴퓨팅을 위한 기반 패키지 "
+msgstr "클라우드 컴퓨팅을 위한 기반 꾸러미."
 
 #: ../comps-f32.xml.in.h:27 ../comps-f33.xml.in.h:25 ../comps-f34.xml.in.h:25
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "개발용 도구"
+msgstr "클라우드 관리용 도구"
 
 #: ../comps-f32.xml.in.h:28 ../comps-f33.xml.in.h:26 ../comps-f34.xml.in.h:26
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
-msgstr ""
+msgstr "\"클라우드\" 환경에서 동작하는 서버와 시스템 이미지를 관리하는 소프트웨어"
 
 #: ../comps-f32.xml.in.h:29 ../comps-f33.xml.in.h:27 ../comps-f34.xml.in.h:27
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "클라우드 서버 도구"
 
 #: ../comps-f32.xml.in.h:30 ../comps-f33.xml.in.h:28 ../comps-f34.xml.in.h:28
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
-msgstr ""
+msgstr "\"클라우드\" 환경에서 동작하는 서버와 시스템 이미지를 위한 소프트웨어"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
 msgid "Compiz"
-msgstr ""
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
+msgstr "이 꾸러미 그룹은 Compiz와 Emerald에 추가합니다"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
-#, fuzzy
 msgid "Container Management"
-msgstr "시스템 관리 "
+msgstr "컨테이너 관리"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "메인 프레임 컴퓨팅 리소스에 액세스하기 위한 도구 "
+msgstr "리눅스 컨테이너 관리를 위한 도구"
 
 #: ../comps-f32.xml.in.h:35 ../comps-f33.xml.in.h:33 ../comps-f34.xml.in.h:33
 #: ../comps-epel7.xml.in.h:41
@@ -195,49 +190,41 @@ msgstr "가능한 최소 설치"
 
 #: ../comps-f32.xml.in.h:37 ../comps-f33.xml.in.h:35 ../comps-f34.xml.in.h:35
 msgid "Critical Path (Applications)"
-msgstr "Critical Path (애플리케이션) "
+msgstr "Critical Path (응용프로그램)"
 
 #: ../comps-f32.xml.in.h:38 ../comps-f33.xml.in.h:36 ../comps-f34.xml.in.h:36
 msgid "A set of applications that are considered critical path"
-msgstr "critical path로 간주되는 애플리케이션 모음  "
+msgstr "위험 경로로 간주되는 응용프로그램 모음"
 
 #: ../comps-f32.xml.in.h:39 ../comps-f33.xml.in.h:37 ../comps-f34.xml.in.h:37
 msgid "Critical Path (Base)"
-msgstr "Critical Path (기초) "
+msgstr "Critical Path (기초)"
 
 #: ../comps-f32.xml.in.h:40 ../comps-f33.xml.in.h:38 ../comps-f34.xml.in.h:38
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
-msgstr ""
-"전체 Fedora 제품에서 Critical Path 기능에 대해 공유 플랫폼을 제공하는 패키지 "
-"집합입니다. "
+msgstr "전체 페도라 제품에서 Critical Path 기능에 대해 공유 기반을 제공하는 꾸러미 집합입니다"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Critical Path (KDE)"
+msgstr "Critical Path (Deepin 데스크탑)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "KDE 데스크탑에 Critical Path 기능을 제공하는 패키지 모음 "
+msgstr "Deepin 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
-msgstr "Critical Path (GNOME)"
+msgstr "Critical Path (그놈)"
 
 #: ../comps-f32.xml.in.h:44 ../comps-f33.xml.in.h:42 ../comps-f34.xml.in.h:42
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
-msgstr "GNOME 데스크탑에 Critical Path 기능을 제공하는 패키지 집합입니다. "
+msgstr "그놈 데스크탑에 Critical Path 기능을 제공하는 꾸러미 집합입니다"
 
 #: ../comps-f32.xml.in.h:45 ../comps-f33.xml.in.h:43 ../comps-f34.xml.in.h:43
 #: ../comps-epel8.xml.in.h:3
@@ -249,7 +236,7 @@ msgstr "Critical Path (KDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
-msgstr "KDE 데스크탑에 Critical Path 기능을 제공하는 패키지 모음 "
+msgstr "KDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:47 ../comps-f33.xml.in.h:45 ../comps-f34.xml.in.h:45
 msgid "Critical Path (LXDE)"
@@ -259,7 +246,7 @@ msgstr "Critical Path (LXDE)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
-msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 패키지 모음 "
+msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
 #, fuzzy
@@ -267,11 +254,10 @@ msgid "Critical Path (LXQt)"
 msgstr "Critical Path (LXDE)"
 
 #: ../comps-f32.xml.in.h:50 ../comps-f33.xml.in.h:48 ../comps-f34.xml.in.h:48
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 패키지 모음 "
+msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:51 ../comps-f33.xml.in.h:49 ../comps-f34.xml.in.h:49
 msgid "Critical Path (Xfce)"
@@ -281,58 +267,46 @@ msgstr "Critical Path (Xfce)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
-msgstr "Xfce 데스크탑에 Critical Path 기능을 제공하는 패키지 모음 "
+msgstr "Xfce 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:53 ../comps-f33.xml.in.h:51 ../comps-f34.xml.in.h:51
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "개발 도구 및 라이브러리 "
+msgstr "개발 도구와 라이브러리"
 
 #: ../comps-f32.xml.in.h:54 ../comps-f33.xml.in.h:52 ../comps-f34.xml.in.h:52
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr ""
-"이 도구에는 automake, gcc, perl, python, 디버거와 같은 핵심 개발 도구를포함하"
-"고 있습니다."
+msgstr "이는 ldc, 그리도 geany-tag와 같은 개발용 도구와 라이브러리를 포함합니다."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "데스크탑 환경"
+msgstr "Deepin 데스크탑 환경"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
-msgstr ""
+msgstr "Deepin 데스크탑은 우아하고 사용하기 쉬운 데스크탑 환경 목적입니다."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "인터넷 애플리케이션 "
+msgstr "Deepin 데스크탑 응용프로그램"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "데스크탑 상에서 텍스트 렌더링 용 글꼴 패키지 "
+msgstr "Deepin 데스크탑을 위한 미디어 꾸러미"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "원격 데스크탑 클라이언트 "
+msgstr "Deepin 데스크탑 사무용"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
 msgid "Office suite for Deepin Desktop"
-msgstr ""
+msgstr "Deepin 데스크탑을 위한 사무용 제품군"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
-msgstr "디자인 도구 모음 "
+msgstr "디자인 모음"
 
 #: ../comps-f32.xml.in.h:62 ../comps-f33.xml.in.h:60 ../comps-f34.xml.in.h:60
 msgid ""
@@ -369,12 +343,12 @@ msgstr "전화연결 네트워킹 지원"
 #: ../comps-f32.xml.in.h:68 ../comps-f33.xml.in.h:66 ../comps-f34.xml.in.h:66
 #: ../comps-epel7.xml.in.h:60
 msgid "Directory Server"
-msgstr "디렉토리 서버 "
+msgstr "디렉토리 서버"
 
 #: ../comps-f32.xml.in.h:69 ../comps-f33.xml.in.h:67 ../comps-f34.xml.in.h:67
 #: ../comps-epel7.xml.in.h:61
 msgid "Machine and user identity servers."
-msgstr "시스템 및 사용자 ID 서버 "
+msgstr "장비와 사용자 확인 서버."
 
 #: ../comps-f32.xml.in.h:70 ../comps-f33.xml.in.h:68 ../comps-f34.xml.in.h:68
 msgid "DNS Name Server"
@@ -389,11 +363,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:72 ../comps-f33.xml.in.h:70 ../comps-f34.xml.in.h:70
 msgid "Dogtag Certificate System"
-msgstr "Dogtag 인증서 시스템 "
+msgstr "Dogtag 인증서 시스템"
 
 #: ../comps-f32.xml.in.h:73 ../comps-f33.xml.in.h:71 ../comps-f34.xml.in.h:71
 msgid "Enterprise-class open source Certificate Authority"
-msgstr "엔터프라이즈급 오픈 소스 인증서 권한 "
+msgstr "기업용 개방형 자원 인증서 권한"
 
 #: ../comps-f32.xml.in.h:74 ../comps-f33.xml.in.h:72 ../comps-f34.xml.in.h:72
 msgid "Domain Membership"
@@ -405,11 +379,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:76 ../comps-f33.xml.in.h:74 ../comps-f34.xml.in.h:74
 msgid "Fedora Eclipse"
-msgstr "Fedora Eclipse"
+msgstr "페도라 이클립스"
 
 #: ../comps-f32.xml.in.h:77 ../comps-f33.xml.in.h:75 ../comps-f34.xml.in.h:75
 msgid "Integrated Development Environments based on Eclipse."
-msgstr "Eclipse 기반 통합 개발 환경 "
+msgstr "Eclipse 기반 통합 개발 환경."
 
 #: ../comps-f32.xml.in.h:78 ../comps-f33.xml.in.h:76 ../comps-f34.xml.in.h:76
 msgid "Editors"
@@ -426,7 +400,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:80 ../comps-f33.xml.in.h:78 ../comps-f34.xml.in.h:78
 #: ../comps-epel7.xml.in.h:65
 msgid "Educational Software"
-msgstr "교육용 소프트웨어 "
+msgstr "교육용 소프트웨어"
 
 #: ../comps-f32.xml.in.h:81 ../comps-f33.xml.in.h:79 ../comps-f34.xml.in.h:79
 msgid "Educational software for learning"
@@ -435,12 +409,11 @@ msgstr "학습을 위한 교육용 소프트웨어"
 #: ../comps-f32.xml.in.h:82 ../comps-f33.xml.in.h:80 ../comps-f34.xml.in.h:80
 #: ../comps-epel7.xml.in.h:67
 msgid "Electronic Lab"
-msgstr "전자 실습 "
+msgstr "전자 Lab"
 
 #: ../comps-f32.xml.in.h:83 ../comps-f33.xml.in.h:81 ../comps-f34.xml.in.h:81
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
-msgstr "하드웨어 엔지니어를 위한 디자인 및 시뮬레이션 도구 "
+msgstr "하드웨어 엔지니어를 위한 디자인 및 모의실험 도구"
 
 #: ../comps-f32.xml.in.h:84 ../comps-f33.xml.in.h:82 ../comps-f34.xml.in.h:82
 msgid "Engineering and Scientific"
@@ -475,12 +448,11 @@ msgstr ""
 #: ../comps-f32.xml.in.h:90 ../comps-f33.xml.in.h:86 ../comps-f34.xml.in.h:86
 #: ../comps-epel7.xml.in.h:75 ../comps-epel8.xml.in.h:1
 msgid "Fedora Packager"
-msgstr "Fedora Packager"
+msgstr "페도라 Packager"
 
 #: ../comps-f32.xml.in.h:91 ../comps-f33.xml.in.h:87 ../comps-f34.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Fedora Packager에 필요한 도구 및 유틸리티 "
+msgstr "페도라 꾸러미에 필요한 도구와 유틸리티"
 
 #: ../comps-f32.xml.in.h:92 ../comps-f33.xml.in.h:88 ../comps-f34.xml.in.h:88
 msgid "Firefox Web Browser"
@@ -492,23 +464,22 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:94 ../comps-f33.xml.in.h:90 ../comps-f34.xml.in.h:90
 msgid "Font design and packaging"
-msgstr "글꼴 디자인 및 패키징 "
+msgstr "글꼴 디자인 및 포장"
 
 #: ../comps-f32.xml.in.h:95 ../comps-f33.xml.in.h:91 ../comps-f34.xml.in.h:91
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
-msgstr ""
-"이 그룹은 글꼴 디자인, 수정, 조정 및 패키징에 사용되는 도구 모음입니다.  "
+msgstr "이 그룹은 글꼴 디자인, 수정, 조정 및 꾸러미에 사용되는 도구 모음입니다."
 
 #: ../comps-f32.xml.in.h:96 ../comps-f33.xml.in.h:92 ../comps-f34.xml.in.h:92
 #: ../comps-epel7.xml.in.h:80
 msgid "Fonts"
-msgstr "글꼴 "
+msgstr "글꼴"
 
 #: ../comps-f32.xml.in.h:97 ../comps-f33.xml.in.h:93 ../comps-f34.xml.in.h:93
 msgid "Fonts packages for rendering text on the desktop."
-msgstr "데스크탑 상에서 텍스트 렌더링 용 글꼴 패키지 "
+msgstr "데스크탑 상에서 텍스트 렌더링 용 글꼴 꾸러미."
 
 #: ../comps-f32.xml.in.h:98 ../comps-f33.xml.in.h:94 ../comps-f34.xml.in.h:94
 #, fuzzy
@@ -634,13 +605,13 @@ msgstr ""
 #: ../comps-f32.xml.in.h:122 ../comps-f33.xml.in.h:118
 #: ../comps-f34.xml.in.h:118
 msgid "Hardware Support"
-msgstr "하드웨어 지원 "
+msgstr "하드웨어 지원"
 
 #: ../comps-f32.xml.in.h:123 ../comps-f33.xml.in.h:119
 #: ../comps-f34.xml.in.h:119
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
-msgstr "이 그룹은 특정 하드웨어 유틸리티에 대한 도구 모음입니다. "
+msgstr "이 그룹은 특정 하드웨어 유틸리티에 대한 도구 모음입니다."
 
 #: ../comps-f32.xml.in.h:124 ../comps-f33.xml.in.h:120
 #: ../comps-f34.xml.in.h:120 ../comps-epel7.xml.in.h:101
@@ -650,13 +621,12 @@ msgstr "Haskell"
 #: ../comps-f32.xml.in.h:125 ../comps-f33.xml.in.h:121
 #: ../comps-f34.xml.in.h:121 ../comps-epel7.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Haskell 프로그래밍 언어로 작성된 개발용 프로그램 지원. "
+msgstr "Haskell 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 
 #: ../comps-f32.xml.in.h:126 ../comps-f33.xml.in.h:122
 #: ../comps-f34.xml.in.h:122
-#, fuzzy
 msgid "Headless Management"
-msgstr "시스템 관리 "
+msgstr "모니터 없는 장비관리"
 
 #: ../comps-f32.xml.in.h:127 ../comps-f33.xml.in.h:123
 #: ../comps-f34.xml.in.h:123
@@ -666,12 +636,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:128 ../comps-f33.xml.in.h:124
 #: ../comps-f34.xml.in.h:124 ../comps-epel7.xml.in.h:111
 msgid "Input Methods"
-msgstr "입력 방식 "
+msgstr "입력 방식"
 
 #: ../comps-f32.xml.in.h:129 ../comps-f33.xml.in.h:125
 #: ../comps-f34.xml.in.h:125
 msgid "Input method packages for the input of international text."
-msgstr "국제 텍스트 입력을 위한 입력 방식 패키지  "
+msgstr "세계적인 언어 입력을 위한 입력 방식 꾸러미."
 
 #: ../comps-f32.xml.in.h:130 ../comps-f33.xml.in.h:126
 #: ../comps-f34.xml.in.h:126
@@ -792,12 +762,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
 msgid "Legacy Fonts"
-msgstr "레거시 글꼴 "
+msgstr "레거시 글꼴"
 
 #: ../comps-f32.xml.in.h:152 ../comps-f33.xml.in.h:148
 #: ../comps-f34.xml.in.h:148
 msgid "Older bitmap and vector fonts packages"
-msgstr "이전 비트맵 및 벡터 글꼴 패키지 "
+msgstr "이전 비트맵 및 벡터 글꼴 패키지"
 
 #: ../comps-f32.xml.in.h:153 ../comps-f33.xml.in.h:149
 #: ../comps-f34.xml.in.h:149
@@ -838,13 +808,13 @@ msgstr ""
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
 msgid "LibreOffice Development"
-msgstr "LibreOffice 개발 "
+msgstr "리브레오피스 개발"
 
 #: ../comps-f32.xml.in.h:161 ../comps-f33.xml.in.h:154
 #: ../comps-f34.xml.in.h:154
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
-msgstr "이 패키지는 LibreOffice 확장 또는 매크로를 개발할 때 유용합니다. "
+msgstr "이 꾸러미는 리브레오피스 확장 또는 매크로를 개발할 때 유용합니다."
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
@@ -877,8 +847,7 @@ msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
-"LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 "
-"컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다. "
+"LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다."
 
 #: ../comps-f32.xml.in.h:168 ../comps-f33.xml.in.h:161
 #: ../comps-f34.xml.in.h:161
@@ -913,13 +882,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
-"LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 "
-"컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다. "
+"LXDE는 넷북 및 모바일 장치와 구형 컴퓨터와 같은 낮은 사양의 하드웨어를 갖는 컴퓨터를 위해 설계된 경량 X11 데스크탑 환경입니다."
 
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
@@ -959,9 +926,8 @@ msgstr "응용 프로그램"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "다양한 작업을 위한 응용 프로그램"
+msgstr "MATE 데스크탑을 위한 응용프로그램."
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
@@ -978,11 +944,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
-msgstr "메디컬 애플리케이션 "
+msgstr "의학용 응용프로그램"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr "이는 건강 관리와 관련된 애플리케이션 그룹입니다. "
+msgstr "이는 건강 관리와 관련된 응용프로그램 그룹입니다."
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
@@ -992,21 +958,19 @@ msgstr "Milkymist"
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr "Milkymist 하드웨어 엔지니어를 위한 도구 체인 "
+msgstr "Milkymist 하드웨어 엔지니어를 위한 도구모음."
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
 msgid "MinGW cross-compiler"
-msgstr "MinGW 크로스 컴파일러 "
+msgstr "MinGW 크로스 컴파일러"
 
 #: ../comps-f32.xml.in.h:190 ../comps-f33.xml.in.h:181
 #: ../comps-f34.xml.in.h:181
 msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
-msgstr ""
-"Fedora 내의 32 비트 윈도우 대상, 테스트 및 설치 프로그램 구축에서 크로스 컴파"
-"일 프로그램을 위한 지원  "
+msgstr "페도라 내의 32 비트 윈도우 대상, 시험 및 설치 프로그램 구축에서 크로스 컴파일 프로그램을 위한 지원."
 
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
@@ -1093,34 +1057,29 @@ msgstr "OCaml"
 
 #: ../comps-f32.xml.in.h:206 ../comps-f33.xml.in.h:197
 #: ../comps-f34.xml.in.h:197
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
-msgstr ""
-"Objective CAML 프로그래밍 언어 및 라이브러리를 사용하여 소프트웨어 개발 지"
-"원   "
+msgstr "객관적인 CAML 프로그래밍 언어 및 라이브러리를 사용하여 소프트웨어 개발 지원."
 
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
 msgid "Office/Productivity"
-msgstr "Office/제품 도구  "
+msgstr "사무/생산성"
 
 #: ../comps-f32.xml.in.h:208 ../comps-f33.xml.in.h:199
 #: ../comps-f34.xml.in.h:199
 msgid "The applications include office suites, PDF viewers, and more."
-msgstr ""
-"이 응용 프로그램은 office 프로그램 모음, PDF 보기 프로그램 등을 포함합니다. "
+msgstr "이 응용 프로그램은 사무용 제품군, PDF 표시기 등을 포함합니다."
 
 #: ../comps-f32.xml.in.h:209
 msgid "Online Help and Documentation"
-msgstr "온라인 도움말 및 문서 "
+msgstr "온라인 도움말과 문서"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
 msgid "Pantheon Desktop"
-msgstr "데스크탑 "
+msgstr "Pantheon 데스크탑"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1130,12 +1089,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
 msgid "Perl Development"
-msgstr "Perl 개발  "
+msgstr "펄 개발"
 
 #: ../comps-f32.xml.in.h:213 ../comps-f33.xml.in.h:203
 #: ../comps-f34.xml.in.h:203
 msgid "Support for developing programs in the Perl programming language."
-msgstr "Perl 프로그래밍 언어로 작성된 개발용 프로그램 지원.  "
+msgstr "펄 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 
 #: ../comps-f32.xml.in.h:214 ../comps-f33.xml.in.h:204
 #: ../comps-f34.xml.in.h:204
@@ -1204,7 +1163,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
 msgid "Robotics"
-msgstr "로봇 공학 "
+msgstr "로봇 공학"
 
 #: ../comps-f32.xml.in.h:227 ../comps-f33.xml.in.h:219
 #: ../comps-f34.xml.in.h:219
@@ -1284,9 +1243,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "서버 변형에 대한 정책 패키지 "
+msgstr "서버 제품에 대한 필수 꾸러미."
 
 #: ../comps-f32.xml.in.h:243 ../comps-f33.xml.in.h:235
 #: ../comps-f34.xml.in.h:235
@@ -1350,12 +1308,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:253 ../comps-f33.xml.in.h:245
 #: ../comps-f34.xml.in.h:245
 msgid "Sugar Desktop Environment"
-msgstr "Sugar 데스크탑 환경 "
+msgstr "Sugar 데스크탑 환경"
 
 #: ../comps-f32.xml.in.h:254 ../comps-f33.xml.in.h:246
 #: ../comps-f34.xml.in.h:246
 msgid "A software playground for learning about learning."
-msgstr "학습을 위한 학습용 소프트웨어 플레이 그라운드입니다.  "
+msgstr "배움에 대한 학습용 소프트웨어 놀이터입니다."
 
 #: ../comps-f32.xml.in.h:255 ../comps-f33.xml.in.h:247
 #: ../comps-f34.xml.in.h:247
@@ -1439,26 +1397,24 @@ msgstr "이 도구를 사용하여 시스템 상에서 웹서버를 운영할 �
 #: ../comps-f32.xml.in.h:269 ../comps-f33.xml.in.h:261
 #: ../comps-f34.xml.in.h:261
 msgid "Window Managers"
-msgstr "윈도우 관리자 "
+msgstr "윈도우 관리자"
 
 #: ../comps-f32.xml.in.h:270 ../comps-f33.xml.in.h:262
 #: ../comps-f34.xml.in.h:262
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
-msgstr "대형 데스크탑 환경의 일부분이 아닌 간단한 윈도우 관리자입니다. "
+msgstr "대형 데스크탑 환경의 일부분이 아닌 간단한 윈도우 관리자입니다."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
 msgid "Fedora Workstation ostree support"
-msgstr "워크스테이션 정책 "
+msgstr "워크스테이션 ostree 지원"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "워크스테이션 변형을 위한 정책 패키지 "
+msgstr "워크스테이션 ostree 제품을 위한 필수 꾸러미."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1468,9 +1424,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "워크스테이션 변형을 위한 정책 패키지 "
+msgstr "워크스테이션 제품을 위한 필수 꾸러미."
 
 #: ../comps-f32.xml.in.h:277 ../comps-f33.xml.in.h:269
 #: ../comps-f34.xml.in.h:269
@@ -1626,9 +1581,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "데스크탑 "
+msgstr "LXQt 데스크탑"
 
 #: ../comps-f32.xml.in.h:311 ../comps-f33.xml.in.h:303
 #: ../comps-f34.xml.in.h:303 ../comps-epel7.xml.in.h:299
@@ -1642,10 +1596,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE 데스크탑 "
+msgstr "Deepin 데스크탑"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1704,7 +1656,7 @@ msgstr ""
 #: ../comps-f34.xml.in.h:316 ../comps-epel7.xml.in.h:128
 #: ../comps-epel8.xml.in.h:21
 msgid "KDE Desktop"
-msgstr "KDE 데스크탑 "
+msgstr "KDE 데스크탑"
 
 #: ../comps-f32.xml.in.h:325 ../comps-f33.xml.in.h:317
 #: ../comps-f34.xml.in.h:317 ../comps-epel8.xml.in.h:22
@@ -1713,9 +1665,8 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
-"KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 애플"
-"리케이션이 포함된 고도로 설정 가능한 그래픽 사용자 인터페이스인 KDE Plasma 데"
-"스크탑이 포함되어 있습니다. "
+"KDE SC에는 패널, 데스크탑, 시스템 아이콘, 데스크탑 위젯, 여러 강력한 KDE 응용프로그램이 포함된 고도로 설정 가능한 그래픽 "
+"사용자 연결장치인 KDE Plasma 데스크탑이 포함되어 있습니다."
 
 #: ../comps-f32.xml.in.h:326 ../comps-f33.xml.in.h:318
 #: ../comps-f34.xml.in.h:318 ../comps-epel7.xml.in.h:303
@@ -1762,15 +1713,15 @@ msgstr "기반 시스템"
 #: ../comps-f32.xml.in.h:334 ../comps-f33.xml.in.h:326
 #: ../comps-f34.xml.in.h:326
 msgid "Various core pieces of the system."
-msgstr "다양한 주요 시스템"
+msgstr "시스템의 다양한 핵심 부분."
 
 #: ../comps-f32.xml.in.h:335
 msgid "Content"
-msgstr "콘텐츠 "
+msgstr "내용"
 
 #: ../comps-f32.xml.in.h:336
 msgid "Text and other Free content."
-msgstr "텍스트 및 다른 무료 콘텐츠  "
+msgstr "문서와 다른 무료 내용."
 
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
@@ -1792,12 +1743,12 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
-msgstr "추가 개발 "
+msgstr "추가 개발"
 
 #: ../comps-epel7.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr "애플리케이션 개발을 위한 추가 개발 헤더 및 라이브러리 "
+msgstr "응용프로그램 개발을 위한 추가 개발 헤더와 라이브러리"
 
 #: ../comps-epel7.xml.in.h:3
 msgid "Afrikaans Support"
@@ -1805,11 +1756,11 @@ msgstr "남아프리카 공용 네덜란드어 지원"
 
 #: ../comps-epel7.xml.in.h:4
 msgid "Albanian Support"
-msgstr "알바니아어 지원 "
+msgstr "알바니아어 지원"
 
 #: ../comps-epel7.xml.in.h:5
 msgid "Amazigh Support"
-msgstr "아마지그어 지원 "
+msgstr "아마지그어 지원"
 
 #: ../comps-epel7.xml.in.h:6
 msgid "Arabic Support"
@@ -1817,7 +1768,7 @@ msgstr "아랍어 지원"
 
 #: ../comps-epel7.xml.in.h:7
 msgid "Armenian Support"
-msgstr "아르메니아어 지원 "
+msgstr "아르메니아어 지원"
 
 #: ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
@@ -1825,23 +1776,23 @@ msgstr "아삼어 지원"
 
 #: ../comps-epel7.xml.in.h:9
 msgid "Azerbaijani Support"
-msgstr "아제르바이잔어 지원  "
+msgstr "아제르바이잔어 지원"
 
 #: ../comps-epel7.xml.in.h:10
 msgid "Backup Client"
-msgstr "백업 클라이언트 "
+msgstr "백업 클라이언트"
 
 #: ../comps-epel7.xml.in.h:11
 msgid "Client tools for connecting to a backup server and doing backups."
-msgstr "백업 서버와 연결하여 백업을 실행하기 위한 클라이언트 도구 "
+msgstr "백업 서버와 연결하여 백업을 실행하기 위한 클라이언트 도구."
 
 #: ../comps-epel7.xml.in.h:12
 msgid "Backup Server"
-msgstr "백업 서버 "
+msgstr "백업 서버"
 
 #: ../comps-epel7.xml.in.h:13
 msgid "Software to centralize your infrastructure's backups."
-msgstr "인프라의 백업을 중앙 집중화하기 위한 소프트웨어 "
+msgstr "인프라의 백업을 중앙 집중화하기 위한 소프트웨어."
 
 #: ../comps-epel7.xml.in.h:14
 msgid "Base"
@@ -1849,15 +1800,15 @@ msgstr "기본"
 
 #: ../comps-epel7.xml.in.h:15
 msgid "The basic installation of Enterprise Linux."
-msgstr "Enterprise Linux의 기본 설치 "
+msgstr "기업용 리눅스 기본 설치."
 
 #: ../comps-epel7.xml.in.h:16
 msgid "Desktop"
-msgstr "데스크탑 "
+msgstr "데스크탑"
 
 #: ../comps-epel7.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr "씬 클라이언트로 사용될 수 있는 최소한의 데스크탑 "
+msgstr "씬 클라이언트로 사용될 수 있는 최소한의 데스크탑."
 
 #: ../comps-epel7.xml.in.h:18
 msgid "Basque Support"
@@ -1865,7 +1816,7 @@ msgstr "바스크어 지원"
 
 #: ../comps-epel7.xml.in.h:19
 msgid "Belarusian Support"
-msgstr "벨로루시어 지원 "
+msgstr "벨로루시어 지원"
 
 #: ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
@@ -1873,7 +1824,7 @@ msgstr "벵골어 지원"
 
 #: ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
-msgstr "부탄어 지원 "
+msgstr "부탄어 지원"
 
 #: ../comps-epel7.xml.in.h:22
 msgid "Brazilian Portuguese Support"
@@ -1893,7 +1844,7 @@ msgstr "불가리아어 지원"
 
 #: ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
-msgstr "미얀마 (버마어) 지원   "
+msgstr "미얀마 (버마어) 지원"
 
 #: ../comps-epel7.xml.in.h:28
 msgid "Catalan Support"
@@ -1901,11 +1852,11 @@ msgstr "카탈로니아어 지원"
 
 #: ../comps-epel7.xml.in.h:29
 msgid "Chhattisgarhi Support"
-msgstr "치하티스가리어 지원 "
+msgstr "치하티스가리어 지원"
 
 #: ../comps-epel7.xml.in.h:30
 msgid "Chichewa Support"
-msgstr "치체와어 지원  "
+msgstr "치체와어 지원"
 
 #: ../comps-epel7.xml.in.h:31
 msgid "Chinese Support"
@@ -1913,38 +1864,37 @@ msgstr "중국어 지원"
 
 #: ../comps-epel7.xml.in.h:32
 msgid "CIFS file server"
-msgstr "CIFS 파일 서버 "
+msgstr "CIFS 파일 서버"
 
 #: ../comps-epel7.xml.in.h:33
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr "Linux와 Microsoft Windows 시스템 간의 공유 파일 "
+msgstr "리눅스와 MS 윈도우 시스템 간의 공유 파일."
 
 #: ../comps-epel7.xml.in.h:36
 msgid "Compatibility libraries"
-msgstr "호환 라이브러리 "
+msgstr "호환 라이브러리"
 
 #: ../comps-epel7.xml.in.h:37
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr ""
-"이전 Enterprise Linux 버전에 빌드된 애플리케이션에 대한 호환 라이브러리 "
+msgstr "기업용 리눅스 앞전 버전에 구성된 응용프로그램을 위한 호환 라이브러리."
 
 #: ../comps-epel7.xml.in.h:38
 msgid "Console internet tools"
-msgstr "콘솔 인터넷 도구 "
+msgstr "콘솔 인터넷 도구"
 
 #: ../comps-epel7.xml.in.h:39
 msgid "Console internet access tools, often used by administrators."
-msgstr "콘솔 인터넷 액세스 도구, 주로 관리자에 의해 사용됨. "
+msgstr "콘솔 인터넷 액세스 도구, 주로 관리자에 의해 사용됨."
 
 #: ../comps-epel7.xml.in.h:40
 msgid "Coptic Support"
-msgstr "콥트어 지원  "
+msgstr "콥트어 지원"
 
 #: ../comps-epel7.xml.in.h:42
 msgid "Smallest possible installation."
-msgstr "최소 설치 "
+msgstr "가능한 최소 설치."
 
 #: ../comps-epel7.xml.in.h:43
 msgid "Croatian Support"
@@ -1960,63 +1910,59 @@ msgstr "덴마크어 지원"
 
 #: ../comps-epel7.xml.in.h:46
 msgid "Debugging Tools"
-msgstr "디버깅 도구 "
+msgstr "디버깅 도구"
 
 #: ../comps-epel7.xml.in.h:47
 msgid ""
 "Tools for debugging misbehaving applications and diagnosing performance "
 "problems."
-msgstr ""
-"제대로 작동하지 않는 애플리케이션을 디버깅하고 성능 문제를 진단하기 위한 도"
-"구 "
+msgstr "제대로 작동하지 않는 응용프로그램을 디버깅하고 성능 문제를 진단하기 위한 도구."
 
 #: ../comps-epel7.xml.in.h:48
 msgid "Desktop Debugging and Performance Tools"
-msgstr "데스크탑 디버깅 및 성능 도구  "
+msgstr "데스크탑 디버깅과 성능 도구"
 
 #: ../comps-epel7.xml.in.h:49
 msgid "GUI tools for debugging applications and performance."
-msgstr "애플리케이션 및 성능 디버깅을 위한 GUI 도구 "
+msgstr "응용프로그램 디버깅과 성능을 위한 GUI 도구."
 
 #: ../comps-epel7.xml.in.h:50
 msgid "Desktop Platform"
-msgstr "데스크탑 플랫폼 "
+msgstr "데스크탑 기반"
 
 #: ../comps-epel7.xml.in.h:51
 msgid "Supported libraries for the Enterprise Linux Desktop Platform."
-msgstr "Enterprise Linux 데스크탑 플랫폼용 지원 라이브러리 "
+msgstr "기업용 리눅스데스크탑 기반을 위한 지원 라이브러리."
 
 #: ../comps-epel7.xml.in.h:52
 msgid "Desktop Platform Development"
-msgstr "데스크탑 플랫폼 개발 "
+msgstr "데스크탑 기반 개발"
 
 #: ../comps-epel7.xml.in.h:53
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr ""
-"Enterprise Linux 데스크탑 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 "
-"개발 헤더 및 라이브러리 "
+msgstr "기업용 리눅스 데스크탑 플랫폼에서 실행하기 위해 응용프로그램 개발을 위한 개발 헤더 및 라이브러리."
 
 #: ../comps-epel7.xml.in.h:54
 msgid "Development tools"
-msgstr "개발 도구 "
+msgstr "개발 도구"
 
 #: ../comps-epel7.xml.in.h:55
 msgid "A basic development environment."
-msgstr "기본적인 개발 환경 "
+msgstr "기본적인 개발 환경."
 
 #: ../comps-epel7.xml.in.h:57
 msgid "Tools for connecting via PPP or ISDN."
-msgstr "PPP 또는 ISDN을 통한 연결 도구 "
+msgstr "PPP 또는 ISDN을 통한 연결용 도구."
 
 #: ../comps-epel7.xml.in.h:58
 msgid "Directory Client"
-msgstr "디렉토리 클라이언트 "
+msgstr "디렉토리 클라이언트"
 
 #: ../comps-epel7.xml.in.h:59
 msgid "Clients for integration into a network managed by a directory service."
-msgstr "디렉토리 서비스에 의해 관리되는 네트워크로의 통합을 위한 클라이언트 "
+msgstr "디렉토리 서비스에 의해 관리되는 네트워크로의 통합을 위한 클라이언트."
 
 #: ../comps-epel7.xml.in.h:62
 msgid "Dutch Support"
@@ -2024,19 +1970,19 @@ msgstr "네델란드어 지원"
 
 #: ../comps-epel7.xml.in.h:63
 msgid "Eclipse"
-msgstr "Eclipse "
+msgstr "이클립스"
 
 #: ../comps-epel7.xml.in.h:64
 msgid "Eclipse-based Integrated Development Environment."
-msgstr "Eclipse 기반의 통합 개발 환경 "
+msgstr "이클립스 기반의 통합 개발 환경."
 
 #: ../comps-epel7.xml.in.h:66
 msgid "Educational software for learning."
-msgstr "학습을 위한 교육용 소프트웨어 "
+msgstr "학습을 위한 교육용 소프트웨어."
 
 #: ../comps-epel7.xml.in.h:68
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "하드웨어 엔지니어를 위한 디자인 및 시뮬레이션 도구 "
+msgstr "하드웨어 엔지니어를 위한 디자인 및 모의실험 도구."
 
 #: ../comps-epel7.xml.in.h:69
 msgid "Emacs"
@@ -2044,11 +1990,11 @@ msgstr "Emacs"
 
 #: ../comps-epel7.xml.in.h:70
 msgid "The GNU Emacs extensible, customizable, text editor."
-msgstr "확장 및 사용자 정의 가능한 GNU Emacs 텍스트 편집기 "
+msgstr "확장 및 사용자 정의 가능한 GNU Emacs 텍스트 편집기."
 
 #: ../comps-epel7.xml.in.h:71
 msgid "Esperanto Support"
-msgstr "에스페란토어 지원 "
+msgstr "에스페란토어 지원"
 
 #: ../comps-epel7.xml.in.h:72
 msgid "Estonian Support"
@@ -2064,15 +2010,15 @@ msgstr "페로스어 지원"
 
 #: ../comps-epel7.xml.in.h:76 ../comps-epel8.xml.in.h:2
 msgid "Tools and utilities needed by a Fedora Packager."
-msgstr "Fedora Packager에 필요한 도구 및 유틸리티 "
+msgstr "페도라 꾸러미에 필요한 도구 및 유틸리티."
 
 #: ../comps-epel7.xml.in.h:77
 msgid "Fijian Support"
-msgstr "피지어 지원        "
+msgstr "피지어 지원"
 
 #: ../comps-epel7.xml.in.h:78
 msgid "Filipino Support"
-msgstr "필리핀어 지원 "
+msgstr "필리핀어 지원"
 
 #: ../comps-epel7.xml.in.h:79
 msgid "Finnish Support"
@@ -2080,7 +2026,7 @@ msgstr "핀란드어 지원"
 
 #: ../comps-epel7.xml.in.h:81
 msgid "Fonts for rendering text in a variety of languages and scripts."
-msgstr "다양한 언어 및 스크립트로 텍스트를 렌더링하기 위한 글꼴 "
+msgstr "다양한 언어 및 스크립트로 텍스트를 렌더링하기 위한 글꼴."
 
 #: ../comps-epel7.xml.in.h:82
 msgid "French Support"
@@ -2088,19 +2034,19 @@ msgstr "프랑스어 지원"
 
 #: ../comps-epel7.xml.in.h:83
 msgid "Frisian Support"
-msgstr "프리지아어 지원   "
+msgstr "프리지아어 지원"
 
 #: ../comps-epel7.xml.in.h:84
 msgid "Friulian Support"
-msgstr "프리우리안어 지원   "
+msgstr "프리우리안어 지원"
 
 #: ../comps-epel7.xml.in.h:85
 msgid "FTP server"
-msgstr "FTP 서버 "
+msgstr "FTP 서버"
 
 #: ../comps-epel7.xml.in.h:86
 msgid "Allows the system to act as an FTP server."
-msgstr "시스템이 FTP 서버로 작동할 수 있게 합니다. "
+msgstr "FTP 서버로 동작 할 수 있도록 시스템을 허용합니다."
 
 #: ../comps-epel7.xml.in.h:87
 msgid "Gaelic Support"
@@ -2112,15 +2058,15 @@ msgstr "갈리시아어 지원"
 
 #: ../comps-epel7.xml.in.h:89
 msgid "General Purpose Desktop"
-msgstr "일반적인 목적의 데스크탑 "
+msgstr "일반적인 목적의 데스크탑"
 
 #: ../comps-epel7.xml.in.h:90
 msgid "A general purpose desktop."
-msgstr "일반적인 목적의 데스크탑 "
+msgstr "일반적인 목적의 데스크탑."
 
 #: ../comps-epel7.xml.in.h:91
 msgid "Georgian Support"
-msgstr "그루지아어 지원 "
+msgstr "그루지아어 지원"
 
 #: ../comps-epel7.xml.in.h:92
 msgid "German Support"
@@ -2128,20 +2074,20 @@ msgstr "독일어 지원"
 
 #: ../comps-epel7.xml.in.h:93
 msgid "Graphical Administration Tools"
-msgstr "그래픽 관리 도구 "
+msgstr "그래픽 관리 도구"
 
 #: ../comps-epel7.xml.in.h:94
 msgid ""
 "Graphical system administration tools for managing many aspects of a system."
-msgstr "시스템의 여러 측면을 관리하기 위한 그래픽 시스템 관리 도구 "
+msgstr "시스템의 여러 측면을 관리하기 위한 그래픽 시스템 관리 도구."
 
 #: ../comps-epel7.xml.in.h:95
 msgid "Graphics Creation Tools"
-msgstr "그래픽 생성 도구 "
+msgstr "그래픽 생성 도구"
 
 #: ../comps-epel7.xml.in.h:96
 msgid "Software for creation and manipulation of still images."
-msgstr "스틸 이미지 생성 및 수정을 위한 소프트웨어 "
+msgstr "스틸 이미지 생성 및 수정을 위한 소프트웨어."
 
 #: ../comps-epel7.xml.in.h:97
 msgid "Greek Support"
@@ -2153,11 +2099,11 @@ msgstr "구자라티어 지원"
 
 #: ../comps-epel7.xml.in.h:99
 msgid "Hardware monitoring utilities"
-msgstr "하드웨어 모니터링 유틸리티 "
+msgstr "하드웨어 감시용 유틸리티"
 
 #: ../comps-epel7.xml.in.h:100
 msgid "A set of tools to monitor server hardware"
-msgstr "서버 하드웨어를 모니터하기 위한 도구 모음 "
+msgstr "서버 하드웨어를 감시용 도구 모음"
 
 #: ../comps-epel7.xml.in.h:103
 msgid "Hebrew Support"
@@ -2165,7 +2111,7 @@ msgstr "히브리어 지원"
 
 #: ../comps-epel7.xml.in.h:104
 msgid "Hiligaynon Support"
-msgstr "힐리가이노어 지원   "
+msgstr "힐리가이노어 지원"
 
 #: ../comps-epel7.xml.in.h:105
 msgid "Hindi Support"
@@ -2185,43 +2131,42 @@ msgstr "인도네시아어 지원"
 
 #: ../comps-epel7.xml.in.h:109
 msgid "Infiniband Support"
-msgstr "Infiniband 지원 "
+msgstr "Infiniband 지원"
 
 #: ../comps-epel7.xml.in.h:110
 msgid ""
 "Software designed for supporting clustering and grid connectivity using RDMA-"
 "based InfiniBand and iWARP fabrics."
 msgstr ""
-"RDMA 기반 InfiniBand 및 iWARP 패브릭을 사용하여 클러스터링 및 그리드 연결을 "
-"지원하기 위해 설계된 소프트웨어입니다. "
+"RDMA 기반 InfiniBand 및 iWARP 패브릭을 사용하여 클러스터링 및 그리드 연결을 지원하기 위해 설계된 소프트웨어입니다."
 
 #: ../comps-epel7.xml.in.h:112
 msgid "Software for the input of international text."
-msgstr "다양한 언어에 대한 텍스트 입력을 위한 소프트웨어 "
+msgstr "다양한 언어에 대한 텍스트 입력을 위한 소프트웨어."
 
 #: ../comps-epel7.xml.in.h:113
 msgid "Interlingua Support"
-msgstr "인테르링구아 지원 "
+msgstr "인테르링구아 지원"
 
 #: ../comps-epel7.xml.in.h:114
 msgid "Internet Applications"
-msgstr "인터넷 애플리케이션 "
+msgstr "인터넷 응용프로그램"
 
 #: ../comps-epel7.xml.in.h:115
 msgid "Email, chat, and video conferencing software."
-msgstr "이메일, 채팅, 비디오 컨퍼런스 소프트웨어 "
+msgstr "전자우편, 대화, 비디오 화상회의 소프트웨어."
 
 #: ../comps-epel7.xml.in.h:116
 msgid "Internet Browser"
-msgstr "인터넷 브라우저 "
+msgstr "인터넷 검색기"
 
 #: ../comps-epel7.xml.in.h:117
 msgid "Firefox web browser"
-msgstr "Firefox 웹 브라우저 "
+msgstr "파이어폭스 웹 브라우저"
 
 #: ../comps-epel7.xml.in.h:118
 msgid "Inuktitut Support"
-msgstr "이누이트어 지원  "
+msgstr "이누이트어 지원"
 
 #: ../comps-epel7.xml.in.h:119
 msgid "Irish Support"
@@ -2237,11 +2182,11 @@ msgstr "일본어 지원"
 
 #: ../comps-epel7.xml.in.h:122
 msgid "Java Platform"
-msgstr "Java 플랫폼 "
+msgstr "자바 기반(Java Platform)"
 
 #: ../comps-epel7.xml.in.h:123
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr "Enterprise Linux 서버 및 데스크탑 플랫폼을 위한 Java 지원. "
+msgstr "기업용(Enterprise) 리눅스 서버 및 데스크탑 플랫폼을 위한 자바(Java) 지원."
 
 #: ../comps-epel7.xml.in.h:124
 msgid "Kannada Support"
@@ -2249,31 +2194,31 @@ msgstr "칸나다어 지원"
 
 #: ../comps-epel7.xml.in.h:125
 msgid "Kashmiri Support"
-msgstr "카슈미르어 지원  "
+msgstr "카슈미르어 지원"
 
 #: ../comps-epel7.xml.in.h:126
 msgid "Kashubian Support"
-msgstr "카슈비아어 지원  "
+msgstr "카슈비아어 지원"
 
 #: ../comps-epel7.xml.in.h:127
 msgid "Kazakh Support"
-msgstr "카자흐어 지원 "
+msgstr "카자흐어 지원"
 
 #: ../comps-epel7.xml.in.h:129
 msgid "A KDE desktop."
-msgstr "KDE 데스크탑 "
+msgstr "KDE 데스크탑."
 
 #: ../comps-epel7.xml.in.h:130
 msgid "Khmer Support"
-msgstr "크메르어 지원 "
+msgstr "크메르어 지원"
 
 #: ../comps-epel7.xml.in.h:131
 msgid "Kinyarwanda Support"
-msgstr "키냐르완다어 지원 "
+msgstr "키냐르완다어 지원"
 
 #: ../comps-epel7.xml.in.h:132
 msgid "Konkani Support"
-msgstr "콘칸어 지원  "
+msgstr "콘칸어 지원"
 
 #: ../comps-epel7.xml.in.h:133
 msgid "Korean Support"
@@ -2281,59 +2226,57 @@ msgstr "한국어 지원"
 
 #: ../comps-epel7.xml.in.h:134
 msgid "Kurdish Support"
-msgstr "쿠르드어 지원  "
+msgstr "쿠르드어 지원"
 
 #: ../comps-epel7.xml.in.h:135
 msgid "Lao Support"
-msgstr "라오어 지원 "
+msgstr "라오어 지원"
 
 #: ../comps-epel7.xml.in.h:136
 msgid "Large Systems Performance"
-msgstr "대규모 시스템 성능 "
+msgstr "대규모 시스템 성능"
 
 #: ../comps-epel7.xml.in.h:137
 msgid "Performance support tools for large systems"
-msgstr "대규모 시스템을 위한 성능 지원 도구   "
+msgstr "대규모 시스템을 위한 성능 지원 도구"
 
 #: ../comps-epel7.xml.in.h:138
 msgid "Latin Support"
-msgstr "라틴어 지원       "
+msgstr "라틴어 지원"
 
 #: ../comps-epel7.xml.in.h:139
 msgid "Latvian Support"
-msgstr "라트비아어 지원  "
+msgstr "라트비아어 지원"
 
 #: ../comps-epel7.xml.in.h:140
 msgid "Legacy UNIX compatibility"
-msgstr "레거시 UNIX 호환성 "
+msgstr "기존 유닉스 호환성(Legacy Unix compatibility)"
 
 #: ../comps-epel7.xml.in.h:141
 msgid ""
 "Compatibility programs for migration from or working with legacy UNIX "
 "environments."
-msgstr "레거시 UNIX 환경과 작동하거나 이전하기 위한 호환 프로그램 "
+msgstr "기존 유닉스 환경에 동작하거나 이전하기 위한 호환 프로그램."
 
 #: ../comps-epel7.xml.in.h:142
 msgid "Legacy X Window System compatibility"
-msgstr "레거시 X Window 시스템 호환성 "
+msgstr "기존 X Window 시스템 호환성"
 
 #: ../comps-epel7.xml.in.h:143
 msgid ""
 "Compatibility programs for migration from or working with legacy X Window "
 "System environments."
-msgstr "레거시 X Window 시스템 환경과 작동하거나 이전하기 위한 호환 프로그램 "
+msgstr "기존 X 윈도우시스템 환경과 작동하거나 이전하기 위한 호환 프로그램."
 
 #: ../comps-epel7.xml.in.h:144
 msgid "Basic legacy X Window System compatibility"
-msgstr "기본 레거시 X Window 시스템 호환성 "
+msgstr "기본적인 기존 X윈도우 시스템 호환성"
 
 #: ../comps-epel7.xml.in.h:145
 msgid ""
 "Minimal set of compatibility programs for migration from or working with "
 "legacy X Window System environments."
-msgstr ""
-"레거시 X Window 시스템 환경과 작동하고 이전하기 위한 최소한의 호환 프로그램 "
-"모음 "
+msgstr "기존 X 윈도우 시스템 환경과 작동하고 이전하기 위한 최소한의 호환 프로그램 모음."
 
 #: ../comps-epel7.xml.in.h:146
 msgid "Lithuanian Support"
@@ -2341,39 +2284,39 @@ msgstr "리투아니아어 지원"
 
 #: ../comps-epel7.xml.in.h:147
 msgid "Low Saxon Support"
-msgstr "저지 색슨어 지원 "
+msgstr "로우 색슨어 지원"
 
 #: ../comps-epel7.xml.in.h:148
 msgid "Luxembourgish Support"
-msgstr "룩셈부르크어 지원  "
+msgstr "룩셈부르크어 지원"
 
 #: ../comps-epel7.xml.in.h:151
 msgid "Macedonian Support"
-msgstr "마케도니아어 지원     "
+msgstr "마케도니아어 지원"
 
 #: ../comps-epel7.xml.in.h:152
 msgid "E-mail server"
-msgstr "E-mail 서버 "
+msgstr "전자우편 서버"
 
 #: ../comps-epel7.xml.in.h:153
 msgid "Allows the system to act as a SMTP and/or IMAP e-mail server."
-msgstr "시스템이 SMTP 또는 IMAP 이메일 서버로 작동할 수 있게 합니다. "
+msgstr "시스템이 SMTP 또는 IMAP 이메일 서버로 작동할 수 있게 합니다."
 
 #: ../comps-epel7.xml.in.h:154
 msgid "Mainframe Access"
-msgstr "메인 프레임 액세스 "
+msgstr "메인프레임(Mainframe) 접근"
 
 #: ../comps-epel7.xml.in.h:155
 msgid "Tools for accessing mainframe computing resources."
-msgstr "메인 프레임 컴퓨팅 리소스에 액세스하기 위한 도구 "
+msgstr "메인프레임 컴퓨팅 자원에 접근하기 위한 도구"
 
 #: ../comps-epel7.xml.in.h:156
 msgid "Maithili Support"
-msgstr "마이틸라어 지원  "
+msgstr "마이틸라어 지원"
 
 #: ../comps-epel7.xml.in.h:157
 msgid "Malagasy Support"
-msgstr "말라가시어 지원 "
+msgstr "말라가시어 지원"
 
 #: ../comps-epel7.xml.in.h:158
 msgid "Malay Support"
@@ -2385,15 +2328,15 @@ msgstr "말라얄람어 지원"
 
 #: ../comps-epel7.xml.in.h:160
 msgid "Maltese Support"
-msgstr "말타어 지원  "
+msgstr "말타어 지원"
 
 #: ../comps-epel7.xml.in.h:161
 msgid "Manx Support"
-msgstr "맹크스어 지원  "
+msgstr "맹크스어 지원"
 
 #: ../comps-epel7.xml.in.h:162
 msgid "Maori Support"
-msgstr "마오리어 지원  "
+msgstr "마오리어 지원"
 
 #: ../comps-epel7.xml.in.h:163
 msgid "Marathi Support"
@@ -2401,59 +2344,59 @@ msgstr "마라티어 지원"
 
 #: ../comps-epel7.xml.in.h:168
 msgid "Mongolian Support"
-msgstr "몽골어 지원  "
+msgstr "몽골어 지원"
 
 #: ../comps-epel7.xml.in.h:169
 msgid "MySQL Database server"
-msgstr "MySQL 데이터베이스 서버 "
+msgstr "MySQL 자료저장소(Database) 서버"
 
 #: ../comps-epel7.xml.in.h:170
 msgid "The MySQL SQL database server, and associated packages."
-msgstr "MySQL SQL 데이터베이스 서버 및 관련 패키지 "
+msgstr "MySQL SQL 자료저장소(database) 서버 및 관련 패키지"
 
 #: ../comps-epel7.xml.in.h:171
 msgid "MySQL Database client"
-msgstr "MySQL 데이터베이스 클라이언트 "
+msgstr "MySQL 자료저장소(database) 클라이언트"
 
 #: ../comps-epel7.xml.in.h:172
 msgid "The MySQL SQL database client, and associated packages."
-msgstr "MySQL SQL 데이터베이스 클라이언트 및 관련 패키지 "
+msgstr "MySQL SQL 자료저장소(database) 클라이언트 및 관련 꾸러미."
 
 #: ../comps-epel7.xml.in.h:173
 msgid "Nepali Support"
-msgstr "네팔어 지원  "
+msgstr "네팔어 지원"
 
 #: ../comps-epel7.xml.in.h:174
 msgid "Network file system client"
-msgstr "네트워크 파일 시스템 클라이언트 "
+msgstr "네트워크 파일 시스템 클라이언트"
 
 #: ../comps-epel7.xml.in.h:175
 msgid "Enables the system to attach to network storage."
-msgstr "시스템을 네트워크 스토리지로 연결할 수 있게 합니다. "
+msgstr "시스템을 네트워크 저장소로 연결 할 수 있게 합니다."
 
 #: ../comps-epel7.xml.in.h:176
 msgid "Network Infrastructure Server"
-msgstr "네트워크 인프라 서버 "
+msgstr "네트워크 인프라스트럭처 서버"
 
 #: ../comps-epel7.xml.in.h:177
 msgid "Servers for core network protocols and services, such as DHCP or DNS."
-msgstr "DHCP 또는 DNS와 같은 주요 네트워크 프로토콜 및 서비스를 위한 서버 "
+msgstr "DHCP 또는 DNS와 같은 주요 네트워크 통신규약 및 서비스를 위한 서버."
 
 #: ../comps-epel7.xml.in.h:178
 msgid "Networking Tools"
-msgstr "네트워크 도구 "
+msgstr "네트워킹 도구"
 
 #: ../comps-epel7.xml.in.h:179
 msgid "Tools for configuring and analyzing computer networks."
-msgstr "컴퓨터 네트워크 설정 및 분석을 위한 도구 "
+msgstr "컴퓨터 네트워크 설정 및 분석을 위한 도구"
 
 #: ../comps-epel7.xml.in.h:180
 msgid "NFS file server"
-msgstr "NFS 파일 서버 "
+msgstr "NFS 파일 서버"
 
 #: ../comps-epel7.xml.in.h:181
 msgid "NFS file server."
-msgstr "NFS 파일 서버 "
+msgstr "NFS 파일 서버."
 
 #: ../comps-epel7.xml.in.h:182
 msgid "Northern Sotho Support"
@@ -2465,15 +2408,15 @@ msgstr "노르웨이어 지원"
 
 #: ../comps-epel7.xml.in.h:184
 msgid "Occitan Support"
-msgstr "오크어 지원     "
+msgstr "오크어 지원"
 
 #: ../comps-epel7.xml.in.h:185
 msgid "Office Suite and Productivity"
-msgstr "Office 프로그램 모음 및 제품 도구 "
+msgstr "사무용 모음과 생산성"
 
 #: ../comps-epel7.xml.in.h:186
 msgid "A full-purpose office suite, and other productivity tools."
-msgstr "완전한 목적의 office 프로그램 모음 및 제품 도구 "
+msgstr "모든-목적의 사무용 모음, 그리고 다른 생산성 도구."
 
 #: ../comps-epel7.xml.in.h:187
 msgid "Oriya Support"
@@ -2481,31 +2424,31 @@ msgstr "오리야어 지원"
 
 #: ../comps-epel7.xml.in.h:188
 msgid "Performance Tools"
-msgstr "성능 도구 "
+msgstr "성능 도구"
 
 #: ../comps-epel7.xml.in.h:189
 msgid "Tools for diagnosing system and application-level performance problems."
-msgstr "시스템 및 애플리케이션 레벨 성능 문제를 진단하기 위한 도구 "
+msgstr "시스템과 응용프로그램-단계 성능 문제 진단을 위한 도구."
 
 #: ../comps-epel7.xml.in.h:190
 msgid "Perl Support"
-msgstr "Perl 지원 "
+msgstr "Perl 지원"
 
 #: ../comps-epel7.xml.in.h:191
 msgid "Perl interfaces to common libraries and functionality."
-msgstr "일반적인 라이브러리 및 기능에 대한 Perl 인터페이스 "
+msgstr "일반적인 라이브러리와 기능에 대한 펄 연결장치."
 
 #: ../comps-epel7.xml.in.h:192
 msgid "Persian Support"
-msgstr "페르시아어 지원  "
+msgstr "페르시아어 지원"
 
 #: ../comps-epel7.xml.in.h:193
 msgid "PHP Support"
-msgstr "PHP 지원 "
+msgstr "PHP 지원"
 
 #: ../comps-epel7.xml.in.h:194
 msgid "PHP web application framework."
-msgstr "PHP 웹 애플리케이션 프레임워크 "
+msgstr "PHP 웹 응용프로그램 프레임워크"
 
 #: ../comps-epel7.xml.in.h:195
 msgid "Polish Support"
@@ -2517,35 +2460,35 @@ msgstr "포르투갈어 지원"
 
 #: ../comps-epel7.xml.in.h:197
 msgid "PostgreSQL Database server"
-msgstr "PostgreSQL 데이터베이스 서버 "
+msgstr "PostgreSQL 자료저장소(database) 서버"
 
 #: ../comps-epel7.xml.in.h:198
 msgid "The PostgreSQL SQL database server, and associated packages."
-msgstr "PostgreSQL SQL 데이터베이스 서버 및 관련 패키지 "
+msgstr "PostgreSQL SQL 자료저장소(database) 서버 및 관련 꾸러미."
 
 #: ../comps-epel7.xml.in.h:199
 msgid "PostgreSQL Database client"
-msgstr "PostgreSQL 데이터베이스 클라이언트 "
+msgstr "PostgreSQL 자료저장소(database) 클라이언트"
 
 #: ../comps-epel7.xml.in.h:200
 msgid "The PostgreSQL SQL database client, and associated packages."
-msgstr "PostgreSQL SQL 데이터베이스 클라이언트 및 관련 패키지 "
+msgstr "PostgreSQL SQL 자료저장소(database) 클라이언트 및 관련 패키지"
 
 #: ../comps-epel7.xml.in.h:201
 msgid "Printing client"
-msgstr "인쇄 클라이언트 "
+msgstr "인쇄 클라이언트"
 
 #: ../comps-epel7.xml.in.h:202
 msgid "Tools for printing to a local printer or a remote print server."
-msgstr "로컬 프린터 또는 원격 프린트 서버로 인쇄하기 위한 도구  "
+msgstr "로컬 프린터 또는 원격 프린트 서버로 인쇄하기 위한 도구."
 
 #: ../comps-epel7.xml.in.h:203
 msgid "Print Server"
-msgstr "프린트 서버 "
+msgstr "프린트 서버"
 
 #: ../comps-epel7.xml.in.h:204
 msgid "Allows the system to act as a print server."
-msgstr "시스템이 프린트 서버로 작동하게 합니다. "
+msgstr "시스템이 프린트 서버로 동작을 허용합니다."
 
 #: ../comps-epel7.xml.in.h:205
 msgid "Punjabi Support"
@@ -2553,7 +2496,7 @@ msgstr "펀잡어 지원"
 
 #: ../comps-epel7.xml.in.h:206
 msgid "Remote Desktop Clients"
-msgstr "원격 데스크탑 클라이언트 "
+msgstr "원격 데스크탑 클라이언트"
 
 #: ../comps-epel7.xml.in.h:207
 msgid "Romanian Support"
@@ -2565,28 +2508,28 @@ msgstr "러시아어 지원"
 
 #: ../comps-epel7.xml.in.h:209
 msgid "Sanskrit Support"
-msgstr "산스크리트어 지원  "
+msgstr "산스크리트어 지원"
 
 #: ../comps-epel7.xml.in.h:210
 msgid "Sardinian Support"
-msgstr "사르디니아어 지원  "
+msgstr "사르디니아어 지원"
 
 #: ../comps-epel7.xml.in.h:211
 msgid "Scientific support"
-msgstr "과학 기술 지원 "
+msgstr "과학 기술 지원"
 
 #: ../comps-epel7.xml.in.h:212
 msgid ""
 "Tools for mathematical and scientific computations, and parallel computing."
-msgstr "수학 및 과학적 연산과 병렬 켬퓨팅을 위한 도구 "
+msgstr "수학 및 과학적 연산과 병렬 켬퓨팅을 위한 도구."
 
 #: ../comps-epel7.xml.in.h:213
 msgid "Security Tools"
-msgstr "보안 도구 "
+msgstr "보안 도구"
 
 #: ../comps-epel7.xml.in.h:214
 msgid "Security tools for integrity and trust verification."
-msgstr "무결성 및 신뢰성 확인을 위한 보안 도구 "
+msgstr "무결성 및 신뢰성 확인을 위한 보안 도구."
 
 #: ../comps-epel7.xml.in.h:215
 msgid "Serbian Support"
@@ -2594,35 +2537,33 @@ msgstr "세르비아어 지원"
 
 #: ../comps-epel7.xml.in.h:216
 msgid "Server Platform"
-msgstr "서버 플랫폼 "
+msgstr "서버 기반(Server Platform)"
 
 #: ../comps-epel7.xml.in.h:217
 msgid "Supported libraries for the Enterprise Linux Server Platform."
-msgstr "Enterprise Linux 서버 플랫폼용 지원 라이브러리 "
+msgstr "기업용 리눅스 서버 기반 지원 라이브러리."
 
 #: ../comps-epel7.xml.in.h:218
 msgid "Server Platform Development"
-msgstr "서버 플랫폼 개발 "
+msgstr "서버 기반 개발"
 
 #: ../comps-epel7.xml.in.h:219
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Server Platform."
-msgstr ""
-"Enterprise Linux 서버 플랫폼에서 실행하기 위해 애플리케이션 개발을 위한 개발 "
-"헤더 및 라이브러리 "
+msgstr "기업용 리눅스 서버 기반에서 실행하기 위해 응용프로그램 개발을 위한 개발 헤더와 라이브러리."
 
 #: ../comps-epel7.xml.in.h:220
 msgid "Server Policy"
-msgstr "서버 정책 "
+msgstr "서버 정책"
 
 #: ../comps-epel7.xml.in.h:221
 msgid "Policy packages for the Server variant."
-msgstr "서버 변형에 대한 정책 패키지 "
+msgstr "서버 변형에 대한 정책 꾸러미."
 
 #: ../comps-epel7.xml.in.h:222
 msgid "Sindhi Support"
-msgstr "신드어 지원 "
+msgstr "신드어 지원"
 
 #: ../comps-epel7.xml.in.h:223
 msgid "Sinhala Support"
@@ -2638,11 +2579,11 @@ msgstr "슬로베이아어 지원"
 
 #: ../comps-epel7.xml.in.h:226
 msgid "Smart card support"
-msgstr "스마트 카드 지원 "
+msgstr "스마트 카드 지원"
 
 #: ../comps-epel7.xml.in.h:227
 msgid "Support for using smart card authentication."
-msgstr "스마트 카드 인증 사용을 위한 지원 "
+msgstr "스마트 카드 인증 사용을 위한 지원"
 
 #: ../comps-epel7.xml.in.h:228
 msgid "Southern Ndebele Support"
@@ -2658,39 +2599,39 @@ msgstr "스페인어 지원"
 
 #: ../comps-epel7.xml.in.h:231
 msgid "FCoE Storage Client"
-msgstr "FCoE 스토리지 클라이언트 "
+msgstr "FCoE 저장소 클라이언트"
 
 #: ../comps-epel7.xml.in.h:232
 msgid "Fiber Channel over Ethernet support"
-msgstr "이더넷을 통한 파이버 채널 지원 "
+msgstr "이더넷 지원을 통한 광 채널"
 
 #: ../comps-epel7.xml.in.h:233
 msgid "iSCSI Storage Client"
-msgstr "iSCSI 스토리지 클라이언트 "
+msgstr "iSCSI 저장소 클라이언트"
 
 #: ../comps-epel7.xml.in.h:234
 msgid "iSCSI client support"
-msgstr "iSCSI 클라이언트 지원 "
+msgstr "iSCSI 클라이언트 지원"
 
 #: ../comps-epel7.xml.in.h:235
 msgid "Storage Availability Tools"
-msgstr "스토리지 가용성 도구 "
+msgstr "저장소 가용성 도구"
 
 #: ../comps-epel7.xml.in.h:236
 msgid "A set of tools to manage SAN path availability"
-msgstr "SAN 경로 가용성을 관리하기 위한 도구 모음 "
+msgstr "SAN 경로 가용성을 관리하기 위한 도구 모음"
 
 #: ../comps-epel7.xml.in.h:237
 msgid "Network Storage Server"
-msgstr "네트워크 스토리지 서버 "
+msgstr "네트워크 저장소 서버"
 
 #: ../comps-epel7.xml.in.h:238
 msgid "iSCSI, iSER, and iSNS network storage server."
-msgstr "iSCSI, iSER, iSNS 네트워크 스토리지 서버 "
+msgstr "iSCSI, iSER, iSNS 네트워크 저장소 서버."
 
 #: ../comps-epel7.xml.in.h:239
 msgid "Swahili Support"
-msgstr "스와힐리어 지원  "
+msgstr "스와힐리어 지원"
 
 #: ../comps-epel7.xml.in.h:240
 msgid "Swati Support"
@@ -2702,59 +2643,59 @@ msgstr "스웨덴어 지원"
 
 #: ../comps-epel7.xml.in.h:242
 msgid "System administration tools"
-msgstr "시스템 관리 도구 "
+msgstr "시스템 관리 도구"
 
 #: ../comps-epel7.xml.in.h:243
 msgid "Utilities useful in system administration."
-msgstr "시스템 관리에서 유용한 유틸리티 "
+msgstr "시스템 관리에 유용한 유틸리티"
 
 #: ../comps-epel7.xml.in.h:244
 msgid "System Management"
-msgstr "시스템 관리 "
+msgstr "시스템 관리"
 
 #: ../comps-epel7.xml.in.h:245
 msgid "Various low-level hardware management frameworks."
-msgstr "다양한 저수준 하드웨어 관리 프레임워크 "
+msgstr "다양한 저-수준 하드웨어 관리 프레임워크"
 
 #: ../comps-epel7.xml.in.h:246
 msgid "Messaging Client Support"
-msgstr "메세징 클라이언트 지원 "
+msgstr "메세징 클라이언트 지원"
 
 #: ../comps-epel7.xml.in.h:247
 msgid "AMQP messaging client for systems management."
-msgstr "시스템 관리를 위한 AMQP 메세징 클라이언트 "
+msgstr "시스템 관리를 위한 AMQP 메세징 클라이언트."
 
 #: ../comps-epel7.xml.in.h:248
 msgid "Messaging Server Support"
-msgstr "메세징 서버 지원 "
+msgstr "메세징 서버 지원"
 
 #: ../comps-epel7.xml.in.h:249
 msgid "AMQP messaging broker for systems management."
-msgstr "시스템 관리를 위한 AMQP 메세징 브로커 "
+msgstr "시스템 관리를 위한 AMQP 메세징 브로커."
 
 #: ../comps-epel7.xml.in.h:250
 msgid "SNMP Support"
-msgstr "SNMP 도구 "
+msgstr "SNMP 도구"
 
 #: ../comps-epel7.xml.in.h:251
 msgid "SNMP management agent."
-msgstr "SNMP 관리 에이전트 "
+msgstr "SNMP 관리 에이전트"
 
 #: ../comps-epel7.xml.in.h:252
 msgid "Web-Based Enterprise Management"
-msgstr "웹 기반 엔터프라이즈 관리 "
+msgstr "웹-기반 기업 관리"
 
 #: ../comps-epel7.xml.in.h:253
 msgid "WBEM interface for Enterprise Linux."
-msgstr "Enterprise Linux 용 WBEM 인터페이스 "
+msgstr "기업용 리눅스를 위한 WBEM 연결장치."
 
 #: ../comps-epel7.xml.in.h:254
 msgid "Tagalog Support"
-msgstr "타갈로그어 지원  "
+msgstr "타갈로그어 지원"
 
 #: ../comps-epel7.xml.in.h:255
 msgid "Tajik Support"
-msgstr "타직어 지원  "
+msgstr "타직어 지원"
 
 #: ../comps-epel7.xml.in.h:256
 msgid "Tamil Support"
@@ -2762,11 +2703,11 @@ msgstr "타밀어 지원"
 
 #: ../comps-epel7.xml.in.h:257
 msgid "Technical Writing"
-msgstr "기술 문서 작성 "
+msgstr "기술문서 작성"
 
 #: ../comps-epel7.xml.in.h:258
 msgid "Tools for writing technical documentation."
-msgstr "기술 문서를 작성하기 위한 도구 "
+msgstr "기술 문서 작성용 도구"
 
 #: ../comps-epel7.xml.in.h:259
 msgid "Telugu Support"
@@ -2774,15 +2715,15 @@ msgstr "텔루구어 지원"
 
 #: ../comps-epel7.xml.in.h:260
 msgid "Tetum Support"
-msgstr "테툼어 지원  "
+msgstr "테툼어 지원"
 
 #: ../comps-epel7.xml.in.h:261
 msgid "TeX support"
-msgstr "TeX 지원 "
+msgstr "TeX 지원"
 
 #: ../comps-epel7.xml.in.h:262
 msgid "Support for the TeX document formatting system."
-msgstr "TeX 문서 포맷 시스템 지원 "
+msgstr "TeX 문서 구성 시스템 지원"
 
 #: ../comps-epel7.xml.in.h:263
 msgid "Thai Support"
@@ -2790,7 +2731,7 @@ msgstr "태국어 지원"
 
 #: ../comps-epel7.xml.in.h:264
 msgid "Tibetan Support"
-msgstr "티베트어 지원  "
+msgstr "티베트어 지원"
 
 #: ../comps-epel7.xml.in.h:265
 msgid "Tsonga Support"
@@ -2802,11 +2743,11 @@ msgstr "스와나어 지원"
 
 #: ../comps-epel7.xml.in.h:267
 msgid "TurboGears application framework"
-msgstr "TurboGears 애플리케이션 프레임워크 "
+msgstr "TurboGears 응용프로그램 프레임워크"
 
 #: ../comps-epel7.xml.in.h:268
 msgid "TurboGears web application framework."
-msgstr "TurboGears 웹 애플리케이션 프레임워크 "
+msgstr "TurboGears 웹 응용프로그램 프레임워크."
 
 #: ../comps-epel7.xml.in.h:269
 msgid "Turkish Support"
@@ -2814,7 +2755,7 @@ msgstr "터키어 지원"
 
 #: ../comps-epel7.xml.in.h:270
 msgid "Turkmen Support"
-msgstr "투르크멘어 지원  "
+msgstr "투르크멘어 지원"
 
 #: ../comps-epel7.xml.in.h:271
 msgid "Ukrainian Support"
@@ -2822,15 +2763,15 @@ msgstr "우크라이나어 지원"
 
 #: ../comps-epel7.xml.in.h:272
 msgid "Upper Sorbian Support"
-msgstr "세르비아어 (고지) 지원 "
+msgstr "세르비아어(고지) 지원"
 
 #: ../comps-epel7.xml.in.h:273
 msgid "Urdu Support"
-msgstr "우르두어 지원 "
+msgstr "우르두어 지원"
 
 #: ../comps-epel7.xml.in.h:274
 msgid "Uzbek Support"
-msgstr "우즈베크어 지원  "
+msgstr "우즈베크어 지원"
 
 #: ../comps-epel7.xml.in.h:275
 msgid "Venda Support"
@@ -2838,58 +2779,55 @@ msgstr "벤다어 지원"
 
 #: ../comps-epel7.xml.in.h:276
 msgid "Vietnamese Support"
-msgstr "베트남어 지원 "
+msgstr "베트남어 지원"
 
 #: ../comps-epel7.xml.in.h:278
 msgid "Provides an environment for hosting virtualized guests."
-msgstr "가상화 게스트를 호스팅하기 위한 환경 제공 "
+msgstr "가상화한 게스트를 호스팅하기 위한 환경을 제공한다."
 
 #: ../comps-epel7.xml.in.h:279
 msgid "Virtualization Client"
-msgstr "가상화 클라이언트 "
+msgstr "가상화 클라이언트"
 
 #: ../comps-epel7.xml.in.h:280
 msgid "Clients for installing and managing virtualization instances."
-msgstr "가상화 인스턴스를 설치 및 관리하기 위한 클라이언트 "
+msgstr "가상화 사례를 설치하고 및 관리하기 위한 클라이언트."
 
 #: ../comps-epel7.xml.in.h:281
 msgid "Virtualization Platform"
-msgstr "가상화 플랫폼 "
+msgstr "가상화 기반"
 
 #: ../comps-epel7.xml.in.h:282
 msgid ""
 "Provides an interface for accessing and controlling virtualized guests and "
 "containers."
-msgstr ""
-"가상화 게스트와 컨테이너를 액세스 및 제어하기 위한 인터페이스를 제공합니다. "
+msgstr "가상화 게스트와 컨테이너 접근과 제어를 위한 연결장치를 제공합니다."
 
 #: ../comps-epel7.xml.in.h:283
 msgid "Virtualization Tools"
-msgstr "가상화 도구 "
+msgstr "가상화 도구"
 
 #: ../comps-epel7.xml.in.h:284
 msgid "Tools for offline virtual image management."
-msgstr "오프라인 가상 이미지 관리를 위한 도구 "
+msgstr "오프라인 가상 이미지 관리를 위한 도구."
 
 #: ../comps-epel7.xml.in.h:285
 msgid "Walloon Support"
-msgstr "왈룬어 지원   "
+msgstr "왈룬어 지원"
 
 #: ../comps-epel7.xml.in.h:287
 msgid ""
 "Allows the system to act as a web server, and run Perl and Python web "
 "applications."
-msgstr ""
-"시스템이 웹 서버로 작동하거나 Perl 및 Python 웹 애플리케이션을 실행할 수 있"
-"게 합니다. "
+msgstr "시스템이 웹 서버로 작동하거나 펄과 파이썬 웹 응용프로그램을 실행 할 수 있게 합니다."
 
 #: ../comps-epel7.xml.in.h:288
 msgid "Web Servlet Engine"
-msgstr "Web Servlet 엔진 "
+msgstr "웹 Servlet 엔진"
 
 #: ../comps-epel7.xml.in.h:289
 msgid "Allows the system to host Java servlets."
-msgstr "시스템이 Java servlets를 호스트할 수 있게 합니다. "
+msgstr "시스템이 자바 servlets를 호스트 할 수 있게 합니다."
 
 #: ../comps-epel7.xml.in.h:290
 msgid "Welsh Support"
@@ -2897,11 +2835,11 @@ msgstr "웨일즈어 지원"
 
 #: ../comps-epel7.xml.in.h:291
 msgid "Workstation Policy"
-msgstr "워크스테이션 정책 "
+msgstr "워크스테이션 정책"
 
 #: ../comps-epel7.xml.in.h:292
 msgid "Policy packages for the Workstation variant."
-msgstr "워크스테이션 변형을 위한 정책 패키지 "
+msgstr "워크스테이션 변형을 위한 정책 꾸러미."
 
 #: ../comps-epel7.xml.in.h:293
 msgid "X Window System"
@@ -2909,7 +2847,7 @@ msgstr "X 윈도우 시스템"
 
 #: ../comps-epel7.xml.in.h:294
 msgid "X Window System Support."
-msgstr "X Window 시스템 지원 "
+msgstr "X 윈도우 시스템 지원."
 
 #: ../comps-epel7.xml.in.h:297
 msgid "Xhosa Support"
@@ -2921,19 +2859,19 @@ msgstr "줄루어 지원"
 
 #: ../comps-epel7.xml.in.h:301
 msgid "Desktops"
-msgstr "데스크탑 "
+msgstr "데스크탑"
 
 #: ../comps-epel7.xml.in.h:302
 msgid "Desktops and thin clients."
-msgstr "데스크탑 및 씬 클라이언트 "
+msgstr "데스크탑 및 씬 클라이언트."
 
 #: ../comps-epel7.xml.in.h:304
 msgid "End-user applications."
-msgstr "최종 사용자 애플리케이션 "
+msgstr "최종 사용자 응용프로그램."
 
 #: ../comps-epel7.xml.in.h:306
 msgid "Development tools and libraries."
-msgstr "개발 도구 및 라이브러리 "
+msgstr "개발 도구 및 라이브러리."
 
 #~ msgid "Bodo Support"
 #~ msgstr "보도어 지원 "
