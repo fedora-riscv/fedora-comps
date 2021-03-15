@@ -3172,6 +3172,7 @@
       <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-systemmonitor</packagereq>
+      <packagereq>plasma-thunderbolt</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>plasma-workspace-xorg</packagereq>
       <packagereq>polkit-kde</packagereq>
