@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-03-15 08:01+0000\n"
+"PO-Revision-Date: 2021-03-19 22:01+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -214,7 +214,7 @@ msgstr "Critical Path (Deepin 데스크탑)"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "Deepin 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
+msgstr "Deepin 데스크탑에 중요 경로 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -249,15 +249,14 @@ msgid ""
 msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Critical Path (LXDE)"
+msgstr "중요 경로 (LXQt)"
 
 #: ../comps-f32.xml.in.h:50 ../comps-f33.xml.in.h:48 ../comps-f34.xml.in.h:48
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
-msgstr "LXDE 데스크탑에 Critical Path 기능을 제공하는 꾸러미 모음"
+msgstr "LXQt 데스크탑에 중요 경로 기능을 제공하는 꾸러미 모음 구성"
 
 #: ../comps-f32.xml.in.h:51 ../comps-f33.xml.in.h:49 ../comps-f34.xml.in.h:49
 msgid "Critical Path (Xfce)"
@@ -312,7 +311,7 @@ msgstr "디자인 모음"
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
-msgstr ""
+msgstr "이들 꾸러미는 전문 디자이너를 대상으로 하며, 그리고 그래픽, 웹과 만화등과도 연관되어 있습니다."
 
 #: ../comps-f32.xml.in.h:63 ../comps-f33.xml.in.h:61 ../comps-f34.xml.in.h:61
 msgid "Development Libraries"
@@ -329,11 +328,8 @@ msgid "Development Tools"
 msgstr "개발용 도구"
 
 #: ../comps-f32.xml.in.h:66 ../comps-f33.xml.in.h:64 ../comps-f34.xml.in.h:64
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
-msgstr ""
-"이 도구에는 automake, gcc, perl, python, 디버거와 같은 핵심 개발 도구를포함하"
-"고 있습니다."
+msgstr "이 도구에는 깃과 CVS와 같은 일반 개발 도구를 포함하고 있습니다."
 
 #: ../comps-f32.xml.in.h:67 ../comps-f33.xml.in.h:65 ../comps-f34.xml.in.h:65
 #: ../comps-epel7.xml.in.h:56
@@ -371,11 +367,11 @@ msgstr "기업용 개방형 자원 인증서 권한"
 
 #: ../comps-f32.xml.in.h:74 ../comps-f33.xml.in.h:72 ../comps-f34.xml.in.h:72
 msgid "Domain Membership"
-msgstr ""
+msgstr "도메인 멤버쉽"
 
 #: ../comps-f32.xml.in.h:75 ../comps-f33.xml.in.h:73 ../comps-f34.xml.in.h:73
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "FreeIPA나 액티브 디렉토리 도메인 참여를 위한 지원"
 
 #: ../comps-f32.xml.in.h:76 ../comps-f33.xml.in.h:74 ../comps-f34.xml.in.h:74
 msgid "Fedora Eclipse"
@@ -429,21 +425,21 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:86 ../comps-f33.xml.in.h:84 ../comps-f34.xml.in.h:84
 msgid "Enlightenment"
-msgstr ""
+msgstr "계몽"
 
 #: ../comps-f32.xml.in.h:87 ../comps-f33.xml.in.h:85 ../comps-f34.xml.in.h:85
 msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
-msgstr ""
+msgstr "Enlightenment는 간결하고, 빠르며, 모듈러와 확장가능한 윈도우 데스크탑 환경입니다."
 
 #: ../comps-f32.xml.in.h:88
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany 웹 열람기"
 
 #: ../comps-f32.xml.in.h:89
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "그놈을 위한 Epiphany 웹 열람기"
 
 #: ../comps-f32.xml.in.h:90 ../comps-f33.xml.in.h:86 ../comps-f34.xml.in.h:86
 #: ../comps-epel7.xml.in.h:75 ../comps-epel8.xml.in.h:1
@@ -456,11 +452,11 @@ msgstr "페도라 꾸러미에 필요한 도구와 유틸리티"
 
 #: ../comps-f32.xml.in.h:92 ../comps-f33.xml.in.h:88 ../comps-f34.xml.in.h:88
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "파이어폭스 웹 열람기"
 
 #: ../comps-f32.xml.in.h:93 ../comps-f33.xml.in.h:89 ../comps-f34.xml.in.h:89
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "파이어폭스 웹 열람기"
 
 #: ../comps-f32.xml.in.h:94 ../comps-f33.xml.in.h:90 ../comps-f34.xml.in.h:90
 msgid "Font design and packaging"
@@ -482,15 +478,14 @@ msgid "Fonts packages for rendering text on the desktop."
 msgstr "데스크탑 상에서 텍스트 렌더링 용 글꼴 꾸러미."
 
 #: ../comps-f32.xml.in.h:98 ../comps-f33.xml.in.h:94 ../comps-f34.xml.in.h:94
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP 서버"
+msgstr "FreeIPA 서버"
 
 #: ../comps-f32.xml.in.h:99 ../comps-f33.xml.in.h:95 ../comps-f34.xml.in.h:95
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
-msgstr ""
+msgstr "식별, 정책 관리 및 감사를 위한 중심 디렉토리 서비스를 제공합니다."
 
 #: ../comps-f32.xml.in.h:100 ../comps-f33.xml.in.h:96 ../comps-f34.xml.in.h:96
 msgid "FTP Server"
@@ -511,22 +506,22 @@ msgstr "휴식을 취하면서 여가 시간을 보낼 수 있는 다양한 방�
 #: ../comps-f32.xml.in.h:104 ../comps-f33.xml.in.h:100
 #: ../comps-f34.xml.in.h:100
 msgid "GNOME"
-msgstr ""
+msgstr "그놈"
 
 #: ../comps-f32.xml.in.h:105 ../comps-f33.xml.in.h:101
 #: ../comps-f34.xml.in.h:101
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "그놈은 높은 직관적이고 사용자 친화적인 데스크탑 환경."
 
 #: ../comps-f32.xml.in.h:106 ../comps-f33.xml.in.h:102
 #: ../comps-f34.xml.in.h:102
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "그놈 데스크탑을 위한 추가 게임"
 
 #: ../comps-f32.xml.in.h:107 ../comps-f33.xml.in.h:103
 #: ../comps-f34.xml.in.h:103
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "그놈 데스크탑을 위한 다양한 게임"
 
 #: ../comps-f32.xml.in.h:108 ../comps-f33.xml.in.h:104
 #: ../comps-f34.xml.in.h:104
@@ -548,9 +543,8 @@ msgstr "그래픽 인터넷"
 
 #: ../comps-f32.xml.in.h:111 ../comps-f33.xml.in.h:107
 #: ../comps-f34.xml.in.h:107
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "이 그룹에는 그래픽 이메일, 웹, 채팅 클라이언트를 포함하고 있습니다."
+msgstr "이 그룹에는 그래픽 전자우편, 웹, 채팅 클라이언트를 포함합니다."
 
 #: ../comps-f32.xml.in.h:112 ../comps-f33.xml.in.h:108
 #: ../comps-f34.xml.in.h:108
@@ -565,42 +559,42 @@ msgstr "이 그룹에 포함된 패키지는 이미지를 스캔, 조작 작업�
 #: ../comps-f32.xml.in.h:114 ../comps-f33.xml.in.h:110
 #: ../comps-f34.xml.in.h:110
 msgid "Guest Agents"
-msgstr ""
+msgstr "게스트 에이전트"
 
 #: ../comps-f32.xml.in.h:115 ../comps-f33.xml.in.h:111
 #: ../comps-f34.xml.in.h:111
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "하이퍼바이저 아래에서 동작 할 때에 사용되는 에이전트."
 
 #: ../comps-f32.xml.in.h:116 ../comps-f33.xml.in.h:112
 #: ../comps-f34.xml.in.h:112
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "게스트 데스크탑 에이전트"
 
 #: ../comps-f32.xml.in.h:117 ../comps-f33.xml.in.h:113
 #: ../comps-f34.xml.in.h:113
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "에이전트는 가상화된 데스크탑에서 동작 할 때에 사용합니다."
 
 #: ../comps-f32.xml.in.h:118 ../comps-f33.xml.in.h:114
 #: ../comps-f34.xml.in.h:114
 msgid "High Availability"
-msgstr ""
+msgstr "고 가용성"
 
 #: ../comps-f32.xml.in.h:119 ../comps-f33.xml.in.h:115
 #: ../comps-f34.xml.in.h:115
 msgid "Infrastructure for highly available services and/or shared storage."
-msgstr ""
+msgstr "고가용성 서비스와/또는 공유 저장소를 위한 인프라스트럭처."
 
 #: ../comps-f32.xml.in.h:120 ../comps-f33.xml.in.h:116
 #: ../comps-f34.xml.in.h:116
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f32.xml.in.h:121 ../comps-f33.xml.in.h:117
 #: ../comps-f34.xml.in.h:117
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "TCP/HTTP 부하 분산."
 
 #: ../comps-f32.xml.in.h:122 ../comps-f33.xml.in.h:118
 #: ../comps-f34.xml.in.h:118
@@ -631,7 +625,7 @@ msgstr "모니터 없는 장비관리"
 #: ../comps-f32.xml.in.h:127 ../comps-f33.xml.in.h:123
 #: ../comps-f34.xml.in.h:123
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "부착된 그래픽 콘솔없이 시스템 관리를 위한 도구."
 
 #: ../comps-f32.xml.in.h:128 ../comps-f33.xml.in.h:124
 #: ../comps-f34.xml.in.h:124 ../comps-epel7.xml.in.h:111
@@ -665,29 +659,28 @@ msgstr "Java 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 
 #: ../comps-f32.xml.in.h:134 ../comps-f33.xml.in.h:130
 #: ../comps-f34.xml.in.h:130
-#, fuzzy
 msgid "Java Application Server"
-msgstr "응용 프로그램"
+msgstr "자바 응용프로그램 서버"
 
 #: ../comps-f32.xml.in.h:135 ../comps-f33.xml.in.h:131
 #: ../comps-f34.xml.in.h:131
 msgid "Java application server."
-msgstr ""
+msgstr "자바 응용프로그램 서버."
 
 #: ../comps-f32.xml.in.h:136 ../comps-f33.xml.in.h:132
 #: ../comps-f34.xml.in.h:132 ../comps-epel8.xml.in.h:5
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE 응용프로그램"
 
 #: ../comps-f32.xml.in.h:137 ../comps-f33.xml.in.h:133
 #: ../comps-f34.xml.in.h:133 ../comps-epel8.xml.in.h:6
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "공통적으로 사용되는 KDE 응용프로그램의 구성"
 
 #: ../comps-f32.xml.in.h:138 ../comps-f33.xml.in.h:134
 #: ../comps-f34.xml.in.h:134 ../comps-epel8.xml.in.h:7
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f32.xml.in.h:139 ../comps-f33.xml.in.h:135
 #: ../comps-f34.xml.in.h:135 ../comps-epel8.xml.in.h:8
@@ -696,31 +689,33 @@ msgid ""
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
+"KDE 플레즈마 작업공간, 패널, 데스크탑, 시스템 아이콘과 데스크탑 위젯, 그리고 많은 강력한 KDE 응용프로그램을 포함하는 것과 같이 "
+"고도로-설정 할 수 있는 그래픽 사용자 연결장치."
 
 #: ../comps-f32.xml.in.h:140 ../comps-f33.xml.in.h:136
 #: ../comps-f34.xml.in.h:136 ../comps-epel8.xml.in.h:9
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE 교육용 응용프로그램"
 
 #: ../comps-f32.xml.in.h:141 ../comps-f33.xml.in.h:137
 #: ../comps-f34.xml.in.h:137 ../comps-epel8.xml.in.h:10
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE 멀티미디어 지원"
 
 #: ../comps-f32.xml.in.h:142 ../comps-f33.xml.in.h:138
 #: ../comps-f34.xml.in.h:138 ../comps-epel8.xml.in.h:11
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "KDE를 위한 멀티미디어 지원"
 
 #: ../comps-f32.xml.in.h:143 ../comps-f33.xml.in.h:139
 #: ../comps-f34.xml.in.h:139 ../comps-epel8.xml.in.h:12
 msgid "KDE Office"
-msgstr ""
+msgstr "업무용"
 
 #: ../comps-f32.xml.in.h:144 ../comps-f33.xml.in.h:140
 #: ../comps-f34.xml.in.h:140 ../comps-epel8.xml.in.h:13
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE 업무용 응용프로그램"
 
 #: ../comps-f32.xml.in.h:145 ../comps-f33.xml.in.h:141
 #: ../comps-f34.xml.in.h:141 ../comps-epel8.xml.in.h:14
@@ -729,35 +724,30 @@ msgstr "KDE 소프트웨어 개발"
 
 #: ../comps-f32.xml.in.h:146 ../comps-f33.xml.in.h:142
 #: ../comps-f34.xml.in.h:142 ../comps-epel8.xml.in.h:15
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
-msgstr ""
-"QT와 KDE용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
+msgstr "Qt와 KDE용 그래픽 응용프로그램을 개발하려면 이들 꾸러미를 설치해야합니다."
 
 #: ../comps-f32.xml.in.h:147 ../comps-f33.xml.in.h:143
 #: ../comps-f34.xml.in.h:143
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE 텔레파시"
 
 #: ../comps-f32.xml.in.h:148 ../comps-f33.xml.in.h:144
 #: ../comps-f34.xml.in.h:144
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE 텔레파시 응용프로그램"
 
 #: ../comps-f32.xml.in.h:149 ../comps-f33.xml.in.h:145
 #: ../comps-f34.xml.in.h:145 ../comps-epel8.xml.in.h:16
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "KDE 소프트웨어 개발"
+msgstr "KDE 프레임워크 5 소프트웨어 개발"
 
 #: ../comps-f32.xml.in.h:150 ../comps-f33.xml.in.h:146
 #: ../comps-f34.xml.in.h:146 ../comps-epel8.xml.in.h:17
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr ""
-"QT와 KDE용 그래픽 응용 프로그램을 개발하시려면 이 패키지를 설치하십시오."
+msgstr "QT와 KDE 프레임워크 5를 사용하여 응용프로그램을 개발하려면 이 꾸러미를 설치하세요."
 
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
@@ -798,12 +788,12 @@ msgstr "레거시 소프트웨어 지원"
 #: ../comps-f32.xml.in.h:158 ../comps-f33.xml.in.h:151
 #: ../comps-f34.xml.in.h:151
 msgid "LibreOffice"
-msgstr ""
+msgstr "리브레오피스"
 
 #: ../comps-f32.xml.in.h:159 ../comps-f33.xml.in.h:152
 #: ../comps-f34.xml.in.h:152
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "리브레오피스 생산성 제품군"
 
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
@@ -819,22 +809,22 @@ msgstr "이 꾸러미는 리브레오피스 확장 또는 매크로를 개발할
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
 msgid "Load Balancer"
-msgstr ""
+msgstr "부하 분산"
 
 #: ../comps-f32.xml.in.h:163 ../comps-f33.xml.in.h:156
 #: ../comps-f34.xml.in.h:156
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "네트웍 부하 분산 지원"
 
 #: ../comps-f32.xml.in.h:164 ../comps-f33.xml.in.h:157
 #: ../comps-f34.xml.in.h:157
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "LXDE 데스크탑을 위한 응용프로그램"
 
 #: ../comps-f32.xml.in.h:165 ../comps-f33.xml.in.h:158
 #: ../comps-f34.xml.in.h:158
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "LXDE 데스크탑을 위해 공통적으로 사용되는 응용프로그램의 구성"
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
@@ -852,33 +842,32 @@ msgstr ""
 #: ../comps-f32.xml.in.h:168 ../comps-f33.xml.in.h:161
 #: ../comps-f34.xml.in.h:161
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "LXDE를 위한 멀티미디어 지원"
 
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE 업무"
 
 #: ../comps-f32.xml.in.h:170 ../comps-f33.xml.in.h:163
 #: ../comps-f34.xml.in.h:163
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "LXDE를 위한 업무용 제품군"
 
 #: ../comps-f32.xml.in.h:171 ../comps-f33.xml.in.h:164
 #: ../comps-f34.xml.in.h:164
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "다양한 작업을 위한 응용 프로그램"
+msgstr "LXQt 데스크탑을 위한 응용 프로그램"
 
 #: ../comps-f32.xml.in.h:172 ../comps-f33.xml.in.h:165
 #: ../comps-f34.xml.in.h:165
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr ""
+msgstr "LXQt 데스크탑을 위해 공통적으로 사용되는 응용프로그램의 구성"
 
 #: ../comps-f32.xml.in.h:173 ../comps-f33.xml.in.h:166
 #: ../comps-f34.xml.in.h:166
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
@@ -891,22 +880,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "LXQt의 번역"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
 msgid "Multimedia support for LXQt"
-msgstr ""
+msgstr "LXQt를 위한 멀티미디어 지원"
 
 #: ../comps-f32.xml.in.h:177 ../comps-f33.xml.in.h:170
 #: ../comps-f34.xml.in.h:170
 msgid "LXQt Office"
-msgstr ""
+msgstr "LXQt 업무"
 
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
 msgid "Office suite for LXQt"
-msgstr ""
+msgstr "LXQt를 위한 업무용 제품군"
 
 #: ../comps-f32.xml.in.h:179 ../comps-f33.xml.in.h:172
 #: ../comps-f34.xml.in.h:172
@@ -920,9 +909,8 @@ msgstr "이 패키지는 IMAP과 SMTP 메일 서버 설정을 도와줍니다."
 
 #: ../comps-f32.xml.in.h:181 ../comps-f33.xml.in.h:174
 #: ../comps-f34.xml.in.h:174
-#, fuzzy
 msgid "MATE Applications"
-msgstr "응용 프로그램"
+msgstr "메이트 응용 프로그램"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
@@ -932,7 +920,7 @@ msgstr "MATE 데스크탑을 위한 응용프로그램."
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
 msgid "MATE"
-msgstr ""
+msgstr "메이트"
 
 #: ../comps-f32.xml.in.h:184 ../comps-f33.xml.in.h:177
 #: ../comps-f34.xml.in.h:177 ../comps-epel7.xml.in.h:165
@@ -941,6 +929,8 @@ msgid ""
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
 msgstr ""
+"메이트 데스크탑은 그놈2를 기반으로 하였으며, 간단하고 손쉽게 전통적인 데스크탑 연결장치를 찾는 사용자를 위한 강력한 그래픽 사용자 "
+"연결장치를 제공합니다."
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
@@ -975,33 +965,33 @@ msgstr "페도라 내의 32 비트 윈도우 대상, 시험 및 설치 프로그
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
 msgid "MongoDB"
-msgstr ""
+msgstr "몽고디비"
 
 #: ../comps-f32.xml.in.h:192 ../comps-f33.xml.in.h:183
 #: ../comps-f34.xml.in.h:183
 msgid "Scalable, high-performance NoSQL database."
-msgstr ""
+msgstr "확장 가능한, 고-성능 NoSQL 자료저장소."
 
 #: ../comps-f32.xml.in.h:193 ../comps-f33.xml.in.h:184
 #: ../comps-f34.xml.in.h:184
 msgid "Multimedia"
-msgstr ""
+msgstr "멀티미디어"
 
 #: ../comps-f32.xml.in.h:194 ../comps-f33.xml.in.h:185
 #: ../comps-f34.xml.in.h:185
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "데스크탑에 공통적인 오디오/비디오 프레임워크"
 
 #: ../comps-f32.xml.in.h:195 ../comps-f33.xml.in.h:186
 #: ../comps-f34.xml.in.h:186
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "마리아디비(MySQL) 자료저장소"
 
 #: ../comps-f32.xml.in.h:196 ../comps-f33.xml.in.h:187
 #: ../comps-f34.xml.in.h:187
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
-msgstr ""
+msgstr "이들 꾸러미 그룹은 마리아디비(MySQL)와 함께 사용하기 위해 유용한 꾸러미를 포함합니다."
 
 #: ../comps-f32.xml.in.h:197 ../comps-f33.xml.in.h:188
 #: ../comps-f34.xml.in.h:188
@@ -1019,26 +1009,26 @@ msgstr ""
 #: ../comps-f32.xml.in.h:199 ../comps-f33.xml.in.h:190
 #: ../comps-f34.xml.in.h:190
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "공통적인 네트워크매니저 하위 모듈"
 
 #: ../comps-f32.xml.in.h:200 ../comps-f33.xml.in.h:191
 #: ../comps-f34.xml.in.h:191
 msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
-msgstr ""
+msgstr "이들 그룹은 공통적으로 사용되어지는 네트워크매니저 하위 모듈을 포함지만, 몇몇 간소화된 환경에서는 원하지 않을 수 있습니다."
 
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "신경 모형 모의장치"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
 msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
-msgstr ""
+msgstr "이들 그룹은 신경과 신경네트워크 모형에 사용된 모의장치를 포함합니다."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
@@ -1084,7 +1074,7 @@ msgstr "Pantheon 데스크탑"
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
-msgstr ""
+msgstr "Pantheon 데스크탑 환경은 elementaryOS를 강화하는 DE입니다."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1099,34 +1089,32 @@ msgstr "펄 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 #: ../comps-f32.xml.in.h:214 ../comps-f33.xml.in.h:204
 #: ../comps-f34.xml.in.h:204
 msgid "Perl for Web"
-msgstr ""
+msgstr "웹을 위한 펄"
 
 #: ../comps-f32.xml.in.h:215 ../comps-f33.xml.in.h:205
 #: ../comps-f34.xml.in.h:205
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "기본 펄 웹 응용프로그램 지원."
 
 #: ../comps-f32.xml.in.h:216 ../comps-f33.xml.in.h:208
 #: ../comps-f34.xml.in.h:208
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f32.xml.in.h:217 ../comps-f33.xml.in.h:209
 #: ../comps-f34.xml.in.h:209
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "일반적인 목적의 웹 개발 스크립팅 언어."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "마라티어 지원"
+msgstr "VMware 기반 지원"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "VMware 가상 장비에 설치하는 꾸러미"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1143,22 +1131,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "파이썬 학급"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "파이썬을 가르키고 배우는데 사용하는 도구."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
 msgid "Python Science"
-msgstr ""
+msgstr "파이썬 과학"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "파이썬으로 과학을 수행하는데 사용하는 도구."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1168,17 +1156,17 @@ msgstr "로봇 공학"
 #: ../comps-f32.xml.in.h:227 ../comps-f33.xml.in.h:219
 #: ../comps-f34.xml.in.h:219
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "로봇 개발을 위한 꾸러미 제품군"
 
 #: ../comps-f32.xml.in.h:228 ../comps-f33.xml.in.h:220
 #: ../comps-f34.xml.in.h:220
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "RPM 개발용 도구"
 
 #: ../comps-f32.xml.in.h:229 ../comps-f33.xml.in.h:221
 #: ../comps-f34.xml.in.h:221
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "이들 도구는 rpmbuild와 같은 핵심 개발 도구를 포함합니다."
 
 #: ../comps-f32.xml.in.h:230 ../comps-f33.xml.in.h:222
 #: ../comps-f34.xml.in.h:222
@@ -1193,24 +1181,24 @@ msgstr "Ruby 프로그래밍 언어에 대한 기본 지원."
 #: ../comps-f32.xml.in.h:232 ../comps-f33.xml.in.h:224
 #: ../comps-f34.xml.in.h:224
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f32.xml.in.h:233 ../comps-f33.xml.in.h:225
 #: ../comps-f34.xml.in.h:225
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails 웹 응용프로그램 스택."
 
 #: ../comps-f32.xml.in.h:234 ../comps-f33.xml.in.h:226
 #: ../comps-f34.xml.in.h:226
 msgid "Security Lab"
-msgstr ""
+msgstr "보안 랩"
 
 #: ../comps-f32.xml.in.h:235 ../comps-f33.xml.in.h:227
 #: ../comps-f34.xml.in.h:227
 msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
-msgstr ""
+msgstr "보안감사, 포렌식, 시스템 복구, 그리고 보안 테스트 방법론 교육을 위한 도구."
 
 #: ../comps-f32.xml.in.h:236 ../comps-f33.xml.in.h:228
 #: ../comps-f34.xml.in.h:228
@@ -1226,20 +1214,20 @@ msgstr ""
 #: ../comps-f32.xml.in.h:238 ../comps-f33.xml.in.h:230
 #: ../comps-f34.xml.in.h:230
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "서버 시스템을 위한 하드웨어 지원"
 
 #: ../comps-f32.xml.in.h:239 ../comps-f33.xml.in.h:231
 #: ../comps-f34.xml.in.h:231
 msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
-msgstr ""
+msgstr "이 그룹은 다양한 비공통적인 하드웨어 지정 유틸리티를 위한 제한된 도구입니다."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:241 ../comps-f33.xml.in.h:233
 #: ../comps-f34.xml.in.h:233
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "페도라 서버 제품 코어"
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
@@ -1281,29 +1269,28 @@ msgstr "PostgreSQL 데이터베이스"
 
 #: ../comps-f32.xml.in.h:248 ../comps-f33.xml.in.h:240
 #: ../comps-f34.xml.in.h:240
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "이 그룹에 포함된 패키지는 Postgresql 작업을 도와드립니다."
+msgstr "이 꾸러미 그룹은 PostgreSQL와 같은 사용하기 유용한 꾸러미를 포함합니다."
 
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
 msgid "Standard"
-msgstr ""
+msgstr "표준"
 
 #: ../comps-f32.xml.in.h:250 ../comps-f33.xml.in.h:242
 #: ../comps-f34.xml.in.h:242
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "최소 설치에 확장된 공통적인 유틸리트 설정."
 
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "추가 슈가 활동"
 
 #: ../comps-f32.xml.in.h:252 ../comps-f33.xml.in.h:244
 #: ../comps-f34.xml.in.h:244
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "슈가 환경과 함께 사용되는 추가적인 활동."
 
 #: ../comps-f32.xml.in.h:253 ../comps-f33.xml.in.h:245
 #: ../comps-f34.xml.in.h:245
@@ -1336,33 +1323,30 @@ msgstr "텍스트-기반 인터넷"
 
 #: ../comps-f32.xml.in.h:258 ../comps-f33.xml.in.h:250
 #: ../comps-f34.xml.in.h:250
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
-msgstr ""
-"이 그릅에는 텍스트-기반 이메일, 웹, 채팅 클라이언트가 포함되어 있습니다. X 윈"
-"도우 시스템이 없어도 작동합니다."
+msgstr "이 그릅에는 텍스트-기반 이메일, 웹, 채팅 클라이언트가 포함되어 있습니다. X 윈도우 시스템이 없어도 작동합니다."
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
 #: ../comps-f34.xml.in.h:251
 msgid "Tomcat"
-msgstr ""
+msgstr "톰캣"
 
 #: ../comps-f32.xml.in.h:260 ../comps-f33.xml.in.h:252
 #: ../comps-f34.xml.in.h:252
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "톰캣 웹 응용프로그램 서버."
 
 #: ../comps-f32.xml.in.h:261 ../comps-f33.xml.in.h:253
 #: ../comps-f34.xml.in.h:253
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "libvirt 지원하는 Vargrant"
 
 #: ../comps-f32.xml.in.h:262 ../comps-f33.xml.in.h:254
 #: ../comps-f34.xml.in.h:254
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "이들 꾸러미는 Vargrant에 libvirt 공급자 지원을 제공합니다"
 
 #: ../comps-f32.xml.in.h:263 ../comps-f33.xml.in.h:255
 #: ../comps-f34.xml.in.h:255 ../comps-epel7.xml.in.h:277
@@ -1372,22 +1356,22 @@ msgstr "가상화"
 #: ../comps-f32.xml.in.h:264 ../comps-f33.xml.in.h:256
 #: ../comps-f34.xml.in.h:256
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "이 꾸러미는 그래픽 가상화 환경을 제공합니다."
 
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "헤드리스 가상화"
 
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "이 꾸러미는 헤드리스 가상화 환경을 제공합니다."
 
 #: ../comps-f32.xml.in.h:267 ../comps-f33.xml.in.h:259
 #: ../comps-f34.xml.in.h:259
 msgid "Basic Web Server"
-msgstr ""
+msgstr "기본 웹 서버"
 
 #: ../comps-f32.xml.in.h:268 ../comps-f33.xml.in.h:260
 #: ../comps-f34.xml.in.h:260
@@ -1420,7 +1404,7 @@ msgstr "워크스테이션 ostree 제품을 위한 필수 꾸러미."
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
 #: ../comps-f34.xml.in.h:267
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "페도라 웍스테이션 제품군 코어"
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
@@ -1441,12 +1425,12 @@ msgstr "이 패키지는 X 윈도우 시스템용 응용 프로그램 개발시 
 #: ../comps-f32.xml.in.h:279 ../comps-f33.xml.in.h:271
 #: ../comps-f34.xml.in.h:271
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Xfce 데스크탑을 위한 응용프로그램"
 
 #: ../comps-f32.xml.in.h:280 ../comps-f33.xml.in.h:272
 #: ../comps-f34.xml.in.h:272
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Xfce 데스크탑을 위하여 공통적으로 사용된 응용프로그램의 구성"
 
 #: ../comps-f32.xml.in.h:281 ../comps-f33.xml.in.h:273
 #: ../comps-f34.xml.in.h:273 ../comps-epel7.xml.in.h:295
@@ -1463,95 +1447,95 @@ msgstr "저 사양 컴퓨터에서도 잘 작동하는 경량의 데스크탑 �
 #: ../comps-f32.xml.in.h:283 ../comps-f33.xml.in.h:275
 #: ../comps-f34.xml.in.h:275
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Xfce 패널을 위한 추가 플러그인"
 
 #: ../comps-f32.xml.in.h:284 ../comps-f33.xml.in.h:276
 #: ../comps-f34.xml.in.h:276
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Xfce 패널의 기능을 확장한다"
 
 #: ../comps-f32.xml.in.h:285 ../comps-f33.xml.in.h:277
 #: ../comps-f34.xml.in.h:277
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Xfce를 위한 멀티미디어 지원"
 
 #: ../comps-f32.xml.in.h:286 ../comps-f33.xml.in.h:278
 #: ../comps-f34.xml.in.h:278
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce 업무"
 
 #: ../comps-f32.xml.in.h:287 ../comps-f33.xml.in.h:279
 #: ../comps-f34.xml.in.h:279
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Xfce 업무용 제품군"
 
 #: ../comps-f32.xml.in.h:288 ../comps-f33.xml.in.h:280
 #: ../comps-f34.xml.in.h:280
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce 소프트웨어 개발"
 
 #: ../comps-f32.xml.in.h:289 ../comps-f33.xml.in.h:281
 #: ../comps-f34.xml.in.h:281
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "GTK+와 Xfce 그래픽 응용프로그램을 개발하기 위해 이들 꾸러미를 설치하세요."
 
 #: ../comps-f32.xml.in.h:290 ../comps-f33.xml.in.h:282
 #: ../comps-f34.xml.in.h:282
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f32.xml.in.h:291 ../comps-f33.xml.in.h:283
 #: ../comps-f34.xml.in.h:283
 msgid "A tiling window manager"
-msgstr ""
+msgstr "기와 창 관리자"
 
 #: ../comps-f32.xml.in.h:292 ../comps-f33.xml.in.h:284
 #: ../comps-f34.xml.in.h:284
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "메이드를 위한 XMonad"
 
 #: ../comps-f32.xml.in.h:293 ../comps-f33.xml.in.h:285
 #: ../comps-f34.xml.in.h:285
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "메이트와 함께 XMond 창 관리자"
 
 #: ../comps-f32.xml.in.h:294 ../comps-f33.xml.in.h:286
 #: ../comps-f34.xml.in.h:286
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "페도라 사용자 정의 운영 체제"
 
 #: ../comps-f32.xml.in.h:295 ../comps-f33.xml.in.h:287
 #: ../comps-f34.xml.in.h:287
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "사용자 페도라 시스템을 위해 기본적으로 구축된 블럭."
 
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
 msgid "Minimal Install"
-msgstr ""
+msgstr "최소 설치"
 
 #: ../comps-f32.xml.in.h:297 ../comps-f33.xml.in.h:289
 #: ../comps-f34.xml.in.h:289
 msgid "Basic functionality."
-msgstr ""
+msgstr "기본 기능성."
 
 #: ../comps-f32.xml.in.h:298 ../comps-f33.xml.in.h:290
 #: ../comps-f34.xml.in.h:290 ../comps-epel8.xml.in.h:20
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE 플래즈마 웍스페이스"
 
 #: ../comps-f32.xml.in.h:299 ../comps-f33.xml.in.h:291
 #: ../comps-f34.xml.in.h:291
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce 데스크탑"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
 #: ../comps-f34.xml.in.h:293
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "페도라 서버판"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1559,7 +1543,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:305 ../comps-f33.xml.in.h:297
 #: ../comps-f34.xml.in.h:297
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "통합되고, 관리하기 쉬운 서버."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:307 ../comps-f33.xml.in.h:299
@@ -1572,12 +1556,12 @@ msgstr "워크스테이션 정책 "
 #: ../comps-f34.xml.in.h:300
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
-msgstr ""
+msgstr "페도라 웍스테이션은 랩탑과 PC를 위한 사용자 친화적인 데스크탑입니다."
 
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE 데스크탑"
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
@@ -1587,12 +1571,12 @@ msgstr "LXQt 데스크탑"
 #: ../comps-f32.xml.in.h:311 ../comps-f33.xml.in.h:303
 #: ../comps-f34.xml.in.h:303 ../comps-epel7.xml.in.h:299
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "시나몬 데스크탑"
 
 #: ../comps-f32.xml.in.h:312 ../comps-f33.xml.in.h:304
 #: ../comps-f34.xml.in.h:304 ../comps-epel7.xml.in.h:300
 msgid "MATE Desktop"
-msgstr ""
+msgstr "메이트 데스크탑"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
@@ -1604,28 +1588,27 @@ msgstr "Deepin 데스크탑"
 msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
-msgstr ""
+msgstr "Deepin 데스크탑은 deepin과 함께 출시된 데스크탑 환경입니다. 이는 우아하고 사용하기 쉬운 것을 목적으로 합니다."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "메일 서버"
+msgstr "페도라 클라우드 서버"
 
 #: ../comps-f32.xml.in.h:316 ../comps-f33.xml.in.h:308
 #: ../comps-f34.xml.in.h:308
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "클라우드 환경에서 실행에 필요한 구성을 설치하는 서버."
 
 #: ../comps-f32.xml.in.h:317 ../comps-f33.xml.in.h:309
 #: ../comps-f34.xml.in.h:309
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "개발과 창조적인 웍스테이션"
 
 #: ../comps-f32.xml.in.h:318 ../comps-f33.xml.in.h:310
 #: ../comps-f34.xml.in.h:310
 msgid "Workstation for software, hardware, graphics, or content development."
-msgstr ""
+msgstr "소프트웨어, 하드웨어, 그래픽, 또는 내용 개발을 위한 웍스테이션."
 
 #: ../comps-f32.xml.in.h:319 ../comps-f33.xml.in.h:311
 #: ../comps-f34.xml.in.h:311 ../comps-epel7.xml.in.h:286
@@ -1635,22 +1618,22 @@ msgstr "웹 서버"
 #: ../comps-f32.xml.in.h:320 ../comps-f33.xml.in.h:312
 #: ../comps-f34.xml.in.h:312
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "정적 및 동적 인터넷 내용을 제공하는 서버."
 
 #: ../comps-f32.xml.in.h:321 ../comps-f33.xml.in.h:313
 #: ../comps-f34.xml.in.h:313
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "인프라스트럭처 서버"
 
 #: ../comps-f32.xml.in.h:322 ../comps-f33.xml.in.h:314
 #: ../comps-f34.xml.in.h:314
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "네트워크 인프라스트럭처 서비스 운영영을 위한 서버."
 
 #: ../comps-f32.xml.in.h:323 ../comps-f33.xml.in.h:315
 #: ../comps-f34.xml.in.h:315
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "창 관리자의 선택을 위한 X 윈도우 시스템."
 
 #: ../comps-f32.xml.in.h:324 ../comps-f33.xml.in.h:316
 #: ../comps-f34.xml.in.h:316 ../comps-epel7.xml.in.h:128
@@ -1681,7 +1664,7 @@ msgstr "다양한 작업을 실행하기 위한 응용 프로그램"
 #: ../comps-f32.xml.in.h:328 ../comps-f33.xml.in.h:320
 #: ../comps-f34.xml.in.h:320
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "그놈 데스크탑"
 
 #: ../comps-f32.xml.in.h:329 ../comps-f33.xml.in.h:321
 #: ../comps-f34.xml.in.h:321 ../comps-epel7.xml.in.h:305
@@ -1726,20 +1709,20 @@ msgstr "문서와 다른 무료 내용."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "신경과학"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "신경과학을 위한 도구."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "전화/테플릿 UX 환경"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
-msgstr ""
+msgstr "그놈3 기술에 기반한 전화/테블릿 데스크탑 UX."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
@@ -1950,7 +1933,7 @@ msgstr "개발 도구"
 
 #: ../comps-epel7.xml.in.h:55
 msgid "A basic development environment."
-msgstr "기본적인 개발 환경."
+msgstr "기본 개발 환경."
 
 #: ../comps-epel7.xml.in.h:57
 msgid "Tools for connecting via PPP or ISDN."
