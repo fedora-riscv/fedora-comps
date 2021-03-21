@@ -3155,6 +3155,7 @@
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq>okular</packagereq>
       <packagereq>pam-kwallet</packagereq>
+      <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
