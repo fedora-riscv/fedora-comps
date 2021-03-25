@@ -603,9 +603,9 @@
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">fedora-repos-modular</packagereq>
       <packagereq type="default">firewalld</packagereq>
-      <packagereq type="default">lsvpd</packagereq>
+      <packagereq arch="ppc64le" type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
-      <packagereq type="default">powerpc-utils</packagereq>
+      <packagereq arch="ppc64le" type="default">powerpc-utils</packagereq>
       <packagereq arch="s390x" type="default">s390utils-base</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">zram-generator-defaults</packagereq>
