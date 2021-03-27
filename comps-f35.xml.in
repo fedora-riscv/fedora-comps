@@ -3164,6 +3164,7 @@
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
+      <packagereq>plasma-discover-notifier</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
@@ -3173,7 +3174,6 @@
       <packagereq>plasma-nm-pptp</packagereq>
       <packagereq>plasma-nm-vpnc</packagereq>
       <packagereq>plasma-pa</packagereq>
-      <packagereq>plasma-pk-updates</packagereq>
       <packagereq>plasma-systemmonitor</packagereq>
       <packagereq>plasma-thunderbolt</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
