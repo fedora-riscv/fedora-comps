@@ -3852,6 +3852,8 @@
       <packagereq>usermode-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xmodmap</packagereq>
+      <packagereq>xrdb</packagereq>
       <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq type="default">fedora-release-matecompiz</packagereq>
