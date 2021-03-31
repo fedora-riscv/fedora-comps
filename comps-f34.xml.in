@@ -3118,7 +3118,6 @@
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
-      <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-gtk-config</packagereq>
       <packagereq>kde-partitionmanager</packagereq>
