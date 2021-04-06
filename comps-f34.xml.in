@@ -606,6 +606,7 @@
       <packagereq type="default">firewalld</packagereq>
       <packagereq arch="ppc64le" type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
+      <packagereq type="default">plymouth</packagereq>
       <packagereq arch="ppc64le" type="default">powerpc-utils</packagereq>
       <packagereq arch="s390x" type="default">s390utils-base</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
