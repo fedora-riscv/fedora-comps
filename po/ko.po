@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-03-25 04:02+0000\n"
+"PO-Revision-Date: 2021-04-08 04:02+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.5.3\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -771,7 +771,7 @@ msgstr "레거시 소프트웨어 개발"
 
 #: ../comps-f32.xml.in.h:156
 msgid "These packages provide compatibility with previous releases."
-msgstr "이 꾸러미(package)는 이전 버전 배포판과 호환됩니다."
+msgstr "이 꾸러미는 이전 상태번호 배포판과 호환됩니다."
 
 #: ../comps-f32.xml.in.h:157
 msgid "Legacy Software Support"
@@ -1523,7 +1523,7 @@ msgstr "Xfce 데스크탑"
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
 #: ../comps-f34.xml.in.h:293
 msgid "Fedora Server Edition"
-msgstr "페도라 서버판"
+msgstr "페도라 서버용 배포판"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1849,7 +1849,7 @@ msgstr "호환 라이브러리"
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
-msgstr "기업용 리눅스 앞전 버전에 구성된 응용프로그램을 위한 호환 라이브러리."
+msgstr "기업용 리눅스 앞선 상태번호에 구성된 응용프로그램을 위한 호환 라이브러리."
 
 #: ../comps-epel7.xml.in.h:38
 msgid "Console internet tools"
