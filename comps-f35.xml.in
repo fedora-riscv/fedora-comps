@@ -4394,8 +4394,6 @@
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">colord</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
-      <packagereq type="default">foomatic</packagereq>
-      <packagereq type="default">foomatic-db-ppds</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">hplip</packagereq>
@@ -4408,6 +4406,8 @@
       <packagereq type="optional">cups-bjnp</packagereq>
       <packagereq type="optional">cups-pdf</packagereq>
       <packagereq type="optional">enscript</packagereq>
+      <packagereq type="optional">foomatic</packagereq>
+      <packagereq type="optional">foomatic-db-ppds</packagereq>
       <packagereq type="optional">pnm2ppa</packagereq>
       <packagereq type="optional">ptouch-driver</packagereq>
       <packagereq type="optional">splix</packagereq>
