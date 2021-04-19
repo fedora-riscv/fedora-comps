@@ -2864,6 +2864,7 @@
       <packagereq type="default">cockpit-packagekit</packagereq>
       <packagereq type="default">cockpit-selinux</packagereq>
       <packagereq type="default">cockpit-storaged</packagereq>
+      <packagereq type="default">udisks2-lvm</packagereq>
       <packagereq type="optional">cockpit-pcp</packagereq>
     </packagelist>
   </group>
