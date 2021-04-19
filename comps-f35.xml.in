@@ -1507,6 +1507,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>fedora-bookmarks</packagereq>
+      <packagereq type="default">libglvnd-gles</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
     </packagelist>
   </group>
