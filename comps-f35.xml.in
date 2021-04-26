@@ -296,7 +296,6 @@
       <packagereq>xorg-x11-drv-vmware</packagereq>
       <packagereq>xorg-x11-drv-wacom</packagereq>
       <packagereq>xorg-x11-server-Xorg</packagereq>
-      <packagereq>xorg-x11-utils</packagereq>
       <packagereq>xorg-x11-xauth</packagereq>
       <packagereq>xorg-x11-xinit</packagereq>
     </packagelist>
