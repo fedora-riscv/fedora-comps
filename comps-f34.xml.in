@@ -3192,6 +3192,7 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
+      <packagereq type="optional">plasma-pk-updates</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
     </packagelist>
   </group>
