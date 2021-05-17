@@ -4047,7 +4047,7 @@
       <!-- required for IPv4 connection sharing ("Hotspot") to work -->
       <packagereq type="default">dnsmasq</packagereq>
       <!-- required for IPv4 connection sharing ("Hotspot") to work -->
-      <packagereq type="default">iptables</packagereq>
+      <packagereq type="default">iptables-nft</packagereq>
       <packagereq type="default">NetworkManager-bluetooth</packagereq>
       <packagereq type="default">NetworkManager-wifi</packagereq>
       <packagereq type="default">NetworkManager-wwan</packagereq>
