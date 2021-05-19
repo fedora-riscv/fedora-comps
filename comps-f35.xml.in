@@ -610,6 +610,7 @@
       <packagereq arch="ppc64le" type="default">powerpc-utils</packagereq>
       <packagereq arch="s390x" type="default">s390utils-base</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
+      <packagereq type="default">systemd-resolved</packagereq>
       <packagereq type="default">zram-generator-defaults</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
