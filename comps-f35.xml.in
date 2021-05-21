@@ -4301,6 +4301,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>calls</packagereq>
+      <packagereq>chatty</packagereq>
       <packagereq>cryptsetup</packagereq>
       <packagereq>dnf</packagereq>
       <packagereq>feedbackd</packagereq>
