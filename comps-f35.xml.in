@@ -3167,6 +3167,7 @@
       <packagereq>plasma-desktop-doc</packagereq>
       <packagereq>plasma-discover</packagereq>
       <packagereq>plasma-discover-notifier</packagereq>
+      <packagereq>plasma-disks</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
@@ -3178,6 +3179,7 @@
       <packagereq>plasma-pa</packagereq>
       <packagereq>plasma-systemmonitor</packagereq>
       <packagereq>plasma-thunderbolt</packagereq>
+      <packagereq>plasma-vault</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>plasma-workspace-xorg</packagereq>
       <packagereq>polkit-kde</packagereq>
