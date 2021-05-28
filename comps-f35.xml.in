@@ -3137,7 +3137,6 @@
       <packagereq>kf5-baloo-file</packagereq>
       <packagereq>kf5-kipi-plugins</packagereq>
       <packagereq>kfind</packagereq>
-      <packagereq>kget</packagereq>
       <packagereq>kgpg</packagereq>
       <packagereq>khelpcenter</packagereq>
       <packagereq>khotkeys</packagereq>
@@ -3232,7 +3231,6 @@
     <packagelist>
       <packagereq>dragon</packagereq>
       <packagereq>elisa-player</packagereq>
-      <packagereq>juk</packagereq>
       <packagereq>k3b</packagereq>
       <packagereq>kamoso</packagereq>
     </packagelist>
