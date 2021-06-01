@@ -6,23 +6,23 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Kris Thomsen <lakristho@gmail.com>, 2009, 2010, 2011, 2012
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
-# scootergrisen <scootergrisen@gmail.com>, 2017. #zanata
-# scootergrisen <scootergrisen@gmail.com>, 2018. #zanata
+# scootergrisen <scootergrisen@gmail.com>, 2017. #zanata, 2021.
+# scootergrisen <scootergrisen@gmail.com>, 2018. #zanata, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2018-09-21 01:06+0000\n"
+"PO-Revision-Date: 2021-06-03 15:03+0000\n"
 "Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
-"Language-Team: Danish (http://www.transifex.com/projects/p/comps/language/"
-"da/)\n"
+"Language-Team: Danish <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -50,19 +50,19 @@ msgstr "Anaconda-værktøjer"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM-værktøjer"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Værktøjer til at arbejde med arm-systemer"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 Baremetal-værktøjer"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Værktøjer til at arbejde med baremetal x86-systemer"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -168,16 +168,12 @@ msgid ""
 msgstr "Software til servere og systemaftryk som kører i \"sky\"-miljøer"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
-#| msgid "MATE Compiz"
 msgid "Compiz"
-msgstr "MATE Compiz"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
-#, fuzzy
-#| msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgid "This package group adds Compiz and Emerald"
-msgstr "Denne pakkegruppe tilføjer Compiz og Emerald til MATE-skrivebordet"
+msgstr "Denne pakkegruppe tilføjer Compiz og Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -217,21 +213,15 @@ msgstr ""
 "sti til alle Fedora spins"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Kritisk sti (KDE)"
+msgstr "Kritisk sti (Deepin-skrivebord)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
-"Et sæt af pakker som udbyder funktionaliteten Kritisk sti til KDE-"
+"Et sæt af pakker som udbyder funktionaliteten Kritisk sti til Deepin-"
 "skrivebordet"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
@@ -307,10 +297,8 @@ msgstr ""
 "Disse inkluderer udviklingsværktøjer og -biblioteker, såsom ldc og geany-tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Skrivebordsmiljøer"
+msgstr "Deepin-skrivebordsmiljø"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
@@ -319,16 +307,12 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Internetprogrammer"
+msgstr "Deepin-skrivebordsprogrammer"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Skrifttypepakker til visning af tekst på skrivebordet."
+msgstr "Mediepakker til Deepin-skrivebord"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
 #, fuzzy
@@ -944,7 +928,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Oversættelse af LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -1144,10 +1128,8 @@ msgstr "Hjælp og dokumentation på nettet"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Cinnamon-skrivebord"
+msgstr "Pantheon-skrivebord"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1682,10 +1664,8 @@ msgstr "MATE-skrivebord"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE-skrivebord"
+msgstr "Deepin-skrivebord"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
