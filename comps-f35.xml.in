@@ -4057,6 +4057,8 @@
       <packagereq type="default">NetworkManager-bluetooth</packagereq>
       <packagereq type="default">NetworkManager-wifi</packagereq>
       <packagereq type="default">NetworkManager-wwan</packagereq>
+      <!-- required for WIFI operation -->
+      <packagereq type="default">wpa_supplicant</packagereq>
     </packagelist>
   </group>
   <group>
