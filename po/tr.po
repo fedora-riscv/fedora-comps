@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-01-14 06:37+0000\n"
+"PO-Revision-Date: 2021-06-03 15:03+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/tr/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n>1);\n"
-"X-Generator: Weblate 4.4.1\n"
+"X-Generator: Weblate 4.6.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -1326,7 +1326,7 @@ msgstr "Standart"
 #: ../comps-f32.xml.in.h:250 ../comps-f33.xml.in.h:242
 #: ../comps-f34.xml.in.h:242
 msgid "Common set of utilities that extend the minimal installation."
-msgstr "En küçük kurulumu genişleten yardımcı yazılımların ortak seti."
+msgstr "Asgari kurulumu genişleten ortak yardımcı programlar kümesi."
 
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
@@ -1566,7 +1566,7 @@ msgstr "Özel bir Fedora sistemi için temel inşa bloğu."
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
 msgid "Minimal Install"
-msgstr "En Küçük Kurulum"
+msgstr "Asgari Kurulum"
 
 #: ../comps-f32.xml.in.h:297 ../comps-f33.xml.in.h:289
 #: ../comps-f34.xml.in.h:289
