@@ -16,21 +16,22 @@
 # Rodrigo Padula de Oliveira <rodrigopadula@gmail.com>, 2005
 # Taylon Silmer <taylon@taylon.eti.br>, 2011
 # Daniel Lara <danniel@fedoraproject.org>, 2016. #zanata
+# Rafael Fontenelle <rafaelff@gnome.org>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-09-06 08:34+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/"
-"comps/language/pt_BR/)\n"
+"PO-Revision-Date: 2021-06-07 19:04+0000\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
+"projects/fedora-comps/main/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.6.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -59,19 +60,19 @@ msgstr "Ferramentas do Anaconda"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "Ferramentas ARM"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Ferramentas para trabalhar com sistemas arm"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "Ferramentas de máquina física x86"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Ferramentas para trabalhar com sistemas de máquina física x86"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -154,7 +155,7 @@ msgstr "Infraestrututra na nuvem"
 
 #: ../comps-f32.xml.in.h:26 ../comps-f33.xml.in.h:24 ../comps-f34.xml.in.h:24
 msgid "Infrastructure packages for cloud computing."
-msgstr "Pacotes de infraestrutura para computação nas nuvens"
+msgstr "Pacotes de infraestrutura para computação nas nuvens."
 
 #: ../comps-f32.xml.in.h:27 ../comps-f33.xml.in.h:25 ../comps-f34.xml.in.h:25
 msgid "Cloud Management Tools"
@@ -180,25 +181,20 @@ msgstr ""
 "\""
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
-#| msgid "MATE Compiz"
 msgid "Compiz"
-msgstr "MATE Compiz"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
-#, fuzzy
-#| msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
-"Este grupo de pacotes adiciona Compiz e Emerald ao ambiente de trabalho MATE"
+msgstr "Este grupo de pacotes adiciona Compiz e Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
-msgstr "Gerenciamento de Contêiner."
+msgstr "Gerenciamento de contêiner"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
 msgid "Tools for managing Linux containers"
-msgstr "Ferramentas para gerenciar contêineres Linux."
+msgstr "Ferramentas para gerenciar contêineres Linux"
 
 #: ../comps-f32.xml.in.h:35 ../comps-f33.xml.in.h:33 ../comps-f34.xml.in.h:33
 #: ../comps-epel7.xml.in.h:41
@@ -230,22 +226,16 @@ msgstr ""
 "funcionalidades do Critical Path em todas as variantes do Fedora"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Critical Path (KDE)"
+msgstr "Critical Path (área de trabalho Deepin)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
 "Um conjunto de pacotes que fornecem as funcionalidades do Critical Path para "
-"o ambiente de trabalho KDE"
+"o ambiente de trabalho Deepin"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -321,40 +311,32 @@ msgstr ""
 "tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Ambientes de trabalho"
+msgstr "Ambiente de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Área de trabalho deepin é um ambiente de área de trabalho visa em ser "
+"elegante e fácil de usar."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Aplicativos de Internet"
+msgstr "Aplicativos de área de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Pacotes de fontes para renderizar textos no ambiente de trabalho."
+msgstr "Pacotes de mídia para ambiente de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Clientes de desktop remoto"
+msgstr "Escritório de área de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "Suíte de escritório para o LXDE"
+msgstr "Suíte de escritório para área de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -663,7 +645,7 @@ msgstr "HAProxy"
 #: ../comps-f32.xml.in.h:121 ../comps-f33.xml.in.h:117
 #: ../comps-f34.xml.in.h:117
 msgid "TCP/HTTP Load Balancer."
-msgstr "TCP/HTTP Load Balancer."
+msgstr "Balanceador de carga TCP/HTTP."
 
 #: ../comps-f32.xml.in.h:122 ../comps-f33.xml.in.h:118
 #: ../comps-f34.xml.in.h:118
@@ -887,7 +869,7 @@ msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
 "Esses pacotes são úteis quando está se desenvolvendo extensões ou macros do "
-"LibreOffice"
+"LibreOffice."
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
@@ -971,7 +953,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Traduções de LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -1006,7 +988,7 @@ msgstr "Aplicativos MATE"
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
 msgid "Applications for the MATE Desktop."
-msgstr "Aplicativos para o ambiente de trabalho MATE"
+msgstr "Aplicativos para o ambiente de trabalho MATE."
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
@@ -1030,7 +1012,7 @@ msgstr "Aplicativos Médicos"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr "Esse é um grupo de aplicativos relacionados a assistência médica"
+msgstr "Esse é um grupo de aplicativos relacionados a assistência médica."
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
@@ -1117,7 +1099,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Simuladores de modelagem neuron"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1125,6 +1107,7 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"Este grupo inclui simuladores usados em modelagem de neurons e suas redes."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
@@ -1166,15 +1149,14 @@ msgstr "Documentação e ajuda online"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Ambiente de trabalho Cinnamon"
+msgstr "Ambiente de trabalho pantheon"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
 msgstr ""
+"O ambiente de área de trabalho patheon é o DE que alimenta elementaryOS."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1209,15 +1191,13 @@ msgstr "Linguagem de uso geral para desenvolvimento de scripts para web."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Suporte à Marati"
+msgstr "Suporte à plataforma VMware"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "Pacotes para instalar em máquinas virtuais VMware"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1235,24 +1215,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Sala de Aula de Python"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Ferramentas usadas para ensinar e aprender Python."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Ciência dePython"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Ferramentas usada para fazer ciência no Python."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1294,7 +1272,7 @@ msgstr "Ruby on Rails"
 #: ../comps-f32.xml.in.h:233 ../comps-f33.xml.in.h:225
 #: ../comps-f34.xml.in.h:225
 msgid "Ruby on Rails web application stack."
-msgstr "Aplicativos para a web do Ruby on Rails"
+msgstr "Aplicativos para a web do Ruby on Rails."
 
 #: ../comps-f32.xml.in.h:234 ../comps-f33.xml.in.h:226
 #: ../comps-f34.xml.in.h:226
@@ -1457,7 +1435,7 @@ msgstr "Servidor de aplicativos para web Tomcat."
 #: ../comps-f32.xml.in.h:261 ../comps-f33.xml.in.h:253
 #: ../comps-f34.xml.in.h:253
 msgid "Vagrant with libvirt support"
-msgstr "Vagrant com suporte libvirt "
+msgstr "Vagrant com suporte libvirt"
 
 #: ../comps-f32.xml.in.h:262 ../comps-f33.xml.in.h:254
 #: ../comps-f34.xml.in.h:254
@@ -1477,7 +1455,7 @@ msgstr "Estes pacotes fornecem um ambiente gráfico de virtualização."
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
 msgid "Headless Virtualization"
-msgstr "Virtualização sem interface gráfica."
+msgstr "Virtualização sem interface gráfica"
 
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
@@ -1511,17 +1489,13 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Núcleo do produto Fedora Workstation"
+msgstr "Suporte a ostree no Fedora Workstation"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Pacotes obrigatórios para o produto workstation."
+msgstr "Pacotes obrigatórios para o produto ostree no workstation."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1707,10 +1681,8 @@ msgstr "Ambiente de trabalho MATE"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE Desktop."
+msgstr "Área de trabalho deepin"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1718,6 +1690,8 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Área de trabalho deeping é o ambiente de área de trabalho lançado com o "
+"deepin. Ele visa ser elegante e fácil de usar."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
@@ -1772,7 +1746,7 @@ msgstr "Sistema X Window com a escolha de um gerenciador de janelas."
 #: ../comps-f34.xml.in.h:316 ../comps-epel7.xml.in.h:128
 #: ../comps-epel8.xml.in.h:21
 msgid "KDE Desktop"
-msgstr "KDE Desktop."
+msgstr "KDE Desktop"
 
 #: ../comps-f32.xml.in.h:325 ../comps-f33.xml.in.h:317
 #: ../comps-f34.xml.in.h:317 ../comps-epel8.xml.in.h:22
@@ -1846,20 +1820,21 @@ msgstr "Textos e outros conteúdos livres."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Neurociência"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Ferramentas para neurociência."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Um ambiente de UX em telefone/tablet"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
 msgstr ""
+"Um ambiente de UX em telefone/tablet com base nas tecnologias do GNOME3."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
@@ -2121,7 +2096,7 @@ msgstr "Emacs"
 
 #: ../comps-epel7.xml.in.h:70
 msgid "The GNU Emacs extensible, customizable, text editor."
-msgstr "O GNU Emacs extensível, customizável, editor de textos"
+msgstr "O GNU Emacs extensível, customizável, editor de textos."
 
 #: ../comps-epel7.xml.in.h:71
 msgid "Esperanto Support"
@@ -2216,7 +2191,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:95
 msgid "Graphics Creation Tools"
-msgstr "Ferramentas de Criação Gráfica."
+msgstr "Ferramentas de Criação Gráfica"
 
 #: ../comps-epel7.xml.in.h:96
 msgid "Software for creation and manipulation of still images."
@@ -2755,7 +2730,7 @@ msgstr "Cliente de armazenamento FCoE"
 
 #: ../comps-epel7.xml.in.h:232
 msgid "Fiber Channel over Ethernet support"
-msgstr "Canal de fibra sobre suporte a Ethernet "
+msgstr "Canal de fibra sobre suporte a Ethernet"
 
 #: ../comps-epel7.xml.in.h:233
 msgid "iSCSI Storage Client"
@@ -2767,7 +2742,7 @@ msgstr "Suporte ao cliente iSCSI"
 
 #: ../comps-epel7.xml.in.h:235
 msgid "Storage Availability Tools"
-msgstr "Ferramentas de disponibilidade de armazenamento."
+msgstr "Ferramentas de disponibilidade de armazenamento"
 
 #: ../comps-epel7.xml.in.h:236
 msgid "A set of tools to manage SAN path availability"
@@ -2796,7 +2771,7 @@ msgstr "Suporte à Sueco"
 
 #: ../comps-epel7.xml.in.h:242
 msgid "System administration tools"
-msgstr "Ferramentas de administração do sistema."
+msgstr "Ferramentas de administração do sistema"
 
 #: ../comps-epel7.xml.in.h:243
 msgid "Utilities useful in system administration."
@@ -2804,7 +2779,7 @@ msgstr "Utilitários úteis em administração do sistema."
 
 #: ../comps-epel7.xml.in.h:244
 msgid "System Management"
-msgstr "Gerenciamento do Sistema."
+msgstr "Gerenciamento do sistema"
 
 #: ../comps-epel7.xml.in.h:245
 msgid "Various low-level hardware management frameworks."
@@ -2876,7 +2851,7 @@ msgstr "Suporte ao TeX"
 
 #: ../comps-epel7.xml.in.h:262
 msgid "Support for the TeX document formatting system."
-msgstr "Suporte ao sistema de formatação de documentos TeX"
+msgstr "Suporte ao sistema de formatação de documentos TeX."
 
 #: ../comps-epel7.xml.in.h:263
 msgid "Thai Support"
@@ -3004,7 +2979,7 @@ msgstr "X Window System"
 
 #: ../comps-epel7.xml.in.h:294
 msgid "X Window System Support."
-msgstr "Suporte ao X Window System"
+msgstr "Suporte ao X Window System."
 
 #: ../comps-epel7.xml.in.h:297
 msgid "Xhosa Support"
@@ -3016,7 +2991,7 @@ msgstr "Suporte à Zulu"
 
 #: ../comps-epel7.xml.in.h:301
 msgid "Desktops"
-msgstr "Desktops."
+msgstr "Desktops"
 
 #: ../comps-epel7.xml.in.h:302
 msgid "Desktops and thin clients."
