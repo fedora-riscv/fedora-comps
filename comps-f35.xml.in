@@ -1556,7 +1556,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
@@ -1566,7 +1565,6 @@
       <packagereq type="default">google-noto-sans-gurmukhi-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">khmer-os-system-fonts</packagereq>
       <packagereq type="default">liberation-mono-fonts</packagereq>
       <packagereq type="default">liberation-sans-fonts</packagereq>
@@ -1588,6 +1586,7 @@
       <packagereq type="default">smc-meera-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-2-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-fonts</packagereq>
@@ -1915,6 +1914,7 @@
       <packagereq type="optional">ipa-pgothic-fonts</packagereq>
       <packagereq type="optional">ipa-pmincho-fonts</packagereq>
       <packagereq type="optional">jsmath-fonts</packagereq>
+      <packagereq type="optional">julietaula-montserrat-fonts</packagereq>
       <packagereq type="optional">kacst-art-fonts</packagereq>
       <packagereq type="optional">kacst-book-fonts</packagereq>
       <packagereq type="optional">kacst-decorative-fonts</packagereq>
