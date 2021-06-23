@@ -4299,6 +4299,7 @@
       <packagereq>calls</packagereq>
       <packagereq>chatty</packagereq>
       <packagereq>cryptsetup</packagereq>
+      <packagereq>default-editor</packagereq>
       <packagereq>dnf</packagereq>
       <packagereq>feedbackd</packagereq>
       <packagereq>gnome-calculator</packagereq>
@@ -4315,8 +4316,6 @@
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>linux-firmware</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
-      <packagereq>nano</packagereq>
-      <packagereq>nano-default-editor</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
@@ -4447,9 +4446,8 @@
       <packagereq type="default">tar</packagereq>
       <packagereq type="default">unzip</packagereq>
       <packagereq type="default">valgrind</packagereq>
+      <packagereq type="optional">default-editor</packagereq>
       <packagereq type="optional">emacs</packagereq>
-      <packagereq type="optional">nano</packagereq>
-      <packagereq type="optional">nano-default-editor</packagereq>
       <packagereq type="optional">openssh-clients</packagereq>
       <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">wget</packagereq>
@@ -4637,6 +4635,7 @@
       <packagereq type="default">dc3dd</packagereq>
       <packagereq type="default">dcfldd</packagereq>
       <packagereq type="default">ddrescue</packagereq>
+      <packagereq type="default">default-editor</packagereq>
       <packagereq type="default">dhcping</packagereq>
       <packagereq type="default">dislocker</packagereq>
       <packagereq type="default">dnsenum</packagereq>
@@ -4687,8 +4686,6 @@
       <packagereq type="default">medusa</packagereq>
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">mutt</packagereq>
-      <packagereq type="default">nano</packagereq>
-      <packagereq type="default">nano-default-editor</packagereq>
       <packagereq type="default">nbtscan</packagereq>
       <packagereq type="default">ncrack</packagereq>
       <packagereq type="default">nebula</packagereq>
@@ -4994,6 +4991,7 @@
       <packagereq>cryptsetup</packagereq>
       <packagereq>cyrus-sasl-plain</packagereq>
       <packagereq>dbus</packagereq>
+      <packagereq>default-editor</packagereq>
       <packagereq>deltarpm</packagereq>
       <packagereq>dos2unix</packagereq>
       <packagereq>dosfstools</packagereq>
@@ -5017,8 +5015,6 @@
       <packagereq>microcode_ctl</packagereq>
       <packagereq>mlocate</packagereq>
       <packagereq>mtr</packagereq>
-      <packagereq>nano</packagereq>
-      <packagereq>nano-default-editor</packagereq>
       <packagereq>net-tools</packagereq>
       <packagereq>nfs-utils</packagereq>
       <packagereq>nmap-ncat</packagereq>
@@ -5533,6 +5529,7 @@
       <packagereq type="default">cpio</packagereq>
       <packagereq type="default">cryptsetup</packagereq>
       <packagereq type="default">cyrus-sasl-plain</packagereq>
+      <packagereq type="default">default-editor</packagereq>
       <packagereq type="default">deltarpm</packagereq>
       <packagereq type="default">desktop-backgrounds-gnome</packagereq>
       <packagereq type="default">dnf-plugins-core</packagereq>
@@ -5571,8 +5568,6 @@
       <packagereq type="default">mediawriter</packagereq>
       <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
-      <packagereq type="default">nano</packagereq>
-      <packagereq type="default">nano-default-editor</packagereq>
       <packagereq type="default">net-tools</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">nfs-utils</packagereq>
