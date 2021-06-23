@@ -2772,9 +2772,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>haproxy</packagereq>
-      <packagereq>rubygem-abrt</packagereq>
-      <packagereq>rubygem-daemons</packagereq>
-      <packagereq>rubygem-rest-client</packagereq>
     </packagelist>
   </group>
   <group>
