@@ -1138,7 +1138,6 @@
       <packagereq type="default">eclipse-egit</packagereq>
       <packagereq type="default">eclipse-mpc</packagereq>
       <packagereq type="default">eclipse-pde</packagereq>
-      <packagereq type="optional">eclipse-findbugs</packagereq>
       <packagereq type="optional">eclipse-m2e-core</packagereq>
     </packagelist>
   </group>
@@ -3053,9 +3052,6 @@
       <packagereq type="default">xerces-j2</packagereq>
       <packagereq type="default">xml-commons-apis</packagereq>
       <packagereq type="default">xml-commons-resolver</packagereq>
-      <packagereq type="optional">ant-findbugs</packagereq>
-      <packagereq type="optional">findbugs</packagereq>
-      <packagereq type="optional">findbugs-tools</packagereq>
       <packagereq type="optional">jcip-annotations</packagereq>
       <packagereq type="optional">jsr-305</packagereq>
     </packagelist>
