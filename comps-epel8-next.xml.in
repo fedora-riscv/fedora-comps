@@ -169,8 +169,8 @@
       <packagereq>kiten</packagereq>
       <packagereq>klettres</packagereq>
       <packagereq>kmplot</packagereq>
-      <packagereq>ktouch</packagereq>
       <packagereq>kstars</packagereq>
+      <packagereq>ktouch</packagereq>
       <packagereq>kturtle</packagereq>
       <packagereq>kwordquiz</packagereq>
       <packagereq>marble</packagereq>
