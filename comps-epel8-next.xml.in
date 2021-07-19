@@ -54,6 +54,7 @@
       <packagereq>kmines</packagereq>
       <packagereq>kolourpaint</packagereq>
       <packagereq>konversation</packagereq>
+      <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
       <packagereq>krfb</packagereq>
       <packagereq>krusader</packagereq>
@@ -159,6 +160,7 @@
       <packagereq>blinken</packagereq>
       <packagereq>cantor</packagereq>
       <packagereq>kalgebra</packagereq>
+      <packagereq>kalzium</packagereq>
       <packagereq>kanagram</packagereq>
       <packagereq>kbruch</packagereq>
       <packagereq>kgeography</packagereq>
@@ -168,6 +170,7 @@
       <packagereq>klettres</packagereq>
       <packagereq>kmplot</packagereq>
       <packagereq>ktouch</packagereq>
+      <packagereq>kstars</packagereq>
       <packagereq>kturtle</packagereq>
       <packagereq>kwordquiz</packagereq>
       <packagereq>marble</packagereq>
@@ -196,6 +199,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq>calligra-sheets</packagereq>
+      <packagereq>calligra-stage</packagereq>
+      <packagereq>calligra-words</packagereq>
       <packagereq>okular</packagereq>
     </packagelist>
   </group>
