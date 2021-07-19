@@ -54,7 +54,6 @@
       <packagereq>kmines</packagereq>
       <packagereq>kolourpaint</packagereq>
       <packagereq>konversation</packagereq>
-      <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
       <packagereq>krfb</packagereq>
       <packagereq>krusader</packagereq>
@@ -70,6 +69,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>akregator</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>colord-kde</packagereq>
@@ -80,10 +80,10 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
-      <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-gtk-config</packagereq>
       <packagereq>kde-partitionmanager</packagereq>
@@ -104,24 +104,28 @@
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
       <packagereq>kmag</packagereq>
+      <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>kmousetool</packagereq>
       <packagereq>kmouth</packagereq>
-      <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
+      <packagereq>kontact</packagereq>
+      <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
       <packagereq>kscreenlocker</packagereq>
       <packagereq>ksshaskpass</packagereq>
-      <packagereq>ksysguard</packagereq>
       <packagereq>kwalletmanager5</packagereq>
-      <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
+      <packagereq>okular</packagereq>
       <packagereq>pam-kwallet</packagereq>
+      <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
+      <packagereq>plasma-discover</packagereq>
+      <packagereq>plasma-discover-notifier</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
@@ -130,8 +134,8 @@
       <packagereq>plasma-nm-openvpn</packagereq>
       <packagereq>plasma-nm-pptp</packagereq>
       <packagereq>plasma-pa</packagereq>
-      <packagereq>plasma-pk-updates</packagereq>
-      <packagereq>plasma-user-manager</packagereq>
+      <packagereq>plasma-systemmonitor</packagereq>
+      <packagereq>plasma-thunderbolt</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
@@ -155,7 +159,6 @@
       <packagereq>blinken</packagereq>
       <packagereq>cantor</packagereq>
       <packagereq>kalgebra</packagereq>
-      <packagereq>kalzium</packagereq>
       <packagereq>kanagram</packagereq>
       <packagereq>kbruch</packagereq>
       <packagereq>kgeography</packagereq>
@@ -164,7 +167,6 @@
       <packagereq>kiten</packagereq>
       <packagereq>klettres</packagereq>
       <packagereq>kmplot</packagereq>
-      <packagereq>kstars</packagereq>
       <packagereq>ktouch</packagereq>
       <packagereq>kturtle</packagereq>
       <packagereq>kwordquiz</packagereq>
@@ -194,9 +196,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>calligra-sheets</packagereq>
-      <packagereq>calligra-stage</packagereq>
-      <packagereq>calligra-words</packagereq>
       <packagereq>okular</packagereq>
     </packagelist>
   </group>
@@ -208,16 +207,12 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cmake</packagereq>
-      <packagereq type="mandatory">kdelibs-devel</packagereq>
-      <packagereq type="mandatory">qt-devel</packagereq>
       <packagereq type="default">cervisia</packagereq>
       <packagereq type="default">dolphin-plugins</packagereq>
       <packagereq type="default">kapptemplate</packagereq>
       <packagereq type="default">kate</packagereq>
       <packagereq type="default">kcachegrind</packagereq>
       <packagereq type="default">kde-dev-scripts</packagereq>
-      <packagereq type="default">kdelibs-webkit-devel</packagereq>
-      <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk-kioslaves</packagereq>
       <packagereq type="default">kdesdk-thumbnailers</packagereq>
       <packagereq type="default">kdevelop</packagereq>
@@ -226,14 +221,11 @@
       <packagereq type="default">kuiviewer</packagereq>
       <packagereq type="default">okteta</packagereq>
       <packagereq type="default">poxml</packagereq>
-      <packagereq type="default">pykde4-devel</packagereq>
-      <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
       <packagereq type="optional">cantor-devel</packagereq>
       <packagereq type="optional">gambas3-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
-      <packagereq type="optional">kdelibs3-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">kiten-devel</packagereq>
@@ -246,8 +238,6 @@
       <packagereq type="optional">marble-widget-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
-      <packagereq type="optional">qt3-designer</packagereq>
-      <packagereq type="optional">qt3-devel</packagereq>
       <packagereq type="optional">qtwebkit-devel</packagereq>
       <packagereq type="optional">rocs-devel</packagereq>
     </packagelist>
