@@ -320,7 +320,7 @@
       <groupid>multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
+      <groupid>print-client</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>kde-desktop</groupid>
     </grouplist>
