@@ -325,11 +325,11 @@
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>firefox</groupid>
-      <groupid>kde-apps</groupid>
+      <groupid default="true">firefox</groupid>
+      <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
-      <groupid>kde-media</groupid>
-      <groupid>kde-office</groupid>
+      <groupid default="true">kde-media</groupid>
+      <groupid default="true">libreoffice</groupid>
     </optionlist>
   </environment>
   <category>
@@ -342,7 +342,7 @@
       <groupid>kde-desktop</groupid>
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
-      <groupid>kde-office</groupid>
+      <groupid>libreoffice</groupid>
     </grouplist>
   </category>
 </comps>
