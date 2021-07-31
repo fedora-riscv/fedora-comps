@@ -1603,7 +1603,6 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="default">pt-sans-fonts</packagereq>
       <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
@@ -2053,6 +2052,7 @@
       <packagereq type="optional">polarsys-b612-mono-fonts</packagereq>
       <packagereq type="optional">polarsys-b612-sans-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
+      <packagereq type="optional">pt-sans-fonts</packagereq>
       <packagereq type="optional">saab-fonts</packagereq>
       <packagereq type="optional">samyak-devanagari-fonts</packagereq>
       <packagereq type="optional">samyak-gujarati-fonts</packagereq>
