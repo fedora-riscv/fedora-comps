@@ -2908,8 +2908,8 @@
       <packagereq type="mandatory">lightdm-gtk-greeter-settings</packagereq>
       <packagereq type="mandatory">mousepad</packagereq>
       <packagereq type="mandatory">network-manager-applet</packagereq>
-      <packagereq type="mandatory">nmcli</packagereq>
-      <packagereq type="mandatory">pactl</packagereq>
+      <packagereq type="mandatory">NetworkManager</packagereq>
+      <packagereq type="mandatory">pulseaudio-utils</packagereq>
       <packagereq type="mandatory">pavucontrol</packagereq>
       <packagereq type="mandatory">volumeicon</packagereq>
       <packagereq type="mandatory">xbrightlight</packagereq>
