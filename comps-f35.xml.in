@@ -2912,7 +2912,7 @@
       <packagereq type="mandatory">pulseaudio-utils</packagereq>
       <packagereq type="mandatory">pavucontrol</packagereq>
       <packagereq type="mandatory">volumeicon</packagereq>
-      <packagereq type="mandatory">xbrightlight</packagereq>
+      <packagereq type="mandatory">brightnessctl</packagereq>
       <packagereq type="default">azote</packagereq>
       <packagereq type="default">dmenu</packagereq>
       <packagereq type="default">firefox</packagereq>
