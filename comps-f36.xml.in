@@ -2474,6 +2474,7 @@
       <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">gedit</packagereq>
       <packagereq type="mandatory">gnome-boxes</packagereq>
+      <packagereq type="mandatory">gnome-connections</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
       <packagereq type="mandatory">gnome-initial-setup</packagereq>
       <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
