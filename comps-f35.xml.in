@@ -3763,10 +3763,10 @@
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
-      <packagereq>f34-backgrounds-base</packagereq>
-      <packagereq>f34-backgrounds-extras-base</packagereq>
-      <packagereq>f34-backgrounds-extras-mate</packagereq>
-      <packagereq>f34-backgrounds-mate</packagereq>
+      <packagereq>f35-backgrounds-base</packagereq>
+      <packagereq>f35-backgrounds-extras-base</packagereq>
+      <packagereq>f35-backgrounds-extras-mate</packagereq>
+      <packagereq>f35-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
