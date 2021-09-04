@@ -5690,7 +5690,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>memtest86+</packagereq>
       <packagereq>syslinux</packagereq>
     </packagelist>
   </group>
