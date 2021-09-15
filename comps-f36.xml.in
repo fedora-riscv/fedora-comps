@@ -219,6 +219,7 @@
       <packagereq type="default">timidity++</packagereq>
       <packagereq type="default">tuxguitar</packagereq>
       <packagereq type="default">vmpk</packagereq>
+      <packagereq type="default">wireplumber</packagereq>
       <packagereq type="default">whysynth-dssi</packagereq>
       <packagereq type="default">xsynth-dssi</packagereq>
       <packagereq type="default">yoshimi</packagereq>
@@ -465,6 +466,7 @@
       <packagereq type="mandatory">tmux-powerline</packagereq>
       <packagereq type="mandatory">transmission</packagereq>
       <packagereq type="mandatory">vim-powerline</packagereq>
+      <packagereq type="default">wireplumber</packagereq>
       <packagereq type="mandatory">xawtv</packagereq>
       <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
       <packagereq type="mandatory">xed</packagereq>
@@ -3862,6 +3864,7 @@
       <packagereq>transmission-gtk</packagereq>
       <packagereq>usermode-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
+      <packagereq>wireplumber</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xmodmap</packagereq>
       <packagereq>xrdb</packagereq>
@@ -3976,6 +3979,7 @@
       <packagereq>pipewire-gstreamer</packagereq>
       <packagereq>pipewire-pulseaudio</packagereq>
       <packagereq>pipewire-utils</packagereq>
+      <packagereq>wireplumber</packagereq>
       <packagereq type="conditional" requires="gstreamer">gstreamer-plugins-espeak</packagereq>
     </packagelist>
   </group>
@@ -4948,6 +4952,7 @@
       <packagereq type="optional">vdr-streamdev-server</packagereq>
       <packagereq type="optional">volumeicon</packagereq>
       <packagereq type="optional">vorbis-tools</packagereq>
+      <packagereq type="optional">wireplumber</packagereq>
       <packagereq type="optional">wodim</packagereq>
       <packagereq type="optional">xfburn</packagereq>
       <packagereq type="optional">xmms</packagereq>
@@ -5142,6 +5147,7 @@
       <packagereq>sugar-typing-turtle</packagereq>
       <packagereq>sugar-words</packagereq>
       <packagereq>sugar-write</packagereq>
+      <packagereq>wireplumber</packagereq>
     </packagelist>
   </group>
   <group>
