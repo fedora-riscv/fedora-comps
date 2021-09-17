@@ -2543,6 +2543,7 @@
       <packagereq type="default">tracker</packagereq>
       <packagereq type="default">tracker-miners</packagereq>
       <packagereq type="default">xdg-desktop-portal</packagereq>
+      <packagereq type="default">xdg-desktop-portal-gnome</packagereq>
       <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
       <packagereq type="default">xdg-user-dirs-gtk</packagereq>
     </packagelist>
