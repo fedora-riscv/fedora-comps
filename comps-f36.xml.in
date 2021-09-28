@@ -3736,6 +3736,7 @@
       <packagereq>mate-utils</packagereq>
       <packagereq>multimedia-menus</packagereq>
       <packagereq>pidgin</packagereq>
+      <packagereq>pluma-plugins</packagereq>
       <packagereq>python3-caja</packagereq>
       <packagereq>tigervnc</packagereq>
     </packagelist>
