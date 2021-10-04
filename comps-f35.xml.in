@@ -1128,13 +1128,13 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">pki-ca</packagereq>
-      <packagereq type="default">pki-console</packagereq>
-      <packagereq type="default">pki-kra</packagereq>
-      <packagereq type="default">pki-ocsp</packagereq>
-      <packagereq type="optional">pki-javadoc</packagereq>
-      <packagereq type="optional">pki-tks</packagereq>
-      <packagereq type="optional">pki-tps</packagereq>
+      <packagereq type="mandatory">dogtag-pki-ca</packagereq>
+      <packagereq type="default">dogtag-pki-acme</packagereq>
+      <packagereq type="default">dogtag-pki-kra</packagereq>
+      <packagereq type="default">dogtag-pki-ocsp</packagereq>
+      <packagereq type="optional">dogtag-pki-javadoc</packagereq>
+      <packagereq type="optional">dogtag-pki-tks</packagereq>
+      <packagereq type="optional">dogtag-pki-tps</packagereq>
     </packagelist>
   </group>
   <group>
