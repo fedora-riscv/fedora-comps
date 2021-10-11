@@ -1506,8 +1506,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>fedora-bookmarks</packagereq>
-      <packagereq type="default">libglvnd-gles</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
+      <packagereq type="default">libglvnd-gles</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3159,8 +3159,8 @@
       <packagereq>kwrite</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq>okular</packagereq>
-      <packagereq>pam-kwallet</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
+      <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>pinentry-qt</packagereq>
       <packagereq>plasma-breeze</packagereq>
@@ -3857,9 +3857,9 @@
       <packagereq>usermode-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xfburn</packagereq>
       <packagereq>xmodmap</packagereq>
       <packagereq>xrdb</packagereq>
-      <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq type="default">fedora-release-matecompiz</packagereq>
     </packagelist>

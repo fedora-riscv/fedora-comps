@@ -219,8 +219,8 @@
       <packagereq type="default">timidity++</packagereq>
       <packagereq type="default">tuxguitar</packagereq>
       <packagereq type="default">vmpk</packagereq>
-      <packagereq type="default">wireplumber</packagereq>
       <packagereq type="default">whysynth-dssi</packagereq>
+      <packagereq type="default">wireplumber</packagereq>
       <packagereq type="default">xsynth-dssi</packagereq>
       <packagereq type="default">yoshimi</packagereq>
       <packagereq type="default">zita-at1</packagereq>
@@ -466,12 +466,12 @@
       <packagereq type="mandatory">tmux-powerline</packagereq>
       <packagereq type="mandatory">transmission</packagereq>
       <packagereq type="mandatory">vim-powerline</packagereq>
-      <packagereq type="default">wireplumber</packagereq>
       <packagereq type="mandatory">xawtv</packagereq>
       <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
       <packagereq type="mandatory">xed</packagereq>
       <packagereq type="mandatory">xfburn</packagereq>
       <packagereq type="mandatory">xreader</packagereq>
+      <packagereq type="default">wireplumber</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1519,8 +1519,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>fedora-bookmarks</packagereq>
-      <packagereq type="default">libglvnd-gles</packagereq>
       <packagereq type="mandatory">firefox</packagereq>
+      <packagereq type="default">libglvnd-gles</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2890,6 +2890,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">brightnessctl</packagereq>
       <packagereq type="mandatory">dunst</packagereq>
       <packagereq type="mandatory">i3</packagereq>
       <packagereq type="mandatory">i3lock</packagereq>
@@ -2900,10 +2901,9 @@
       <packagereq type="mandatory">mousepad</packagereq>
       <packagereq type="mandatory">network-manager-applet</packagereq>
       <packagereq type="mandatory">NetworkManager</packagereq>
-      <packagereq type="mandatory">pulseaudio-utils</packagereq>
       <packagereq type="mandatory">pavucontrol</packagereq>
+      <packagereq type="mandatory">pulseaudio-utils</packagereq>
       <packagereq type="mandatory">volumeicon</packagereq>
-      <packagereq type="mandatory">brightnessctl</packagereq>
       <packagereq type="default">azote</packagereq>
       <packagereq type="default">dmenu</packagereq>
       <packagereq type="default">firefox</packagereq>
@@ -3114,6 +3114,13 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
+      <packagereq type="mandatory">sddm</packagereq>
+      <packagereq type="mandatory">sddm-breeze</packagereq>
+      <packagereq type="mandatory">sddm-kcm</packagereq>
+      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
       <packagereq type="default">akregator</packagereq>
@@ -3196,13 +3203,6 @@
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
-      <packagereq type="mandatory">plasma-desktop</packagereq>
-      <packagereq type="mandatory">plasma-workspace</packagereq>
-      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
-      <packagereq type="mandatory">sddm</packagereq>
-      <packagereq type="mandatory">sddm-breeze</packagereq>
-      <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3869,9 +3869,9 @@
       <packagereq>vim-enhanced</packagereq>
       <packagereq>wireplumber</packagereq>
       <packagereq>xdg-user-dirs-gtk</packagereq>
+      <packagereq>xfburn</packagereq>
       <packagereq>xmodmap</packagereq>
       <packagereq>xrdb</packagereq>
-      <packagereq>xfburn</packagereq>
       <packagereq>yelp</packagereq>
       <packagereq type="default">fedora-release-matecompiz</packagereq>
     </packagelist>
