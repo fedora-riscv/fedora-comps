@@ -2632,7 +2632,7 @@
       <packagereq type="optional" variant="AppStream">khmer-os-battambang-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmer-os-bokor-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmer-os-content-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-fasthad-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">khmer-os-fasthand-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmer-os-freehand-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmer-os-handwritten-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">khmer-os-metal-chrieng-fonts</packagereq>
