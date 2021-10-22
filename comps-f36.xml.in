@@ -3202,6 +3202,7 @@
       <packagereq type="default">polkit-kde</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
+      <packagereq type="default">xdg-desktop-portal-gnome</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
     </packagelist>
   </group>
