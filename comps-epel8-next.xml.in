@@ -8,23 +8,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">glx-utils</packagereq>
-      <packagereq type="mandatory">mesa-dri-drivers</packagereq>
-      <packagereq type="mandatory">plymouth-system-theme</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-fbdev</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-intel</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-nouveau</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-qxl</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-vesa</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-vmware</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-wacom</packagereq>
-      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
-      <packagereq type="mandatory">xorg-x11-utils</packagereq>
-      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
-      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
-      <packagereq type="mandatory">xorg-x11-xinit-session</packagereq>
     </packagelist>
   </group>
   <group>
@@ -33,17 +16,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">rsyslog-gnutls</packagereq>
-      <packagereq type="mandatory">rsyslog-gssapi</packagereq>
-      <packagereq type="mandatory">rsyslog-relp</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
-      <packagereq type="default">insights-client</packagereq>
-      <packagereq type="default">nmap-ncat</packagereq>
-      <packagereq type="default">pinfo</packagereq>
-      <packagereq type="default">plymouth</packagereq>
-      <packagereq type="default">rhc</packagereq>
-      <packagereq type="default">tcpdump</packagereq>
-      <packagereq type="default">vim-enhanced</packagereq>
       <packagereq type="default">wget</packagereq>
     </packagelist>
   </group>
@@ -53,10 +25,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">plymouth</packagereq>
-      <packagereq type="mandatory">rsyslog</packagereq>
       <packagereq type="default">rhc</packagereq>
-      <packagereq type="optional">initial-setup</packagereq>
     </packagelist>
   </group>
   <group>
@@ -71,10 +40,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">ppp</packagereq>
-      <packagereq type="default">ModemManager</packagereq>
-      <packagereq type="default">NetworkManager-adsl</packagereq>
-      <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">minicom</packagereq>
     </packagelist>
   </group>
@@ -85,9 +50,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">abattis-cantarell-fonts</packagereq>
-      <packagereq type="default">gnu-free-mono-fonts</packagereq>
-      <packagereq type="default">gnu-free-sans-fonts</packagereq>
-      <packagereq type="default">gnu-free-serif-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -96,19 +58,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">ibus-hangul</packagereq>
-      <packagereq type="default">ibus-kkc</packagereq>
-      <packagereq type="default">ibus-libpinyin</packagereq>
-      <packagereq type="default">ibus-libzhuyin</packagereq>
-      <packagereq type="default">ibus-m17n</packagereq>
-      <packagereq type="default">ibus-typing-booster</packagereq>
-      <packagereq type="optional">ibus-sayura</packagereq>
-      <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-array30</packagereq>
-      <packagereq requires="gtk2" type="conditional">gtk2-immodule-xim</packagereq>
-      <packagereq requires="gtk3" type="conditional">gtk3-immodule-xim</packagereq>
-      <packagereq requires="gtk2" type="conditional">ibus-gtk2</packagereq>
-      <packagereq requires="gtk3" type="conditional">ibus-gtk3</packagereq>
     </packagelist>
   </group>
   <group>
@@ -117,17 +67,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">PackageKit-gstreamer-plugin</packagereq>
-      <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
-      <packagereq type="mandatory">alsa-ucm</packagereq>
       <packagereq type="mandatory">alsa-utils</packagereq>
-      <packagereq type="mandatory">gstreamer1-plugins-bad-free</packagereq>
-      <packagereq type="mandatory">gstreamer1-plugins-good</packagereq>
-      <packagereq type="mandatory">gstreamer1-plugins-ugly-free</packagereq>
-      <packagereq type="mandatory">pulseaudio</packagereq>
-      <packagereq type="mandatory">pulseaudio-module-x11</packagereq>
-      <packagereq type="mandatory">pulseaudio-utils</packagereq>
-      <packagereq type="optional">pavucontrol</packagereq>
     </packagelist>
   </group>
   <group>
@@ -145,29 +85,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">alsa-sof-firmware</packagereq>
       <packagereq type="default">bolt</packagereq>
-      <packagereq type="default">iwl100-firmware</packagereq>
-      <packagereq type="default">iwl1000-firmware</packagereq>
-      <packagereq type="default">iwl105-firmware</packagereq>
-      <packagereq type="default">iwl135-firmware</packagereq>
-      <packagereq type="default">iwl2000-firmware</packagereq>
-      <packagereq type="default">iwl2030-firmware</packagereq>
-      <packagereq type="default">iwl3160-firmware</packagereq>
-      <packagereq type="default">iwl5000-firmware</packagereq>
-      <packagereq type="default">iwl5150-firmware</packagereq>
-      <packagereq type="default">iwl6000-firmware</packagereq>
-      <packagereq type="default">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default">iwl6000g2b-firmware</packagereq>
-      <packagereq type="default">iwl6050-firmware</packagereq>
-      <packagereq type="default">iwl7260-firmware</packagereq>
-      <packagereq type="default">libertas-usb8388-firmware</packagereq>
-      <packagereq type="default">usb_modeswitch</packagereq>
-      <packagereq type="optional">lsscsi</packagereq>
-      <packagereq type="optional">opensc</packagereq>
-      <packagereq type="optional">openssl-pkcs11</packagereq>
-      <packagereq type="optional">pcsc-lite</packagereq>
-      <packagereq type="optional">pcsc-lite-ccid</packagereq>
     </packagelist>
   </group>
   <group>
@@ -177,18 +95,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cups</packagereq>
-      <packagereq type="mandatory">cups-pk-helper</packagereq>
-      <packagereq type="mandatory">enscript</packagereq>
-      <packagereq type="default">colord</packagereq>
-      <packagereq type="default">gutenprint</packagereq>
-      <packagereq type="default">gutenprint-cups</packagereq>
-      <packagereq type="default">gutenprint-doc</packagereq>
-      <packagereq type="default">hpijs</packagereq>
-      <packagereq type="default">paps</packagereq>
-      <packagereq type="default">pnm2ppa</packagereq>
-      <packagereq type="default">system-config-printer-udev</packagereq>
-      <packagereq type="optional">hplip</packagereq>
-      <packagereq type="optional">hplip-gui</packagereq>
     </packagelist>
   </group>
   <group>
@@ -197,10 +103,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">hyperv-daemons</packagereq>
-      <packagereq type="mandatory">open-vm-tools-desktop</packagereq>
-      <packagereq type="mandatory">qemu-guest-agent</packagereq>
-      <packagereq type="mandatory">spice-vdagent</packagereq>
       <packagereq type="optional">spice-streaming-agent</packagereq>
     </packagelist>
   </group>
