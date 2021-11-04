@@ -2805,6 +2805,7 @@
       <packagereq type="default">iwl6000g2b-firmware</packagereq>
       <packagereq type="default">iwl6050-firmware</packagereq>
       <packagereq type="default">iwl7260-firmware</packagereq>
+      <packagereq type="default">iwlax2xx-firmware</packagereq>
       <packagereq arch="armhfp" type="default">libertas-sd8686-firmware</packagereq>
       <packagereq arch="armhfp" type="default">libertas-sd8787-firmware</packagereq>
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
