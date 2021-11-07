@@ -24,21 +24,22 @@
 # Raphael Groner <projects.rg@smart.ms>, 2016. #zanata
 # Tobias Weise <tobias.weise@web.de>, 2016. #zanata, 2020.
 # Wolfgang Stoeggl <c72578@yahoo.de>, 2020.
+# Ettore Atalan <atalanttore@googlemail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2020-09-26 23:29+0000\n"
-"Last-Translator: Wolfgang Stoeggl <c72578@yahoo.de>\n"
-"Language-Team: German <https://translate.fedoraproject.org/projects/fedora-"
-"comps/master/de/>\n"
+"PO-Revision-Date: 2021-11-08 14:05+0000\n"
+"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"Language-Team: German <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2.2\n"
+"X-Generator: Weblate 4.8\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -67,11 +68,11 @@ msgstr "Anaconda-Werkzeuge"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM-Werkzeuge"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Werkzeuge für die Arbeit mit ARM-Systemen"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
@@ -185,16 +186,12 @@ msgid ""
 msgstr "Software für Server und Cloud-Abbilder"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
-#| msgid "MATE Compiz"
 msgid "Compiz"
-msgstr "MATE-Benutzeroberfläche"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
-#, fuzzy
-#| msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgid "This package group adds Compiz and Emerald"
-msgstr "Dieses Paket fügt Compiz und Emerald zur MATE Desktopumgebung hinzu"
+msgstr "Dieses Paket fügt Compiz und Emerald hinzu"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -234,22 +231,16 @@ msgstr ""
 "Funktionalität des kritischen Pfades bei allen Fedora-Spins bereitstellt"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Kritischer Pfad (KDE)"
+msgstr "Kritischer Pfad (Deepin desktop)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
 "Eine Sammlung von Paketen, welche die Funktionalität des kritischen Pfades "
-"für die KDE-Arbeitsumgebung bereitstellt."
+"für die Deepin-Arbeitsumgebung bereitstellt."
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -325,40 +316,35 @@ msgstr ""
 "geany-tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Arbeitsumgebungen"
+msgstr "Deepin-Arbeitsumgebung"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
+#, fuzzy
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Deepin Desktop ist eine Desktop-Umgebung, die elegant und einfach zu "
+"bedienen sein soll."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Internet-Anwendungen"
+msgstr "Deepin-Desktop-Anwendungen"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Schriftarten-Pakete zum Darstellen von Text auf dem Desktop."
+msgstr "Medienpakete für Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
 #, fuzzy
 #| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Clients für entfernte Arbeitsumgebungen"
+msgstr "Deepin Desktop Office"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "Office-Suite für LXDE"
+msgstr "Office-Suite für Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -975,7 +961,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Übersetzungen von LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -1121,7 +1107,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Simulatoren zur Neuronenmodellierung"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1129,6 +1115,8 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"Zu dieser Gruppe gehören Simulatoren für die Modellierung von Neuronen und "
+"ihren Netzen."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
@@ -1173,7 +1161,7 @@ msgstr "Online-Hilfe und Dokumentation"
 #, fuzzy
 #| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Cinnamon-Benutzeroberfläche"
+msgstr "Pantheon Desktop"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1214,15 +1202,13 @@ msgstr "Allgemeine Scripting-Sprache für Webentwicklung."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Unterstützung für Marathi"
+msgstr "VMware-Plattformunterstützung"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "Pakete zur Installation in virtuellen VMware-Maschinen"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1240,24 +1226,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Python-Klassenzimmer"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Werkzeuge zum Lehren und Lernen von Python."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Python-Wissenschaft"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Werkzeuge für die wissenschaftliche Arbeit in Python."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1517,17 +1501,13 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Fedora Workstation"
+msgstr "Fedora Workstation ostree-Unterstützung"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Pakete zwingend notwendig für Fedora Workstation"
+msgstr "Obligatorische Pakete für das Produkt Workstation ostree."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1719,14 +1699,17 @@ msgstr "MATE-Benutzeroberfläche"
 #, fuzzy
 #| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE Desktop"
+msgstr "Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
+#, fuzzy
 msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Deepin Desktop ist die mit Deepin veröffentlichte Desktop-Umgebung. Sie soll "
+"elegant und einfach zu bedienen sein."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
@@ -1855,20 +1838,20 @@ msgstr "Text und anderer freier Inhalt"
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Neurowissenschaften"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Werkzeuge für die Neurowissenschaften."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Eine Telefon-/Tablet-UX-Umgebung"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
-msgstr ""
+msgstr "Eine Telefon-/Tablet-Desktop-UX basierend auf GNOME3-Technologien."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
