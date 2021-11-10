@@ -4090,6 +4090,7 @@
       <packagereq type="optional">genesis-simulator</packagereq>
       <packagereq type="optional">moose</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
+      <packagereq type="optional">python3-lfpy</packagereq>
       <packagereq type="optional">python3-nest</packagereq>
       <packagereq type="optional">python3-netpyne</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
