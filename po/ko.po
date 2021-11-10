@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-04-13 08:02+0000\n"
+"PO-Revision-Date: 2021-11-11 08:05+0000\n"
 "Last-Translator: simmon <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5.3\n"
+"X-Generator: Weblate 4.8.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -1381,7 +1381,7 @@ msgstr "대형 데스크탑 환경의 일부분이 아닌 간단한 윈도우 �
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
 msgid "Fedora Workstation ostree support"
-msgstr "워크스테이션 ostree 지원"
+msgstr "페도라 웍스테이션 ostree 지원"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
