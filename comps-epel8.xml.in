@@ -2,6 +2,111 @@
 <!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">
 <comps>
   <group>
+    <id>base-x</id>
+    <_name>base-x</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">glx-utils</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>standard</id>
+    <_name>standard</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">wget</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>core</id>
+    <_name>core</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">rhc</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>admin-tools</id>
+    <_name>admin-tools</_name>
+    <default>false</default>
+    <uservisible>true</uservisible>
+  </group>
+  <group>
+    <id>dial-up</id>
+    <_name>dial-up</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">minicom</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>fonts</id>
+    <_name>fonts</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">abattis-cantarell-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>input-methods</id>
+    <_name>input-methods</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">ibus-table-array30</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>multimedia</id>
+    <_name>multimedia</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">alsa-utils</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>networkmanager-submodules</id>
+    <_name>networkmanager-submodules</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">dnsmasq</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>hardware-support</id>
+    <_name>hardware-support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">bolt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>print-client</id>
+    <_name>print-client</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cups</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>guest-desktop-agents</id>
+    <_name>guest-desktop-agents</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">spice-streaming-agent</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-kde</id>
     <_name>Critical Path (KDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
@@ -70,6 +175,7 @@
     <packagelist>
       <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
+      <packagereq>akregator</packagereq>
       <packagereq>bluedevil</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>colord-kde</packagereq>
@@ -80,10 +186,11 @@
       <packagereq>gnome-keyring-pam</packagereq>
       <packagereq>gwenview</packagereq>
       <packagereq>initial-setup-gui</packagereq>
+      <packagereq>kaddressbook</packagereq>
       <packagereq>kamera</packagereq>
+      <packagereq>kate</packagereq>
       <packagereq>kcalc</packagereq>
       <packagereq>kcharselect</packagereq>
-      <packagereq>kcm_systemd</packagereq>
       <packagereq>kcolorchooser</packagereq>
       <packagereq>kde-gtk-config</packagereq>
       <packagereq>kde-partitionmanager</packagereq>
@@ -104,24 +211,28 @@
       <packagereq>khotkeys</packagereq>
       <packagereq>kinfocenter</packagereq>
       <packagereq>kmag</packagereq>
+      <packagereq>kmail</packagereq>
       <packagereq>kmenuedit</packagereq>
       <packagereq>kmousetool</packagereq>
       <packagereq>kmouth</packagereq>
-      <packagereq>konqueror</packagereq>
       <packagereq>konsole5</packagereq>
+      <packagereq>kontact</packagereq>
+      <packagereq>korganizer</packagereq>
       <packagereq>kruler</packagereq>
       <packagereq>kscreen</packagereq>
       <packagereq>kscreenlocker</packagereq>
       <packagereq>ksshaskpass</packagereq>
-      <packagereq>ksysguard</packagereq>
       <packagereq>kwalletmanager5</packagereq>
-      <packagereq>kwebkitpart</packagereq>
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
+      <packagereq>okular</packagereq>
       <packagereq>pam-kwallet</packagereq>
+      <packagereq>PackageKit-command-not-found</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
+      <packagereq>plasma-discover</packagereq>
+      <packagereq>plasma-discover-notifier</packagereq>
       <packagereq>plasma-drkonqi</packagereq>
       <packagereq>plasma-nm</packagereq>
       <packagereq>plasma-nm-l2tp</packagereq>
@@ -130,8 +241,8 @@
       <packagereq>plasma-nm-openvpn</packagereq>
       <packagereq>plasma-nm-pptp</packagereq>
       <packagereq>plasma-pa</packagereq>
-      <packagereq>plasma-pk-updates</packagereq>
-      <packagereq>plasma-user-manager</packagereq>
+      <packagereq>plasma-systemmonitor</packagereq>
+      <packagereq>plasma-thunderbolt</packagereq>
       <packagereq>plasma-workspace-geolocation</packagereq>
       <packagereq>polkit-kde</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
@@ -208,16 +319,12 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cmake</packagereq>
-      <packagereq type="mandatory">kdelibs-devel</packagereq>
-      <packagereq type="mandatory">qt-devel</packagereq>
       <packagereq type="default">cervisia</packagereq>
       <packagereq type="default">dolphin-plugins</packagereq>
       <packagereq type="default">kapptemplate</packagereq>
       <packagereq type="default">kate</packagereq>
       <packagereq type="default">kcachegrind</packagereq>
       <packagereq type="default">kde-dev-scripts</packagereq>
-      <packagereq type="default">kdelibs-webkit-devel</packagereq>
-      <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk-kioslaves</packagereq>
       <packagereq type="default">kdesdk-thumbnailers</packagereq>
       <packagereq type="default">kdevelop</packagereq>
@@ -226,14 +333,11 @@
       <packagereq type="default">kuiviewer</packagereq>
       <packagereq type="default">okteta</packagereq>
       <packagereq type="default">poxml</packagereq>
-      <packagereq type="default">pykde4-devel</packagereq>
-      <packagereq type="default">PyQt4-devel</packagereq>
       <packagereq type="default">umbrello</packagereq>
       <packagereq type="optional">audiocd-kio-devel</packagereq>
       <packagereq type="optional">cantor-devel</packagereq>
       <packagereq type="optional">gambas3-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
-      <packagereq type="optional">kdelibs3-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">kiten-devel</packagereq>
@@ -246,8 +350,6 @@
       <packagereq type="optional">marble-widget-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
-      <packagereq type="optional">qt3-designer</packagereq>
-      <packagereq type="optional">qt3-devel</packagereq>
       <packagereq type="optional">qtwebkit-devel</packagereq>
       <packagereq type="optional">rocs-devel</packagereq>
     </packagelist>
@@ -324,16 +426,16 @@
       <groupid>multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>hardware-support</groupid>
-      <groupid>printing</groupid>
+      <groupid>print-client</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid>firefox</groupid>
-      <groupid>kde-apps</groupid>
+      <groupid default="true">firefox</groupid>
+      <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
-      <groupid>kde-media</groupid>
-      <groupid>kde-office</groupid>
+      <groupid default="true">kde-media</groupid>
+      <groupid default="true">libreoffice</groupid>
     </optionlist>
   </environment>
   <category>
@@ -346,7 +448,7 @@
       <groupid>kde-desktop</groupid>
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
-      <groupid>kde-office</groupid>
+      <groupid>libreoffice</groupid>
     </grouplist>
   </category>
 </comps>
