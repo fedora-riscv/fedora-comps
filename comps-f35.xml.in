@@ -2856,10 +2856,10 @@
       <packagereq>cabal-rpm</packagereq>
       <packagereq>darcs</packagereq>
       <packagereq>ghc</packagereq>
+      <packagereq>ghcid</packagereq>
       <packagereq>ghc-rpm-macros</packagereq>
       <packagereq>haskell-platform</packagereq>
       <packagereq>hlint</packagereq>
-      <packagereq>hscolour</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
     </packagelist>
   </group>
