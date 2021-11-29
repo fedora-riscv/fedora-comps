@@ -3140,7 +3140,6 @@
       <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
-      <packagereq type="default">kcolorchooser</packagereq>
       <packagereq type="default">kde-gtk-config</packagereq>
       <packagereq type="default">kde-partitionmanager</packagereq>
       <packagereq type="default">kde-print-manager</packagereq>
@@ -3167,7 +3166,6 @@
       <packagereq type="default">konsole5</packagereq>
       <packagereq type="default">kontact</packagereq>
       <packagereq type="default">korganizer</packagereq>
-      <packagereq type="default">kruler</packagereq>
       <packagereq type="default">kscreen</packagereq>
       <packagereq type="default">kscreenlocker</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
