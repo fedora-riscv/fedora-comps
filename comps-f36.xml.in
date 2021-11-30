@@ -428,7 +428,7 @@
       <packagereq type="mandatory">gvfs-mtp</packagereq>
       <packagereq type="mandatory">gvfs-smb</packagereq>
       <packagereq type="mandatory">hexchat</packagereq>
-      <packagereq type="mandatory">imsettings-cinnamon</packagereq>
+      <packagereq type="mandatory">imsettings-systemd</packagereq>
       <packagereq type="mandatory">initial-setup-gui</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">nemo-fileroller</packagereq>
@@ -2942,12 +2942,6 @@
       <packagereq type="conditional" requires="gtk3">ibus-gtk3</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">im-chooser-xfce</packagereq>
-      <packagereq type="conditional" requires="cinnamon">imsettings-cinnamon</packagereq>
-      <packagereq type="conditional" requires="gnome-settings-daemon">imsettings-gsettings</packagereq>
-      <packagereq type="conditional" requires="lxde-common">imsettings-lxde</packagereq>
-      <packagereq type="conditional" requires="mate-settings-daemon">imsettings-mate</packagereq>
-      <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
-      <packagereq type="conditional" requires="xfce4-panel">imsettings-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-cangjie-engine-cangjie</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
@@ -2957,6 +2951,7 @@
       <packagereq type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
+      <packagereq type="default">imsettings-systemd</packagereq>
       <packagereq type="optional">caribou</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">fcitx</packagereq>
