@@ -1575,7 +1575,7 @@
       <packagereq type="default">dejavu-serif-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
       <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-gurmukhi-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-gurmukhi-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
       <packagereq type="default">jomolhari-fonts</packagereq>
       <packagereq type="default">khmer-os-system-fonts</packagereq>
