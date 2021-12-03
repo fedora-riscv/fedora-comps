@@ -5032,7 +5032,6 @@
       <packagereq>mcelog</packagereq>
       <packagereq>mdadm</packagereq>
       <packagereq>microcode_ctl</packagereq>
-      <packagereq>mlocate</packagereq>
       <packagereq>mtr</packagereq>
       <packagereq>net-tools</packagereq>
       <packagereq>nfs-utils</packagereq>
@@ -5043,6 +5042,7 @@
       <packagereq>passwdqc</packagereq>
       <packagereq>pciutils</packagereq>
       <packagereq>pinfo</packagereq>
+      <packagereq>plocate</packagereq>
       <packagereq>psacct</packagereq>
       <packagereq>quota</packagereq>
       <packagereq>realmd</packagereq>
@@ -5586,7 +5586,6 @@
       <packagereq type="default">mcelog</packagereq>
       <packagereq type="default">mdadm</packagereq>
       <packagereq type="default">mediawriter</packagereq>
-      <packagereq type="default">mlocate</packagereq>
       <packagereq type="default">mtr</packagereq>
       <packagereq type="default">net-tools</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
@@ -5601,6 +5600,7 @@
       <packagereq type="default">pciutils</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">pinfo</packagereq>
+      <packagereq type="default">plocate</packagereq>
       <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">policycoreutils-python-utils</packagereq>
       <packagereq type="default">psacct</packagereq>
