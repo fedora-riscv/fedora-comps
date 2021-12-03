@@ -5905,7 +5905,8 @@
   </group>
   <environment>
     <id>i3-desktop-environment</id>
-    <name>i3 desktop</name>
+    <_name>i3 desktop</_name>
+    <_description>Desktop environment with the i3 tiling window manager</_description>
     <grouplist>
       <groupid>admin-tools</groupid>
       <groupid>base-x</groupid>
