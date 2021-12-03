@@ -29,12 +29,6 @@
     </packagelist>
   </group>
   <group>
-    <id>admin-tools</id>
-    <_name>admin-tools</_name>
-    <default>false</default>
-    <uservisible>true</uservisible>
-  </group>
-  <group>
     <id>dial-up</id>
     <_name>dial-up</_name>
     <default>false</default>
