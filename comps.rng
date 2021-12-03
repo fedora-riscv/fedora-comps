@@ -228,16 +228,18 @@
       <ref name="ID"/>
     </element>
     <choice>
-      <!-- Either we have one _name and one _description (comps.xml.in) -->
+      <!-- Either we have one _name and an optional _description (comps.xml.in) -->
       <group>
         <element name="_name">
           <ref name="string"/>
         </element>
-        <element name="_description">
-          <ref name="string"/>
-        </element>
+        <optional>
+          <element name="_description">
+            <ref name="string"/>
+          </element>
+        </optional>
       </group>
-      <!-- Or we have one name, one description, and then zero-or-more
+      <!-- Or we have one name, an optional description, and then zero-or-more
            localized names and descriptions following that. -->
       <group>
         <element name="name">
@@ -251,17 +253,19 @@
             <ref name="string"/>
           </element>
         </zeroOrMore>
-        <element name="description">
-          <ref name="string"/>
-        </element>
-        <zeroOrMore>
+        <optional>
           <element name="description">
-            <attribute name="xml:lang">
-              <ref name="locale"/>
-            </attribute>
             <ref name="string"/>
           </element>
-        </zeroOrMore>
+          <zeroOrMore>
+            <element name="description">
+              <attribute name="xml:lang">
+                <ref name="locale"/>
+              </attribute>
+              <ref name="string"/>
+            </element>
+          </zeroOrMore>
+        </optional>
       </group>
     </choice>
   </define>
