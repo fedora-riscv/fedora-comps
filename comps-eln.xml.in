@@ -306,7 +306,7 @@
     <id>debugging</id>
     <_name>Debugging Tools</_name>
     <_description>Tools for debugging misbehaving applications and diagnosing performance problems.</_description>
-    <default>flase</default>
+    <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory" variant="BaseOS">kexec-tools</packagereq>
