@@ -2892,6 +2892,7 @@
       <packagereq type="mandatory">brightnessctl</packagereq>
       <packagereq type="mandatory">dunst</packagereq>
       <packagereq type="mandatory">i3</packagereq>
+      <packagereq type="mandatory">i3-config-fedora</packagereq>
       <packagereq type="mandatory">i3lock</packagereq>
       <packagereq type="mandatory">i3status</packagereq>
       <packagereq type="mandatory">lightdm</packagereq>
