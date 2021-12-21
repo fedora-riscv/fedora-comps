@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-02-12 14:40+0000\n"
+"PO-Revision-Date: 2021-12-22 09:16+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/fi/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.10\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -180,7 +180,7 @@ msgstr "Tämä pakettiryhmä lisää Compizin ja Emeraldin"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
-msgstr "Container-hallinta"
+msgstr "Kontti-hallinta"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
 msgid "Tools for managing Linux containers"
@@ -1187,7 +1187,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr "Python luokkahuone"
+msgstr "Python-luokkahuone"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
@@ -1197,7 +1197,7 @@ msgstr "Pythonin oppimiseen ja opettamiseen käytettävät työkalut."
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
 msgid "Python Science"
-msgstr "Python Science"
+msgstr "Python-tiede"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
@@ -1447,14 +1447,14 @@ msgstr "Näillä työkaluilla järjestelmässä voidaan ajaa WWW-palvelinta."
 #: ../comps-f32.xml.in.h:269 ../comps-f33.xml.in.h:261
 #: ../comps-f34.xml.in.h:261
 msgid "Window Managers"
-msgstr "Ikkunankäsittelijät"
+msgstr "Ikkunahallitsijat"
 
 #: ../comps-f32.xml.in.h:270 ../comps-f33.xml.in.h:262
 #: ../comps-f34.xml.in.h:262
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
-"Yksinkertaiset ikkunankäsittelijät, jotka eivät ole osa suurempaa "
+"Yksinkertaiset ikkunahallitsijat, jotka eivät ole osa suurempaa "
 "työpöytäympäristöä."
 
 #. Translators: Don't translate this product name
