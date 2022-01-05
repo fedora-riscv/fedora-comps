@@ -1595,7 +1595,7 @@
       <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
-      <packagereq type="default">smc-meera-fonts</packagereq>
+      <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
@@ -2067,8 +2067,12 @@
       <packagereq type="optional">sj-stevehand-fonts</packagereq>
       <packagereq type="optional">smc-anjalioldlipi-fonts</packagereq>
       <packagereq type="optional">smc-dyuthi-fonts</packagereq>
-      <packagereq type="optional">smc-rachana-fonts</packagereq>
       <packagereq type="optional">smc-suruma-fonts</packagereq>
+      <packagereq type="optional">rit-rachana-fonts</packagereq>
+      <packagereq type="optional">rit-sundar-fonts</packagereq>
+      <packagereq type="optional">rit-panmana-fonts</packagereq>
+      <packagereq type="optional">rit-ezhuthu-fonts</packagereq>
+      <packagereq type="optional">rit-tn-joy-fonts</packagereq>
       <packagereq type="optional">thai-arundina-sans-fonts</packagereq>
       <packagereq type="optional">thai-arundina-sans-mono-fonts</packagereq>
       <packagereq type="optional">thai-arundina-serif-fonts</packagereq>
