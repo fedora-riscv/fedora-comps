@@ -2464,7 +2464,7 @@
     <packagelist>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gedit</packagereq>
+      <packagereq type="mandatory">gnome-text-editor</packagereq>
       <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq type="mandatory">gnome-connections</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
