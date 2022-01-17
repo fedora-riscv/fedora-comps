@@ -1176,10 +1176,6 @@
       <packagereq type="optional">poedit</packagereq>
       <packagereq type="optional">vim-enhanced</packagereq>
       <packagereq type="optional">vim-X11</packagereq>
-      <packagereq type="optional">xemacs</packagereq>
-      <packagereq type="optional">xemacs-packages-base</packagereq>
-      <packagereq type="optional">xemacs-packages-extra</packagereq>
-      <packagereq type="optional">xemacs-xft</packagereq>
       <packagereq type="optional">xmlcopyeditor</packagereq>
       <packagereq type="optional">zile</packagereq>
     </packagelist>
@@ -1426,7 +1422,6 @@
       <packagereq type="optional">mona-devel</packagereq>
       <packagereq type="optional">mona-emacs</packagereq>
       <packagereq type="optional">mona-examples</packagereq>
-      <packagereq type="optional">mona-xemacs</packagereq>
       <packagereq type="optional">mpfi</packagereq>
       <packagereq type="optional">ncl</packagereq>
       <packagereq type="optional">nco</packagereq>
@@ -4145,7 +4140,6 @@
       <packagereq type="optional">ocaml-xml-light-devel</packagereq>
       <packagereq type="optional">ocaml-xmlrpc-light-devel</packagereq>
       <packagereq type="optional">ocaml-zarith-devel</packagereq>
-      <packagereq type="optional">xemacs-tuareg</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5691,7 +5685,6 @@
       <packagereq type="optional">icon-slicer</packagereq>
       <packagereq type="optional">libXp-devel</packagereq>
       <packagereq type="optional">mesa-libGLU-devel</packagereq>
-      <packagereq type="optional">neXtaw-devel</packagereq>
       <packagereq type="optional">xorg-x11-server-devel</packagereq>
       <packagereq type="optional">xorg-x11-xbitmaps</packagereq>
     </packagelist>
