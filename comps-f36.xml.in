@@ -3032,7 +3032,6 @@
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">im-chooser-xfce</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
-      <packagereq type="default">ibus-cangjie-engine-cangjie</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
@@ -3046,7 +3045,6 @@
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
       <packagereq type="optional">ibus-bogo</packagereq>
-      <packagereq type="optional">ibus-cangjie-engine-quick</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
       <packagereq type="optional">ibus-input-pad</packagereq>
@@ -3056,6 +3054,8 @@
       <packagereq type="optional">ibus-skk</packagereq>
       <packagereq type="optional">ibus-table</packagereq>
       <packagereq type="optional">ibus-table-chinese-array</packagereq>
+      <packagereq type="optional">ibus-table-chinese-cangjie</packagereq>
+      <packagereq type="optional">ibus-table-chinese-quick</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">input-pad</packagereq>
       <packagereq type="optional">scim-anthy</packagereq>
