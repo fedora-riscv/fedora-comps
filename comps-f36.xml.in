@@ -1850,9 +1850,6 @@
       <packagereq type="optional">google-noto-sans-sundanese-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-syloti-nagri-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-symbols-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-syriac-eastern-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-syriac-estrangela-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-syriac-western-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tagalog-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tagbanwa-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tai-le-fonts</packagereq>
@@ -1866,7 +1863,6 @@
       <packagereq type="optional">google-noto-sans-thaana-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-ui-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-tibetan-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tifinagh-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-ugaritic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-vai-fonts</packagereq>
