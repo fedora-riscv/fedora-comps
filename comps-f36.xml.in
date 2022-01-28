@@ -1564,7 +1564,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">abattis-cantarell-fonts</packagereq>
+      <packagereq type="default">abattis-cantarell-vf-fonts</packagereq>
       <packagereq type="default">dejavu-sans-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">dejavu-serif-fonts</packagereq>
