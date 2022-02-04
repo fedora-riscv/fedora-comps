@@ -717,6 +717,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">qt5-qtwayland</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
   </group>
