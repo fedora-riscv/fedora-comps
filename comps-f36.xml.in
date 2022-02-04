@@ -2590,7 +2590,6 @@
       <packagereq type="default">gnome-maps</packagereq>
       <packagereq type="default">gnome-photos</packagereq>
       <packagereq type="default">gnome-remote-desktop</packagereq>
-      <packagereq type="default">gnome-screenshot</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal-nautilus</packagereq>
       <packagereq type="default">gnome-themes-extra</packagereq>
