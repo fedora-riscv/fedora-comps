@@ -1600,7 +1600,6 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="default">sil-abyssinica-fonts</packagereq>
       <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
@@ -2140,6 +2139,7 @@
       <packagereq type="optional">sazanami-mincho-fonts</packagereq>
       <packagereq type="optional">senamirmir-washra-fonts-all</packagereq>
       <packagereq type="optional">serafettin-cartoon-fonts</packagereq>
+      <packagereq type="optional">sil-abyssinica-fonts</packagereq>
       <packagereq type="optional">sil-andika-fonts</packagereq>
       <packagereq type="optional">sil-charis-compact-fonts</packagereq>
       <packagereq type="optional">sil-charis-fonts</packagereq>
