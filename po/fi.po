@@ -11,13 +11,13 @@
 # Juhani Numminen <juhaninumminen0@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Jan Kuparinen <copper_fin@hotmail.com>, 2021.
-# Ricky Tigg <ricky.tigg@gmail.com>, 2021.
+# Ricky Tigg <ricky.tigg@gmail.com>, 2021, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-12-22 09:16+0000\n"
+"PO-Revision-Date: 2022-02-10 09:17+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/fi/>\n"
@@ -26,15 +26,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr "3D-tulostaminen"
+msgstr "Kolmiulotteinen tulostus"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
-msgstr "3d-tulostusohjelmisto"
+msgstr "Kolmiulotteinen tulostusohjelmisto"
 
 #: ../comps-f32.xml.in.h:3 ../comps-f33.xml.in.h:3 ../comps-f34.xml.in.h:3
 msgid "Administration Tools"
@@ -1461,7 +1461,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
 msgid "Fedora Workstation ostree support"
-msgstr "Fedora työpöydän ostree tuki"
+msgstr "Fedora-työpöydän ostree -tuki"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
@@ -1472,7 +1472,7 @@ msgstr "Workstation ostree -tuotteelle välttämättömät paketit."
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
 #: ../comps-f34.xml.in.h:267
 msgid "Fedora Workstation product core"
-msgstr "Fedora Workstation -tuotteen ydinosa"
+msgstr "Fedora-työpöytätuotteen ydinosa"
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
@@ -1625,8 +1625,8 @@ msgstr "Fedora Workstation"
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
-"Fedora Workstation on käyttäjäystävällinen työpöytäjärjestelmä kannettaville "
-"ja pöytäkoneille."
+"Fedora-työpöytä on käyttäjäystävällinen työpöytäjärjestelmä kannettaville ja "
+"pöytäkoneille."
 
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
