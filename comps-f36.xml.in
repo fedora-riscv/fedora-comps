@@ -409,7 +409,7 @@
     <packagelist>
       <packagereq type="mandatory">abrt-desktop</packagereq>
       <packagereq type="mandatory">abrt-java-connector</packagereq>
-      <packagereq type="mandatory">blueberry</packagereq>
+      <packagereq type="mandatory">blueman</packagereq>
       <packagereq type="mandatory">cinnamon</packagereq>
       <packagereq type="mandatory">cinnamon-control-center</packagereq>
       <packagereq type="mandatory">cinnamon-screensaver</packagereq>
