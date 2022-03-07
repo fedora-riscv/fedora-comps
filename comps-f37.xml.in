@@ -1004,7 +1004,7 @@
       <packagereq type="optional">iml-devel</packagereq>
       <packagereq type="optional">libdwarf-devel</packagereq>
       <packagereq type="optional">libedit-devel</packagereq>
-      <packagereq type="optional">libusbx-devel</packagereq>
+      <packagereq type="optional">libusb1-devel</packagereq>
       <packagereq type="optional">linbox-devel</packagereq>
       <packagereq type="optional">m4ri-devel</packagereq>
       <packagereq type="optional">m4rie-devel</packagereq>
