@@ -1568,7 +1568,7 @@
       <packagereq type="default">abattis-cantarell-vf-fonts</packagereq>
       <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default">google-noto-emoji-color-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-arabic-vf-fonts</packagereq>
+      <packagereq type="default">google-noto-naskh-arabic-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-armenian-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-canadian-aboriginal-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-cherokee-vf-fonts</packagereq>
@@ -1773,13 +1773,13 @@
       <packagereq type="optional">google-noto-kufi-arabic-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-music-fonts</packagereq>
       <packagereq type="optional">google-noto-naskh-arabic-ui-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-naskh-arabic-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-nastaliq-urdu-fonts</packagereq>
       <packagereq type="optional">google-noto-rashi-hebrew-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-adlam-unjoined-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-adlam-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-anatolian-hieroglyphs-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-arabic-ui-vf-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-arabic-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-avestan-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-balinese-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-bamum-vf-fonts</packagereq>
