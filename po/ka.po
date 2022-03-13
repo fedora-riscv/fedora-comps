@@ -6,25 +6,26 @@
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # George Machitidze <giomac@gmail.com>, 2005, 2006, 2007
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
+# Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-03-30 04:10+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Georgian (http://www.transifex.com/projects/p/comps/language/"
-"ka/)\n"
+"PO-Revision-Date: 2022-03-14 15:17+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 4.11.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr ""
+msgstr "3D ბეჭდვა"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
@@ -42,7 +43,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:5 ../comps-f33.xml.in.h:5 ../comps-f34.xml.in.h:5
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anaconda-ის ხელსაწყოები"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
@@ -62,7 +63,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
-msgstr ""
+msgstr "აუდიო წარმოება"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
 msgid "Various tools for audio synthesis and music production."
@@ -79,8 +80,9 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:14 ../comps-f33.xml.in.h:14 ../comps-f34.xml.in.h:14
+#, fuzzy
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f32.xml.in.h:15 ../comps-f33.xml.in.h:15 ../comps-f34.xml.in.h:15
 msgid "Local X.org display server"
@@ -88,7 +90,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:16 ../comps-f33.xml.in.h:16 ../comps-f34.xml.in.h:16
 msgid "Basic Desktop"
-msgstr ""
+msgstr "საწყისი სამუშაო მაგიდა"
 
 #: ../comps-f32.xml.in.h:17 ../comps-f33.xml.in.h:17 ../comps-f34.xml.in.h:17
 msgid "Basic X Window System with a choice of window manager."
@@ -119,8 +121,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:23 ../comps-f33.xml.in.h:21 ../comps-f34.xml.in.h:21
 #: ../comps-epel7.xml.in.h:34
+#, fuzzy
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f32.xml.in.h:24 ../comps-f33.xml.in.h:22 ../comps-f34.xml.in.h:22
 #: ../comps-epel7.xml.in.h:35
@@ -131,7 +134,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:25 ../comps-f33.xml.in.h:23 ../comps-f34.xml.in.h:23
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "ღრუბლოვანი ინფრასტრუქტურა"
 
 #: ../comps-f32.xml.in.h:26 ../comps-f33.xml.in.h:24 ../comps-f34.xml.in.h:24
 msgid "Infrastructure packages for cloud computing."
@@ -158,8 +161,9 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
+#, fuzzy
 msgid "Compiz"
-msgstr ""
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
@@ -167,7 +171,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
-msgstr ""
+msgstr "კონტეინერების მართვა"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
 msgid "Tools for managing Linux containers"
@@ -304,7 +308,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
-msgstr ""
+msgstr "დიზაინის პროგრამული პაკეტი"
 
 #: ../comps-f32.xml.in.h:62 ../comps-f33.xml.in.h:60 ../comps-f34.xml.in.h:60
 msgid ""
@@ -337,7 +341,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:68 ../comps-f33.xml.in.h:66 ../comps-f34.xml.in.h:66
 #: ../comps-epel7.xml.in.h:60
 msgid "Directory Server"
-msgstr ""
+msgstr "კატალოგების მართვის სერვისი"
 
 #: ../comps-f32.xml.in.h:69 ../comps-f33.xml.in.h:67 ../comps-f34.xml.in.h:67
 #: ../comps-epel7.xml.in.h:61
@@ -363,15 +367,16 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:74 ../comps-f33.xml.in.h:72 ../comps-f34.xml.in.h:72
 msgid "Domain Membership"
-msgstr ""
+msgstr "დომენის წევრობა"
 
 #: ../comps-f32.xml.in.h:75 ../comps-f33.xml.in.h:73 ../comps-f34.xml.in.h:73
 msgid "Support for joining a FreeIPA or Active Directory Domain"
 msgstr ""
 
 #: ../comps-f32.xml.in.h:76 ../comps-f33.xml.in.h:74 ../comps-f34.xml.in.h:74
+#, fuzzy
 msgid "Fedora Eclipse"
-msgstr ""
+msgstr "Fedora Eclipse"
 
 #: ../comps-f32.xml.in.h:77 ../comps-f33.xml.in.h:75 ../comps-f34.xml.in.h:75
 msgid "Integrated Development Environments based on Eclipse."
@@ -390,7 +395,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:80 ../comps-f33.xml.in.h:78 ../comps-f34.xml.in.h:78
 #: ../comps-epel7.xml.in.h:65
 msgid "Educational Software"
-msgstr ""
+msgstr "სასწავლო პროგრამები"
 
 #: ../comps-f32.xml.in.h:81 ../comps-f33.xml.in.h:79 ../comps-f34.xml.in.h:79
 msgid "Educational software for learning"
@@ -399,7 +404,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:82 ../comps-f33.xml.in.h:80 ../comps-f34.xml.in.h:80
 #: ../comps-epel7.xml.in.h:67
 msgid "Electronic Lab"
-msgstr ""
+msgstr "ელექტრონული ლაბორატორია"
 
 #: ../comps-f32.xml.in.h:83 ../comps-f33.xml.in.h:81 ../comps-f34.xml.in.h:81
 msgid "Design and simulation tools for hardware engineers"
@@ -416,8 +421,9 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:86 ../comps-f33.xml.in.h:84 ../comps-f34.xml.in.h:84
+#, fuzzy
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f32.xml.in.h:87 ../comps-f33.xml.in.h:85 ../comps-f34.xml.in.h:85
 msgid ""
@@ -435,8 +441,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:90 ../comps-f33.xml.in.h:86 ../comps-f34.xml.in.h:86
 #: ../comps-epel7.xml.in.h:75 ../comps-epel8.xml.in.h:1
+#, fuzzy
 msgid "Fedora Packager"
-msgstr ""
+msgstr "Fedora Packager"
 
 #: ../comps-f32.xml.in.h:91 ../comps-f33.xml.in.h:87 ../comps-f34.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
@@ -463,7 +470,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:96 ../comps-f33.xml.in.h:92 ../comps-f34.xml.in.h:92
 #: ../comps-epel7.xml.in.h:80
 msgid "Fonts"
-msgstr ""
+msgstr "ფონტები"
 
 #: ../comps-f32.xml.in.h:97 ../comps-f33.xml.in.h:93 ../comps-f34.xml.in.h:93
 msgid "Fonts packages for rendering text on the desktop."
@@ -472,7 +479,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:98 ../comps-f33.xml.in.h:94 ../comps-f34.xml.in.h:94
 #, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP სერვერი"
+msgstr "FreeIPA Server"
 
 #: ../comps-f32.xml.in.h:99 ../comps-f33.xml.in.h:95 ../comps-f34.xml.in.h:95
 msgid ""
@@ -498,8 +505,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:104 ../comps-f33.xml.in.h:100
 #: ../comps-f34.xml.in.h:100
+#, fuzzy
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f32.xml.in.h:105 ../comps-f33.xml.in.h:101
 #: ../comps-f34.xml.in.h:101
@@ -553,7 +561,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:114 ../comps-f33.xml.in.h:110
 #: ../comps-f34.xml.in.h:110
 msgid "Guest Agents"
-msgstr ""
+msgstr "სტუმრის აგენტები"
 
 #: ../comps-f32.xml.in.h:115 ../comps-f33.xml.in.h:111
 #: ../comps-f34.xml.in.h:111
@@ -573,7 +581,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:118 ../comps-f33.xml.in.h:114
 #: ../comps-f34.xml.in.h:114
 msgid "High Availability"
-msgstr ""
+msgstr "მაღალი წვდომადობა"
 
 #: ../comps-f32.xml.in.h:119 ../comps-f33.xml.in.h:115
 #: ../comps-f34.xml.in.h:115
@@ -582,8 +590,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:120 ../comps-f33.xml.in.h:116
 #: ../comps-f34.xml.in.h:116
+#, fuzzy
 msgid "HAProxy"
-msgstr ""
+msgstr "HAProxy"
 
 #: ../comps-f32.xml.in.h:121 ../comps-f33.xml.in.h:117
 #: ../comps-f34.xml.in.h:117
@@ -603,8 +612,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:124 ../comps-f33.xml.in.h:120
 #: ../comps-f34.xml.in.h:120 ../comps-epel7.xml.in.h:101
+#, fuzzy
 msgid "Haskell"
-msgstr ""
+msgstr "Haskell"
 
 #: ../comps-f32.xml.in.h:125 ../comps-f33.xml.in.h:121
 #: ../comps-f34.xml.in.h:121 ../comps-epel7.xml.in.h:102
@@ -614,7 +624,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:126 ../comps-f33.xml.in.h:122
 #: ../comps-f34.xml.in.h:122
 msgid "Headless Management"
-msgstr ""
+msgstr "უთავო ქათმის მართვა"
 
 #: ../comps-f32.xml.in.h:127 ../comps-f33.xml.in.h:123
 #: ../comps-f34.xml.in.h:123
@@ -624,7 +634,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:128 ../comps-f33.xml.in.h:124
 #: ../comps-f34.xml.in.h:124 ../comps-epel7.xml.in.h:111
 msgid "Input Methods"
-msgstr ""
+msgstr "შეტანის მეთოდები"
 
 #: ../comps-f32.xml.in.h:129 ../comps-f33.xml.in.h:125
 #: ../comps-f34.xml.in.h:125
@@ -665,7 +675,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:136 ../comps-f33.xml.in.h:132
 #: ../comps-f34.xml.in.h:132 ../comps-epel8.xml.in.h:5
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE-ის აპლიკაციები"
 
 #: ../comps-f32.xml.in.h:137 ../comps-f33.xml.in.h:133
 #: ../comps-f34.xml.in.h:133 ../comps-epel8.xml.in.h:6
@@ -674,8 +684,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:138 ../comps-f33.xml.in.h:134
 #: ../comps-f34.xml.in.h:134 ../comps-epel8.xml.in.h:7
+#, fuzzy
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f32.xml.in.h:139 ../comps-f33.xml.in.h:135
 #: ../comps-f34.xml.in.h:135 ../comps-epel8.xml.in.h:8
@@ -703,7 +714,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:143 ../comps-f33.xml.in.h:139
 #: ../comps-f34.xml.in.h:139 ../comps-epel8.xml.in.h:12
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE-ის ოფისი"
 
 #: ../comps-f32.xml.in.h:144 ../comps-f33.xml.in.h:140
 #: ../comps-f34.xml.in.h:140 ../comps-epel8.xml.in.h:13
@@ -725,7 +736,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:147 ../comps-f33.xml.in.h:143
 #: ../comps-f34.xml.in.h:143
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "Telepathy KDE-ში"
 
 #: ../comps-f32.xml.in.h:148 ../comps-f33.xml.in.h:144
 #: ../comps-f34.xml.in.h:144
@@ -750,7 +761,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "მოძველებული ფონტები"
 
 #: ../comps-f32.xml.in.h:152 ../comps-f33.xml.in.h:148
 #: ../comps-f34.xml.in.h:148
@@ -783,8 +794,9 @@ msgstr "მოძველებული პროგრამების მ�
 
 #: ../comps-f32.xml.in.h:158 ../comps-f33.xml.in.h:151
 #: ../comps-f34.xml.in.h:151
+#, fuzzy
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f32.xml.in.h:159 ../comps-f33.xml.in.h:152
 #: ../comps-f34.xml.in.h:152
@@ -794,7 +806,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "LibreOffice-ის განვითარება"
 
 #: ../comps-f32.xml.in.h:161 ../comps-f33.xml.in.h:154
 #: ../comps-f34.xml.in.h:154
@@ -805,7 +817,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
 msgid "Load Balancer"
-msgstr ""
+msgstr "დატვირთვის მათანაბრებელი"
 
 #: ../comps-f32.xml.in.h:163 ../comps-f33.xml.in.h:156
 #: ../comps-f34.xml.in.h:156
@@ -824,8 +836,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
+#, fuzzy
 msgid "LXDE"
-msgstr ""
+msgstr "LXDE"
 
 #: ../comps-f32.xml.in.h:167 ../comps-f33.xml.in.h:160
 #: ../comps-f34.xml.in.h:160
@@ -842,7 +855,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE-ის ოფისი"
 
 #: ../comps-f32.xml.in.h:170 ../comps-f33.xml.in.h:163
 #: ../comps-f34.xml.in.h:163
@@ -861,8 +874,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:173 ../comps-f33.xml.in.h:166
 #: ../comps-f34.xml.in.h:166
+#, fuzzy
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
@@ -884,7 +898,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:177 ../comps-f33.xml.in.h:170
 #: ../comps-f34.xml.in.h:170
 msgid "LXQt Office"
-msgstr ""
+msgstr "LXQt-ის ოფისი"
 
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
@@ -903,9 +917,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:181 ../comps-f33.xml.in.h:174
 #: ../comps-f34.xml.in.h:174
-#, fuzzy
 msgid "MATE Applications"
-msgstr "პროგრამები"
+msgstr "MATE-ის აპლიკაციები"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
@@ -914,8 +927,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
+#, fuzzy
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f32.xml.in.h:184 ../comps-f33.xml.in.h:177
 #: ../comps-f34.xml.in.h:177 ../comps-epel7.xml.in.h:165
@@ -927,7 +941,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
-msgstr ""
+msgstr "სამედიცინო აპლიკაციები"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
@@ -935,8 +949,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
+#, fuzzy
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
@@ -946,7 +961,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
 msgid "MinGW cross-compiler"
-msgstr ""
+msgstr "MinGW კროსკომპილატორი"
 
 #: ../comps-f32.xml.in.h:190 ../comps-f33.xml.in.h:181
 #: ../comps-f34.xml.in.h:181
@@ -957,8 +972,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
+#, fuzzy
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f32.xml.in.h:192 ../comps-f33.xml.in.h:183
 #: ../comps-f34.xml.in.h:183
@@ -968,7 +984,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:193 ../comps-f33.xml.in.h:184
 #: ../comps-f34.xml.in.h:184
 msgid "Multimedia"
-msgstr ""
+msgstr "მულტიმედია"
 
 #: ../comps-f32.xml.in.h:194 ../comps-f33.xml.in.h:185
 #: ../comps-f34.xml.in.h:185
@@ -1033,8 +1049,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:205 ../comps-f33.xml.in.h:196
 #: ../comps-f34.xml.in.h:196
+#, fuzzy
 msgid "OCaml"
-msgstr ""
+msgstr "OCaml"
 
 #: ../comps-f32.xml.in.h:206 ../comps-f33.xml.in.h:197
 #: ../comps-f34.xml.in.h:197
@@ -1090,8 +1107,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:216 ../comps-f33.xml.in.h:208
 #: ../comps-f34.xml.in.h:208
+#, fuzzy
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f32.xml.in.h:217 ../comps-f33.xml.in.h:209
 #: ../comps-f34.xml.in.h:209
@@ -1143,8 +1161,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
+#, fuzzy
 msgid "Robotics"
-msgstr ""
+msgstr "Robotics"
 
 #: ../comps-f32.xml.in.h:227 ../comps-f33.xml.in.h:219
 #: ../comps-f34.xml.in.h:219
@@ -1263,7 +1282,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
 msgid "Standard"
-msgstr ""
+msgstr "სტანდარტი"
 
 #: ../comps-f32.xml.in.h:250 ../comps-f33.xml.in.h:242
 #: ../comps-f34.xml.in.h:242
@@ -1316,8 +1335,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
 #: ../comps-f34.xml.in.h:251
+#, fuzzy
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f32.xml.in.h:260 ../comps-f33.xml.in.h:252
 #: ../comps-f34.xml.in.h:252
@@ -1421,8 +1441,9 @@ msgstr ""
 #: ../comps-f32.xml.in.h:281 ../comps-f33.xml.in.h:273
 #: ../comps-f34.xml.in.h:273 ../comps-epel7.xml.in.h:295
 #: ../comps-epel8.xml.in.h:18
+#, fuzzy
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f32.xml.in.h:282 ../comps-f33.xml.in.h:274
 #: ../comps-f34.xml.in.h:274 ../comps-epel7.xml.in.h:296
@@ -1469,8 +1490,9 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:290 ../comps-f33.xml.in.h:282
 #: ../comps-f34.xml.in.h:282
+#, fuzzy
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f32.xml.in.h:291 ../comps-f33.xml.in.h:283
 #: ../comps-f34.xml.in.h:283
@@ -1687,7 +1709,7 @@ msgstr "სისტემის სხვადასხვა ძირეუ�
 
 #: ../comps-f32.xml.in.h:335
 msgid "Content"
-msgstr ""
+msgstr "შემცველობა"
 
 #: ../comps-f32.xml.in.h:336
 msgid "Text and other Free content."
@@ -1696,7 +1718,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "ნეირომეცნიერება"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
@@ -1742,7 +1764,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
-msgstr ""
+msgstr "ასამურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:9
 msgid "Azerbaijani Support"
@@ -1774,7 +1796,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:16
 msgid "Desktop"
-msgstr ""
+msgstr "სამუშაო მაგიდა"
 
 #: ../comps-epel7.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
@@ -1794,7 +1816,7 @@ msgstr "ბენგალურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:21
 msgid "Bhutanese Support"
-msgstr ""
+msgstr "ბუტანურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:22
 msgid "Brazilian Portuguese Support"
@@ -2036,7 +2058,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:91
 msgid "Georgian Support"
-msgstr ""
+msgstr "ქართულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:92
 msgid "German Support"
@@ -2065,7 +2087,7 @@ msgstr "ბერძნულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:98
 msgid "Gujarati Support"
-msgstr ""
+msgstr "გუჯარათულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:99
 msgid "Hardware monitoring utilities"
@@ -2085,7 +2107,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:105
 msgid "Hindi Support"
-msgstr ""
+msgstr "ჰინდის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:106
 msgid "Hungarian Support"
@@ -2159,11 +2181,11 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:124
 msgid "Kannada Support"
-msgstr ""
+msgstr "კანადურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:125
 msgid "Kashmiri Support"
-msgstr ""
+msgstr "კაშმირულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:126
 msgid "Kashubian Support"
@@ -2179,7 +2201,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:130
 msgid "Khmer Support"
-msgstr ""
+msgstr "ხმერულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:131
 msgid "Kinyarwanda Support"
@@ -2187,7 +2209,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:132
 msgid "Konkani Support"
-msgstr ""
+msgstr "კონკანურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:133
 msgid "Korean Support"
@@ -2195,7 +2217,7 @@ msgstr "კორეულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:134
 msgid "Kurdish Support"
-msgstr ""
+msgstr "ქურთულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:135
 msgid "Lao Support"
@@ -2281,7 +2303,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:156
 msgid "Maithili Support"
-msgstr ""
+msgstr "მაითილიულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:157
 msgid "Malagasy Support"
@@ -2293,7 +2315,7 @@ msgstr "მალაიზიურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:159
 msgid "Malayalam Support"
-msgstr ""
+msgstr "მალაიალამის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:160
 msgid "Maltese Support"
@@ -2309,7 +2331,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:163
 msgid "Marathi Support"
-msgstr ""
+msgstr "მარათის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:168
 msgid "Mongolian Support"
@@ -2333,7 +2355,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:173
 msgid "Nepali Support"
-msgstr ""
+msgstr "ნეპალურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:174
 msgid "Network file system client"
