@@ -4406,6 +4406,7 @@
       <packagereq>cryptsetup</packagereq>
       <packagereq>default-editor</packagereq>
       <packagereq>dnf</packagereq>
+      <packagereq>epiphany</packagereq>
       <packagereq>feedbackd</packagereq>
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-calendar</packagereq>
@@ -4414,13 +4415,14 @@
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-photos</packagereq>
       <packagereq>gnome-software</packagereq>
-      <packagereq>gnome-terminal</packagereq>
+      <packagereq>gnome-console</packagereq>
       <packagereq>gstreamer1-plugin-openh264</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>linux-firmware</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq type="optional">mmsd-tng</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
@@ -4429,10 +4431,7 @@
       <packagereq>pavucontrol</packagereq>
       <packagereq>phoc</packagereq>
       <packagereq>phosh</packagereq>
-      <packagereq>pidgin</packagereq>
       <packagereq>pinentry-gnome3</packagereq>
-      <packagereq>purple-matrix</packagereq>
-      <packagereq>purple-telegram</packagereq>
       <packagereq>squeekboard</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>systemd-udev</packagereq>
