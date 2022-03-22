@@ -11,21 +11,21 @@
     </packagelist>
   </group>
   <group>
-    <id>standard</id>
-    <_name>standard</_name>
+    <id>firefox</id>
+    <_name>firefox</_name>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">firefox</packagereq>
     </packagelist>
   </group>
   <group>
-    <id>core</id>
-    <_name>core</_name>
+    <id>office-suite</id>
+    <_name>office-suite</_name>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">rhc</packagereq>
+      <packagereq type="default">libreoffice-writer</packagereq>
     </packagelist>
   </group>
   <group>
@@ -154,7 +154,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>abrt-desktop</packagereq>
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>akregator</packagereq>
       <packagereq>bluedevil</packagereq>
@@ -368,8 +367,6 @@
     <display_order>10</display_order>
     <grouplist>
       <groupid>base-x</groupid>
-      <groupid>standard</groupid>
-      <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
@@ -386,7 +383,7 @@
       <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
       <groupid default="true">kde-media</groupid>
-      <groupid default="true">libreoffice</groupid>
+      <groupid default="true">office-suite</groupid>
     </optionlist>
   </environment>
   <category>
@@ -399,7 +396,7 @@
       <groupid>kde-desktop</groupid>
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
-      <groupid>libreoffice</groupid>
+      <groupid>office-suite</groupid>
     </grouplist>
   </category>
 </comps>
