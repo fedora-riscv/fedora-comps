@@ -1594,6 +1594,7 @@
       <packagereq type="default">lohit-devanagari-fonts</packagereq>
       <packagereq type="default">lohit-gujarati-fonts</packagereq>
       <packagereq type="default">lohit-kannada-fonts</packagereq>
+      <packagereq type="default">lohit-marathi-fonts</packagereq>
       <packagereq type="default">lohit-odia-fonts</packagereq>
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
@@ -2060,7 +2061,6 @@
       <packagereq type="optional">lklug-fonts</packagereq>
       <packagereq type="optional">lohit-gurmukhi-fonts</packagereq>
       <packagereq type="optional">lohit-malayalam-fonts</packagereq>
-      <packagereq type="optional">lohit-marathi-fonts</packagereq>
       <packagereq type="optional">lohit-nepali-fonts</packagereq>
       <packagereq type="optional">lohit-tamil-classical-fonts</packagereq>
       <packagereq type="optional">madan-fonts</packagereq>
