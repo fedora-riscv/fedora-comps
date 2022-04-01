@@ -5834,7 +5834,7 @@
       <packagereq>adwaita-gtk2-theme</packagereq>
       <packagereq>adwaita-icon-theme</packagereq>
       <packagereq>alsa-utils</packagereq>
-      <packagereq>blueberry</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>desktop-backgrounds-compat</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>firewall-config</packagereq>
