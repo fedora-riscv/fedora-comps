@@ -883,7 +883,6 @@
       <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
       <packagereq type="conditional" requires="darktable">darktable-tools-noise</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-dbp</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dds-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-elsamuko</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-fourier-plugin</packagereq>
