@@ -5663,6 +5663,7 @@
       <packagereq type="default">hunspell</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-gtk3</packagereq>
+      <packagereq type="default">ibus-gtk4</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
