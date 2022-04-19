@@ -630,6 +630,7 @@
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">fedora-repos-modular</packagereq>
       <packagereq type="default">firewalld</packagereq>
+      <packagereq type="default">fwupd</packagereq>
       <packagereq arch="ppc64le" type="default">lsvpd</packagereq>
       <packagereq type="default">NetworkManager</packagereq>
       <packagereq type="default">plymouth</packagereq>
