@@ -25,13 +25,14 @@
 # Tobias Weise <tobias.weise@web.de>, 2016. #zanata, 2020.
 # Wolfgang Stoeggl <c72578@yahoo.de>, 2020.
 # Ettore Atalan <atalanttore@googlemail.com>, 2021.
+# Joachim Philipp <joachim.philipp@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-11-08 14:05+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2022-05-12 14:18+0000\n"
+"Last-Translator: Joachim Philipp <joachim.philipp@gmail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/de/>\n"
 "Language: de\n"
@@ -39,7 +40,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -76,11 +77,11 @@ msgstr "Werkzeuge für die Arbeit mit ARM-Systemen"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 Baremetal Werkzeuge"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Werkzeuge zur Arbeit mit Baremetal x86 Systemen"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -320,13 +321,12 @@ msgid "Deepin Desktop Environment"
 msgstr "Deepin-Arbeitsumgebung"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
-#, fuzzy
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
 "Deepin Desktop ist eine Desktop-Umgebung, die elegant und einfach zu "
-"bedienen sein soll."
+"bedienen sein möchte."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
 msgid "Deepin Desktop Applications"
@@ -1167,6 +1167,7 @@ msgstr "Pantheon Desktop"
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
 msgstr ""
+"Der Pantheon Desktop ist die Desktopumgebung, unter der Elementary OS läuft."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1703,13 +1704,12 @@ msgstr "Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
-#, fuzzy
 msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
-"Deepin Desktop ist die mit Deepin veröffentlichte Desktop-Umgebung. Sie soll "
-"elegant und einfach zu bedienen sein."
+"Deepin Desktop ist die mit Deepin veröffentlichte Desktop-Umgebung. Sie "
+"möchte elegant und einfach zu bedienen sein."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
