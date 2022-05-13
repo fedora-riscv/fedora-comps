@@ -31,7 +31,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-05-12 14:18+0000\n"
+"PO-Revision-Date: 2022-05-14 19:18+0000\n"
 "Last-Translator: Joachim Philipp <joachim.philipp@gmail.com>\n"
 "Language-Team: German <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/de/>\n"
@@ -337,8 +337,6 @@ msgid "Media packages for Deepin Desktop"
 msgstr "Medienpakete für Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
 msgstr "Deepin Desktop Office"
 
