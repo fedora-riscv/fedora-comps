@@ -5111,7 +5111,7 @@
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
       <packagereq>irqbalance</packagereq>
-      <packagereq>jwhois</packagereq>
+      <packagereq>whois</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
@@ -5665,7 +5665,7 @@
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">iptstate</packagereq>
-      <packagereq type="default">jwhois</packagereq>
+      <packagereq type="default">whois</packagereq>
       <packagereq type="default">logrotate</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">lsof</packagereq>
