@@ -95,7 +95,7 @@
       <packagereq variant="AppStream">java-1.8.0-openjdk-devel</packagereq>
       <packagereq variant="AppStream">libcanberra-devel</packagereq>
       <packagereq variant="AppStream">libdrm-devel</packagereq>
-      <packagereq arch="x86_64" variant="AppStream">libva-devel</packagereq>
+      <packagereq variant="AppStream">libva-devel</packagereq>
       <packagereq variant="AppStream">libnotify-devel</packagereq>
       <packagereq variant="AppStream" arch="x86_64">libpmem-devel</packagereq>
       <packagereq variant="AppStream" arch="x86_64">libpmemblk-devel</packagereq>
@@ -104,9 +104,6 @@
       <packagereq variant="AppStream" arch="x86_64">libpmemobj++-devel</packagereq>
       <packagereq variant="AppStream" arch="x86_64">libpmemobj++-doc</packagereq>
       <packagereq variant="AppStream" arch="x86_64">libpmempool-devel</packagereq>
-      <packagereq variant="AppStream" arch="x86_64">librpmem-devel</packagereq>
-      <packagereq variant="AppStream" arch="x86_64">libvmem-devel</packagereq>
-      <packagereq variant="AppStream" arch="x86_64">libvmmalloc-devel</packagereq>
       <packagereq variant="AppStream">libpq-devel</packagereq>
       <packagereq variant="AppStream">librsvg2-devel</packagereq>
       <packagereq variant="AppStream">librsvg2-tools</packagereq>
@@ -122,21 +119,20 @@
       <packagereq variant="AppStream">libxslt-devel</packagereq>
       <packagereq variant="AppStream">motif-devel</packagereq>
       <packagereq variant="AppStream">mpfr-devel</packagereq>
-      <packagereq variant="AppStream">mariadb-devel</packagereq>
       <packagereq variant="AppStream">net-snmp-devel</packagereq>
       <packagereq variant="AppStream">newt-devel</packagereq>
       <packagereq variant="AppStream">openscap-devel</packagereq>
-      <packagereq variant="AppStream">pulseaudio-libs-devel</packagereq>
+      <packagereq variant="AppStream">pipewire-devel</packagereq>
+      <packagereq variant="AppStream">pipewire-jack-audio-connection-kit-devel</packagereq>
       <packagereq variant="AppStream">protobuf-c</packagereq>
       <packagereq variant="AppStream">sane-backends-devel</packagereq>
       <packagereq variant="AppStream">scl-utils</packagereq>
       <packagereq variant="AppStream">scl-utils-build</packagereq>
-      <packagereq variant="AppStream">SDL-devel</packagereq>
+      <packagereq variant="AppStream">SDL2-devel</packagereq>
       <packagereq variant="AppStream">slang-devel</packagereq>
       <packagereq variant="AppStream">startup-notification-devel</packagereq>
       <packagereq variant="AppStream">tbb-devel</packagereq>
       <packagereq variant="AppStream">tk-devel</packagereq>
-      <packagereq variant="AppStream">unixODBC-devel</packagereq>
       <packagereq variant="AppStream">xorg-x11-proto-devel</packagereq>
     </packagelist>
   </group>
@@ -157,12 +153,9 @@
       <packagereq variant="BaseOS" arch="aarch64,x86_64">efibootmgr</packagereq>
       <packagereq variant="BaseOS">fcoe-utils</packagereq>
       <packagereq variant="BaseOS">firewalld</packagereq>
-      <packagereq variant="BaseOS" arch="ppc64le,s390x,aarch64">gfs2-utils</packagereq>
       <packagereq variant="BaseOS">glibc-all-langpacks</packagereq>
       <packagereq variant="BaseOS" arch="aarch64">grub2-efi-aa64</packagereq>
       <packagereq variant="BaseOS" arch="aarch64">grub2-efi-aa64-cdboot</packagereq>
-      <packagereq variant="BaseOS" arch="x86_64">grub2-efi-ia32</packagereq>
-      <packagereq variant="BaseOS" arch="x86_64">grub2-efi-ia32-cdboot</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">grub2-efi-x64</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">grub2-efi-x64-cdboot</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">grub2-pc</packagereq>
@@ -172,13 +165,15 @@
       <packagereq variant="BaseOS" arch="aarch64,ppc64le,x86_64">grub2-tools-extra</packagereq>
       <packagereq variant="BaseOS">iscsi-initiator-utils</packagereq>
       <packagereq variant="AppStream">kdump-anaconda-addon</packagereq>
+      <packagereq variant="AppStream">libblockdev-plugins-all</packagereq>
+      <packagereq variant="AppStream">libreport-plugin-bugzilla</packagereq>
       <packagereq variant="BaseOS">lvm2</packagereq>
       <packagereq variant="BaseOS">mdadm</packagereq>
       <packagereq variant="BaseOS">realmd</packagereq>
+      <packagereq variant="BaseOS">restore</packagereq>
       <packagereq variant="AppStream" arch="s390x">s390utils</packagereq>
       <packagereq variant="AppStream" arch="s390x">s390utils-base</packagereq>
       <packagereq variant="BaseOS" arch="aarch64">shim-aa64</packagereq>
-      <packagereq variant="BaseOS" arch="x86_64">shim-ia32</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">shim-x64</packagereq>
       <packagereq variant="BaseOS" arch="x86_64">syslinux-extlinux</packagereq>
       <packagereq variant="BaseOS">teamd</packagereq>
@@ -199,7 +194,6 @@
       <packagereq variant="AppStream">xorg-x11-drv-evdev</packagereq>
       <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-fbdev</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
-      <packagereq variant="AppStream" arch="aarch64,ppc64le,x86_64">xorg-x11-drv-qxl</packagereq>
       <packagereq variant="AppStream" arch="x86_64">xorg-x11-drv-vmware</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-wacom</packagereq>
       <packagereq variant="AppStream">xorg-x11-server-Xorg</packagereq>
@@ -221,6 +215,8 @@
       <packagereq type="mandatory" variant="BaseOS">bash</packagereq>
       <packagereq type="mandatory" variant="BaseOS">coreutils</packagereq>
       <packagereq type="mandatory" variant="BaseOS">cronie</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">crypto-policies</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">crypto-policies-scripts</packagereq>
       <packagereq type="mandatory" variant="BaseOS">curl</packagereq>
       <packagereq type="mandatory" variant="BaseOS">dnf</packagereq>
       <packagereq type="mandatory" variant="BaseOS">yum</packagereq>
@@ -229,27 +225,31 @@
       <packagereq type="mandatory" variant="BaseOS">firewalld</packagereq>
       <packagereq type="mandatory" variant="BaseOS">glibc</packagereq>
       <packagereq type="mandatory" variant="BaseOS">grubby</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">hostname</packagereq>
       <packagereq type="mandatory" variant="BaseOS">iproute</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">iproute-tc</packagereq>
       <packagereq type="mandatory" variant="BaseOS">iputils</packagereq>
       <packagereq type="mandatory" variant="BaseOS" arch="aarch64,ppc64le,x86_64">irqbalance</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kbd</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kexec-tools</packagereq>
       <packagereq type="mandatory" variant="BaseOS">less</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">logrotate</packagereq>
       <packagereq type="mandatory" variant="BaseOS">man-db</packagereq>
       <packagereq type="mandatory" variant="BaseOS">ncurses</packagereq>
       <packagereq type="mandatory" variant="BaseOS">openssh-clients</packagereq>
       <packagereq type="mandatory" variant="BaseOS">openssh-server</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">p11-kit</packagereq>
       <packagereq type="mandatory" variant="BaseOS">parted</packagereq>
       <packagereq type="mandatory" variant="BaseOS">passwd</packagereq>
       <packagereq type="mandatory" variant="BaseOS">policycoreutils</packagereq>
       <packagereq type="mandatory" variant="BaseOS">procps-ng</packagereq>
       <packagereq type="mandatory" variant="BaseOS">rootfiles</packagereq>
       <packagereq type="mandatory" variant="BaseOS">rpm</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">rpm-plugin-audit</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog</packagereq>
       <packagereq type="mandatory" variant="BaseOS">selinux-policy-targeted</packagereq>
       <packagereq type="mandatory" variant="BaseOS">setup</packagereq>
       <packagereq type="mandatory" variant="BaseOS">shadow-utils</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">subscription-manager</packagereq>
       <packagereq type="mandatory" variant="BaseOS">sssd-common</packagereq>
       <packagereq type="mandatory" variant="BaseOS">sssd-kcm</packagereq>
       <packagereq type="mandatory" variant="BaseOS">sudo</packagereq>
@@ -261,21 +261,18 @@
       <packagereq type="default" variant="BaseOS">prefixdevname</packagereq>
       <packagereq type="default" variant="BaseOS">dnf-plugins-core</packagereq>
       <packagereq type="default" variant="BaseOS">dracut-config-rescue</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl100-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl105-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl135-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl1000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl2000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl2030-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl3160-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl3945-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl4965-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl5000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl5150-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl6000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl6050-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">iwl7260-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl100-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl105-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl135-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl1000-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2000-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2030-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl3160-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5000-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5150-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6000g2a-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6050-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl7260-firmware</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-team</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-tui</packagereq>
@@ -292,11 +289,12 @@
       <packagereq type="default" variant="BaseOS" arch="s390x">s390utils-core</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils</packagereq>
       <packagereq type="default" variant="BaseOS">sg3_utils-libs</packagereq>
+      <packagereq type="default" variant="BaseOS">initscripts-rename-device</packagereq>
+      <packagereq type="default" variant="AppStream">python3-libselinux</packagereq>
       <packagereq type="optional" variant="BaseOS">dracut-config-generic</packagereq>
       <packagereq type="optional" variant="BaseOS">dracut-network</packagereq>
       <packagereq type="optional" variant="BaseOS" arch="s390x">libzfcphbaapi</packagereq>
       <packagereq type="optional" variant="BaseOS">rdma-core</packagereq>
-      <packagereq type="optional" variant="BaseOS">rng-tools</packagereq>
       <packagereq type="optional" variant="BaseOS">selinux-policy-mls</packagereq>
       <packagereq type="optional" variant="BaseOS" arch="x86_64">tboot</packagereq>
       <packagereq type="optional" variant="AppStream">initial-setup</packagereq>
@@ -318,16 +316,11 @@
       <packagereq type="mandatory" variant="AppStream">gdb</packagereq>
       <packagereq type="mandatory" variant="AppStream">libreport-cli</packagereq>
       <packagereq type="mandatory" variant="AppStream">systemtap-runtime</packagereq>
-      <packagereq type="default" variant="AppStream">abrt-addon-ccpp</packagereq>
-      <packagereq type="default" variant="AppStream">abrt-cli</packagereq>
-      <packagereq type="default" variant="AppStream">python3-abrt-addon</packagereq>
       <packagereq type="default" variant="AppStream">crash</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">crash-gcore-command</packagereq>
-      <packagereq type="default" arch="x86_64" variant="AppStream">crash-ptdump-command</packagereq>
       <packagereq type="default" variant="AppStream">crash-trace-command</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64,s390x" variant="AppStream">valgrind-devel</packagereq>
-      <packagereq type="optional" arch="x86_64" variant="AppStream">xdp-tools</packagereq>
       <packagereq type="optional" variant="AppStream">bpftrace</packagereq>
       <packagereq type="optional" variant="AppStream">gdb-gdbserver</packagereq>
       <packagereq type="optional" variant="AppStream">glibc-utils</packagereq>
@@ -344,13 +337,10 @@
     <packagelist>
       <packagereq type="default" variant="AppStream">crash</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">crash-gcore-command</packagereq>
-      <packagereq type="default" arch="x86_64" variant="AppStream">crash-ptdump-command</packagereq>
       <packagereq type="default" variant="AppStream">crash-trace-command</packagereq>
       <packagereq type="default" variant="BaseOS">libreport-gtk</packagereq>
       <packagereq type="optional" variant="BaseOS">tuna</packagereq>
       <packagereq type="optional" variant="AppStream">xrestop</packagereq>
-      <packagereq type="default" variant="AppStream">abrt-desktop</packagereq>
-      <packagereq type="optional" variant="AppStream">abrt-gui</packagereq>
       <packagereq type="optional" variant="AppStream">pcp-gui</packagereq>
     </packagelist>
   </group>
@@ -394,6 +384,7 @@
       <packagereq variant="AppStream">at-spi2-atk</packagereq>
       <packagereq variant="BaseOS">avahi</packagereq>
       <packagereq variant="BaseOS">glib-networking</packagereq>
+      <packagereq variant="BaseOS">glibc-all-langpacks</packagereq>
       <packagereq variant="BaseOS">ModemManager</packagereq>
       <packagereq variant="BaseOS">NetworkManager-adsl</packagereq>
       <packagereq variant="BaseOS">polkit</packagereq>
@@ -406,7 +397,6 @@
       <packagereq arch="ppc64le,x86_64" variant="AppStream">eog</packagereq>
       <packagereq variant="AppStream">evince</packagereq>
       <packagereq variant="AppStream">evince-nautilus</packagereq>
-      <packagereq variant="AppStream">file-roller</packagereq>
       <packagereq arch="ppc64le,x86_64" variant="AppStream">fprintd-pam</packagereq>
       <packagereq variant="AppStream">gdm</packagereq>
       <packagereq variant="AppStream">gedit</packagereq>
@@ -419,9 +409,8 @@
       <packagereq arch="ppc64le,x86_64" variant="AppStream">gnome-color-manager</packagereq>
       <packagereq variant="AppStream">gnome-disk-utility</packagereq>
       <packagereq variant="AppStream">gnome-font-viewer</packagereq>
-      <packagereq variant="AppStream">gnome-getting-started-docs</packagereq>
       <packagereq variant="AppStream">gnome-initial-setup</packagereq>
-      <packagereq variant="AppStream">initial-setup-gui</packagereq>
+      <packagereq type="optional" variant="AppStream">initial-setup-gui</packagereq>
       <packagereq variant="AppStream">gnome-logs</packagereq>
       <packagereq variant="AppStream">gnome-remote-desktop</packagereq>
       <packagereq variant="AppStream">gnome-screenshot</packagereq>
@@ -431,19 +420,17 @@
       <packagereq variant="AppStream">gnome-shell</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-apps-menu</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-auto-move-windows</packagereq>
+      <packagereq variant="AppStream">gnome-shell-extension-background-logo</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-dash-to-dock</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-desktop-icons</packagereq>
-      <packagereq type="optional" variant="AppStream">gnome-shell-extension-disable-screenshield</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-drive-menu</packagereq>
-      <packagereq type="optional" variant="AppStream">gnome-shell-extension-horizontal-workspaces</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-launch-new-instance</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-native-window-placement</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-places-menu</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-screenshot-window-sizer</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-user-theme</packagereq>
-      <packagereq type="optional" variant="AppStream">gnome-shell-extension-windows-list</packagereq>
+      <packagereq type="optional" variant="AppStream">gnome-shell-extension-window-list</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-windowsNavigator</packagereq>
-      <packagereq type="optional" variant="AppStream">gnome-shell-extension-window-grouper</packagereq>
       <packagereq type="optional" variant="AppStream">gnome-shell-extension-workspace-indicator</packagereq>
       <packagereq variant="AppStream">gnome-software</packagereq>
       <packagereq variant="AppStream">gnome-system-monitor</packagereq>
@@ -496,8 +483,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq arch="x86_64" variant="AppStream">hyperv-daemons</packagereq>
-      <packagereq arch="x86_64" variant="AppStream">open-vm-tools</packagereq>
+      <packagereq arch="aarch64,x86_64" variant="AppStream">hyperv-daemons</packagereq>
+      <packagereq arch="aarch64,x86_64" variant="AppStream">open-vm-tools</packagereq>
       <packagereq variant="AppStream">qemu-guest-agent</packagereq>
     </packagelist>
   </group>
@@ -530,16 +517,14 @@
       <packagereq type="default">iwl2000-firmware</packagereq>
       <packagereq type="default">iwl2030-firmware</packagereq>
       <packagereq type="default">iwl3160-firmware</packagereq>
-      <packagereq type="default">iwl3945-firmware</packagereq>
-      <packagereq type="default">iwl4965-firmware</packagereq>
       <packagereq type="default">iwl5000-firmware</packagereq>
       <packagereq type="default">iwl5150-firmware</packagereq>
-      <packagereq type="default">iwl6000-firmware</packagereq>
       <packagereq type="default">iwl6000g2a-firmware</packagereq>
       <packagereq type="default">iwl6000g2b-firmware</packagereq>
       <packagereq type="default">iwl6050-firmware</packagereq>
       <packagereq type="default">iwl7260-firmware</packagereq>
-      <packagereq type="default">libertas-usb8388-firmware</packagereq>
+      <packagereq type="default">netronome-firmware</packagereq>
+      <packagereq type="default">libertas-sd8787-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">opensc</packagereq>
@@ -583,7 +568,6 @@
       <packagereq type="default" variant="AppStream">infiniband-diags</packagereq>
       <packagereq type="default" variant="BaseOS">iwpmd</packagereq>
       <packagereq type="default" variant="BaseOS">perftest</packagereq>
-      <packagereq type="default" variant="AppStream">qperf</packagereq>
       <packagereq type="default" variant="BaseOS">srp_daemon</packagereq>
       <packagereq type="optional" variant="BaseOS">opensm</packagereq>
       <packagereq type="optional" arch="aarch64,ppc64le,x86_64" variant="AppStream">libvma</packagereq>
@@ -667,7 +651,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default" variant="BaseOS">x3270-text</packagereq>
-      <packagereq type="default" variant="AppStream">x3270-x11</packagereq>
     </packagelist>
   </group>
   <group>
@@ -680,7 +663,7 @@
       <packagereq type="default" variant="BaseOS">NetworkManager-wifi</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-bluetooth</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-wwan</packagereq>
-      <packagereq type="default" variant="BaseOS">iptables</packagereq>
+      <packagereq type="default" variant="BaseOS">iptables-nft</packagereq>
       <packagereq type="default" variant="AppStream">dnsmasq</packagereq>
     </packagelist>
   </group>
@@ -736,7 +719,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="optional" variant="BaseOS">arpwatch</packagereq>
       <packagereq type="optional" variant="BaseOS">ipset</packagereq>
       <packagereq type="optional" variant="BaseOS">iptraf-ng</packagereq>
       <packagereq type="optional" variant="BaseOS">lksctp-tools</packagereq>
@@ -749,6 +731,7 @@
       <packagereq type="optional" variant="AppStream">mrtg</packagereq>
       <packagereq type="optional" variant="AppStream">nmap</packagereq>
       <packagereq type="optional" variant="AppStream">nmstate</packagereq>
+      <packagereq type="optional" variant="AppStream">xdp-tools</packagereq>
       <packagereq type="optional" variant="AppStream">wireshark</packagereq>
     </packagelist>
   </group>
@@ -797,10 +780,12 @@
       <packagereq type="default" variant="AppStream">pcp-pmda-bcc</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-bind2</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-bonding</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="AppStream">pcp-pmda-bpf</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-bpftrace</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-cifs</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-cisco</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-dbping</packagereq>
+      <packagereq type="default" variant="AppStream">pcp-pmda-denki</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-dm</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-docker</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-ds389</packagereq>
@@ -823,6 +808,7 @@
       <packagereq type="default" variant="AppStream">pcp-pmda-mailq</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-memcache</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-mic</packagereq>
+      <packagereq type="default" variant="AppStream">pcp-pmda-mongodb</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-mounts</packagereq>
       <packagereq type="default" arch="x86_64" variant="AppStream">pcp-pmda-mssql</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-mysql</packagereq>
@@ -840,7 +826,6 @@
       <packagereq type="default" variant="AppStream">pcp-pmda-postfix</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-redis</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-roomtemp</packagereq>
-      <packagereq type="default" variant="AppStream">pcp-pmda-rpm</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-rsyslog</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-samba</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-sendmail</packagereq>
@@ -852,7 +837,6 @@
       <packagereq type="default" variant="AppStream">pcp-pmda-systemd</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-trace</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-unbound</packagereq>
-      <packagereq type="default" variant="AppStream">pcp-pmda-vmware</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-weblog</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-zimbra</packagereq>
       <packagereq type="default" variant="AppStream">pcp-pmda-zswap</packagereq>
@@ -903,7 +887,6 @@
       <packagereq variant="AppStream">libdb-devel</packagereq>
       <packagereq variant="AppStream">libICE-devel</packagereq>
       <packagereq variant="AppStream">libSM-devel</packagereq>
-      <packagereq variant="AppStream">libvirt-devel</packagereq>
       <packagereq variant="AppStream">libX11-devel</packagereq>
       <packagereq variant="AppStream">libXext-devel</packagereq>
       <packagereq variant="AppStream">libXi-devel</packagereq>
@@ -915,7 +898,6 @@
       <packagereq variant="AppStream">libXtst-devel</packagereq>
       <packagereq variant="AppStream">libXv-devel</packagereq>
       <packagereq variant="AppStream">libXxf86dga-devel</packagereq>
-      <packagereq variant="AppStream">libXxf86misc-devel</packagereq>
       <packagereq variant="AppStream">libjpeg-turbo-devel</packagereq>
       <packagereq variant="AppStream">libstdc++-devel</packagereq>
       <packagereq variant="AppStream">libxml2-devel</packagereq>
@@ -928,7 +910,6 @@
       <packagereq variant="AppStream">qt5-qtbase-mysql</packagereq>
       <packagereq variant="AppStream">qt5-qtbase-odbc</packagereq>
       <packagereq variant="AppStream">qt5-qtbase-postgresql</packagereq>
-      <packagereq variant="AppStream">qt5-qtcanvas3d</packagereq>
       <packagereq variant="AppStream">qt5-qtconnectivity-devel</packagereq>
       <packagereq variant="AppStream">qt5-qtdoc</packagereq>
       <packagereq variant="AppStream">qt5-qtgraphicaleffects</packagereq>
@@ -964,8 +945,8 @@
     <packagelist>
       <packagereq variant="AppStream">freetype-devel</packagereq>
       <packagereq variant="BaseOS">libcurl</packagereq>
-      <packagereq variant="BaseOS">libcurl-devel</packagereq>
-      <packagereq variant="BaseOS">python3-magic</packagereq>
+      <packagereq variant="AppStream">libcurl-devel</packagereq>
+      <packagereq variant="AppStream">python3-file-magic</packagereq>
       <packagereq variant="AppStream">libjpeg-turbo</packagereq>
       <packagereq variant="AppStream">libjpeg-turbo-devel</packagereq>
       <packagereq variant="AppStream">python3-mod_wsgi</packagereq>
@@ -1002,8 +983,7 @@
     <packagelist>
       <packagereq type="optional" variant="BaseOS">hmaccalc</packagereq>
       <packagereq type="optional" arch="x86_64" variant="BaseOS">tpm2-tools</packagereq>
-      <packagereq type="optional" arch="ppc64le" variant="BaseOS">tss2</packagereq>
-      <packagereq type="optional" variant="BaseOS">trousers</packagereq>
+      <packagereq type="optional" arch="ppc64le,x86_64" variant="BaseOS">tss2</packagereq>
       <packagereq type="default" variant="AppStream">scap-security-guide</packagereq>
       <packagereq type="optional" variant="AppStream">aide</packagereq>
       <packagereq type="optional" variant="AppStream">openscap</packagereq>
@@ -1080,7 +1060,6 @@
       <packagereq type="mandatory" variant="BaseOS">dbus</packagereq>
       <packagereq type="mandatory" variant="BaseOS">ed</packagereq>
       <packagereq type="mandatory" variant="BaseOS">file</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">iptstate</packagereq>
       <packagereq type="mandatory" arch="aarch64,ppc64le,x86_64" variant="BaseOS">irqbalance</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch-dnf</packagereq>
@@ -1124,12 +1103,14 @@
       <packagereq type="default" variant="BaseOS">mlocate</packagereq>
       <packagereq type="default" variant="BaseOS">mtr</packagereq>
       <packagereq type="default" variant="BaseOS">nano</packagereq>
+      <packagereq type="default" variant="BaseOS">nvme-cli</packagereq>
       <packagereq type="default" variant="AppStream">pinfo</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">powerpc-utils</packagereq>
       <packagereq type="default" variant="AppStream">plymouth</packagereq>
       <packagereq type="default" variant="BaseOS">realmd</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils</packagereq>
+      <packagereq type="optional" arch="s390x" variant="AppStream">s390utils-chreipl-fcp-mpath</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cmsfs-fuse</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cpacfstatsd</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-hmcdrvfs</packagereq>
@@ -1139,13 +1120,12 @@
       <packagereq type="default" variant="BaseOS">sos</packagereq>
       <packagereq type="default" variant="BaseOS">sssd</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
-      <packagereq type="default" variant="BaseOS">subscription-manager-cockpit</packagereq>
-      <packagereq type="default" variant="BaseOS">libdnf-plugin-subscription-manager</packagereq>
       <packagereq type="default" variant="BaseOS">teamd</packagereq>
       <packagereq type="default" variant="BaseOS">time</packagereq>
       <packagereq type="default" variant="BaseOS">unzip</packagereq>
       <packagereq type="default" variant="BaseOS">usbutils</packagereq>
       <packagereq type="default" variant="BaseOS">vdo</packagereq>
+      <packagereq type="optional" variant="BaseOS">vdo-support</packagereq>
       <packagereq type="default" variant="BaseOS">kmod-kvdo</packagereq>
       <packagereq type="default" variant="BaseOS">virt-what</packagereq>
       <packagereq type="default" variant="BaseOS">which</packagereq>
@@ -1158,10 +1138,10 @@
       <packagereq type="optional" variant="BaseOS">nfs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nvmetcli</packagereq>
       <packagereq type="optional" arch="ppc64le" variant="BaseOS">servicelog</packagereq>
-      <packagereq type="optional" variant="BaseOS">rng-tools</packagereq>
       <packagereq type="optional" variant="BaseOS">traceroute</packagereq>
       <packagereq type="optional" variant="BaseOS">zsh</packagereq>
       <packagereq type="optional" variant="BaseOS">cockpit-doc</packagereq>
+      <packagereq type="default" arch="x86_64" variant="BaseOS">bluez</packagereq>
       <packagereq arch="ppc64le,x86_64" type="default" variant="AppStream">fprintd-pam</packagereq>
       <packagereq type="default" variant="AppStream">nmap-ncat</packagereq>
       <packagereq type="default" variant="AppStream">tcpdump</packagereq>
@@ -1187,7 +1167,6 @@
       <packagereq type="mandatory" variant="BaseOS">dbus</packagereq>
       <packagereq type="mandatory" variant="BaseOS">ed</packagereq>
       <packagereq type="mandatory" variant="BaseOS">file</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">iptstate</packagereq>
       <packagereq type="mandatory" arch="aarch64,ppc64le,x86_64" variant="BaseOS">irqbalance</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch</packagereq>
       <packagereq type="mandatory" variant="BaseOS">kpatch-dnf</packagereq>
@@ -1231,12 +1210,14 @@
       <packagereq type="default" variant="BaseOS">mlocate</packagereq>
       <packagereq type="default" variant="BaseOS">mtr</packagereq>
       <packagereq type="default" variant="BaseOS">nano</packagereq>
+      <packagereq type="default" variant="BaseOS">nvme-cli</packagereq>
       <packagereq type="default" variant="AppStream">pinfo</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">ppc64-diag</packagereq>
       <packagereq type="default" variant="AppStream" arch="ppc64le">powerpc-utils</packagereq>
       <packagereq type="default" variant="AppStream">plymouth</packagereq>
       <packagereq type="default" variant="BaseOS">realmd</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils</packagereq>
+      <packagereq type="optional" arch="s390x" variant="AppStream">s390utils-chreipl-fcp-mpath</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cmsfs-fuse</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-cpacfstatsd</packagereq>
       <packagereq type="default" arch="s390x" variant="AppStream">s390utils-hmcdrvfs</packagereq>
@@ -1246,13 +1227,12 @@
       <packagereq type="default" variant="BaseOS">sos</packagereq>
       <packagereq type="default" variant="BaseOS">sssd</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
-      <packagereq type="default" variant="BaseOS">subscription-manager-cockpit</packagereq>
-      <packagereq type="default" variant="BaseOS">libdnf-plugin-subscription-manager</packagereq>
       <packagereq type="default" variant="BaseOS">teamd</packagereq>
       <packagereq type="default" variant="BaseOS">time</packagereq>
       <packagereq type="default" variant="BaseOS">unzip</packagereq>
       <packagereq type="default" variant="BaseOS">usbutils</packagereq>
       <packagereq type="default" variant="BaseOS">vdo</packagereq>
+      <packagereq type="optional" variant="BaseOS">vdo-support</packagereq>
       <packagereq type="default" variant="BaseOS">kmod-kvdo</packagereq>
       <packagereq type="default" variant="BaseOS">virt-what</packagereq>
       <packagereq type="default" variant="BaseOS">which</packagereq>
@@ -1264,11 +1244,11 @@
       <packagereq type="optional" variant="BaseOS">ima-evm-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nfs-utils</packagereq>
       <packagereq type="optional" variant="BaseOS">nvmetcli</packagereq>
-      <packagereq type="optional" variant="BaseOS">rng-tools</packagereq>
       <packagereq type="optional" arch="ppc64le" variant="BaseOS">servicelog</packagereq>
       <packagereq type="optional" variant="BaseOS">traceroute</packagereq>
       <packagereq type="optional" variant="BaseOS">zsh</packagereq>
       <packagereq type="optional" variant="BaseOS">cockpit-doc</packagereq>
+      <packagereq type="default" arch="x86_64" variant="BaseOS">bluez</packagereq>
       <packagereq arch="ppc64le,x86_64" type="default" variant="AppStream">fprintd-pam</packagereq>
       <packagereq type="default" variant="AppStream">nmap-ncat</packagereq>
       <packagereq type="default" variant="AppStream">tcpdump</packagereq>
@@ -1291,7 +1271,6 @@
       <packagereq type="default" arch="aarch64,ppc64le,x86_64" variant="BaseOS">setserial</packagereq>
       <packagereq type="default" variant="BaseOS">tmux</packagereq>
       <packagereq type="default" variant="BaseOS">zsh</packagereq>
-      <packagereq type="optional" variant="BaseOS">arpwatch</packagereq>
       <packagereq type="optional" variant="BaseOS">autofs</packagereq>
       <packagereq type="optional" variant="BaseOS">chrpath</packagereq>
       <packagereq type="optional" variant="BaseOS">environment-modules</packagereq>
@@ -1299,13 +1278,12 @@
       <packagereq type="optional" variant="BaseOS">iotop</packagereq>
       <packagereq type="optional" variant="BaseOS">lzop</packagereq>
       <packagereq type="optional" variant="BaseOS">hardlink</packagereq>
-      <packagereq type="optional" variant="AppStream">x3270-x11</packagereq>
       <packagereq type="default" variant="AppStream">libreswan</packagereq>
       <packagereq type="default" variant="AppStream">NetworkManager-libreswan</packagereq>
       <packagereq type="default" variant="AppStream">nmap</packagereq>
       <packagereq type="default" variant="AppStream">tigervnc</packagereq>
       <packagereq type="optional" variant="AppStream">aide</packagereq>
-      <packagereq type="optional" variant="AppStream">amanda-client</packagereq>
+      <packagereq type="optional" variant="AppStream">bacula-client</packagereq>
       <packagereq type="optional" variant="AppStream">convmv</packagereq>
       <packagereq type="optional" variant="AppStream">createrepo_c</packagereq>
       <packagereq type="optional" variant="AppStream">freerdp</packagereq>
@@ -1318,11 +1296,15 @@
       <packagereq type="optional" variant="AppStream">oddjob-mkhomedir</packagereq>
       <packagereq type="optional" variant="AppStream">PackageKit-command-not-found</packagereq>
       <packagereq type="optional" arch="x86_64" variant="AppStream">pmdk-convert</packagereq>
-      <packagereq type="optional" arch="aarch64,ppc64le,x86_64" variant="AppStream">rear</packagereq>
+      <packagereq type="optional" arch="ppc64le,x86_64,s390x" variant="AppStream">rear</packagereq>
       <packagereq type="optional" variant="AppStream">speech-dispatcher</packagereq>
       <packagereq type="optional" variant="AppStream">speech-dispatcher-espeak-ng</packagereq>
       <packagereq type="optional" variant="AppStream">sysstat</packagereq>
       <packagereq type="optional" variant="AppStream">wireshark</packagereq>
+      <packagereq type="optional" variant="BaseOS">initscripts</packagereq>
+      <packagereq type="optional" variant="BaseOS">initscripts-service</packagereq>
+      <packagereq type="optional" variant="BaseOS">netconsole-service</packagereq>
+      <packagereq type="optional" variant="BaseOS">readonly-root</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -1658,7 +1640,6 @@
       <packagereq type="default">httpd-manual</packagereq>
       <packagereq type="default">mod_fcgid</packagereq>
       <packagereq type="default">mod_ssl</packagereq>
-      <packagereq type="optional">libmemcached</packagereq>
       <packagereq type="optional">memcached</packagereq>
       <packagereq type="optional">mod_auth_gssapi</packagereq>
       <packagereq type="optional">mod_security</packagereq>
@@ -1692,7 +1673,6 @@
       <packagereq variant="BaseOS">file</packagereq>
       <packagereq variant="BaseOS">glibc-all-langpacks</packagereq>
       <packagereq variant="BaseOS">gnupg2</packagereq>
-      <packagereq variant="BaseOS">iptstate</packagereq>
       <packagereq variant="BaseOS">logrotate</packagereq>
       <packagereq variant="BaseOS">lrzsz</packagereq>
       <packagereq variant="BaseOS">lsof</packagereq>
@@ -1746,7 +1726,6 @@
       <packagereq variant="AppStream">ibus-m17n</packagereq>
       <packagereq variant="AppStream">ibus-typing-booster</packagereq>
       <packagereq variant="AppStream">nmap-ncat</packagereq>
-      <packagereq arch="ppc64le,x86_64" variant="AppStream">pidgin</packagereq>
       <packagereq variant="AppStream">pinentry-gnome3</packagereq>
       <packagereq variant="AppStream">qgnomeplatform</packagereq>
       <packagereq variant="AppStream">qt5-qtbase</packagereq>
@@ -1756,6 +1735,7 @@
       <packagereq variant="AppStream">setroubleshoot</packagereq>
       <packagereq variant="AppStream">telnet</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
+      <packagereq variant="AppStream" arch="x86_64">alsa-sof-firmware</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -1773,7 +1753,7 @@
   </group>
   <group variant="AppStream">
     <id>ostree-support</id>
-    <_name>Atomic Host ostree support</_name>
+    <_name>Image based rpm-ostree support</_name>
     <_description>Packages mandatory for ostree support.</_description>
     <default>false</default>
     <uservisible>false</uservisible>
@@ -1783,7 +1763,7 @@
       <packagereq>rpm-ostree</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <group variant="AppStream" arch="aarch64,s390x,x86_64">
     <id>virtualization-tools</id>
     <_name>Virtualization Tools</_name>
     <_description>Tools for offline virtual image management.</_description>
@@ -1791,8 +1771,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">libguestfs</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
-      <packagereq type="optional">libguestfs-tools-c</packagereq>
+      <packagereq type="optional">virt-win-reg</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
       <packagereq type="default" arch="x86_64">virtio-win</packagereq>
     </packagelist>
@@ -1810,7 +1790,6 @@
       <packagereq type="optional" arch="x86_64">fence-virtd-libvirt</packagereq>
       <packagereq type="optional" arch="x86_64">fence-virtd-multicast</packagereq>
       <packagereq type="optional" arch="x86_64">fence-virtd-serial</packagereq>
-      <packagereq type="optional">perl-Sys-Virt</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -1821,10 +1800,10 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">libvirt</packagereq>
-      <packagereq type="mandatory">qemu-kvm</packagereq>
+      <packagereq type="mandatory" arch="aarch64,s390x,x86_64">qemu-kvm</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <group variant="AppStream" arch="aarch64,s390x,x86_64">
     <id>virtualization-client</id>
     <_name>Virtualization Client</_name>
     <_description>Clients for installing and managing virtualization instances.</_description>
@@ -1835,8 +1814,8 @@
       <packagereq type="mandatory">virt-manager</packagereq>
       <packagereq type="mandatory">virt-viewer</packagereq>
       <packagereq type="default">virt-top</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
-      <packagereq type="optional">libguestfs-tools-c</packagereq>
+      <packagereq type="optional">virt-win-reg</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
     </packagelist>
   </group>
@@ -1873,6 +1852,7 @@
       <packagereq type="default" variant="BaseOS">cockpit</packagereq>
       <packagereq type="default" variant="AppStream">net-snmp</packagereq>
       <packagereq type="default" variant="AppStream">net-snmp-utils</packagereq>
+      <packagereq type="default" variant="AppStream">rhel-system-roles</packagereq>
       <packagereq type="default" variant="AppStream">tog-pegasus</packagereq>
       <packagereq type="default" variant="AppStream">wsmancli</packagereq>
       <packagereq type="optional" variant="AppStream">openwsman-server</packagereq>
@@ -1896,7 +1876,6 @@
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">gutenprint-doc</packagereq>
-      <packagereq type="default">hpijs</packagereq>
       <packagereq type="default">paps</packagereq>
     </packagelist>
   </group>
@@ -1914,10 +1893,10 @@
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>
       <packagereq type="default">gutenprint-doc</packagereq>
-      <packagereq type="default">hpijs</packagereq>
       <packagereq type="default">paps</packagereq>
       <packagereq type="default">pnm2ppa</packagereq>
       <packagereq type="default">system-config-printer-udev</packagereq>
+      <packagereq type="optional">bluez-cups</packagereq>
       <packagereq type="optional">hplip</packagereq>
     </packagelist>
   </group>
@@ -1933,7 +1912,7 @@
       <packagereq type="optional">open-vm-tools-desktop</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64" variant="AppStream">
+  <group arch="aarch64,x86_64" variant="AppStream">
     <id>platform-microsoft</id>
     <_name>Hyper-v platform specific packages</_name>
     <_description>Virtualization utilities and drivers for Hyper-v</_description>
@@ -2014,16 +1993,18 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>alsa-plugins-pulseaudio</packagereq>
       <packagereq>alsa-ucm</packagereq>
       <packagereq>alsa-utils</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
-      <packagereq>pulseaudio</packagereq>
-      <packagereq>pulseaudio-module-x11</packagereq>
-      <packagereq>pulseaudio-utils</packagereq>
+      <packagereq>pipewire</packagereq>
+      <packagereq>pipewire-alsa</packagereq>
+      <packagereq>pipewire-jack-audio-connection-kit</packagereq>
+      <packagereq>pipewire-gstreamer</packagereq>
+      <packagereq>pipewire-pulseaudio</packagereq>
+      <packagereq>pipewire-utils</packagereq>
       <packagereq type="optional">pavucontrol</packagereq>
     </packagelist>
   </group>
@@ -2056,71 +2037,49 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">ant</packagereq>
-      <packagereq type="mandatory">ecj</packagereq>
-      <packagereq type="mandatory">java-1.8.0-openjdk-devel</packagereq>
-      <packagereq type="default">abrt-java-connector</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-devel</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-demo</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-javadoc</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-javadoc-zip</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk-src</packagereq>
+      <packagereq type="default">java-11-openjdk-devel</packagereq>
+      <packagereq type="default">java-11-openjdk-demo</packagereq>
+      <packagereq type="default">java-11-openjdk-javadoc</packagereq>
+      <packagereq type="default">java-11-openjdk-javadoc-zip</packagereq>
+      <packagereq type="default">java-11-openjdk-jmods</packagereq>
+      <packagereq type="default">java-11-openjdk-src</packagereq>
+      <packagereq type="default">java-11-openjdk-static-libs</packagereq>
+      <packagereq type="default">java-17-openjdk-devel</packagereq>
+      <packagereq type="default">java-17-openjdk-demo</packagereq>
+      <packagereq type="default">java-17-openjdk-javadoc</packagereq>
+      <packagereq type="default">java-17-openjdk-javadoc-zip</packagereq>
+      <packagereq type="default">java-17-openjdk-jmods</packagereq>
+      <packagereq type="default">java-17-openjdk-src</packagereq>
+      <packagereq type="default">java-17-openjdk-static-libs</packagereq>
+      <packagereq type="default">maven</packagereq>
+      <packagereq type="default">maven-openjdk11</packagereq>
+      <packagereq type="default">ant</packagereq>
       <packagereq type="default">ant-antlr</packagereq>
       <packagereq type="default">ant-apache-bcel</packagereq>
-      <packagereq type="default">ant-apache-log4j</packagereq>
+      <packagereq type="default">ant-apache-bsf</packagereq>
       <packagereq type="default">ant-apache-oro</packagereq>
       <packagereq type="default">ant-apache-regexp</packagereq>
       <packagereq type="default">ant-apache-resolver</packagereq>
+      <packagereq type="default">ant-apache-xalan2</packagereq>
       <packagereq type="default">ant-commons-logging</packagereq>
+      <packagereq type="default">ant-commons-net</packagereq>
       <packagereq type="default">ant-javamail</packagereq>
       <packagereq type="default">ant-jdepend</packagereq>
+      <packagereq type="default">ant-jmf</packagereq>
+      <packagereq type="default">ant-jsch</packagereq>
       <packagereq type="default">ant-junit</packagereq>
+      <packagereq type="default">ant-junit5</packagereq>
       <packagereq type="default">ant-swing</packagereq>
-      <packagereq type="default">apache-commons-beanutils</packagereq>
-      <packagereq type="default">apache-commons-codec</packagereq>
-      <packagereq type="default">apache-commons-collections</packagereq>
-      <packagereq type="default">apache-commons-compress</packagereq>
-      <packagereq type="default">apache-commons-configuration</packagereq>
-      <packagereq type="default">apache-commons-daemon</packagereq>
-      <packagereq type="default">apache-commons-dbcp</packagereq>
-      <packagereq type="default">apache-commons-digester</packagereq>
-      <packagereq type="default">apache-commons-discovery</packagereq>
-      <packagereq type="default">apache-commons-el</packagereq>
-      <packagereq type="default">apache-commons-exec</packagereq>
-      <packagereq type="default">apache-commons-fileupload</packagereq>
-      <packagereq type="default">apache-commons-io</packagereq>
-      <packagereq type="default">apache-commons-lang</packagereq>
-      <packagereq type="default">apache-commons-launcher</packagereq>
-      <packagereq type="default">apache-commons-logging</packagereq>
-      <packagereq type="default">apache-commons-math</packagereq>
-      <packagereq type="default">apache-commons-modeler</packagereq>
-      <packagereq type="default">apache-commons-net</packagereq>
-      <packagereq type="default">apache-commons-pool</packagereq>
-      <packagereq type="default">apache-commons-validator</packagereq>
-      <packagereq type="default">avalon-framework</packagereq>
-      <packagereq type="default">avalon-logkit</packagereq>
-      <packagereq type="default">bcel</packagereq>
-      <packagereq type="default">gnu-getopt</packagereq>
-      <packagereq type="default">jakarta-oro</packagereq>
-      <packagereq type="default">java-1.8.0-openjdk-demo</packagereq>
-      <packagereq type="default">java-1.8.0-openjdk-javadoc</packagereq>
-      <packagereq type="default">java-1.8.0-openjdk-src</packagereq>
-      <packagereq type="default">javamail</packagereq>
-      <packagereq type="default">java_cup</packagereq>
-      <packagereq type="default">jdepend</packagereq>
-      <packagereq type="default">jflex</packagereq>
-      <packagereq type="default">ldapjdk</packagereq>
+      <packagereq type="default">ant-testutil</packagereq>
+      <packagereq type="default">ant-xz</packagereq>
       <packagereq type="default">log4j</packagereq>
-      <packagereq type="default">maven</packagereq>
-      <packagereq type="default">mx4j</packagereq>
-      <packagereq type="default">regexp</packagereq>
-      <packagereq type="default">xalan-j2</packagereq>
-      <packagereq type="default">xalan-j2-xsltc</packagereq>
-      <packagereq type="default">xerces-j2</packagereq>
-      <packagereq type="default">xml-commons-apis</packagereq>
-      <packagereq type="default">xml-commons-resolver</packagereq>
-      <packagereq type="optional">ant-findbugs</packagereq>
-      <packagereq type="optional">findbugs</packagereq>
-      <packagereq type="optional">findbugs-tools</packagereq>
-      <packagereq type="optional">jcip-annotations</packagereq>
-      <packagereq type="optional">jinput</packagereq>
-      <packagereq type="optional">jsr-305</packagereq>
-      <packagereq type="optional">pmd</packagereq>
+      <packagereq type="default">log4j-jcl</packagereq>
+      <packagereq type="default">log4j-slf4j</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2130,7 +2089,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">java-1.8.0-openjdk</packagereq>
+      <packagereq type="default">java-1.8.0-openjdk</packagereq>
+      <packagereq type="default">java-11-openjdk</packagereq>
+      <packagereq type="default">java-17-openjdk</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2194,9 +2155,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>haproxy</packagereq>
-      <packagereq>rubygem-abrt</packagereq>
-      <packagereq>rubygem-daemons</packagereq>
-      <packagereq>rubygem-rest-client</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2206,8 +2164,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq arch="x86_64">hyperv-daemons</packagereq>
-      <packagereq arch="x86_64">open-vm-tools-desktop</packagereq>
+      <packagereq arch="aarch64,x86_64">hyperv-daemons</packagereq>
+      <packagereq arch="aarch64,x86_64">open-vm-tools-desktop</packagereq>
+      <packagereq>spice-vdagent</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
     </packagelist>
   </group>
@@ -2286,7 +2245,6 @@
       <packagereq type="mandatory" variant="BaseOS">strace</packagereq>
       <packagereq type="default" variant="AppStream">byacc</packagereq>
       <packagereq type="default" variant="AppStream">asciidoc</packagereq>
-      <packagereq type="default" variant="AppStream">ctags</packagereq>
       <packagereq type="default" variant="AppStream">diffstat</packagereq>
       <packagereq type="default" variant="AppStream">git</packagereq>
       <packagereq type="default" variant="AppStream">intltool</packagereq>
@@ -2317,6 +2275,7 @@
       <packagereq type="mandatory">podman</packagereq>
       <packagereq type="mandatory">containernetworking-plugins</packagereq>
       <packagereq type="optional">python3-psutil</packagereq>
+      <packagereq type="optional">toolbox</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2336,13 +2295,13 @@
     </packagelist>
   </group>
   <group variant="AppStream">
-    <id>dotnet-core</id>
-    <_name>.NET Core Development</_name>
-    <_description>Tools to develop .NET applications</_description>
+    <id>dotnet</id>
+    <_name>.NET Development</_name>
+    <_description>Tools to develop and/or run .NET applications</_description>
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional" arch="x86_64">dotnet-sdk-3.1</packagereq>
+      <packagereq type="optional" arch="aarch64,s390x,x86_64">dotnet-sdk-6.0</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2370,7 +2329,6 @@
       <packagereq type="optional">postgresql-plperl</packagereq>
       <packagereq type="optional">postgresql-plpython3</packagereq>
       <packagereq type="optional">postgresql-pltcl</packagereq>
-      <packagereq type="optional">postgresql-test</packagereq>
     </packagelist>
   </group>
   <group variant="AppStream">
@@ -2511,7 +2469,6 @@
       <packagereq type="optional">xorg-x11-fonts-ISO8859-2-75dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
-      <packagereq type="optional">zvbi-fonts</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2552,7 +2509,6 @@
       <packagereq type="default" variant="AppStream">smc-meera-fonts</packagereq>
       <packagereq type="default" variant="AppStream">stix-fonts</packagereq>
       <packagereq type="default" variant="AppStream">thai-scalable-waree-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">adobe-source-code-pro-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
@@ -2640,10 +2596,8 @@
       <packagereq type="optional" variant="AppStream">khmer-os-siemreap-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-gurmukhi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-malayalam-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">madan-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">nafees-web-naskh-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">navilu-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">open-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">overpass-fonts</packagereq>
@@ -2651,17 +2605,8 @@
       <packagereq type="optional" variant="AppStream">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">paratype-pt-sans-caption-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">saab-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">samyak-devanagari-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">samyak-gujarati-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">samyak-malayalam-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">samyak-odia-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">samyak-tamil-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">sil-scheherazade-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-anjalioldlipi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-dyuthi-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">smc-rachana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-suruma-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">stix-math-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-garuda-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-kinnari-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">thai-scalable-loma-fonts</packagereq>
@@ -2720,6 +2665,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">bacula-director</packagereq>
+      <packagereq type="mandatory">bacula-storage</packagereq>
       <packagereq>mt-st</packagereq>
       <packagereq>mtx</packagereq>
     </packagelist>
@@ -2731,9 +2678,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">amanda-client</packagereq>
       <packagereq type="optional">bacula-client</packagereq>
-      <packagereq arch="x86_64,ppc64le,aarch64" type="optional">rear</packagereq>
+      <packagereq arch="x86_64,ppc64le,s390x" type="optional">rear</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2750,16 +2696,16 @@
       <packagereq type="mandatory">pacemaker-cts</packagereq>
       <packagereq arch="x86_64" type="default">fence-agents-aliyun</packagereq>
       <packagereq type="default">fence-agents-all</packagereq>
-      <packagereq type="default">fence-agents-azure-arm</packagereq>
-      <packagereq type="default">fence-agents-gce</packagereq>
+      <packagereq type="default" arch="x86_64">fence-agents-azure-arm</packagereq>
+      <packagereq type="default" arch="x86_64">fence-agents-gce</packagereq>
       <packagereq type="default" arch="x86_64">fence-agents-aws</packagereq>
+      <packagereq type="default" arch="ppc64le,x86_64">fence-agents-openstack</packagereq>
       <packagereq type="default">omping</packagereq>
       <packagereq type="default">pacemaker-doc</packagereq>
       <packagereq type="default">pcs</packagereq>
       <packagereq type="optional">resource-agents</packagereq>
-      <packagereq type="optional" arch="x86_64">resource-agents-gcp</packagereq>
-      <packagereq type="optional" arch="x86_64">resource-agents-aliyun</packagereq>
-      <packagereq type="optional" arch="x86_64">awscli</packagereq>
+      <packagereq type="optional">resource-agents-paf</packagereq>
+      <packagereq type="optional" arch="x86_64">resource-agents-cloud</packagereq>
       <packagereq type="optional">booth</packagereq>
       <packagereq type="optional">booth-arbitrator</packagereq>
       <packagereq type="optional">booth-site</packagereq>
@@ -2791,11 +2737,11 @@
       <packagereq arch="ppc64le,s390x,x86_64" type="mandatory">gfs2-utils</packagereq>
       <packagereq type="mandatory">lvm2-lockd</packagereq>
       <packagereq type="default">dlm</packagereq>
-      <packagereq type="optional">cmirror</packagereq>
+      <packagereq type="default" arch="ppc64le,x86_64">fence-agents-openstack</packagereq>
       <packagereq type="optional">ctdb</packagereq>
       <packagereq type="optional">resource-agents</packagereq>
-      <packagereq type="optional" arch="x86_64">resource-agents-gcp</packagereq>
-      <packagereq type="optional" arch="x86_64">resource-agents-aliyun</packagereq>
+      <packagereq type="optional">resource-agents-paf</packagereq>
+      <packagereq type="optional" arch="x86_64">resource-agents-cloud</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2809,8 +2755,8 @@
       <packagereq type="default">kernel-rt-modules</packagereq>
       <packagereq type="default">kernel-rt-modules-extra</packagereq>
       <packagereq type="default">kernel-rt-devel</packagereq>
-      <packagereq type="default">rt-setup</packagereq>
-      <packagereq type="default">rt-tests</packagereq>
+      <packagereq type="default">realtime-setup</packagereq>
+      <packagereq type="default">realtime-tests</packagereq>
       <packagereq type="default">rteval</packagereq>
       <packagereq type="default">rteval-loads</packagereq>
       <packagereq type="default">tuned-profiles-realtime</packagereq>
@@ -2841,7 +2787,7 @@
       <packagereq type="default">kernel-rt-modules-extra</packagereq>
       <packagereq type="default">kernel-rt-kvm</packagereq>
       <packagereq type="default">kernel-rt-devel</packagereq>
-      <packagereq type="default">rt-setup</packagereq>
+      <packagereq type="default">realtime-setup</packagereq>
       <packagereq type="default">tuned-profiles-nfv</packagereq>
       <packagereq type="default">tuned-profiles-nfv-host</packagereq>
       <packagereq type="default">tuned-profiles-nfv-guest</packagereq>
@@ -2897,14 +2843,20 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="default" arch="x86_64">accel-config-devel</packagereq>
       <packagereq type="default">accountsservice-devel</packagereq>
+      <packagereq type="default">adwaita-icon-theme-devel</packagereq>
+      <packagereq type="default">anaconda-widgets-devel</packagereq>
       <packagereq type="default">ant-junit</packagereq>
+      <packagereq type="default">anthy-unicode-devel</packagereq>
       <packagereq type="default">antlr-C++</packagereq>
       <packagereq type="default">antlr-tool</packagereq>
       <packagereq type="default">apache-commons-beanutils</packagereq>
       <packagereq type="default">apache-commons-compress</packagereq>
       <packagereq type="default">apache-commons-net</packagereq>
-      <packagereq type="default">apache-ivy</packagereq>
+      <packagereq type="default">appstream-devel</packagereq>
+      <packagereq type="default">appstream-compose-devel</packagereq>
+      <packagereq type="default">appstream-qt-devel</packagereq>
       <packagereq type="default">aqute-bnd</packagereq>
       <packagereq type="default">aqute-bndlib</packagereq>
       <packagereq type="default">asciidoc-doc</packagereq>
@@ -2912,25 +2864,28 @@
       <packagereq type="default">atkmm-devel</packagereq>
       <packagereq type="default">atkmm-doc</packagereq>
       <packagereq type="default">augeas-devel</packagereq>
-      <packagereq type="default">autoconf213</packagereq>
       <packagereq type="default">autoconf-archive</packagereq>
-      <packagereq type="default">autogen</packagereq>
       <packagereq type="default">avahi-compat-howl</packagereq>
       <packagereq type="default">avahi-compat-howl-devel</packagereq>
       <packagereq type="default">avahi-compat-libdns_sd</packagereq>
       <packagereq type="default">avahi-compat-libdns_sd-devel</packagereq>
       <packagereq type="default">avahi-devel</packagereq>
+      <packagereq type="default">babel-doc</packagereq>
       <packagereq type="default">babl-devel</packagereq>
       <packagereq type="default">babl-devel-docs</packagereq>
+      <packagereq type="default">bash-devel</packagereq>
       <packagereq type="default">bcc-devel</packagereq>
       <packagereq type="default">bcc-doc</packagereq>
       <packagereq type="default">bcel</packagereq>
       <packagereq type="default">beust-jcommander</packagereq>
+      <packagereq type="default">bind-devel</packagereq>
       <packagereq type="default">bison-devel</packagereq>
       <packagereq type="default">blas-devel</packagereq>
       <packagereq type="default">bluez-libs-devel</packagereq>
       <packagereq type="default">boost-build</packagereq>
+      <packagereq type="default">boost-b2</packagereq>
       <packagereq type="default">boost-doc</packagereq>
+      <packagereq type="default">boost-doctools</packagereq>
       <packagereq type="default">boost-examples</packagereq>
       <packagereq type="default">boost-graph-mpich</packagereq>
       <packagereq type="default">boost-graph-openmpi</packagereq>
@@ -2949,18 +2904,19 @@
       <packagereq type="default">brlapi-devel</packagereq>
       <packagereq type="default">brotli-devel</packagereq>
       <packagereq type="default">bsf</packagereq>
-      <packagereq type="default">bsh</packagereq>
       <packagereq type="default">cairomm-devel</packagereq>
       <packagereq type="default">cairomm-doc</packagereq>
-      <packagereq type="default">cdparanoia-devel</packagereq>
       <packagereq type="default">cglib</packagereq>
       <packagereq type="default">clucene-core-devel</packagereq>
       <packagereq type="default">colord-devel</packagereq>
       <packagereq type="default">colord-devel-docs</packagereq>
       <packagereq type="default">colord-gtk-devel</packagereq>
       <packagereq type="default">corosync-vqsim</packagereq>
+      <packagereq type="default">cppunit-devel</packagereq>
       <packagereq type="default">cracklib-devel</packagereq>
       <packagereq type="default">crash-devel</packagereq>
+      <packagereq type="default">createrepo_c-devel</packagereq>
+      <packagereq type="default">criu-devel</packagereq>
       <packagereq type="default">CUnit-devel</packagereq>
       <packagereq type="default">cups-filters-devel</packagereq>
       <packagereq type="default">daxctl-devel</packagereq>
@@ -2976,6 +2932,7 @@
       <packagereq type="default">docbook-style-dsssl</packagereq>
       <packagereq type="default">docbook-utils</packagereq>
       <packagereq type="default">dotconf-devel</packagereq>
+      <packagereq type="default">double-conversion-devel</packagereq>
       <packagereq type="default">dovecot-devel</packagereq>
       <packagereq type="default">doxygen</packagereq>
       <packagereq type="default">doxygen-doxywizard</packagereq>
@@ -3003,7 +2960,9 @@
       <packagereq type="default">file-devel</packagereq>
       <packagereq type="default">flac</packagereq>
       <packagereq type="default">flac-devel</packagereq>
+      <packagereq type="default">flatpak-devel</packagereq>
       <packagereq type="default">flex-devel</packagereq>
+      <packagereq type="default">flexiblas-devel</packagereq>
       <packagereq type="default">flite</packagereq>
       <packagereq type="default">flite-devel</packagereq>
       <packagereq type="default">fltk-devel</packagereq>
@@ -3012,15 +2971,20 @@
       <packagereq type="default">fontpackages-devel</packagereq>
       <packagereq type="default">freeipmi-devel</packagereq>
       <packagereq type="default">freerdp-devel</packagereq>
-      <packagereq type="default">fuse-sshfs</packagereq>
+      <packagereq type="default">fstrm-devel</packagereq>
+      <packagereq type="default">fstrm-utils</packagereq>
+      <packagereq type="default">fuse-devel</packagereq>
+      <packagereq type="default">fwupd-devel</packagereq>
       <packagereq type="default">gcc-plugin-devel</packagereq>
       <packagereq type="default">gc-devel</packagereq>
+      <packagereq type="default">gdbm-devel</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib</packagereq>
       <packagereq type="default">gdk-pixbuf2-xlib-devel</packagereq>
+      <packagereq type="default">gdm-devel</packagereq>
+      <packagereq type="default">gdm-pam-extensions-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">gegl04-devel</packagereq>
+      <packagereq type="default">geoclue2-demos</packagereq>
       <packagereq type="default">geoclue2-devel</packagereq>
-      <packagereq type="default">gflags</packagereq>
-      <packagereq type="default">gflags-devel</packagereq>
       <packagereq type="default">ghostscript-doc</packagereq>
       <packagereq type="default">ghostscript-tools-dvipdf</packagereq>
       <packagereq type="default">ghostscript-tools-fonts</packagereq>
@@ -3029,11 +2993,9 @@
       <packagereq type="default">giflib-devel</packagereq>
       <packagereq type="default">gjs-devel</packagereq>
       <packagereq type="default">glade-devel</packagereq>
-      <packagereq type="default">glassfish-jaxb-bom</packagereq>
-      <packagereq type="default">glassfish-jaxb-bom-ext</packagereq>
-      <packagereq type="default">glassfish-jsp-api</packagereq>
       <packagereq type="default">glassfish-servlet-api</packagereq>
       <packagereq type="default">glib2-doc</packagereq>
+      <packagereq type="default">glib2-static</packagereq>
       <packagereq type="default">glibc-benchtests</packagereq>
       <packagereq type="default">glibc-nss-devel</packagereq>
       <packagereq type="default">glibc-static</packagereq>
@@ -3041,16 +3003,14 @@
       <packagereq type="default">glibmm24-doc</packagereq>
       <packagereq type="default">glm-devel</packagereq>
       <packagereq type="default">glm-doc</packagereq>
-      <packagereq type="default">glog</packagereq>
-      <packagereq type="default">glog-devel</packagereq>
-      <packagereq type="default">gmock</packagereq>
-      <packagereq type="default">gmock-devel</packagereq>
       <packagereq type="default" arch="aarch64,x86_64,ppc64le">gnome-bluetooth-libs-devel</packagereq>
       <packagereq type="default">gnome-common</packagereq>
+      <packagereq type="default">gnome-menus-devel</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi</packagereq>
       <packagereq type="default" arch="x86_64,aarch64">gnu-efi-devel</packagereq>
       <packagereq type="default">gobject-introspection-devel</packagereq>
       <packagereq type="default">google-noto-sans-cjk-jp-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-symbols2-fonts</packagereq>
       <packagereq type="default">google-roboto-slab-fonts</packagereq>
       <packagereq type="default">gperf</packagereq>
       <packagereq type="default">gpgme-devel</packagereq>
@@ -3060,37 +3020,38 @@
       <packagereq type="default">graphviz-gd</packagereq>
       <packagereq type="default">graphviz-python3</packagereq>
       <packagereq type="default">grilo-devel</packagereq>
+      <packagereq type="default">gsl-devel</packagereq>
       <packagereq type="default">gsm-devel</packagereq>
       <packagereq type="default">gspell-devel</packagereq>
       <packagereq type="default">gspell-doc</packagereq>
       <packagereq type="default">gstreamer1-plugins-bad-free-devel</packagereq>
-      <packagereq type="default">gtest</packagereq>
-      <packagereq type="default">gtest-devel</packagereq>
+      <packagereq type="default">gtk3-devel-docs</packagereq>
       <packagereq type="default">gtk-doc</packagereq>
       <packagereq type="default">gtkmm30-devel</packagereq>
       <packagereq type="default">gtkmm30-doc</packagereq>
       <packagereq type="default">gtkspell3-devel</packagereq>
-      <packagereq type="default">guile-devel</packagereq>
       <packagereq type="default">hamcrest</packagereq>
       <packagereq type="default">hamcrest-core</packagereq>
       <packagereq type="default">help2man</packagereq>
+      <packagereq type="default">hesiod-devel</packagereq>
+      <packagereq type="default">hivex-devel</packagereq>
       <packagereq type="default">http-parser-devel</packagereq>
       <packagereq type="default">hwloc-devel</packagereq>
       <packagereq type="default">hyphen-devel</packagereq>
       <packagereq type="default">ibus-devel</packagereq>
       <packagereq type="default">ibus-devel-docs</packagereq>
       <packagereq type="default">ima-evm-utils-devel</packagereq>
+      <packagereq type="default" arch="x86_64">intel-cmt-cat-devel</packagereq>
       <packagereq type="default">iproute-devel</packagereq>
       <packagereq type="default">ipset-devel</packagereq>
       <packagereq type="default">irssi-devel</packagereq>
-      <packagereq type="default">isl-devel</packagereq>
       <packagereq type="default">iso-codes-devel</packagereq>
-      <packagereq type="default">istack-commons</packagereq>
+      <packagereq type="default">jansson-devel</packagereq>
       <packagereq type="default">jasper-devel</packagereq>
-      <packagereq type="default">javamail</packagereq>
       <packagereq type="default">javapackages-local</packagereq>
-      <packagereq type="default">jaxen</packagereq>
       <packagereq type="default">jbigkit-devel</packagereq>
+      <packagereq type="default">jitterentropy-devel</packagereq>
+      <packagereq type="default">jq-devel</packagereq>
       <packagereq type="default">jsch</packagereq>
       <packagereq type="default">json-c-devel</packagereq>
       <packagereq type="default">json-c-doc</packagereq>
@@ -3098,21 +3059,24 @@
       <packagereq type="default">Judy-devel</packagereq>
       <packagereq type="default">junit</packagereq>
       <packagereq type="default">jzlib</packagereq>
+      <packagereq type="default">kernel-cross-headers</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">kernel-tools-libs-devel</packagereq>
       <packagereq type="default">keybinder3-devel</packagereq>
       <packagereq type="default">keybinder3-doc</packagereq>
       <packagereq type="default">kmod-devel</packagereq>
+      <packagereq type="default">ksc</packagereq>
       <packagereq type="default">ladspa</packagereq>
       <packagereq type="default">ladspa-devel</packagereq>
       <packagereq type="default">lame-devel</packagereq>
       <packagereq type="default">lapack-devel</packagereq>
       <packagereq type="default">lapack-static</packagereq>
+      <packagereq type="default">lasso-devel</packagereq>
       <packagereq type="default">latex2html</packagereq>
       <packagereq type="default">lcms2-devel</packagereq>
-      <packagereq type="default">lensfun</packagereq>
-      <packagereq type="default">lensfun-devel</packagereq>
+      <packagereq type="default">ldns-devel</packagereq>
       <packagereq type="default">leptonica</packagereq>
       <packagereq type="default">leptonica-devel</packagereq>
+      <packagereq type="default">liba52-devel</packagereq>
       <packagereq type="default">libao-devel</packagereq>
       <packagereq type="default">libappstream-glib-devel</packagereq>
       <packagereq type="default">libarchive-devel</packagereq>
@@ -3120,74 +3084,88 @@
       <packagereq type="default">libasyncns-devel</packagereq>
       <packagereq type="default">libatasmart-devel</packagereq>
       <packagereq type="default">libatomic_ops-devel</packagereq>
+      <packagereq type="default">libbabeltrace-devel</packagereq>
       <packagereq type="default">libbasicobjects-devel</packagereq>
       <packagereq type="default">libbpf-devel</packagereq>
       <packagereq type="default">libbpf-static</packagereq>
       <packagereq type="default">libburn-devel</packagereq>
-      <packagereq type="default">libcacard-devel</packagereq>
       <packagereq type="default">libcdio-devel</packagereq>
       <packagereq type="default">libcdio-paranoia-devel</packagereq>
       <packagereq type="default">libcmocka</packagereq>
       <packagereq type="default">libcmocka-devel</packagereq>
       <packagereq type="default">libcollection-devel</packagereq>
+      <packagereq type="default">libcomps-devel</packagereq>
       <packagereq type="default">libconfig-devel</packagereq>
-      <packagereq type="default" arch="ppc64le">libcxl-devel</packagereq>
       <packagereq type="default">libdaemon-devel</packagereq>
-      <packagereq type="default">libdap</packagereq>
-      <packagereq type="default">libdap-devel</packagereq>
       <packagereq type="default">libdatrie-devel</packagereq>
       <packagereq type="default">libdb-cxx</packagereq>
       <packagereq type="default">libdb-cxx-devel</packagereq>
       <packagereq type="default">libdb-devel-doc</packagereq>
       <packagereq type="default">libdb-sql</packagereq>
       <packagereq type="default">libdb-sql-devel</packagereq>
+      <packagereq type="default">libdecor-devel</packagereq>
+      <packagereq type="default">libdhash-devel</packagereq>
+      <packagereq type="default">libdnf-devel</packagereq>
       <packagereq type="default">libdvdread-devel</packagereq>
+      <packagereq type="default">libecpg-devel</packagereq>
       <packagereq type="default">libedit-devel</packagereq>
       <packagereq type="default">libEMF</packagereq>
       <packagereq type="default">libEMF-devel</packagereq>
       <packagereq type="default">libeot</packagereq>
+      <packagereq type="default">libestr-devel</packagereq>
       <packagereq type="default">libetonyek-devel</packagereq>
       <packagereq type="default">libevdev-devel</packagereq>
       <packagereq type="default">libexif-devel</packagereq>
       <packagereq type="default">libfabric-devel</packagereq>
+      <packagereq type="default">libfdisk-devel</packagereq>
       <packagereq type="default">libfdt-devel</packagereq>
+      <packagereq type="default">libfdt-static</packagereq>
+      <packagereq type="default">libfido2-devel</packagereq>
       <packagereq type="default">libfontenc-devel</packagereq>
       <packagereq type="default">libgee-devel</packagereq>
       <packagereq type="default">libgexiv2-devel</packagereq>
-      <packagereq type="default">libgit2-devel</packagereq>
-      <packagereq type="default">libgit2-glib-devel</packagereq>
-      <packagereq type="default">libGLEW</packagereq>
       <packagereq type="default">libgnomekbd-devel</packagereq>
       <packagereq type="default">libgphoto2-devel</packagereq>
       <packagereq type="default">libgs-devel</packagereq>
       <packagereq type="default">libgsf-devel</packagereq>
       <packagereq type="default">libgtop2-devel</packagereq>
       <packagereq type="default">libgudev-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libguestfs-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libguestfs-gobject</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libguestfs-gobject-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libguestfs-man-pages-ja</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libguestfs-man-pages-uk</packagereq>
       <packagereq type="default">libgusb-devel</packagereq>
       <packagereq type="default">libgxps-devel</packagereq>
+      <packagereq type="default" arch="s390x">libica-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">libiec61883-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
       <packagereq type="default">libinput-devel</packagereq>
+      <packagereq type="default">libiscsi-devel</packagereq>
       <packagereq type="default">libisoburn-devel</packagereq>
       <packagereq type="default">libisofs-devel</packagereq>
+      <packagereq type="default">libjose-devel</packagereq>
       <packagereq type="default">libknet1-devel</packagereq>
       <packagereq type="default">libksba-devel</packagereq>
       <packagereq type="default">liblangtag-devel</packagereq>
       <packagereq type="default">liblangtag-doc</packagereq>
       <packagereq type="default">liblangtag-gobject</packagereq>
+      <packagereq type="default">libldb-devel</packagereq>
       <packagereq type="default">liblockfile-devel</packagereq>
+      <packagereq type="default">libluksmeta-devel</packagereq>
       <packagereq type="default">libmad-devel</packagereq>
       <packagereq type="default">libmaxminddb-devel</packagereq>
-      <packagereq type="default">libmemcached-devel</packagereq>
+      <packagereq type="default">libmemcached-awesome-devel</packagereq>
+      <packagereq type="default">libmemcached-awesome-tools</packagereq>
       <packagereq type="default">libmicrohttpd-devel</packagereq>
       <packagereq type="default">libmicrohttpd-doc</packagereq>
+      <packagereq type="default">libmng-devel</packagereq>
       <packagereq type="default">libmnl-devel</packagereq>
       <packagereq type="default">libmodulemd-devel</packagereq>
       <packagereq type="default">libmount-devel</packagereq>
-      <packagereq type="default">libmpc-devel</packagereq>
       <packagereq type="default">libmspack-devel</packagereq>
-      <packagereq type="default">libmusicbrainz5-devel</packagereq>
+      <packagereq type="default">libmtp-devel</packagereq>
+      <packagereq type="default">libnbd-devel</packagereq>
       <packagereq type="default">libnet-devel</packagereq>
       <packagereq type="default">libnetfilter_conntrack-devel</packagereq>
       <packagereq type="default">libnetfilter_queue-devel</packagereq>
@@ -3201,79 +3179,95 @@
       <packagereq type="default">libodfgen-devel</packagereq>
       <packagereq type="default">libogg-devel</packagereq>
       <packagereq type="default">libogg-devel-docs</packagereq>
-      <packagereq type="default">liboggz</packagereq>
       <packagereq type="default">libopenraw-devel</packagereq>
       <packagereq type="default">libopenraw-gnome</packagereq>
       <packagereq type="default">libopenraw-gnome-devel</packagereq>
+      <packagereq type="default">libotr-devel</packagereq>
       <packagereq type="default">libpaper-devel</packagereq>
       <packagereq type="default">libpath_utils-devel</packagereq>
       <packagereq type="default">libpcap-devel</packagereq>
       <packagereq type="default">libpciaccess-devel</packagereq>
       <packagereq type="default">libpeas-devel</packagereq>
+      <packagereq type="default">libpinyin-devel</packagereq>
       <packagereq type="default" arch="x86_64">libpmem-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmemblk-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmemlog-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmemobj-debug</packagereq>
       <packagereq type="default" arch="x86_64">libpmempool-debug</packagereq>
-      <packagereq type="default" arch="x86_64">librpmem-debug</packagereq>
-      <packagereq type="default" arch="x86_64">libvmem-debug</packagereq>
-      <packagereq type="default" arch="x86_64">libvmmalloc-debug</packagereq>
       <packagereq type="default">libproxy-devel</packagereq>
+      <packagereq type="default" arch="x86_64">libpsm2-devel</packagereq>
       <packagereq type="default">libpwquality-devel</packagereq>
       <packagereq type="default">libqhull</packagereq>
       <packagereq type="default">libqhull_p</packagereq>
       <packagereq type="default">libqhull_r</packagereq>
       <packagereq type="default">librabbitmq-devel</packagereq>
       <packagereq type="default">librados-devel</packagereq>
-      <packagereq type="default">libradosstriper1</packagereq>
-      <packagereq type="default">libradosstriper-devel</packagereq>
-      <packagereq type="default" arch="aarch64,ppc64le,x86_64">libraw1394-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">LibRaw-devel</packagereq>
       <packagereq type="default">librbd-devel</packagereq>
       <packagereq type="default">librdkafka-devel</packagereq>
       <packagereq type="default">libref_array-devel</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">libreoffice-sdk</packagereq>
       <packagereq type="default" arch="ppc64le,x86_64">libreoffice-sdk-doc</packagereq>
+      <packagereq type="default">librepo-devel</packagereq>
       <packagereq type="default">librevenge-devel</packagereq>
+      <packagereq type="default">librhsm-devel</packagereq>
+      <packagereq type="default" arch="ppc64le">librtas-devel</packagereq>
       <packagereq type="default">librx</packagereq>
       <packagereq type="default">librx-devel</packagereq>
+      <packagereq type="default">libsamplerate-devel</packagereq>
       <packagereq type="default">libseccomp-devel</packagereq>
+      <packagereq type="default">libselinux-static</packagereq>
       <packagereq type="default">libsemanage-devel</packagereq>
       <packagereq type="default">libsepol-static</packagereq>
+      <packagereq type="default" arch="ppc64le">libservicelog-devel</packagereq>
       <packagereq type="default">libshout-devel</packagereq>
       <packagereq type="default">libsigc++20-devel</packagereq>
       <packagereq type="default">libsigc++20-doc</packagereq>
       <packagereq type="default">libsigsegv-devel</packagereq>
+      <packagereq type="default">libslirp-devel</packagereq>
       <packagereq type="default">libsmbclient-devel</packagereq>
       <packagereq type="default">libsndfile-devel</packagereq>
+      <packagereq type="default">libsolv-devel</packagereq>
+      <packagereq type="default">libsolv-tools</packagereq>
       <packagereq type="default">libspectre-devel</packagereq>
       <packagereq type="default">libsrtp-devel</packagereq>
       <packagereq type="default">libsss_nss_idmap-devel</packagereq>
       <packagereq type="default">libstdc++-static</packagereq>
       <packagereq type="default">libstemmer-devel</packagereq>
       <packagereq type="default">libsysfs-devel</packagereq>
+      <packagereq type="default">libtdb-devel</packagereq>
       <packagereq type="default">libthai-devel</packagereq>
       <packagereq type="default">libtheora-devel</packagereq>
       <packagereq type="default">libtiff-tools</packagereq>
-      <packagereq type="default">libucil-devel</packagereq>
-      <packagereq type="default">libunicap-devel</packagereq>
+      <packagereq type="default">libtool-ltdl-devel</packagereq>
+      <packagereq type="default">libtracecmd-devel</packagereq>
+      <packagereq type="default">libtraceevent-devel</packagereq>
+      <packagereq type="default">libtracefs-devel</packagereq>
       <packagereq type="default">libuninameslist</packagereq>
       <packagereq type="default">libunistring-devel</packagereq>
       <packagereq type="default">libusb-devel</packagereq>
+      <packagereq type="default">libudisks2-devel</packagereq>
+      <packagereq type="default">libuser-devel</packagereq>
       <packagereq type="default">libutempter-devel</packagereq>
+      <packagereq type="default">libuv-devel</packagereq>
       <packagereq type="default">libv4l-devel</packagereq>
-      <packagereq type="default">libvarlink-devel</packagereq>
+      <packagereq type="default">libvala</packagereq>
+      <packagereq type="default">libvala-devel</packagereq>
       <packagereq type="default" arch="ppc64le">libvpd-devel</packagereq>
       <packagereq type="default">libvdpau-devel</packagereq>
+      <packagereq type="default">libvirt-devel</packagereq>
+      <packagereq type="default">libvirt-docs</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">libvirt-lock-sanlock</packagereq>
       <packagereq type="default">libvisio-devel</packagereq>
       <packagereq type="default">libvisual-devel</packagereq>
-      <packagereq type="default">libvncserver-devel</packagereq>
+      <packagereq type="default">libvoikko-devel</packagereq>
       <packagereq type="default">libvorbis-devel</packagereq>
       <packagereq type="default">libvorbis-devel-docs</packagereq>
       <packagereq type="default">libvpx-devel</packagereq>
       <packagereq type="default">libwacom-devel</packagereq>
       <packagereq type="default">libwbclient-devel</packagereq>
       <packagereq type="default">libwnck3-devel</packagereq>
+      <packagereq type="default">libwpe-devel</packagereq>
       <packagereq type="default">libwpd-devel</packagereq>
       <packagereq type="default">libwpd-doc</packagereq>
       <packagereq type="default">libwpg-devel</packagereq>
@@ -3288,63 +3282,54 @@
       <packagereq type="default">libxkbfile-devel</packagereq>
       <packagereq type="default">libxklavier-devel</packagereq>
       <packagereq type="default">libXres-devel</packagereq>
+      <packagereq type="default">libXxf86vm-devel</packagereq>
       <packagereq type="default">libyaml-devel</packagereq>
+      <packagereq type="default" arch="s390x">libzfcphbaapi-devel</packagereq>
+      <packagereq type="default">libzip-devel</packagereq>
       <packagereq type="default">linuxdoc-tools</packagereq>
       <packagereq type="default">lockdev-devel</packagereq>
       <packagereq type="default">lttng-ust-devel</packagereq>
+      <packagereq type="default">lua-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">lua-guestfs</packagereq>
       <packagereq type="default">lvm2-devel</packagereq>
       <packagereq type="default">lynx</packagereq>
+      <packagereq type="default">mariadb-connector-c-doc</packagereq>
+      <packagereq type="default">mariadb-connector-c-test</packagereq>
+      <packagereq type="default">mariadb-embedded-devel</packagereq>
+      <packagereq type="default">mariadb-devel</packagereq>
+      <packagereq type="default">mariadb-test</packagereq>
+      <packagereq type="default">marshalparser</packagereq>
       <packagereq type="default">maven-archiver</packagereq>
-      <packagereq type="default">maven-artifact</packagereq>
-      <packagereq type="default">maven-artifact-manager</packagereq>
-      <packagereq type="default">maven-artifact-resolver</packagereq>
       <packagereq type="default">maven-artifact-transfer</packagereq>
       <packagereq type="default">maven-common-artifact-filters</packagereq>
       <packagereq type="default">maven-compiler-plugin</packagereq>
       <packagereq type="default">maven-dependency-tree</packagereq>
-      <packagereq type="default">maven-doxia-core</packagereq>
-      <packagereq type="default">maven-doxia-logging-api</packagereq>
-      <packagereq type="default">maven-doxia-module-apt</packagereq>
-      <packagereq type="default">maven-doxia-module-fml</packagereq>
-      <packagereq type="default">maven-doxia-module-xdoc</packagereq>
-      <packagereq type="default">maven-doxia-module-xhtml</packagereq>
-      <packagereq type="default">maven-doxia-sink-api</packagereq>
-      <packagereq type="default">maven-doxia-sitetools</packagereq>
       <packagereq type="default">maven-enforcer-api</packagereq>
       <packagereq type="default">maven-enforcer-plugin</packagereq>
       <packagereq type="default">maven-enforcer-rules</packagereq>
       <packagereq type="default">maven-filtering</packagereq>
-      <packagereq type="default">maven-invoker</packagereq>
       <packagereq type="default">maven-jar-plugin</packagereq>
       <packagereq type="default">maven-local</packagereq>
-      <packagereq type="default">maven-model</packagereq>
-      <packagereq type="default">maven-monitor</packagereq>
       <packagereq type="default">maven-plugin-annotations</packagereq>
       <packagereq type="default">maven-plugin-build-helper</packagereq>
       <packagereq type="default">maven-plugin-bundle</packagereq>
-      <packagereq type="default">maven-plugin-registry</packagereq>
+      <packagereq type="default">maven-plugin-plugin</packagereq>
       <packagereq type="default">maven-plugin-testing-harness</packagereq>
-      <packagereq type="default">maven-profile</packagereq>
-      <packagereq type="default">maven-project</packagereq>
       <packagereq type="default">maven-remote-resources-plugin</packagereq>
-      <packagereq type="default">maven-reporting-api</packagereq>
-      <packagereq type="default">maven-reporting-impl</packagereq>
       <packagereq type="default">maven-resources-plugin</packagereq>
-      <packagereq type="default">maven-settings</packagereq>
       <packagereq type="default">maven-shared-incremental</packagereq>
       <packagereq type="default">maven-source-plugin</packagereq>
       <packagereq type="default">maven-surefire</packagereq>
       <packagereq type="default">maven-surefire-plugin</packagereq>
       <packagereq type="default">maven-surefire-provider-junit</packagereq>
+      <packagereq type="default">maven-surefire-provider-junit5</packagereq>
       <packagereq type="default">maven-surefire-provider-testng</packagereq>
       <packagereq type="default">maven-verifier</packagereq>
-      <packagereq type="default" arch="x86_64">memkind-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">memkind-devel</packagereq>
       <packagereq type="default">mesa-libgbm-devel</packagereq>
       <packagereq type="default">mesa-libGLES-devel</packagereq>
       <packagereq type="default">mesa-libOSMesa-devel</packagereq>
       <packagereq type="default">meson</packagereq>
-      <packagereq type="default">metis</packagereq>
-      <packagereq type="default">metis-devel</packagereq>
       <packagereq type="default">mingw32-binutils</packagereq>
       <packagereq type="default" arch="x86_64">mingw32-cpp</packagereq>
       <packagereq type="default">mingw32-crt</packagereq>
@@ -3393,40 +3378,86 @@
       <packagereq type="default" arch="x86_64">mingw64-zlib-static</packagereq>
       <packagereq type="default">mingw-binutils-generic</packagereq>
       <packagereq type="default">mingw-filesystem-base</packagereq>
+      <packagereq type="default">mobile-broadband-provider-info-devel</packagereq>
       <packagereq type="default">mockito</packagereq>
       <packagereq type="default">ModemManager-devel</packagereq>
       <packagereq type="default">ModemManager-glib-devel</packagereq>
       <packagereq type="default">mpg123-devel</packagereq>
       <packagereq type="default">mtdev-devel</packagereq>
+      <packagereq type="default">multilib-rpm-config</packagereq>
       <packagereq type="default">munge-devel</packagereq>
       <packagereq type="default">mutter-devel</packagereq>
+      <packagereq type="default" arch="x86_64">mvapich2-psm2-devel</packagereq>
+      <packagereq type="default">mysql-devel</packagereq>
+      <packagereq type="default">mysql-test</packagereq>
       <packagereq type="default">mythes-devel</packagereq>
+      <packagereq type="default">nasm</packagereq>
       <packagereq type="default">nautilus-devel</packagereq>
+      <packagereq type="default">nbdkit-devel</packagereq>
+      <packagereq type="default">nbdkit-example-plugins</packagereq>
+      <packagereq type="default">nbdkit-srpm-macros</packagereq>
       <packagereq type="default">ndctl-devel</packagereq>
+      <packagereq type="default">nftables-devel</packagereq>
       <packagereq type="default">neon-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>
       <packagereq type="default">netpbm-doc</packagereq>
       <packagereq type="default">nettle-devel</packagereq>
       <packagereq type="default">NetworkManager-libnm-devel</packagereq>
       <packagereq type="default">nghttp2</packagereq>
+      <packagereq type="default">nginx-mod-devel</packagereq>
       <packagereq type="default">ninja-build</packagereq>
-      <packagereq type="default">nkf</packagereq>
+      <packagereq type="default">nispor-devel</packagereq>
+      <packagereq type="default">npth-devel</packagereq>
+      <packagereq type="default">nmstate-devel</packagereq>
       <packagereq type="default">nss_hesiod</packagereq>
       <packagereq type="default">objectweb-asm</packagereq>
       <packagereq type="default">objenesis</packagereq>
       <packagereq type="default">ocaml</packagereq>
+      <packagereq type="default">ocaml-brlapi</packagereq>
+      <packagereq type="default">ocaml-calendar</packagereq>
+      <packagereq type="default">ocaml-calendar-devel</packagereq>
+      <packagereq type="default">ocaml-camomile</packagereq>
+      <packagereq type="default">ocaml-camomile-data</packagereq>
+      <packagereq type="default">ocaml-camomile-devel</packagereq>
       <packagereq type="default">ocaml-compiler-libs</packagereq>
       <packagereq type="default">ocaml-cppo</packagereq>
+      <packagereq type="default">ocaml-csexp</packagereq>
+      <packagereq type="default">ocaml-csexp-devel</packagereq>
+      <packagereq type="default">ocaml-csv</packagereq>
+      <packagereq type="default">ocaml-csv-devel</packagereq>
+      <packagereq type="default">ocaml-curses</packagereq>
+      <packagereq type="default">ocaml-curses-devel</packagereq>
+      <packagereq type="default">ocaml-docs</packagereq>
+      <packagereq type="default">ocaml-dune</packagereq>
+      <packagereq type="default">ocaml-dune-devel</packagereq>
+      <packagereq type="default">ocaml-dune-doc</packagereq>
+      <packagereq type="default">ocaml-dune-emacs</packagereq>
       <packagereq type="default">ocaml-extlib</packagereq>
       <packagereq type="default">ocaml-extlib-devel</packagereq>
+      <packagereq type="default">ocaml-fileutils</packagereq>
+      <packagereq type="default">ocaml-fileutils-devel</packagereq>
       <packagereq type="default">ocaml-findlib</packagereq>
       <packagereq type="default">ocaml-findlib-devel</packagereq>
+      <packagereq type="default">ocaml-gettext</packagereq>
+      <packagereq type="default">ocaml-gettext-devel</packagereq>
+      <packagereq type="default">ocaml-hivex</packagereq>
+      <packagereq type="default">ocaml-hivex-devel</packagereq>
       <packagereq type="default">ocaml-labltk</packagereq>
       <packagereq type="default">ocaml-labltk-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">ocaml-libguestfs</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">ocaml-libguestfs-devel</packagereq>
+      <packagereq type="default">ocaml-libnbd</packagereq>
+      <packagereq type="default">ocaml-libnbd-devel</packagereq>
+      <packagereq type="default">ocaml-libvirt</packagereq>
+      <packagereq type="default">ocaml-libvirt-devel</packagereq>
       <packagereq type="default">ocaml-ocamlbuild</packagereq>
       <packagereq type="default">ocaml-ocamlbuild-devel</packagereq>
+      <packagereq type="default">ocaml-ocamlbuild-doc</packagereq>
       <packagereq type="default">ocaml-ocamldoc</packagereq>
       <packagereq type="default">ocaml-runtime</packagereq>
+      <packagereq type="default">ocaml-source</packagereq>
+      <packagereq type="default">ocaml-xml-light</packagereq>
+      <packagereq type="default">ocaml-xml-light-devel</packagereq>
       <packagereq type="default">ocl-icd-devel</packagereq>
       <packagereq type="default">oniguruma-devel</packagereq>
       <packagereq type="default">openal-soft-devel</packagereq>
@@ -3442,11 +3473,14 @@
       <packagereq type="default">opencl-filesystem</packagereq>
       <packagereq type="default">opencl-headers</packagereq>
       <packagereq type="default">opencryptoki-devel</packagereq>
+      <packagereq type="default" arch="aarch64">opencsd-devel</packagereq>
+      <packagereq type="default">openexr-devel</packagereq>
       <packagereq type="default">OpenIPMI-devel</packagereq>
       <packagereq type="default">openjade</packagereq>
       <packagereq type="default">openjpeg2-devel</packagereq>
       <packagereq type="default">openscap-devel</packagereq>
       <packagereq type="default">openscap-engine-sce-devel</packagereq>
+      <packagereq type="default">openslp-devel</packagereq>
       <packagereq type="default">opensm-devel</packagereq>
       <packagereq type="default">opensp</packagereq>
       <packagereq type="default">opensp-devel</packagereq>
@@ -3455,7 +3489,7 @@
       <packagereq type="default">osgi-compendium</packagereq>
       <packagereq type="default">osgi-core</packagereq>
       <packagereq type="default">PackageKit-glib-devel</packagereq>
-      <packagereq type="default">pandoc</packagereq>
+      <packagereq type="default">pam_wrapper</packagereq>
       <packagereq type="default">pangomm-devel</packagereq>
       <packagereq type="default">pangomm-doc</packagereq>
       <packagereq type="default" arch="aarch64,ppc64le,x86_64">papi-testsuite</packagereq>
@@ -3480,9 +3514,7 @@
       <packagereq type="default">perl-Date-ISO8601</packagereq>
       <packagereq type="default">perl-DateTime</packagereq>
       <packagereq type="default">perl-DateTime-Format-Builder</packagereq>
-      <packagereq type="default">perl-DateTime-Format-HTTP</packagereq>
       <packagereq type="default">perl-DateTime-Format-ISO8601</packagereq>
-      <packagereq type="default">perl-DateTime-Format-Mail</packagereq>
       <packagereq type="default">perl-DateTime-Format-Strptime</packagereq>
       <packagereq type="default">perl-DateTime-Locale</packagereq>
       <packagereq type="default">perl-DateTime-TimeZone</packagereq>
@@ -3537,7 +3569,6 @@
       <packagereq type="default">perl-Module-ScanDeps</packagereq>
       <packagereq type="default">perl-namespace-autoclean</packagereq>
       <packagereq type="default">perl-namespace-clean</packagereq>
-      <packagereq type="default">perl-NKF</packagereq>
       <packagereq type="default">perl-Number-Compare</packagereq>
       <packagereq type="default">perl-Package-Stash</packagereq>
       <packagereq type="default">perl-Package-Stash-XS</packagereq>
@@ -3594,20 +3625,16 @@
       <packagereq type="default">perl-XML-Twig</packagereq>
       <packagereq type="default">perl-YAML-LibYAML</packagereq>
       <packagereq type="default">perl-YAML-Tiny</packagereq>
-      <packagereq type="default" arch="ppc64le,x86_64">pidgin-devel</packagereq>
       <packagereq type="default">plexus-archiver</packagereq>
       <packagereq type="default">plexus-build-api</packagereq>
       <packagereq type="default">plexus-compiler</packagereq>
-      <packagereq type="default">plexus-component-api</packagereq>
       <packagereq type="default">plexus-containers-container-default</packagereq>
-      <packagereq type="default">plexus-i18n</packagereq>
-      <packagereq type="default">plexus-interactivity-api</packagereq>
       <packagereq type="default">plexus-io</packagereq>
       <packagereq type="default">plexus-languages</packagereq>
       <packagereq type="default">plexus-resources</packagereq>
-      <packagereq type="default">plexus-velocity</packagereq>
       <packagereq type="default">plotutils</packagereq>
       <packagereq type="default">plotutils-devel</packagereq>
+      <packagereq type="default">pmix-pmi-devel</packagereq>
       <packagereq type="default">po4a</packagereq>
       <packagereq type="default">poppler-cpp</packagereq>
       <packagereq type="default">poppler-cpp-devel</packagereq>
@@ -3615,59 +3642,85 @@
       <packagereq type="default">poppler-glib-devel</packagereq>
       <packagereq type="default">poppler-qt5</packagereq>
       <packagereq type="default">poppler-qt5-devel</packagereq>
+      <packagereq type="default">postgresql-docs</packagereq>
+      <packagereq type="default">postgresql-private-devel</packagereq>
+      <packagereq type="default">postgresql-server-devel</packagereq>
+      <packagereq type="default">postgresql-static</packagereq>
+      <packagereq type="default">postgresql-test</packagereq>
+      <packagereq type="default">postgresql-upgrade-devel</packagereq>
       <packagereq type="default">ppp-devel</packagereq>
       <packagereq type="default">pps-tools-devel</packagereq>
       <packagereq type="default">protobuf-c-compiler</packagereq>
       <packagereq type="default">protobuf-c-devel</packagereq>
       <packagereq type="default">protobuf-compiler</packagereq>
       <packagereq type="default">protobuf-devel</packagereq>
-      <packagereq type="default">ptscotch-mpich</packagereq>
-      <packagereq type="default">ptscotch-mpich-devel</packagereq>
-      <packagereq type="default">ptscotch-mpich-devel-parmetis</packagereq>
-      <packagereq type="default">ptscotch-openmpi</packagereq>
-      <packagereq type="default">ptscotch-openmpi-devel</packagereq>
-      <packagereq type="default">pygobject3-devel</packagereq>
+      <packagereq type="default">protobuf-lite-devel</packagereq>
+      <packagereq type="default">py3c-devel</packagereq>
+      <packagereq type="default">py3c-doc</packagereq>
+      <packagereq type="default">pybind11-devel</packagereq>
+      <packagereq type="default">pyparsing-doc</packagereq>
+      <packagereq type="default">pyproject-rpm-macros</packagereq>
       <packagereq type="default">python-cups-doc</packagereq>
+      <packagereq type="default">python-dateutil-doc</packagereq>
+      <packagereq type="default">python-packaging-doc</packagereq>
+      <packagereq type="default">python-sphinx-doc</packagereq>
+      <packagereq type="default">python-sphinx_rtd_theme-doc</packagereq>
+      <packagereq type="default">python3-babeltrace</packagereq>
       <packagereq type="default">python3-Cython</packagereq>
-      <packagereq type="default">python3-greenlet-devel</packagereq>
-      <packagereq type="default">python3-html5lib</packagereq>
-      <packagereq type="default">python3-hypothesis</packagereq>
+      <packagereq type="default">emacs-cython-mode</packagereq>
+      <packagereq type="default">python3-debug</packagereq>
+      <packagereq type="default">python3-gobject-devel</packagereq>
+      <packagereq type="default">python3-hivex</packagereq>
+      <packagereq type="default">python3-idle</packagereq>
       <packagereq type="default">python3-imagesize</packagereq>
-      <packagereq type="default">python3-iso8601</packagereq>
+      <packagereq type="default">python3-ipatests</packagereq>
       <packagereq type="default">python3-javapackages</packagereq>
       <packagereq type="default">python3-lesscpy</packagereq>
       <packagereq type="default">python3-libnmstate</packagereq>
+      <packagereq type="default">python3-libfdt</packagereq>
       <packagereq type="default">python3-libpfm</packagereq>
       <packagereq type="default">python3-markdown</packagereq>
-      <packagereq type="default">python3-mock</packagereq>
       <packagereq type="default">python3-packaging</packagereq>
+      <packagereq type="default">python3-pybind11</packagereq>
       <packagereq type="default">python3-pyxattr</packagereq>
+      <packagereq type="default">python3-pytest</packagereq>
+      <packagereq type="default">python3-pytest-subtests</packagereq>
+      <packagereq type="default">python3-pytest-timeout</packagereq>
+      <packagereq type="default">python3-psutil-tests</packagereq>
       <packagereq type="default">python3-qt5-devel</packagereq>
+      <packagereq type="default">python3-readthedocs-sphinx-ext</packagereq>
       <packagereq type="default">python3-rrdtool</packagereq>
-      <packagereq type="default">python3-scons</packagereq>
       <packagereq type="default">python3-setuptools_scm</packagereq>
+      <packagereq type="default">python3-setuptools_scm+toml</packagereq>
       <packagereq type="default">python3-sip-devel</packagereq>
       <packagereq type="default">python3-snowballstemmer</packagereq>
       <packagereq type="default">python3-sphinx</packagereq>
+      <packagereq type="default">python3-sphinx-latex</packagereq>
       <packagereq type="default">python3-sphinxcontrib-websupport</packagereq>
+      <packagereq type="default">python3-sphinxcontrib-httpdomain</packagereq>
       <packagereq type="default">python3-sphinx_rtd_theme</packagereq>
       <packagereq type="default">python3-sphinx-theme-alabaster</packagereq>
-      <packagereq type="default">python3-sure</packagereq>
-      <packagereq type="default">python3-webencodings</packagereq>
-      <packagereq type="default">python3-whoosh</packagereq>
+      <packagereq type="default">python3-test</packagereq>
+      <packagereq type="default">python3-wheel</packagereq>
+      <packagereq type="default">python3-wheel-wheel</packagereq>
       <packagereq type="default" arch="x86_64">qatlib-devel</packagereq>
+      <packagereq type="default" arch="x86_64">qatlib-tests</packagereq>
+      <packagereq type="default" arch="x86_64">qatzip-devel</packagereq>
+      <packagereq type="default" arch="s390x">qclib-devel</packagereq>
       <packagereq type="default">qdox</packagereq>
+      <packagereq type="default">qgpgme</packagereq>
+      <packagereq type="default">qgpgme-devel</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
       <packagereq type="default">qt5-devel</packagereq>
       <packagereq type="default">qt5-qtbase-static</packagereq>
       <packagereq type="default">qt5-qtdeclarative-static</packagereq>
-      <packagereq type="default">qt5-qtquickcontrols2-devel</packagereq>
       <packagereq type="default">qt5-qttools-static</packagereq>
-      <packagereq type="default">qt5-qtwayland-devel</packagereq>
+      <packagereq type="default">quota-devel</packagereq>
       <packagereq type="default">raptor2-devel</packagereq>
       <packagereq type="default">rasqal-devel</packagereq>
-      <packagereq type="default">re2c</packagereq>
+      <packagereq type="default">redhat-sb-certs</packagereq>
       <packagereq type="default">redland-devel</packagereq>
+      <packagereq type="default">rhc-devel</packagereq>
       <packagereq type="default">rpcgen</packagereq>
       <packagereq type="default">rpcsvc-proto-devel</packagereq>
       <packagereq type="default">rrdtool-devel</packagereq>
@@ -3675,23 +3728,28 @@
       <packagereq type="default">rrdtool-lua</packagereq>
       <packagereq type="default">rrdtool-ruby</packagereq>
       <packagereq type="default">rrdtool-tcl</packagereq>
+      <packagereq type="default">ruby-hivex</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">ruby-libguestfs</packagereq>
       <packagereq type="default">rubygem-diff-lcs</packagereq>
       <packagereq type="default">rubygem-rspec</packagereq>
       <packagereq type="default">rubygem-rspec-core</packagereq>
       <packagereq type="default">rubygem-rspec-expectations</packagereq>
       <packagereq type="default">rubygem-rspec-mocks</packagereq>
       <packagereq type="default">rubygem-rspec-support</packagereq>
+      <packagereq type="default">rubygem-thread_order</packagereq>
       <packagereq type="default" arch="s390x">s390utils-devel</packagereq>
-      <packagereq type="default">scotch</packagereq>
-      <packagereq type="default">scotch-devel</packagereq>
-      <packagereq type="default">SDL2</packagereq>
-      <packagereq type="default">SDL2-devel</packagereq>
       <packagereq type="default">SDL2-static</packagereq>
+      <packagereq type="default">samba-devel</packagereq>
+      <packagereq type="default">samba-pidl</packagereq>
+      <packagereq type="default">samba-test</packagereq>
+      <packagereq type="default">samba-test-libs</packagereq>
       <packagereq type="default">sanlock-devel</packagereq>
       <packagereq type="default">sblim-cmpi-devel</packagereq>
       <packagereq type="default">sblim-sfcc-devel</packagereq>
+      <packagereq type="default">sdl12-compat-devel</packagereq>
       <packagereq type="default">sendmail-milter-devel</packagereq>
       <packagereq type="default">sg3_utils-devel</packagereq>
+      <packagereq type="default">shadow-utils-subid-devel</packagereq>
       <packagereq type="default">sharutils</packagereq>
       <packagereq type="default" arch="x86_64">shim-unsigned-x64</packagereq>
       <packagereq type="default" arch="aarch64">shim-unsigned-aarch64</packagereq>
@@ -3700,48 +3758,61 @@
       <packagereq type="default">sombok</packagereq>
       <packagereq type="default">sombok-devel</packagereq>
       <packagereq type="default">soundtouch-devel</packagereq>
-      <packagereq type="default">sparsehash-devel</packagereq>
       <packagereq type="default">speech-dispatcher-devel</packagereq>
       <packagereq type="default">speech-dispatcher-doc</packagereq>
       <packagereq type="default">speex-devel</packagereq>
       <packagereq type="default">speexdsp-devel</packagereq>
+      <packagereq type="default">spice-protocol</packagereq>
       <packagereq type="default">spirv-tools-devel</packagereq>
       <packagereq type="default">suitesparse-devel</packagereq>
-      <packagereq type="default">SuperLU</packagereq>
-      <packagereq type="default">SuperLU-devel</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">supermin-devel</packagereq>
       <packagereq type="default">swig</packagereq>
       <packagereq type="default">swig-doc</packagereq>
       <packagereq type="default">swig-gdb</packagereq>
+      <packagereq type="default">system-sb-certs</packagereq>
       <packagereq type="default">taglib-devel</packagereq>
+      <packagereq type="default">tesseract-devel</packagereq>
       <packagereq type="default">texi2html</packagereq>
       <packagereq type="default">texinfo</packagereq>
       <packagereq type="default">texinfo-tex</packagereq>
       <packagereq type="default">texlive-lib-devel</packagereq>
       <packagereq type="default">tinycdb</packagereq>
       <packagereq type="default">tinycdb-devel</packagereq>
+      <packagereq type="default">tix</packagereq>
+      <packagereq type="default">tix-devel</packagereq>
       <packagereq type="default">tokyocabinet-devel</packagereq>
       <packagereq type="default">tog-pegasus-devel</packagereq>
       <packagereq type="default">tpm2-abrmd-devel</packagereq>
+      <packagereq type="default">tracker-devel</packagereq>
       <packagereq type="default">transfig</packagereq>
-      <packagereq type="default">trousers-devel</packagereq>
-      <packagereq type="default" arch="ppc64le">tss2-devel</packagereq>
+      <packagereq type="default" arch="ppc64le,x86_64">tss2-devel</packagereq>
       <packagereq type="default">turbojpeg-devel</packagereq>
-      <packagereq type="default">uglify-js</packagereq>
+      <packagereq type="default">twolame-devel</packagereq>
+      <packagereq type="default">uchardet-devel</packagereq>
       <packagereq type="default">uid_wrapper</packagereq>
+      <packagereq type="default">unbound-devel</packagereq>
+      <packagereq type="default">unicode-ucd-unihan</packagereq>
+      <packagereq type="default">unixODBC-devel</packagereq>
       <packagereq type="default">upower-devel</packagereq>
       <packagereq type="default">upower-devel-docs</packagereq>
       <packagereq type="default">urw-base35-fonts-devel</packagereq>
       <packagereq type="default">usbredir-devel</packagereq>
       <packagereq type="default">userspace-rcu-devel</packagereq>
-      <packagereq type="default">uthash-devel</packagereq>
+      <packagereq type="default">utf8proc-devel</packagereq>
       <packagereq type="default">uuid-devel</packagereq>
       <packagereq type="default">vala</packagereq>
-      <packagereq type="default">vala-devel</packagereq>
+      <packagereq type="default">varnish-devel</packagereq>
+      <packagereq type="default" arch="x86_64">virt-v2v-man-pages-ja</packagereq>
+      <packagereq type="default" arch="x86_64">virt-v2v-man-pages-uk</packagereq>
+      <packagereq type="default">volume_key-devel</packagereq>
       <packagereq type="default">vte291-devel</packagereq>
       <packagereq type="default">wavpack-devel</packagereq>
       <packagereq type="default">web-assets-filesystem</packagereq>
       <packagereq type="default">wireshark-devel</packagereq>
+      <packagereq type="default">woff2-devel</packagereq>
+      <packagereq type="default">wpebackend-fdo-devel</packagereq>
       <packagereq type="default">Xaw3d-devel</packagereq>
+      <packagereq type="default">xapian-core-devel</packagereq>
       <packagereq type="default">xbean</packagereq>
       <packagereq type="default">xcb-proto</packagereq>
       <packagereq type="default">xcb-util-devel</packagereq>
@@ -3761,15 +3832,11 @@
       <packagereq type="default">xmlsec1-openssl-devel</packagereq>
       <packagereq type="default">xmltoman</packagereq>
       <packagereq type="default">xmlunit</packagereq>
-      <packagereq type="default">xmvn-api</packagereq>
-      <packagereq type="default">xmvn-connector-aether</packagereq>
       <packagereq type="default">xmvn-core</packagereq>
-      <packagereq type="default">xmvn-install</packagereq>
       <packagereq type="default">xmvn-minimal</packagereq>
       <packagereq type="default">xmvn-mojo</packagereq>
-      <packagereq type="default">xmvn-resolve</packagereq>
-      <packagereq type="default">xmvn-subst</packagereq>
-      <packagereq type="default">xorg-x11-apps</packagereq>
+      <packagereq type="default">xmvn-tools</packagereq>
+      <packagereq type="default">xorg-x11-drv-evdev-devel</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput-devel</packagereq>
       <packagereq type="default">xorg-x11-drv-wacom-devel</packagereq>
       <packagereq type="default">xorg-x11-server-devel</packagereq>
@@ -3777,6 +3844,7 @@
       <packagereq type="default">xorg-x11-xtrans-devel</packagereq>
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
+      <packagereq type="default">yajl-devel</packagereq>
       <packagereq type="default">yelp-devel</packagereq>
       <packagereq type="default">zlib-static</packagereq>
       <packagereq type="default">zziplib-devel</packagereq>
@@ -3792,7 +3860,7 @@
     </grouplist>
     <optionlist>
       <groupid>standard</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
     </optionlist>
   </environment>
   <environment variant="BaseOS">
@@ -3805,7 +3873,7 @@
     </grouplist>
     <optionlist>
       <groupid>standard</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -3826,10 +3894,10 @@
       <groupid>dns-server</groupid>
       <groupid>file-server</groupid>
       <groupid>ftp-server</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
       <groupid>gnome-desktop</groupid>
       <groupid>hardware-monitoring</groupid>
-      <groupid>infiniband</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">infiniband</groupid>
       <groupid>mail-server</groupid>
       <groupid>network-file-system-client</groupid>
       <groupid>network-server</groupid>
@@ -3858,7 +3926,7 @@
       <groupid>hardware-monitoring</groupid>
       <groupid>headless-management</groupid>
       <groupid>internet-browser</groupid>
-      <groupid>multimedia</groupid>
+      <groupid arch="aarch64,ppc64le,x86_64">multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>print-client</groupid>
     </grouplist>
@@ -3867,8 +3935,8 @@
       <groupid>dns-server</groupid>
       <groupid>file-server</groupid>
       <groupid>ftp-server</groupid>
-      <groupid>guest-agents</groupid>
-      <groupid>infiniband</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">infiniband</groupid>
       <groupid>mail-server</groupid>
       <groupid>network-file-system-client</groupid>
       <groupid>network-server</groupid>
@@ -3896,7 +3964,7 @@
       <groupid>headless-management</groupid>
       <groupid>freeipa-server</groupid>
       <groupid>ftp-server</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
       <groupid>mail-server</groupid>
       <groupid>network-server</groupid>
       <groupid>smb-server</groupid>
@@ -3916,7 +3984,7 @@
     </grouplist>
     <optionlist>
       <groupid>python-web</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
     </optionlist>
   </environment>
   <environment>
@@ -3933,8 +4001,8 @@
     <optionlist>
       <groupid>debugging</groupid>
       <groupid>file-server</groupid>
-      <groupid>infiniband</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">infiniband</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
       <groupid>network-server</groupid>
       <groupid>network-filesystem-client</groupid>
       <groupid>hardware-monitoring</groupid>
@@ -3943,7 +4011,7 @@
       <groupid>smb-server</groupid>
       <groupid>web-server</groupid>
       <groupid>dns-server</groupid>
-      <groupid>identity-management-server</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">identity-management-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>mail-server</groupid>
       <groupid>mariadb</groupid>
@@ -3965,7 +4033,7 @@
       <groupid>core</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
+      <groupid arch="aarch64,ppc64le,x86_64">multimedia</groupid>
       <groupid>network-file-system-client</groupid>
       <groupid>print-client</groupid>
       <groupid>internet-browser</groupid>
@@ -3974,7 +4042,7 @@
       <groupid>desktop-debugging</groupid>
       <groupid>dial-up</groupid>
       <groupid>gnome-desktop</groupid>
-      <groupid>gnome-apps</groupid>
+      <groupid arch="ppc64le,x86_64">gnome-apps</groupid>
       <groupid>virtualization-client</groupid>
       <groupid>virtualization-hypervisor</groupid>
       <groupid>virtualization-tools</groupid>
@@ -3989,22 +4057,22 @@
       <groupid default="true">platform-devel</groupid>
       <groupid default="true">emacs</groupid>
       <groupid>additional-devel</groupid>
-      <groupid>graphics</groupid>
-      <groupid>office-suite</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">graphics</groupid>
+      <groupid arch="x86_64">office-suite</groupid>
       <groupid>network-file-system-client</groupid>
       <groupid>python-web</groupid>
       <groupid>php</groupid>
       <groupid>web-servlet</groupid>
-      <groupid>identity-management-server</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">identity-management-server</groupid>
       <groupid>dns-server</groupid>
       <groupid>ftp-server</groupid>
       <groupid>mail-server</groupid>
-      <groupid>infiniband</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">infiniband</groupid>
       <groupid>file-server</groupid>
       <groupid>mariadb</groupid>
       <groupid>postgresql</groupid>
       <groupid>virtualization-hypervisor</groupid>
-      <groupid>load-balancer</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">load-balancer</groupid>
       <groupid>legacy-x</groupid>
       <groupid>backup-client</groupid>
       <groupid>mainframe-access</groupid>
@@ -4025,21 +4093,21 @@
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
       <groupid>input-methods</groupid>
-      <groupid>multimedia</groupid>
+      <groupid arch="aarch64,ppc64le,x86_64">multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>network-file-system-client</groupid>
       <groupid>print-client</groupid>
       <groupid>desktop-debugging</groupid>
       <groupid>internet-browser</groupid>
       <groupid>gnome-desktop</groupid>
-      <groupid>guest-agents</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>java-platform</groupid>
     </grouplist>
     <optionlist>
-      <groupid>gnome-apps</groupid>
+      <groupid arch="ppc64le,x86_64">gnome-apps</groupid>
       <groupid>internet-applications</groupid>
-      <groupid>office-suite</groupid>
+      <groupid arch="x86_64">office-suite</groupid>
       <groupid>smart-card</groupid>
       <groupid>legacy-x</groupid>
       <groupid>backup-client</groupid>
@@ -4060,16 +4128,16 @@
       <groupid>gnome-desktop</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>hardware-support</groupid>
-      <groupid>multimedia</groupid>
+      <groupid arch="aarch64,ppc64le,x86_64">multimedia</groupid>
       <groupid>networkmanager-submodules</groupid>
       <groupid>print-client</groupid>
       <groupid>workstation-product</groupid>
     </grouplist>
     <optionlist>
-      <groupid>gnome-apps</groupid>
+      <groupid arch="ppc64le,x86_64">gnome-apps</groupid>
       <groupid>headless-management</groupid>
       <groupid>internet-applications</groupid>
-      <groupid>office-suite</groupid>
+      <groupid arch="x86_64">office-suite</groupid>
       <groupid>backup-client</groupid>
       <groupid>remote-desktop-clients</groupid>
       <groupid>smart-card</groupid>
@@ -4117,7 +4185,7 @@
       <groupid>web-server</groupid>
       <groupid>backup-server</groupid>
       <groupid>ftp-server</groupid>
-      <groupid>identity-management-server</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">identity-management-server</groupid>
       <groupid>mail-server</groupid>
       <groupid>print-server</groupid>
     </grouplist>
@@ -4132,7 +4200,7 @@
       <groupid>debugging</groupid>
       <groupid>dial-up</groupid>
       <groupid>hardware-monitoring</groupid>
-      <groupid>infiniband</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">infiniband</groupid>
       <groupid>large-systems</groupid>
       <groupid>legacy-unix</groupid>
       <groupid>mainframe-access</groupid>
@@ -4182,10 +4250,10 @@
     <display_order>80</display_order>
     <grouplist>
       <groupid>emacs</groupid>
-      <groupid>gnome-apps</groupid>
-      <groupid>graphics</groupid>
+      <groupid arch="ppc64le,x86_64">gnome-apps</groupid>
+      <groupid arch="x86_64,ppc64le,aarch64">graphics</groupid>
       <groupid>internet-applications</groupid>
-      <groupid>office-suite</groupid>
+      <groupid arch="x86_64">office-suite</groupid>
     </grouplist>
   </category>
 </comps>
