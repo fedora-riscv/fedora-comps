@@ -2839,6 +2839,7 @@
       <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">multican</packagereq>
+      <packagereq type="optional">mlxsw_spectrum-firmware</packagereq>
       <packagereq type="optional">mrvlprestera-firmware</packagereq>
       <packagereq type="optional">netronome-firmware</packagereq>
       <packagereq type="optional">opensc</packagereq>
@@ -4833,6 +4834,7 @@
       <packagereq type="optional">hdparm</packagereq>
       <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
+      <packagereq type="optional">mlxsw_spectrum-firmware</packagereq>
       <packagereq type="optional">netronome-firmware</packagereq>
     </packagelist>
   </group>
