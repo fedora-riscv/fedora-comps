@@ -452,7 +452,7 @@
       <packagereq type="mandatory">pipewire-alsa</packagereq>
       <packagereq type="mandatory">pipewire-pulseaudio</packagereq>
       <packagereq type="mandatory">powerline</packagereq>
-      <packagereq type="mandatory">qgnomeplatform</packagereq>
+      <packagereq type="mandatory">qgnomeplatform-qt5</packagereq>
       <packagereq type="mandatory">redshift-gtk</packagereq>
       <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
       <packagereq type="mandatory">setroubleshoot</packagereq>
@@ -5612,7 +5612,7 @@
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
       <packagereq type="default">python3-dnf-plugin-system-upgrade</packagereq>
-      <packagereq type="default">qgnomeplatform</packagereq>
+      <packagereq type="default">qgnomeplatform-qt5</packagereq>
       <packagereq type="default">qt5-qtbase</packagereq>
       <packagereq type="default">qt5-qtbase-gui</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
