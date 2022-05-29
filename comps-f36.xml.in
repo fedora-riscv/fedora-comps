@@ -285,7 +285,7 @@
       <packagereq>plymouth-system-theme</packagereq>
       <packagereq>xorg-x11-drv-amdgpu</packagereq>
       <packagereq arch="armhfp">xorg-x11-drv-armada</packagereq>
-      <packagereq>xorg-x11-drv-armsoc</packagereq>
+      <packagereq arch="aarch64,armhfp">xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
       <packagereq>xorg-x11-drv-fbdev</packagereq>
@@ -2912,7 +2912,7 @@
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">alsa-firmware</packagereq>
-      <packagereq type="optional">bcm283x-firmware</packagereq>
+      <packagereq arch="aarch64,armhfp" type="optional">bcm283x-firmware</packagereq>
       <packagereq type="optional">cmospwd</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
