@@ -5777,6 +5777,7 @@
       <packagereq type="optional">xorg-x11-xbitmaps</packagereq>
     </packagelist>
   </group>
+  <group>
     <id>xfce-apps</id>
     <_name>Applications for the Xfce Desktop</_name>
     <_description>A set of commonly used applications for the Xfce Desktop</_description>
