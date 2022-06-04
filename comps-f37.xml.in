@@ -1601,6 +1601,7 @@
       <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="default">vazirmatn-vf-fonts</packagereq>
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-2-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
