@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-02-10 09:17+0000\n"
+"PO-Revision-Date: 2022-06-09 10:18+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/fi/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -62,7 +62,7 @@ msgstr "Arms järjestelmän työkaluja"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr "x86 Baremetal työkaluja"
+msgstr "x86 -paljas metalli -työkalut"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
@@ -602,7 +602,7 @@ msgstr "Hypervisorin alaisuudessa käytettävät agentit."
 #: ../comps-f32.xml.in.h:116 ../comps-f33.xml.in.h:112
 #: ../comps-f34.xml.in.h:112
 msgid "Guest Desktop Agents"
-msgstr "Guest-työpöytäagentit"
+msgstr "Vieras-työpöytäagentit"
 
 #: ../comps-f32.xml.in.h:117 ../comps-f33.xml.in.h:113
 #: ../comps-f34.xml.in.h:113
