@@ -96,7 +96,6 @@
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-x64</packagereq>
-      <packagereq arch="x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
     </packagelist>
@@ -539,7 +538,6 @@
       <packagereq type="mandatory">dracut-config-generic</packagereq>
       <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">rsync</packagereq>
-      <packagereq arch="x86_64" type="mandatory">syslinux-extlinux</packagereq>
       <packagereq type="mandatory">tar</packagereq>
       <packagereq type="default">console-login-helper-messages-issuegen</packagereq>
       <packagereq type="default">console-login-helper-messages-motdgen</packagereq>
@@ -5777,16 +5775,6 @@
       <packagereq type="optional">mesa-libGLU-devel</packagereq>
       <packagereq type="optional">xorg-x11-server-devel</packagereq>
       <packagereq type="optional">xorg-x11-xbitmaps</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>x86-baremetal-tools</id>
-    <_name>x86 Baremetal Tools</_name>
-    <_description>Tools for working with baremetal x86 systems</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>syslinux</packagereq>
     </packagelist>
   </group>
   <group>
