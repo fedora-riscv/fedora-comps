@@ -376,7 +376,7 @@
       <packagereq type="mandatory">xfwm4</packagereq>
       <packagereq type="conditional" requires="pinentry">pinentry-gnome3</packagereq>
       <packagereq type="default">gdm</packagereq>
-      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">network-manager-applet</packagereq>
       <packagereq type="default">openssh-askpass</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">thunar-volman</packagereq>
