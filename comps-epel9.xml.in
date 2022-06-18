@@ -360,6 +360,35 @@
       <packagereq type="optional">qt5-qtxmlpatterns-devel</packagereq>
     </packagelist>
   </group>
+  <group>
+   <id>xfce-desktop</id>
+   <_name>Xfce</_name>
+   <_description>A lightweight desktop environment that works well on low end machines.</_description>
+   <default>false</default>
+   <uservisible>true</uservisible>
+   <packagelist>
+      <packagereq type="mandatory">Thunar</packagereq>
+      <packagereq type="mandatory">xfce4-panel</packagereq>
+      <packagereq type="mandatory">xfce4-session</packagereq>
+      <packagereq type="mandatory">xfce4-settings</packagereq>
+      <packagereq type="mandatory">xfconf</packagereq>
+      <packagereq type="mandatory">xfdesktop</packagereq>
+      <packagereq type="mandatory">xfwm4</packagereq>
+      <packagereq type="conditional" requires="pinentry">pinentry-gtk</packagereq>
+      <packagereq type="default">gdm</packagereq>
+      <packagereq type="default">NetworkManager-gnome</packagereq>
+      <packagereq type="default">openssh-askpass</packagereq>
+      <packagereq type="default">thunar-archive-plugin</packagereq>
+      <packagereq type="default">thunar-volman</packagereq>
+      <packagereq type="default">tumbler</packagereq>
+      <packagereq type="default">xfce-polkit</packagereq>
+      <packagereq type="default">xfce4-appfinder</packagereq>
+      <packagereq type="default">xfce4-power-manager</packagereq>
+      <packagereq type="default">xfce4-pulseaudio-plugin</packagereq>
+      <packagereq type="default">xfce4-screensaver</packagereq>
+      <packagereq type="default">xfce4-terminal</packagereq>
+   </packagelist>
+  </group>
   <environment>
     <id>kde-desktop-environment</id>
     <_name>KDE Plasma Workspaces</_name>
