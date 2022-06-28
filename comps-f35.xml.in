@@ -2838,9 +2838,9 @@
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
-      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">mlxsw_spectrum-firmware</packagereq>
       <packagereq type="optional">mrvlprestera-firmware</packagereq>
+      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">netronome-firmware</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
@@ -2859,8 +2859,8 @@
       <packagereq>cabal-rpm</packagereq>
       <packagereq>darcs</packagereq>
       <packagereq>ghc</packagereq>
-      <packagereq>ghcid</packagereq>
       <packagereq>ghc-rpm-macros</packagereq>
+      <packagereq>ghcid</packagereq>
       <packagereq>haskell-platform</packagereq>
       <packagereq>hlint</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
@@ -3121,7 +3121,6 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="optional">plasma-pk-updates</packagereq>
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
@@ -3206,6 +3205,7 @@
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">xdg-desktop-portal-gnome</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
+      <packagereq type="optional">plasma-pk-updates</packagereq>
     </packagelist>
   </group>
   <group>

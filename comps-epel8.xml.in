@@ -11,93 +11,12 @@
     </packagelist>
   </group>
   <group>
-    <id>standard</id>
-    <_name>standard</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">wget</packagereq>
-    </packagelist>
-  </group>
-  <group>
     <id>core</id>
     <_name>core</_name>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">rhc</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>dial-up</id>
-    <_name>dial-up</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">minicom</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>fonts</id>
-    <_name>fonts</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">abattis-cantarell-fonts</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>input-methods</id>
-    <_name>input-methods</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="optional">ibus-table-array30</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>multimedia</id>
-    <_name>multimedia</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">alsa-utils</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>networkmanager-submodules</id>
-    <_name>networkmanager-submodules</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">dnsmasq</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>hardware-support</id>
-    <_name>hardware-support</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="default">bolt</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>print-client</id>
-    <_name>print-client</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="mandatory">cups</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>guest-desktop-agents</id>
-    <_name>guest-desktop-agents</_name>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq type="optional">spice-streaming-agent</packagereq>
     </packagelist>
   </group>
   <group>
@@ -109,6 +28,15 @@
     <packagelist>
       <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>dial-up</id>
+    <_name>dial-up</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">minicom</packagereq>
     </packagelist>
   </group>
   <group>
@@ -137,6 +65,42 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">firefox</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>fonts</id>
+    <_name>fonts</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">abattis-cantarell-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>guest-desktop-agents</id>
+    <_name>guest-desktop-agents</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">spice-streaming-agent</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>hardware-support</id>
+    <_name>hardware-support</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">bolt</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>input-methods</id>
+    <_name>input-methods</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">ibus-table-array30</packagereq>
     </packagelist>
   </group>
   <group>
@@ -220,8 +184,8 @@
       <packagereq>kwin</packagereq>
       <packagereq>kwrite</packagereq>
       <packagereq>okular</packagereq>
-      <packagereq>pam-kwallet</packagereq>
       <packagereq>PackageKit-command-not-found</packagereq>
+      <packagereq>pam-kwallet</packagereq>
       <packagereq>phonon-qt5-backend-gstreamer</packagereq>
       <packagereq>plasma-breeze</packagereq>
       <packagereq>plasma-desktop-doc</packagereq>
@@ -372,6 +336,42 @@
       <packagereq type="optional">qt5-qtwayland-devel</packagereq>
       <packagereq type="optional">qt5-qtx11extras-devel</packagereq>
       <packagereq type="optional">qt5-qtxmlpatterns-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>multimedia</id>
+    <_name>multimedia</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">alsa-utils</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>networkmanager-submodules</id>
+    <_name>networkmanager-submodules</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">dnsmasq</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>print-client</id>
+    <_name>print-client</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cups</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>standard</id>
+    <_name>standard</_name>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">wget</packagereq>
     </packagelist>
   </group>
   <group>

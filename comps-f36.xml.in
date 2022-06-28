@@ -1577,9 +1577,9 @@
       <packagereq type="default">google-noto-sans-georgian-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-gurmukhi-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-hebrew-vf-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-math-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mono-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-thaana-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-vf-fonts</packagereq>
@@ -1599,10 +1599,10 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
-      <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
@@ -2549,7 +2549,6 @@
     <packagelist>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gnome-text-editor</packagereq>
       <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq type="mandatory">gnome-connections</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
@@ -2560,6 +2559,7 @@
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-software</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-text-editor</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
@@ -2922,9 +2922,9 @@
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
-      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">mlxsw_spectrum-firmware</packagereq>
       <packagereq type="optional">mrvlprestera-firmware</packagereq>
+      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">netronome-firmware</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
@@ -2943,8 +2943,8 @@
       <packagereq>cabal-rpm</packagereq>
       <packagereq>darcs</packagereq>
       <packagereq>ghc</packagereq>
-      <packagereq>ghcid</packagereq>
       <packagereq>ghc-rpm-macros</packagereq>
+      <packagereq>ghcid</packagereq>
       <packagereq>haskell-platform</packagereq>
       <packagereq>hlint</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
@@ -4173,12 +4173,12 @@
       <packagereq type="optional">COPASI</packagereq>
       <packagereq type="optional">genesis-simulator</packagereq>
       <packagereq type="optional">moose</packagereq>
+      <packagereq type="optional">neuron-devel</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
       <packagereq type="optional">python3-lfpy</packagereq>
       <packagereq type="optional">python3-nest</packagereq>
       <packagereq type="optional">python3-netpyne</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
-      <packagereq type="optional">neuron-devel</packagereq>
       <packagereq type="optional">python3-PyLEMS</packagereq>
       <packagereq type="optional">python3-pynn</packagereq>
       <packagereq type="optional">python3-steps</packagereq>

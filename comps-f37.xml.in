@@ -1573,9 +1573,9 @@
       <packagereq type="default">google-noto-sans-georgian-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-gurmukhi-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-hebrew-vf-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-math-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-mono-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-lao-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-thaana-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-vf-fonts</packagereq>
@@ -1595,10 +1595,10 @@
       <packagereq type="default">lohit-tamil-fonts</packagereq>
       <packagereq type="default">lohit-telugu-fonts</packagereq>
       <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">sil-mingzat-fonts</packagereq>
       <packagereq type="default">sil-nuosu-fonts</packagereq>
       <packagereq type="default">sil-padauk-fonts</packagereq>
-      <packagereq type="default">rit-meera-new-fonts</packagereq>
       <packagereq type="default">stix-fonts</packagereq>
       <packagereq type="default">thai-scalable-waree-fonts</packagereq>
       <packagereq type="default">vazirmatn-vf-fonts</packagereq>
@@ -2546,7 +2546,6 @@
     <packagelist>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
-      <packagereq type="mandatory">gnome-text-editor</packagereq>
       <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq type="mandatory">gnome-connections</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
@@ -2557,6 +2556,7 @@
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-software</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-text-editor</packagereq>
       <packagereq type="mandatory">nautilus</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
@@ -2919,9 +2919,9 @@
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">liquidio-firmware</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
-      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">mlxsw_spectrum-firmware</packagereq>
       <packagereq type="optional">mrvlprestera-firmware</packagereq>
+      <packagereq type="optional">multican</packagereq>
       <packagereq type="optional">netronome-firmware</packagereq>
       <packagereq type="optional">opensc</packagereq>
       <packagereq type="optional">pcsc-lite</packagereq>
@@ -2940,8 +2940,8 @@
       <packagereq>cabal-rpm</packagereq>
       <packagereq>darcs</packagereq>
       <packagereq>ghc</packagereq>
-      <packagereq>ghcid</packagereq>
       <packagereq>ghc-rpm-macros</packagereq>
+      <packagereq>ghcid</packagereq>
       <packagereq>haskell-platform</packagereq>
       <packagereq>hlint</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
@@ -4170,12 +4170,12 @@
       <packagereq type="optional">COPASI</packagereq>
       <packagereq type="optional">genesis-simulator</packagereq>
       <packagereq type="optional">moose</packagereq>
+      <packagereq type="optional">neuron-devel</packagereq>
       <packagereq type="optional">python3-brian2</packagereq>
       <packagereq type="optional">python3-lfpy</packagereq>
       <packagereq type="optional">python3-nest</packagereq>
       <packagereq type="optional">python3-netpyne</packagereq>
       <packagereq type="optional">python3-neuron</packagereq>
-      <packagereq type="optional">neuron-devel</packagereq>
       <packagereq type="optional">python3-PyLEMS</packagereq>
       <packagereq type="optional">python3-pynn</packagereq>
       <packagereq type="optional">python3-steps</packagereq>
@@ -4411,18 +4411,17 @@
       <packagereq>gnome-calculator</packagereq>
       <packagereq>gnome-calendar</packagereq>
       <packagereq>gnome-clocks</packagereq>
+      <packagereq>gnome-console</packagereq>
       <packagereq>gnome-contacts</packagereq>
       <packagereq>gnome-maps</packagereq>
       <packagereq>gnome-photos</packagereq>
       <packagereq>gnome-software</packagereq>
-      <packagereq>gnome-console</packagereq>
       <packagereq>gstreamer1-plugin-openh264</packagereq>
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>linux-firmware</packagereq>
       <packagereq>mesa-dri-drivers</packagereq>
-      <packagereq type="optional">mmsd-tng</packagereq>
       <packagereq>NetworkManager</packagereq>
       <packagereq>NetworkManager-bluetooth</packagereq>
       <packagereq>NetworkManager-config-connectivity-fedora</packagereq>
@@ -4436,6 +4435,7 @@
       <packagereq>sudo</packagereq>
       <packagereq>systemd-udev</packagereq>
       <packagereq>totem</packagereq>
+      <packagereq type="optional">mmsd-tng</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5112,7 +5112,6 @@
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
       <packagereq>irqbalance</packagereq>
-      <packagereq>whois</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
@@ -5152,6 +5151,7 @@
       <packagereq>util-linux-user</packagereq>
       <packagereq>wget</packagereq>
       <packagereq>which</packagereq>
+      <packagereq>whois</packagereq>
       <packagereq>words</packagereq>
       <packagereq>zip</packagereq>
       <packagereq type="conditional" requires="gnome-control-center">chrony</packagereq>
@@ -5666,7 +5666,6 @@
       <packagereq type="default">ibus-m17n</packagereq>
       <packagereq type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">iptstate</packagereq>
-      <packagereq type="default">whois</packagereq>
       <packagereq type="default">logrotate</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">lsof</packagereq>
@@ -5718,6 +5717,7 @@
       <packagereq type="default">usbutils</packagereq>
       <packagereq type="default">wget</packagereq>
       <packagereq type="default">which</packagereq>
+      <packagereq type="default">whois</packagereq>
       <packagereq type="default">words</packagereq>
       <packagereq type="default">zip</packagereq>
     </packagelist>
