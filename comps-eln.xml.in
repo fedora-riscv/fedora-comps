@@ -3239,6 +3239,7 @@
       <packagereq type="default">libthai-devel</packagereq>
       <packagereq type="default">libtheora-devel</packagereq>
       <packagereq type="default">libtiff-tools</packagereq>
+      <packagereq type="default">libtimezonemap-devel</packagereq>
       <packagereq type="default">libtool-ltdl-devel</packagereq>
       <packagereq type="default">libtracecmd-devel</packagereq>
       <packagereq type="default">libtraceevent-devel</packagereq>
