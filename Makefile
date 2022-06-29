@@ -28,6 +28,10 @@ sort:
 		RES=$$(($$RES + $$?)); \
 	done; exit $$RES
 
+.PHONY: comps-eln.xml.in
+comps-eln.xml.in: comps-eln.xml.in.in
+	./update-eln-extras-comps comps-eln.xml.in.in comps-eln.xml.in
+
 %.xml: %.xml.in
 	@xmllint --noout $<
 	@if test ".$(CLEANUP)" == .yes; then xsltproc --novalid -o $< comps-cleanup.xsl $<; fi

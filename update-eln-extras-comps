@@ -1,0 +1,75 @@
+#!/usr/bin/python3
+
+import click
+import requests
+from collections import OrderedDict, defaultdict
+from os import path
+import xmltodict
+
+DEFAULT_CONTENT_RESOLVER_URL = "https://tiny.distro.builders"
+DEFAULT_CONTENT_RESOLVER_VIEW = "eln-extras"
+
+
+@click.command()
+@click.option(
+    "--content-resolver-url",
+    "-u",
+    default=DEFAULT_CONTENT_RESOLVER_URL,
+    show_default=True,
+)
+@click.option(
+    "--content-resolver-view",
+    "-w",
+    default=DEFAULT_CONTENT_RESOLVER_VIEW,
+    show_default=True,
+)
+@click.argument("infile", type=click.File(mode="rb"))
+@click.argument("outfile", type=click.File(mode="wb", atomic=True))
+def cli(content_resolver_url, content_resolver_view, infile, outfile):
+    comps = xmltodict.parse(infile)
+
+    comps_group = OrderedDict()
+    comps_group["id"] = "eln-extras"
+    comps_group["_name"] = "ELN Extras"
+    comps_group[
+        "_description"
+    ] = "Extra packages not in ELN, but needed to be built like ELN for testing"
+    comps_group["default"] = "false"
+    comps_group["uservisible"] = "false"
+    comps_group["packagelist"] = OrderedDict()
+    comps_group["packagelist"]["packagereq"] = list()
+
+    ARCHES = ["aarch64", "ppc64le", "s390x", "x86_64"]
+    package_arches = defaultdict(set)
+    for arch in ARCHES:
+        r = requests.get(
+            f"{content_resolver_url}/view-all-binary-package-name-list--view-{content_resolver_view}--{arch}.txt"
+        )
+        r.raise_for_status()
+        packages = r.text.split("\n")
+
+        for package in packages:
+            package_arches[package].add(arch)
+
+    for package in sorted(package_arches.keys()):
+        entry = OrderedDict()
+        entry["@variant"] = "Extras"
+        entry["@arch"] = ",".join(package_arches[package])
+        entry["#text"] = package
+        comps_group["packagelist"]["packagereq"].append(entry)
+
+    comps["comps"]["group"].append(comps_group)
+
+    raw_xml = xmltodict.unparse(
+        comps, full_document=True, pretty=True, indent="  "
+    )
+    xml = raw_xml.replace(
+        '<?xml version="1.0" encoding="utf-8"?>',
+        '<!DOCTYPE comps PUBLIC "-//Red Hat, Inc.//DTD Comps info//EN" "comps.dtd">',
+        1,
+    )
+    outfile.write(xml.encode("UTF-8"))
+
+
+if __name__ == "__main__":
+    cli()
