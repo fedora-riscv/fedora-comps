@@ -314,15 +314,7 @@
             <ref name="string"/>
           </attribute>
           <optional>
-            <attribute name="arch">
-              <ref name="string"/>
-              <a:documentation>
-                Arch to blacklist this package from. If unspecified, it will be
-                blocked on all arches.
-                <!-- Technically this should be an enum of known arches:
-                i386 x86_64 ppc ppc64 ia64 sparc alpha ... -->
-              </a:documentation>
-            </attribute>
+            <ref name="arch"/>
           </optional>
         </element>
       </zeroOrMore>
@@ -358,6 +350,12 @@
   <define name="arch">
     <attribute name="arch">
       <ref name="string"/>
+      <a:documentation>
+        Arch to blacklist this package from. If unspecified, it will be
+        blocked on all arches.
+        <!-- Technically this should be an enum of known arches:
+             i386 x86_64 ppc ppc64 ia64 sparc alpha ... -->
+      </a:documentation>
     </attribute>
   </define>
   <define name="variant">
