@@ -546,6 +546,7 @@
       <packagereq type="default">console-login-helper-messages-motdgen</packagereq>
       <packagereq type="default">console-login-helper-messages-profile</packagereq>
       <packagereq type="default">fedora-release-cloud</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
     </packagelist>
   </group>
   <group>
@@ -637,7 +638,6 @@
       <packagereq type="default">plymouth</packagereq>
       <packagereq arch="ppc64le" type="default">powerpc-utils</packagereq>
       <packagereq arch="s390x" type="default">s390utils-base</packagereq>
-      <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">systemd-resolved</packagereq>
       <packagereq type="default">zram-generator-defaults</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
@@ -2627,6 +2627,7 @@
       <packagereq type="default">sane-backends-drivers-scanners</packagereq>
       <packagereq type="default">simple-scan</packagereq>
       <packagereq type="default">sushi</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">totem</packagereq>
       <packagereq type="default">tracker</packagereq>
       <packagereq type="default">tracker-miners</packagereq>
@@ -3286,6 +3287,7 @@
       <packagereq type="default">polkit-kde</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">xdg-desktop-portal-gnome</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
       <packagereq type="optional">plasma-pk-updates</packagereq>
@@ -4939,6 +4941,7 @@
       <packagereq type="default">dhcp-client</packagereq>
       <packagereq type="default">fedora-release-server</packagereq>
       <packagereq type="default">NetworkManager-team</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5711,6 +5714,7 @@
       <packagereq type="default">sos</packagereq>
       <packagereq type="default">sssd</packagereq>
       <packagereq type="default">symlinks</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">thermald</packagereq>
       <packagereq type="default">time</packagereq>
