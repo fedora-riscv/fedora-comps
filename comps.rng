@@ -221,6 +221,9 @@
           <ref name="boolean"/>
         </attribute>
       </optional>
+      <optional>
+        <ref name="arch"/>
+      </optional>
     </element>
   </define>
   <define name="id">
