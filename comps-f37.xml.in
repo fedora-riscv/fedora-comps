@@ -5714,6 +5714,7 @@
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">thermald</packagereq>
       <packagereq type="default">time</packagereq>
+      <packagereq type="default">toolbox</packagereq>
       <packagereq type="default">traceroute</packagereq>
       <packagereq type="default">tree</packagereq>
       <packagereq type="default">unoconv</packagereq>
