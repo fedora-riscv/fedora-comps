@@ -1820,6 +1820,10 @@
       <packagereq type="optional">virt-win-reg</packagereq>
       <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
+      <packagereq type="options">cloud-init</packagereq>
+      <packagereq type="options">cloud-utils</packagereq>
+      <packagereq type="options">cloud-utils-growpart</packagereq>
+      <packagereq type="options">python3-jsonschema</packagereq>
     </packagelist>
   </group>
   <!--  <group variant="AppStream">
@@ -3872,6 +3876,7 @@
       <packagereq type="default">xz-lzma-compat</packagereq>
       <packagereq type="default">yajl-devel</packagereq>
       <packagereq type="default">yelp-devel</packagereq>
+      <packagereq type="default">yum-utils</packagereq>
       <packagereq type="default">zlib-static</packagereq>
       <packagereq type="default">zziplib-devel</packagereq>
     </packagelist>
