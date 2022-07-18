@@ -124,7 +124,6 @@
       <packagereq variant="AppStream">openscap-devel</packagereq>
       <packagereq variant="AppStream">pipewire-devel</packagereq>
       <packagereq variant="AppStream">pipewire-jack-audio-connection-kit-devel</packagereq>
-      <packagereq variant="AppStream">protobuf-c</packagereq>
       <packagereq variant="AppStream">sane-backends-devel</packagereq>
       <packagereq variant="AppStream">scl-utils</packagereq>
       <packagereq variant="AppStream">scl-utils-build</packagereq>
@@ -457,6 +456,7 @@
       <packagereq variant="AppStream">tracker</packagereq>
       <packagereq variant="AppStream">tracker-miners</packagereq>
       <packagereq variant="AppStream">xdg-desktop-portal</packagereq>
+      <packagereq variant="AppStream">xdg-desktop-portal-gnome</packagereq>
       <packagereq variant="AppStream">xdg-desktop-portal-gtk</packagereq>
       <packagereq variant="AppStream">xdg-user-dirs-gtk</packagereq>
       <packagereq variant="AppStream">yelp</packagereq>
@@ -1083,6 +1083,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gnutls</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">tuned</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
       <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
@@ -1190,6 +1191,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gnutls</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
+      <packagereq type="mandatory" variant="BaseOS">tuned</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
       <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
@@ -1820,7 +1822,7 @@
       <packagereq type="optional">libguestfs-inspect-icons</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <!--  <group variant="AppStream">
     <id>ruby-runtime</id>
     <_name>Ruby Support</_name>
     <_description>Ruby interfaces to common libraries and functionality.</_description>
@@ -1831,7 +1833,7 @@
       <packagereq>ruby-irb</packagereq>
       <packagereq>rubygem-bundler</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>remote-desktop-clients</id>
     <_name>Remote Desktop Clients</_name>
@@ -1933,7 +1935,7 @@
       <packagereq>qemu-guest-agent</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <!--  <group variant="AppStream">
     <id>perl-web</id>
     <_name>Perl for Web</_name>
     <_description>Basic Perl web application support.</_description>
@@ -1948,8 +1950,8 @@
       <packagereq>perl-DBD-SQLite</packagereq>
       <packagereq>perl-MongoDB</packagereq>
     </packagelist>
-  </group>
-  <group variant="AppStream">
+  </group> -->
+<!--  <group variant="AppStream">
     <id>perl</id>
     <_name>Perl Development</_name>
     <_description>Support for developing programs in the Perl programming language.</_description>
@@ -1966,7 +1968,7 @@
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
       <packagereq type="optional">vim-perl-support</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group arch="x86_64" variant="AppStream">
     <id>office-suite</id>
     <_name>Office Suite and Productivity</_name>
@@ -2021,7 +2023,7 @@
       <packagereq type="optional">haproxy</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <!--  <group variant="AppStream">
     <id>legacy-network-server</id>
     <_name>Legacy Network Server</_name>
     <_description>These packages include servers for old network protocols such as telnet.</_description>
@@ -2030,7 +2032,7 @@
     <packagelist>
       <packagereq type="optional">telnet-server</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>java-development</id>
     <_name>Java Development</_name>
@@ -2131,7 +2133,7 @@
       <packagereq type="optional">ibus-table-array30</packagereq>
     </packagelist>
   </group>
-  <group arch="x86_64,ppc64le,aarch64" variant="AppStream">
+  <!--  <group arch="x86_64,ppc64le,aarch64" variant="AppStream">
     <id>identity-management-server</id>
     <_name>Identity Management Server</_name>
     <_description>Centralized management of users, servers and authentication policies.</_description>
@@ -2147,7 +2149,7 @@
       <packagereq type="optional" arch="x86_64">ipa-server-trust-ad</packagereq>
       <packagereq type="optional">nuxwdog</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>haproxy</id>
     <_name>HAProxy</_name>
@@ -2195,7 +2197,7 @@
       <packagereq>brasero-nautilus</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <!--  <group variant="AppStream">
     <id>dogtag</id>
     <_name>Dogtag Certificate System</_name>
     <_description>Enterprise-class open source Certificate Authority</_description>
@@ -2206,7 +2208,7 @@
       <packagereq type="default">pki-kra</packagereq>
       <packagereq type="optional">pki-javadoc</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>dns-server</id>
     <_name>DNS Name Server</_name>
@@ -2305,7 +2307,7 @@
       <packagereq type="optional" arch="aarch64,s390x,x86_64">dotnet-sdk-6.0</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+  <!--  <group variant="AppStream">
     <id>postgresql-client</id>
     <_name>PostgreSQL Database Client</_name>
     <_description>The PostgreSQL SQL database client, and associated packages.</_description>
@@ -2316,8 +2318,8 @@
       <packagereq type="default">postgresql-odbc</packagereq>
       <packagereq type="optional">postgresql-jdbc</packagereq>
     </packagelist>
-  </group>
-  <group variant="AppStream">
+  </group> -->
+<!--  <group variant="AppStream">
     <id>postgresql</id>
     <_name>PostgreSQL Database Server</_name>
     <_description>The PostgreSQL SQL database server, and associated packages.</_description>
@@ -2331,8 +2333,8 @@
       <packagereq type="optional">postgresql-plpython3</packagereq>
       <packagereq type="optional">postgresql-pltcl</packagereq>
     </packagelist>
-  </group>
-  <group variant="AppStream">
+  </group> -->
+<!--  <group variant="AppStream">
     <id>php</id>
     <_name>PHP</_name>
     <_description>General-purpose web development scripting language.</_description>
@@ -2348,8 +2350,8 @@
       <packagereq type="optional">php-pgsql</packagereq>
       <packagereq type="optional">php-soap</packagereq>
     </packagelist>
-  </group>
-  <group variant="AppStream">
+  </group> -->
+<!--  <group variant="AppStream">
     <id>mariadb-client</id>
     <_name>MariaDB Database Client</_name>
     <_description>The MariaDB SQL database client, and associated packages.</_description>
@@ -2375,7 +2377,7 @@
       <packagereq type="mandatory">mariadb-server</packagereq>
       <packagereq type="optional">mariadb-bench</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>ftp-server</id>
     <_name>FTP Server</_name>
@@ -2386,7 +2388,7 @@
       <packagereq type="mandatory">vsftpd</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+<!--  <group variant="AppStream">
     <id>legacy-fonts</id>
     <_name>Legacy Fonts</_name>
     <_description>Older bitmap and vector fonts packages</_description>
@@ -2471,7 +2473,7 @@
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ISO8859-9-75dpi</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group>
     <id>fonts</id>
     <_name>Fonts</_name>
@@ -2659,7 +2661,7 @@
       <packagereq type="optional">emacs-nox</packagereq>
     </packagelist>
   </group>
-  <group variant="AppStream">
+<!--  <group variant="AppStream">
     <id>backup-server</id>
     <_name>Backup Server</_name>
     <_description>Software to centralize your infrastructure's backups.</_description>
@@ -2671,7 +2673,7 @@
       <packagereq>mt-st</packagereq>
       <packagereq>mtx</packagereq>
     </packagelist>
-  </group>
+  </group> -->
   <group variant="AppStream">
     <id>backup-client</id>
     <_name>Backup Client</_name>
@@ -2880,6 +2882,7 @@
       <packagereq type="default">bcel</packagereq>
       <packagereq type="default">beust-jcommander</packagereq>
       <packagereq type="default">bind-devel</packagereq>
+      <packagereq type="default">bind-doc</packagereq>
       <packagereq type="default">bison-devel</packagereq>
       <packagereq type="default">blas-devel</packagereq>
       <packagereq type="default">bluez-libs-devel</packagereq>
@@ -2907,6 +2910,7 @@
       <packagereq type="default">bsf</packagereq>
       <packagereq type="default">cairomm-devel</packagereq>
       <packagereq type="default">cairomm-doc</packagereq>
+      <packagereq type="default">catatonit</packagereq>
       <packagereq type="default">cglib</packagereq>
       <packagereq type="default">clucene-core-devel</packagereq>
       <packagereq type="default">colord-devel</packagereq>
@@ -2956,6 +2960,7 @@
       <packagereq type="default">exempi-devel</packagereq>
       <packagereq type="default">exiv2-devel</packagereq>
       <packagereq type="default">exiv2-doc</packagereq>
+      <packagereq type="default">fdk-aac-free-devel</packagereq>
       <packagereq type="default">felix-utils</packagereq>
       <packagereq type="default">fftw-doc</packagereq>
       <packagereq type="default">file-devel</packagereq>
@@ -3004,6 +3009,7 @@
       <packagereq type="default">glibmm24-doc</packagereq>
       <packagereq type="default">glm-devel</packagereq>
       <packagereq type="default">glm-doc</packagereq>
+      <packagereq type="default">glslang-devel</packagereq>
       <packagereq type="default" arch="aarch64,x86_64,ppc64le">gnome-bluetooth-libs-devel</packagereq>
       <packagereq type="default">gnome-common</packagereq>
       <packagereq type="default">gnome-menus-devel</packagereq>
@@ -3042,6 +3048,7 @@
       <packagereq type="default">ibus-devel</packagereq>
       <packagereq type="default">ibus-devel-docs</packagereq>
       <packagereq type="default">ima-evm-utils-devel</packagereq>
+      <packagereq type="default">inih-devel</packagereq>
       <packagereq type="default" arch="x86_64">intel-cmt-cat-devel</packagereq>
       <packagereq type="default">iproute-devel</packagereq>
       <packagereq type="default">ipset-devel</packagereq>
@@ -3075,6 +3082,8 @@
       <packagereq type="default">latex2html</packagereq>
       <packagereq type="default">lcms2-devel</packagereq>
       <packagereq type="default">ldns-devel</packagereq>
+      <packagereq type="default">ldns-doc</packagereq>
+      <packagereq type="default">ldns-utils</packagereq>
       <packagereq type="default">leptonica</packagereq>
       <packagereq type="default">leptonica-devel</packagereq>
       <packagereq type="default">liba52-devel</packagereq>
@@ -3139,6 +3148,7 @@
       <packagereq type="default">libgusb-devel</packagereq>
       <packagereq type="default">libgxps-devel</packagereq>
       <packagereq type="default" arch="s390x">libica-devel</packagereq>
+      <packagereq type="default" arch="aarch64,ppc64le,x86_64">libi2c-devel</packagereq>
       <packagereq type="default">libidn2-devel</packagereq>
       <packagereq type="default">libini_config-devel</packagereq>
       <packagereq type="default">libinput-devel</packagereq>
@@ -3176,6 +3186,7 @@
       <packagereq type="default">libnghttp2-devel</packagereq>
       <packagereq type="default">libnma-devel</packagereq>
       <packagereq type="default">libnsl2-devel</packagereq>
+      <packagereq type="default">libnvme-devel</packagereq>
       <packagereq type="default" arch="ppc64le">libocxl-devel</packagereq>
       <packagereq type="default">libodfgen-devel</packagereq>
       <packagereq type="default">libogg-devel</packagereq>
@@ -3221,6 +3232,7 @@
       <packagereq type="default">libsemanage-devel</packagereq>
       <packagereq type="default">libsepol-static</packagereq>
       <packagereq type="default" arch="ppc64le">libservicelog-devel</packagereq>
+      <packagereq type="default">libshaderc-devel</packagereq>
       <packagereq type="default">libshout-devel</packagereq>
       <packagereq type="default">libsigc++20-devel</packagereq>
       <packagereq type="default">libsigc++20-doc</packagereq>
@@ -3235,6 +3247,7 @@
       <packagereq type="default">libsss_nss_idmap-devel</packagereq>
       <packagereq type="default">libstdc++-static</packagereq>
       <packagereq type="default">libstemmer-devel</packagereq>
+      <packagereq type="default">libstoragemgmt-devel</packagereq>
       <packagereq type="default">libsysfs-devel</packagereq>
       <packagereq type="default">libtdb-devel</packagereq>
       <packagereq type="default">libthai-devel</packagereq>
@@ -3268,6 +3281,7 @@
       <packagereq type="default">libvpx-devel</packagereq>
       <packagereq type="default">libwacom-devel</packagereq>
       <packagereq type="default">libwbclient-devel</packagereq>
+      <packagereq type="default">libwmf-devel</packagereq>
       <packagereq type="default">libwnck3-devel</packagereq>
       <packagereq type="default">libwpe-devel</packagereq>
       <packagereq type="default">libwpd-devel</packagereq>
@@ -3278,6 +3292,8 @@
       <packagereq type="default">libwps-doc</packagereq>
       <packagereq type="default">libwsman-devel</packagereq>
       <packagereq type="default">libxcrypt-static</packagereq>
+      <packagereq type="default">libxdp-devel</packagereq>
+      <packagereq type="default">libxdp-static</packagereq>
       <packagereq type="default">libXdmcp-devel</packagereq>
       <packagereq type="default">libXfont2-devel</packagereq>
       <packagereq type="default">libxkbcommon-x11-devel</packagereq>
@@ -3411,6 +3427,7 @@
       <packagereq type="default">nispor-devel</packagereq>
       <packagereq type="default">npth-devel</packagereq>
       <packagereq type="default">nmstate-devel</packagereq>
+      <packagereq type="default">nmstate-static</packagereq>
       <packagereq type="default">nss_hesiod</packagereq>
       <packagereq type="default">objectweb-asm</packagereq>
       <packagereq type="default">objenesis</packagereq>
@@ -3557,6 +3574,7 @@
       <packagereq type="default">perl-IPC-Run</packagereq>
       <packagereq type="default">perl-IPC-Run3</packagereq>
       <packagereq type="default">perl-JSON-XS</packagereq>
+      <packagereq type="default">perl-ldns</packagereq>
       <packagereq type="default">perl-List-MoreUtils</packagereq>
       <packagereq type="default">perl-List-MoreUtils-XS</packagereq>
       <packagereq type="default">perl-Locale-gettext</packagereq>
@@ -3627,6 +3645,7 @@
       <packagereq type="default">perl-XML-Twig</packagereq>
       <packagereq type="default">perl-YAML-LibYAML</packagereq>
       <packagereq type="default">perl-YAML-Tiny</packagereq>
+      <packagereq type="default" arch="aarch64,s390x,x86_64">php-libguestfs</packagereq>
       <packagereq type="default">plexus-archiver</packagereq>
       <packagereq type="default">plexus-build-api</packagereq>
       <packagereq type="default">plexus-compiler</packagereq>
@@ -3668,6 +3687,7 @@
       <packagereq type="default">python-sphinx-doc</packagereq>
       <packagereq type="default">python-sphinx_rtd_theme-doc</packagereq>
       <packagereq type="default">python3-babeltrace</packagereq>
+      <packagereq type="default">python3-cairo-devel</packagereq>
       <packagereq type="default">python3-Cython</packagereq>
       <packagereq type="default">emacs-cython-mode</packagereq>
       <packagereq type="default">python3-debug</packagereq>
@@ -3677,6 +3697,7 @@
       <packagereq type="default">python3-imagesize</packagereq>
       <packagereq type="default">python3-ipatests</packagereq>
       <packagereq type="default">python3-javapackages</packagereq>
+      <packagereq type="default">python3-ldns</packagereq>
       <packagereq type="default">python3-lesscpy</packagereq>
       <packagereq type="default">python3-libnmstate</packagereq>
       <packagereq type="default">python3-libfdt</packagereq>
@@ -3713,6 +3734,7 @@
       <packagereq type="default">qgpgme</packagereq>
       <packagereq type="default">qgpgme-devel</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
+      <packagereq type="default">qpdf</packagereq>
       <packagereq type="default">qt5-devel</packagereq>
       <packagereq type="default">qt5-qtbase-static</packagereq>
       <packagereq type="default">qt5-qtdeclarative-static</packagereq>
@@ -3844,6 +3866,8 @@
       <packagereq type="default">xorg-x11-server-devel</packagereq>
       <packagereq type="default">xorg-x11-util-macros</packagereq>
       <packagereq type="default">xorg-x11-xtrans-devel</packagereq>
+      <packagereq type="default">xxhash-devel</packagereq>
+      <packagereq type="default">xxhash-doc</packagereq>
       <packagereq type="default">xz-java</packagereq>
       <packagereq type="default">xz-lzma-compat</packagereq>
       <packagereq type="default">yajl-devel</packagereq>
@@ -3952,7 +3976,7 @@
       <groupid>virtualization-tools</groupid>
     </optionlist>
   </environment>
-  <environment variant="BaseOS">
+  <!--  <environment variant="BaseOS">
     <id>cloud-server-environment</id>
     <_name>Cloud Server</_name>
     <_description>A server install with components needed to run in a cloud environment.</_description>
@@ -3972,8 +3996,8 @@
       <groupid>smb-server</groupid>
       <groupid>web-server</groupid>
     </optionlist>
-  </environment>
-  <environment variant="BaseOS">
+  </environment> -->
+<!--  <environment variant="BaseOS">
     <id>web-server-environment</id>
     <_name>Web Server</_name>
     <_description>Server for serving static and dynamic internet content.</_description>
@@ -3988,8 +4012,8 @@
       <groupid>python-web</groupid>
       <groupid arch="x86_64,ppc64le,aarch64">guest-agents</groupid>
     </optionlist>
-  </environment>
-  <environment>
+  </environment> -->
+<!--  <environment>
     <id>infrastructure-server-environment</id>
     <_name>Infrastructure Server</_name>
     <_description>Server for operating network infrastructure services.</_description>
@@ -4023,8 +4047,8 @@
       <groupid>remote-system-management</groupid>
       <groupid>virtualization-hypervisor</groupid>
     </optionlist>
-  </environment>
-  <environment arch="x86_64,ppc64le" variant="AppStream">
+  </environment> -->
+<!--  <environment arch="x86_64,ppc64le" variant="AppStream">
     <id>developer-workstation-environment</id>
     <_name>Development and Creative Workstation</_name>
     <_description>Workstation for software, hardware, graphics, or content development.</_description>
@@ -4082,8 +4106,8 @@
       <groupid>large-systems</groupid>
       <groupid>remote-desktop-clients</groupid>
     </optionlist>
-  </environment>
-  <environment arch="x86_64,ppc64le" variant="AppStream">
+  </environment> -->
+<!--  <environment arch="x86_64,ppc64le" variant="AppStream">
     <id>gnome-desktop-environment</id>
     <_name>GNOME Desktop</_name>
     <_description>GNOME is a highly intuitive and user-friendly desktop environment.</_description>
@@ -4115,7 +4139,7 @@
       <groupid>backup-client</groupid>
       <groupid>remote-desktop-clients</groupid>
     </optionlist>
-  </environment>
+  </environment> -->
   <environment arch="x86_64,ppc64le" variant="AppStream">
     <id>workstation-product-environment</id>
     <_name>Workstation</_name>
@@ -4233,7 +4257,7 @@
       <groupid>base-x</groupid>
     </grouplist>
   </category>
-  <category>
+  <!--  <category>
     <id>databases</id>
     <_name>Databases</_name>
     <_description>SQL Databases.</_description>
@@ -4244,7 +4268,7 @@
       <groupid>postgresql</groupid>
       <groupid>postgresql-client</groupid>
     </grouplist>
-  </category>
+  </category> -->
   <category>
     <id>apps</id>
     <_name>Applications</_name>
