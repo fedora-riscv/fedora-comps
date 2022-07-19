@@ -2546,6 +2546,7 @@
     <packagelist>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">gnome-boxes</packagereq>
       <packagereq type="mandatory">gnome-connections</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
       <packagereq type="mandatory">gnome-initial-setup</packagereq>
