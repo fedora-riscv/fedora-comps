@@ -2603,7 +2603,7 @@
       <packagereq type="default">gvfs-mtp</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">libcanberra-gtk3</packagereq>
-      <packagereq type="default">libproxy-webkitgtk4</packagereq>
+      <packagereq type="default">libproxy-duktape</packagereq>
       <packagereq type="default">librsvg2</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
       <packagereq type="default">mesa-dri-drivers</packagereq>
