@@ -3683,6 +3683,8 @@
       <packagereq type="default">py3c-devel</packagereq>
       <packagereq type="default">py3c-doc</packagereq>
       <packagereq type="default">pybind11-devel</packagereq>
+      <!-- Pylint is unwanted, but currently needed -->
+      <packagereq type="default">pylint</packagereq>
       <packagereq type="default">pyparsing-doc</packagereq>
       <packagereq type="default">pyproject-rpm-macros</packagereq>
       <packagereq type="default">python-cups-doc</packagereq>
