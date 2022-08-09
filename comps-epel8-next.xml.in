@@ -212,6 +212,7 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
+      <packagereq type="mandatory">sddm-x11</packagereq>
     </packagelist>
   </group>
   <group>
