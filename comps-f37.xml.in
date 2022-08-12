@@ -2902,6 +2902,9 @@
       <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
+      <packagereq type="default">amd-gpu-firmware</packagereq>
+      <packagereq type="default">intel-gpu-firmware</packagereq>
+      <packagereq type="default">nvidia-gpu-firmware</packagereq>
       <packagereq type="default">iwl100-firmware</packagereq>
       <packagereq type="default">iwl1000-firmware</packagereq>
       <packagereq type="default">iwl105-firmware</packagereq>
@@ -5634,6 +5637,9 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">amd-gpu-firmware</packagereq>
+      <packagereq type="mandatory">intel-gpu-firmware</packagereq>
+      <packagereq type="mandatory">nvidia-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
       <packagereq type="mandatory">microcode_ctl</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
