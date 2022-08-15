@@ -217,9 +217,7 @@
       <packagereq type="default">timidity++</packagereq>
       <packagereq type="default">tuxguitar</packagereq>
       <packagereq type="default">vmpk</packagereq>
-      <packagereq type="default">whysynth-dssi</packagereq>
       <packagereq type="default">wireplumber</packagereq>
-      <packagereq type="default">xsynth-dssi</packagereq>
       <packagereq type="default">yoshimi</packagereq>
       <packagereq type="default">zita-at1</packagereq>
       <packagereq type="default">zita-rev1</packagereq>
