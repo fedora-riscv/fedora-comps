@@ -11,13 +11,14 @@
 # Michelle Kim <mkim@redhat.com>, 2002
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # simmon <simmon@nplob.com>, 2021.
+# 김인수 <simmon@nplob.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2021-11-11 08:05+0000\n"
-"Last-Translator: simmon <simmon@nplob.com>\n"
+"PO-Revision-Date: 2022-08-29 15:19+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
 "Language: ko\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.8.1\n"
+"X-Generator: Weblate 4.14\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -1917,7 +1918,7 @@ msgstr "기업용 리눅스 데스크탑 플랫폼에서 실행하기 위해 응
 
 #: ../comps-epel7.xml.in.h:54
 msgid "Development tools"
-msgstr "개발 도구"
+msgstr "개발용 도구"
 
 #: ../comps-epel7.xml.in.h:55
 msgid "A basic development environment."
