@@ -61,7 +61,7 @@
       <packagereq type="mandatory">dosfstools</packagereq>
       <packagereq type="mandatory">dracut-network</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
-      <packagereq arch="aarch64,armhfp,x86_64" type="mandatory">efibootmgr</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">efibootmgr</packagereq>
       <packagereq type="mandatory">exfatprogs</packagereq>
       <packagereq type="mandatory">fcoe-utils</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
@@ -69,18 +69,15 @@
       <packagereq type="mandatory">glibc-all-langpacks</packagereq>
       <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64</packagereq>
       <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64-cdboot</packagereq>
-      <packagereq arch="armhfp" type="mandatory">grub2-efi-arm</packagereq>
-      <packagereq arch="armhfp" type="mandatory">grub2-efi-arm-cdboot</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32-cdboot</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-x64</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-x64-cdboot</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-pc</packagereq>
-      <packagereq arch="ppc64" type="mandatory">grub2-ppc64</packagereq>
       <packagereq arch="ppc64le" type="mandatory">grub2-ppc64le</packagereq>
-      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-tools-efi</packagereq>
-      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
       <packagereq type="mandatory">kbd-legacy</packagereq>
@@ -107,9 +104,8 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq arch="armhfp,aarch64">arm-image-installer</packagereq>
-      <packagereq arch="armhfp,aarch64">cloud-utils-growpart</packagereq>
-      <packagereq arch="armhfp">uboot-images-armv7</packagereq>
+      <packagereq arch="aarch64">arm-image-installer</packagereq>
+      <packagereq arch="aarch64">cloud-utils-growpart</packagereq>
       <packagereq arch="aarch64">uboot-images-armv8</packagereq>
     </packagelist>
   </group>
@@ -280,7 +276,6 @@
       <packagereq>mesa-vulkan-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
       <packagereq>xorg-x11-drv-amdgpu</packagereq>
-      <packagereq arch="armhfp">xorg-x11-drv-armada</packagereq>
       <packagereq arch="aarch64">xorg-x11-drv-armsoc</packagereq>
       <packagereq>xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
@@ -477,17 +472,15 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq arch="aarch64,armhfp,x86_64" type="mandatory">efibootmgr</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">efibootmgr</packagereq>
       <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64</packagereq>
-      <packagereq arch="armhfp" type="mandatory">grub2-efi-arm</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-x64</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-pc</packagereq>
-      <packagereq arch="ppc64" type="mandatory">grub2-ppc64</packagereq>
       <packagereq arch="ppc64le" type="mandatory">grub2-ppc64le</packagereq>
-      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-tools-efi</packagereq>
-      <packagereq arch="aarch64,armhfp,ppc64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
@@ -638,9 +631,8 @@
       <packagereq type="optional">dracut-config-generic</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">initscripts</packagereq>
-      <packagereq arch="armhfp" type="optional">uboot-images-armv7</packagereq>
       <packagereq arch="aarch64" type="optional">uboot-images-armv8</packagereq>
-      <packagereq arch="armhfp,aarch64" type="optional">uboot-tools</packagereq>
+      <packagereq arch="aarch64" type="optional">uboot-tools</packagereq>
     </packagelist>
   </group>
   <!--
@@ -2920,8 +2912,6 @@
       <packagereq type="default">iwl6050-firmware</packagereq>
       <packagereq type="default">iwl7260-firmware</packagereq>
       <packagereq type="default">iwlax2xx-firmware</packagereq>
-      <packagereq arch="armhfp" type="default">libertas-sd8686-firmware</packagereq>
-      <packagereq arch="armhfp" type="default">libertas-sd8787-firmware</packagereq>
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>

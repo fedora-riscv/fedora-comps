@@ -5,7 +5,7 @@
 # packages that do not currently exist in Rawhide. It is arch-aware. It
 # expects to be run on a Fedora system with network access, as it will
 # try to query the 'rawhide' dnf repo to get lists of currently-existing
-# packages.
+# packages. You will need fedora-repos-rawhide and python3-lxml.
 
 import glob
 import argparse
@@ -13,7 +13,7 @@ import subprocess
 import lxml.etree as ET
 from collections import defaultdict
 
-ARCHES = ('aarch64', 'armv7hl', 'ppc64le', 's390x', 'x86_64')
+ARCHES = ('aarch64', 'ppc64le', 's390x', 'x86_64')
 
 parser = argparse.ArgumentParser(description='Check the comps file for missing packages and packages missing on architectures')
 parser.add_argument('--update', dest='update', action='store_true', default=False,
@@ -45,7 +45,7 @@ for pkgreq in pkgreqs:
     present = []
 
     # arches the package is listed for (if no 'arch' key, it's listed for all)
-    reqarches = pkgreq.get('arch', '').replace('armhfp', 'armv7hl').replace('ppc64,','')
+    reqarches = pkgreq.get('arch', '')
     if reqarches:
         reqarches = reqarches.split(',')
     else:
