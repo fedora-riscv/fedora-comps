@@ -49,4 +49,4 @@ When changing the packages, make sure the file is sorted. This helps to make it 
 
 For more information, including rules on how and when to edit comps, see the [Fedora project wiki](https://fedoraproject.org/wiki/How_to_use_and_edit_comps.xml_for_package_groups).
 
-Bugs against comps can be filed in [bugzilla](http://bugzilla.redhat.com/).
+Bugs against comps can be filed as Pagure [issues](https://pagure.io/fedora-comps/issues).
