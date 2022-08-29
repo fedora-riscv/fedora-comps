@@ -732,7 +732,25 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">bluedevil</packagereq>
+      <packagereq type="mandatory">kactivitymanagerd</packagereq>
+      <packagereq type="mandatory">kdecoration</packagereq>
       <packagereq type="mandatory">kdelibs</packagereq>
+      <packagereq type="mandatory">kinfocenter</packagereq>
+      <packagereq type="mandatory">kscreen</packagereq>
+      <packagereq type="mandatory">kscreenlocker</packagereq>
+      <packagereq type="mandatory">kwayland-integration</packagereq>
+      <packagereq type="mandatory">kwin</packagereq>
+      <packagereq type="mandatory">layer-shell-qt</packagereq>
+      <packagereq type="mandatory">plasma-breeze</packagereq>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-discover</packagereq>
+      <packagereq type="mandatory">plasma-integration</packagereq>
+      <packagereq type="mandatory">plasma-nm</packagereq>
+      <packagereq type="mandatory">plasma-systemsettings</packagereq>
+      <packagereq type="mandatory">plasma-thunderbolt</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">polkit-kde</packagereq>
       <packagereq type="mandatory">qt5-qtwayland</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
