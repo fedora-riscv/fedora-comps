@@ -5737,7 +5737,7 @@
       <packagereq type="default">mesa-libGL-devel</packagereq>
       <packagereq type="default">netpbm-devel</packagereq>
       <packagereq type="default">pixman-devel</packagereq>
-      <packagereq type="default">SDL-devel</packagereq>
+      <packagereq type="default">SDL2-devel</packagereq>
       <packagereq type="default">Xaw3d-devel</packagereq>
       <packagereq type="default">xorg-x11-docs</packagereq>
       <packagereq type="default">xorg-x11-xtrans-devel</packagereq>
