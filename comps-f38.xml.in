@@ -17,7 +17,7 @@
       <packagereq type="default">openscad-MCAD</packagereq>
       <packagereq type="default">printrun</packagereq>
       <packagereq type="default">prusa-slicer</packagereq>
-      <packagereq type="default">slic3r</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">slic3r</packagereq>
       <packagereq type="optional">repsnapper</packagereq>
     </packagelist>
   </group>
@@ -129,17 +129,17 @@
       <packagereq type="default">ams</packagereq>
       <packagereq type="default">ardour6</packagereq>
       <packagereq type="default">arpage</packagereq>
-      <packagereq type="default">audacity</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">audacity</packagereq>
       <packagereq type="default">bristol</packagereq>
       <packagereq type="default">calf</packagereq>
       <packagereq type="default">Carla</packagereq>
       <packagereq type="default">drumkv1</packagereq>
       <packagereq type="default">dssi</packagereq>
-      <packagereq type="default">ffado</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">ffado</packagereq>
       <packagereq type="default">fluid-soundfont-gm</packagereq>
       <packagereq type="default">fluidsynth</packagereq>
       <packagereq type="default">fluidsynth-dssi</packagereq>
-      <packagereq type="default">frescobaldi</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">frescobaldi</packagereq>
       <packagereq type="default">guitarix</packagereq>
       <packagereq type="default">harmonyseq</packagereq>
       <packagereq type="default">hexter-dssi</packagereq>
@@ -275,18 +275,18 @@
       <packagereq>mesa-dri-drivers</packagereq>
       <packagereq>mesa-vulkan-drivers</packagereq>
       <packagereq>plymouth-system-theme</packagereq>
-      <packagereq>xorg-x11-drv-amdgpu</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xorg-x11-drv-amdgpu</packagereq>
       <packagereq arch="aarch64">xorg-x11-drv-armsoc</packagereq>
-      <packagereq>xorg-x11-drv-ati</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xorg-x11-drv-ati</packagereq>
       <packagereq>xorg-x11-drv-evdev</packagereq>
-      <packagereq>xorg-x11-drv-fbdev</packagereq>
-      <packagereq>xorg-x11-drv-intel</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xorg-x11-drv-fbdev</packagereq>
+      <packagereq arch="x86_64">xorg-x11-drv-intel</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
-      <packagereq>xorg-x11-drv-nouveau</packagereq>
-      <packagereq>xorg-x11-drv-openchrome</packagereq>
-      <packagereq>xorg-x11-drv-qxl</packagereq>
-      <packagereq>xorg-x11-drv-vesa</packagereq>
-      <packagereq>xorg-x11-drv-vmware</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xorg-x11-drv-nouveau</packagereq>
+      <packagereq arch="x86_64">xorg-x11-drv-openchrome</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xorg-x11-drv-qxl</packagereq>
+      <packagereq arch="x86_64">xorg-x11-drv-vesa</packagereq>
+      <packagereq arch="x86_64">xorg-x11-drv-vmware</packagereq>
       <packagereq>xorg-x11-drv-wacom</packagereq>
       <packagereq>xorg-x11-server-Xorg</packagereq>
       <packagereq>xorg-x11-xauth</packagereq>
@@ -452,7 +452,7 @@
       <packagereq type="mandatory">slick-greeter</packagereq>
       <packagereq type="mandatory">slick-greeter-cinnamon</packagereq>
       <packagereq type="mandatory">system-config-printer</packagereq>
-      <packagereq type="mandatory">thunderbird</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">thunderbird</packagereq>
       <packagereq type="mandatory">tmux</packagereq>
       <packagereq type="mandatory">tmux-powerline</packagereq>
       <packagereq type="mandatory">transmission</packagereq>
@@ -548,7 +548,7 @@
       <packagereq>compiz</packagereq>
       <packagereq>compiz-bcop</packagereq>
       <packagereq>compiz-manager</packagereq>
-      <packagereq>compiz-plugins-experimental</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">compiz-plugins-experimental</packagereq>
       <packagereq>compiz-plugins-extra</packagereq>
       <packagereq>compiz-plugins-main</packagereq>
       <packagereq>compizconfig-python</packagereq>
@@ -650,7 +650,7 @@
     <packagelist>
       <packagereq type="default">evolution</packagereq>
       <packagereq type="default">firefox</packagereq>
-      <packagereq type="default">thunderbird</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">thunderbird</packagereq>
     </packagelist>
   </group>
   <group>
@@ -706,15 +706,15 @@
       <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq type="mandatory">gnome-themes-extra</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-amdgpu</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-ati</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-amdgpu</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-ati</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-evdev</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-fbdev</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-intel</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-fbdev</packagereq>
+      <packagereq arch="x86_64" type="mandatory">xorg-x11-drv-intel</packagereq>
       <packagereq type="mandatory">xorg-x11-drv-libinput</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-nouveau</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-qxl</packagereq>
-      <packagereq type="mandatory">xorg-x11-drv-vesa</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-nouveau</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-qxl</packagereq>
+      <packagereq arch="x86_64" type="mandatory">xorg-x11-drv-vesa</packagereq>
       <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
       <packagereq type="mandatory">xorg-x11-xauth</packagereq>
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
@@ -787,7 +787,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">fprintd-pam</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">fprintd-pam</packagereq>
     </packagelist>
   </group>
   <group>
@@ -808,7 +808,7 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq basearchonly="true" type="mandatory">ldc</packagereq>
+      <packagereq basearchonly="true" arch="aarch64,x86_64" type="mandatory">ldc</packagereq>
       <packagereq basearchonly="true" type="mandatory">ldc-druntime</packagereq>
       <packagereq basearchonly="true" type="mandatory">ldc-druntime-devel</packagereq>
       <packagereq basearchonly="true" type="mandatory">ldc-phobos-devel</packagereq>
@@ -831,7 +831,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">chromium</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">chromium</packagereq>
       <packagereq type="default">deepin-calculator</packagereq>
       <packagereq type="default">deepin-calendar</packagereq>
       <packagereq type="default">deepin-desktop</packagereq>
@@ -886,8 +886,8 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="conditional" requires="blender">blender-luxcorerender</packagereq>
-      <packagereq type="conditional" requires="darktable">darktable-tools-noise</packagereq>
+      <packagereq arch="x86_64" type="conditional" requires="blender">blender-luxcorerender</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="conditional" requires="darktable">darktable-tools-noise</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-data-extras</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-dds-plugin</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-elsamuko</packagereq>
@@ -908,15 +908,15 @@
       <packagereq type="conditional" requires="gimp">sane-backends-drivers-scanners</packagereq>
       <packagereq type="conditional" requires="scribus">scribus-generator</packagereq>
       <packagereq type="conditional" requires="gimp">xsane-gimp</packagereq>
-      <packagereq type="conditional" requires="blender">YafaRay-blender</packagereq>
+      <packagereq arch="x86_64" type="conditional" requires="blender">YafaRay-blender</packagereq>
       <packagereq type="default">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="default">adobe-source-sans-pro-fonts</packagereq>
       <packagereq type="default">astigmatic-grand-hotel-fonts</packagereq>
-      <packagereq type="default">audacity</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">audacity</packagereq>
       <packagereq type="default">blender</packagereq>
       <packagereq type="default">campivisivi-titillium-fonts</packagereq>
       <packagereq type="default">colord-extra-profiles</packagereq>
-      <packagereq type="default">darktable</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">darktable</packagereq>
       <packagereq type="default">dia</packagereq>
       <packagereq type="default">entangle</packagereq>
       <packagereq type="default">fontforge</packagereq>
@@ -942,7 +942,7 @@
       <packagereq type="default">scribus</packagereq>
       <packagereq type="default">shotwell</packagereq>
       <packagereq type="default">sparkleshare</packagereq>
-      <packagereq type="default">synfigstudio</packagereq>
+      <packagereq arch="aarch64,s390x,x86_64" type="default">synfigstudio</packagereq>
       <packagereq type="default">typetype-molot-fonts</packagereq>
       <packagereq type="default">xournalpp</packagereq>
       <packagereq type="optional">calligra-karbon</packagereq>
@@ -1257,7 +1257,7 @@
       <packagereq type="default">electric</packagereq>
       <packagereq type="default">emacs-vregs-mode</packagereq>
       <packagereq type="default">espresso-ab</packagereq>
-      <packagereq type="default">flterm</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">flterm</packagereq>
       <packagereq type="default">freeDiameter</packagereq>
       <packagereq type="default">fritzing</packagereq>
       <packagereq type="default">gerbv</packagereq>
@@ -1275,13 +1275,13 @@
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">hct</packagereq>
       <packagereq type="default">hiredis</packagereq>
-      <packagereq type="default">icaro</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">icaro</packagereq>
       <packagereq type="default">icestorm</packagereq>
       <packagereq type="default">irsim</packagereq>
       <packagereq type="default">iverilog</packagereq>
-      <packagereq type="default">kicad</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">kicad</packagereq>
       <packagereq type="default">ktechlab</packagereq>
-      <packagereq type="default">LabPlot</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">LabPlot</packagereq>
       <packagereq type="default">linsmith</packagereq>
       <packagereq type="default">magic</packagereq>
       <packagereq type="default">magic-doc</packagereq>
@@ -1321,13 +1321,13 @@
       <packagereq type="default">uisp</packagereq>
       <packagereq type="default">verilator</packagereq>
       <packagereq type="default">vhd2vl</packagereq>
-      <packagereq type="default">vrq</packagereq>
+      <packagereq arch="x86_64" type="default">vrq</packagereq>
       <packagereq type="default">xcircuit</packagereq>
       <packagereq type="default">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-1-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-ISO8859-9-100dpi</packagereq>
       <packagereq type="default">xorg-x11-fonts-Type1</packagereq>
-      <packagereq type="default">yosys</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">yosys</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">minicom</packagereq>
     </packagelist>
@@ -1342,15 +1342,15 @@
       <packagereq type="mandatory">gnuplot</packagereq>
       <packagereq type="mandatory">gsl</packagereq>
       <packagereq type="mandatory">gsl-devel</packagereq>
-      <packagereq type="mandatory">maxima</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">maxima</packagereq>
       <packagereq type="mandatory">octave</packagereq>
       <packagereq type="mandatory">python3-matplotlib</packagereq>
       <packagereq type="mandatory">python3-scipy</packagereq>
       <packagereq type="mandatory">R</packagereq>
-      <packagereq type="mandatory">texmaker</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">texmaker</packagereq>
       <packagereq type="mandatory">transfig</packagereq>
       <packagereq type="mandatory">units</packagereq>
-      <packagereq type="mandatory">wxMaxima</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">wxMaxima</packagereq>
       <packagereq type="mandatory">xfig</packagereq>
       <packagereq type="optional">4ti2</packagereq>
       <packagereq type="optional">alt-ergo</packagereq>
@@ -2594,7 +2594,7 @@
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
       <packagereq type="default">evince-nautilus</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
@@ -2617,7 +2617,7 @@
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
       <packagereq type="default">gnome-weather</packagereq>
-      <packagereq type="default">gvfs-afc</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">gvfs-afc</packagereq>
       <packagereq type="default">gvfs-afp</packagereq>
       <packagereq type="default">gvfs-archive</packagereq>
       <packagereq type="default">gvfs-fuse</packagereq>
@@ -2855,7 +2855,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>open-vm-tools</packagereq>
+      <packagereq arch="aarch64,x86_64">open-vm-tools</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
     </packagelist>
   </group>
@@ -2866,12 +2866,12 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>hyperv-daemons</packagereq>
-      <packagereq>open-vm-tools-desktop</packagereq>
+      <packagereq arch="aarch64,x86_64">hyperv-daemons</packagereq>
+      <packagereq arch="aarch64,x86_64">open-vm-tools-desktop</packagereq>
       <packagereq>qemu-guest-agent</packagereq>
       <packagereq>spice-vdagent</packagereq>
       <packagereq>spice-webdavd</packagereq>
-      <packagereq>virtualbox-guest-additions</packagereq>
+      <packagereq arch="x86_64">virtualbox-guest-additions</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2969,7 +2969,7 @@
       <packagereq>ghc-rpm-macros</packagereq>
       <packagereq>ghcid</packagereq>
       <packagereq>haskell-platform</packagereq>
-      <packagereq>hlint</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">hlint</packagereq>
       <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
     </packagelist>
   </group>
@@ -3029,7 +3029,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">alacritty</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">alacritty</packagereq>
       <packagereq type="default">arandr</packagereq>
       <packagereq type="default">conky</packagereq>
       <packagereq type="default">i3status-rs</packagereq>
@@ -3061,7 +3061,7 @@
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
-      <packagereq type="default">ibus-typing-booster</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
       <packagereq type="default">imsettings-systemd</packagereq>
@@ -3231,7 +3231,7 @@
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
-      <packagereq type="default">akregator</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">akregator</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">breeze-icon-theme</packagereq>
       <packagereq type="default">colord-kde</packagereq>
@@ -3239,12 +3239,12 @@
       <packagereq type="default">dnfdragora</packagereq>
       <packagereq type="default">dolphin</packagereq>
       <packagereq type="default">firewall-config</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
       <packagereq type="default">gwenview</packagereq>
       <packagereq type="default">initial-setup-gui</packagereq>
-      <packagereq type="default">kaddressbook</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kaddressbook</packagereq>
       <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
@@ -3262,18 +3262,18 @@
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kf5-kipi-plugins</packagereq>
       <packagereq type="default">kfind</packagereq>
-      <packagereq type="default">kgpg</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kgpg</packagereq>
       <packagereq type="default">khelpcenter</packagereq>
       <packagereq type="default">khotkeys</packagereq>
       <packagereq type="default">kinfocenter</packagereq>
       <packagereq type="default">kmag</packagereq>
-      <packagereq type="default">kmail</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kmail</packagereq>
       <packagereq type="default">kmenuedit</packagereq>
       <packagereq type="default">kmousetool</packagereq>
       <packagereq type="default">kmouth</packagereq>
       <packagereq type="default">konsole5</packagereq>
-      <packagereq type="default">kontact</packagereq>
-      <packagereq type="default">korganizer</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kontact</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">korganizer</packagereq>
       <packagereq type="default">kscreen</packagereq>
       <packagereq type="default">kscreenlocker</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
@@ -3323,8 +3323,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>blinken</packagereq>
-      <packagereq>cantor</packagereq>
-      <packagereq>kalgebra</packagereq>
+      <packagereq arch="aarch64,x86_64">cantor</packagereq>
+      <packagereq arch="aarch64,x86_64">kalgebra</packagereq>
       <packagereq>kalzium</packagereq>
       <packagereq>kanagram</packagereq>
       <packagereq>kbruch</packagereq>
@@ -3339,7 +3339,7 @@
       <packagereq>kturtle</packagereq>
       <packagereq>kwordquiz</packagereq>
       <packagereq>marble</packagereq>
-      <packagereq>parley</packagereq>
+      <packagereq arch="aarch64,x86_64">parley</packagereq>
       <packagereq>rocs</packagereq>
       <packagereq>step</packagereq>
     </packagelist>
@@ -3428,17 +3428,17 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>kaccounts-integration</packagereq>
-      <packagereq>kaccounts-providers</packagereq>
-      <packagereq>ktp-accounts-kcm</packagereq>
+      <packagereq arch="aarch64,x86_64">kaccounts-providers</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-accounts-kcm</packagereq>
       <packagereq>ktp-approver</packagereq>
-      <packagereq>ktp-auth-handler</packagereq>
-      <packagereq>ktp-contact-list</packagereq>
-      <packagereq>ktp-contact-runner</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-auth-handler</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-contact-list</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-contact-runner</packagereq>
       <packagereq>ktp-desktop-applets</packagereq>
-      <packagereq>ktp-filetransfer-handler</packagereq>
-      <packagereq>ktp-kded-integration-module</packagereq>
-      <packagereq>ktp-send-file</packagereq>
-      <packagereq>ktp-text-ui</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-filetransfer-handler</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-kded-integration-module</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-send-file</packagereq>
+      <packagereq arch="aarch64,x86_64">ktp-text-ui</packagereq>
       <packagereq>signon-kwallet-extension</packagereq>
     </packagelist>
   </group>
@@ -3718,7 +3718,7 @@
       <packagereq>breeze-gtk</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
-      <packagereq>falkon</packagereq>
+      <packagereq arch="aarch64,x86_64">falkon</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lxqt-about</packagereq>
@@ -3894,7 +3894,7 @@
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
       <packagereq>gtk2-engines</packagereq>
       <packagereq>gucharmap</packagereq>
-      <packagereq>gvfs-afc</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">gvfs-afc</packagereq>
       <packagereq>gvfs-afp</packagereq>
       <packagereq>gvfs-archive</packagereq>
       <packagereq>gvfs-fuse</packagereq>
@@ -3973,7 +3973,7 @@
       <packagereq>system-config-language</packagereq>
       <packagereq>system-config-printer</packagereq>
       <packagereq>system-config-printer-applet</packagereq>
-      <packagereq>thunderbird</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">thunderbird</packagereq>
       <packagereq>transmission-gtk</packagereq>
       <packagereq>usermode-gtk</packagereq>
       <packagereq>vim-enhanced</packagereq>
@@ -4001,7 +4001,7 @@
       <packagereq type="default">avr-libc</packagereq>
       <packagereq type="default">avr-libc-doc</packagereq>
       <packagereq type="default">clang</packagereq>
-      <packagereq type="default">flterm</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">flterm</packagereq>
       <packagereq type="default">gcc</packagereq>
       <packagereq type="default">gd-devel</packagereq>
       <packagereq type="default">gtkwave</packagereq>
@@ -4036,7 +4036,7 @@
       <packagereq type="conditional" requires="mingw32-nsis">mingw32-nsiswrapper</packagereq>
       <packagereq type="default">mingw32-crossreport</packagereq>
       <packagereq type="default">mingw32-nsis</packagereq>
-      <packagereq type="default">wine</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">wine</packagereq>
       <packagereq type="optional">mingw32-atk</packagereq>
       <packagereq type="optional">mingw32-bzip2</packagereq>
       <packagereq type="optional">mingw32-cairo</packagereq>
@@ -4368,7 +4368,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>calls</packagereq>
-      <packagereq>chatty</packagereq>
+      <packagereq arch="aarch64,s390x,x86_64">chatty</packagereq>
       <packagereq>cryptsetup</packagereq>
       <packagereq>default-editor</packagereq>
       <packagereq>dnf</packagereq>
@@ -4397,7 +4397,7 @@
       <packagereq>phoc</packagereq>
       <packagereq>phosh</packagereq>
       <packagereq>pinentry-gnome3</packagereq>
-      <packagereq>squeekboard</packagereq>
+      <packagereq arch="aarch64,x86_64">squeekboard</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>systemd-udev</packagereq>
       <packagereq>totem</packagereq>
@@ -4444,7 +4444,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>open-vm-tools</packagereq>
+      <packagereq arch="aarch64,x86_64">open-vm-tools</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4583,7 +4583,7 @@
       <packagereq type="default">mrpt-doc</packagereq>
       <packagereq type="default">mrpt-libs</packagereq>
       <packagereq type="default">opencv</packagereq>
-      <packagereq type="default">openni-primesense</packagereq>
+      <packagereq arch="x86_64" type="default">openni-primesense</packagereq>
       <packagereq type="default">pcl</packagereq>
       <packagereq type="default">player</packagereq>
       <packagereq type="default">player-doc</packagereq>
@@ -4701,7 +4701,7 @@
       <packagereq type="default">bmon</packagereq>
       <packagereq type="default">chkrootkit</packagereq>
       <packagereq type="default">ciphertest</packagereq>
-      <packagereq type="default">cmospwd</packagereq>
+      <packagereq arch="x86_64" type="default">cmospwd</packagereq>
       <packagereq type="default">cowpatty</packagereq>
       <packagereq type="default">dc3dd</packagereq>
       <packagereq type="default">dcfldd</packagereq>
@@ -5074,18 +5074,18 @@
       <packagereq>exfatprogs</packagereq>
       <packagereq>file</packagereq>
       <packagereq>fpaste</packagereq>
-      <packagereq>fprintd-pam</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">fprintd-pam</packagereq>
       <packagereq>gnupg2</packagereq>
       <packagereq>hunspell</packagereq>
       <packagereq>iptstate</packagereq>
-      <packagereq>irqbalance</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">irqbalance</packagereq>
       <packagereq>logrotate</packagereq>
       <packagereq>lsof</packagereq>
       <packagereq>mailcap</packagereq>
       <packagereq>man-pages</packagereq>
-      <packagereq>mcelog</packagereq>
+      <packagereq arch="x86_64">mcelog</packagereq>
       <packagereq>mdadm</packagereq>
-      <packagereq>microcode_ctl</packagereq>
+      <packagereq arch="x86_64">microcode_ctl</packagereq>
       <packagereq>mtr</packagereq>
       <packagereq>net-tools</packagereq>
       <packagereq>nfs-utils</packagereq>
@@ -5230,7 +5230,7 @@
       <packagereq type="default">openvpn</packagereq>
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">screen</packagereq>
-      <packagereq type="default">setserial</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">setserial</packagereq>
       <packagereq type="default">tigervnc</packagereq>
       <packagereq type="default">vpnc</packagereq>
       <packagereq type="default">xdelta</packagereq>
@@ -5568,7 +5568,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">nss-altfiles</packagereq>
-      <packagereq type="mandatory">ostree-grub2</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">ostree-grub2</packagereq>
       <packagereq type="mandatory">rpm-ostree</packagereq>
     </packagelist>
   </group>
@@ -5584,7 +5584,7 @@
       <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">intel-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
-      <packagereq type="mandatory">microcode_ctl</packagereq>
+      <packagereq arch="x86_64" type="mandatory">microcode_ctl</packagereq>
       <packagereq type="mandatory">nvidia-gpu-firmware</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd-udev</packagereq>
@@ -5634,14 +5634,14 @@
       <packagereq type="default">ibus-libpinyin</packagereq>
       <packagereq type="default">ibus-libzhuyin</packagereq>
       <packagereq type="default">ibus-m17n</packagereq>
-      <packagereq type="default">ibus-typing-booster</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">iptstate</packagereq>
       <packagereq type="default">logrotate</packagereq>
       <packagereq type="default">lrzsz</packagereq>
       <packagereq type="default">lsof</packagereq>
       <packagereq type="default">mailcap</packagereq>
       <packagereq type="default">man-pages</packagereq>
-      <packagereq type="default">mcelog</packagereq>
+      <packagereq arch="x86_64" type="default">mcelog</packagereq>
       <packagereq type="default">mdadm</packagereq>
       <packagereq type="default">mediawriter</packagereq>
       <packagereq type="default">mtr</packagereq>
@@ -5671,14 +5671,14 @@
       <packagereq type="default">qt5-qtxmlpatterns</packagereq>
       <packagereq type="default">quota</packagereq>
       <packagereq type="default">realmd</packagereq>
-      <packagereq type="default">rhythmbox</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
       <packagereq type="default">rsync</packagereq>
       <packagereq type="default">sos</packagereq>
       <packagereq type="default">sssd</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">tcpdump</packagereq>
-      <packagereq type="default">thermald</packagereq>
+      <packagereq arch="x86_64" type="default">thermald</packagereq>
       <packagereq type="default">time</packagereq>
       <packagereq type="default">toolbox</packagereq>
       <packagereq type="default">traceroute</packagereq>
@@ -5871,7 +5871,7 @@
       <packagereq>xfce4-mount-plugin</packagereq>
       <packagereq>xfce4-netload-plugin</packagereq>
       <packagereq>xfce4-panel-profiles</packagereq>
-      <packagereq>xfce4-sensors-plugin</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64">xfce4-sensors-plugin</packagereq>
       <packagereq>xfce4-systemload-plugin</packagereq>
       <packagereq>xfce4-time-out-plugin</packagereq>
       <packagereq>xfce4-verve-plugin</packagereq>
