@@ -4538,27 +4538,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq type="default">arduino</packagereq>
-      <packagereq type="default">fawkes</packagereq>
-      <packagereq type="default">fawkes-core</packagereq>
-      <packagereq type="default">fawkes-doc</packagereq>
-      <packagereq type="default">fawkes-firevision</packagereq>
-      <packagereq type="default">fawkes-firevision-tools</packagereq>
-      <packagereq type="default">fawkes-guis</packagereq>
-      <packagereq type="default">fawkes-lua</packagereq>
-      <packagereq type="default">fawkes-plugin-bblogger</packagereq>
-      <packagereq type="default">fawkes-plugin-bbsync</packagereq>
-      <packagereq type="default">fawkes-plugin-flite</packagereq>
-      <packagereq type="default">fawkes-plugin-joystick</packagereq>
-      <packagereq type="default">fawkes-plugin-katana</packagereq>
-      <packagereq type="default">fawkes-plugin-laser</packagereq>
-      <packagereq type="default">fawkes-plugin-laser-lines</packagereq>
-      <packagereq type="default">fawkes-plugin-luaagent</packagereq>
-      <packagereq type="default">fawkes-plugin-pantilt</packagereq>
-      <packagereq type="default">fawkes-plugin-refboxcomm</packagereq>
-      <packagereq type="default">fawkes-plugin-skiller</packagereq>
-      <packagereq type="default">fawkes-plugin-ttmainloop</packagereq>
-      <packagereq type="default">fawkes-plugin-webview</packagereq>
-      <packagereq type="default">fawkes-plugin-xmlrpc</packagereq>
       <packagereq type="default">gazebo</packagereq>
       <packagereq type="default">gazebo-doc</packagereq>
       <packagereq type="default">gearbox</packagereq>
@@ -4594,7 +4573,6 @@
       <packagereq type="default">ruby-player</packagereq>
       <packagereq type="default">stage</packagereq>
       <packagereq type="default">urg</packagereq>
-      <packagereq type="optional">fawkes-devel</packagereq>
       <packagereq type="optional">gazebo-devel</packagereq>
       <packagereq type="optional">gearbox-devel</packagereq>
       <packagereq type="optional">libphidget-devel</packagereq>
