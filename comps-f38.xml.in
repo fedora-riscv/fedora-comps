@@ -5094,22 +5094,13 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>sugar-castle</packagereq>
-      <packagereq>sugar-countries</packagereq>
       <packagereq>sugar-deducto</packagereq>
       <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
-      <packagereq>sugar-getiabooks</packagereq>
-      <packagereq>sugar-infoslicer</packagereq>
-      <packagereq>sugar-kuku</packagereq>
-      <packagereq>sugar-labyrinth</packagereq>
       <packagereq>sugar-playgo</packagereq>
       <packagereq>sugar-pukllanapac</packagereq>
-      <packagereq>sugar-ruler</packagereq>
       <packagereq>sugar-srilanka</packagereq>
-      <packagereq>sugar-starchart</packagereq>
       <packagereq>sugar-view-slides</packagereq>
-      <packagereq>sugar-visualmatch</packagereq>
       <packagereq>sugar-xoirc</packagereq>
     </packagelist>
   </group>
