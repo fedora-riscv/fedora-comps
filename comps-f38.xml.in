@@ -1233,7 +1233,6 @@
     <packagelist>
       <packagereq type="default">acpica-tools</packagereq>
       <packagereq type="default">alliance</packagereq>
-      <packagereq type="default">arduino</packagereq>
       <packagereq type="default">avarice</packagereq>
       <packagereq type="default">avr-binutils</packagereq>
       <packagereq type="default">avr-gcc</packagereq>
@@ -1247,14 +1246,12 @@
       <packagereq type="default">dia-Digital</packagereq>
       <packagereq type="default">dia-electric2</packagereq>
       <packagereq type="default">dia-electronic</packagereq>
-      <packagereq type="default">electric</packagereq>
       <packagereq type="default">emacs-vregs-mode</packagereq>
       <packagereq type="default">espresso-ab</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">flterm</packagereq>
       <packagereq type="default">freeDiameter</packagereq>
       <packagereq type="default">fritzing</packagereq>
       <packagereq type="default">gerbv</packagereq>
-      <packagereq type="default">ghc-chalmers-lava2000-devel</packagereq>
       <packagereq type="default">ghdl</packagereq>
       <packagereq type="default">gnucap</packagereq>
       <packagereq type="default">gnuradio</packagereq>
@@ -1263,7 +1260,6 @@
       <packagereq type="default">gputils</packagereq>
       <packagereq type="default">gr-osmosdr</packagereq>
       <packagereq type="default">gsim85</packagereq>
-      <packagereq type="default">gspiceui</packagereq>
       <packagereq type="default">gtkterm</packagereq>
       <packagereq type="default">gtkwave</packagereq>
       <packagereq type="default">hct</packagereq>
@@ -1278,7 +1274,6 @@
       <packagereq type="default">linsmith</packagereq>
       <packagereq type="default">magic</packagereq>
       <packagereq type="default">magic-doc</packagereq>
-      <packagereq type="default">mcu8051ide</packagereq>
       <packagereq type="default">mot-adms</packagereq>
       <packagereq type="default">netgen</packagereq>
       <packagereq type="default">nextpnr</packagereq>
@@ -1288,11 +1283,9 @@
       <packagereq type="default">perl-Hardware-Verilog-Parser</packagereq>
       <packagereq type="default">perl-Hardware-Vhdl-Lexer</packagereq>
       <packagereq type="default">perl-Hardware-Vhdl-Parser</packagereq>
-      <packagereq type="default">perl-Hardware-Vhdl-Tidy</packagereq>
       <packagereq type="default">perl-ModelSim-List</packagereq>
       <packagereq type="default">perl-Perlilog</packagereq>
       <packagereq type="default">perl-SystemC-Vregs</packagereq>
-      <packagereq type="default">perl-Verilog-CodeGen</packagereq>
       <packagereq type="default">perl-Verilog-Perl</packagereq>
       <packagereq type="default">perl-Verilog-Readmem</packagereq>
       <packagereq type="default">picocom</packagereq>
@@ -1309,7 +1302,6 @@
       <packagereq type="default">tclspice</packagereq>
       <packagereq type="default">tkcvs</packagereq>
       <packagereq type="default">tkgate</packagereq>
-      <packagereq type="default">toped</packagereq>
       <packagereq type="default">trellis</packagereq>
       <packagereq type="default">uisp</packagereq>
       <packagereq type="default">verilator</packagereq>
