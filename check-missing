@@ -40,6 +40,7 @@ pkgreqs = root.findall('.//packagereq')
 removedpkgs = defaultdict(list)
 archpkgs = defaultdict(list)
 for pkgreq in pkgreqs:
+    reqtype = pkgreq.get('type', '')
     # list of arches the package is missing on
     missing = []
     present = []
@@ -65,9 +66,9 @@ for pkgreq in pkgreqs:
     if missing == list(ARCHES):
         if pkgreq.getparent() is not None:
             removedpkgs[pkgname].append(grpid)
-            pkgreq.getparent().remove(pkgreq)
-    elif missing:
-        archpkgs[pkgname] = ', '.join(present)
+#            pkgreq.getparent().remove(pkgreq)
+    elif missing and reqtype != 'optional':
+        archpkgs[pkgname] = ','.join(present)
 
 # Find empty groups after packages not in repositories have been removed
 pkglists = root.findall('.//packagelist')
