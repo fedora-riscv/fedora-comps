@@ -2268,6 +2268,7 @@
       <packagereq type="optional">abe</packagereq>
       <packagereq type="optional">adanaxisgpl</packagereq>
       <packagereq type="optional">agistudio</packagereq>
+      <packagereq type="optional">alchemyquest</packagereq>
       <packagereq type="optional">alex4</packagereq>
       <packagereq type="optional">alienarena</packagereq>
       <packagereq type="optional">alienblaster</packagereq>
@@ -2364,7 +2365,6 @@
       <packagereq type="optional">gnome-klotski</packagereq>
       <packagereq type="optional">gnome-mahjongg</packagereq>
       <packagereq type="optional">gnome-mines</packagereq>
-      <packagereq type="optional">gnome-mud</packagereq>
       <packagereq type="optional">gnome-nibbles</packagereq>
       <packagereq type="optional">gnome-robots</packagereq>
       <packagereq type="optional">gnome-sudoku</packagereq>
@@ -2422,7 +2422,6 @@
       <packagereq type="optional">njam</packagereq>
       <packagereq type="optional">nogravity</packagereq>
       <packagereq type="optional">oneko</packagereq>
-      <packagereq type="optional">openalchemist</packagereq>
       <packagereq type="optional">openarena</packagereq>
       <packagereq type="optional">openlierox</packagereq>
       <packagereq type="optional">overgod</packagereq>
@@ -2474,7 +2473,6 @@
       <packagereq type="optional">solarwolf</packagereq>
       <packagereq type="optional">sopwith</packagereq>
       <packagereq type="optional">stormbaancoureur</packagereq>
-      <packagereq type="optional">sumwars</packagereq>
       <packagereq type="optional">supertux</packagereq>
       <packagereq type="optional">supertuxkart</packagereq>
       <packagereq type="optional">swell-foop</packagereq>
@@ -2511,7 +2509,6 @@
       <packagereq type="optional">worldofpadman</packagereq>
       <packagereq type="optional">worminator</packagereq>
       <packagereq type="optional">xaos</packagereq>
-      <packagereq type="optional">xarchon</packagereq>
       <packagereq type="optional">xblast</packagereq>
       <packagereq type="optional">xboard</packagereq>
       <packagereq type="optional">xgalaxy</packagereq>
@@ -2524,7 +2521,6 @@
       <packagereq type="optional">xplanet</packagereq>
       <packagereq type="optional">xscorch</packagereq>
       <packagereq type="optional">xskat</packagereq>
-      <packagereq type="optional">xstar</packagereq>
       <packagereq type="optional">xteddy</packagereq>
       <packagereq type="optional">xu4</packagereq>
       <packagereq type="optional">zasx</packagereq>
