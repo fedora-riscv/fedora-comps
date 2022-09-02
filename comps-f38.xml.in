@@ -4068,6 +4068,7 @@
       <packagereq type="optional">dnsmasq</packagereq>
       <packagereq type="optional">ejabberd</packagereq>
       <packagereq type="optional">freeradius</packagereq>
+      <packagereq type="optional">frr</packagereq>
       <packagereq type="optional">fwknop</packagereq>
       <packagereq type="optional">icecast</packagereq>
       <packagereq type="optional">ipxripd</packagereq>
@@ -4079,14 +4080,12 @@
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
       <packagereq type="optional">privoxy</packagereq>
-      <packagereq type="optional">puppet-server</packagereq>
-      <packagereq type="optional">quagga</packagereq>
+      <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">radvd</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
       <packagereq type="optional">torque-server</packagereq>
       <packagereq type="optional">ucarp</packagereq>
       <packagereq type="optional">vnc-reflector</packagereq>
-      <packagereq type="optional">vtun</packagereq>
       <packagereq type="optional">xl2tpd</packagereq>
       <packagereq type="optional">ypserv</packagereq>
       <packagereq type="optional">znc</packagereq>
