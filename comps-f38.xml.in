@@ -3078,7 +3078,6 @@
     <packagelist>
       <packagereq type="mandatory">java-1.8.0-openjdk</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
-      <packagereq type="default">icedtea-web</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3116,17 +3115,16 @@
       <packagereq type="default">apache-commons-net</packagereq>
       <packagereq type="default">apache-commons-pool</packagereq>
       <packagereq type="default">bcel</packagereq>
-      <packagereq type="default">gnu-getopt</packagereq>
+      <packagereq type="default">dogtag-ldapjdk</packagereq>
+      <packagereq type="default">jakarta-mail</packagereq>
       <packagereq type="default">jakarta-oro</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-demo</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-javadoc</packagereq>
       <packagereq type="default">java-1.8.0-openjdk-src</packagereq>
-      <packagereq type="default">javamail</packagereq>
       <packagereq type="default">java_cup</packagereq>
       <packagereq type="default">jdepend</packagereq>
       <packagereq type="default">jflex</packagereq>
       <packagereq type="default">junit</packagereq>
-      <packagereq type="default">ldapjdk</packagereq>
       <packagereq type="default">log4j</packagereq>
       <packagereq type="default">maven</packagereq>
       <packagereq type="default">regexp</packagereq>
@@ -3149,7 +3147,6 @@
       <packagereq>abrt-java-connector</packagereq>
       <packagereq>java-1.8.0-openjdk</packagereq>
       <packagereq>java-1.8.0-openjdk-devel</packagereq>
-      <packagereq>jboss-modules</packagereq>
       <packagereq>maven</packagereq>
     </packagelist>
   </group>
