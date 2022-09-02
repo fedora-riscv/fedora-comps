@@ -11,14 +11,12 @@
       <packagereq type="default">admesh</packagereq>
       <packagereq type="default">blender</packagereq>
       <packagereq type="default">cura</packagereq>
-      <packagereq type="default">cura-lulzbot</packagereq>
       <packagereq type="default">meshlab</packagereq>
       <packagereq type="default">openscad</packagereq>
       <packagereq type="default">openscad-MCAD</packagereq>
       <packagereq type="default">printrun</packagereq>
       <packagereq type="default">prusa-slicer</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">slic3r</packagereq>
-      <packagereq type="optional">repsnapper</packagereq>
     </packagelist>
   </group>
   <group>
@@ -239,7 +237,6 @@
       <packagereq type="optional">html401-dtds</packagereq>
       <packagereq type="optional">kbibtex</packagereq>
       <packagereq type="optional">kile</packagereq>
-      <packagereq type="optional">latex-mk</packagereq>
       <packagereq type="optional">latexmk</packagereq>
       <packagereq type="optional">lilypond</packagereq>
       <packagereq type="optional">lout</packagereq>
@@ -299,7 +296,6 @@
       <packagereq>lightdm-gtk</packagereq>
       <packagereq>metacity</packagereq>
       <packagereq>openbox</packagereq>
-      <packagereq>qtile</packagereq>
       <packagereq>ratpoison</packagereq>
       <packagereq>xmonad-basic</packagereq>
     </packagelist>
@@ -885,7 +881,6 @@
       <packagereq type="conditional" requires="gimp">gimp-layer-via-copy-cut</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lensfun</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-lqr-plugin</packagereq>
-      <packagereq type="conditional" requires="gimp">gimp-normalmap</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-paint-studio</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-resynthesizer</packagereq>
       <packagereq type="conditional" requires="gimp">gimp-save-for-web</packagereq>
@@ -919,7 +914,6 @@
       <packagereq type="default">julietaula-montserrat-fonts</packagereq>
       <packagereq type="default">krita</packagereq>
       <packagereq type="default">lato-fonts</packagereq>
-      <packagereq type="default">nautilus-image-converter</packagereq>
       <packagereq type="default">open-sans-fonts</packagereq>
       <packagereq type="default">optipng</packagereq>
       <packagereq type="default">overpass-fonts</packagereq>
@@ -1087,7 +1081,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">389-ds-base</packagereq>
-      <packagereq type="optional">idm-console-framework</packagereq>
       <packagereq type="optional">krb5-server</packagereq>
       <packagereq type="optional">migrationtools</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
@@ -1204,9 +1197,7 @@
       <packagereq type="optional">kturtle</packagereq>
       <packagereq type="optional">kwordquiz</packagereq>
       <packagereq type="optional">marble</packagereq>
-      <packagereq type="optional">mnemosyne</packagereq>
       <packagereq type="optional">moodle</packagereq>
-      <packagereq type="optional">nightview</packagereq>
       <packagereq type="optional">pairs</packagereq>
       <packagereq type="optional">parley</packagereq>
       <packagereq type="optional">rocs</packagereq>
@@ -1424,7 +1415,7 @@
       <packagereq type="optional">python3-sympy</packagereq>
       <packagereq type="optional">python3-theano</packagereq>
       <packagereq type="optional">qalculate-gtk</packagereq>
-      <packagereq type="optional">qalculate-kde</packagereq>
+      <packagereq type="optional">qalculate-qt</packagereq>
       <packagereq type="optional">qepcad-B</packagereq>
       <packagereq type="optional">root</packagereq>
       <packagereq type="optional">routino</packagereq>
@@ -1483,7 +1474,6 @@
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
       <packagereq type="mandatory">rpmdevtools</packagereq>
-      <packagereq type="optional">auto-destdir</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
       <packagereq type="optional">cvs</packagereq>
     </packagelist>
@@ -1668,6 +1658,7 @@
       <packagereq type="optional">chisholm-to-be-continued-fonts</packagereq>
       <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
       <packagereq type="optional">cjkuni-uming-fonts</packagereq>
+      <packagereq type="optional">clm-shofar-fonts</packagereq>
       <packagereq type="optional">comic-neue-fonts</packagereq>
       <packagereq type="optional">conakry-fonts</packagereq>
       <packagereq type="optional">ctan-cm-lgc-roman-fonts</packagereq>
@@ -1676,7 +1667,6 @@
       <packagereq type="optional">ctan-kerkis-calligraphic-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-sans-fonts</packagereq>
       <packagereq type="optional">ctan-kerkis-serif-fonts</packagereq>
-      <packagereq type="optional">culmus-shofar-fonts</packagereq>
       <packagereq type="optional">d-din-condensed-fonts</packagereq>
       <packagereq type="optional">d-din-exp-fonts</packagereq>
       <packagereq type="optional">d-din-fonts</packagereq>
@@ -2558,7 +2548,9 @@
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
+      <!-- 2022-08: disabled ATM due to no GTK4 port
       <packagereq type="default">evince-nautilus</packagereq>
+       -->
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
@@ -2848,7 +2840,6 @@
       <packagereq>omping</packagereq>
       <packagereq>pacemaker</packagereq>
       <packagereq>pcs</packagereq>
-      <packagereq type="optional">clufter-cli</packagereq>
     </packagelist>
   </group>
   <group>
@@ -2933,7 +2924,6 @@
       <packagereq>ghcid</packagereq>
       <packagereq>haskell-platform</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64">hlint</packagereq>
-      <packagereq type="conditional" requires="emacs">emacs-haskell-mode</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3257,7 +3247,7 @@
       <packagereq type="default">plasma-thunderbolt</packagereq>
       <packagereq type="default">plasma-vault</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
-      <packagereq type="default">plasma-workspace-xorg</packagereq>
+      <packagereq type="default">plasma-workspace-x11</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
@@ -3774,7 +3764,6 @@
       <packagereq>caja-beesu</packagereq>
       <packagereq>caja-share</packagereq>
       <packagereq>firewall-applet</packagereq>
-      <packagereq>mate-applet-softupd</packagereq>
       <packagereq>mate-menu</packagereq>
       <packagereq>mate-sensors-applet</packagereq>
       <packagereq>mate-utils</packagereq>
@@ -3969,6 +3958,7 @@
       <packagereq type="default">mingw32-crossreport</packagereq>
       <packagereq type="default">mingw32-nsis</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">wine</packagereq>
+      <packagereq type="optional">mingw32-sdl12-compat</packagereq>
       <packagereq type="optional">mingw32-atk</packagereq>
       <packagereq type="optional">mingw32-bzip2</packagereq>
       <packagereq type="optional">mingw32-cairo</packagereq>
@@ -3987,7 +3977,6 @@
       <packagereq type="optional">mingw32-pixman</packagereq>
       <packagereq type="optional">mingw32-proj</packagereq>
       <packagereq type="optional">mingw32-readline</packagereq>
-      <packagereq type="optional">mingw32-SDL</packagereq>
       <packagereq type="optional">mingw32-sqlite</packagereq>
       <packagereq type="optional">mingw32-termcap</packagereq>
       <packagereq type="optional">mingw32-win-iconv</packagereq>
@@ -4044,7 +4033,6 @@
       <packagereq type="default">unixODBC</packagereq>
       <packagereq type="optional">mariadb-devel</packagereq>
       <packagereq type="optional">mariadb-server-utils</packagereq>
-      <packagereq type="optional">mysqlreport</packagereq>
       <packagereq type="optional">mysqltuner</packagereq>
       <packagereq type="optional">php-mysqlnd</packagereq>
       <packagereq type="optional">qt-mysql</packagereq>
@@ -4265,7 +4253,6 @@
       <packagereq type="default">perl-CPAN-Uploader</packagereq>
       <packagereq type="default">perltidy</packagereq>
       <packagereq type="optional">cpanspec</packagereq>
-      <packagereq type="optional">parrot</packagereq>
       <packagereq type="optional">perl-Task-Catalyst</packagereq>
       <packagereq type="optional">vim-perl-support</packagereq>
     </packagelist>
@@ -4343,12 +4330,11 @@
       <packagereq>php-bcmath</packagereq>
       <packagereq>php-devel</packagereq>
       <packagereq>php-gd</packagereq>
-      <packagereq>php-imap</packagereq>
       <packagereq>php-mbstring</packagereq>
       <packagereq>php-mysqlnd</packagereq>
       <packagereq>php-pdo</packagereq>
       <packagereq>php-pear</packagereq>
-      <packagereq>php-pecl-apcu-bc</packagereq>
+      <packagereq>php-pecl-apcu</packagereq>
       <packagereq>php-pecl-mcrypt</packagereq>
       <packagereq>php-pecl-mongodb</packagereq>
       <packagereq>php-pgsql</packagereq>
@@ -4439,10 +4425,10 @@
       <packagereq type="default">python3-ipykernel</packagereq>
       <packagereq type="default">python3-ipython</packagereq>
       <packagereq type="default">python3-notebook</packagereq>
-      <packagereq type="default">python3-tox</packagereq>
       <packagereq type="default">python3-virtualenv</packagereq>
       <packagereq type="default">sed</packagereq>
       <packagereq type="default">tar</packagereq>
+      <packagereq type="default">tox</packagereq>
       <packagereq type="default">unzip</packagereq>
       <packagereq type="default">valgrind</packagereq>
       <packagereq type="optional">default-editor</packagereq>
@@ -4569,7 +4555,6 @@
       <packagereq>rubygem-bootsnap</packagereq>
       <packagereq>rubygem-byebug</packagereq>
       <packagereq>rubygem-capybara</packagereq>
-      <packagereq>rubygem-coffee-rails</packagereq>
       <packagereq>rubygem-jbuilder</packagereq>
       <packagereq>rubygem-json</packagereq>
       <packagereq>rubygem-listen</packagereq>
@@ -5349,7 +5334,7 @@
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
@@ -5366,7 +5351,7 @@
       <packagereq type="default">libvirt-daemon-kvm</packagereq>
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">systemd-container</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
@@ -5396,14 +5381,14 @@
       <packagereq type="optional">mediawiki</packagereq>
       <packagereq type="optional">mod_auth_gssapi</packagereq>
       <packagereq type="optional">mod_fcgid</packagereq>
-      <packagereq type="optional">mod_geoip</packagereq>
+      <packagereq type="optional">mod_maxminddb</packagereq>
       <packagereq type="optional">mod_security</packagereq>
       <packagereq type="optional">mod_xsendfile</packagereq>
       <packagereq type="optional">ocspd</packagereq>
       <packagereq type="optional">perl-HTML-Mason</packagereq>
       <packagereq type="optional">perl-Kwiki</packagereq>
       <packagereq type="optional">php-odbc</packagereq>
-      <packagereq type="optional">php-pecl-apcu-bc</packagereq>
+      <packagereq type="optional">php-pecl-apcu</packagereq>
       <packagereq type="optional">php-pgsql</packagereq>
       <packagereq type="optional">phpldapadmin</packagereq>
       <packagereq type="optional">phpMyAdmin</packagereq>
