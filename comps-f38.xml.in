@@ -2706,14 +2706,12 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="optional">arora</packagereq>
-      <packagereq type="optional">azureus</packagereq>
       <packagereq type="optional">balsa</packagereq>
       <packagereq type="optional">bluefish</packagereq>
       <packagereq type="optional">choqok</packagereq>
       <packagereq type="optional">claws-mail</packagereq>
       <packagereq type="optional">deluge</packagereq>
       <packagereq type="optional">dillo</packagereq>
-      <packagereq type="optional">ekiga</packagereq>
       <packagereq type="optional">epiphany</packagereq>
       <packagereq type="optional">evolution</packagereq>
       <packagereq type="optional">evolution-bogofilter</packagereq>
@@ -2726,7 +2724,6 @@
       <packagereq type="optional">gtk-gnutella</packagereq>
       <packagereq type="optional">gtorrentviewer</packagereq>
       <packagereq type="optional">hexchat</packagereq>
-      <packagereq type="optional">icedtea-web</packagereq>
       <packagereq type="optional">jd</packagereq>
       <packagereq type="optional">kdewebdev</packagereq>
       <packagereq type="optional">kita</packagereq>
@@ -2743,7 +2740,6 @@
       <packagereq type="optional">pidgin</packagereq>
       <packagereq type="optional">pidgin-libnotify</packagereq>
       <packagereq type="optional">psi</packagereq>
-      <packagereq type="optional">psimedia</packagereq>
       <packagereq type="optional">qbittorrent</packagereq>
       <packagereq type="optional">qterm</packagereq>
       <packagereq type="optional">rekonq</packagereq>
