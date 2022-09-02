@@ -4851,7 +4851,6 @@
       <packagereq type="optional">asunder</packagereq>
       <packagereq type="optional">audacious</packagereq>
       <packagereq type="optional">audacity</packagereq>
-      <packagereq type="optional">banshee</packagereq>
       <packagereq type="optional">brasero</packagereq>
       <packagereq type="optional">cdcollect</packagereq>
       <packagereq type="optional">cdlabelgen</packagereq>
@@ -4925,7 +4924,6 @@
       <packagereq type="optional">vdr-femon</packagereq>
       <packagereq type="optional">vdr-osdteletext</packagereq>
       <packagereq type="optional">vdr-remote</packagereq>
-      <packagereq type="optional">vdr-skinsoppalusikka</packagereq>
       <packagereq type="optional">vdr-streamdev-client</packagereq>
       <packagereq type="optional">vdr-streamdev-server</packagereq>
       <packagereq type="optional">volumeicon</packagereq>
@@ -4933,8 +4931,6 @@
       <packagereq type="optional">wireplumber</packagereq>
       <packagereq type="optional">wodim</packagereq>
       <packagereq type="optional">xfburn</packagereq>
-      <packagereq type="optional">xmms</packagereq>
-      <packagereq type="optional">xmms-flac</packagereq>
       <packagereq type="optional">xmp</packagereq>
     </packagelist>
   </group>
