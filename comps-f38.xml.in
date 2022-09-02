@@ -4213,14 +4213,12 @@
       <packagereq type="optional">dia</packagereq>
       <packagereq type="optional">evince</packagereq>
       <packagereq type="optional">glabels</packagereq>
-      <packagereq type="optional">glom</packagereq>
       <packagereq type="optional">gnucash</packagereq>
       <packagereq type="optional">gnumeric</packagereq>
       <packagereq type="optional">gnumeric-plugins-extras</packagereq>
       <packagereq type="optional">gramps</packagereq>
       <packagereq type="optional">grisbi</packagereq>
       <packagereq type="optional">hnb</packagereq>
-      <packagereq type="optional">htmldoc</packagereq>
       <packagereq type="optional">jpilot</packagereq>
       <packagereq type="optional">kchmviewer</packagereq>
       <packagereq type="optional">kexi</packagereq>
@@ -4255,7 +4253,6 @@
       <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">vym</packagereq>
       <packagereq type="optional">xchm</packagereq>
-      <packagereq type="optional">xfbib</packagereq>
       <packagereq type="optional">xournal</packagereq>
       <packagereq type="optional">Zim</packagereq>
     </packagelist>
