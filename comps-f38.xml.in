@@ -5220,7 +5220,6 @@
       <packagereq type="optional">inadyn-mt</packagereq>
       <packagereq type="optional">incron</packagereq>
       <packagereq type="optional">iotop</packagereq>
-      <packagereq type="optional">ipsec-tools</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">john</packagereq>
       <packagereq type="optional">k4dirstat</packagereq>
@@ -5242,9 +5241,7 @@
       <packagereq type="optional">noip</packagereq>
       <packagereq type="optional">nomarch</packagereq>
       <packagereq type="optional">nrg2iso</packagereq>
-      <packagereq type="optional">ntp</packagereq>
-      <packagereq type="optional">ntp-perl</packagereq>
-      <packagereq type="optional">ntpdate</packagereq>
+      <packagereq type="optional">ntpsec</packagereq>
       <packagereq type="optional">nut</packagereq>
       <packagereq type="optional">oddjob</packagereq>
       <packagereq type="optional">oddjob-mkhomedir</packagereq>
@@ -5266,9 +5263,7 @@
       <packagereq type="optional">rdiff-backup</packagereq>
       <packagereq type="optional">rear</packagereq>
       <packagereq type="optional">remmina</packagereq>
-      <packagereq type="optional">remmina-plugins-nx</packagereq>
       <packagereq type="optional">remmina-plugins-rdp</packagereq>
-      <packagereq type="optional">remmina-plugins-xdmcp</packagereq>
       <packagereq type="optional">reptyr</packagereq>
       <packagereq type="optional">rootsh</packagereq>
       <packagereq type="optional">rsnapshot</packagereq>
@@ -5290,14 +5285,11 @@
       <packagereq type="optional">torque-client</packagereq>
       <packagereq type="optional">torque-gui</packagereq>
       <packagereq type="optional">tunctl</packagereq>
-      <packagereq type="optional">unison213</packagereq>
-      <packagereq type="optional">unison227</packagereq>
       <packagereq type="optional">upx</packagereq>
       <packagereq type="optional">uucp</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">wine</packagereq>
       <packagereq type="optional">wireshark</packagereq>
-      <packagereq type="optional">w_scan</packagereq>
       <packagereq type="optional">x3270-x11</packagereq>
       <packagereq type="optional">xmobar</packagereq>
       <packagereq type="optional">xsel</packagereq>
