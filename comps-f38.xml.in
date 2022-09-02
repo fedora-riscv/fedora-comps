@@ -4653,7 +4653,6 @@
       <packagereq type="default">fping</packagereq>
       <packagereq type="default">goaccess</packagereq>
       <packagereq type="default">gparted</packagereq>
-      <packagereq type="default">hans</packagereq>
       <packagereq type="default">hexedit</packagereq>
       <packagereq type="default">hfsutils</packagereq>
       <packagereq type="default">hping3</packagereq>
@@ -4702,7 +4701,7 @@
       <packagereq type="default">nmbscan</packagereq>
       <packagereq type="default">ntfs-3g</packagereq>
       <packagereq type="default">ntfsprogs</packagereq>
-      <packagereq type="default">ntp</packagereq>
+      <packagereq type="default">ntpsec</packagereq>
       <packagereq type="default">nwipe</packagereq>
       <packagereq type="default">onesixtyone</packagereq>
       <packagereq type="default">openscap-scanner</packagereq>
@@ -4711,7 +4710,6 @@
       <packagereq type="default">p0f</packagereq>
       <packagereq type="default">packETH</packagereq>
       <packagereq type="default">pads</packagereq>
-      <packagereq type="default">paris-traceroute</packagereq>
       <packagereq type="default">pcapdiff</packagereq>
       <packagereq type="default">pcp-system-tools</packagereq>
       <packagereq type="default">pdfcrack</packagereq>
@@ -4764,7 +4762,6 @@
       <packagereq type="default">testdisk</packagereq>
       <packagereq type="default">thc-ipv6</packagereq>
       <packagereq type="default">tlssled</packagereq>
-      <packagereq type="default">trafshow</packagereq>
       <packagereq type="default">tripwire</packagereq>
       <packagereq type="default">unhide</packagereq>
       <packagereq type="default">unicornscan</packagereq>
