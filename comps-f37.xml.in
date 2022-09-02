@@ -1874,7 +1874,6 @@
       <packagereq type="optional">google-noto-sans-manichaean-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-marchen-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-masaram-gondi-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-math-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mayan-numerals-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-medefaidrin-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-meetei-mayek-fonts</packagereq>
@@ -2915,12 +2914,11 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq arch="x86_64" type="default">alsa-sof-firmware</packagereq>
+      <packagereq type="default">amd-gpu-firmware</packagereq>
       <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
-      <packagereq type="default">amd-gpu-firmware</packagereq>
       <packagereq type="default">intel-gpu-firmware</packagereq>
-      <packagereq type="default">nvidia-gpu-firmware</packagereq>
       <packagereq type="default">iwl100-firmware</packagereq>
       <packagereq type="default">iwl1000-firmware</packagereq>
       <packagereq type="default">iwl105-firmware</packagereq>
@@ -2941,6 +2939,7 @@
       <packagereq arch="armhfp" type="default">libertas-sd8686-firmware</packagereq>
       <packagereq arch="armhfp" type="default">libertas-sd8787-firmware</packagereq>
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
+      <packagereq type="default">nvidia-gpu-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="default">zd1211-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
@@ -5591,12 +5590,12 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">amd-gpu-firmware</packagereq>
+      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">intel-gpu-firmware</packagereq>
-      <packagereq type="mandatory">nvidia-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
       <packagereq type="mandatory">microcode_ctl</packagereq>
+      <packagereq type="mandatory">nvidia-gpu-firmware</packagereq>
       <packagereq type="mandatory">sudo</packagereq>
       <packagereq type="mandatory">systemd-udev</packagereq>
       <packagereq type="mandatory">tar</packagereq>
