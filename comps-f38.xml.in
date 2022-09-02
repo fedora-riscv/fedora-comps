@@ -52,7 +52,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">authselect</packagereq>
-      <packagereq type="mandatory">authselect-compat</packagereq>
       <packagereq type="mandatory">btrfs-progs</packagereq>
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">cryptsetup</packagereq>
@@ -87,7 +86,6 @@
       <packagereq type="mandatory">mdadm</packagereq>
       <packagereq type="mandatory">ntfsprogs</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
-      <packagereq type="mandatory">reiserfs-utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
