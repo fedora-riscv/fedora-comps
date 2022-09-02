@@ -1001,7 +1001,6 @@
       <packagereq type="optional">linbox-devel</packagereq>
       <packagereq type="optional">m4ri-devel</packagereq>
       <packagereq type="optional">m4rie-devel</packagereq>
-      <packagereq type="optional">mpir-devel</packagereq>
       <packagereq type="optional">newt-devel</packagereq>
       <packagereq type="optional">poco-devel</packagereq>
       <packagereq type="optional">poco-doc</packagereq>
@@ -1026,7 +1025,6 @@
       <packagereq type="optional">colordiff</packagereq>
       <packagereq type="optional">cvs</packagereq>
       <packagereq type="optional">cvs2cl</packagereq>
-      <packagereq type="optional">cvsgraph</packagereq>
       <packagereq type="optional">cvsps</packagereq>
       <packagereq type="optional">darcs</packagereq>
       <packagereq type="optional">dejagnu</packagereq>
@@ -2682,7 +2680,7 @@
       <packagereq type="default">libgda-devel</packagereq>
       <packagereq type="default">libgnome-keyring-devel</packagereq>
       <packagereq type="default">libnotify-devel</packagereq>
-      <packagereq type="default">webkit2gtk3-devel</packagereq>
+      <packagereq type="default">webkit2gtk5.0-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">cairomm-doc</packagereq>
       <packagereq type="optional">clutter-gst3-devel</packagereq>
@@ -2692,6 +2690,8 @@
       <packagereq type="optional">libgtop2-devel</packagereq>
       <packagereq type="optional">libsigc++20-devel</packagereq>
       <packagereq type="optional">vala</packagereq>
+      <packagereq type="optional">webkit2gtk4.0-devel</packagereq>
+      <packagereq type="optional">webkit2gtk4.1-devel</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3361,9 +3361,7 @@
       <packagereq type="optional">ktp-common-internals-devel</packagereq>
       <packagereq type="optional">libkcddb-devel</packagereq>
       <packagereq type="optional">libkcompactdisc-devel</packagereq>
-      <packagereq type="optional">libkdeedu-devel</packagereq>
       <packagereq type="optional">libkdegames-devel</packagereq>
-      <packagereq type="optional">marble-widget-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
       <packagereq type="optional">qt3-designer</packagereq>
@@ -5629,11 +5627,9 @@
       <packagereq type="default">pixman-devel</packagereq>
       <packagereq type="default">SDL2-devel</packagereq>
       <packagereq type="default">Xaw3d-devel</packagereq>
-      <packagereq type="default">xorg-x11-docs</packagereq>
       <packagereq type="default">xorg-x11-xtrans-devel</packagereq>
       <packagereq type="default">xrestop</packagereq>
       <packagereq type="optional">icon-naming-utils</packagereq>
-      <packagereq type="optional">icon-slicer</packagereq>
       <packagereq type="optional">libXp-devel</packagereq>
       <packagereq type="optional">mesa-libGLU-devel</packagereq>
       <packagereq type="optional">xorg-x11-server-devel</packagereq>
