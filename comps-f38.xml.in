@@ -1696,9 +1696,7 @@
       <packagereq type="optional">denemo-emmentaler-fonts</packagereq>
       <packagereq type="optional">denemo-feta-fonts</packagereq>
       <packagereq type="optional">denemo-music-fonts</packagereq>
-      <packagereq type="optional">drehatlas-warender-bibliothek-fonts</packagereq>
       <packagereq type="optional">drehatlas-widelands-fonts</packagereq>
-      <packagereq type="optional">drehatlas-xaporho-fonts</packagereq>
       <packagereq type="optional">dustin-domestic-manners-fonts</packagereq>
       <packagereq type="optional">dustin-dustismo-roman-fonts</packagereq>
       <packagereq type="optional">dustin-dustismo-sans-fonts</packagereq>
@@ -2032,7 +2030,6 @@
       <packagereq type="optional">kacst-title-fonts</packagereq>
       <packagereq type="optional">kacst-titlel-fonts</packagereq>
       <packagereq type="optional">kalapi-fonts</packagereq>
-      <packagereq type="optional">kanjistrokeorders-fonts</packagereq>
       <packagereq type="optional">kanotf-fonts</packagereq>
       <packagereq type="optional">khmer-os-battambang-fonts</packagereq>
       <packagereq type="optional">khmer-os-bokor-fonts</packagereq>
@@ -2123,8 +2120,8 @@
       <packagereq type="optional">paratype-pt-serif-caption-fonts</packagereq>
       <packagereq type="optional">paratype-pt-serif-fonts</packagereq>
       <packagereq type="optional">pcaro-hermit-fonts</packagereq>
+      <packagereq type="optional">polarsys-b612-fonts</packagereq>
       <packagereq type="optional">polarsys-b612-mono-fonts</packagereq>
-      <packagereq type="optional">polarsys-b612-sans-fonts</packagereq>
       <packagereq type="optional">pothana2000-fonts</packagereq>
       <packagereq type="optional">pt-sans-fonts</packagereq>
       <packagereq type="optional">rit-ezhuthu-fonts</packagereq>
@@ -2188,13 +2185,11 @@
       <packagereq type="optional">tiresias-pc-z-fonts</packagereq>
       <packagereq type="optional">tiresias-sign-fonts</packagereq>
       <packagereq type="optional">tiresias-sign-z-fonts</packagereq>
-      <packagereq type="optional">tlomt-junction-fonts</packagereq>
       <packagereq type="optional">tlomt-league-gothic-fonts</packagereq>
       <packagereq type="optional">tlomt-sniglet-fonts</packagereq>
       <packagereq type="optional">tulrich-tuffy-fonts</packagereq>
       <packagereq type="optional">twitter-twemoji-fonts</packagereq>
       <packagereq type="optional">typetype-molot-fonts</packagereq>
-      <packagereq type="optional">ubuntu-title-fonts</packagereq>
       <packagereq type="optional">ukij-tuz-fonts</packagereq>
       <packagereq type="optional">un-core-batang-fonts</packagereq>
       <packagereq type="optional">un-core-dinaru-fonts</packagereq>
@@ -2230,7 +2225,6 @@
       <packagereq type="optional">vemana2000-fonts</packagereq>
       <packagereq type="optional">vlgothic-fonts</packagereq>
       <packagereq type="optional">vlgothic-p-fonts</packagereq>
-      <packagereq type="optional">vollkorn-fonts</packagereq>
       <packagereq type="optional">wine-marlett-fonts</packagereq>
       <packagereq type="optional">wine-symbol-fonts</packagereq>
       <packagereq type="optional">woodardworks-laconic-fonts</packagereq>
@@ -2239,7 +2233,6 @@
       <packagereq type="optional">wqy-zenhei-fonts</packagereq>
       <packagereq type="optional">xorg-x11-fonts-ethiopic</packagereq>
       <packagereq type="optional">yanone-kaffeesatz-fonts</packagereq>
-      <packagereq type="optional">yanone-tagesschrift-fonts</packagereq>
     </packagelist>
   </group>
   <group>
