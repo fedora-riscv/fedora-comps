@@ -1,11 +1,15 @@
 #!/bin/python3
 
-# This script looks for the 'latest' comps-fXX.xml.in file, assumes it's
-# for Rawhide, and looks through its `pkgreq` lines for ones that specify
-# packages that do not currently exist in Rawhide. It is arch-aware. It
-# expects to be run on a Fedora system with network access, as it will
-# try to query the 'rawhide' dnf repo to get lists of currently-existing
-# packages. You will need fedora-repos-rawhide and python3-lxml.
+# This script looks for the comps-fXX.xml.in file for the release version
+# specified, grabs lists of all packages that exist in that release of
+# Fedora, and looks through the comps `pkgreq` lines for ones that specify
+# packages that do not currently exist . It is arch-aware. It expects to
+# be run on a Fedora system with network access, as it will try to query
+# the dnf repos to get lists of currently-existing packages. It relies on
+# the non-Rawhide repo definitions actually working for Rawhide if passed
+# the Rawhide-matching release number, which is a kinda undocumented
+# feature but we rely on it in other places too. You will need
+# fedora-repos and python3-lxml packages installed.
 
 import glob
 import argparse
@@ -15,24 +19,24 @@ from collections import defaultdict
 
 ARCHES = ('aarch64', 'ppc64le', 's390x', 'x86_64')
 
-parser = argparse.ArgumentParser(description='Check the comps file for missing packages and packages missing on architectures')
+parser = argparse.ArgumentParser(description='Check Fedora comps files for missing packages and packages missing on architectures')
+parser.add_argument('relver', help='Release version to check')
 parser.add_argument('--update', dest='update', action='store_true', default=False,
                     help='Update the comps file with the changes')
 args = parser.parse_args()
 
 # gather package lists. this eats lots of RAM. I don't care.
+# FIXME: for this script to work for EPEL and ELN someone would have
+# to figure out the right tweaks to this command line.
 pkgs = {}
 for arch in ARCHES:
-    pkgtext = subprocess.run(('dnf', '--forcearch={}'.format(arch), '--disablerepo=*', '--enablerepo=rawhide', 'repoquery', '--qf=%{NAME}'), capture_output=True, text=True).stdout
+    pkgtext = subprocess.run(('dnf', f'--forcearch={arch}', f'--releasever={args.relver}', '--disablerepo=*', '--enablerepo=fedora', '--enablerepo=updates', '--enablerepo=fedora-cisco-openh264', 'repoquery', '--qf=%{NAME}'), capture_output=True, text=True).stdout
     pkgs[arch] = pkgtext.splitlines()
 
-# find the *latest* comps file (assume it's rawhide)
-compsfiles = glob.glob('comps-f*.xml.in')
-latest = sorted(compsfiles, key=lambda x: int(''.join(c for c in x if c.isdigit())))[-1]
-
+compsfile = f'comps-f{args.relver}.xml.in'
 
 # find package reqs in comps
-tree = ET.parse(latest) #, ET.XMLParser(target=CommentedTreeBuilder()))
+tree = ET.parse(compsfile) #, ET.XMLParser(target=CommentedTreeBuilder()))
 root = tree.getroot()
 pkgreqs = root.findall('.//packagereq')
 
