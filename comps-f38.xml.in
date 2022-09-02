@@ -802,9 +802,6 @@
     <uservisible>true</uservisible>
     <packagelist>
       <packagereq basearchonly="true" arch="aarch64,x86_64" type="mandatory">ldc</packagereq>
-      <packagereq basearchonly="true" type="mandatory">ldc-druntime</packagereq>
-      <packagereq basearchonly="true" type="mandatory">ldc-druntime-devel</packagereq>
-      <packagereq basearchonly="true" type="mandatory">ldc-phobos-devel</packagereq>
       <packagereq type="mandatory">make</packagereq>
       <packagereq type="mandatory">pkgconf</packagereq>
       <packagereq type="default">ctags</packagereq>
