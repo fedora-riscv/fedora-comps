@@ -3753,18 +3753,15 @@
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-clamav</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
-      <packagereq type="optional">mailman</packagereq>
+      <packagereq type="optional">mailman3</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">opendkim</packagereq>
-      <packagereq type="optional">php-horde-imp</packagereq>
       <packagereq type="optional">postfix</packagereq>
       <packagereq type="optional">pyzor</packagereq>
       <packagereq type="optional">roundcubemail</packagereq>
       <packagereq type="optional">spamass-milter</packagereq>
       <packagereq type="optional">sqlgrey</packagereq>
-      <packagereq type="optional">squirrelmail</packagereq>
       <packagereq type="optional">up-imapproxy</packagereq>
-      <packagereq type="optional">uw-imap</packagereq>
     </packagelist>
   </group>
   <group>
