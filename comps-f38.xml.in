@@ -3066,14 +3066,12 @@
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">input-pad</packagereq>
       <packagereq type="optional">scim-anthy</packagereq>
-      <packagereq type="optional">scim-bridge-gtk</packagereq>
-      <packagereq type="optional">scim-bridge-qt</packagereq>
-      <packagereq type="optional">scim-bridge-qt3</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-hangul</packagereq>
       <packagereq type="optional">scim-m17n</packagereq>
       <packagereq type="optional">scim-pinyin</packagereq>
+      <packagereq type="optional">scim-qt</packagereq>
       <packagereq type="optional">scim-rawcode</packagereq>
       <packagereq type="optional">scim-sayura</packagereq>
       <packagereq type="optional">scim-thai</packagereq>
