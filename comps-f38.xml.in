@@ -1336,8 +1336,6 @@
       <packagereq type="optional">alt-ergo</packagereq>
       <packagereq type="optional">alt-ergo-gui</packagereq>
       <packagereq type="optional">atlas</packagereq>
-      <packagereq type="optional">automaton</packagereq>
-      <packagereq type="optional">automaton-javadoc</packagereq>
       <packagereq type="optional">azove</packagereq>
       <packagereq type="optional">blas</packagereq>
       <packagereq type="optional">bliss</packagereq>
