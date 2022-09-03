@@ -134,7 +134,6 @@
       <packagereq type="default">ardour6</packagereq>
       <packagereq type="default">arpage</packagereq>
       <packagereq type="default">audacity</packagereq>
-      <packagereq type="default">bristol</packagereq>
       <packagereq type="default">calf</packagereq>
       <packagereq type="default">Carla</packagereq>
       <packagereq type="default">drumkv1</packagereq>
@@ -142,15 +141,12 @@
       <packagereq type="default">ffado</packagereq>
       <packagereq type="default">fluid-soundfont-gm</packagereq>
       <packagereq type="default">fluidsynth</packagereq>
-      <packagereq type="default">fluidsynth-dssi</packagereq>
       <packagereq type="default">frescobaldi</packagereq>
       <packagereq type="default">guitarix</packagereq>
       <packagereq type="default">harmonyseq</packagereq>
-      <packagereq type="default">hexter-dssi</packagereq>
       <packagereq type="default">hydrogen</packagereq>
       <packagereq type="default">jaaa</packagereq>
       <packagereq type="default">jack-mixer</packagereq>
-      <packagereq type="default">jackctlmmc</packagereq>
       <packagereq type="default">jack_capture</packagereq>
       <packagereq type="default">japa</packagereq>
       <packagereq type="default">jmeters</packagereq>
@@ -187,7 +183,6 @@
       <packagereq type="default">lv2-x42-plugins</packagereq>
       <packagereq type="default">lv2-zynadd-plugins</packagereq>
       <packagereq type="default">lv2dynparam</packagereq>
-      <packagereq type="default">monobristol</packagereq>
       <packagereq type="default">mscore</packagereq>
       <packagereq type="default">mudita24</packagereq>
       <packagereq type="default">multimedia-menus</packagereq>
@@ -204,10 +199,8 @@
       <packagereq type="default">qmidiarp</packagereq>
       <packagereq type="default">qsynth</packagereq>
       <packagereq type="default">qtractor</packagereq>
-      <packagereq type="default">radium-compressor</packagereq>
       <packagereq type="default">rakarrack</packagereq>
       <packagereq type="default">raysession</packagereq>
-      <packagereq type="default">realTimeConfigQuickScan</packagereq>
       <packagereq type="default">rosegarden4</packagereq>
       <packagereq type="default">rtirq</packagereq>
       <packagereq type="default">samplv1</packagereq>
