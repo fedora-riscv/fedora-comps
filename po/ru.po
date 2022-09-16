@@ -18,30 +18,31 @@
 # Ilyas B Arinov <arinov.ilyas@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # yuliya <ypoyarko@redhat.com>, 2016. #zanata
+# V I <xasertop@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-05-13 04:32+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/comps/language/"
-"ru/)\n"
+"PO-Revision-Date: 2022-09-17 18:19+0000\n"
+"Last-Translator: V I <xasertop@gmail.com>\n"
+"Language-Team: Russian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr "3D Печать"
+msgstr "3D-печать"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
-msgstr "Программы для 3D печати"
+msgstr "Программы для 3D-печати"
 
 #: ../comps-f32.xml.in.h:3 ../comps-f33.xml.in.h:3 ../comps-f34.xml.in.h:3
 msgid "Administration Tools"
@@ -62,11 +63,11 @@ msgstr "Средства anaconda"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "Инструменты ARM"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Инструменты для работы с системами ARM"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
@@ -183,16 +184,12 @@ msgstr ""
 "средах"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
-#| msgid "MATE Compiz"
 msgid "Compiz"
-msgstr "MATE Compiz"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
-#, fuzzy
-#| msgid "This package group adds Compiz and Emerald to MATE desktop"
 msgid "This package group adds Compiz and Emerald"
-msgstr "Эта группа пакетов добавляет Compiz и Emerald в среду MATE"
+msgstr "Эта группа пакетов добавляет Compiz и Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -230,20 +227,15 @@ msgid ""
 msgstr "Набор пакетов, составляющих критический путь для всех сборок Fedora"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Критический путь (KDE)"
+msgstr "Критический путь (Рабочий стол Deepin)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "Набор пакетов, составляющих критический путь для KDE"
+msgstr ""
+"Набор пакетов, составляющих критический путь для рабочего окружения Deepin"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -307,40 +299,32 @@ msgid ""
 msgstr "Средства разработки и библиотеки, в частности ldc и geany-tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Графические среды"
+msgstr "Среда рабочего стола Deepin"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Рабочий стол Deepin — это окружение, цель которого — быть элегантным и "
+"простым в использовании."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Интернет-приложения"
+msgstr "Приложения рабочего стола Deepin"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Пакеты со шрифтами для отображения текста на рабочем столе."
+msgstr "Медиапакеты для рабочего стола Deepin"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Клиенты удаленного рабочего стола"
+msgstr "Настольный офисный пакет Deepin"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "Офисный пакет для LXDE"
+msgstr "Офисный пакет для рабочего стола Deepin"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -945,7 +929,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Переводы LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -1141,10 +1125,8 @@ msgstr "Онлайн-справка и документация"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Рабочая среда Cinnamon"
+msgstr "Рабочая среда Pantheon"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1183,15 +1165,13 @@ msgstr "Скриптовый язык для веб-разработки общ�
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Поддержка языка марати"
+msgstr "Поддержка платформы VMware"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "Пакеты для установки на виртуальные машины VMware"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1209,24 +1189,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Python Classroom"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Инструменты, используемые для обучения и изучения Python."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Python Science"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Инструменты, используемые для научных исследований в Python."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1280,8 +1258,8 @@ msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
 msgstr ""
-"Инструменты для проверки безопасности, для экспертизы, восстановления "
-"системы  и преподавания методов тестирования безопасности."
+"Инструменты для проверки безопасности, экспертизы, восстановления системы и "
+"обучения методологии тестирования безопасности."
 
 #: ../comps-f32.xml.in.h:236 ../comps-f33.xml.in.h:228
 #: ../comps-f34.xml.in.h:228
@@ -1372,12 +1350,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
 msgid "Additional Sugar Activities"
-msgstr "Дополнительные  функции Sugar"
+msgstr "Дополнительные функции Sugar"
 
 #: ../comps-f32.xml.in.h:252 ../comps-f33.xml.in.h:244
 #: ../comps-f34.xml.in.h:244
 msgid "Additional activities for use with the Sugar Environment."
-msgstr "Дополнительные действия в среде Sugar."
+msgstr "Дополнительные действия для использования в среде Sugar."
 
 #: ../comps-f32.xml.in.h:253 ../comps-f33.xml.in.h:245
 #: ../comps-f34.xml.in.h:245
@@ -1483,17 +1461,13 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Ядро Fedora Workstation"
+msgstr "Поддержка Fedora Workstation OsTree"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Обязательные пакеты для рабочей станции."
+msgstr "Пакеты, обязательные для продукта Workstation OsTree."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1537,7 +1511,7 @@ msgstr "Xfce"
 #: ../comps-f34.xml.in.h:274 ../comps-epel7.xml.in.h:296
 #: ../comps-epel8.xml.in.h:19
 msgid "A lightweight desktop environment that works well on low end machines."
-msgstr "Облегчённая среда рабочего стола, подходящая для слабых машин."
+msgstr "Легковесная среда рабочего стола, подходящая для слабых машин."
 
 #: ../comps-f32.xml.in.h:283 ../comps-f33.xml.in.h:275
 #: ../comps-f34.xml.in.h:275
@@ -1605,7 +1579,7 @@ msgstr "Настраиваемая операционная система Fedor
 #: ../comps-f32.xml.in.h:295 ../comps-f33.xml.in.h:287
 #: ../comps-f34.xml.in.h:287
 msgid "Basic building block for a custom Fedora system."
-msgstr "Основной блок построения для настраиваемой системы Fedora"
+msgstr "Основной блок построения для настраиваемой системы Fedora."
 
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
@@ -1677,10 +1651,8 @@ msgstr "Рабочая среда MATE"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "Рабочая среда KDE"
+msgstr "Рабочая среда Deepin"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1773,7 +1745,7 @@ msgstr "Рабочая среда GNOME"
 #: ../comps-f32.xml.in.h:329 ../comps-f33.xml.in.h:321
 #: ../comps-f34.xml.in.h:321 ../comps-epel7.xml.in.h:305
 msgid "Development"
-msgstr "Программирование"
+msgstr "Разработка"
 
 #: ../comps-f32.xml.in.h:330 ../comps-f33.xml.in.h:322
 #: ../comps-f34.xml.in.h:322
@@ -1827,6 +1799,7 @@ msgstr ""
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
 msgstr ""
+"UX для рабочего окружения телефона/планшета на основе технологий GNOME3."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
