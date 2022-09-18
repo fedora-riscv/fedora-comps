@@ -24,7 +24,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-09-17 18:19+0000\n"
+"PO-Revision-Date: 2022-09-19 16:19+0000\n"
 "Last-Translator: V I <xasertop@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ru/>\n"
@@ -461,7 +461,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:88
 msgid "Epiphany Web Browser"
-msgstr "Веб-браузер Epiphany "
+msgstr "Веб-браузер Epiphany"
 
 #: ../comps-f32.xml.in.h:89
 msgid "Epiphany Web Browser for GNOME"
@@ -1060,7 +1060,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:199 ../comps-f33.xml.in.h:190
 #: ../comps-f34.xml.in.h:190
 msgid "Common NetworkManager Submodules"
-msgstr "Стандартные подмодули NetworkManager "
+msgstr "Стандартные подмодули NetworkManager"
 
 #: ../comps-f32.xml.in.h:200 ../comps-f33.xml.in.h:191
 #: ../comps-f34.xml.in.h:191
@@ -1068,13 +1068,13 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
-"Эта группа содержит модули NetworkManager, которые используются довольно "
-"часто, но могут быть отключены в упрощенной конфигурации системы."
+"Эта группа содержит подмодули NetworkManager, которые используются довольно "
+"часто, но могут быть отключены в некоторых упроённых конфигурациях."
 
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Симуляторы нейронного моделирования"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1082,6 +1082,8 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"В эту группу входят симуляторы, используемые при моделировании нейронов и их "
+"сетей."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
@@ -1116,8 +1118,8 @@ msgstr "Офисные приложения"
 #: ../comps-f34.xml.in.h:199
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
-"Эта группа включает в себя офисные приложения: редакторы текста, программы "
-"для просмотра PDF-файлов и пр."
+"В эту группу входят приложения офисных пакетов, программ просмотра PDF и "
+"многое другое."
 
 #: ../comps-f32.xml.in.h:209
 msgid "Online Help and Documentation"
@@ -1132,6 +1134,7 @@ msgstr "Рабочая среда Pantheon"
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
 msgstr ""
+"Среда рабочего стола Pantheon — это DE, на котором работает elementaryOS."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1785,16 +1788,16 @@ msgstr "Текст и другое открытое содержимое."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Нейронаука"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Инструменты для невронаук."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Среда UX для телефона/планшета"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
@@ -2057,7 +2060,8 @@ msgstr "Развивающие программы для обучения."
 
 #: ../comps-epel7.xml.in.h:68
 msgid "Design and Simulation tools for hardware engineers."
-msgstr "Средства проектирования и моделирования для разработчиков аппаратуры"
+msgstr ""
+"Инструменты проектирования и моделирования для инжеренеров по оборудованию."
 
 #: ../comps-epel7.xml.in.h:69
 msgid "Emacs"
@@ -2121,7 +2125,7 @@ msgstr "Сервер FTP"
 
 #: ../comps-epel7.xml.in.h:86
 msgid "Allows the system to act as an FTP server."
-msgstr "Дает возможность использовать систему как сервер FTP."
+msgstr "Позволяет использовать систему как сервер FTP."
 
 #: ../comps-epel7.xml.in.h:87
 msgid "Gaelic Support"
@@ -2950,7 +2954,7 @@ msgstr "Система X Window"
 
 #: ../comps-epel7.xml.in.h:294
 msgid "X Window System Support."
-msgstr "Поддержка системы X Window"
+msgstr "Поддержка системы X Window."
 
 #: ../comps-epel7.xml.in.h:297
 msgid "Xhosa Support"
