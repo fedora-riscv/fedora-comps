@@ -2544,7 +2544,6 @@
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">baobab</packagereq>
       <packagereq type="default">cheese</packagereq>
-      <packagereq type="default">chrome-gnome-shell</packagereq>
       <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
@@ -2555,6 +2554,7 @@
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-backgrounds</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
+      <packagereq type="default">gnome-browser-connector</packagereq>
       <packagereq type="default">gnome-calculator</packagereq>
       <packagereq type="default">gnome-calendar</packagereq>
       <packagereq type="default">gnome-characters</packagereq>
