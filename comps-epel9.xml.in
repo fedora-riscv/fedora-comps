@@ -188,6 +188,7 @@
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">plasma-workspace-wallpapers</packagereq>
       <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
