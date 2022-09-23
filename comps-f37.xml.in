@@ -420,6 +420,7 @@
       <packagereq type="mandatory">imsettings-systemd</packagereq>
       <packagereq type="mandatory">initial-setup-gui</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">mpv</packagereq>
       <packagereq type="mandatory">nemo-fileroller</packagereq>
       <packagereq type="mandatory">nemo-image-converter</packagereq>
       <packagereq type="mandatory">nemo-preview</packagereq>
