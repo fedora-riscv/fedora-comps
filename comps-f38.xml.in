@@ -3182,7 +3182,7 @@
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">dnfdragora</packagereq>
       <packagereq type="default">dolphin</packagereq>
-      <packagereq type="default">kio-gdrive</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
       <packagereq type="default">firewall-config</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
