@@ -5526,7 +5526,7 @@
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">virt-manager</packagereq>
       <packagereq type="default">virt-viewer</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
@@ -5543,7 +5543,7 @@
       <packagereq type="default">libvirt-daemon-kvm</packagereq>
       <packagereq type="default">qemu-kvm</packagereq>
       <packagereq type="default">systemd-container</packagereq>
-      <packagereq type="optional">libguestfs-tools</packagereq>
+      <packagereq type="optional">guestfs-tools</packagereq>
       <packagereq type="optional">python3-libguestfs</packagereq>
       <packagereq type="optional">virt-top</packagereq>
     </packagelist>
