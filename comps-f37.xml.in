@@ -640,7 +640,7 @@
   <!--
     Note: The critical-path-* groups are used to identify the packages
     that are critical to the health of the distro. For details see:
-    https://fedoraproject.org/wiki/Critical_Path_Packages_Proposal
+    https://fedoraproject.org/wiki/Critical_path_package
     @core is also considered part of the Critical Path.
   -->
   <group>
@@ -779,6 +779,22 @@
       <packagereq type="mandatory">lxqt-session</packagereq>
       <!-- specify this because otherwise xfce4-notifyd wins -->
       <packagereq type="default">notification-daemon</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>critical-path-server</id>
+    <_name>Critical Path (Server)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for the Server edition</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>freeipa-server</packagereq>
+      <packagereq>bind-dyndb-ldap</packagereq>
+      <packagereq>cockpit</packagereq>
+      <packagereq>freeipa-server-dns</packagereq>
+      <packagereq>freeipa-server-trust-ad</packagereq>
+      <packagereq>opendnssec</packagereq>
+      <packagereq>postgresql</packagereq>
     </packagelist>
   </group>
   <group>
