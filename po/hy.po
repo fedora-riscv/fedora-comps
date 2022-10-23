@@ -5,28 +5,30 @@
 # Translators:
 # Dimitris Glezos <glezos@transifex.com>, 2011
 # Suren Karapetyan <surenkarapetyan@gmail.com>, 2006
+# Hayk Baghdasaryan <hb.saryan@gmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: comps\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2013-11-20 11:35+0000\n"
-"Last-Translator: notting <notting@redhat.com>\n"
-"Language-Team: Armenian (http://www.transifex.com/projects/p/comps/language/"
-"hy/)\n"
+"PO-Revision-Date: 2022-10-24 20:22+0000\n"
+"Last-Translator: Hayk Baghdasaryan <hb.saryan@gmail.com>\n"
+"Language-Team: Armenian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/hy/>\n"
 "Language: hy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr ""
+msgstr "Եռաչափ տպագրություն"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
-msgstr ""
+msgstr "Եռաչափ տպագրության ծրագրային ապահովում"
 
 #: ../comps-f32.xml.in.h:3 ../comps-f33.xml.in.h:3 ../comps-f34.xml.in.h:3
 msgid "Administration Tools"
@@ -37,18 +39,21 @@ msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
 msgstr ""
+"Այս խումբը գրաֆիկական ադմինիստրացիայի գործիքների հավաքածու է համակարգի "
+"համար, որը նախատեսված է օգտատիրոջ հաշիվը կառավարելու ու համակարգի ֆիզիկական "
+"կոմպոնենտները կարգավորելու համար։"
 
 #: ../comps-f32.xml.in.h:5 ../comps-f33.xml.in.h:5 ../comps-f34.xml.in.h:5
 msgid "Anaconda tools"
-msgstr ""
+msgstr "Anaconda գործիքներ"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM գործիքներ"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "ARM համակարգերի հետ աշխատելու գործիքներ"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
@@ -60,11 +65,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
-msgstr ""
+msgstr "Աուդիո Մշակում"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
 msgid "Various tools for audio synthesis and music production."
-msgstr ""
+msgstr "Զանազան գործիքներ ձայնի մշակման և երաժշտության ստեղծման համար։"
 
 #: ../comps-f32.xml.in.h:12 ../comps-f33.xml.in.h:12 ../comps-f34.xml.in.h:12
 msgid "Authoring and Publishing"
@@ -75,6 +80,8 @@ msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
+"Այս գործիքները ձեզ թույլ են տալիս ստեղծել DocBook ձևաչափի փաստաթղթեր և "
+"փոխակերպել դրանք HTML, PDF, Postscript ձևաչափերի և տեքստի։"
 
 #: ../comps-f32.xml.in.h:14 ../comps-f33.xml.in.h:14 ../comps-f34.xml.in.h:14
 msgid "base-x"
@@ -82,23 +89,23 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:15 ../comps-f33.xml.in.h:15 ../comps-f34.xml.in.h:15
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Լոկալ X.org ցուցադրման սերվեր"
 
 #: ../comps-f32.xml.in.h:16 ../comps-f33.xml.in.h:16 ../comps-f34.xml.in.h:16
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Հիմնական աշխատասեղան"
 
 #: ../comps-f32.xml.in.h:17 ../comps-f33.xml.in.h:17 ../comps-f34.xml.in.h:17
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Հասարակ X WIndow համակարգ՝ պատուհանային մենեջերի ընտրությամբ։"
 
 #: ../comps-f32.xml.in.h:18
 msgid "Books and Guides"
-msgstr ""
+msgstr "Գրքեր և Ուղեցույցներ"
 
 #: ../comps-f32.xml.in.h:19
 msgid "Books and Guides for Fedora users and developers"
-msgstr ""
+msgstr "Գրքեր և Ուղեցույցներ Fedora օգտագտերերի ու ծրագրավորողների համար"
 
 #: ../comps-f32.xml.in.h:20 ../comps-f33.xml.in.h:18 ../comps-f34.xml.in.h:18
 #: ../comps-epel7.xml.in.h:25
@@ -107,18 +114,20 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:21 ../comps-f33.xml.in.h:19 ../comps-f34.xml.in.h:19
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C լեզվով ծրագրավորման գործիքներ ու գրադարաններ"
 
 #: ../comps-f32.xml.in.h:22 ../comps-f33.xml.in.h:20 ../comps-f34.xml.in.h:20
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
+"Այս գործիքները ներառում են հիմնական ծրագրավորման գործիքներ, ինչպիսիք են "
+"automake, gcc և debugger-ներ։"
 
 #: ../comps-f32.xml.in.h:23 ../comps-f33.xml.in.h:21 ../comps-f34.xml.in.h:21
 #: ../comps-epel7.xml.in.h:34
 msgid "Cinnamon"
-msgstr ""
+msgstr "Cinnamon"
 
 #: ../comps-f32.xml.in.h:24 ../comps-f33.xml.in.h:22 ../comps-f34.xml.in.h:22
 #: ../comps-epel7.xml.in.h:35
@@ -126,50 +135,55 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
+"Cinnamon֊ը տրամադրում է ավանդական դասավորությամբ desktop, հավելյալ "
+"հնարավորություններով, որը հեշտ է օգագործել, հզոր է և ճկուն։"
 
 #: ../comps-f32.xml.in.h:25 ../comps-f33.xml.in.h:23 ../comps-f34.xml.in.h:23
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "Ամպային ենթակառուցվածք"
 
 #: ../comps-f32.xml.in.h:26 ../comps-f33.xml.in.h:24 ../comps-f34.xml.in.h:24
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "Ենթակառուցվածքի փաթեթներ ամպային մշակման համար։"
 
 #: ../comps-f32.xml.in.h:27 ../comps-f33.xml.in.h:25 ../comps-f34.xml.in.h:25
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Ծրագրավորման գործիքներ"
+msgstr "Ամպային Կառավարման Գործիքներ"
 
 #: ../comps-f32.xml.in.h:28 ../comps-f33.xml.in.h:26 ../comps-f34.xml.in.h:26
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
+"Ծրագրային ապահովում, սերվերների և համակարգային պատկերների կառավարման համար, "
+"որոնք գործում են ամպային միջավայրում"
 
 #: ../comps-f32.xml.in.h:29 ../comps-f33.xml.in.h:27 ../comps-f34.xml.in.h:27
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Ամպային Սերվերի Գործիքներ"
 
 #: ../comps-f32.xml.in.h:30 ../comps-f33.xml.in.h:28 ../comps-f34.xml.in.h:28
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
+"Ծրագրային ապահովում, սերվերների և համակարգային պատկերների կառավարման համար, "
+"որոնք գործում են ամպային միջավայրում"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
 msgid "Compiz"
-msgstr ""
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
+msgstr "Այս փաթեթների խուբը ավելացնում է Compiz և Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
-msgstr ""
+msgstr "Կոնտեյների Կառավարում"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
 msgid "Tools for managing Linux containers"
-msgstr ""
+msgstr "Linux կոնտեյներների կառավարման գործիքներ"
 
 #: ../comps-f32.xml.in.h:35 ../comps-f33.xml.in.h:33 ../comps-f34.xml.in.h:33
 #: ../comps-epel7.xml.in.h:41
@@ -182,46 +196,52 @@ msgstr "Փոքրագույն հնարավոր տեղադրում"
 
 #: ../comps-f32.xml.in.h:37 ../comps-f33.xml.in.h:35 ../comps-f34.xml.in.h:35
 msgid "Critical Path (Applications)"
-msgstr ""
+msgstr "Critical Path (Ծրագրեր)"
 
 #: ../comps-f32.xml.in.h:38 ../comps-f33.xml.in.h:36 ../comps-f34.xml.in.h:36
 msgid "A set of applications that are considered critical path"
-msgstr ""
+msgstr "Ծրագրերի խումբ որոնք համարվում են critical path"
 
 #: ../comps-f32.xml.in.h:39 ../comps-f33.xml.in.h:37 ../comps-f34.xml.in.h:37
 msgid "Critical Path (Base)"
-msgstr ""
+msgstr "Critical Path (Հիմք)"
 
 #: ../comps-f32.xml.in.h:40 ../comps-f33.xml.in.h:38 ../comps-f34.xml.in.h:38
 msgid ""
 "A set of packages that provide the shared platform for Critical Path "
 "functionality on all Fedora spins"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է ընդհանուր հարթակ Critical Path ֆունկցիոնալի "
+"համար Fedora-ի բոլոր տարբերակների համար"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
 msgid "Critical Path (Deepin desktop)"
-msgstr ""
+msgstr "Critical Path (Deepin)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ Deepin desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
-msgstr ""
+msgstr "Critical Path (GNOME)"
 
 #: ../comps-f32.xml.in.h:44 ../comps-f33.xml.in.h:42 ../comps-f34.xml.in.h:42
 msgid ""
 "A set of packages that provide the Critical Path functionality for the GNOME "
 "desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ GNOME desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:45 ../comps-f33.xml.in.h:43 ../comps-f34.xml.in.h:43
 #: ../comps-epel8.xml.in.h:3
 msgid "Critical Path (KDE)"
-msgstr ""
+msgstr "Critical Path (KDE)"
 
 #: ../comps-f32.xml.in.h:46 ../comps-f33.xml.in.h:44 ../comps-f34.xml.in.h:44
 #: ../comps-epel8.xml.in.h:4
@@ -229,6 +249,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ KDE desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:47 ../comps-f33.xml.in.h:45 ../comps-f34.xml.in.h:45
 msgid "Critical Path (LXDE)"
@@ -239,76 +261,83 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ LXDE desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
 msgid "Critical Path (LXQt)"
-msgstr ""
+msgstr "Critical Path (LXQt)"
 
 #: ../comps-f32.xml.in.h:50 ../comps-f33.xml.in.h:48 ../comps-f34.xml.in.h:48
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ LXQt desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:51 ../comps-f33.xml.in.h:49 ../comps-f34.xml.in.h:49
 msgid "Critical Path (Xfce)"
-msgstr ""
+msgstr "Critical Path (Xfce)"
 
 #: ../comps-f32.xml.in.h:52 ../comps-f33.xml.in.h:50 ../comps-f34.xml.in.h:50
 msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
+"Փաթեթների խումբ որը տրամադրում է Critical Path ֆունկցիոնալ Xfce desktop-ի "
+"համար"
 
 #: ../comps-f32.xml.in.h:53 ../comps-f33.xml.in.h:51 ../comps-f34.xml.in.h:51
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "Ծրագրավորման գրադարաններ"
+msgstr "D լեզվի ծրագրավորման գործիքներ և գրադարաններ"
 
 #: ../comps-f32.xml.in.h:54 ../comps-f33.xml.in.h:52 ../comps-f34.xml.in.h:52
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
 msgstr ""
+"Սրանք ներառում են ծրագրավորման գործիքներ և գրադարաններ, ինչպիսիք են ldc և "
+"geany-tag։"
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "KDE (K Desktop Environment)"
 msgid "Deepin Desktop Environment"
-msgstr "KDE (K դեսքթոփի միջավայր)"
+msgstr "Deepin Դեսքթոփի Միջավայր"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Deepin Desktop֊ը դեսքթոփ միջավայր է, որի նպատակն է լինել էլեգանտ և հեշտ "
+"օգտագործման համար։"
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Applications"
 msgid "Deepin Desktop Applications"
-msgstr "ծրագրեր"
+msgstr "Deeping Desktop ծրագրեր"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
 msgid "Media packages for Deepin Desktop"
-msgstr ""
+msgstr "Մեդիա փաթեթներ Deepin Desktop֊ի համար"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
 msgid "Deepin Desktop Office"
-msgstr ""
+msgstr "Deepin Desktop Office"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
 msgid "Office suite for Deepin Desktop"
-msgstr ""
+msgstr "Գրասենյակային փաթեթ Deepin Desktop֊ի համար"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
-msgstr ""
+msgstr "Դիզայն Փաթեթ"
 
 #: ../comps-f32.xml.in.h:62 ../comps-f33.xml.in.h:60 ../comps-f34.xml.in.h:60
 msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"Այս փաթեթները նախատեսված են պրոֆեսիոնալ դիզայներներ համար, և կապված են "
+"գրաֆիկայի, վեբի և անիմացիաների հետ։"
 
 #: ../comps-f32.xml.in.h:63 ../comps-f33.xml.in.h:61 ../comps-f34.xml.in.h:61
 msgid "Development Libraries"
@@ -318,6 +347,8 @@ msgstr "Ծրագրավորման գրադարաններ"
 msgid ""
 "The packages in this group are core libraries needed to develop applications."
 msgstr ""
+"Այս խմբի փաթեթները հիմնական գրադարաններ էր, որոնք անհրաժեշտ են ծրագրեր "
+"մշակելու համար։"
 
 #: ../comps-f32.xml.in.h:65 ../comps-f33.xml.in.h:63 ../comps-f34.xml.in.h:63
 msgid "Development Tools"
@@ -326,6 +357,8 @@ msgstr "Ծրագրավորման գործիքներ"
 #: ../comps-f32.xml.in.h:66 ../comps-f33.xml.in.h:64 ../comps-f34.xml.in.h:64
 msgid "These tools include general development tools such as git and CVS."
 msgstr ""
+"Այս գործիքները ներառում են հիմնական ծրագրավորման գործիքներ, ինչպիսիք են git֊"
+"ն ու CVS֊ը։"
 
 #: ../comps-f32.xml.in.h:67 ../comps-f33.xml.in.h:65 ../comps-f34.xml.in.h:65
 #: ../comps-epel7.xml.in.h:56
@@ -335,12 +368,12 @@ msgstr "Հեռախոսային միացման հնարավորություն"
 #: ../comps-f32.xml.in.h:68 ../comps-f33.xml.in.h:66 ../comps-f34.xml.in.h:66
 #: ../comps-epel7.xml.in.h:60
 msgid "Directory Server"
-msgstr ""
+msgstr "Գրացուցակի Սերվեր"
 
 #: ../comps-f32.xml.in.h:69 ../comps-f33.xml.in.h:67 ../comps-f34.xml.in.h:67
 #: ../comps-epel7.xml.in.h:61
 msgid "Machine and user identity servers."
-msgstr ""
+msgstr "Ապարատային և օգտատիրոջ նույնականության սերվերներ։"
 
 #: ../comps-f32.xml.in.h:70 ../comps-f33.xml.in.h:68 ../comps-f34.xml.in.h:68
 msgid "DNS Name Server"
@@ -350,10 +383,12 @@ msgstr "DNS Անունների սերվեր"
 msgid ""
 "This package group allows you to run a DNS name server (BIND) on the system."
 msgstr ""
+"Այս փաթեթների խումբը թույլ է տալիս գործարկել DNS name server (BIND) "
+"համակարգի վրա։"
 
 #: ../comps-f32.xml.in.h:72 ../comps-f33.xml.in.h:70 ../comps-f34.xml.in.h:70
 msgid "Dogtag Certificate System"
-msgstr ""
+msgstr "Dogtag Սերտիֆիկատների Համակարգ"
 
 #: ../comps-f32.xml.in.h:73 ../comps-f33.xml.in.h:71 ../comps-f34.xml.in.h:71
 msgid "Enterprise-class open source Certificate Authority"
@@ -361,19 +396,19 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:74 ../comps-f33.xml.in.h:72 ../comps-f34.xml.in.h:72
 msgid "Domain Membership"
-msgstr ""
+msgstr "Դոմեյն Անդամություն"
 
 #: ../comps-f32.xml.in.h:75 ../comps-f33.xml.in.h:73 ../comps-f34.xml.in.h:73
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "FreeIPA կամ Active Directory Domain միանալու աջակցություն"
 
 #: ../comps-f32.xml.in.h:76 ../comps-f33.xml.in.h:74 ../comps-f34.xml.in.h:74
 msgid "Fedora Eclipse"
-msgstr ""
+msgstr "Fedora Eclipse"
 
 #: ../comps-f32.xml.in.h:77 ../comps-f33.xml.in.h:75 ../comps-f34.xml.in.h:75
 msgid "Integrated Development Environments based on Eclipse."
-msgstr ""
+msgstr "Ինտեգրված Ծրագրավորման Միջավայրեր հիմնված Eclipse-ի վրա։"
 
 #: ../comps-f32.xml.in.h:78 ../comps-f33.xml.in.h:76 ../comps-f34.xml.in.h:76
 msgid "Editors"
@@ -384,99 +419,109 @@ msgid ""
 "Sometimes called text editors, these are programs that allow you to create "
 "and edit text files. This includes Emacs and Vi."
 msgstr ""
+"Երբեմն անվանվում են տեքստային խմբագրիչներ։ Սրանք ծրագրեր են, որոնք թույլ են "
+"տալիս ստեղծել և խմբագրել տեքստային ֆայլեր։ Սա ներառում է Emacs ու Vi."
 
 #: ../comps-f32.xml.in.h:80 ../comps-f33.xml.in.h:78 ../comps-f34.xml.in.h:78
 #: ../comps-epel7.xml.in.h:65
 msgid "Educational Software"
-msgstr ""
+msgstr "Կրթական Ծրագրային Ապահովում"
 
 #: ../comps-f32.xml.in.h:81 ../comps-f33.xml.in.h:79 ../comps-f34.xml.in.h:79
 msgid "Educational software for learning"
-msgstr ""
+msgstr "Կրթական ծրագրեր սովորելու համար"
 
 #: ../comps-f32.xml.in.h:82 ../comps-f33.xml.in.h:80 ../comps-f34.xml.in.h:80
 #: ../comps-epel7.xml.in.h:67
 msgid "Electronic Lab"
-msgstr ""
+msgstr "Էլեկտրոնիկ Լաբորատորիա"
 
 #: ../comps-f32.xml.in.h:83 ../comps-f33.xml.in.h:81 ../comps-f34.xml.in.h:81
 msgid "Design and simulation tools for hardware engineers"
 msgstr ""
+"Դիզայնի և սիմուլյացիայի գործիքներ ֆիզիկական կոմպոնենտների ինժիներների համար"
 
 #: ../comps-f32.xml.in.h:84 ../comps-f33.xml.in.h:82 ../comps-f34.xml.in.h:82
 msgid "Engineering and Scientific"
-msgstr "Ինժեներական և գիտական"
+msgstr "Ինժեներական և Գիտական"
 
 #: ../comps-f32.xml.in.h:85 ../comps-f33.xml.in.h:83 ../comps-f34.xml.in.h:83
 msgid ""
 "This group includes packages for performing mathematical and scientific "
 "computations and plotting, as well as unit conversion."
 msgstr ""
+"Այս խումբը ներառում է փաթեթներ մաթեմատիկական և գիտական հաշվարկների և "
+"գծագրերի իրականացման, ինչպես նաև միավորների փոխակերպման համար։"
 
 #: ../comps-f32.xml.in.h:86 ../comps-f33.xml.in.h:84 ../comps-f34.xml.in.h:84
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f32.xml.in.h:87 ../comps-f33.xml.in.h:85 ../comps-f34.xml.in.h:85
 msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment-ը թեթև, արագ, մոդուլար և շատ ընդարձակելի պատուհանային դեսքթոփ "
+"միջավայր է։"
 
 #: ../comps-f32.xml.in.h:88
 msgid "Epiphany Web Browser"
-msgstr ""
+msgstr "Epiphany Վեբ Դիտարկիչ"
 
 #: ../comps-f32.xml.in.h:89
 msgid "Epiphany Web Browser for GNOME"
-msgstr ""
+msgstr "Epiphany Վեբ Դիտարկիչ GNOME֊ի համար"
 
 #: ../comps-f32.xml.in.h:90 ../comps-f33.xml.in.h:86 ../comps-f34.xml.in.h:86
 #: ../comps-epel7.xml.in.h:75 ../comps-epel8.xml.in.h:1
 msgid "Fedora Packager"
-msgstr ""
+msgstr "Fedora Packager"
 
 #: ../comps-f32.xml.in.h:91 ../comps-f33.xml.in.h:87 ../comps-f34.xml.in.h:87
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr ""
+msgstr "Գործիքներ և սպասարկող ծրագրեր, որոնք պահանջված Fedora Packager-ի համար"
 
 #: ../comps-f32.xml.in.h:92 ../comps-f33.xml.in.h:88 ../comps-f34.xml.in.h:88
 msgid "Firefox Web Browser"
-msgstr ""
+msgstr "Firefox Վեբ Դիտարկիչ"
 
 #: ../comps-f32.xml.in.h:93 ../comps-f33.xml.in.h:89 ../comps-f34.xml.in.h:89
 msgid "The Firefox web browser"
-msgstr ""
+msgstr "Firefox վեբ դիտարկիչը"
 
 #: ../comps-f32.xml.in.h:94 ../comps-f33.xml.in.h:90 ../comps-f34.xml.in.h:90
 msgid "Font design and packaging"
-msgstr ""
+msgstr "Ֆոնտ դիզայն ու փաթեթավորում"
 
 #: ../comps-f32.xml.in.h:95 ../comps-f33.xml.in.h:91 ../comps-f34.xml.in.h:91
 msgid ""
 "This group is a collection of tools used in the design, modification, "
 "manipulation, and packaging of fonts."
 msgstr ""
+"Այս խումբը ֆոնտերի դիզայնի, խմբագրման, մանիպուլյացիայի ու փաթեթավորման "
+"գործիքների հավաքածու է։"
 
 #: ../comps-f32.xml.in.h:96 ../comps-f33.xml.in.h:92 ../comps-f34.xml.in.h:92
 #: ../comps-epel7.xml.in.h:80
 msgid "Fonts"
-msgstr ""
+msgstr "Ֆոնտեր"
 
 #: ../comps-f32.xml.in.h:97 ../comps-f33.xml.in.h:93 ../comps-f34.xml.in.h:93
 msgid "Fonts packages for rendering text on the desktop."
-msgstr ""
+msgstr "Ֆոնտերի փաթեթներ դեսքթոփի վրա տեքստի վերարտադրման համար։"
 
 #: ../comps-f32.xml.in.h:98 ../comps-f33.xml.in.h:94 ../comps-f34.xml.in.h:94
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP սերվեր"
+msgstr "FreeIPA սերվեր"
 
 #: ../comps-f32.xml.in.h:99 ../comps-f33.xml.in.h:95 ../comps-f34.xml.in.h:95
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Մատուցում է կենտրոնացված գրացուցակի սերվիսներ ինքնության, քաղաքականության "
+"կառավարման և աուդիտի համար։"
 
 #: ../comps-f32.xml.in.h:100 ../comps-f33.xml.in.h:96 ../comps-f34.xml.in.h:96
 msgid "FTP Server"
@@ -484,11 +529,11 @@ msgstr "FTP սերվեր"
 
 #: ../comps-f32.xml.in.h:101 ../comps-f33.xml.in.h:97 ../comps-f34.xml.in.h:97
 msgid "These tools allow you to run an FTP server on the system."
-msgstr ""
+msgstr "Այս գործիքները թույլ են տալիս գործարկել FTP սերվեր համակարգում։"
 
 #: ../comps-f32.xml.in.h:102 ../comps-f33.xml.in.h:98 ../comps-f34.xml.in.h:98
 msgid "Games and Entertainment"
-msgstr "Խաղեր և զվարճանքներ"
+msgstr "Խաղեր և Զվարճանք"
 
 #: ../comps-f32.xml.in.h:103 ../comps-f33.xml.in.h:99 ../comps-f34.xml.in.h:99
 msgid "Various ways to relax and spend your free time."
@@ -497,27 +542,27 @@ msgstr "Հանգստանալու և ձեր ազատ ժամանակն անցկա�
 #: ../comps-f32.xml.in.h:104 ../comps-f33.xml.in.h:100
 #: ../comps-f34.xml.in.h:100
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 #: ../comps-f32.xml.in.h:105 ../comps-f33.xml.in.h:101
 #: ../comps-f34.xml.in.h:101
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
-msgstr ""
+msgstr "GNOME-ը շատ ինտուիտիվ և օգտագործողին հարմար դեսքթոփ միջավայր է։"
 
 #: ../comps-f32.xml.in.h:106 ../comps-f33.xml.in.h:102
 #: ../comps-f34.xml.in.h:102
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Լրացուցիչ խաղեր GNOME դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:107 ../comps-f33.xml.in.h:103
 #: ../comps-f34.xml.in.h:103
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Մի շարք խաղեր GNOME դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:108 ../comps-f33.xml.in.h:104
 #: ../comps-f34.xml.in.h:104
 msgid "GNOME Software Development"
-msgstr "GNOME ծրագրերի մշակում"
+msgstr "GNOME Ծրագրերի Մշակում"
 
 #: ../comps-f32.xml.in.h:109 ../comps-f33.xml.in.h:105
 #: ../comps-f34.xml.in.h:105
@@ -525,17 +570,17 @@ msgid ""
 "Install these packages in order to develop GTK+ and GNOME graphical "
 "applications."
 msgstr ""
-"Տեղադրե՛ք այս փաթեթները GTK+ի կամ GNOME-ի գրաֆիկական ծրագրեր գրելու համար։"
+"Տեղադրե՛ք այս փաթեթները GTK+ի կամ GNOME-ի գրաֆիկական ծրագրեր մշակելու համար։"
 
 #: ../comps-f32.xml.in.h:110 ../comps-f33.xml.in.h:106
 #: ../comps-f34.xml.in.h:106
 msgid "Graphical Internet"
-msgstr "Գրաֆիկական ինտերնետ"
+msgstr "Գրաֆիկական Ինտերնետ"
 
 #: ../comps-f32.xml.in.h:111 ../comps-f33.xml.in.h:107
 #: ../comps-f34.xml.in.h:107
 msgid "This group includes graphical email, web, and chat clients."
-msgstr ""
+msgstr "Այս խումբը ներառում է գրաֆիկական էլ․փոստ, վեբ և նամակագրության ծրագրեր։"
 
 #: ../comps-f32.xml.in.h:112 ../comps-f33.xml.in.h:108
 #: ../comps-f34.xml.in.h:108
@@ -546,11 +591,13 @@ msgstr "Գրաֆիկա"
 #: ../comps-f34.xml.in.h:109
 msgid "This group includes packages to help you manipulate and scan images."
 msgstr ""
+"Այս խումբը ներառում է փաթեթներ, որոնք օգնում են նկարներ մանիպուլացնել և "
+"սկանավորել։"
 
 #: ../comps-f32.xml.in.h:114 ../comps-f33.xml.in.h:110
 #: ../comps-f34.xml.in.h:110
 msgid "Guest Agents"
-msgstr ""
+msgstr "Guest Agents"
 
 #: ../comps-f32.xml.in.h:115 ../comps-f33.xml.in.h:111
 #: ../comps-f34.xml.in.h:111
@@ -590,23 +637,25 @@ msgstr ""
 #: ../comps-f32.xml.in.h:122 ../comps-f33.xml.in.h:118
 #: ../comps-f34.xml.in.h:118
 msgid "Hardware Support"
-msgstr ""
+msgstr "Ֆիզիկական Կոմպոնենտների Աջակցություն"
 
 #: ../comps-f32.xml.in.h:123 ../comps-f33.xml.in.h:119
 #: ../comps-f34.xml.in.h:119
 msgid ""
 "This group is a collection of tools for various hardware specific utilities."
 msgstr ""
+"Այս խումբը ֆիզիկական կոմպոնենտներին հատուկ զանազան սպասարկող ծրագրերի "
+"հավաքածու է։"
 
 #: ../comps-f32.xml.in.h:124 ../comps-f33.xml.in.h:120
 #: ../comps-f34.xml.in.h:120 ../comps-epel7.xml.in.h:101
 msgid "Haskell"
-msgstr ""
+msgstr "Haskell"
 
 #: ../comps-f32.xml.in.h:125 ../comps-f33.xml.in.h:121
 #: ../comps-f34.xml.in.h:121 ../comps-epel7.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
-msgstr ""
+msgstr "Haskell ծրագրավորման լեզվով ծրագրերի մշակման աջակցություն։"
 
 #: ../comps-f32.xml.in.h:126 ../comps-f33.xml.in.h:122
 #: ../comps-f34.xml.in.h:122
@@ -616,17 +665,17 @@ msgstr ""
 #: ../comps-f32.xml.in.h:127 ../comps-f33.xml.in.h:123
 #: ../comps-f34.xml.in.h:123
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "Համակարգի առանց կցված գրաֆիկական կոնսոլի կառավարման գործիքներ։"
 
 #: ../comps-f32.xml.in.h:128 ../comps-f33.xml.in.h:124
 #: ../comps-f34.xml.in.h:124 ../comps-epel7.xml.in.h:111
 msgid "Input Methods"
-msgstr ""
+msgstr "Ներածման Մեթոդներ"
 
 #: ../comps-f32.xml.in.h:129 ../comps-f33.xml.in.h:125
 #: ../comps-f34.xml.in.h:125
 msgid "Input method packages for the input of international text."
-msgstr ""
+msgstr "Ներածման մեթոդի փաթեթներ միջազգային տեքստի ներածման համար։"
 
 #: ../comps-f32.xml.in.h:130 ../comps-f33.xml.in.h:126
 #: ../comps-f34.xml.in.h:126
@@ -636,43 +685,42 @@ msgstr "Java"
 #: ../comps-f32.xml.in.h:131 ../comps-f33.xml.in.h:127
 #: ../comps-f34.xml.in.h:127
 msgid "Support for running programs written in the Java programming language."
-msgstr ""
+msgstr "Java ծրագրավորման լեզվով գրված գործարկվող ծրագրերի աջակցություն։"
 
 #: ../comps-f32.xml.in.h:132 ../comps-f33.xml.in.h:128
 #: ../comps-f34.xml.in.h:128
 msgid "Java Development"
-msgstr "Javaով կառուցում"
+msgstr "Java Ծրագրավորում"
 
 #: ../comps-f32.xml.in.h:133 ../comps-f33.xml.in.h:129
 #: ../comps-f34.xml.in.h:129
 msgid "Support for developing programs in the Java programming language."
-msgstr ""
+msgstr "Java ծրագրավորման լեզվով ծրագրերի մշակման աջակցություն։"
 
 #: ../comps-f32.xml.in.h:134 ../comps-f33.xml.in.h:130
 #: ../comps-f34.xml.in.h:130
-#, fuzzy
 msgid "Java Application Server"
-msgstr "ծրագրեր"
+msgstr "Java Ծրագրային Սերվեր"
 
 #: ../comps-f32.xml.in.h:135 ../comps-f33.xml.in.h:131
 #: ../comps-f34.xml.in.h:131
 msgid "Java application server."
-msgstr ""
+msgstr "Java ծրագրային սերվեր:"
 
 #: ../comps-f32.xml.in.h:136 ../comps-f33.xml.in.h:132
 #: ../comps-f34.xml.in.h:132 ../comps-epel8.xml.in.h:5
 msgid "KDE Applications"
-msgstr ""
+msgstr "KDE Ծրագրեր"
 
 #: ../comps-f32.xml.in.h:137 ../comps-f33.xml.in.h:133
 #: ../comps-f34.xml.in.h:133 ../comps-epel8.xml.in.h:6
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Սովորաբար օգտագործվող KDE ծրագրերի խումբ"
 
 #: ../comps-f32.xml.in.h:138 ../comps-f33.xml.in.h:134
 #: ../comps-f34.xml.in.h:134 ../comps-epel8.xml.in.h:7
 msgid "KDE"
-msgstr ""
+msgstr "KDE"
 
 #: ../comps-f32.xml.in.h:139 ../comps-f33.xml.in.h:135
 #: ../comps-f34.xml.in.h:135 ../comps-epel8.xml.in.h:8
@@ -681,36 +729,39 @@ msgid ""
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
+"KDE Plasma Workspaces, կարգավորվող գրաֆիկական օգտագործողի ինտերֆեյս, որը "
+"ներառում է պանել, դեսքթոփ, համակարգային պատկերակներ և վիդջեթներ ու շատ հզոր "
+"KDE ծրագրեր։"
 
 #: ../comps-f32.xml.in.h:140 ../comps-f33.xml.in.h:136
 #: ../comps-f34.xml.in.h:136 ../comps-epel8.xml.in.h:9
 msgid "KDE Educational applications"
-msgstr ""
+msgstr "KDE Կրթական ծրագրեր"
 
 #: ../comps-f32.xml.in.h:141 ../comps-f33.xml.in.h:137
 #: ../comps-f34.xml.in.h:137 ../comps-epel8.xml.in.h:10
 msgid "KDE Multimedia support"
-msgstr ""
+msgstr "KDE Մուլտիմեդիա աջակցություն"
 
 #: ../comps-f32.xml.in.h:142 ../comps-f33.xml.in.h:138
 #: ../comps-f34.xml.in.h:138 ../comps-epel8.xml.in.h:11
 msgid "Multimedia support for KDE"
-msgstr ""
+msgstr "Մուլտիմեդիա աջակցություն KDE֊ի համար"
 
 #: ../comps-f32.xml.in.h:143 ../comps-f33.xml.in.h:139
 #: ../comps-f34.xml.in.h:139 ../comps-epel8.xml.in.h:12
 msgid "KDE Office"
-msgstr ""
+msgstr "KDE Office"
 
 #: ../comps-f32.xml.in.h:144 ../comps-f33.xml.in.h:140
 #: ../comps-f34.xml.in.h:140 ../comps-epel8.xml.in.h:13
 msgid "KDE Office applications"
-msgstr ""
+msgstr "KDE Office ծրագրեր"
 
 #: ../comps-f32.xml.in.h:145 ../comps-f33.xml.in.h:141
 #: ../comps-f34.xml.in.h:141 ../comps-epel8.xml.in.h:14
 msgid "KDE Software Development"
-msgstr "KDE ծրագրերի կառուցում"
+msgstr "KDE Ծրագրերի Մշակում"
 
 #: ../comps-f32.xml.in.h:146 ../comps-f33.xml.in.h:142
 #: ../comps-f34.xml.in.h:142 ../comps-epel8.xml.in.h:15
@@ -721,41 +772,39 @@ msgstr "Տեղադրե՛ք այս փաթեթները QTի և KDEի գրաֆիկ�
 #: ../comps-f32.xml.in.h:147 ../comps-f33.xml.in.h:143
 #: ../comps-f34.xml.in.h:143
 msgid "KDE Telepathy"
-msgstr ""
+msgstr "KDE Telepathy"
 
 #: ../comps-f32.xml.in.h:148 ../comps-f33.xml.in.h:144
 #: ../comps-f34.xml.in.h:144
 msgid "KDE Telepathy applications"
-msgstr ""
+msgstr "KDE Telepathy ծրագրեր"
 
 #: ../comps-f32.xml.in.h:149 ../comps-f33.xml.in.h:145
 #: ../comps-f34.xml.in.h:145 ../comps-epel8.xml.in.h:16
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "KDE ծրագրերի կառուցում"
+msgstr "KDE Frameworks 5 Ծրագրերի Մշակում"
 
 #: ../comps-f32.xml.in.h:150 ../comps-f33.xml.in.h:146
 #: ../comps-f34.xml.in.h:146 ../comps-epel8.xml.in.h:17
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr "Տեղադրե՛ք այս փաթեթները QTի և KDEի գրաֆիկական ծրագրեր գրելու համար։"
+msgstr "Տեղադրե՛ք այս փաթեթները QT5 և KDE գրաֆիկական ծրագրեր գրելու համար։"
 
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "Legacy Ֆոնտեր"
 
 #: ../comps-f32.xml.in.h:152 ../comps-f33.xml.in.h:148
 #: ../comps-f34.xml.in.h:148
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
+msgstr "Ավելի հին bitmap և վեկտորային ֆոնտերի փաթեթներ"
 
 #: ../comps-f32.xml.in.h:153 ../comps-f33.xml.in.h:149
 #: ../comps-f34.xml.in.h:149
 msgid "Legacy Network Server"
-msgstr "Հնաոճ ցանցային սերվերներ"
+msgstr "Հնաոճ Ցանցային Սերվերներ"
 
 #: ../comps-f32.xml.in.h:154 ../comps-f33.xml.in.h:150
 #: ../comps-f34.xml.in.h:150
@@ -763,64 +812,67 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
+"Այս փաթեթները ներառում են սերվերներ հին ցանցային պրոտոկոլների համար, "
+"ինչպիսիք են rsh և telnet։"
 
 #: ../comps-f32.xml.in.h:155
 msgid "Legacy Software Development"
-msgstr "Հնավոճ ծրագրերի ստեղծում"
+msgstr "Հնաոճ Ծրագրերի Մշակում"
 
 #: ../comps-f32.xml.in.h:156
 msgid "These packages provide compatibility with previous releases."
-msgstr ""
+msgstr "Այս փաթեթները ներառում են համատեղելիություն նախորդ թողարկումների հետ։"
 
 #: ../comps-f32.xml.in.h:157
 msgid "Legacy Software Support"
-msgstr "Հնաոճ ծրագրերի սպասարկում"
+msgstr "Հնաոճ Ծրագրերի Սպասարկում"
 
 #: ../comps-f32.xml.in.h:158 ../comps-f33.xml.in.h:151
 #: ../comps-f34.xml.in.h:151
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f32.xml.in.h:159 ../comps-f33.xml.in.h:152
 #: ../comps-f34.xml.in.h:152
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "LibreOffice Արտադրողականության Հավաքակազմ"
 
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "LibreOffice Ծրագրավորում"
 
 #: ../comps-f32.xml.in.h:161 ../comps-f33.xml.in.h:154
 #: ../comps-f34.xml.in.h:154
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Այս փաթեթները օգտակար են LibreOffice հավելումների և մակրոսների մշակման համար։"
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
 msgid "Load Balancer"
-msgstr ""
+msgstr "Load Balancer"
 
 #: ../comps-f32.xml.in.h:163 ../comps-f33.xml.in.h:156
 #: ../comps-f34.xml.in.h:156
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Load balancing֊ի ապահովում ցանցային տրաֆիկի համար"
 
 #: ../comps-f32.xml.in.h:164 ../comps-f33.xml.in.h:157
 #: ../comps-f34.xml.in.h:157
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Ծրագրեր LXDE դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:165 ../comps-f33.xml.in.h:158
 #: ../comps-f34.xml.in.h:158
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Սովորաբար օգտագործվող ծրագրերի խումբ LXDE դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
 msgid "LXDE"
-msgstr ""
+msgstr "LXDE"
 
 #: ../comps-f32.xml.in.h:167 ../comps-f33.xml.in.h:160
 #: ../comps-f34.xml.in.h:160
@@ -828,37 +880,39 @@ msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
+"LXDE-ն թեթև X11 դեսքթոփ միջավայր է, որը նախատեսված է ցածրակարգ ֆիզիկական "
+"կոմպոնենտների սպեցիֆիկացիայով նեթբուքերի, բջջային հեռախոսների և հին "
+"համակարգիչների համար։"
 
 #: ../comps-f32.xml.in.h:168 ../comps-f33.xml.in.h:161
 #: ../comps-f34.xml.in.h:161
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Մուլտիմեդիա ապահովում LXDE-ի համար"
 
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Office"
 
 #: ../comps-f32.xml.in.h:170 ../comps-f33.xml.in.h:163
 #: ../comps-f34.xml.in.h:163
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Օֆիսային հավաքակազմ LXDE-ի համար"
 
 #: ../comps-f32.xml.in.h:171 ../comps-f33.xml.in.h:164
 #: ../comps-f34.xml.in.h:164
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Ծրագրեր բազում տարբեր առաջադրանքների համար"
+msgstr "Ծրագրեր LXQt դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:172 ../comps-f33.xml.in.h:165
 #: ../comps-f34.xml.in.h:165
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr ""
+msgstr "Սովորաբար օգտագործվող ծրագրերի խումբ LXQt դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:173 ../comps-f33.xml.in.h:166
 #: ../comps-f34.xml.in.h:166
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
@@ -866,26 +920,29 @@ msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
+"LXQt-ն թեթև X11 դեսքթոփ միջավայր է, որը նախատեսված է ցածրակարգ ֆիզիկական "
+"կոմպոնենտների սպեցիֆիկացիայով նեթբուքերի, բջջային հեռախոսների և հին "
+"համակարգիչների համար։"
 
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "LXQt թարգմանություններ"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
 msgid "Multimedia support for LXQt"
-msgstr ""
+msgstr "Մուլտիմեդիա ապահովում LXQt-ի համար"
 
 #: ../comps-f32.xml.in.h:177 ../comps-f33.xml.in.h:170
 #: ../comps-f34.xml.in.h:170
 msgid "LXQt Office"
-msgstr ""
+msgstr "LXQt Office"
 
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
 msgid "Office suite for LXQt"
-msgstr ""
+msgstr "Օֆիսային հավաքակազմ LXQt-ի համար"
 
 #: ../comps-f32.xml.in.h:179 ../comps-f33.xml.in.h:172
 #: ../comps-f34.xml.in.h:172
@@ -895,24 +952,22 @@ msgstr "Փոստային սերվեր"
 #: ../comps-f32.xml.in.h:180 ../comps-f33.xml.in.h:173
 #: ../comps-f34.xml.in.h:173
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
-msgstr ""
+msgstr "Այս փաթեթները թույլ են տալիս կարգավորել IMAP կամ SMTP փոստային սերվեր։"
 
 #: ../comps-f32.xml.in.h:181 ../comps-f33.xml.in.h:174
 #: ../comps-f34.xml.in.h:174
-#, fuzzy
 msgid "MATE Applications"
-msgstr "ծրագրեր"
+msgstr "MATE Ծրագրեր"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Ծրագրեր բազում տարբեր առաջադրանքների համար"
+msgstr "Ծրագրեր MATE դեսքթոփի համար։"
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f32.xml.in.h:184 ../comps-f33.xml.in.h:177
 #: ../comps-f34.xml.in.h:177 ../comps-epel7.xml.in.h:165
@@ -921,29 +976,32 @@ msgid ""
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
 msgstr ""
+"MATE դեսքթոփը հիմնված է GNOME 2֊ի վրա և տրամադրում է հզոր գրաֆիկական "
+"օգտագործողի ինտերֆեյս այն օգտատերերի համար, որոնք ցանկանում են ունենալ պարզ, "
+"հեշտ օգտագործվող դասական դեսքթոփ ինտերֆեյս։"
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
-msgstr ""
+msgstr "Բժշկական Ծրագրեր"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "Սա ծրագրերի խումբ է կապված առողջապահության հետ։"
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Milkymist ֆիզիկական կոմպոնենտների ինժիներների համար գործիքակազմ։"
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
 msgid "MinGW cross-compiler"
-msgstr ""
+msgstr "MinGW cross-compiler"
 
 #: ../comps-f32.xml.in.h:190 ../comps-f33.xml.in.h:181
 #: ../comps-f34.xml.in.h:181
@@ -951,37 +1009,41 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
+"Cross-compiling ծրագրերի ապահովում 32 բիթային Windows թիրախների, դրանց "
+"թեստավորման, տեղադրիչների մշակման համար, ամբողջը Fedora միջավայրում։"
 
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f32.xml.in.h:192 ../comps-f33.xml.in.h:183
 #: ../comps-f34.xml.in.h:183
 msgid "Scalable, high-performance NoSQL database."
-msgstr ""
+msgstr "Ընդարձակելի, բարձր֊կատարողականությամբ NoSQL տվյալների բազա։"
 
 #: ../comps-f32.xml.in.h:193 ../comps-f33.xml.in.h:184
 #: ../comps-f34.xml.in.h:184
 msgid "Multimedia"
-msgstr ""
+msgstr "Մուլտիմեդիա"
 
 #: ../comps-f32.xml.in.h:194 ../comps-f33.xml.in.h:185
 #: ../comps-f34.xml.in.h:185
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Աուդիո/Վիդեո ֆրեյմվորք, որը սովորական է դեսքթոփերի համար"
 
 #: ../comps-f32.xml.in.h:195 ../comps-f33.xml.in.h:186
 #: ../comps-f34.xml.in.h:186
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB (MySQL) Տվյալների Բազա"
 
 #: ../comps-f32.xml.in.h:196 ../comps-f33.xml.in.h:187
 #: ../comps-f34.xml.in.h:187
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
+"Այս փաթեթների խումբը պարունակում փաթեթներ որոնգ օգտակար են MariaDB (MySQL)֊ի "
+"հետ օգտագործման համար։"
 
 #: ../comps-f32.xml.in.h:197 ../comps-f33.xml.in.h:188
 #: ../comps-f34.xml.in.h:188
@@ -993,11 +1055,13 @@ msgstr "Ցանցային սերվերներ"
 msgid ""
 "These packages include network-based servers such as DHCP, Kerberos and NIS."
 msgstr ""
+"Այս փաթեթները ներառում են ցանցային հիմքով սերվերներ, ինչպիսիք են DHCP, "
+"Kerberos և NIS:"
 
 #: ../comps-f32.xml.in.h:199 ../comps-f33.xml.in.h:190
 #: ../comps-f34.xml.in.h:190
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Ընդհանուր NetworkManager ենթամոդուլներ"
 
 #: ../comps-f32.xml.in.h:200 ../comps-f33.xml.in.h:191
 #: ../comps-f34.xml.in.h:191
@@ -1005,11 +1069,14 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
+"Այս խումբը պարունակում է NetworkManager ենթամոդուլներ, որոնք սովորաբար "
+"օգտագործվում են, բայց հնարավոր է անցանկալի լինեն որոշակի պարզեցված "
+"կոնֆիգուրացիաների դեպքում։"
 
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Նեյրոնների Մոդելավորման Սիմուլյատորներ"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1017,21 +1084,24 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"Այս խումբը ներառում է սիմուլյատորներ, որոնք օգտագործվում են նեյրոնների և "
+"դրանց ցանցերի մոդելավորման համար։"
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
 msgid "News Server"
-msgstr "Նորությունների սերվեր"
+msgstr "Նորությունների Սերվեր"
 
 #: ../comps-f32.xml.in.h:204 ../comps-f33.xml.in.h:195
 #: ../comps-f34.xml.in.h:195
 msgid "This group allows you to configure the system as a news server."
 msgstr ""
+"Այս խումբը թույլ է տալիս կարգավորել համակարգը որպես նորոթյունների սերվեր։"
 
 #: ../comps-f32.xml.in.h:205 ../comps-f33.xml.in.h:196
 #: ../comps-f34.xml.in.h:196
 msgid "OCaml"
-msgstr ""
+msgstr "OCaml"
 
 #: ../comps-f32.xml.in.h:206 ../comps-f33.xml.in.h:197
 #: ../comps-f34.xml.in.h:197
@@ -1039,71 +1109,75 @@ msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
+"Objective Caml ծրագրավորման լեզվով և գրադարաններով ծրագրերի մշակման "
+"ապահավում։"
 
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
 msgid "Office/Productivity"
-msgstr "Օֆիսային"
+msgstr "Օֆիս/Արդյունավետություն"
 
 #: ../comps-f32.xml.in.h:208 ../comps-f33.xml.in.h:199
 #: ../comps-f34.xml.in.h:199
 msgid "The applications include office suites, PDF viewers, and more."
 msgstr ""
+"Այս ծրագրերը ներառում են օֆիսային գործիքակազմեր, PDF դիտարկիչներ, և այլն։"
 
 #: ../comps-f32.xml.in.h:209
 msgid "Online Help and Documentation"
-msgstr ""
+msgstr "Առցանց Օգնություն և Դոկումենտացիա"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
 msgid "Pantheon Desktop"
-msgstr "Դեսքթոփներ"
+msgstr "Pantheon Դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
 msgstr ""
+"Pantheon դեսքթոփ միջավայրը այն դեսքթոփ միջավայրն է, որը օգտագործվում է "
+"elementaryOS-ում։"
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
 msgid "Perl Development"
-msgstr ""
+msgstr "Perl Ծրագրավորում"
 
 #: ../comps-f32.xml.in.h:213 ../comps-f33.xml.in.h:203
 #: ../comps-f34.xml.in.h:203
 msgid "Support for developing programs in the Perl programming language."
-msgstr ""
+msgstr "Perl ծրագրավորման լեզվով ծրագրեի մշակման ապահովում։"
 
 #: ../comps-f32.xml.in.h:214 ../comps-f33.xml.in.h:204
 #: ../comps-f34.xml.in.h:204
 msgid "Perl for Web"
-msgstr ""
+msgstr "Perl Վեբի համար"
 
 #: ../comps-f32.xml.in.h:215 ../comps-f33.xml.in.h:205
 #: ../comps-f34.xml.in.h:205
 msgid "Basic Perl web application support."
-msgstr ""
+msgstr "Perl վեբ ծրագրի հիմանական ապահովում։"
 
 #: ../comps-f32.xml.in.h:216 ../comps-f33.xml.in.h:208
 #: ../comps-f34.xml.in.h:208
 msgid "PHP"
-msgstr ""
+msgstr "PHP"
 
 #: ../comps-f32.xml.in.h:217 ../comps-f33.xml.in.h:209
 #: ../comps-f34.xml.in.h:209
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Վեբ ծրագրավորման ընդհանուր֊օգտագործման սկրիպտինգի լեզու։"
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
 msgid "VMware Platform Support"
-msgstr ""
+msgstr "VMware Պլատֆորմի Ապահովում"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "Փաթեթներ VMware վիտուալ մեքենաներում տեղադրելու համար"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1121,42 +1195,44 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Python Classroom"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Գործիքներ, որոնք օգտագործվում են Python սովորեցնելու և սովորելու համար։"
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
 msgid "Python Science"
-msgstr ""
+msgstr "Python Science"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Գործիքներ, որոնք օգտագործվում են Python-ով գիտությամբ զբաղվելու համար։"
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
 msgid "Robotics"
-msgstr ""
+msgstr "Ռոբոտաշինություն"
 
 #: ../comps-f32.xml.in.h:227 ../comps-f33.xml.in.h:219
 #: ../comps-f34.xml.in.h:219
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Փաթեթների գործիքակազմ ռոբոտաշինության համար"
 
 #: ../comps-f32.xml.in.h:228 ../comps-f33.xml.in.h:220
 #: ../comps-f34.xml.in.h:220
 msgid "RPM Development Tools"
-msgstr ""
+msgstr "RPM Ծրագրավորման Գործիքներ"
 
 #: ../comps-f32.xml.in.h:229 ../comps-f33.xml.in.h:221
 #: ../comps-f34.xml.in.h:221
 msgid "These tools include core development tools such rpmbuild."
 msgstr ""
+"Այս գործիքները ներառում են հիմնական ծրագրավորման գործիքներ, ինչպիսինն է "
+"rpmbuild-ը։"
 
 #: ../comps-f32.xml.in.h:230 ../comps-f33.xml.in.h:222
 #: ../comps-f34.xml.in.h:222
@@ -1166,22 +1242,22 @@ msgstr "Ruby"
 #: ../comps-f32.xml.in.h:231 ../comps-f33.xml.in.h:223
 #: ../comps-f34.xml.in.h:223
 msgid "Basic support for the Ruby programming language."
-msgstr "Ruby ծրագրավորման լեզվի հիմնական սպասարկում"
+msgstr "Ruby ծրագրավորման լեզվի հիմնական ապահովում:"
 
 #: ../comps-f32.xml.in.h:232 ../comps-f33.xml.in.h:224
 #: ../comps-f34.xml.in.h:224
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f32.xml.in.h:233 ../comps-f33.xml.in.h:225
 #: ../comps-f34.xml.in.h:225
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Ruby on Rails վեբ ծրագրային կույտ։"
 
 #: ../comps-f32.xml.in.h:234 ../comps-f33.xml.in.h:226
 #: ../comps-f34.xml.in.h:226
 msgid "Security Lab"
-msgstr ""
+msgstr "Անվտանգության Լաբորատորիա"
 
 #: ../comps-f32.xml.in.h:235 ../comps-f33.xml.in.h:227
 #: ../comps-f34.xml.in.h:227
@@ -1189,21 +1265,24 @@ msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
 msgstr ""
+"Անվտանգության աուդիտի, դատաբժշկական, համակարգի վերականգնման և անվտանգության "
+"ստուգման մեթոդոլոգիաների կրթության գործիքներ։"
 
 #: ../comps-f32.xml.in.h:236 ../comps-f33.xml.in.h:228
 #: ../comps-f34.xml.in.h:228
 msgid "Server Configuration Tools"
-msgstr "Սերվերի կոնֆիգուրացիայի գործիքներ"
+msgstr "Սերվերի Կոնֆիգուրացիայի Գործիքներ"
 
 #: ../comps-f32.xml.in.h:237 ../comps-f33.xml.in.h:229
 #: ../comps-f34.xml.in.h:229
 msgid "This group contains all of Red Hat's custom server configuration tools."
 msgstr ""
+"Այս խումբը պարունակում է Red Hat-ի բոլոր սերվերի կարգավորման գործիքները։"
 
 #: ../comps-f32.xml.in.h:238 ../comps-f33.xml.in.h:230
 #: ../comps-f34.xml.in.h:230
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Ֆիզիկական Կոմպոնենտների Ապահովում Սերվերային Համակարգերի համար"
 
 #: ../comps-f32.xml.in.h:239 ../comps-f33.xml.in.h:231
 #: ../comps-f34.xml.in.h:231
@@ -1211,22 +1290,24 @@ msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
 msgstr ""
+"Այս խումբը հազվադեպ ֆիզիկական կոմպոնենտների սպասարկման ծրագրերի սահմանափակ "
+"հավաքածու է։"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:241 ../comps-f33.xml.in.h:233
 #: ../comps-f34.xml.in.h:233
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora Server product core"
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
 msgid "Packages mandatory for the server product."
-msgstr ""
+msgstr "Սերվերային պրոդուկտի համար պարտադիր փաթեթներ։"
 
 #: ../comps-f32.xml.in.h:243 ../comps-f33.xml.in.h:235
 #: ../comps-f34.xml.in.h:235
 msgid "Windows File Server"
-msgstr "Windows ֆայլ սերվեր"
+msgstr "Windows Ֆայլ Սերվեր"
 
 #: ../comps-f32.xml.in.h:244 ../comps-f33.xml.in.h:236
 #: ../comps-f34.xml.in.h:236
@@ -1234,11 +1315,13 @@ msgid ""
 "This package group allows you to share files between Linux and MS "
 "Windows(tm) systems."
 msgstr ""
+"Այս փաթեթային խումբը թույլ է տալիս կիսվել ֆայլերով Linux և MS Windows(tm) "
+"համակարգերի միջև։"
 
 #: ../comps-f32.xml.in.h:245 ../comps-f33.xml.in.h:237
 #: ../comps-f34.xml.in.h:237
 msgid "Sound and Video"
-msgstr "Ձայն և վիդեո"
+msgstr "Ձայն և Վիդեո"
 
 #: ../comps-f32.xml.in.h:246 ../comps-f33.xml.in.h:238
 #: ../comps-f34.xml.in.h:238
@@ -1246,51 +1329,55 @@ msgid ""
 "From CD recording to playing audio CDs and multimedia files, this package "
 "group allows you to work with sound and video on the system."
 msgstr ""
+"CD ձայնագրումից մինձև CD և մուլտիմեդիա ֆայլերի նվագարկում, այս փաթեթների "
+"խումբը թույլ է տալիս աշխատել ձայնի ջև վիդեոյի հետ համակարգում։"
 
 #: ../comps-f32.xml.in.h:247 ../comps-f33.xml.in.h:239
 #: ../comps-f34.xml.in.h:239
 msgid "PostgreSQL Database"
-msgstr "PostgreSQL տվյալերի բազա"
+msgstr "PostgreSQL Տվյալների Բազա"
 
 #: ../comps-f32.xml.in.h:248 ../comps-f33.xml.in.h:240
 #: ../comps-f34.xml.in.h:240
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
+"Այս փաթեթների խումբը ներառում է փաթեթներ PostgreSQL-ի հետ օգտագործման համար։"
 
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
 msgid "Standard"
-msgstr ""
+msgstr "Ստանդարտ"
 
 #: ../comps-f32.xml.in.h:250 ../comps-f33.xml.in.h:242
 #: ../comps-f34.xml.in.h:242
 msgid "Common set of utilities that extend the minimal installation."
 msgstr ""
+"Սպասարկող ծրագրերի ընդհանուր խումբ, որը ընդլայնում է մինիմալ ինստալացիան։"
 
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "Լրացուցիչ Sugar Գործիքներ"
 
 #: ../comps-f32.xml.in.h:252 ../comps-f33.xml.in.h:244
 #: ../comps-f34.xml.in.h:244
 msgid "Additional activities for use with the Sugar Environment."
-msgstr ""
+msgstr "Լրացուցիր գործիքներ Sugar միջավայրում օգտագործելու համար։"
 
 #: ../comps-f32.xml.in.h:253 ../comps-f33.xml.in.h:245
 #: ../comps-f34.xml.in.h:245
 msgid "Sugar Desktop Environment"
-msgstr ""
+msgstr "Sugar դեսքթոփ միջավայր"
 
 #: ../comps-f32.xml.in.h:254 ../comps-f33.xml.in.h:246
 #: ../comps-f34.xml.in.h:246
 msgid "A software playground for learning about learning."
-msgstr ""
+msgstr "Ծրագրային ապահովման խաղասրահ սովորել սովորելու մասին։"
 
 #: ../comps-f32.xml.in.h:255 ../comps-f33.xml.in.h:247
 #: ../comps-f34.xml.in.h:247
 msgid "System Tools"
-msgstr "Համակարգային գործիքներ"
+msgstr "Համակարգային Գործիքներ"
 
 #: ../comps-f32.xml.in.h:256 ../comps-f33.xml.in.h:248
 #: ../comps-f34.xml.in.h:248
@@ -1298,11 +1385,13 @@ msgid ""
 "This group is a collection of various tools for the system, such as the "
 "client for connecting to SMB shares and tools to monitor network traffic."
 msgstr ""
+"Այս խումբը բազմազան սպասարկող ծրագրերի հավաքածու է, օրինակ SMB share֊երը "
+"միացնելու և տրաֆիկը մոնիտոր անելու համար։"
 
 #: ../comps-f32.xml.in.h:257 ../comps-f33.xml.in.h:249
 #: ../comps-f34.xml.in.h:249
 msgid "Text-based Internet"
-msgstr "Տեքստային ինտերնետ"
+msgstr "Տեքստային Ինտերնետ"
 
 #: ../comps-f32.xml.in.h:258 ../comps-f33.xml.in.h:250
 #: ../comps-f34.xml.in.h:250
@@ -1310,26 +1399,28 @@ msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
+"Այս խումբը ներառում տեքստային հիմքով էլ․փոստ, վեբ և նամակագրության կլիենտներ։"
+" Այս ծրագրերը չեն պահանջում X WIndow համակարգ։"
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
 #: ../comps-f34.xml.in.h:251
 msgid "Tomcat"
-msgstr ""
+msgstr "Tomcat"
 
 #: ../comps-f32.xml.in.h:260 ../comps-f33.xml.in.h:252
 #: ../comps-f34.xml.in.h:252
 msgid "Tomcat web application server."
-msgstr ""
+msgstr "Tomcat վեբ ծրագրային սերվեր։"
 
 #: ../comps-f32.xml.in.h:261 ../comps-f33.xml.in.h:253
 #: ../comps-f34.xml.in.h:253
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant libvirt-ի ապահովմամբ"
 
 #: ../comps-f32.xml.in.h:262 ../comps-f33.xml.in.h:254
 #: ../comps-f34.xml.in.h:254
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "Այս փաթեթները տրամադրում են Vagrant libvirt֊ի ապահովմամբ"
 
 #: ../comps-f32.xml.in.h:263 ../comps-f33.xml.in.h:255
 #: ../comps-f34.xml.in.h:255 ../comps-epel7.xml.in.h:277
@@ -1338,10 +1429,8 @@ msgstr "Վիրտուալիզացիա"
 
 #: ../comps-f32.xml.in.h:264 ../comps-f33.xml.in.h:256
 #: ../comps-f34.xml.in.h:256
-#, fuzzy
-#| msgid "Install these packages to develop QT and KDE graphical applications."
 msgid "These packages provide a graphical virtualization environment."
-msgstr "Տեղադրե՛ք այս փաթեթները QTի և KDEի գրաֆիկական ծրագրեր գրելու համար։"
+msgstr "Այս փաթեթները տրամադրում են գրաֆիկական վիզուալիզացիայի միջավայր։"
 
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
@@ -1353,177 +1442,179 @@ msgstr "Վիրտուալիզացիա"
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "Այս փաթեթները տրամադրում են վիրտուալիզացիայի միջավայր։"
 
 #: ../comps-f32.xml.in.h:267 ../comps-f33.xml.in.h:259
 #: ../comps-f34.xml.in.h:259
 msgid "Basic Web Server"
-msgstr ""
+msgstr "Հիմնական Վեբ Սերվեր"
 
 #: ../comps-f32.xml.in.h:268 ../comps-f33.xml.in.h:260
 #: ../comps-f34.xml.in.h:260
 msgid "These tools allow you to run a Web server on the system."
-msgstr ""
+msgstr "Այս գործիքները թույլ են տալիս գործարկել Վեբ սերվեր ձեր համակարգում։"
 
 #: ../comps-f32.xml.in.h:269 ../comps-f33.xml.in.h:261
 #: ../comps-f34.xml.in.h:261
 msgid "Window Managers"
-msgstr ""
+msgstr "Պատուհանային Մենեջեր"
 
 #: ../comps-f32.xml.in.h:270 ../comps-f33.xml.in.h:262
 #: ../comps-f34.xml.in.h:262
 msgid ""
 "Simple window managers that aren't part of a larger desktop environment."
 msgstr ""
+"Հասարակ պատուհանային մենեջերներ, որոնք ավելի մեծ դեսքթոփ միջավայրերի մաս չեն։"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
 msgid "Fedora Workstation ostree support"
-msgstr ""
+msgstr "Fedora Workstation ostree ապահովում"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
 msgid "Packages mandatory for the workstation ostree product."
-msgstr ""
+msgstr "Փաթեթներ, որոնք պարտադիր են workstation ostree պրոդուկտի համար։"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
 #: ../comps-f34.xml.in.h:267
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora Workstation պրոդուկտի միջուկ"
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
 msgid "Packages mandatory for the workstation product."
-msgstr ""
+msgstr "Փաթեթներ, որոնք պարտադիր են workstation պրոդուկտի համար։"
 
 #: ../comps-f32.xml.in.h:277 ../comps-f33.xml.in.h:269
 #: ../comps-f34.xml.in.h:269
 msgid "X Software Development"
-msgstr "X ծրագրերի կառուցում"
+msgstr "X Ծրագրերի Մշակում"
 
 #: ../comps-f32.xml.in.h:278 ../comps-f33.xml.in.h:270
 #: ../comps-f34.xml.in.h:270
 msgid ""
 "These packages allow you to develop applications for the X Window System."
-msgstr ""
+msgstr "Այս փաթեթները թույլ են տալիս մշակել ծրագրեր X Window համակարգի համար։"
 
 #: ../comps-f32.xml.in.h:279 ../comps-f33.xml.in.h:271
 #: ../comps-f34.xml.in.h:271
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Ծրագրեր Xfce դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:280 ../comps-f33.xml.in.h:272
 #: ../comps-f34.xml.in.h:272
 msgid "A set of commonly used applications for the Xfce Desktop"
-msgstr ""
+msgstr "Սովորաբար օգտագործվող ծրագրերի խումբ Xfce դեսքթոփի համար"
 
 #: ../comps-f32.xml.in.h:281 ../comps-f33.xml.in.h:273
 #: ../comps-f34.xml.in.h:273 ../comps-epel7.xml.in.h:295
 #: ../comps-epel8.xml.in.h:18
 msgid "Xfce"
-msgstr ""
+msgstr "Xfce"
 
 #: ../comps-f32.xml.in.h:282 ../comps-f33.xml.in.h:274
 #: ../comps-f34.xml.in.h:274 ../comps-epel7.xml.in.h:296
 #: ../comps-epel8.xml.in.h:19
 msgid "A lightweight desktop environment that works well on low end machines."
 msgstr ""
+"Թեթև դեսքթոփ միջավայր, որը լավ է աշխատում թույլ ֆիզիկական կոմպոնենտներով "
+"սարքերի վրա։"
 
 #: ../comps-f32.xml.in.h:283 ../comps-f33.xml.in.h:275
 #: ../comps-f34.xml.in.h:275
 msgid "Extra plugins for the Xfce panel"
-msgstr ""
+msgstr "Լրացուցիչ հավելումներ Xfce panel-ի համար"
 
 #: ../comps-f32.xml.in.h:284 ../comps-f33.xml.in.h:276
 #: ../comps-f34.xml.in.h:276
 msgid "Extend the functionality of the Xfce panel"
-msgstr ""
+msgstr "Հավելել Xfce պանելի ֆունկցիոնալը"
 
 #: ../comps-f32.xml.in.h:285 ../comps-f33.xml.in.h:277
 #: ../comps-f34.xml.in.h:277
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Մուլտիմեդիա ապահովում Xfce-ի համար"
 
 #: ../comps-f32.xml.in.h:286 ../comps-f33.xml.in.h:278
 #: ../comps-f34.xml.in.h:278
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Office"
 
 #: ../comps-f32.xml.in.h:287 ../comps-f33.xml.in.h:279
 #: ../comps-f34.xml.in.h:279
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Օֆիսային գործիքակազմ Xfce֊ի համար"
 
 #: ../comps-f32.xml.in.h:288 ../comps-f33.xml.in.h:280
 #: ../comps-f34.xml.in.h:280
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce Ծրագրային Ապահովման Մշակում"
 
 #: ../comps-f32.xml.in.h:289 ../comps-f33.xml.in.h:281
 #: ../comps-f34.xml.in.h:281
 msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
-msgstr ""
+msgstr "Տեղադրեք այս փաթեթները, որպեսզի մշակեք GTK+ և Xfce գրաֆիկական ծրագրեր։"
 
 #: ../comps-f32.xml.in.h:290 ../comps-f33.xml.in.h:282
 #: ../comps-f34.xml.in.h:282
 msgid "XMonad"
-msgstr ""
+msgstr "XMonad"
 
 #: ../comps-f32.xml.in.h:291 ../comps-f33.xml.in.h:283
 #: ../comps-f34.xml.in.h:283
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Սալիկավորված պատուհանային մենեջեր"
 
 #: ../comps-f32.xml.in.h:292 ../comps-f33.xml.in.h:284
 #: ../comps-f34.xml.in.h:284
 msgid "XMonad for MATE"
-msgstr ""
+msgstr "XMonad MATE֊ի համար"
 
 #: ../comps-f32.xml.in.h:293 ../comps-f33.xml.in.h:285
 #: ../comps-f34.xml.in.h:285
 msgid "XMonad window manager with MATE"
-msgstr ""
+msgstr "XMonad պատուհանային մենեջեր MATE-ի հետ"
 
 #: ../comps-f32.xml.in.h:294 ../comps-f33.xml.in.h:286
 #: ../comps-f34.xml.in.h:286
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Fedora Custome Օպերացիոն Համակարգ"
 
 #: ../comps-f32.xml.in.h:295 ../comps-f33.xml.in.h:287
 #: ../comps-f34.xml.in.h:287
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Հիմնական կառուցման բլոկ custom Fedora համակարգի համար։"
 
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
 msgid "Minimal Install"
-msgstr ""
+msgstr "Մինիմալ Տեղադրում"
 
 #: ../comps-f32.xml.in.h:297 ../comps-f33.xml.in.h:289
 #: ../comps-f34.xml.in.h:289
 msgid "Basic functionality."
-msgstr ""
+msgstr "Հիմնական ֆունկցիոնալ։"
 
 #: ../comps-f32.xml.in.h:298 ../comps-f33.xml.in.h:290
 #: ../comps-f34.xml.in.h:290 ../comps-epel8.xml.in.h:20
 msgid "KDE Plasma Workspaces"
-msgstr ""
+msgstr "KDE Plasma Workspaces"
 
 #: ../comps-f32.xml.in.h:299 ../comps-f33.xml.in.h:291
 #: ../comps-f34.xml.in.h:291
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce դեսքթոփ"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
 #: ../comps-f34.xml.in.h:293
-#, fuzzy
 msgid "Fedora Server Edition"
-msgstr "Ցանցային սերվերներ"
+msgstr "Fedora Server Edition"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1531,7 +1622,7 @@ msgstr "Ցանցային սերվերներ"
 #: ../comps-f32.xml.in.h:305 ../comps-f33.xml.in.h:297
 #: ../comps-f34.xml.in.h:297
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "Ինտեգրված, կառավարելու համար ավելի հեշտ սերվեր։"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:307 ../comps-f33.xml.in.h:299
@@ -1544,34 +1635,33 @@ msgstr ""
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
+"Fedora Workstation-ը օգտագործման համար հեշտ դեսքթոփ համակարգ է laptop-ներ և "
+"PC-ներ համար։"
 
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "Դեսքթոփներ"
+msgstr "LXQt դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:311 ../comps-f33.xml.in.h:303
 #: ../comps-f34.xml.in.h:303 ../comps-epel7.xml.in.h:299
 msgid "Cinnamon Desktop"
-msgstr ""
+msgstr "Cinnamon դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:312 ../comps-f33.xml.in.h:304
 #: ../comps-f34.xml.in.h:304 ../comps-epel7.xml.in.h:300
 msgid "MATE Desktop"
-msgstr ""
+msgstr "MATE դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "Desktops"
 msgid "Deepin Desktop"
-msgstr "Դեսքթոփներ"
+msgstr "Deepin դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1579,58 +1669,61 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Deepin դեսքթոփը դեսքթոփ միջավայր է թողարկված deepin֊ով։ Այն մշակված է "
+"էլեգանտ և օգտագործման համար հեշտ լինելու համար։"
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Փոստային սերվեր"
+msgstr "Fedora Cloud Server"
 
 #: ../comps-f32.xml.in.h:316 ../comps-f33.xml.in.h:308
 #: ../comps-f34.xml.in.h:308
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "Սերվեր, ամպային միջավայրում գործարկման համար անհրաժեշտ կոմպոնենտներով։"
 
 #: ../comps-f32.xml.in.h:317 ../comps-f33.xml.in.h:309
 #: ../comps-f34.xml.in.h:309
 msgid "Development and Creative Workstation"
-msgstr ""
+msgstr "Development and Creative Workstation"
 
 #: ../comps-f32.xml.in.h:318 ../comps-f33.xml.in.h:310
 #: ../comps-f34.xml.in.h:310
 msgid "Workstation for software, hardware, graphics, or content development."
 msgstr ""
+"Աշխատանքային միջավայր ծրագրային ապահովման, ֆիզիկական կոմպոնենտնեի, գրաֆիկայի "
+"կամ կոնտենտի մշակման համար։"
 
 #: ../comps-f32.xml.in.h:319 ../comps-f33.xml.in.h:311
 #: ../comps-f34.xml.in.h:311 ../comps-epel7.xml.in.h:286
 msgid "Web Server"
-msgstr "Վեբ սերվեր"
+msgstr "Վեբ Սերվեր"
 
 #: ../comps-f32.xml.in.h:320 ../comps-f33.xml.in.h:312
 #: ../comps-f34.xml.in.h:312
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Սերվեր ստատիկ և դինամիկ համացանցային կոնտենտ մատուցելու համար։"
 
 #: ../comps-f32.xml.in.h:321 ../comps-f33.xml.in.h:313
 #: ../comps-f34.xml.in.h:313
 msgid "Infrastructure Server"
-msgstr ""
+msgstr "Infrastructure Server"
 
 #: ../comps-f32.xml.in.h:322 ../comps-f33.xml.in.h:314
 #: ../comps-f34.xml.in.h:314
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Սերվեր ցանցային ենթակառուցվածքների գործարկելու համար։"
 
 #: ../comps-f32.xml.in.h:323 ../comps-f33.xml.in.h:315
 #: ../comps-f34.xml.in.h:315
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X WIndow համակարգ, պատուահանային մենեջերի ընտրությամբ։"
 
 #: ../comps-f32.xml.in.h:324 ../comps-f33.xml.in.h:316
 #: ../comps-f34.xml.in.h:316 ../comps-epel7.xml.in.h:128
 #: ../comps-epel8.xml.in.h:21
 msgid "KDE Desktop"
-msgstr ""
+msgstr "KDE դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:325 ../comps-f33.xml.in.h:317
 #: ../comps-f34.xml.in.h:317 ../comps-epel8.xml.in.h:22
@@ -1639,21 +1732,24 @@ msgid ""
 "user interface which includes a panel, desktop, system icons and desktop "
 "widgets, and many powerful KDE applications."
 msgstr ""
+"KDE SC-ը ներառում է KDE Plasma դեսքթոփ, կարգավորվող գրաֆիկական օգտագործողի "
+"ինտերֆեյս, որը ներառում է պանել, դեսքթոփ, համակարգային պատկերակներ ու "
+"դեսքթոփ վիդջետներ, և այլ հզոր KDE ծրագրեր։"
 
 #: ../comps-f32.xml.in.h:326 ../comps-f33.xml.in.h:318
 #: ../comps-f34.xml.in.h:318 ../comps-epel7.xml.in.h:303
 msgid "Applications"
-msgstr "ծրագրեր"
+msgstr "Ծրագրեր"
 
 #: ../comps-f32.xml.in.h:327 ../comps-f33.xml.in.h:319
 #: ../comps-f34.xml.in.h:319
 msgid "Applications to perform a variety of tasks"
-msgstr ""
+msgstr "Ծրագրեր զանազան առաջադրանքների կատարման համար"
 
 #: ../comps-f32.xml.in.h:328 ../comps-f33.xml.in.h:320
 #: ../comps-f34.xml.in.h:320
 msgid "GNOME Desktop"
-msgstr ""
+msgstr "GNOME դեսքթոփ"
 
 #: ../comps-f32.xml.in.h:329 ../comps-f33.xml.in.h:321
 #: ../comps-f34.xml.in.h:321 ../comps-epel7.xml.in.h:305
@@ -1666,6 +1762,7 @@ msgid ""
 "Packages which provide functionality for developing and building "
 "applications."
 msgstr ""
+"Փաթեթներ, որոնք տրամդրում են ֆունկցիոնալ ծրագրերի մշակման և կառուցման համար։"
 
 #: ../comps-f32.xml.in.h:331 ../comps-f33.xml.in.h:323
 #: ../comps-f34.xml.in.h:323
@@ -1675,64 +1772,64 @@ msgstr "Սերվերներ"
 #: ../comps-f32.xml.in.h:332 ../comps-f33.xml.in.h:324
 #: ../comps-f34.xml.in.h:324
 msgid "Software used for running network servers"
-msgstr "Ծրագրեր՝ ցանցային սերվերներ աշխատեցնելու համար"
+msgstr "Ծրագրեր՝ ցանցային սերվերներ գործարկելու համար"
 
 #: ../comps-f32.xml.in.h:333 ../comps-f33.xml.in.h:325
 #: ../comps-f34.xml.in.h:325
 msgid "Base System"
-msgstr ""
+msgstr "Հիմնական Համակարգ"
 
 #: ../comps-f32.xml.in.h:334 ../comps-f33.xml.in.h:326
 #: ../comps-f34.xml.in.h:326
 msgid "Various core pieces of the system."
-msgstr ""
+msgstr "Համակարգի զանազան հիմնական կտորներ։"
 
 #: ../comps-f32.xml.in.h:335
 msgid "Content"
-msgstr ""
+msgstr "Կոնտենտ"
 
 #: ../comps-f32.xml.in.h:336
 msgid "Text and other Free content."
-msgstr ""
+msgstr "Տեքստ և այլ Free կոնտենտ։"
 
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Նյարդաբանություն"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Գործիքներ Նյարդաբանության համար։"
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Հեռախոսի/թաբլեթի UX միջավայր"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
-msgstr ""
+msgstr "Հեռախոսի/թաբլեթի դեսքթոփի UX`GNOME3 տեխնոլոգիաների հիմքով։"
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
-msgstr ""
+msgstr "Լրացուցիչ Ծրագրավորում"
 
 #: ../comps-epel7.xml.in.h:2
 msgid ""
 "Additional development headers and libraries for developing applications"
-msgstr ""
+msgstr "Լրացուցիչ ծրագրավորման վերնագրեր և գրադարաններ՝ ծրագրեր մշակելու համար"
 
 #: ../comps-epel7.xml.in.h:3
 msgid "Afrikaans Support"
-msgstr "աֆրիկերենի սպասարկում"
+msgstr "Աֆրիկերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:4
 msgid "Albanian Support"
-msgstr ""
+msgstr "Ալբաներենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:5
 msgid "Amazigh Support"
-msgstr ""
+msgstr "Ամազիղ սպասարկում"
 
 #: ../comps-epel7.xml.in.h:6
 msgid "Arabic Support"
@@ -1740,7 +1837,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:7
 msgid "Armenian Support"
-msgstr ""
+msgstr "Հայերենի ապահովում"
 
 #: ../comps-epel7.xml.in.h:8
 msgid "Assamese Support"
@@ -1748,7 +1845,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:9
 msgid "Azerbaijani Support"
-msgstr ""
+msgstr "Ադրբեջաներենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:10
 msgid "Backup Client"
@@ -1768,27 +1865,27 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:14
 msgid "Base"
-msgstr "բազա"
+msgstr "Հիմք"
 
 #: ../comps-epel7.xml.in.h:15
 msgid "The basic installation of Enterprise Linux."
-msgstr ""
+msgstr "Enterprise LInux-ի հիմնական տեղակայում։"
 
 #: ../comps-epel7.xml.in.h:16
 msgid "Desktop"
-msgstr ""
+msgstr "Դեսքթոփ"
 
 #: ../comps-epel7.xml.in.h:17
 msgid "A minimal desktop that can also be used as a thin client."
-msgstr ""
+msgstr "Մինիմալ դեսքթոփ, որը կարող է նաև օգտագործվել որպես փոքր կլիենտ։"
 
 #: ../comps-epel7.xml.in.h:18
 msgid "Basque Support"
-msgstr ""
+msgstr "Բասկերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:19
 msgid "Belarusian Support"
-msgstr ""
+msgstr "Բելառուսերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:20
 msgid "Bengali Support"
@@ -1800,19 +1897,19 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:22
 msgid "Brazilian Portuguese Support"
-msgstr ""
+msgstr "Բրազիլական Պորտուգալերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:23
 msgid "Breton Support"
-msgstr ""
+msgstr "Բրետոնի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:24
 msgid "English (UK) Support"
-msgstr ""
+msgstr "Բրտանական Անգլերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:26
 msgid "Bulgarian Support"
-msgstr ""
+msgstr "Բուլղարերենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:27
 msgid "Myanmar (Burmese) Support"
@@ -1820,41 +1917,43 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:28
 msgid "Catalan Support"
-msgstr "կատալաներենի սպասարկում"
+msgstr "Կատալաներենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:29
 msgid "Chhattisgarhi Support"
-msgstr ""
+msgstr "Չհատիսգարի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:30
 msgid "Chichewa Support"
-msgstr ""
+msgstr "Չիչևա սպասարկում"
 
 #: ../comps-epel7.xml.in.h:31
 msgid "Chinese Support"
-msgstr "չինարենի սպասարկում"
+msgstr "Չինարենի սպասարկում"
 
 #: ../comps-epel7.xml.in.h:32
 msgid "CIFS file server"
-msgstr ""
+msgstr "CIFS ֆայլ սերվեր"
 
 #: ../comps-epel7.xml.in.h:33
 msgid "Share files between Linux and Microsoft Windows systems."
-msgstr ""
+msgstr "Կիսվեք ֆայլերով Linux և Microsoft Windows համակարգերի միջև։"
 
 #: ../comps-epel7.xml.in.h:36
 msgid "Compatibility libraries"
-msgstr ""
+msgstr "Համատեղելիության գրադարաններ"
 
 #: ../comps-epel7.xml.in.h:37
 msgid ""
 "Compatibility libraries for applications built on previous versions of "
 "Enterprise Linux."
 msgstr ""
+"Հաատեղելիության գրադարաններ ծրագրերի համար, որոնք մշակված են Enterprise "
+"Linux-ի նախորդ թողարկումների հիման վրա։"
 
 #: ../comps-epel7.xml.in.h:38
 msgid "Console internet tools"
-msgstr ""
+msgstr "Կոնսոլային Համացանցային գործիքներ"
 
 #: ../comps-epel7.xml.in.h:39
 msgid "Console internet access tools, often used by administrators."
