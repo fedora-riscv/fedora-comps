@@ -21,21 +21,22 @@
 # mosquito <sensor.wen@gmail.com>, 2016. #zanata
 # Tian Shixiong <tiansworld@gmail.com>, 2020.
 # Charles Lee <lchopn@gmail.com>, 2020.
+# Jingge Chen <mariocanfly@hotmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2020-08-20 15:29+0000\n"
-"Last-Translator: Charles Lee <lchopn@gmail.com>\n"
+"PO-Revision-Date: 2022-10-30 13:19+0000\n"
+"Last-Translator: Jingge Chen <mariocanfly@hotmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
-"projects/fedora-comps/master/zh_CN/>\n"
+"projects/fedora-comps/main/zh_CN/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -61,7 +62,7 @@ msgstr "Anaconda 工具"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM工具"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
@@ -221,10 +222,8 @@ msgid ""
 msgstr "一组为所有 Fedora 定制版的关键路径功能提供共享平台的软件包"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "关键路径（KDE）"
+msgstr "关键路径（Deepin桌面）"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
 #, fuzzy
@@ -298,10 +297,8 @@ msgid ""
 msgstr "这些包括开发工具和库，如 ldc 和 geany-tag。"
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "桌面环境"
+msgstr "Deepin桌面环境"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
@@ -310,28 +307,20 @@ msgid ""
 msgstr ""
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "互联网应用程序"
+msgstr "Deepin桌面应用程序"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "用于渲染桌面上文字的字体软件包。"
+msgstr "用于Deepin桌面的多媒体软件包"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "远程桌面客户端"
+msgstr "Deepin桌面Office"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "LXDE 办公套件"
+msgstr "Deepin 办公套件"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -1090,10 +1079,8 @@ msgstr "在线帮助和文档"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Cinnamon 桌面环境"
+msgstr "Pantheon 桌面环境"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1132,10 +1119,8 @@ msgstr "通用 Web 开发脚本语言。"
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "马拉提语支持"
+msgstr "VMware平台支持"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
@@ -1165,10 +1150,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Python 科学"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
@@ -1418,17 +1401,13 @@ msgstr "不在较大的桌面环境组成部分之列的简单窗口管理器。
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Fedora Workstation 产品核心软件"
+msgstr "Fedora Workstation 的ostree 支持"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Fedora Workstation 产品必须安装的软件包。"
+msgstr "Fedora Workstation 产品必须安装的ostree 软件包。"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1609,10 +1588,8 @@ msgstr "MATE 桌面环境"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE 桌面环境"
+msgstr "Deepin 桌面环境"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
