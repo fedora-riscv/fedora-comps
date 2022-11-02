@@ -406,7 +406,7 @@
       <packagereq type="mandatory">gvfs-mtp</packagereq>
       <packagereq type="mandatory">gvfs-smb</packagereq>
       <packagereq type="mandatory">hexchat</packagereq>
-      <packagereq type="mandatory">imsettings-systemd</packagereq>
+      <packagereq type="mandatory">imsettings-gsettings</packagereq>
       <packagereq type="mandatory">initial-setup-gui</packagereq>
       <packagereq type="mandatory">metacity</packagereq>
       <packagereq type="mandatory">mpv</packagereq>
@@ -558,7 +558,6 @@
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">flatpak</packagereq>
       <packagereq type="optional">flatpak-builder</packagereq>
-      <packagereq type="optional">origin-clients</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1232,7 +1231,6 @@
       <packagereq type="default">dia-electric2</packagereq>
       <packagereq type="default">dia-electronic</packagereq>
       <packagereq type="default">emacs-vregs-mode</packagereq>
-      <packagereq type="default">espresso-ab</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">flterm</packagereq>
       <packagereq type="default">freeDiameter</packagereq>
       <packagereq type="default">fritzing</packagereq>
@@ -1247,7 +1245,6 @@
       <packagereq type="default">gsim85</packagereq>
       <packagereq type="default">gtkterm</packagereq>
       <packagereq type="default">gtkwave</packagereq>
-      <packagereq type="default">hct</packagereq>
       <packagereq type="default">hiredis</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">icaro</packagereq>
       <packagereq type="default">icestorm</packagereq>
@@ -1337,7 +1334,6 @@
       <packagereq type="optional">chemtool</packagereq>
       <packagereq type="optional">coq</packagereq>
       <packagereq type="optional">coq-coqide</packagereq>
-      <packagereq type="optional">coq-doc</packagereq>
       <packagereq type="optional">cryptominisat</packagereq>
       <packagereq type="optional">csdp</packagereq>
       <packagereq type="optional">csdp-tools</packagereq>
@@ -2134,7 +2130,7 @@
       <packagereq type="optional">sil-gentium-basic-fonts</packagereq>
       <packagereq type="optional">sil-gentium-fonts</packagereq>
       <packagereq type="optional">sil-lateef-fonts</packagereq>
-      <packagereq type="optional">sil-scheherazade-fonts</packagereq>
+      <packagereq type="optional">sil-scheherazade-new-fonts</packagereq>
       <packagereq type="optional">silkscreen-expanded-fonts</packagereq>
       <packagereq type="optional">silkscreen-fonts</packagereq>
       <packagereq type="optional">sj-delphine-fonts</packagereq>
@@ -2208,8 +2204,8 @@
       <packagereq type="optional">urw-base35-z003-fonts</packagereq>
       <packagereq type="optional">vdrsymbol-fonts</packagereq>
       <packagereq type="optional">vemana2000-fonts</packagereq>
-      <packagereq type="optional">vlgothic-fonts</packagereq>
-      <packagereq type="optional">vlgothic-p-fonts</packagereq>
+      <packagereq type="optional">vl-gothic-fonts</packagereq>
+      <packagereq type="optional">vl-pgothic-fonts</packagereq>
       <packagereq type="optional">wine-marlett-fonts</packagereq>
       <packagereq type="optional">wine-symbol-fonts</packagereq>
       <packagereq type="optional">woodardworks-laconic-fonts</packagereq>
@@ -2334,7 +2330,7 @@
       <packagereq type="optional">foobillard</packagereq>
       <packagereq type="optional">fortune-mod</packagereq>
       <packagereq type="optional">four-in-a-row</packagereq>
-      <packagereq type="optional">freeciv</packagereq>
+      <packagereq type="optional">freeciv-gtk</packagereq>
       <packagereq type="optional">freecol</packagereq>
       <packagereq type="optional">freedink</packagereq>
       <packagereq type="optional">freedoom</packagereq>
@@ -2677,9 +2673,9 @@
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">cairomm-doc</packagereq>
       <packagereq type="optional">clutter-gst3-devel</packagereq>
-      <packagereq type="optional">glibmm24-devel</packagereq>
+      <packagereq type="optional">glibmm2.4-devel</packagereq>
       <packagereq type="optional">gnome-builder</packagereq>
-      <packagereq type="optional">gtkmm30-devel</packagereq>
+      <packagereq type="optional">gtkmm3.0-devel</packagereq>
       <packagereq type="optional">libgtop2-devel</packagereq>
       <packagereq type="optional">libsigc++20-devel</packagereq>
       <packagereq type="optional">vala</packagereq>
@@ -3018,7 +3014,7 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">ibus-typing-booster</packagereq>
       <packagereq type="default">im-chooser</packagereq>
       <packagereq type="default">imsettings</packagereq>
-      <packagereq type="default">imsettings-systemd</packagereq>
+      <packagereq type="default">imsettings-gsettings</packagereq>
       <packagereq type="optional">caribou</packagereq>
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">fcitx</packagereq>
@@ -3746,7 +3742,6 @@
       <packagereq type="optional">exim</packagereq>
       <packagereq type="optional">exim-clamav</packagereq>
       <packagereq type="optional">exim-doc</packagereq>
-      <packagereq type="optional">mailman3</packagereq>
       <packagereq type="optional">milter-regex</packagereq>
       <packagereq type="optional">opendkim</packagereq>
       <packagereq type="optional">postfix</packagereq>
@@ -3790,7 +3785,7 @@
       <packagereq>atril-caja</packagereq>
       <packagereq>atril-thumbnailer</packagereq>
       <packagereq>blivet-gui</packagereq>
-      <packagereq>blueberry</packagereq>
+      <packagereq>blueman</packagereq>
       <packagereq>caja</packagereq>
       <packagereq>caja-actions</packagereq>
       <packagereq>caja-image-converter</packagereq>
@@ -4719,7 +4714,6 @@
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcpflow</packagereq>
       <packagereq type="default">tcpick</packagereq>
-      <packagereq type="default">tcpjunk</packagereq>
       <packagereq type="default">tcpreen</packagereq>
       <packagereq type="default">tcpreplay</packagereq>
       <packagereq type="default">tcptrack</packagereq>
@@ -5244,7 +5238,6 @@
       <packagereq type="optional">torque-client</packagereq>
       <packagereq type="optional">torque-gui</packagereq>
       <packagereq type="optional">tunctl</packagereq>
-      <packagereq type="optional">upx</packagereq>
       <packagereq type="optional">uucp</packagereq>
       <packagereq type="optional">vnstat</packagereq>
       <packagereq type="optional">wine</packagereq>
