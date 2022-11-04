@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# Andi Chandler <andi@gowling.com>, 2014
+# Andi Chandler <andi@gowling.com>, 2014, 2022.
 # Bruce Cowan <bruce@bcowan.me.uk>, 2011
 # Bruce Cowan <l10n@bcowan.fastmail.co.uk>, 2011
 # Dimitris Glezos <glezos@transifex.com>, 2011
@@ -14,16 +14,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-03-30 04:08+0000\n"
-"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
-"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/"
-"comps/language/en_GB/)\n"
+"PO-Revision-Date: 2022-11-05 01:19+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
+"Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
+"projects/fedora-comps/main/en_GB/>\n"
 "Language: en_GB\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -51,28 +51,27 @@ msgstr "Anaconda tools"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM Tools"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Tools for working with ARM systems"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 Baremetal Tools"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Tools for working with baremetal x86 systems"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
-msgstr ""
+msgstr "Audio Production"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
-#, fuzzy
 msgid "Various tools for audio synthesis and music production."
-msgstr "Security tools for integrity and trust verification."
+msgstr "Various tools for audio synthesis and music production."
 
 #: ../comps-f32.xml.in.h:12 ../comps-f33.xml.in.h:12 ../comps-f34.xml.in.h:12
 msgid "Authoring and Publishing"
@@ -150,43 +149,42 @@ msgid "Infrastructure packages for cloud computing."
 msgstr "Infrastructure packages for cloud computing."
 
 #: ../comps-f32.xml.in.h:27 ../comps-f33.xml.in.h:25 ../comps-f34.xml.in.h:25
-#, fuzzy
 msgid "Cloud Management Tools"
-msgstr "Development Tools"
+msgstr "Cloud Management Tools"
 
 #: ../comps-f32.xml.in.h:28 ../comps-f33.xml.in.h:26 ../comps-f34.xml.in.h:26
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
+"Software to manage servers and system images that run in \"cloud\" "
+"environments"
 
 #: ../comps-f32.xml.in.h:29 ../comps-f33.xml.in.h:27 ../comps-f34.xml.in.h:27
 msgid "Cloud Server Tools"
-msgstr ""
+msgstr "Cloud Server Tools"
 
 #: ../comps-f32.xml.in.h:30 ../comps-f33.xml.in.h:28 ../comps-f34.xml.in.h:28
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
+"Software for servers and system images that run in \"cloud\" environments"
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
 msgid "Compiz"
-msgstr "MATE Desktop"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
+msgstr "This package group adds Compiz and Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
-#, fuzzy
 msgid "Container Management"
-msgstr "System Management"
+msgstr "Container Management"
 
 #: ../comps-f32.xml.in.h:34 ../comps-f33.xml.in.h:32 ../comps-f34.xml.in.h:32
-#, fuzzy
 msgid "Tools for managing Linux containers"
-msgstr "Tools for accessing mainframe computing resources."
+msgstr "Tools for managing Linux containers"
 
 #: ../comps-f32.xml.in.h:35 ../comps-f33.xml.in.h:33 ../comps-f34.xml.in.h:33
 #: ../comps-epel7.xml.in.h:41
@@ -218,22 +216,16 @@ msgstr ""
 "functionality on all Fedora spins"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Critical Path (KDE)"
+msgstr "Critical Path (Deepin desktop)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
-"A set of packages that provide the Critical Path functionality for the KDE "
-"desktop"
+"A set of packages that provide the Critical Path functionality for the "
+"Deepin desktop"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -274,17 +266,15 @@ msgstr ""
 "desktop"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
-#, fuzzy
 msgid "Critical Path (LXQt)"
-msgstr "Critical Path (LXDE)"
+msgstr "Critical Path (LXQt)"
 
 #: ../comps-f32.xml.in.h:50 ../comps-f33.xml.in.h:48 ../comps-f34.xml.in.h:48
-#, fuzzy
 msgid ""
 "A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 msgstr ""
-"A set of packages that provide the Critical Path functionality for the LXDE "
+"A set of packages that provide the Critical Path functionality for the LXQt "
 "desktop"
 
 #: ../comps-f32.xml.in.h:51 ../comps-f33.xml.in.h:49 ../comps-f34.xml.in.h:49
