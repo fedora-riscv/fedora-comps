@@ -833,7 +833,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">chromium</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">chromium</packagereq>
       <packagereq type="default">deepin-calculator</packagereq>
       <packagereq type="default">deepin-calendar</packagereq>
       <packagereq type="default">deepin-desktop</packagereq>
@@ -3724,7 +3724,7 @@
       <packagereq>breeze-gtk</packagereq>
       <packagereq>breeze-icon-theme</packagereq>
       <packagereq>dnfdragora-updater</packagereq>
-      <packagereq>falkon</packagereq>
+      <packagereq arch="aarch64,x86_64">falkon</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>initial-setup-gui</packagereq>
       <packagereq>lxqt-about</packagereq>
