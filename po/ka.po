@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-07-29 20:19+0000\n"
+"PO-Revision-Date: 2022-11-23 17:20+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
 "Language-Team: Georgian <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ka/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -110,7 +110,7 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:21 ../comps-f33.xml.in.h:19 ../comps-f34.xml.in.h:19
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C-ის ხელსაწყოები და ბიბლიოთეკები"
 
 #: ../comps-f32.xml.in.h:22 ../comps-f33.xml.in.h:20 ../comps-f34.xml.in.h:20
 msgid ""
@@ -653,7 +653,7 @@ msgstr "Java-ის აპლიკაციის სერვერი"
 #: ../comps-f32.xml.in.h:135 ../comps-f33.xml.in.h:131
 #: ../comps-f34.xml.in.h:131
 msgid "Java application server."
-msgstr ""
+msgstr "Java-ის აპლიკაციის სერვერი."
 
 #: ../comps-f32.xml.in.h:136 ../comps-f33.xml.in.h:132
 #: ../comps-f34.xml.in.h:132 ../comps-epel8.xml.in.h:5
@@ -1444,7 +1444,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:288 ../comps-f33.xml.in.h:280
 #: ../comps-f34.xml.in.h:280
 msgid "Xfce Software Development"
-msgstr ""
+msgstr "Xfce-ის პროგრამირების ბიბლიოთეკები"
 
 #: ../comps-f32.xml.in.h:289 ../comps-f33.xml.in.h:281
 #: ../comps-f34.xml.in.h:281
@@ -1452,6 +1452,8 @@ msgid ""
 "Install these packages in order to develop GTK+ and Xfce graphical "
 "applications."
 msgstr ""
+"GTK+-ის და Xfce-ის გრაფიკული პროგრამების შემუშავებისთვის დააყენეთ ეს "
+"პაკეტები."
 
 #: ../comps-f32.xml.in.h:290 ../comps-f33.xml.in.h:282
 #: ../comps-f34.xml.in.h:282
@@ -1532,7 +1534,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE სამუშაო გარემო"
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
@@ -1966,7 +1968,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:77
 msgid "Fijian Support"
-msgstr ""
+msgstr "ფიჯურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:78
 msgid "Filipino Support"
@@ -1990,7 +1992,7 @@ msgstr "ფრისულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:84
 msgid "Friulian Support"
-msgstr ""
+msgstr "ფრისულის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:85
 msgid "FTP server"
@@ -2193,7 +2195,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:138
 msgid "Latin Support"
-msgstr ""
+msgstr "ლათინურის მხარდაჭერა"
 
 #: ../comps-epel7.xml.in.h:139
 msgid "Latvian Support"
@@ -2746,7 +2748,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:281
 msgid "Virtualization Platform"
-msgstr ""
+msgstr "ვირტუალიზაციის პლატფორმა"
 
 #: ../comps-epel7.xml.in.h:282
 msgid ""
@@ -2822,7 +2824,7 @@ msgstr ""
 
 #: ../comps-epel7.xml.in.h:306
 msgid "Development tools and libraries."
-msgstr ""
+msgstr "პროგრამირების ხელსაწყოები და ბიბლიოთეკები."
 
 #, fuzzy
 #~ msgid "Fedora Server"
