@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-08-29 15:19+0000\n"
+"PO-Revision-Date: 2022-11-29 13:20+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14\n"
+"X-Generator: Weblate 4.14.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -1914,7 +1914,8 @@ msgstr "데스크탑 기반 개발"
 msgid ""
 "Development headers and libraries for developing applications to run on the "
 "Enterprise Linux Desktop Platform."
-msgstr "기업용 리눅스 데스크탑 플랫폼에서 실행하기 위해 응용프로그램 개발을 위한 개발 헤더 및 라이브러리."
+msgstr "기업용 리눅스 데스크탑 기술환경에서 실행하기 위해 응용프로그램 개발을 위한 "
+"개발 헤더 및 라이브러리."
 
 #: ../comps-epel7.xml.in.h:54
 msgid "Development tools"
@@ -2158,7 +2159,7 @@ msgstr "자바 기반(Java Platform)"
 
 #: ../comps-epel7.xml.in.h:123
 msgid "Java support for the Enterprise Linux Server and Desktop Platforms."
-msgstr "기업용(Enterprise) 리눅스 서버 및 데스크탑 플랫폼을 위한 자바(Java) 지원."
+msgstr "기업용 리눅스 서버 및 데스크탑 기술환경을 위한 자바 지원."
 
 #: ../comps-epel7.xml.in.h:124
 msgid "Kannada Support"
