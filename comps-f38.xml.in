@@ -5163,6 +5163,65 @@
     </packagelist>
   </group>
   <group>
+    <id>swaywm</id>
+    <_name>Sway Window Manager</_name>
+    <_description>Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group is a minimal set of packages to use Sway with other system components.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">sway</packagereq>
+      <packagereq type="mandatory">swaybg</packagereq>
+      <packagereq type="mandatory">swayidle</packagereq>
+      <packagereq type="mandatory">swaylock</packagereq>
+      <packagereq type="default">dunst</packagereq>
+      <packagereq type="default">foot</packagereq>
+      <packagereq type="default">grim</packagereq>
+      <packagereq type="default">polkit</packagereq>
+      <packagereq type="default">slurp</packagereq>
+      <packagereq type="default">waybar</packagereq>
+      <packagereq type="default">xdg-desktop-portal-wlr</packagereq>
+      <packagereq type="default">xorg-x11-server-Xwayland</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>swaywm-extended</id>
+    <_name>Sway Window Manager (supplemental packages)</_name>
+    <_description>Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration. This group includes additional set of packages for Fedora Sway spin.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">sway-config-fedora</packagereq>
+      <packagereq type="default">blueman</packagereq>
+      <packagereq type="default">bolt</packagereq>
+      <packagereq type="default">fprintd-pam</packagereq>
+      <packagereq type="default">gnome-keyring-pam</packagereq>
+      <packagereq type="default">imv</packagereq>
+      <packagereq type="default">kanshi</packagereq>
+      <packagereq type="default">lxqt-policykit</packagereq>
+      <packagereq type="default">mpv</packagereq>
+      <packagereq type="default">network-manager-applet</packagereq>
+      <packagereq type="default">NetworkManager-l2tp-gnome</packagereq>
+      <packagereq type="default">NetworkManager-libreswan-gnome</packagereq>
+      <packagereq type="default">NetworkManager-openconnect-gnome</packagereq>
+      <packagereq type="default">NetworkManager-openvpn-gnome</packagereq>
+      <packagereq type="default">NetworkManager-pptp-gnome</packagereq>
+      <packagereq type="default">NetworkManager-sstp-gnome</packagereq>
+      <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
+      <packagereq type="default">pavucontrol-qt</packagereq>
+      <packagereq type="default">pinentry-gnome3</packagereq>
+      <packagereq type="default">playerctl</packagereq>
+      <packagereq type="default">pulseaudio-utils</packagereq>
+      <packagereq type="default">system-config-printer</packagereq>
+      <packagereq type="default">Thunar</packagereq>
+      <packagereq type="default">thunar-archive-plugin</packagereq>
+      <packagereq type="default">wl-clipboard</packagereq>
+      <!-- provide missing portal implementations -->
+      <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
+      <packagereq type="default">sddm</packagereq>
+      <packagereq type="default">sddm-x11</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>system-tools</id>
     <_name>System Tools</_name>
     <_description>This group is a collection of various tools for the system, such as the client for connecting to SMB shares and tools to monitor network traffic.</_description>
@@ -5911,6 +5970,30 @@
     </grouplist>
     <optionlist>
       <groupid>i3-extended</groupid>
+    </optionlist>
+  </environment>
+  <environment>
+    <id>sway-desktop-environment</id>
+    <_name>Sway Desktop</_name>
+    <_description>Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration.</_description>
+    <grouplist>
+      <groupid>core</groupid>
+      <groupid>standard</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <!-- ibus does not support input-method-v2. if we want IM support it could be based on fctix5 -->
+      <!-- <groupid>input-methods</groupid> -->
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>swaywm</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid default="true">firefox</groupid>
+      <groupid default="true">swaywm-extended</groupid>
     </optionlist>
   </environment>
   <environment>
