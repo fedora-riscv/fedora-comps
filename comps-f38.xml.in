@@ -3205,6 +3205,7 @@
       <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
+      <packagereq type="default">kde-connect</packagereq>
       <packagereq type="default">kde-gtk-config</packagereq>
       <packagereq type="default">kde-partitionmanager</packagereq>
       <packagereq type="default">kde-print-manager</packagereq>
