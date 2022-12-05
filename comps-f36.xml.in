@@ -797,9 +797,9 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>freeipa-server</packagereq>
       <packagereq>bind-dyndb-ldap</packagereq>
       <packagereq>cockpit</packagereq>
+      <packagereq>freeipa-server</packagereq>
       <packagereq>freeipa-server-dns</packagereq>
       <packagereq>freeipa-server-trust-ad</packagereq>
       <packagereq>opendnssec</packagereq>
