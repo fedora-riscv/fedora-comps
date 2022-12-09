@@ -4568,12 +4568,14 @@
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
       <packagereq type="default">python3-catkin_tools</packagereq>
+      <packagereq type="default">python3-colcon-common-extensions</packagereq>
       <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-rosdep</packagereq>
       <packagereq type="default">python3-rosdistro</packagereq>
       <packagereq type="default">python3-rosinstall</packagereq>
       <packagereq type="default">python3-rosinstall_generator</packagereq>
       <packagereq type="default">python3-rospkg</packagereq>
+      <packagereq type="default">python3-vcstool</packagereq>
       <packagereq type="default">python3-vcstools</packagereq>
       <packagereq type="default">python3-wstool</packagereq>
       <packagereq type="default">rcssmonitor</packagereq>
