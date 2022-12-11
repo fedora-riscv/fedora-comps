@@ -301,6 +301,74 @@
     </packagelist>
   </group>
   <group>
+    <id>budgie-desktop</id>
+    <_name>Budgie</_name>
+    <_description>Budgie Desktop is a feature-rich, modern desktop environment.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">budgie-control-center</packagereq>
+      <packagereq type="mandatory">budgie-desktop</packagereq>
+      <packagereq type="mandatory">budgie-screensaver</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
+      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
+      <packagereq type="mandatory">gnome-software</packagereq>
+      <packagereq type="mandatory">lightdm</packagereq>
+      <packagereq type="mandatory">network-manager-applet</packagereq>
+      <packagereq type="mandatory">polkit</packagereq>
+      <packagereq type="mandatory">slick-greeter</packagereq>
+      <packagereq type="default">at-spi2-atk</packagereq>
+      <packagereq type="default">at-spi2-core</packagereq>
+      <packagereq type="default">budgie-desktop-view</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
+      <packagereq type="default">glib-networking</packagereq>
+      <packagereq type="default">gnome-backgrounds</packagereq>
+      <packagereq type="default">gnome-bluetooth</packagereq>
+      <packagereq type="default">gnome-color-manager</packagereq>
+      <packagereq type="default">gnome-disk-utility</packagereq>
+      <packagereq type="default">gnome-keyring-pam</packagereq>
+      <packagereq type="default">gnome-system-monitor</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">gvfs-afc</packagereq>
+      <packagereq type="default">gvfs-afp</packagereq>
+      <packagereq type="default">gvfs-archive</packagereq>
+      <packagereq type="default">gvfs-fuse</packagereq>
+      <packagereq type="default">gvfs-goa</packagereq>
+      <packagereq type="default">gvfs-gphoto2</packagereq>
+      <packagereq type="default">gvfs-mtp</packagereq>
+      <packagereq type="default">gvfs-smb</packagereq>
+      <packagereq type="default">ModemManager</packagereq>
+      <packagereq type="default">NetworkManager-adsl</packagereq>
+      <packagereq type="default">NetworkManager-openconnect-gnome</packagereq>
+      <packagereq type="default">NetworkManager-openvpn-gnome</packagereq>
+      <packagereq type="default">NetworkManager-ppp</packagereq>
+      <packagereq type="default">NetworkManager-pptp-gnome</packagereq>
+      <packagereq type="default">NetworkManager-ssh-gnome</packagereq>
+      <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
+      <packagereq type="default">NetworkManager-wwan</packagereq>
+      <packagereq type="default">xdg-desktop-portal</packagereq>
+      <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
+      <packagereq type="default">xdg-user-dirs-gtk</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>budgie-desktop-apps</id>
+    <_name>Budgie Desktop Applications</_name>
+    <_description>Recommended applications to use with Budgie Desktop</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">atril</packagereq>
+      <packagereq type="default">caja</packagereq>
+      <packagereq type="default">eom</packagereq>
+      <packagereq type="default">gnome-calculator</packagereq>
+      <packagereq type="default">gnome-disk-utility</packagereq>
+      <packagereq type="default">gnome-system-monitor</packagereq>
+      <packagereq type="default">gnome-terminal</packagereq>
+      <packagereq type="default">parole</packagereq>
+      <packagereq type="default">rhythmbox</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>buildsys-build</id>
     <_name>Buildsystem building group</_name>
     <_description/>
@@ -6146,6 +6214,29 @@
     </optionlist>
   </environment>
   <environment>
+    <id>budgie-desktop-environment</id>
+    <_name>Budgie Desktop</_name>
+    <_description>Budgie Desktop is a feature-rich, modern desktop environment.</_description>
+    <display_order>27</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>printing</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>budgie-desktop</groupid>
+      <groupid>budgie-desktop-apps</groupid>
+    </grouplist>
+    <optionlist/>
+  </environment>
+  <environment>
     <!-- Intended to allow interactive installation of components that will eventually be
          used in a cloud image. -->
     <id>cloud-server-environment</id>
@@ -6444,6 +6535,18 @@
       <groupid>deepin-desktop-apps</groupid>
       <groupid>deepin-desktop-media</groupid>
       <groupid>deepin-desktop-office</groupid>
+    </grouplist>
+  </category>
+  <category>
+    <id>budgie-desktop-environment</id>
+    <_name>Budgie Desktop</_name>
+    <_description>Budgie Desktop is a feature-rich, modern desktop environment.</_description>
+    <display_order>27</display_order>
+    <grouplist>
+      <groupid>budgie-desktop</groupid>
+      <groupid>budgie-desktop-apps</groupid>
+      <groupid>firefox</groupid>
+      <groupid>libreoffice</groupid>
     </grouplist>
   </category>
   <category>
