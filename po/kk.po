@@ -1,18 +1,19 @@
-# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017. #zanata
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017. #zanata, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2017-04-11 12:01+0000\n"
+"PO-Revision-Date: 2022-12-27 16:20+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
-"Language-Team: Kazakh\n"
+"Language-Team: Kazakh <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/kk/>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.15\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -31,6 +32,9 @@ msgid ""
 "This group is a collection of graphical administration tools for the system, "
 "such as for managing user accounts and configuring system hardware."
 msgstr ""
+"Бұл топ пайдаланушы тіркелгілерін басқару және жүйелік жабдықты "
+"конфигурациялау сияқты жүйеге арналған графикалық басқару құралдарының "
+"жиынтығы болып табылады."
 
 #: ../comps-f32.xml.in.h:5 ../comps-f33.xml.in.h:5 ../comps-f34.xml.in.h:5
 msgid "Anaconda tools"
@@ -38,11 +42,11 @@ msgstr "Anaconda tools"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ARM құралдары"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "ARM жүйелерімен жұмыс істеуге арналған құралдар"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
@@ -54,45 +58,48 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
-msgstr ""
+msgstr "Аудио өндірісі"
 
 #: ../comps-f32.xml.in.h:11 ../comps-f33.xml.in.h:11 ../comps-f34.xml.in.h:11
 msgid "Various tools for audio synthesis and music production."
-msgstr ""
+msgstr "Аудио синтезі мен музыканы шығаруға арналған әртүрлі құралдар."
 
 #: ../comps-f32.xml.in.h:12 ../comps-f33.xml.in.h:12 ../comps-f34.xml.in.h:12
 msgid "Authoring and Publishing"
-msgstr ""
+msgstr "Жариялауды дайындау"
 
 #: ../comps-f32.xml.in.h:13 ../comps-f33.xml.in.h:13 ../comps-f34.xml.in.h:13
 msgid ""
 "These tools allow you to create documents in the DocBook format and convert "
 "them into HTML, PDF, Postscript, and text."
 msgstr ""
+"Бұл құралдар DocBook пішімінде құжаттарды жасауға және оларды HTML, PDF, "
+"Postscript және мәтінге түрлендіруге мүмкіндік береді."
 
 #: ../comps-f32.xml.in.h:14 ../comps-f33.xml.in.h:14 ../comps-f34.xml.in.h:14
 msgid "base-x"
-msgstr ""
+msgstr "base-x"
 
 #: ../comps-f32.xml.in.h:15 ../comps-f33.xml.in.h:15 ../comps-f34.xml.in.h:15
 msgid "Local X.org display server"
-msgstr ""
+msgstr "Жергілікті X.org дисплей сервері"
 
 #: ../comps-f32.xml.in.h:16 ../comps-f33.xml.in.h:16 ../comps-f34.xml.in.h:16
 msgid "Basic Desktop"
-msgstr ""
+msgstr "Негізгі жұмыс үстелі"
 
 #: ../comps-f32.xml.in.h:17 ../comps-f33.xml.in.h:17 ../comps-f34.xml.in.h:17
 msgid "Basic X Window System with a choice of window manager."
-msgstr ""
+msgstr "Терезе менеджерін таңдауы бар негізгі X Window жүйесі."
 
 #: ../comps-f32.xml.in.h:18
 msgid "Books and Guides"
-msgstr ""
+msgstr "Кітаптар мен нұсқаулықтар"
 
 #: ../comps-f32.xml.in.h:19
 msgid "Books and Guides for Fedora users and developers"
 msgstr ""
+"Fedora пайдаланушылары мен әзірлеушілеріне арналған кітаптар мен нұсқаулықтар"
 
 #: ../comps-f32.xml.in.h:20 ../comps-f33.xml.in.h:18 ../comps-f34.xml.in.h:18
 #: ../comps-epel7.xml.in.h:25
@@ -101,13 +108,15 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:21 ../comps-f33.xml.in.h:19 ../comps-f34.xml.in.h:19
 msgid "C Development Tools and Libraries"
-msgstr ""
+msgstr "C тілінде әзірлеу құралдары мен кітапханалар"
 
 #: ../comps-f32.xml.in.h:22 ../comps-f33.xml.in.h:20 ../comps-f34.xml.in.h:20
 msgid ""
 "These tools include core development tools such as automake, gcc and "
 "debuggers."
 msgstr ""
+"Бұл құралдарға automake, gcc және жөндегіш сияқты негізгі әзірлеу құралдары "
+"кіреді."
 
 #: ../comps-f32.xml.in.h:23 ../comps-f33.xml.in.h:21 ../comps-f34.xml.in.h:21
 #: ../comps-epel7.xml.in.h:34
@@ -120,24 +129,28 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
+"Cinnamon жұмыс үстелін дәстүрлі орналасуымен, кеңейтілген мүмкіндіктерімен "
+"ұсынады, ол пайдалануға оңай, қуатты және икемділігін қамтамасыз етеді."
 
 #: ../comps-f32.xml.in.h:25 ../comps-f33.xml.in.h:23 ../comps-f34.xml.in.h:23
 msgid "Cloud Infrastructure"
-msgstr ""
+msgstr "Бұлттық инфрақұрылым"
 
 #: ../comps-f32.xml.in.h:26 ../comps-f33.xml.in.h:24 ../comps-f34.xml.in.h:24
 msgid "Infrastructure packages for cloud computing."
-msgstr ""
+msgstr "Бұлттық есептеулерге арналған инфрақұрылым дестелері."
 
 #: ../comps-f32.xml.in.h:27 ../comps-f33.xml.in.h:25 ../comps-f34.xml.in.h:25
 msgid "Cloud Management Tools"
-msgstr ""
+msgstr "Бұлтты басқару құралдары"
 
 #: ../comps-f32.xml.in.h:28 ../comps-f33.xml.in.h:26 ../comps-f34.xml.in.h:26
 msgid ""
 "Software to manage servers and system images that run in \"cloud\" "
 "environments"
 msgstr ""
+"\"Бұлттық\" орталарда жұмыс істейтін серверлер мен жүйелік бейнелерді "
+"басқаруға арналған бағдарламалық қамтама"
 
 #: ../comps-f32.xml.in.h:29 ../comps-f33.xml.in.h:27 ../comps-f34.xml.in.h:27
 msgid "Cloud Server Tools"
