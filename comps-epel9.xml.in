@@ -119,6 +119,7 @@
       <packagereq>colord-kde</packagereq>
       <packagereq>cups-pk-helper</packagereq>
       <packagereq>dolphin</packagereq>
+      <packagereq>ffmpegthumbs</packagereq>
       <packagereq>firewall-config</packagereq>
       <packagereq>glibc-all-langpacks</packagereq>
       <packagereq>gnome-keyring-pam</packagereq>
