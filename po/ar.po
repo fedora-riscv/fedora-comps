@@ -10,30 +10,31 @@
 # Munzir Taha <munzirtaha@gmail.com>, 2011
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Ahmed M. Farrag <a.m.farrag@gmail.com>, 2019. #zanata
+# Amro Hatem <amro_hatem_1@outlook.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2019-05-09 01:20+0000\n"
-"Last-Translator: Ahmed M. Farrag <a.m.farrag@gmail.com>\n"
-"Language-Team: Arabic (http://www.transifex.com/projects/p/comps/language/"
-"ar/)\n"
+"PO-Revision-Date: 2023-01-14 18:20+0000\n"
+"Last-Translator: Amro Hatem <amro_hatem_1@outlook.com>\n"
+"Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
-"X-Generator: Zanata 4.6.2\n"
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.15\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
-msgstr ""
+msgstr "طباعة ثلاثية الأبعاد"
 
 #: ../comps-f32.xml.in.h:2 ../comps-f33.xml.in.h:2 ../comps-f34.xml.in.h:2
 msgid "3D printing software"
-msgstr ""
+msgstr "برنامج الطباعة ثلاثية الأبعاد"
 
 #: ../comps-f32.xml.in.h:3 ../comps-f33.xml.in.h:3 ../comps-f34.xml.in.h:3
 msgid "Administration Tools"
@@ -49,11 +50,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:5 ../comps-f33.xml.in.h:5 ../comps-f34.xml.in.h:5
 msgid "Anaconda tools"
-msgstr ""
+msgstr "أدوات أناكوندا"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "ادوات ARM"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
