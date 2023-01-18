@@ -19,22 +19,23 @@
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # yuliya <ypoyarko@redhat.com>, 2016. #zanata
 # V I <xasertop@gmail.com>, 2022.
+# Vi <xasertop@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-09-19 16:19+0000\n"
-"Last-Translator: V I <xasertop@gmail.com>\n"
+"PO-Revision-Date: 2023-01-20 10:20+0000\n"
+"Last-Translator: Vi <xasertop@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -71,11 +72,11 @@ msgstr "Инструменты для работы с системами ARM"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "Инструменты Bare Metal x86"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Инструменты для работы с системами Bare Metal x86"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -1640,7 +1641,7 @@ msgstr "Рабочая среда LXDE"
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
 msgid "LXQt Desktop"
-msgstr "Рабочий стол LXQt"
+msgstr "Рабочий среда LXQt"
 
 #: ../comps-f32.xml.in.h:311 ../comps-f33.xml.in.h:303
 #: ../comps-f34.xml.in.h:303 ../comps-epel7.xml.in.h:299
@@ -1655,7 +1656,7 @@ msgstr "Рабочая среда MATE"
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
 msgid "Deepin Desktop"
-msgstr "Рабочая среда Deepin"
+msgstr "Рабочая среда deepin"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1663,6 +1664,8 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Рабочая среда deepin — это среда рабочего стола, выпущенная вместе с ОС "
+"deepin. Она стремится быть элегантной и простой в использовании."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
