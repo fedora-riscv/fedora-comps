@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Translators:
-# Andi Chandler <andi@gowling.com>, 2014, 2022.
+# Andi Chandler <andi@gowling.com>, 2014, 2022, 2023.
 # Bruce Cowan <bruce@bcowan.me.uk>, 2011
 # Bruce Cowan <l10n@bcowan.fastmail.co.uk>, 2011
 # Dimitris Glezos <glezos@transifex.com>, 2011
@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-11-05 01:19+0000\n"
+"PO-Revision-Date: 2023-01-20 10:20+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/fedora-comps/main/en_GB/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -290,33 +290,30 @@ msgstr ""
 "desktop"
 
 #: ../comps-f32.xml.in.h:53 ../comps-f33.xml.in.h:51 ../comps-f34.xml.in.h:51
-#, fuzzy
 msgid "D Development Tools and Libraries"
-msgstr "C Development Tools and Libraries"
+msgstr "D Development Tools and Libraries"
 
 #: ../comps-f32.xml.in.h:54 ../comps-f33.xml.in.h:52 ../comps-f34.xml.in.h:52
-#, fuzzy
 msgid ""
 "These include development tools and libraries such as ldc, and geany-tag."
-msgstr "These tools include general development tools such as git and cvs."
+msgstr ""
+"These include development tools and libraries such as ldc, and geany-tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Desktop Environments"
+msgstr "Deepin Desktop Environment"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Deepin Desktop is a desktop environment that aims at being elegant and easy "
+"to use."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Internet Applications"
+msgstr "Deepin Desktop Applications"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
 #, fuzzy
