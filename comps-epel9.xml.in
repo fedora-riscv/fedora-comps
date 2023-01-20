@@ -186,6 +186,7 @@
       <packagereq>polkit-kde</packagereq>
       <packagereq>qt5-qtdeclarative</packagereq>
       <packagereq>spectacle</packagereq>
+      <packagereq>udisks2</packagereq>
       <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq type="mandatory">plasma-workspace</packagereq>
