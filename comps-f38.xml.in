@@ -5213,14 +5213,14 @@
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">playerctl</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
+      <packagereq type="default">sddm</packagereq>
+      <packagereq type="default">sddm-x11</packagereq>
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">Thunar</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">wl-clipboard</packagereq>
       <!-- provide missing portal implementations -->
       <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
-      <packagereq type="default">sddm</packagereq>
-      <packagereq type="default">sddm-x11</packagereq>
     </packagelist>
   </group>
   <group>
