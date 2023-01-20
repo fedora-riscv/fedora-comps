@@ -5622,8 +5622,10 @@
       <packagereq type="default">ethtool</packagereq>
       <packagereq type="default">exfatprogs</packagereq>
       <packagereq type="default">fedora-chromium-config</packagereq>
+      <packagereq type="default">fedora-flathub-remote</packagereq>
       <packagereq type="default">fedora-release-workstation</packagereq>
       <packagereq type="default">fedora-workstation-backgrounds</packagereq>
+      <packagereq type="default">fedora-workstation-repositories</packagereq>
       <packagereq type="default">file</packagereq>
       <packagereq type="default">fpaste</packagereq>
       <packagereq type="default">fros-gnome</packagereq>
