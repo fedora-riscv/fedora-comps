@@ -3335,6 +3335,7 @@
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
+      <packagereq type="default">udisks2</packagereq>
       <packagereq type="default">xdg-desktop-portal-gnome</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
       <packagereq type="optional">plasma-pk-updates</packagereq>
