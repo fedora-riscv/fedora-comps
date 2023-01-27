@@ -3292,6 +3292,7 @@
       <packagereq type="default">khelpcenter</packagereq>
       <packagereq type="default">khotkeys</packagereq>
       <packagereq type="default">kinfocenter</packagereq>
+      <packagereq type="default">kio-admin</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
       <packagereq type="default">kmag</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">kmail</packagereq>
