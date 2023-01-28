@@ -5028,6 +5028,7 @@
       <packagereq type="optional">isomaster</packagereq>
       <packagereq type="optional">juk</packagereq>
       <packagereq type="optional">k3b</packagereq>
+      <packagereq type="optional">kdenlive</packagereq>
       <packagereq type="optional">kid3</packagereq>
       <packagereq type="optional">kmix</packagereq>
       <packagereq type="optional">kover</packagereq>
