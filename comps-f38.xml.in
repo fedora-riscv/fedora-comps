@@ -365,7 +365,7 @@
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal</packagereq>
       <packagereq type="default">parole</packagereq>
-      <packagereq type="default">rhythmbox</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
     </packagelist>
   </group>
   <group>
@@ -1129,7 +1129,6 @@
       <packagereq type="optional">subunit</packagereq>
       <packagereq type="optional">svn2cl</packagereq>
       <packagereq type="optional">tig</packagereq>
-      <packagereq type="optional">tkcvs</packagereq>
       <packagereq type="optional">tortoisehg</packagereq>
       <packagereq type="optional">translate-toolkit</packagereq>
       <packagereq type="optional">utrac</packagereq>
@@ -1230,7 +1229,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">code-editor</packagereq>
       <packagereq type="optional">emacs</packagereq>
       <packagereq type="optional">emacs-auctex</packagereq>
       <packagereq type="optional">emacs-bbdb</packagereq>
@@ -1256,7 +1254,6 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">anki</packagereq>
       <packagereq type="optional">blinken</packagereq>
       <packagereq type="optional">cantor</packagereq>
       <packagereq type="optional">corrida</packagereq>
@@ -1366,7 +1363,6 @@
       <packagereq type="default">smartsim</packagereq>
       <packagereq type="default">srecord</packagereq>
       <packagereq type="default">tclspice</packagereq>
-      <packagereq type="default">tkcvs</packagereq>
       <packagereq type="default">tkgate</packagereq>
       <packagereq type="default">trellis</packagereq>
       <packagereq type="default">uisp</packagereq>
@@ -1450,7 +1446,6 @@
       <packagereq type="optional">gnome-chemistry-utils</packagereq>
       <packagereq type="optional">gpredict</packagereq>
       <packagereq type="optional">grace</packagereq>
-      <packagereq type="optional">grads</packagereq>
       <packagereq type="optional">gromacs</packagereq>
       <packagereq type="optional">gromacs-openmpi</packagereq>
       <packagereq type="optional">gshhg-gmt-nc4-full</packagereq>
@@ -1466,7 +1461,6 @@
       <packagereq type="optional">libmatheval</packagereq>
       <packagereq type="optional">libtcd</packagereq>
       <packagereq type="optional">linbox</packagereq>
-      <packagereq type="optional">ltl2ba</packagereq>
       <packagereq type="optional">Macaulay2</packagereq>
       <packagereq type="optional">malaga</packagereq>
       <packagereq type="optional">maxima-gui</packagereq>
@@ -1863,7 +1857,6 @@
       <packagereq type="optional">google-noto-sans-deseret-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-devanagari-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-devanagari-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-display-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-duployan-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-egyptian-hieroglyphs-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-elbasan-fonts</packagereq>
@@ -2017,7 +2010,6 @@
       <packagereq type="optional">google-noto-serif-cjk-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-cjk-ttc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-devanagari-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-display-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-dives-akuru-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-dogra-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-ethiopic-vf-fonts</packagereq>
@@ -2060,7 +2052,7 @@
       <packagereq type="optional">grimmer-proggy-tinysz-fonts</packagereq>
       <packagereq type="optional">gubbi-fonts</packagereq>
       <packagereq type="optional">gust-antykwa-torunska-fonts</packagereq>
-      <packagereq type="optional">hanazono-fonts</packagereq>
+      <packagereq type="optional">hanamin-fonts</packagereq>
       <packagereq type="optional">hiran-perizia-fonts</packagereq>
       <packagereq type="optional">horai-ume-gothic-fonts</packagereq>
       <packagereq type="optional">horai-ume-hgothic-fonts</packagereq>
@@ -2071,8 +2063,8 @@
       <packagereq type="optional">ht-alegreya-fonts</packagereq>
       <packagereq type="optional">ht-caladea-fonts</packagereq>
       <packagereq type="optional">impallari-raleway-fonts</packagereq>
-      <packagereq type="optional">ipa-ex-gothic-fonts</packagereq>
-      <packagereq type="optional">ipa-ex-mincho-fonts</packagereq>
+      <packagereq type="optional">ipa-exgothic-fonts</packagereq>
+      <packagereq type="optional">ipa-exmincho-fonts</packagereq>
       <packagereq type="optional">ipa-gothic-fonts</packagereq>
       <packagereq type="optional">ipa-mincho-fonts</packagereq>
       <packagereq type="optional">ipa-pgothic-fonts</packagereq>
@@ -2427,7 +2419,6 @@
       <packagereq type="optional">games-menus</packagereq>
       <packagereq type="optional">gbrainy</packagereq>
       <packagereq type="optional">gemdropx</packagereq>
-      <packagereq type="optional">gl-117</packagereq>
       <packagereq type="optional">glaxium</packagereq>
       <packagereq type="optional">glob2</packagereq>
       <packagereq type="optional">gnome-chess</packagereq>
@@ -2753,7 +2744,7 @@
       <packagereq type="default">libgda-devel</packagereq>
       <packagereq type="default">libgnome-keyring-devel</packagereq>
       <packagereq type="default">libnotify-devel</packagereq>
-      <packagereq type="default">webkit2gtk5.0-devel</packagereq>
+      <packagereq type="default">webkitgtk6.0-devel</packagereq>
       <packagereq type="optional">cairomm-devel</packagereq>
       <packagereq type="optional">cairomm-doc</packagereq>
       <packagereq type="optional">clutter-gst3-devel</packagereq>
@@ -3117,7 +3108,6 @@
       <packagereq type="optional">ibus-table-chinese-quick</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
       <packagereq type="optional">input-pad</packagereq>
-      <packagereq type="optional">scim-anthy</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
       <packagereq type="optional">scim-hangul</packagereq>
@@ -4139,7 +4129,6 @@
       <packagereq type="optional">dhcp-relay</packagereq>
       <packagereq type="optional">dhcp-server</packagereq>
       <packagereq type="optional">dnsmasq</packagereq>
-      <packagereq type="optional">ejabberd</packagereq>
       <packagereq type="optional">freeradius</packagereq>
       <packagereq type="optional">frr</packagereq>
       <packagereq type="optional">fwknop</packagereq>
@@ -4153,6 +4142,7 @@
       <packagereq type="optional">oidentd</packagereq>
       <packagereq type="optional">openldap-servers</packagereq>
       <packagereq type="optional">privoxy</packagereq>
+      <packagereq type="optional">prosody</packagereq>
       <packagereq type="optional">puppet</packagereq>
       <packagereq type="optional">radvd</packagereq>
       <packagereq type="optional">tigervnc-server</packagereq>
@@ -4317,7 +4307,7 @@
       <packagereq type="optional">skrooge</packagereq>
       <packagereq type="optional">starcal</packagereq>
       <packagereq type="optional">tellico</packagereq>
-      <packagereq type="optional">texlive-IEEEtran</packagereq>
+      <packagereq type="optional">texlive-ieeetran</packagereq>
       <packagereq type="optional">texlive-xdvi</packagereq>
       <packagereq type="optional">texmaker</packagereq>
       <packagereq type="optional">vym</packagereq>
@@ -4468,7 +4458,6 @@
       <packagereq type="default">samba-client</packagereq>
       <packagereq type="default">system-config-printer-udev</packagereq>
       <packagereq type="optional">a2ps</packagereq>
-      <packagereq type="optional">cups-bjnp</packagereq>
       <packagereq type="optional">cups-pdf</packagereq>
       <packagereq type="optional">enscript</packagereq>
       <packagereq type="optional">foomatic</packagereq>
@@ -4965,7 +4954,6 @@
       <packagereq type="optional">soundconverter</packagereq>
       <packagereq type="optional">soundtracker</packagereq>
       <packagereq type="optional">sox</packagereq>
-      <packagereq type="optional">sweep</packagereq>
       <packagereq type="optional">tagtool</packagereq>
       <packagereq type="optional">totem</packagereq>
       <packagereq type="optional">tvtime</packagereq>
@@ -5104,8 +5092,6 @@
       <packagereq>sugar-deducto</packagereq>
       <packagereq>sugar-distance</packagereq>
       <packagereq>sugar-flipsticks</packagereq>
-      <packagereq>sugar-playgo</packagereq>
-      <packagereq>sugar-pukllanapac</packagereq>
       <packagereq>sugar-srilanka</packagereq>
       <packagereq>sugar-view-slides</packagereq>
       <packagereq>sugar-xoirc</packagereq>
@@ -5140,19 +5126,15 @@
       <packagereq>sugar-cp-all</packagereq>
       <packagereq>sugar-cp-updater</packagereq>
       <packagereq>sugar-finance</packagereq>
-      <packagereq>sugar-fototoon</packagereq>
       <packagereq>sugar-imageviewer</packagereq>
       <packagereq>sugar-implode</packagereq>
-      <packagereq>sugar-jukebox</packagereq>
       <packagereq>sugar-log</packagereq>
       <packagereq>sugar-logos</packagereq>
       <packagereq>sugar-maze</packagereq>
       <packagereq>sugar-memorize</packagereq>
       <packagereq>sugar-moon</packagereq>
-      <packagereq>sugar-paint</packagereq>
       <packagereq>sugar-physics</packagereq>
       <packagereq>sugar-pippy</packagereq>
-      <packagereq>sugar-portfolio</packagereq>
       <packagereq>sugar-read</packagereq>
       <packagereq>sugar-record</packagereq>
       <packagereq>sugar-speak</packagereq>
@@ -5161,8 +5143,6 @@
       <packagereq>sugar-terminal</packagereq>
       <packagereq>sugar-toolkit-gtk3</packagereq>
       <packagereq>sugar-turtleart</packagereq>
-      <packagereq>sugar-typing-turtle</packagereq>
-      <packagereq>sugar-words</packagereq>
       <packagereq>sugar-write</packagereq>
       <packagereq>wireplumber</packagereq>
     </packagelist>
@@ -5198,7 +5178,7 @@
       <packagereq type="mandatory">sway-config-fedora</packagereq>
       <packagereq type="default">blueman</packagereq>
       <packagereq type="default">bolt</packagereq>
-      <packagereq type="default">fprintd-pam</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
       <packagereq type="default">imv</packagereq>
       <packagereq type="default">kanshi</packagereq>
