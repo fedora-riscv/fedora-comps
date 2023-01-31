@@ -70,7 +70,7 @@ for pkgreq in pkgreqs:
     if missing == list(ARCHES):
         if pkgreq.getparent() is not None:
             removedpkgs[pkgname].append(grpid)
-#            pkgreq.getparent().remove(pkgreq)
+            pkgreq.getparent().remove(pkgreq)
     elif missing and reqtype != 'optional':
         archpkgs[pkgname] = ','.join(present)
 
@@ -138,4 +138,4 @@ for lang in removedlang:
 
 # Write out the updated XML file if desired
 if args.update:
-    tree.write(latest, encoding="UTF-8", xml_declaration=True)
+    tree.write(compsfile, encoding="UTF-8", xml_declaration=True)
