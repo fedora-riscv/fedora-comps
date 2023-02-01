@@ -6620,6 +6620,15 @@
     </grouplist>
   </category>
   <category>
+    <id>phosh-desktop-environment</id>
+    <_name>Phosh Desktop</_name>
+    <_description>A pure wayland shell for mobile devices</_description>
+    <display_order>28</display_order>
+    <grouplist>
+      <groupid>phosh-desktop</groupid>
+    </grouplist>
+  </category>
+  <category>
     <id>gnome-desktop-environment</id>
     <_name>GNOME Desktop</_name>
     <_description>GNOME is a highly intuitive and user friendly desktop environment.</_description>
