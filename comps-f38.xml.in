@@ -704,9 +704,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">evolution</packagereq>
       <packagereq type="default">firefox</packagereq>
-      <packagereq arch="aarch64,ppc64le,x86_64" type="default">thunderbird</packagereq>
     </packagelist>
   </group>
   <group>
