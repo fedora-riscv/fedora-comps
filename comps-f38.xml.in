@@ -713,11 +713,10 @@
     <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <!-- @core is already in the critical path, there is no need to duplicate things from @core here -->
     <packagelist>
       <packagereq type="mandatory">anaconda</packagereq>
-      <packagereq type="mandatory">bash</packagereq>
       <packagereq type="mandatory">dbus-broker</packagereq>
-      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
