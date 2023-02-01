@@ -775,7 +775,6 @@
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
       <packagereq type="default">gnome-software</packagereq>
-      <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">nautilus</packagereq>
     </packagelist>
   </group>
@@ -2652,7 +2651,6 @@
       <packagereq type="default">gvfs-gphoto2</packagereq>
       <packagereq type="default">gvfs-mtp</packagereq>
       <packagereq type="default">gvfs-smb</packagereq>
-      <packagereq type="default">libcanberra-gtk3</packagereq>
       <packagereq type="default">libproxy-duktape</packagereq>
       <packagereq type="default">librsvg2</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
