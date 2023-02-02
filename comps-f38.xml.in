@@ -4453,6 +4453,7 @@
       <packagereq type="mandatory">ghostscript</packagereq>
       <packagereq type="default">bluez-cups</packagereq>
       <packagereq type="default">colord</packagereq>
+      <packagereq type="default">cups-browsed</packagereq>
       <packagereq type="default">cups-pk-helper</packagereq>
       <packagereq type="default">gutenprint</packagereq>
       <packagereq type="default">gutenprint-cups</packagereq>

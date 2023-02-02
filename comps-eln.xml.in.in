@@ -1878,6 +1878,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cups</packagereq>
+      <packagereq type="default">cups-browsed</packagereq>
       <packagereq type="default">foomatic</packagereq>
       <packagereq type="default">foomatic-filters</packagereq>
       <packagereq type="default">gutenprint</packagereq>
