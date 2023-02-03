@@ -1,0 +1,21 @@
+#!/usr/bin/bash
+
+set -euxo pipefail
+
+main() {
+    failure="false"
+
+    make sort || failure="true"
+    make validate || failure="true"
+
+    # Fail if any changes were made to the repo
+    if [[ -n "(git status --short)" ]]; then
+        failure="true"
+    fi
+    if [[ "${failure}" == "true" ]]; then
+        echo "At least one check failed!"
+        exit 1
+    fi
+}
+
+main "${@}"

@@ -1,0 +1,9 @@
+ - project:
+     check:
+       jobs:
+         - validate
+
+ - job:
+     name: validate
+     description: Validate comps files
+     run: ci/validate.yaml

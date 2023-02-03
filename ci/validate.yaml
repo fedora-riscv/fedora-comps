@@ -1,0 +1,6 @@
+ - hosts: all
+   tasks:
+     - name: Validate comps files
+       ansible.builtin.command:
+         chdir: "{{ ansible_user_dir }}/{{ zuul.project.src_dir }}"
+         cmd: ci/validate
