@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-01-20 10:20+0000\n"
+"PO-Revision-Date: 2023-02-07 01:20+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/fedora-comps/main/en_GB/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15.1\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -316,22 +316,16 @@ msgid "Deepin Desktop Applications"
 msgstr "Deepin Desktop Applications"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Fonts packages for rendering text on the desktop."
+msgstr "Media packages for Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Remote Desktop Clients"
+msgstr "Deepin Desktop Office"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
-#, fuzzy
-#| msgid "Office suite for LXDE"
 msgid "Office suite for Deepin Desktop"
-msgstr "Office suite for LXDE"
+msgstr "Office suite for Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -342,6 +336,8 @@ msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"These packages are targeted towards professional designers, and are related "
+"to graphics, web and animation."
 
 #: ../comps-f32.xml.in.h:63 ../comps-f33.xml.in.h:61 ../comps-f34.xml.in.h:61
 msgid "Development Libraries"
@@ -358,9 +354,8 @@ msgid "Development Tools"
 msgstr "Development Tools"
 
 #: ../comps-f32.xml.in.h:66 ../comps-f33.xml.in.h:64 ../comps-f34.xml.in.h:64
-#, fuzzy
 msgid "These tools include general development tools such as git and CVS."
-msgstr "These tools include general development tools such as git and cvs."
+msgstr "These tools include general development tools such as git and CVS."
 
 #: ../comps-f32.xml.in.h:67 ../comps-f33.xml.in.h:65 ../comps-f34.xml.in.h:65
 #: ../comps-epel7.xml.in.h:56
@@ -397,11 +392,11 @@ msgstr "Enterprise-class open source Certificate Authority"
 
 #: ../comps-f32.xml.in.h:74 ../comps-f33.xml.in.h:72 ../comps-f34.xml.in.h:72
 msgid "Domain Membership"
-msgstr ""
+msgstr "Domain Membership"
 
 #: ../comps-f32.xml.in.h:75 ../comps-f33.xml.in.h:73 ../comps-f34.xml.in.h:73
 msgid "Support for joining a FreeIPA or Active Directory Domain"
-msgstr ""
+msgstr "Support for joining a FreeIPA or Active Directory Domain"
 
 #: ../comps-f32.xml.in.h:76 ../comps-f33.xml.in.h:74 ../comps-f34.xml.in.h:74
 msgid "Fedora Eclipse"
@@ -438,9 +433,8 @@ msgid "Electronic Lab"
 msgstr "Electronic Lab"
 
 #: ../comps-f32.xml.in.h:83 ../comps-f33.xml.in.h:81 ../comps-f34.xml.in.h:81
-#, fuzzy
 msgid "Design and simulation tools for hardware engineers"
-msgstr "Design and Simulation tools for hardware engineers"
+msgstr "Design and simulation tools for hardware engineers"
 
 #: ../comps-f32.xml.in.h:84 ../comps-f33.xml.in.h:82 ../comps-f34.xml.in.h:82
 msgid "Engineering and Scientific"
