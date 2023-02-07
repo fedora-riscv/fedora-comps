@@ -6073,6 +6073,24 @@
     </optionlist>
   </environment>
   <environment>
+    <id>phosh-desktop-environment</id>
+    <_name>Phosh Desktop</_name>
+    <_description/>
+    <display_order>16</display_order>
+    <grouplist>
+      <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
+      <groupid>admin-tools</groupid>
+      <groupid>fonts</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>hardware-support</groupid>
+      <groupid>phosh-desktop</groupid>
+    </grouplist>
+  </environment>
+  <environment>
     <!-- Intended only for the Fedora Server product; other products will not
          show this because they don’t include the fedora-release-server
          package.  Please keep this mostly in sync with
@@ -6305,7 +6323,6 @@
       <groupid>budgie-desktop</groupid>
       <groupid>budgie-desktop-apps</groupid>
     </grouplist>
-    <optionlist/>
   </environment>
   <environment>
     <!-- Intended to allow interactive installation of components that will eventually be
