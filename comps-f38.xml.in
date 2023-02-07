@@ -1312,7 +1312,6 @@
       <packagereq type="default">dia-Digital</packagereq>
       <packagereq type="default">dia-electric2</packagereq>
       <packagereq type="default">dia-electronic</packagereq>
-      <packagereq type="default">emacs-vregs-mode</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">flterm</packagereq>
       <packagereq type="default">freeDiameter</packagereq>
       <packagereq type="default">fritzing</packagereq>
@@ -1349,7 +1348,6 @@
       <packagereq type="default">perl-Hardware-Vhdl-Parser</packagereq>
       <packagereq type="default">perl-ModelSim-List</packagereq>
       <packagereq type="default">perl-Perlilog</packagereq>
-      <packagereq type="default">perl-SystemC-Vregs</packagereq>
       <packagereq type="default">perl-Verilog-Perl</packagereq>
       <packagereq type="default">perl-Verilog-Readmem</packagereq>
       <packagereq type="default">picocom</packagereq>
@@ -4562,7 +4560,6 @@
       <packagereq type="default">python3-catkin_pkg</packagereq>
       <packagereq type="default">python3-catkin_tools</packagereq>
       <packagereq type="default">python3-colcon-common-extensions</packagereq>
-      <packagereq type="default">python3-player</packagereq>
       <packagereq type="default">python3-rosdep</packagereq>
       <packagereq type="default">python3-rosdistro</packagereq>
       <packagereq type="default">python3-rosinstall</packagereq>
