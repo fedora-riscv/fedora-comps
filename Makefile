@@ -38,5 +38,5 @@ comps-eln.xml.in: comps-eln.xml.in.in
 	./update-comps $@
 
 # Add an easy alias to generate a rawhide comps file
-comps-rawhide.xml comps-rawhide: comps-f38.xml
-	@mv comps-f38.xml comps-rawhide.xml
+comps-rawhide.xml comps-rawhide: comps-f39.xml
+	@mv comps-f39.xml comps-rawhide.xml
