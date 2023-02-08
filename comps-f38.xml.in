@@ -5842,6 +5842,7 @@
       <packagereq>xdg-user-dirs-gtk</packagereq>
       <packagereq>xfce4-appfinder</packagereq>
       <packagereq>xfce4-datetime-plugin</packagereq>
+      <packagereq>xfce4-panel-profiles</packagereq>
       <packagereq>xfce4-places-plugin</packagereq>
       <packagereq>xfce4-pulseaudio-plugin</packagereq>
       <packagereq>xfce4-screensaver</packagereq>
