@@ -1636,7 +1636,7 @@
       <packagereq type="default">google-noto-sans-armenian-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-canadian-aboriginal-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-cherokee-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-cjk-ttc-fonts</packagereq>
+      <packagereq type="default">google-noto-sans-cjk-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-ethiopic-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-georgian-vf-fonts</packagereq>
       <packagereq type="default">google-noto-sans-gurmukhi-vf-fonts</packagereq>
@@ -1861,10 +1861,7 @@
       <packagereq type="optional">google-noto-sans-chakma-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cham-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-chorasmian-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-cjk-jp-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-cjk-kr-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-cjk-sc-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-cjk-tc-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-cjk-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-coptic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cuneiform-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cypriot-fonts</packagereq>
@@ -1891,7 +1888,6 @@
       <packagereq type="optional">google-noto-sans-inscriptional-pahlavi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-inscriptional-parthian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-javanese-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-jp-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kaithi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kannada-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-kannada-vf-fonts</packagereq>
@@ -1899,7 +1895,6 @@
       <packagereq type="optional">google-noto-sans-kharoshthi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-khojki-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-khudawadi-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-kr-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lao-looped-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lao-looped-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-lepcha-fonts</packagereq>
@@ -1925,10 +1920,6 @@
       <packagereq type="optional">google-noto-sans-miao-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-modi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mongolian-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-mono-cjk-jp-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-mono-cjk-kr-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-mono-cjk-sc-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-mono-cjk-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-mro-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-multani-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-myanmar-vf-fonts</packagereq>
@@ -1961,7 +1952,6 @@
       <packagereq type="optional">google-noto-sans-runic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-samaritan-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-saurashtra-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-sc-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-sharada-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-shavian-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-siddham-fonts</packagereq>
@@ -1990,7 +1980,6 @@
       <packagereq type="optional">google-noto-sans-tamil-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tamil-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-tangsa-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-ui-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-telugu-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-thai-looped-fonts</packagereq>
@@ -2018,11 +2007,8 @@
       <packagereq type="optional">google-noto-serif-armenian-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-balinese-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-bengali-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-jp-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-kr-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-sc-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-tc-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-ttc-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-cjk-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-cjk-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-devanagari-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-dives-akuru-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-dogra-fonts</packagereq>
@@ -2032,12 +2018,10 @@
       <packagereq type="optional">google-noto-serif-gujarati-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-gurmukhi-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-hebrew-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-jp-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-kannada-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-khitan-small-script-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-khmer-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-khojki-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-kr-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-lao-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-makasar-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-malayalam-vf-fonts</packagereq>
@@ -2047,11 +2031,9 @@
       <packagereq type="optional">google-noto-serif-np-hmong-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-old-uyghur-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-oriya-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-sc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-sinhala-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-tamil-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-tangut-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-tc-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-telugu-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-thai-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-tibetan-vf-fonts</packagereq>
