@@ -653,6 +653,16 @@
     @core is also considered part of the Critical Path.
   -->
   <group>
+    <id>critical-path-anaconda</id>
+    <_name>Critical Path (anaconda)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for installing Fedora with anaconda</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">anaconda</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-apps</id>
     <_name>Critical Path (Applications)</_name>
     <_description>A set of applications that are considered critical path</_description>
@@ -670,24 +680,36 @@
     <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
     <default>false</default>
     <uservisible>false</uservisible>
+    <!-- @core is already in the critical path, there is no need to duplicate things from @core here -->
     <packagelist>
-      <packagereq type="mandatory">anaconda</packagereq>
-      <packagereq type="mandatory">bash</packagereq>
       <packagereq type="mandatory">dbus-broker</packagereq>
-      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
-      <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
-      <!-- 'kernel' is listed because we need to ensure that kernel
-           packages exist and are installable etc. We're not using this
-           to force-install 'kernel' over 'kernel-PAE' or anything. -->
       <packagereq type="mandatory">kernel</packagereq>
-      <packagereq type="mandatory">livecd-tools</packagereq>
       <packagereq type="mandatory">NetworkManager</packagereq>
-      <!-- Build/Compose tools -->
-      <packagereq type="mandatory">pungi</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>critical-path-build</id>
+    <_name>Critical Path (Build)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for building Fedora packages</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">gcc-c++</packagereq>
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>critical-path-compose</id>
+    <_name>Critical Path (Compose)</_name>
+    <_description>A set of packages that provide the Critical Path functionality for building Fedora deliverables</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">lorax</packagereq>
+      <packagereq type="mandatory">pungi</packagereq>
       <packagereq type="mandatory">selinux-policy</packagereq>
       <packagereq type="mandatory">setup</packagereq>
     </packagelist>
