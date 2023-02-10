@@ -3354,6 +3354,7 @@
       <packagereq type="default">dolphin</packagereq>
       <packagereq type="default">ffmpegthumbs</packagereq>
       <packagereq type="default">firewall-config</packagereq>
+      <packagereq type="default">flatpak-kcm</packagereq>
       <packagereq type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
