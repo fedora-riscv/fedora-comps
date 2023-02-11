@@ -360,12 +360,14 @@
       <packagereq type="default">atril</packagereq>
       <packagereq type="default">eom</packagereq>
       <packagereq type="default">firefox</packagereq>
+      <packagereq type="default">gedit</packagereq>
       <packagereq type="default">gnome-calculator</packagereq>
       <packagereq type="default">gnome-disk-utility</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal</packagereq>
       <packagereq type="default">nemo</packagereq>
       <packagereq type="default">parole</packagereq>
+      <packagereq type="default">seahorse</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
     </packagelist>
   </group>
