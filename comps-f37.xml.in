@@ -378,8 +378,8 @@
       <packagereq type="default">gnome-terminal</packagereq>
       <packagereq type="default">nemo</packagereq>
       <packagereq type="default">parole</packagereq>
-      <packagereq type="default">seahorse</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
+      <packagereq type="default">seahorse</packagereq>
     </packagelist>
   </group>
   <group>
