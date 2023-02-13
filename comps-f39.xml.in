@@ -3302,6 +3302,7 @@
       <packagereq type="default">kwebkitpart</packagereq>
       <packagereq type="default">kwin</packagereq>
       <packagereq type="default">kwrite</packagereq>
+      <packagereq type="default">libappindicator-gtk3</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
       <packagereq type="default">okular</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
