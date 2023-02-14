@@ -4311,22 +4311,22 @@
     <default>false</default>
     <uservisible>true</uservisible>
     <packagelist>
-      <packagereq type="optional">arbor</packagereq>
-      <packagereq type="optional">bionetgen</packagereq>
-      <packagereq type="optional">calcium-calculator</packagereq>
-      <packagereq type="optional">COPASI</packagereq>
-      <packagereq type="optional">genesis-simulator</packagereq>
-      <packagereq type="optional">moose</packagereq>
-      <packagereq type="optional">neuron-devel</packagereq>
-      <packagereq type="optional">python3-brian2</packagereq>
-      <packagereq type="optional">python3-lfpy</packagereq>
-      <packagereq type="optional">python3-nest</packagereq>
-      <packagereq type="optional">python3-netpyne</packagereq>
-      <packagereq type="optional">python3-neuron</packagereq>
-      <packagereq type="optional">python3-PyLEMS</packagereq>
-      <packagereq type="optional">python3-pynn</packagereq>
-      <packagereq type="optional">python3-steps</packagereq>
-      <packagereq type="optional">smoldyn</packagereq>
+      <packagereq type="default">arbor</packagereq>
+      <packagereq type="default">bionetgen</packagereq>
+      <packagereq type="default">calcium-calculator</packagereq>
+      <packagereq type="default">COPASI</packagereq>
+      <packagereq type="default">genesis-simulator</packagereq>
+      <packagereq type="default">moose</packagereq>
+      <packagereq type="default">neuron-devel</packagereq>
+      <packagereq type="default">python3-brian2</packagereq>
+      <packagereq type="default">python3-lfpy</packagereq>
+      <packagereq type="default">python3-nest</packagereq>
+      <packagereq type="default">python3-netpyne</packagereq>
+      <packagereq type="default">python3-neuron</packagereq>
+      <packagereq type="default">python3-PyLEMS</packagereq>
+      <packagereq type="default">python3-pynn</packagereq>
+      <packagereq type="default">python3-steps</packagereq>
+      <packagereq type="default">smoldyn</packagereq>
     </packagelist>
   </group>
   <group>
