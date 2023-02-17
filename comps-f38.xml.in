@@ -1833,6 +1833,7 @@
       <packagereq type="optional">google-arimo-fonts</packagereq>
       <packagereq type="optional">google-carlito-fonts</packagereq>
       <packagereq type="optional">google-cousine-fonts</packagereq>
+      <packagereq type="optional">google-crosextra-caladea-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-fonts</packagereq>
       <packagereq type="optional">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional">google-droid-serif-fonts</packagereq>
@@ -2062,7 +2063,6 @@
       <packagereq type="optional">horai-ume-pmincho-fonts</packagereq>
       <packagereq type="optional">horai-ume-uigothic-fonts</packagereq>
       <packagereq type="optional">ht-alegreya-fonts</packagereq>
-      <packagereq type="optional">ht-caladea-fonts</packagereq>
       <packagereq type="optional">impallari-raleway-fonts</packagereq>
       <packagereq type="optional">ipa-exgothic-fonts</packagereq>
       <packagereq type="optional">ipa-exmincho-fonts</packagereq>
