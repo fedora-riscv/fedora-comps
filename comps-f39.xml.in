@@ -3326,6 +3326,7 @@
       <packagereq type="default">plasma-systemmonitor</packagereq>
       <packagereq type="default">plasma-thunderbolt</packagereq>
       <packagereq type="default">plasma-vault</packagereq>
+      <packagereq type="default">plasma-welcome</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
       <packagereq type="default">plasma-workspace-x11</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
