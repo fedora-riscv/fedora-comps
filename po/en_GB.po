@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-02-07 01:20+0000\n"
+"PO-Revision-Date: 2023-02-22 01:20+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/fedora-comps/main/en_GB/>\n"
@@ -450,13 +450,15 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:86 ../comps-f33.xml.in.h:84 ../comps-f34.xml.in.h:84
 msgid "Enlightenment"
-msgstr ""
+msgstr "Enlightenment"
 
 #: ../comps-f32.xml.in.h:87 ../comps-f33.xml.in.h:85 ../comps-f34.xml.in.h:85
 msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment is a lean, fast, modular and very extensible windowed desktop "
+"environment."
 
 #: ../comps-f32.xml.in.h:88
 msgid "Epiphany Web Browser"
@@ -472,9 +474,8 @@ msgid "Fedora Packager"
 msgstr "Fedora Packager"
 
 #: ../comps-f32.xml.in.h:91 ../comps-f33.xml.in.h:87 ../comps-f34.xml.in.h:87
-#, fuzzy
 msgid "Tools and utilities needed by a Fedora Packager"
-msgstr "Tools and utilities needed by a Fedora Packager."
+msgstr "Tools and utilities needed by a Fedora Packager"
 
 #: ../comps-f32.xml.in.h:92 ../comps-f33.xml.in.h:88 ../comps-f34.xml.in.h:88
 msgid "Firefox Web Browser"
@@ -506,15 +507,16 @@ msgid "Fonts packages for rendering text on the desktop."
 msgstr "Fonts packages for rendering text on the desktop."
 
 #: ../comps-f32.xml.in.h:98 ../comps-f33.xml.in.h:94 ../comps-f34.xml.in.h:94
-#, fuzzy
 msgid "FreeIPA Server"
-msgstr "FTP Server"
+msgstr "FreeIPA Server"
 
 #: ../comps-f32.xml.in.h:99 ../comps-f33.xml.in.h:95 ../comps-f34.xml.in.h:95
 msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Provides central directory services for identity, policy management and "
+"auditing."
 
 #: ../comps-f32.xml.in.h:100 ../comps-f33.xml.in.h:96 ../comps-f34.xml.in.h:96
 msgid "FTP Server"
