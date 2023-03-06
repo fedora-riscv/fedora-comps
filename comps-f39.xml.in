@@ -4490,6 +4490,7 @@
       <packagereq type="default">gcc-c++</packagereq>
       <packagereq type="default">git</packagereq>
       <packagereq type="default">grep</packagereq>
+      <packagereq type="default">jupyterlab</packagereq>
       <packagereq type="default">less</packagereq>
       <packagereq type="default">libxml2-devel</packagereq>
       <packagereq type="default">libyaml-devel</packagereq>
@@ -4527,6 +4528,7 @@
     <packagelist>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">python3-matplotlib-tk</packagereq>
       <packagereq type="conditional" requires="xorg-x11-server-Xorg">python3-pillow-tk</packagereq>
+      <packagereq type="default">jupyterlab</packagereq>
       <packagereq type="default">python3-matplotlib</packagereq>
       <packagereq type="default">python3-notebook</packagereq>
       <packagereq type="default">python3-numpy</packagereq>
