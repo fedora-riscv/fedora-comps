@@ -20,21 +20,22 @@
 # Gianluca Sforna <giallu@gmail.com>, 2016. #zanata
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Luca Ciavatta <luca.ciavatta@gmail.com>, 2016. #zanata
+# Fabio Tomat <f.t.public@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2016-05-04 05:04+0000\n"
-"Last-Translator: Luca Ciavatta <luca.ciavatta@gmail.com>\n"
-"Language-Team: Italian (http://www.transifex.com/projects/p/comps/language/"
-"it/)\n"
+"PO-Revision-Date: 2023-03-07 09:20+0000\n"
+"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
+"Language-Team: Italian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -909,7 +910,7 @@ msgstr "Applicazioni per il desktop LXDE"
 #: ../comps-f32.xml.in.h:165 ../comps-f33.xml.in.h:158
 #: ../comps-f34.xml.in.h:158
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr "Assieme di applicazioni di uso comune per il Desktop LXDE "
+msgstr "Un insieme di applicazioni di uso comune per il Desktop LXDE"
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
