@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-03-05 21:20+0000\n"
+"PO-Revision-Date: 2023-03-07 09:20+0000\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/fur/>\n"
@@ -42,19 +42,19 @@ msgstr "Struments di Anaconda"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "Struments ARM"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Imprescj par lavorâ cui sistemis arm"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "Struments de machine fisiche x86"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Imprescj par lavorâ cui sistemis fisics x86"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -164,11 +164,11 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
 msgid "Compiz"
-msgstr ""
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
+msgstr "Chest grup di pachets al zonte Compiz e Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -208,22 +208,16 @@ msgstr ""
 "funzionalitât Percors Critic su dutis lis spin Fedora"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Percors critic (KDE)"
+msgstr "Percors critic (scritori Deepin)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "KDE desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
 msgstr ""
-"Un complès di pachets che a furnissin la funzionalitât Percors Critic pal "
-"scritori KDE"
+"Un insiemi di pachets che al furnìs la funzionalitât Percors Critic pal "
+"scritori Deepin"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -300,33 +294,31 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
 msgid "Deepin Desktop Environment"
-msgstr ""
+msgstr "Ambient scritori Deepin"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Scritori Deepin al è un ambient di scritori che al ponte a jessi elegant e "
+"facil di doprâ."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "KDE Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Aplicazions KDE"
+msgstr "Aplicazions di scritori Deepin"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Pachets dai caratars par rapresentâ il test sul scritori."
+msgstr "Pachets multimediâi pal scritori Deepin"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
 msgid "Deepin Desktop Office"
-msgstr ""
+msgstr "Ufici pal scritori Deepin"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
 msgid "Office suite for Deepin Desktop"
-msgstr ""
+msgstr "Suite di ufici pal scritori Deepin"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
@@ -337,6 +329,8 @@ msgid ""
 "These packages are targeted towards professional designers, and are related "
 "to graphics, web and animation."
 msgstr ""
+"Chescj pachets a son indreçâts a progjetiscj e dissegnadôrs professionâi e a "
+"interessin grafiche, web e animazion."
 
 #: ../comps-f32.xml.in.h:63 ../comps-f33.xml.in.h:61 ../comps-f34.xml.in.h:61
 msgid "Development Libraries"
@@ -782,7 +776,7 @@ msgstr "Aplicazions telepathy par KDE"
 #: ../comps-f32.xml.in.h:149 ../comps-f33.xml.in.h:145
 #: ../comps-f34.xml.in.h:145 ../comps-epel8.xml.in.h:16
 msgid "KDE Frameworks 5 Software Development"
-msgstr ""
+msgstr "Disvilup software di KDE Frameworks 5"
 
 #: ../comps-f32.xml.in.h:150 ../comps-f33.xml.in.h:146
 #: ../comps-f34.xml.in.h:146 ../comps-epel8.xml.in.h:17
@@ -790,21 +784,23 @@ msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
 msgstr ""
+"Instalâ chescj pachets par svilupâ aplicazions doprant lis Qt5 e il KDE "
+"Frameworks 5."
 
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
 msgid "Legacy Fonts"
-msgstr ""
+msgstr "Caratars vieris"
 
 #: ../comps-f32.xml.in.h:152 ../comps-f33.xml.in.h:148
 #: ../comps-f34.xml.in.h:148
 msgid "Older bitmap and vector fonts packages"
-msgstr ""
+msgstr "Pachets di caratars bitmap e vetoriâi vieris"
 
 #: ../comps-f32.xml.in.h:153 ../comps-f33.xml.in.h:149
 #: ../comps-f34.xml.in.h:149
 msgid "Legacy Network Server"
-msgstr ""
+msgstr "Servidôr di rêt vieri"
 
 #: ../comps-f32.xml.in.h:154 ../comps-f33.xml.in.h:150
 #: ../comps-f34.xml.in.h:150
@@ -812,64 +808,70 @@ msgid ""
 "These packages include servers for old network protocols such as rsh and "
 "telnet."
 msgstr ""
+"Chescj pachets a includin servidôrs par protocoi di rêt vecjos come rsh e "
+"telnet."
 
 #: ../comps-f32.xml.in.h:155
 msgid "Legacy Software Development"
-msgstr ""
+msgstr "Disvilup software vieri"
 
 #: ../comps-f32.xml.in.h:156
 msgid "These packages provide compatibility with previous releases."
 msgstr ""
+"Chescj pachets a dan compatibilitât cu lis publicazions di versions "
+"precedentis."
 
 #: ../comps-f32.xml.in.h:157
 msgid "Legacy Software Support"
-msgstr ""
+msgstr "Supuart software vieri"
 
 #: ../comps-f32.xml.in.h:158 ../comps-f33.xml.in.h:151
 #: ../comps-f34.xml.in.h:151
 msgid "LibreOffice"
-msgstr ""
+msgstr "LibreOffice"
 
 #: ../comps-f32.xml.in.h:159 ../comps-f33.xml.in.h:152
 #: ../comps-f34.xml.in.h:152
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "Programs di produtivitât di LibreOffice"
 
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
 msgid "LibreOffice Development"
-msgstr ""
+msgstr "Disvilup di LibreOffice"
 
 #: ../comps-f32.xml.in.h:161 ../comps-f33.xml.in.h:154
 #: ../comps-f34.xml.in.h:154
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Chescj pachets a son utii cuant che si disvilupe estensions e macros di "
+"LibreOffice."
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
 msgid "Load Balancer"
-msgstr ""
+msgstr "Belançadôr di caric"
 
 #: ../comps-f32.xml.in.h:163 ../comps-f33.xml.in.h:156
 #: ../comps-f34.xml.in.h:156
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Supuart par belançâ il caric dal trafic di rêt"
 
 #: ../comps-f32.xml.in.h:164 ../comps-f33.xml.in.h:157
 #: ../comps-f34.xml.in.h:157
 msgid "Applications for the LXDE Desktop"
-msgstr ""
+msgstr "Aplicazions pal scritori LXDE"
 
 #: ../comps-f32.xml.in.h:165 ../comps-f33.xml.in.h:158
 #: ../comps-f34.xml.in.h:158
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Un insiemi di aplicazions di ûs comun pal scritori LXDE"
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
 msgid "LXDE"
-msgstr ""
+msgstr "LXDE"
 
 #: ../comps-f32.xml.in.h:167 ../comps-f33.xml.in.h:160
 #: ../comps-f34.xml.in.h:160
@@ -877,36 +879,39 @@ msgid ""
 "LXDE is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
+"LXDE al è un ambient scritori X11 lizêr, progjetât pai computers cun "
+"specifichis hardware bassis come i netbooks, i dispositîfs mobii o i "
+"computer vieris."
 
 #: ../comps-f32.xml.in.h:168 ../comps-f33.xml.in.h:161
 #: ../comps-f34.xml.in.h:161
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "Supuart multimediâl par LXDE"
 
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
 msgid "LXDE Office"
-msgstr ""
+msgstr "Ufici par LXDE"
 
 #: ../comps-f32.xml.in.h:170 ../comps-f33.xml.in.h:163
 #: ../comps-f34.xml.in.h:163
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Programs pal ufici par LXDE"
 
 #: ../comps-f32.xml.in.h:171 ../comps-f33.xml.in.h:164
 #: ../comps-f34.xml.in.h:164
 msgid "Applications for the LXQt Desktop"
-msgstr ""
+msgstr "Aplicazions pal scritori LXQt"
 
 #: ../comps-f32.xml.in.h:172 ../comps-f33.xml.in.h:165
 #: ../comps-f34.xml.in.h:165
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr ""
+msgstr "Un insiemi di aplicazions di ûs comun pal scritori LXQt"
 
 #: ../comps-f32.xml.in.h:173 ../comps-f33.xml.in.h:166
 #: ../comps-f34.xml.in.h:166
 msgid "LXQt"
-msgstr ""
+msgstr "LXQt"
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
@@ -914,51 +919,56 @@ msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
+"LXQt al è un ambient scritori X11 lizêr, progjetât pai computer cun "
+"specifichis hardware bassis come i netbooks, i dispositîfs mobii e i "
+"computers vieris."
 
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Traduzions di LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
 msgid "Multimedia support for LXQt"
-msgstr ""
+msgstr "Supuart multimediâl par LXQt"
 
 #: ../comps-f32.xml.in.h:177 ../comps-f33.xml.in.h:170
 #: ../comps-f34.xml.in.h:170
 msgid "LXQt Office"
-msgstr ""
+msgstr "Ufici par LXQt"
 
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
 msgid "Office suite for LXQt"
-msgstr ""
+msgstr "Programs pal ufici par LXQt"
 
 #: ../comps-f32.xml.in.h:179 ../comps-f33.xml.in.h:172
 #: ../comps-f34.xml.in.h:172
 msgid "Mail Server"
-msgstr ""
+msgstr "Servidôr di pueste"
 
 #: ../comps-f32.xml.in.h:180 ../comps-f33.xml.in.h:173
 #: ../comps-f34.xml.in.h:173
 msgid "These packages allow you to configure an IMAP or SMTP mail server."
 msgstr ""
+"Chescj pachets ti permetin di configurâ un servidôr di pueste eletroniche "
+"IMAP o SMTP."
 
 #: ../comps-f32.xml.in.h:181 ../comps-f33.xml.in.h:174
 #: ../comps-f34.xml.in.h:174
 msgid "MATE Applications"
-msgstr ""
+msgstr "Aplicazions MATE"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
 msgid "Applications for the MATE Desktop."
-msgstr ""
+msgstr "Aplicazions pal scritori MATE."
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
 msgid "MATE"
-msgstr ""
+msgstr "MATE"
 
 #: ../comps-f32.xml.in.h:184 ../comps-f33.xml.in.h:177
 #: ../comps-f34.xml.in.h:177 ../comps-epel7.xml.in.h:165
@@ -967,29 +977,32 @@ msgid ""
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
 msgstr ""
+"Il scritori MATE al è basât su GNOME 2 e al furnìs al utent che al cîr une "
+"interface di scritori tradizionâl e semplice di doprâ, une potente interface "
+"grafiche."
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
-msgstr ""
+msgstr "Aplicazions medichis"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "Cheste al è un grup di aplicazions relativis ae assistence sanitarie."
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
 msgid "Milkymist"
-msgstr ""
+msgstr "Milkymist"
 
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Cjadene di struments pai inzegnîrs di hardware Milkymist."
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
 msgid "MinGW cross-compiler"
-msgstr ""
+msgstr "Compiladôr multi-plateforme MinGW"
 
 #: ../comps-f32.xml.in.h:190 ../comps-f33.xml.in.h:181
 #: ../comps-f34.xml.in.h:181
@@ -997,42 +1010,45 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
+"Supuart pai programs di compilazion multi-plateforme par Windows a 32-bit, "
+"pes lôr provis e pe creazion di instaladôrs, dut dentri Fedora."
 
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
 msgid "MongoDB"
-msgstr ""
+msgstr "MongoDB"
 
 #: ../comps-f32.xml.in.h:192 ../comps-f33.xml.in.h:183
 #: ../comps-f34.xml.in.h:183
 msgid "Scalable, high-performance NoSQL database."
-msgstr ""
+msgstr "Base di dâts NoSQL a altris prestazions e scjalabil."
 
 #: ../comps-f32.xml.in.h:193 ../comps-f33.xml.in.h:184
 #: ../comps-f34.xml.in.h:184
 msgid "Multimedia"
-msgstr ""
+msgstr "Multimedia"
 
 #: ../comps-f32.xml.in.h:194 ../comps-f33.xml.in.h:185
 #: ../comps-f34.xml.in.h:185
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Suaze di lavôr audio/video comun ai scritoris"
 
 #: ../comps-f32.xml.in.h:195 ../comps-f33.xml.in.h:186
 #: ../comps-f34.xml.in.h:186
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "Base di dâts MariaDB (MySQL)"
 
 #: ../comps-f32.xml.in.h:196 ../comps-f33.xml.in.h:187
 #: ../comps-f34.xml.in.h:187
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
+"Chest grup di pachets al conten programs utii par doprâ MariaDB (MySQL)."
 
 #: ../comps-f32.xml.in.h:197 ../comps-f33.xml.in.h:188
 #: ../comps-f34.xml.in.h:188
 msgid "Network Servers"
-msgstr ""
+msgstr "Servidôrs di rêt"
 
 #: ../comps-f32.xml.in.h:198 ../comps-f33.xml.in.h:189
 #: ../comps-f34.xml.in.h:189
