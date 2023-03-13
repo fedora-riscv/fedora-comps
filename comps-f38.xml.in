@@ -5207,6 +5207,7 @@
       <packagereq type="default">system-config-printer</packagereq>
       <packagereq type="default">Thunar</packagereq>
       <packagereq type="default">thunar-archive-plugin</packagereq>
+      <packagereq type="default">wev</packagereq>
       <packagereq type="default">wl-clipboard</packagereq>
       <!-- provide missing portal implementations -->
       <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
