@@ -5200,7 +5200,7 @@
       <packagereq type="default">NetworkManager-pptp-gnome</packagereq>
       <packagereq type="default">NetworkManager-sstp-gnome</packagereq>
       <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
-      <packagereq type="default">pavucontrol-qt</packagereq>
+      <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">playerctl</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
