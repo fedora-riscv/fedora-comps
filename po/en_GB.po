@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-03-18 15:20+0000\n"
+"PO-Revision-Date: 2023-03-19 23:21+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://translate.fedoraproject.org/"
 "projects/fedora-comps/main/en_GB/>\n"
@@ -1184,19 +1184,17 @@ msgstr "Python Classroom"
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Tools used to teach and learn Python."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Python Science"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Tools used to do science in Python."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1266,7 +1264,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:238 ../comps-f33.xml.in.h:230
 #: ../comps-f34.xml.in.h:230
 msgid "Hardware Support for Server Systems"
-msgstr ""
+msgstr "Hardware Support for Server Systems"
 
 #: ../comps-f32.xml.in.h:239 ../comps-f33.xml.in.h:231
 #: ../comps-f34.xml.in.h:231
@@ -1274,18 +1272,19 @@ msgid ""
 "This group is a limited collection of tools for various uncommon hardware "
 "specific utilities."
 msgstr ""
+"This group is a limited collection of tools for various uncommon hardware "
+"specific utilities."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:241 ../comps-f33.xml.in.h:233
 #: ../comps-f34.xml.in.h:233
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Fedora Server product core"
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "Policy packages for the Server variant."
+msgstr "Packages mandatory for the server product."
 
 #: ../comps-f32.xml.in.h:243 ../comps-f33.xml.in.h:235
 #: ../comps-f34.xml.in.h:235
@@ -1322,9 +1321,8 @@ msgstr "PostgreSQL Database"
 
 #: ../comps-f32.xml.in.h:248 ../comps-f33.xml.in.h:240
 #: ../comps-f34.xml.in.h:240
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "This package group includes packages useful for use with Postgresql."
+msgstr "This package group includes packages useful for use with PostgreSQL."
 
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
@@ -1377,12 +1375,11 @@ msgstr "Text-based Internet"
 
 #: ../comps-f32.xml.in.h:258 ../comps-f33.xml.in.h:250
 #: ../comps-f34.xml.in.h:250
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"This group includes text-based e-mail, web, and chat clients. These "
+"This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
@@ -1398,12 +1395,12 @@ msgstr "Tomcat web application server."
 #: ../comps-f32.xml.in.h:261 ../comps-f33.xml.in.h:253
 #: ../comps-f34.xml.in.h:253
 msgid "Vagrant with libvirt support"
-msgstr ""
+msgstr "Vagrant with libvirt support"
 
 #: ../comps-f32.xml.in.h:262 ../comps-f33.xml.in.h:254
 #: ../comps-f34.xml.in.h:254
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "These packages provide Vagrant with libvirt provider support"
 
 #: ../comps-f32.xml.in.h:263 ../comps-f33.xml.in.h:255
 #: ../comps-f34.xml.in.h:255 ../comps-epel7.xml.in.h:277
@@ -1413,17 +1410,17 @@ msgstr "Virtualisation"
 #: ../comps-f32.xml.in.h:264 ../comps-f33.xml.in.h:256
 #: ../comps-f34.xml.in.h:256
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "These packages provide a graphical virtualisation environment."
 
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Headless Virtualisation"
 
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "These packages provide a headless virtualisation environment."
 
 #: ../comps-f32.xml.in.h:267 ../comps-f33.xml.in.h:259
 #: ../comps-f34.xml.in.h:259
@@ -1450,27 +1447,24 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
 msgid "Fedora Workstation ostree support"
-msgstr "Workstation Policy"
+msgstr "Fedora Workstation ostree support"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Policy packages for the Workstation variant."
+msgstr "Packages mandatory for the workstation ostree product."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
 #: ../comps-f34.xml.in.h:267
 msgid "Fedora Workstation product core"
-msgstr ""
+msgstr "Fedora Workstation product core"
 
 #: ../comps-f32.xml.in.h:276 ../comps-f33.xml.in.h:268
 #: ../comps-f34.xml.in.h:268
-#, fuzzy
 msgid "Packages mandatory for the workstation product."
-msgstr "Policy packages for the Workstation variant."
+msgstr "Packages mandatory for the workstation product."
 
 #: ../comps-f32.xml.in.h:277 ../comps-f33.xml.in.h:269
 #: ../comps-f34.xml.in.h:269
@@ -1568,12 +1562,12 @@ msgstr "XMonad window manager with MATE"
 #: ../comps-f32.xml.in.h:294 ../comps-f33.xml.in.h:286
 #: ../comps-f34.xml.in.h:286
 msgid "Fedora Custom Operating System"
-msgstr ""
+msgstr "Fedora Custom Operating System"
 
 #: ../comps-f32.xml.in.h:295 ../comps-f33.xml.in.h:287
 #: ../comps-f34.xml.in.h:287
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Basic building block for a custom Fedora system."
 
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
@@ -1599,7 +1593,7 @@ msgstr "Xfce Desktop"
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
 #: ../comps-f34.xml.in.h:293
 msgid "Fedora Server Edition"
-msgstr ""
+msgstr "Fedora Server Edition"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
@@ -1607,7 +1601,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:305 ../comps-f33.xml.in.h:297
 #: ../comps-f34.xml.in.h:297
 msgid "An integrated, easier to manage server."
-msgstr ""
+msgstr "An integrated, easier to manage server."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:307 ../comps-f33.xml.in.h:299
@@ -1621,6 +1615,7 @@ msgstr "Workstation Policy"
 msgid ""
 "Fedora Workstation is a user friendly desktop system for laptops and PCs."
 msgstr ""
+"Fedora Workstation is a user friendly desktop system for laptops and PCs."
 
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
@@ -1629,9 +1624,8 @@ msgstr "LXDE Desktop"
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
-#, fuzzy
 msgid "LXQt Desktop"
-msgstr "LXDE Desktop"
+msgstr "LXQt Desktop"
 
 #: ../comps-f32.xml.in.h:311 ../comps-f33.xml.in.h:303
 #: ../comps-f34.xml.in.h:303 ../comps-epel7.xml.in.h:299
@@ -1645,10 +1639,8 @@ msgstr "MATE Desktop"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE Desktop"
+msgstr "Deepin Desktop"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1656,17 +1648,18 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Deepin desktop is the desktop environment released with deepin. It aims at "
+"being elegant and easy to use."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
-#, fuzzy
 msgid "Fedora Cloud Server"
-msgstr "Mail Server"
+msgstr "Fedora Cloud Server"
 
 #: ../comps-f32.xml.in.h:316 ../comps-f33.xml.in.h:308
 #: ../comps-f34.xml.in.h:308
 msgid "A server install with components needed to run in a cloud environment."
-msgstr ""
+msgstr "A server install with components needed to run in a cloud environment."
 
 #: ../comps-f32.xml.in.h:317 ../comps-f33.xml.in.h:309
 #: ../comps-f34.xml.in.h:309
@@ -1780,20 +1773,20 @@ msgstr "Text and other Free content."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Neuroscience"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Tools for Neuroscience."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "A phone/tablet UX environment"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
-msgstr ""
+msgstr "A phone/tablet desktop UX based on GNOME3 technologies."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
