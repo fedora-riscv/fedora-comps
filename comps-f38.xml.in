@@ -3879,10 +3879,10 @@
       <packagereq>dnfdragora-updater</packagereq>
       <packagereq>engrampa</packagereq>
       <packagereq>eom</packagereq>
-      <packagereq>f36-backgrounds-base</packagereq>
-      <packagereq>f36-backgrounds-extras-base</packagereq>
-      <packagereq>f36-backgrounds-extras-mate</packagereq>
-      <packagereq>f36-backgrounds-mate</packagereq>
+      <packagereq>f38-backgrounds-base</packagereq>
+      <packagereq>f38-backgrounds-extras-base</packagereq>
+      <packagereq>f38-backgrounds-extras-mate</packagereq>
+      <packagereq>f38-backgrounds-mate</packagereq>
       <packagereq>filezilla</packagereq>
       <packagereq>firefox</packagereq>
       <packagereq>firewall-config</packagereq>
