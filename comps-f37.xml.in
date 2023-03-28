@@ -3169,6 +3169,7 @@
       <packagereq type="conditional" requires="gtk4">ibus-gtk4</packagereq>
       <packagereq type="conditional" requires="qt">ibus-qt</packagereq>
       <packagereq type="conditional" requires="xfce4-panel">im-chooser-xfce</packagereq>
+      <packagereq type="conditional" requires="plasma-desktop">imsettings-plasma</packagereq>
       <packagereq type="default">ibus-anthy</packagereq>
       <packagereq type="default">ibus-hangul</packagereq>
       <packagereq type="default">ibus-libpinyin</packagereq>
