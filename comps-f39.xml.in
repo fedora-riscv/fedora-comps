@@ -5204,6 +5204,7 @@
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">playerctl</packagereq>
+      <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
       <packagereq type="default">sddm</packagereq>
       <packagereq type="default">sddm-x11</packagereq>
