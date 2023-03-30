@@ -3218,7 +3218,6 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">kcalc</packagereq>
-      <packagereq>kde-connect</packagereq>
       <packagereq type="default">keditbookmarks</packagereq>
       <packagereq>kmahjongg</packagereq>
       <packagereq>kmines</packagereq>
