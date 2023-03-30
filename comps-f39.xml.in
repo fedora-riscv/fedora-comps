@@ -3226,7 +3226,6 @@
       <packagereq>konversation</packagereq>
       <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
-      <packagereq>krfb</packagereq>
       <packagereq>krusader</packagereq>
       <packagereq>ktorrent</packagereq>
     </packagelist>
@@ -3297,6 +3296,7 @@
       <packagereq type="default">konsole5</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">kontact</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">korganizer</packagereq>
+      <packagereq type="default">krfb</packagereq>
       <packagereq type="default">kscreen</packagereq>
       <packagereq type="default">kscreenlocker</packagereq>
       <packagereq type="default">ksshaskpass</packagereq>
