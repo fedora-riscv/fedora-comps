@@ -6058,6 +6058,7 @@
       <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
       <groupid default="true">kde-media</groupid>
+      <groupid default="true">kde-pim</groupid>
       <groupid default="true">libreoffice</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>3d-printing</groupid>
@@ -6530,6 +6531,7 @@
       <groupid>kde-desktop</groupid>
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
+      <groupid>kde-pim</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>libreoffice</groupid>
     </grouplist>
