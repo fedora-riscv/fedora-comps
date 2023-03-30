@@ -3217,7 +3217,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>ark</packagereq>
       <packagereq>kde-connect</packagereq>
       <packagereq>kmahjongg</packagereq>
       <packagereq>kmines</packagereq>
@@ -3245,6 +3244,7 @@
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
+      <packagereq type="default">ark</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">breeze-icon-theme</packagereq>
       <packagereq type="default">colord-kde</packagereq>
