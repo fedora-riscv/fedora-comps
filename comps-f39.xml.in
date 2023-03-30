@@ -3218,11 +3218,9 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>ark</packagereq>
-      <packagereq>digikam</packagereq>
       <packagereq>kde-connect</packagereq>
       <packagereq>kmahjongg</packagereq>
       <packagereq>kmines</packagereq>
-      <packagereq>kolourpaint</packagereq>
       <packagereq>konversation</packagereq>
       <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
@@ -3260,9 +3258,7 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
-      <packagereq type="default">gwenview</packagereq>
       <packagereq type="default">initial-setup-gui</packagereq>
-      <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
       <packagereq type="default">kde-connect</packagereq>
@@ -3278,7 +3274,6 @@
       <packagereq type="default">kf5-akonadi-server</packagereq>
       <packagereq type="default">kf5-akonadi-server-mysql</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
-      <packagereq type="default">kf5-kipi-plugins</packagereq>
       <packagereq type="default">kfind</packagereq>
       <packagereq type="default">khelpcenter</packagereq>
       <packagereq type="default">khotkeys</packagereq>
@@ -3370,10 +3365,15 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>dragon</packagereq>
-      <packagereq>elisa-player</packagereq>
-      <packagereq>k3b</packagereq>
-      <packagereq>kamoso</packagereq>
+      <packagereq type="default">digikam</packagereq>
+      <packagereq type="default">dragon</packagereq>
+      <packagereq type="default">elisa-player</packagereq>
+      <packagereq type="default">gwenview</packagereq>
+      <packagereq type="default">k3b</packagereq>
+      <packagereq type="default">kamera</packagereq>
+      <packagereq type="default">kamoso</packagereq>
+      <packagereq type="default">kf5-kipi-plugins</packagereq>
+      <packagereq type="default">kolourpaint</packagereq>
     </packagelist>
   </group>
   <group>
