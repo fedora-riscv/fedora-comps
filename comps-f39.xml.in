@@ -3217,14 +3217,18 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="default">kcalc</packagereq>
       <packagereq>kde-connect</packagereq>
+      <packagereq type="default">keditbookmarks</packagereq>
       <packagereq>kmahjongg</packagereq>
       <packagereq>kmines</packagereq>
+      <packagereq type="default">kmouth</packagereq>
       <packagereq>konversation</packagereq>
       <packagereq>kpat</packagereq>
       <packagereq>krdc</packagereq>
       <packagereq>krusader</packagereq>
       <packagereq>ktorrent</packagereq>
+      <packagereq type="default">okular</packagereq>
     </packagelist>
   </group>
   <group>
@@ -3259,7 +3263,6 @@
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
       <packagereq type="default">initial-setup-gui</packagereq>
-      <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
       <packagereq type="default">kde-connect</packagereq>
       <packagereq type="default">kde-gtk-config</packagereq>
@@ -3270,7 +3273,6 @@
       <packagereq type="default">kdeplasma-addons</packagereq>
       <packagereq type="default">kdialog</packagereq>
       <packagereq type="default">kdnssd</packagereq>
-      <packagereq type="default">keditbookmarks</packagereq>
       <packagereq type="default">kf5-akonadi-server</packagereq>
       <packagereq type="default">kf5-akonadi-server-mysql</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
@@ -3283,7 +3285,6 @@
       <packagereq type="default">kmag</packagereq>
       <packagereq type="default">kmenuedit</packagereq>
       <packagereq type="default">kmousetool</packagereq>
-      <packagereq type="default">kmouth</packagereq>
       <packagereq type="default">konsole5</packagereq>
       <packagereq type="default">krfb</packagereq>
       <packagereq type="default">kscreen</packagereq>
@@ -3295,7 +3296,6 @@
       <packagereq type="default">kwrite</packagereq>
       <packagereq type="default">libappindicator-gtk3</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
-      <packagereq type="default">okular</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">pam-kwallet</packagereq>
       <packagereq type="default">phonon-qt5-backend-gstreamer</packagereq>
