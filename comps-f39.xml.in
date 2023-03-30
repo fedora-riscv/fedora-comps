@@ -3247,7 +3247,6 @@
       <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">akregator</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">breeze-icon-theme</packagereq>
       <packagereq type="default">colord-kde</packagereq>
@@ -3263,7 +3262,6 @@
       <packagereq type="default">gnome-keyring-pam</packagereq>
       <packagereq type="default">gwenview</packagereq>
       <packagereq type="default">initial-setup-gui</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">kaddressbook</packagereq>
       <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kcalc</packagereq>
       <packagereq type="default">kcharselect</packagereq>
@@ -3282,20 +3280,16 @@
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kf5-kipi-plugins</packagereq>
       <packagereq type="default">kfind</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">kgpg</packagereq>
       <packagereq type="default">khelpcenter</packagereq>
       <packagereq type="default">khotkeys</packagereq>
       <packagereq type="default">kinfocenter</packagereq>
       <packagereq type="default">kio-admin</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
       <packagereq type="default">kmag</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">kmail</packagereq>
       <packagereq type="default">kmenuedit</packagereq>
       <packagereq type="default">kmousetool</packagereq>
       <packagereq type="default">kmouth</packagereq>
       <packagereq type="default">konsole5</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">kontact</packagereq>
-      <packagereq arch="aarch64,x86_64" type="default">korganizer</packagereq>
       <packagereq type="default">krfb</packagereq>
       <packagereq type="default">kscreen</packagereq>
       <packagereq type="default">kscreenlocker</packagereq>
@@ -3393,6 +3387,21 @@
       <packagereq>calligra-stage</packagereq>
       <packagereq>calligra-words</packagereq>
       <packagereq>okular</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-pim</id>
+    <_name>KDE PIM</_name>
+    <_description>Personal information management tools for KDE</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq arch="aarch64,x86_64" type="default">akregator</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kaddressbook</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kgpg</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kmail</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kontact</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">korganizer</packagereq>
     </packagelist>
   </group>
   <group>
