@@ -1864,7 +1864,6 @@
       <packagereq type="optional">google-noto-sans-chakma-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cham-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-chorasmian-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-cjk-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-coptic-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cuneiform-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-cypriot-fonts</packagereq>
@@ -2010,7 +2009,6 @@
       <packagereq type="optional">google-noto-serif-armenian-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-balinese-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-bengali-vf-fonts</packagereq>
-      <packagereq type="optional">google-noto-serif-cjk-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-cjk-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-devanagari-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-serif-dives-akuru-fonts</packagereq>
