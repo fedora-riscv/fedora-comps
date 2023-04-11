@@ -6844,11 +6844,11 @@
   <langpacks>
     <match install="LabPlot-doc-%s" name="LabPlot-doc"/>
     <match install="aspell-%s" name="aspell"/>
-    <match install="autocorr-%s" name="autocorr-en"/>
+    <match install="autocorr-%s" name="autocorr"/>
     <match install="calligra-l10n-%s" name="calligra-core"/>
     <match install="drascula-%s" name="drascula"/>
     <match install="eclipse-nls-%s" name="eclipse-platform"/>
-    <match install="firefox-langpack-%s" name="firefox"/>
+    <match install="firefox-langpacks" name="firefox"/>
     <match install="gimp-help-%s" name="gimp-help"/>
     <match install="hunspell-%s" name="hunspell"/>
     <match install="hyphen-%s" name="hyphen"/>
