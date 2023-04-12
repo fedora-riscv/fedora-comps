@@ -83,6 +83,7 @@
       <packagereq arch="x86_64" type="mandatory">mactel-boot</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
       <packagereq type="mandatory">ntfsprogs</packagereq>
+      <packagereq type="mandatory">nvme-cli</packagereq>
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
