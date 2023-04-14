@@ -754,6 +754,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">livesys-scripts</packagereq>
       <packagereq type="mandatory">lorax</packagereq>
       <packagereq type="mandatory">pungi</packagereq>
       <packagereq type="mandatory">selinux-policy</packagereq>
