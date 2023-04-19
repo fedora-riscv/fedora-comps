@@ -2935,7 +2935,6 @@
     <packagelist>
       <packagereq arch="x86_64" type="default">alsa-sof-firmware</packagereq>
       <packagereq type="default">amd-gpu-firmware</packagereq>
-      <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">atheros-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
@@ -2963,10 +2962,11 @@
       <packagereq type="default">nvidia-gpu-firmware</packagereq>
       <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
-      <packagereq type="default">zd1211-firmware</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">alsa-firmware</packagereq>
+      <packagereq type="optional">atmel-firmware</packagereq>
+      <packagereq type="optional">zd1211-firmware</packagereq>
       <packagereq arch="aarch64" type="optional">bcm283x-firmware</packagereq>
       <packagereq arch="x86_64" type="optional">cmospwd</packagereq>
       <packagereq type="optional">gpsd</packagereq>
