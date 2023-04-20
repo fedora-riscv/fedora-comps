@@ -11,13 +11,13 @@
 # Michelle Kim <mkim@redhat.com>, 2002
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # simmon <simmon@nplob.com>, 2021.
-# 김인수 <simmon@nplob.com>, 2022.
+# 김인수 <simmon@nplob.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-11-29 13:20+0000\n"
+"PO-Revision-Date: 2023-04-21 09:20+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.2\n"
+"X-Generator: Weblate 4.15.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -306,7 +306,7 @@ msgstr "Deepin 데스크탑을 위한 사무용 제품군"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
-msgstr "디자인 모음"
+msgstr "디자인 제품군"
 
 #: ../comps-f32.xml.in.h:62 ../comps-f33.xml.in.h:60 ../comps-f34.xml.in.h:60
 msgid ""
@@ -1046,7 +1046,7 @@ msgstr "객관적인 CAML 프로그래밍 언어 및 라이브러리를 사용�
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
 msgid "Office/Productivity"
-msgstr "사무/생산성"
+msgstr "업무/생산성"
 
 #: ../comps-f32.xml.in.h:208 ../comps-f33.xml.in.h:199
 #: ../comps-f34.xml.in.h:199
