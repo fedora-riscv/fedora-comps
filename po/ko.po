@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-04-21 09:20+0000\n"
+"PO-Revision-Date: 2023-04-22 14:20+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -1162,7 +1162,7 @@ msgstr "이들 도구는 rpmbuild와 같은 핵심 개발 도구를 포함합니
 #: ../comps-f32.xml.in.h:230 ../comps-f33.xml.in.h:222
 #: ../comps-f34.xml.in.h:222
 msgid "Ruby"
-msgstr "Ruby"
+msgstr "루비"
 
 #: ../comps-f32.xml.in.h:231 ../comps-f33.xml.in.h:223
 #: ../comps-f34.xml.in.h:223
@@ -1524,7 +1524,7 @@ msgstr "Xfce 데스크탑"
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
 #: ../comps-f34.xml.in.h:293
 msgid "Fedora Server Edition"
-msgstr "페도라 서버용 배포판"
+msgstr "페도라 서버 배포판"
 
 #. Should eventually say “with a web UI accessible right after installation”
 #. or something else to differentiate from
