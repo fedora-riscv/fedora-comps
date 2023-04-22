@@ -3044,7 +3044,7 @@
       <packagereq arch="armhfp" type="default">libertas-sd8686-firmware</packagereq>
       <packagereq arch="armhfp" type="default">libertas-sd8787-firmware</packagereq>
       <packagereq type="default">libertas-usb8388-firmware</packagereq>
-      <packagereq type="default">mediatek-firmware</packagereq>
+      <packagereq type="default">mt7xxx-firmware</packagereq>
       <packagereq type="default">nvidia-gpu-firmware</packagereq>
       <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
