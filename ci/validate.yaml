@@ -1,6 +1,11 @@
- - hosts: all
-   tasks:
-     - name: Validate comps files
-       ansible.builtin.command:
-         chdir: "{{ ansible_user_dir }}/{{ zuul.project.src_dir }}"
-         cmd: ci/validate
+- hosts: all
+  tasks:
+    - name: Install needed packages
+      package:
+        name: ['intltool', 'libxslt', 'libxml2']
+        state: present
+      become: yes
+    - name: Validate comps files
+      ansible.builtin.command:
+        chdir: "{{ ansible_user_dir }}/{{ zuul.project.src_dir }}"
+        cmd: ci/validate
