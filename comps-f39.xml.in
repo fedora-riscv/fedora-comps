@@ -3763,6 +3763,7 @@
       <packagereq>perl-File-MimeInfo</packagereq>
       <packagereq>qterminal</packagereq>
       <packagereq>sddm</packagereq>
+      <packagereq>sddm-x11</packagereq>
       <packagereq>sddm-themes</packagereq>
       <packagereq>upower</packagereq>
       <packagereq>xdg-user-dirs</packagereq>
