@@ -726,8 +726,10 @@
     <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <!-- @core is already in the critical path, there is no need to duplicate things from @core here -->
     <packagelist>
+      <!--
+        @core is already in the critical path, there is no need to duplicate things from @core here
+      -->
       <packagereq type="mandatory">dbus-broker</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
@@ -2966,7 +2968,6 @@
       <packagereq type="optional">acpitool</packagereq>
       <packagereq type="optional">alsa-firmware</packagereq>
       <packagereq type="optional">atmel-firmware</packagereq>
-      <packagereq type="optional">zd1211-firmware</packagereq>
       <packagereq arch="aarch64" type="optional">bcm283x-firmware</packagereq>
       <packagereq arch="x86_64" type="optional">cmospwd</packagereq>
       <packagereq type="optional">gpsd</packagereq>
@@ -2986,6 +2987,7 @@
       <packagereq type="optional">pcsc-lite-ccid</packagereq>
       <packagereq type="optional">radeontop</packagereq>
       <packagereq type="optional">wpan-tools</packagereq>
+      <packagereq type="optional">zd1211-firmware</packagereq>
     </packagelist>
   </group>
   <group>

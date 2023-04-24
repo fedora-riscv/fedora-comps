@@ -742,8 +742,10 @@
     <_description>A set of packages that provide the shared platform for Critical Path functionality on all Fedora spins</_description>
     <default>false</default>
     <uservisible>false</uservisible>
-    <!-- @core is already in the critical path, there is no need to duplicate things from @core here -->
     <packagelist>
+      <!--
+        @core is already in the critical path, there is no need to duplicate things from @core here
+      -->
       <packagereq type="mandatory">dbus-broker</packagereq>
       <packagereq type="mandatory">dracut</packagereq>
       <packagereq type="mandatory">initial-setup</packagereq>
@@ -3018,8 +3020,8 @@
     <packagelist>
       <packagereq arch="x86_64" type="default">alsa-sof-firmware</packagereq>
       <packagereq type="default">amd-gpu-firmware</packagereq>
-      <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">atheros-firmware</packagereq>
+      <packagereq type="default">atmel-firmware</packagereq>
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
       <packagereq type="default">brcmfmac-firmware</packagereq>
