@@ -3,17 +3,24 @@
 set -euxo pipefail
 
 main() {
-    failure="false"
+    failure=0
 
-    make sort || failure="true"
-    make validate || failure="true"
+    make sort > /dev/null 2>&1 || {
+        echo "Sort failed!"
+        ((failure+=1))
+    }
+    make validate || {
+        echo "Validate failed!"
+        ((failure+=1))
+    }
 
     # Fail if any changes were made to the repo
     if [[ -n "(git status --short)" ]]; then
-        failure="true"
+        echo "git status failed!"
+        ((failure+=1))
     fi
-    if [[ "${failure}" == "true" ]]; then
-        echo "At least one check failed!"
+    if [[ $failure -gt 0 ]]; then
+        echo "${failure} check(s) failed!"
         exit 1
     fi
 }
