@@ -1,9 +1,9 @@
  - project:
      check:
        jobs:
-         - validate
+         - validate-comps
 
  - job:
-     name: validate
+     name: validate-comps
      description: Validate comps files
-     run: ci/validate.yaml
+     run: ci/validate-comps.yaml
