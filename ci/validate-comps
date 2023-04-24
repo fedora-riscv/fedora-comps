@@ -15,7 +15,7 @@ main() {
     }
 
     # Fail if any changes were made to the repo
-    if [[ -n "(git status --short)" ]]; then
+    if [[ -n $(git status --short) ]]; then
         echo "git status failed!"
         ((failure+=1))
     fi
