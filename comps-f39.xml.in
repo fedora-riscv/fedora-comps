@@ -786,7 +786,6 @@
       <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
-      <packagereq type="mandatory">gnome-themes-extra</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-amdgpu</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">xorg-x11-drv-ati</packagereq>
@@ -2647,7 +2646,6 @@
       <packagereq type="default">gnome-remote-desktop</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal-nautilus</packagereq>
-      <packagereq type="default">gnome-themes-extra</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
       <packagereq type="default">gnome-user-share</packagereq>
       <packagereq type="default">gnome-weather</packagereq>
