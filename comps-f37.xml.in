@@ -3056,6 +3056,7 @@
       <packagereq type="optional">alsa-firmware</packagereq>
       <packagereq arch="aarch64" type="optional">bcm283x-firmware</packagereq>
       <packagereq arch="x86_64" type="optional">cmospwd</packagereq>
+      <packagereq type="optional">dvb-firmware</packagereq>
       <packagereq type="optional">gpsd</packagereq>
       <packagereq type="optional">gpsd-clients</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
