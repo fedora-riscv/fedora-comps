@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-04-22 14:20+0000\n"
+"PO-Revision-Date: 2023-05-17 05:21+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -605,12 +605,12 @@ msgstr "이 그룹은 특정 하드웨어 유틸리티에 대한 도구 모음�
 #: ../comps-f32.xml.in.h:124 ../comps-f33.xml.in.h:120
 #: ../comps-f34.xml.in.h:120 ../comps-epel7.xml.in.h:101
 msgid "Haskell"
-msgstr "Haskell"
+msgstr "하스켈"
 
 #: ../comps-f32.xml.in.h:125 ../comps-f33.xml.in.h:121
 #: ../comps-f34.xml.in.h:121 ../comps-epel7.xml.in.h:102
 msgid "Support for developing programs in the Haskell programming language."
-msgstr "Haskell 프로그래밍 언어로 작성된 개발용 프로그램 지원."
+msgstr "하스켈 프로그래밍 언어로 작성된 개발용 프로그램 지원."
 
 #: ../comps-f32.xml.in.h:126 ../comps-f33.xml.in.h:122
 #: ../comps-f34.xml.in.h:122
