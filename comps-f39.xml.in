@@ -5094,7 +5094,6 @@
       <packagereq>tree</packagereq>
       <packagereq>unzip</packagereq>
       <packagereq>usbutils</packagereq>
-      <packagereq>util-linux-user</packagereq>
       <packagereq>wget</packagereq>
       <packagereq>which</packagereq>
       <packagereq>whois</packagereq>
