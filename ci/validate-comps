@@ -16,7 +16,7 @@ main() {
 
     # Fail if any changes were made to the repo
     if [[ -n $(git status --short) ]]; then
-        echo "git status failed!"
+        echo "git status failed! This likely means the PR or the underlying repo is not sorted"
         ((failure+=1))
     fi
     if [[ $failure -gt 0 ]]; then
