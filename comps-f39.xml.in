@@ -3329,6 +3329,7 @@
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">udisks2</packagereq>
       <packagereq type="default">xorg-x11-drv-libinput</packagereq>
+      <packagereq type="default">xwaylandvideobridge</packagereq>
       <packagereq type="optional">plasma-pk-updates</packagereq>
     </packagelist>
   </group>
