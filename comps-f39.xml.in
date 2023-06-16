@@ -677,7 +677,6 @@
       <packagereq type="mandatory">yum</packagereq>
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
-      <packagereq type="default">fedora-repos-modular</packagereq>
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">fwupd</packagereq>
       <packagereq arch="ppc64le" type="default">lsvpd</packagereq>
@@ -688,6 +687,7 @@
       <packagereq type="default">systemd-resolved</packagereq>
       <packagereq type="default">zram-generator-defaults</packagereq>
       <packagereq type="optional">dracut-config-generic</packagereq>
+      <packagereq type="optional">fedora-repos-modular</packagereq>
       <packagereq type="optional">initial-setup</packagereq>
       <packagereq type="optional">initscripts</packagereq>
       <packagereq arch="aarch64" type="optional">uboot-images-armv8</packagereq>
