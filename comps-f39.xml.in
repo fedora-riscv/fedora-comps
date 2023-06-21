@@ -3278,6 +3278,7 @@
       <packagereq type="default">kdnssd</packagereq>
       <packagereq type="default">kf5-akonadi-server</packagereq>
       <packagereq type="default">kf5-akonadi-server-mysql</packagereq>
+      <packagereq type="default">kf5-audiocd-kio</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kfind</packagereq>
       <packagereq type="default">khelpcenter</packagereq>

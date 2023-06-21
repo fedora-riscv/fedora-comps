@@ -3287,6 +3287,7 @@
       <packagereq type="default">keditbookmarks</packagereq>
       <packagereq type="default">kf5-akonadi-server</packagereq>
       <packagereq type="default">kf5-akonadi-server-mysql</packagereq>
+      <packagereq type="default">kf5-audiocd-kio</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kf5-kipi-plugins</packagereq>
       <packagereq type="default">kfind</packagereq>
