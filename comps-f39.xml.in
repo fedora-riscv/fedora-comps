@@ -645,7 +645,7 @@
       <packagereq type="mandatory">coreutils</packagereq>
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">dhcp-client</packagereq>
-      <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">dnf5</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
@@ -675,7 +675,7 @@
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
-      <packagereq type="default">dnf-plugins-core</packagereq>
+      <packagereq type="default">dnf5-plugins</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">fwupd</packagereq>
@@ -4383,7 +4383,7 @@
       <packagereq arch="aarch64,s390x,x86_64">chatty</packagereq>
       <packagereq>cryptsetup</packagereq>
       <packagereq>default-editor</packagereq>
-      <packagereq>dnf</packagereq>
+      <packagereq>dnf5</packagereq>
       <packagereq>epiphany</packagereq>
       <packagereq>feedbackd</packagereq>
       <packagereq>gnome-calculator</packagereq>
@@ -5594,7 +5594,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">amd-gpu-firmware</packagereq>
-      <packagereq type="mandatory">dnf</packagereq>
+      <packagereq type="mandatory">dnf5</packagereq>
       <packagereq type="mandatory">intel-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
       <packagereq arch="x86_64" type="mandatory">microcode_ctl</packagereq>
@@ -5623,7 +5623,7 @@
       <packagereq type="default">default-editor</packagereq>
       <packagereq type="default">deltarpm</packagereq>
       <packagereq type="default">desktop-backgrounds-gnome</packagereq>
-      <packagereq type="default">dnf-plugins-core</packagereq>
+      <packagereq type="default">dnf5-plugins</packagereq>
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
       <packagereq type="default">ethtool</packagereq>
