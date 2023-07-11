@@ -4804,7 +4804,6 @@
       <packagereq type="default">subnetcalc</packagereq>
       <packagereq type="default">swaks</packagereq>
       <packagereq type="default">sysstat</packagereq>
-      <packagereq type="default">tcpcrypt</packagereq>
       <packagereq type="default">tcpdump</packagereq>
       <packagereq type="default">tcpflow</packagereq>
       <packagereq type="default">tcpick</packagereq>
