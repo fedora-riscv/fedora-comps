@@ -11,13 +11,42 @@
     </packagelist>
   </group>
   <group>
+    <id>core</id>
+    <_name>Core</_name>
+    <_description>Smallest possible installation</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">bash</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>critical-path-kde</id>
     <_name>Critical Path (KDE)</_name>
     <_description>A set of packages that provide the Critical Path functionality for the KDE desktop</_description>
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">bluedevil</packagereq>
+      <packagereq type="mandatory">kactivitymanagerd</packagereq>
+      <packagereq type="mandatory">kdecoration</packagereq>
       <packagereq type="mandatory">kdelibs</packagereq>
+      <packagereq type="mandatory">kinfocenter</packagereq>
+      <packagereq type="mandatory">kscreen</packagereq>
+      <packagereq type="mandatory">kscreenlocker</packagereq>
+      <packagereq type="mandatory">kwayland-integration</packagereq>
+      <packagereq type="mandatory">kwin</packagereq>
+      <packagereq type="mandatory">layer-shell-qt</packagereq>
+      <packagereq type="mandatory">plasma-breeze</packagereq>
+      <packagereq type="mandatory">plasma-desktop</packagereq>
+      <packagereq type="mandatory">plasma-discover</packagereq>
+      <packagereq type="mandatory">plasma-integration</packagereq>
+      <packagereq type="mandatory">plasma-nm</packagereq>
+      <packagereq type="mandatory">plasma-systemsettings</packagereq>
+      <packagereq type="mandatory">plasma-thunderbolt</packagereq>
+      <packagereq type="mandatory">plasma-workspace</packagereq>
+      <packagereq type="mandatory">polkit-kde</packagereq>
+      <packagereq type="mandatory">qt5-qtwayland</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
   </group>
@@ -112,82 +141,6 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>adwaita-gtk2-theme</packagereq>
-      <packagereq>akregator</packagereq>
-      <packagereq>bluedevil</packagereq>
-      <packagereq>breeze-icon-theme</packagereq>
-      <packagereq>colord-kde</packagereq>
-      <packagereq>cups-pk-helper</packagereq>
-      <packagereq>dolphin</packagereq>
-      <packagereq>ffmpegthumbs</packagereq>
-      <packagereq>firewall-config</packagereq>
-      <packagereq>glibc-all-langpacks</packagereq>
-      <packagereq>gnome-keyring-pam</packagereq>
-      <packagereq>gwenview</packagereq>
-      <packagereq>initial-setup-gui</packagereq>
-      <packagereq>kaddressbook</packagereq>
-      <packagereq>kamera</packagereq>
-      <packagereq>kate</packagereq>
-      <packagereq>kcalc</packagereq>
-      <packagereq>kcharselect</packagereq>
-      <packagereq>kcolorchooser</packagereq>
-      <packagereq>kde-gtk-config</packagereq>
-      <packagereq>kde-partitionmanager</packagereq>
-      <packagereq>kde-print-manager</packagereq>
-      <packagereq>kde-settings-pulseaudio</packagereq>
-      <packagereq>kdegraphics-thumbnailers</packagereq>
-      <packagereq>kdeplasma-addons</packagereq>
-      <packagereq>kdialog</packagereq>
-      <packagereq>kdnssd</packagereq>
-      <packagereq>keditbookmarks</packagereq>
-      <packagereq>kf5-akonadi-server</packagereq>
-      <packagereq>kf5-akonadi-server-mysql</packagereq>
-      <packagereq>kf5-baloo-file</packagereq>
-      <packagereq>kf5-kipi-plugins</packagereq>
-      <packagereq>kfind</packagereq>
-      <packagereq>kgpg</packagereq>
-      <packagereq>khelpcenter</packagereq>
-      <packagereq>khotkeys</packagereq>
-      <packagereq>kinfocenter</packagereq>
-      <packagereq>kmag</packagereq>
-      <packagereq>kmail</packagereq>
-      <packagereq>kmenuedit</packagereq>
-      <packagereq>kmousetool</packagereq>
-      <packagereq>kmouth</packagereq>
-      <packagereq>konsole5</packagereq>
-      <packagereq>kontact</packagereq>
-      <packagereq>korganizer</packagereq>
-      <packagereq>kruler</packagereq>
-      <packagereq>kscreen</packagereq>
-      <packagereq>kscreenlocker</packagereq>
-      <packagereq>ksshaskpass</packagereq>
-      <packagereq>kwalletmanager5</packagereq>
-      <packagereq>kwin</packagereq>
-      <packagereq>kwrite</packagereq>
-      <packagereq>okular</packagereq>
-      <packagereq>PackageKit-command-not-found</packagereq>
-      <packagereq>pam-kwallet</packagereq>
-      <packagereq>phonon-qt5-backend-gstreamer</packagereq>
-      <packagereq>plasma-breeze</packagereq>
-      <packagereq>plasma-desktop-doc</packagereq>
-      <packagereq>plasma-discover</packagereq>
-      <packagereq>plasma-discover-notifier</packagereq>
-      <packagereq>plasma-drkonqi</packagereq>
-      <packagereq>plasma-nm</packagereq>
-      <packagereq>plasma-nm-l2tp</packagereq>
-      <packagereq>plasma-nm-openconnect</packagereq>
-      <packagereq>plasma-nm-openswan</packagereq>
-      <packagereq>plasma-nm-openvpn</packagereq>
-      <packagereq>plasma-nm-pptp</packagereq>
-      <packagereq>plasma-pa</packagereq>
-      <packagereq>plasma-systemmonitor</packagereq>
-      <packagereq>plasma-thunderbolt</packagereq>
-      <packagereq>plasma-workspace-geolocation</packagereq>
-      <packagereq>polkit-kde</packagereq>
-      <packagereq>qt5-qtdeclarative</packagereq>
-      <packagereq>spectacle</packagereq>
-      <packagereq>udisks2</packagereq>
-      <packagereq>xorg-x11-drv-libinput</packagereq>
       <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq type="mandatory">plasma-workspace-wallpapers</packagereq>
@@ -195,7 +148,100 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="mandatory">sddm-x11</packagereq>
+      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
+      <packagereq type="default">abrt-desktop</packagereq>
+      <packagereq type="default">adwaita-gtk2-theme</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">akregator</packagereq>
+      <packagereq type="default">bluedevil</packagereq>
+      <packagereq type="default">breeze-icon-theme</packagereq>
+      <packagereq type="default">colord-kde</packagereq>
+      <packagereq type="default">cups-pk-helper</packagereq>
+      <packagereq type="default">dnfdragora</packagereq>
+      <packagereq type="default">dolphin</packagereq>
+      <packagereq type="default">ffmpegthumbs</packagereq>
+      <packagereq type="default">firewall-config</packagereq>
+      <packagereq type="default">flatpak-kcm</packagereq>
+      <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
+      <packagereq type="default">glibc-all-langpacks</packagereq>
+      <packagereq type="default">gnome-keyring-pam</packagereq>
+      <packagereq type="default">gwenview</packagereq>
+      <packagereq type="default">initial-setup-gui</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kaddressbook</packagereq>
+      <packagereq type="default">kamera</packagereq>
+      <packagereq type="default">kcalc</packagereq>
+      <packagereq type="default">kcharselect</packagereq>
+      <packagereq type="default">kde-connect</packagereq>
+      <packagereq type="default">kde-gtk-config</packagereq>
+      <packagereq type="default">kde-inotify-survey</packagereq>
+      <packagereq type="default">kde-partitionmanager</packagereq>
+      <packagereq type="default">kde-print-manager</packagereq>
+      <packagereq type="default">kde-settings-pulseaudio</packagereq>
+      <packagereq type="default">kdegraphics-thumbnailers</packagereq>
+      <packagereq type="default">kdeplasma-addons</packagereq>
+      <packagereq type="default">kdialog</packagereq>
+      <packagereq type="default">kdnssd</packagereq>
+      <packagereq type="default">keditbookmarks</packagereq>
+      <packagereq type="default">kf5-akonadi-server</packagereq>
+      <packagereq type="default">kf5-akonadi-server-mysql</packagereq>
+      <packagereq type="default">kf5-audiocd-kio</packagereq>
+      <packagereq type="default">kf5-baloo-file</packagereq>
+      <packagereq type="default">kf5-kipi-plugins</packagereq>
+      <packagereq type="default">kfind</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kgpg</packagereq>
+      <packagereq type="default">khelpcenter</packagereq>
+      <packagereq type="default">khotkeys</packagereq>
+      <packagereq type="default">kinfocenter</packagereq>
+      <packagereq type="default">kio-admin</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
+      <packagereq type="default">kmag</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kmail</packagereq>
+      <packagereq type="default">kmenuedit</packagereq>
+      <packagereq type="default">kmousetool</packagereq>
+      <packagereq type="default">kmouth</packagereq>
+      <packagereq type="default">konsole5</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kontact</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">korganizer</packagereq>
+      <packagereq type="default">kscreen</packagereq>
+      <packagereq type="default">kscreenlocker</packagereq>
+      <packagereq type="default">ksshaskpass</packagereq>
+      <packagereq type="default">kwalletmanager5</packagereq>
+      <packagereq type="default">kwebkitpart</packagereq>
+      <packagereq type="default">kwin</packagereq>
+      <packagereq type="default">kwrite</packagereq>
+      <packagereq type="default">libappindicator-gtk3</packagereq>
+      <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
+      <packagereq type="default">okular</packagereq>
+      <packagereq type="default">PackageKit-command-not-found</packagereq>
+      <packagereq type="default">pam-kwallet</packagereq>
+      <packagereq type="default">phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq type="default">pinentry-qt</packagereq>
+      <packagereq type="default">plasma-breeze</packagereq>
+      <packagereq type="default">plasma-desktop-doc</packagereq>
+      <packagereq type="default">plasma-discover</packagereq>
+      <packagereq type="default">plasma-discover-notifier</packagereq>
+      <packagereq type="default">plasma-disks</packagereq>
+      <packagereq type="default">plasma-drkonqi</packagereq>
+      <packagereq type="default">plasma-nm</packagereq>
+      <packagereq type="default">plasma-nm-l2tp</packagereq>
+      <packagereq type="default">plasma-nm-openconnect</packagereq>
+      <packagereq type="default">plasma-nm-openswan</packagereq>
+      <packagereq type="default">plasma-nm-openvpn</packagereq>
+      <packagereq type="default">plasma-nm-pptp</packagereq>
+      <packagereq type="default">plasma-nm-vpnc</packagereq>
+      <packagereq type="default">plasma-pa</packagereq>
+      <packagereq type="default">plasma-systemmonitor</packagereq>
+      <packagereq type="default">plasma-thunderbolt</packagereq>
+      <packagereq type="default">plasma-vault</packagereq>
+      <packagereq type="default">plasma-welcome</packagereq>
+      <packagereq type="default">plasma-workspace-geolocation</packagereq>
+      <packagereq type="default">plasma-workspace-x11</packagereq>
+      <packagereq type="default">polkit-kde</packagereq>
+      <packagereq type="default">qt5-qtdeclarative</packagereq>
+      <packagereq type="default">spectacle</packagereq>
+      <packagereq type="default">systemd-oomd-defaults</packagereq>
+      <packagereq type="default">udisks2</packagereq>
+      <packagereq type="default">xorg-x11-drv-libinput</packagereq>
+      <packagereq type="optional">plasma-pk-updates</packagereq>
     </packagelist>
   </group>
   <group>
@@ -206,8 +252,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>blinken</packagereq>
-      <packagereq>cantor</packagereq>
-      <packagereq>kalgebra</packagereq>
+      <packagereq arch="aarch64,x86_64">cantor</packagereq>
+      <packagereq arch="aarch64,x86_64">kalgebra</packagereq>
       <packagereq>kalzium</packagereq>
       <packagereq>kanagram</packagereq>
       <packagereq>kbruch</packagereq>
@@ -222,7 +268,7 @@
       <packagereq>kturtle</packagereq>
       <packagereq>kwordquiz</packagereq>
       <packagereq>marble</packagereq>
-      <packagereq>parley</packagereq>
+      <packagereq arch="aarch64,x86_64">parley</packagereq>
       <packagereq>rocs</packagereq>
       <packagereq>step</packagereq>
     </packagelist>
@@ -235,7 +281,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq>dragon</packagereq>
-      <packagereq>juk</packagereq>
+      <packagereq>elisa-player</packagereq>
       <packagereq>k3b</packagereq>
       <packagereq>kamoso</packagereq>
     </packagelist>
@@ -261,12 +307,16 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">cmake</packagereq>
+      <packagereq type="mandatory">kdelibs-devel</packagereq>
+      <packagereq type="mandatory">qt-devel</packagereq>
       <packagereq type="default">cervisia</packagereq>
       <packagereq type="default">dolphin-plugins</packagereq>
       <packagereq type="default">kapptemplate</packagereq>
       <packagereq type="default">kate</packagereq>
       <packagereq type="default">kcachegrind</packagereq>
       <packagereq type="default">kde-dev-scripts</packagereq>
+      <packagereq type="default">kdelibs-webkit-devel</packagereq>
+      <packagereq type="default">kdepimlibs-devel</packagereq>
       <packagereq type="default">kdesdk-kioslaves</packagereq>
       <packagereq type="default">kdesdk-thumbnailers</packagereq>
       <packagereq type="default">kdevelop</packagereq>
@@ -280,6 +330,7 @@
       <packagereq type="optional">cantor-devel</packagereq>
       <packagereq type="optional">gambas3-runtime</packagereq>
       <packagereq type="optional">kdbg</packagereq>
+      <packagereq type="optional">kdelibs3-devel</packagereq>
       <packagereq type="optional">kdesvn</packagereq>
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">kiten-devel</packagereq>
@@ -287,11 +338,11 @@
       <packagereq type="optional">ktp-common-internals-devel</packagereq>
       <packagereq type="optional">libkcddb-devel</packagereq>
       <packagereq type="optional">libkcompactdisc-devel</packagereq>
-      <packagereq type="optional">libkdeedu-devel</packagereq>
       <packagereq type="optional">libkdegames-devel</packagereq>
-      <packagereq type="optional">marble-widget-devel</packagereq>
       <packagereq type="optional">qt-creator</packagereq>
       <packagereq type="optional">qt-mobility-devel</packagereq>
+      <packagereq type="optional">qt3-designer</packagereq>
+      <packagereq type="optional">qt3-devel</packagereq>
       <packagereq type="optional">qtwebkit-devel</packagereq>
       <packagereq type="optional">rocs-devel</packagereq>
     </packagelist>
@@ -359,6 +410,16 @@
     </packagelist>
   </group>
   <group>
+    <id>standard</id>
+    <_name>Standard</_name>
+    <_description>Common set of utilities that extend the minimal installation.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>bash-completion</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>xfce-desktop</id>
     <_name>Xfce</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
@@ -394,6 +455,8 @@
     <display_order>10</display_order>
     <grouplist>
       <groupid>base-x</groupid>
+      <groupid>standard</groupid>
+      <groupid>core</groupid>
       <groupid>admin-tools</groupid>
       <groupid>dial-up</groupid>
       <groupid>fonts</groupid>
