@@ -2940,9 +2940,10 @@
       <packagereq type="default">iwlegacy-firmware</packagereq>
       <packagereq type="default">iwlwifi-dvm-firmware</packagereq>
       <packagereq type="default">iwlwifi-mvm-firmware</packagereq>
-      <packagereq type="default">libertas-usb8388-firmware</packagereq>
+      <packagereq type="default">libertas-firmware</packagereq>
       <packagereq type="default">mt7xxx-firmware</packagereq>
       <packagereq type="default">nvidia-gpu-firmware</packagereq>
+      <packagereq arch="aarch64" type="default">qcom-firmware</packagereq>
       <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">acpi</packagereq>
