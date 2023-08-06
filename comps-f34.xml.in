@@ -5123,6 +5123,7 @@
       <packagereq>sugar-memorize</packagereq>
       <packagereq>sugar-moon</packagereq>
       <packagereq>sugar-paint</packagereq>
+      <packagereq>sugar-physics</packagereq>
       <packagereq>sugar-pippy</packagereq>
       <packagereq>sugar-portfolio</packagereq>
       <packagereq>sugar-read</packagereq>
