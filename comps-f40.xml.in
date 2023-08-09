@@ -645,7 +645,7 @@
       <packagereq type="mandatory">coreutils</packagereq>
       <packagereq type="mandatory">curl</packagereq>
       <packagereq type="mandatory">dhcp-client</packagereq>
-      <packagereq type="mandatory">dnf5</packagereq>
+      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
@@ -675,7 +675,7 @@
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">vim-minimal</packagereq>
       <packagereq type="mandatory">yum</packagereq>
-      <packagereq type="default">dnf5-plugins</packagereq>
+      <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">fwupd</packagereq>
@@ -1633,47 +1633,17 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">abattis-cantarell-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-color-emoji-fonts</packagereq>
-      <packagereq type="default">google-noto-naskh-arabic-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-arabic-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-armenian-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-canadian-aboriginal-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-cherokee-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-cjk-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-ethiopic-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-georgian-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-gurmukhi-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-hebrew-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-khmer-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-lao-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-math-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-mono-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-sinhala-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-thaana-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-thai-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-sans-vf-fonts</packagereq>
-      <packagereq type="default">google-noto-serif-vf-fonts</packagereq>
-      <packagereq type="default">jomolhari-fonts</packagereq>
-      <packagereq type="default">liberation-mono-fonts</packagereq>
-      <packagereq type="default">liberation-sans-fonts</packagereq>
-      <packagereq type="default">liberation-serif-fonts</packagereq>
-      <packagereq type="default">lohit-assamese-fonts</packagereq>
-      <packagereq type="default">lohit-bengali-fonts</packagereq>
-      <packagereq type="default">lohit-devanagari-fonts</packagereq>
-      <packagereq type="default">lohit-gujarati-fonts</packagereq>
-      <packagereq type="default">lohit-kannada-fonts</packagereq>
-      <packagereq type="default">lohit-marathi-fonts</packagereq>
-      <packagereq type="default">lohit-odia-fonts</packagereq>
-      <packagereq type="default">lohit-tamil-fonts</packagereq>
-      <packagereq type="default">lohit-telugu-fonts</packagereq>
-      <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
-      <packagereq type="default">rit-meera-new-fonts</packagereq>
-      <packagereq type="default">sil-mingzat-fonts</packagereq>
-      <packagereq type="default">sil-nuosu-fonts</packagereq>
-      <packagereq type="default">sil-padauk-fonts</packagereq>
-      <packagereq type="default">stix-fonts</packagereq>
-      <packagereq type="default">vazirmatn-vf-fonts</packagereq>
+      <packagereq type="default">default-fonts-cjk-mono</packagereq>
+      <packagereq type="default">default-fonts-cjk-sans</packagereq>
+      <packagereq type="default">default-fonts-cjk-serif</packagereq>
+      <packagereq type="default">default-fonts-core-emoji</packagereq>
+      <packagereq type="default">default-fonts-core-math</packagereq>
+      <packagereq type="default">default-fonts-core-mono</packagereq>
+      <packagereq type="default">default-fonts-core-sans</packagereq>
+      <packagereq type="default">default-fonts-core-serif</packagereq>
+      <packagereq type="default">default-fonts-other-mono</packagereq>
+      <packagereq type="default">default-fonts-other-sans</packagereq>
+      <packagereq type="default">default-fonts-other-serif</packagereq>
       <packagereq type="optional">aajohan-comfortaa-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-2-fonts</packagereq>
       <packagereq type="optional">adf-accanthis-3-fonts</packagereq>
@@ -2940,9 +2910,10 @@
       <packagereq type="default">iwlegacy-firmware</packagereq>
       <packagereq type="default">iwlwifi-dvm-firmware</packagereq>
       <packagereq type="default">iwlwifi-mvm-firmware</packagereq>
-      <packagereq type="default">libertas-usb8388-firmware</packagereq>
+      <packagereq type="default">libertas-firmware</packagereq>
       <packagereq type="default">mt7xxx-firmware</packagereq>
       <packagereq type="default">nvidia-gpu-firmware</packagereq>
+      <packagereq arch="aarch64" type="default">qcom-firmware</packagereq>
       <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">acpi</packagereq>
@@ -4368,7 +4339,7 @@
       <packagereq arch="aarch64,s390x,x86_64">chatty</packagereq>
       <packagereq>cryptsetup</packagereq>
       <packagereq>default-editor</packagereq>
-      <packagereq>dnf5</packagereq>
+      <packagereq>dnf</packagereq>
       <packagereq>epiphany</packagereq>
       <packagereq>feedbackd</packagereq>
       <packagereq>gnome-calculator</packagereq>
@@ -5578,7 +5549,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">amd-gpu-firmware</packagereq>
-      <packagereq type="mandatory">dnf5</packagereq>
+      <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">intel-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
       <packagereq arch="x86_64" type="mandatory">microcode_ctl</packagereq>
@@ -5607,7 +5578,7 @@
       <packagereq type="default">default-editor</packagereq>
       <packagereq type="default">deltarpm</packagereq>
       <packagereq type="default">desktop-backgrounds-gnome</packagereq>
-      <packagereq type="default">dnf5-plugins</packagereq>
+      <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dos2unix</packagereq>
       <packagereq type="default">dosfstools</packagereq>
       <packagereq type="default">ethtool</packagereq>
