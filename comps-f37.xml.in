@@ -761,6 +761,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">gcc-c++</packagereq>
+      <packagereq type="mandatory">mock</packagereq>
+      <packagereq type="mandatory">mock-core-configs</packagereq>
       <packagereq type="mandatory">redhat-rpm-config</packagereq>
       <packagereq type="mandatory">rpm-build</packagereq>
     </packagelist>
@@ -773,6 +775,8 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">lorax</packagereq>
+      <packagereq type="mandatory">mock</packagereq>
+      <packagereq type="mandatory">mock-core-configs</packagereq>
       <packagereq type="mandatory">pungi</packagereq>
       <packagereq type="mandatory">selinux-policy</packagereq>
       <packagereq type="mandatory">setup</packagereq>
