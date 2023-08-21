@@ -5567,7 +5567,6 @@
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">acl</packagereq>
-      <packagereq type="default">adwaita-qt5</packagereq>
       <packagereq type="default">attr</packagereq>
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bc</packagereq>
@@ -5639,7 +5638,7 @@
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
       <packagereq type="default">python3-dnf-plugin-system-upgrade</packagereq>
-      <packagereq type="default">qgnomeplatform-qt5</packagereq>
+      <packagereq type="default">qadwaitadecorations</packagereq>
       <packagereq type="default">qt5-qtbase</packagereq>
       <packagereq type="default">qt5-qtbase-gui</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
