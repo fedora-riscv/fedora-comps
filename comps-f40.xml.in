@@ -630,6 +630,8 @@
       <packagereq type="optional">buildah</packagereq>
       <packagereq type="optional">flatpak</packagereq>
       <packagereq type="optional">flatpak-builder</packagereq>
+      <packagereq type="optional">skopeo</packagereq>
+      <packagereq type="optional">toolbox</packagereq>
     </packagelist>
   </group>
   <group>
