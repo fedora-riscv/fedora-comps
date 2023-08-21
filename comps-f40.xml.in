@@ -4994,6 +4994,7 @@
       <packagereq>acl</packagereq>
       <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
+      <packagereq>bash-color-prompt</packagereq>
       <packagereq>bash-completion</packagereq>
       <packagereq>bc</packagereq>
       <packagereq>bind-utils</packagereq>
@@ -5568,6 +5569,7 @@
       <packagereq type="default">abrt-java-connector</packagereq>
       <packagereq type="default">acl</packagereq>
       <packagereq type="default">attr</packagereq>
+      <packagereq type="default">bash-color-prompt</packagereq>
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bc</packagereq>
       <packagereq type="default">bind-utils</packagereq>
