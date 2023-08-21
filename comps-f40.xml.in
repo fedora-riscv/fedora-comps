@@ -2595,7 +2595,6 @@
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">baobab</packagereq>
       <packagereq type="default">cheese</packagereq>
-      <packagereq type="default">eog</packagereq>
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
       <!-- 2022-08: disabled ATM due to no GTK4 port
@@ -2633,6 +2632,7 @@
       <packagereq type="default">gvfs-smb</packagereq>
       <packagereq type="default">librsvg2</packagereq>
       <packagereq type="default">libsane-hpaio</packagereq>
+      <packagereq type="default">loupe</packagereq>
       <packagereq type="default">mesa-dri-drivers</packagereq>
       <packagereq type="default">mesa-libEGL</packagereq>
       <packagereq type="default">ModemManager</packagereq>
