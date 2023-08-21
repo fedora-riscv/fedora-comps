@@ -75,6 +75,7 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-tools-efi</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">grub2-tools-extra</packagereq>
+      <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
       <packagereq type="mandatory">kbd-legacy</packagereq>
@@ -651,7 +652,6 @@
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq type="mandatory">filesystem</packagereq>
       <packagereq type="mandatory">glibc</packagereq>
-      <packagereq type="mandatory">grubby</packagereq>
       <packagereq type="mandatory">hostname</packagereq>
       <packagereq type="mandatory">iproute</packagereq>
       <packagereq type="mandatory">iputils</packagereq>
