@@ -3600,7 +3600,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq>midori</packagereq>
+      <packagereq>firefox</packagereq>
       <packagereq>pidgin</packagereq>
       <packagereq>sylpheed</packagereq>
       <packagereq>transmission</packagereq>
