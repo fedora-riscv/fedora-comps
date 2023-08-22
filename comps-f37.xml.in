@@ -802,6 +802,7 @@
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
+      <packagereq type="mandatory">gnome-initial-setup</packagereq>
       <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
