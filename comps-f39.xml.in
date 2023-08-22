@@ -4475,7 +4475,7 @@
       <packagereq type="default">make</packagereq>
       <packagereq type="default">pipenv</packagereq>
       <packagereq type="default">poetry</packagereq>
-      <packagereq type="default">pypy3.9-devel</packagereq>
+      <packagereq type="default">pypy3.10-devel</packagereq>
       <packagereq type="default">python-launcher</packagereq>
       <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">python3-docs</packagereq>
