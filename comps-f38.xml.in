@@ -367,6 +367,8 @@
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal</packagereq>
       <packagereq type="default">nemo</packagereq>
+      <packagereq type="default">nemo-fileroller</packagereq>
+      <packagereq type="default">nemo-seahorse</packagereq>
       <packagereq type="default">parole</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
       <packagereq type="default">seahorse</packagereq>
