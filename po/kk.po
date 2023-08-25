@@ -1,10 +1,10 @@
-# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017. #zanata, 2022.
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017. #zanata, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-12-27 16:20+0000\n"
+"PO-Revision-Date: 2023-08-26 08:51+0000\n"
 "Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
 "Language-Team: Kazakh <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/kk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 4.18.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -50,7 +50,7 @@ msgstr "ARM жүйелерімен жұмыс істеуге арналған қ
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 Baremetal құралдары"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
