@@ -4544,7 +4544,11 @@
       <packagereq type="default">player-doc</packagereq>
       <packagereq type="default">player-examples</packagereq>
       <packagereq type="default">player-stage</packagereq>
+      <!-- FTI with Python 3.12:
+           https://bugzilla.redhat.com/show_bug.cgi?id=2220133
+           https://github.com/ros-infrastructure/bloom/issues/707
       <packagereq type="default">python3-bloom</packagereq>
+      !-->
       <packagereq type="default">python3-catkin_lint</packagereq>
       <packagereq type="default">python3-catkin_pkg</packagereq>
       <packagereq type="default">python3-catkin_tools</packagereq>
