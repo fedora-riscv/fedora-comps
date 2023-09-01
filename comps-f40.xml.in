@@ -87,6 +87,7 @@
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
+      <packagereq arch="aarch64,x86_64" type="mandatory">sdubby</packagereq>
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-x64</packagereq>
