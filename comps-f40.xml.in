@@ -812,6 +812,7 @@
       <packagereq type="default">gnome-bluetooth</packagereq>
       <packagereq type="default">gnome-software</packagereq>
       <packagereq type="default">nautilus</packagereq>
+      <packagereq type="default">toolbox</packagereq>
     </packagelist>
   </group>
   <group>
