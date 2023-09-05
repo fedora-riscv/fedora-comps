@@ -16,7 +16,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default">rhc</packagereq>
+      <packagereq type="mandatory">bash</packagereq>
     </packagelist>
   </group>
   <group>
