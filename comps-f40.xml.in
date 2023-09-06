@@ -6001,7 +6001,6 @@
     <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
     <grouplist>
-      <groupid>base-x</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
@@ -6016,6 +6015,7 @@
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
+      <groupid default="true">base-x</groupid>
       <groupid default="true">firefox</groupid>
       <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
@@ -6110,7 +6110,6 @@
     <display_order>2</display_order>
     <!-- Keep this list in sync with the list in fedora-workstation-common.ks. -->
     <grouplist>
-      <groupid>base-x</groupid>
       <groupid>container-management</groupid>
       <groupid>core</groupid>
       <groupid>firefox</groupid>
@@ -6126,6 +6125,7 @@
     </grouplist>
     <optionlist>
       <groupid>arm-tools</groupid>
+      <groupid default="true">base-x</groupid>
     </optionlist>
   </environment>
   <environment>
