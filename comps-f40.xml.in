@@ -5656,7 +5656,6 @@
       <packagereq type="default">rsync</packagereq>
       <packagereq type="default">sos</packagereq>
       <packagereq type="default">sssd</packagereq>
-      <packagereq type="default">subscription-manager</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">tcpdump</packagereq>
