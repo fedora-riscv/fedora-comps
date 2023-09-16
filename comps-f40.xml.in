@@ -3410,7 +3410,6 @@
       <packagereq type="optional">kdewebdev-devel</packagereq>
       <packagereq type="optional">kiten-devel</packagereq>
       <packagereq type="optional">krazy2</packagereq>
-      <packagereq type="optional">ktp-common-internals-devel</packagereq>
       <packagereq type="optional">libkcddb-devel</packagereq>
       <packagereq type="optional">libkcompactdisc-devel</packagereq>
       <packagereq type="optional">libkdegames-devel</packagereq>
@@ -3431,16 +3430,6 @@
     <packagelist>
       <packagereq>kaccounts-integration</packagereq>
       <packagereq arch="aarch64,x86_64">kaccounts-providers</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-accounts-kcm</packagereq>
-      <packagereq>ktp-approver</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-auth-handler</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-contact-list</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-contact-runner</packagereq>
-      <packagereq>ktp-desktop-applets</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-filetransfer-handler</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-kded-integration-module</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-send-file</packagereq>
-      <packagereq arch="aarch64,x86_64">ktp-text-ui</packagereq>
       <packagereq>signon-kwallet-extension</packagereq>
     </packagelist>
   </group>
