@@ -54,7 +54,6 @@
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">cryptsetup</packagereq>
       <packagereq type="mandatory">device-mapper-multipath</packagereq>
-      <packagereq type="mandatory">dmraid</packagereq>
       <packagereq type="mandatory">dosfstools</packagereq>
       <packagereq type="mandatory">dracut-network</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
