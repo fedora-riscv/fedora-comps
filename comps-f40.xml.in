@@ -3265,6 +3265,7 @@
       <packagereq type="default">kwrite</packagereq>
       <packagereq type="default">libappindicator-gtk3</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
+      <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">pam-kwallet</packagereq>
       <packagereq type="default">phonon-qt5-backend-gstreamer</packagereq>
