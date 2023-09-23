@@ -516,6 +516,7 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">thunderbird</packagereq>
       <packagereq type="mandatory">tmux</packagereq>
       <packagereq type="mandatory">tmux-powerline</packagereq>
+      <packagereq type="mandatory">totem-video-thumbnailer</packagereq>
       <packagereq type="mandatory">transmission</packagereq>
       <packagereq type="mandatory">vim-powerline</packagereq>
       <packagereq type="mandatory">xawtv</packagereq>
