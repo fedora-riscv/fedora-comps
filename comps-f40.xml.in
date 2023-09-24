@@ -3191,11 +3191,11 @@
       <packagereq type="default">kmahjongg</packagereq>
       <packagereq type="default">kmines</packagereq>
       <packagereq type="default">kmouth</packagereq>
-      <packagereq type="default">konversation</packagereq>
       <packagereq type="default">kpat</packagereq>
       <packagereq type="default">krdc</packagereq>
       <packagereq type="default">krusader</packagereq>
       <packagereq type="default">ktorrent</packagereq>
+      <packagereq type="default">neochat</packagereq>
       <packagereq type="default">okular</packagereq>
     </packagelist>
   </group>
