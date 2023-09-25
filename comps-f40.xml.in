@@ -78,7 +78,7 @@
       <packagereq type="mandatory">hfsplus-tools</packagereq>
       <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
       <packagereq type="mandatory">kbd-legacy</packagereq>
-      <packagereq type="mandatory">kdump-anaconda-addon</packagereq>
+      <packagereq type="mandatory">kexec-tools</packagereq>
       <packagereq type="mandatory">lvm2</packagereq>
       <packagereq arch="x86_64" type="mandatory">mactel-boot</packagereq>
       <packagereq type="mandatory">mdadm</packagereq>
