@@ -3214,7 +3214,6 @@
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
-      <packagereq type="conditional" requires="at-spi2-core">qt-at-spi</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
       <packagereq type="default">ark</packagereq>
@@ -3292,6 +3291,7 @@
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
       <packagereq type="default">plasma-workspace-x11</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
+      <packagereq type="default">qt-at-spi</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
