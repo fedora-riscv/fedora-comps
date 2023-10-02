@@ -13,13 +13,13 @@
 # Meskó Balázs <meskobalazs@gmail.com>, 2017. #zanata
 # Meskó Balázs <meskobalazs@gmail.com>, 2018. #zanata
 # Balázs Meskó <meskobalazs@mailbox.org>, 2020.
-# Hoppár Zoltán <hopparz@gmail.com>, 2022.
+# Hoppár Zoltán <hopparz@gmail.com>, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2022-09-24 16:19+0000\n"
+"PO-Revision-Date: 2023-10-03 01:35+0000\n"
 "Last-Translator: Hoppár Zoltán <hopparz@gmail.com>\n"
 "Language-Team: Hungarian <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/hu/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.0.2\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -1141,10 +1141,8 @@ msgstr "Online súgó és dokumentáció"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Cinnamon asztali környezet"
+msgstr "Pantheon asztali környezet"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
@@ -1183,10 +1181,8 @@ msgstr "Általános célú webfejlesztési szkriptnyelv."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Maráthi támogatás"
+msgstr "VMware Platform támogatás"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
@@ -1218,10 +1214,8 @@ msgstr "A Python tanításához és megtanulásához használt eszközök."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Python Science"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
@@ -1485,17 +1479,13 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Fedora Workstation termékmag"
+msgstr "Fedora Workstation ostree támogatás"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "A munkaállomás változat kötelező csomagjai."
+msgstr "A munkaállomás ostree változat kötelező csomagjai."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1681,10 +1671,8 @@ msgstr "MATE asztali környezet"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "KDE asztali környezet"
+msgstr "Deepin asztali környezet"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
