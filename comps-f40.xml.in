@@ -2600,7 +2600,6 @@
       <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">baobab</packagereq>
-      <packagereq type="default">cheese</packagereq>
       <packagereq type="default">evince</packagereq>
       <packagereq type="default">evince-djvu</packagereq>
       <!-- 2022-08: disabled ATM due to no GTK4 port
@@ -2656,6 +2655,7 @@
       <packagereq type="default">rygel</packagereq>
       <packagereq type="default">sane-backends-drivers-scanners</packagereq>
       <packagereq type="default">simple-scan</packagereq>
+      <packagereq type="default">snapshot</packagereq>
       <packagereq type="default">sushi</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">totem</packagereq>
