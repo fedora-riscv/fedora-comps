@@ -5809,6 +5809,7 @@
       <packagereq>greybird-light-theme</packagereq>
       <packagereq>greybird-xfce4-notifyd-theme</packagereq>
       <packagereq>greybird-xfwm4-theme</packagereq>
+      <packagereq>gtk2</packagereq>
       <packagereq>gtk-xfce-engine</packagereq>
       <packagereq>gvfs</packagereq>
       <packagereq>gvfs-archive</packagereq>
