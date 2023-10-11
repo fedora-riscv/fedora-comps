@@ -679,7 +679,7 @@
       <packagereq type="mandatory">yum</packagereq>
       <packagereq type="default">dnf-plugins-core</packagereq>
       <packagereq type="default">dracut-config-rescue</packagereq>
-      <packagereq type="default">grub2-common</packagereq>
+      <packagereq type="default">grub2-common</packagereq>
       <packagereq type="default">fedora-repos-modular</packagereq>
       <packagereq type="default">firewalld</packagereq>
       <packagereq type="default">fwupd</packagereq>
@@ -3310,7 +3310,7 @@
       <packagereq type="default">kwrite</packagereq>
       <packagereq type="default">libappindicator-gtk3</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
-      <packagereq type="default">gtk2</packagereq>
+      <packagereq type="default">gtk2</packagereq>
       <packagereq type="default">okular</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">pam-kwallet</packagereq>
