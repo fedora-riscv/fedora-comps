@@ -3740,7 +3740,6 @@
       <packagereq type="default">rasqal-devel</packagereq>
       <packagereq type="default">redhat-sb-certs</packagereq>
       <packagereq type="default">redland-devel</packagereq>
-      <packagereq type="default">rhc-devel</packagereq>
       <packagereq type="default">rpcgen</packagereq>
       <packagereq type="default">rpcsvc-proto-devel</packagereq>
       <packagereq type="default">rrdtool-devel</packagereq>
