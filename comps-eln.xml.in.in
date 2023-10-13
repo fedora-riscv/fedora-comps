@@ -896,30 +896,30 @@
       <packagereq variant="AppStream">mesa-libGLw-devel</packagereq>
       <packagereq variant="AppStream">nss-devel</packagereq>
       <packagereq variant="AppStream">pango-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qt3d-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-mysql</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-odbc</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-postgresql</packagereq>
-      <packagereq variant="AppStream">qt5-qtconnectivity-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtdoc</packagereq>
-      <packagereq variant="AppStream">qt5-qtgraphicaleffects</packagereq>
-      <packagereq variant="AppStream">qt5-qtimageformats</packagereq>
-      <packagereq variant="AppStream">qt5-qtlocation-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtmultimedia-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtquickcontrols</packagereq>
-      <packagereq variant="AppStream">qt5-qtquickcontrols2</packagereq>
-      <packagereq variant="AppStream">qt5-qtscript-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtsensors-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtserialport-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtsvg-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qttools-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qttranslations</packagereq>
-      <packagereq variant="AppStream">qt5-qtwebchannel-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtwebsockets-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtx11extras-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtxmlpatterns-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtserialbus</packagereq>
-      <packagereq arch="x86_64,ppc64le,aarch64" variant="AppStream">qt5-qtwayland</packagereq>
+      <packagereq variant="AppStream">qt6-qt3d-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-mysql</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-odbc</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-postgresql</packagereq>
+      <packagereq variant="AppStream">qt6-qtconnectivity-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtdoc</packagereq>
+      <packagereq variant="AppStream">qt6-qtgraphicaleffects</packagereq>
+      <packagereq variant="AppStream">qt6-qtimageformats</packagereq>
+      <packagereq variant="AppStream">qt6-qtlocation-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtmultimedia-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtquickcontrols</packagereq>
+      <packagereq variant="AppStream">qt6-qtquickcontrols2</packagereq>
+      <packagereq variant="AppStream">qt6-qtscript-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtsensors-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtserialport-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtsvg-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qttools-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qttranslations</packagereq>
+      <packagereq variant="AppStream">qt6-qtwebchannel-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtwebsockets-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtx11extras-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtxmlpatterns-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtserialbus</packagereq>
+      <packagereq arch="x86_64,ppc64le,aarch64" variant="AppStream">qt6-qtwayland</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools-libs</packagereq>
       <packagereq type="optional" arch="x86_64" variant="AppStream">vulkan-tools</packagereq>
@@ -1701,7 +1701,7 @@
       <packagereq variant="BaseOS">which</packagereq>
       <packagereq variant="BaseOS">words</packagereq>
       <packagereq variant="BaseOS">zip</packagereq>
-      <packagereq variant="AppStream">adwaita-qt5</packagereq>
+      <packagereq variant="AppStream">adwaita-qt6</packagereq>
       <packagereq variant="AppStream">bind-utils</packagereq>
       <packagereq variant="AppStream">evolution</packagereq>
       <packagereq variant="AppStream">evolution-ews</packagereq>
@@ -1720,10 +1720,10 @@
       <packagereq variant="AppStream">nmap-ncat</packagereq>
       <packagereq variant="AppStream">pinentry-gnome3</packagereq>
       <packagereq variant="AppStream">qgnomeplatform</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-gui</packagereq>
-      <packagereq variant="AppStream">qt5-qtdeclarative</packagereq>
-      <packagereq variant="AppStream">qt5-qtxmlpatterns</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-gui</packagereq>
+      <packagereq variant="AppStream">qt6-qtdeclarative</packagereq>
+      <packagereq variant="AppStream">qt6-qtxmlpatterns</packagereq>
       <packagereq variant="AppStream">setroubleshoot</packagereq>
       <packagereq variant="AppStream">telnet</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
@@ -3655,8 +3655,8 @@
       <packagereq type="default">poppler-cpp-devel</packagereq>
       <packagereq type="default">poppler-devel</packagereq>
       <packagereq type="default">poppler-glib-devel</packagereq>
-      <packagereq type="default">poppler-qt5</packagereq>
-      <packagereq type="default">poppler-qt5-devel</packagereq>
+      <packagereq type="default">poppler-qt6</packagereq>
+      <packagereq type="default">poppler-qt6-devel</packagereq>
       <packagereq type="default">postgresql-docs</packagereq>
       <packagereq type="default">postgresql-private-devel</packagereq>
       <packagereq type="default">postgresql-server-devel</packagereq>
@@ -3706,7 +3706,7 @@
       <packagereq type="default">python3-pytest-subtests</packagereq>
       <packagereq type="default">python3-pytest-timeout</packagereq>
       <packagereq type="default">python3-psutil-tests</packagereq>
-      <packagereq type="default">python3-qt5-devel</packagereq>
+      <packagereq type="default">python3-qt6-devel</packagereq>
       <packagereq type="default">python3-readthedocs-sphinx-ext</packagereq>
       <packagereq type="default">python3-rrdtool</packagereq>
       <packagereq type="default">python3-setuptools_scm</packagereq>
@@ -3731,10 +3731,10 @@
       <packagereq type="default">qgpgme-devel</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
       <packagereq type="default">qpdf</packagereq>
-      <packagereq type="default">qt5-devel</packagereq>
-      <packagereq type="default">qt5-qtbase-static</packagereq>
-      <packagereq type="default">qt5-qtdeclarative-static</packagereq>
-      <packagereq type="default">qt5-qttools-static</packagereq>
+      <packagereq type="default">qt6-devel</packagereq>
+      <packagereq type="default">qt6-qtbase-static</packagereq>
+      <packagereq type="default">qt6-qtdeclarative-static</packagereq>
+      <packagereq type="default">qt6-qttools-static</packagereq>
       <packagereq type="default">quota-devel</packagereq>
       <packagereq type="default">raptor2-devel</packagereq>
       <packagereq type="default">rasqal-devel</packagereq>
