@@ -403,6 +403,7 @@
       <packagereq type="mandatory">util-linux</packagereq>
       <packagereq type="mandatory">which</packagereq>
       <packagereq type="mandatory">xz</packagereq>
+      <packagereq type="mandatory">python3-rpm-generators</packagereq>
     </packagelist>
   </group>
   <group>
