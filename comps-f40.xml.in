@@ -41,6 +41,23 @@
     environment it should be listed as a dependency of the anaconda
     package or pulled in via lorax, not added to this group. See
     https://fedorahosted.org/rel-eng/ticket/5195 .
+
+    To clarify, this group is installed on the live media rather
+    than provided as a repo. Assuring when Anaconda runs the second time
+    from the live media, it has the packages needed to complete the
+    installation. As a side effect, packages marked "mandatory" and "normal"
+    then are then installed during the next upgrade cycle even if they
+    were excluded from the live media.
+
+    The solution is to mark packages which shouldn't be installed on the
+    live media as "optional". This has the additional advantage that they
+    don't need to be explicitly excluded in the live kickstarts. At the
+    same time, pungi and the fedora build infrastructure continue to
+    provide them on the DVD media repo. The latter behavior isn't well
+    documented since the ability to select or deselect packages in a group
+    was removed from anaconda. Yet, we now depend on that behavior in order
+    to assure that all the packages in this group are provided on the DVD,
+    even when a subset of the packages may conflict.
   -->
   <group>
     <id>anaconda-tools</id>
@@ -53,13 +70,11 @@
       <packagereq type="mandatory">btrfs-progs</packagereq>
       <packagereq type="mandatory">chrony</packagereq>
       <packagereq type="mandatory">cryptsetup</packagereq>
-      <packagereq type="mandatory">device-mapper-multipath</packagereq>
       <packagereq type="mandatory">dosfstools</packagereq>
       <packagereq type="mandatory">dracut-network</packagereq>
       <packagereq type="mandatory">e2fsprogs</packagereq>
       <packagereq arch="aarch64,x86_64" type="mandatory">efibootmgr</packagereq>
       <packagereq type="mandatory">exfatprogs</packagereq>
-      <packagereq type="mandatory">fcoe-utils</packagereq>
       <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">gfs2-utils</packagereq>
       <packagereq type="mandatory">glibc-all-langpacks</packagereq>
@@ -87,12 +102,14 @@
       <packagereq type="mandatory">realmd</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils</packagereq>
       <packagereq arch="s390x" type="mandatory">s390utils-base</packagereq>
-      <packagereq arch="aarch64,x86_64" type="mandatory">sdubby</packagereq>
       <packagereq arch="aarch64" type="mandatory">shim-aa64</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-ia32</packagereq>
       <packagereq arch="x86_64" type="mandatory">shim-x64</packagereq>
       <packagereq type="mandatory">teamd</packagereq>
       <packagereq type="mandatory">xfsprogs</packagereq>
+      <packagereq type="optional">device-mapper-multipath</packagereq>
+      <packagereq type="optional">fcoe-utils</packagereq>
+      <packagereq arch="aarch64,x86_64" type="optional">sdubby</packagereq>
     </packagelist>
   </group>
   <group>
