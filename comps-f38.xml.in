@@ -123,7 +123,7 @@
       <packagereq type="default">alsa-utils</packagereq>
       <packagereq type="default">alsamixergui</packagereq>
       <packagereq type="default">ams</packagereq>
-      <packagereq type="default">ardour6</packagereq>
+      <packagereq type="default">ardour8</packagereq>
       <packagereq type="default">arpage</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">audacity</packagereq>
       <packagereq type="default">calf</packagereq>
