@@ -3211,10 +3211,12 @@
       <packagereq type="mandatory">plasma-desktop</packagereq>
       <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq type="mandatory">plasma-workspace-wallpapers</packagereq>
+      <packagereq type="mandatory">plasma-workspace-wayland</packagereq>
       <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
+      <packagereq type="mandatory">sddm-wayland-plasma</packagereq>
       <packagereq type="default">abrt-desktop</packagereq>
       <packagereq type="default">adwaita-gtk2-theme</packagereq>
       <packagereq type="default">ark</packagereq>
@@ -3289,14 +3291,12 @@
       <packagereq type="default">plasma-vault</packagereq>
       <packagereq type="default">plasma-welcome</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
-      <packagereq type="default">plasma-workspace-x11</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
       <packagereq type="default">qt-at-spi</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">udisks2</packagereq>
-      <packagereq type="default">xorg-x11-drv-libinput</packagereq>
       <packagereq type="default">xwaylandvideobridge</packagereq>
       <packagereq type="optional">plasma-pk-updates</packagereq>
     </packagelist>
@@ -6014,7 +6014,6 @@
       <groupid>kde-desktop</groupid>
     </grouplist>
     <optionlist>
-      <groupid default="true">base-x</groupid>
       <groupid default="true">firefox</groupid>
       <groupid default="true">kde-apps</groupid>
       <groupid>kde-education</groupid>
