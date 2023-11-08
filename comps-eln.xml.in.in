@@ -260,19 +260,9 @@
       <packagereq type="default" variant="BaseOS">prefixdevname</packagereq>
       <packagereq type="default" variant="BaseOS">dnf-plugins-core</packagereq>
       <packagereq type="default" variant="BaseOS">dracut-config-rescue</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl100-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl105-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl135-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl1000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2030-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl3160-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5150-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6050-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl7260-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">NetworkManager</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlegacy-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlwifi-dvm-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlwifi-mvm-firmware</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-team</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-tui</packagereq>
       <packagereq type="default" variant="BaseOS">libsysfs</packagereq>
@@ -511,21 +501,20 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">bolt</packagereq>
-      <packagereq type="default">iwl100-firmware</packagereq>
-      <packagereq type="default">iwl1000-firmware</packagereq>
-      <packagereq type="default">iwl105-firmware</packagereq>
-      <packagereq type="default">iwl135-firmware</packagereq>
-      <packagereq type="default">iwl2000-firmware</packagereq>
-      <packagereq type="default">iwl2030-firmware</packagereq>
-      <packagereq type="default">iwl3160-firmware</packagereq>
-      <packagereq type="default">iwl5000-firmware</packagereq>
-      <packagereq type="default">iwl5150-firmware</packagereq>
-      <packagereq type="default">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default">iwl6000g2b-firmware</packagereq>
-      <packagereq type="default">iwl6050-firmware</packagereq>
-      <packagereq type="default">iwl7260-firmware</packagereq>
+      <packagereq type="default">amd-gpu-firmware</packagereq>
+      <packagereq type="default" arch="x86_64">amd-ucode-firmware</packagereq>
+      <packagereq type="default">atheros-firmware</packagereq>
+      <packagereq type="default">brcmfmac-firmware</packagereq>
+      <packagereq type="default">intel-gpu-firmware</packagereq>
+      <packagereq type="default">iwlegacy-firmware</packagereq>
+      <packagereq type="default">iwlwifi-dvm-firmware</packagereq>
+      <packagereq type="default">iwlwifi-mvm-firmware</packagereq>
       <packagereq type="default">netronome-firmware</packagereq>
-      <packagereq type="default">libertas-sd8787-firmware</packagereq>
+      <packagereq type="default">nvidia-gpu-firmware</packagereq>
+      <packagereq type="default">libertas-firmware</packagereq>
+      <packagereq type="default">liquidio-firmware</packagereq>
+      <packagereq type="default">qcom-firmware</packagereq>
+      <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">opensc</packagereq>
