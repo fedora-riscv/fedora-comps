@@ -5018,6 +5018,7 @@
     <packagelist>
       <packagereq>abrt-cli</packagereq>
       <packagereq>acl</packagereq>
+      <packagereq arch="x86_64">amd-ucode-firmware</packagereq>
       <packagereq>at</packagereq>
       <packagereq>attr</packagereq>
       <packagereq>bash-completion</packagereq>
@@ -5581,6 +5582,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">amd-gpu-firmware</packagereq>
+      <packagereq arch="x86_64" type="mandatory">amd-ucode-firmware</packagereq>
       <packagereq type="mandatory">dnf</packagereq>
       <packagereq type="mandatory">intel-gpu-firmware</packagereq>
       <packagereq type="mandatory">linux-firmware</packagereq>
