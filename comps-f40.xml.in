@@ -3255,7 +3255,7 @@
       <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
       <packagereq type="default">kmenuedit</packagereq>
       <packagereq type="default">kmousetool</packagereq>
-      <packagereq type="default">konsole5</packagereq>
+      <packagereq type="default">konsole</packagereq>
       <packagereq type="default">krfb</packagereq>
       <packagereq type="default">kscreen</packagereq>
       <packagereq type="default">kscreenlocker</packagereq>
