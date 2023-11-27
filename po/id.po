@@ -10,21 +10,22 @@
 # Teguh Dwicaksana <dheche@songolimo.net>, 2005
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # Andika Triwidada <andika@gmail.com>, 2018. #zanata
+# Arif Budiman <arifpedia@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2018-02-23 02:43+0000\n"
-"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
-"Language-Team: Indonesian (http://www.transifex.com/projects/p/comps/"
-"language/id/)\n"
+"PO-Revision-Date: 2023-11-28 16:01+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
+"fedora-comps/main/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Zanata 4.6.2\n"
+"X-Generator: Weblate 5.2.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -53,19 +54,19 @@ msgstr "Peralatan Anaconda"
 
 #: ../comps-f32.xml.in.h:6 ../comps-f33.xml.in.h:6 ../comps-f34.xml.in.h:6
 msgid "ARM Tools"
-msgstr ""
+msgstr "Alat bantu ARM"
 
 #: ../comps-f32.xml.in.h:7 ../comps-f33.xml.in.h:7 ../comps-f34.xml.in.h:7
 msgid "Tools for working with arm systems"
-msgstr ""
+msgstr "Alat bantu untuk bekerja dengan sistem arm"
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "Alat bantu Baremetal x86"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
-msgstr ""
+msgstr "Alat bantu untuk bekerja dengan sistem x86 baremetal"
 
 #: ../comps-f32.xml.in.h:10 ../comps-f33.xml.in.h:10 ../comps-f34.xml.in.h:10
 msgid "Audio Production"
@@ -139,6 +140,8 @@ msgid ""
 "Cinnamon provides a desktop with a traditional layout, advanced features, "
 "easy to use, powerful and flexible."
 msgstr ""
+"Cinnamon menyediakan desktop dengan tata letak tradisional, fitur-fitur "
+"canggih, mudah digunakan, kuat, dan fleksibel."
 
 #: ../comps-f32.xml.in.h:25 ../comps-f33.xml.in.h:23 ../comps-f34.xml.in.h:23
 msgid "Cloud Infrastructure"
@@ -168,15 +171,16 @@ msgstr "Peralatan Server Cloud"
 msgid ""
 "Software for servers and system images that run in \"cloud\" environments"
 msgstr ""
+"Perangkat lunak untuk server dan image sistem yang berjalan di lingkungan "
+"\"cloud\""
 
 #: ../comps-f32.xml.in.h:31 ../comps-f33.xml.in.h:29 ../comps-f34.xml.in.h:29
-#, fuzzy
 msgid "Compiz"
-msgstr "Destop MATE"
+msgstr "Compiz"
 
 #: ../comps-f32.xml.in.h:32 ../comps-f33.xml.in.h:30 ../comps-f34.xml.in.h:30
 msgid "This package group adds Compiz and Emerald"
-msgstr ""
+msgstr "Grup paket ini menambahkan Compiz dan Emerald"
 
 #: ../comps-f32.xml.in.h:33 ../comps-f33.xml.in.h:31 ../comps-f34.xml.in.h:31
 msgid "Container Management"
@@ -201,11 +205,11 @@ msgstr "Jalur Kritis (Aplikasi)"
 
 #: ../comps-f32.xml.in.h:38 ../comps-f33.xml.in.h:36 ../comps-f34.xml.in.h:36
 msgid "A set of applications that are considered critical path"
-msgstr ""
+msgstr "Satu set aplikasi yang dianggap sebagai jalur kritis"
 
 #: ../comps-f32.xml.in.h:39 ../comps-f33.xml.in.h:37 ../comps-f34.xml.in.h:37
 msgid "Critical Path (Base)"
-msgstr ""
+msgstr "Jalur Kritis (Dasar)"
 
 #: ../comps-f32.xml.in.h:40 ../comps-f33.xml.in.h:38 ../comps-f34.xml.in.h:38
 msgid ""
@@ -216,20 +220,16 @@ msgstr ""
 "Critical Path bisa berfungsi pada semua Fedora spins"
 
 #: ../comps-f32.xml.in.h:41 ../comps-f33.xml.in.h:39 ../comps-f34.xml.in.h:39
-#, fuzzy
-#| msgid "Critical Path (KDE)"
 msgid "Critical Path (Deepin desktop)"
-msgstr "Jalur Kritis (KDE)"
+msgstr "Jalur Kritis (desktop Deepin)"
 
 #: ../comps-f32.xml.in.h:42 ../comps-f33.xml.in.h:40 ../comps-f34.xml.in.h:40
-#, fuzzy
-#| msgid ""
-#| "A set of packages that provide the Critical Path functionality for the "
-#| "LXQt desktop"
 msgid ""
 "A set of packages that provide the Critical Path functionality for the "
 "Deepin desktop"
-msgstr "Satu set paket yang menyediakan fungsi Jalur Kritis untuk desktop LXQt"
+msgstr ""
+"Satu set paket yang menyediakan fungsionalitas Jalur Kritis untuk desktop "
+"Deepin"
 
 #: ../comps-f32.xml.in.h:43 ../comps-f33.xml.in.h:41 ../comps-f34.xml.in.h:41
 msgid "Critical Path (GNOME)"
@@ -253,6 +253,7 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the KDE "
 "desktop"
 msgstr ""
+"Satu set paket yang menyediakan fungsionalitas Jalur Kritis untuk desktop KDE"
 
 #: ../comps-f32.xml.in.h:47 ../comps-f33.xml.in.h:45 ../comps-f34.xml.in.h:45
 msgid "Critical Path (LXDE)"
@@ -263,6 +264,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the LXDE "
 "desktop"
 msgstr ""
+"Satu set paket yang menyediakan fungsionalitas Jalur Kritis untuk desktop "
+"LXDE"
 
 #: ../comps-f32.xml.in.h:49 ../comps-f33.xml.in.h:47 ../comps-f34.xml.in.h:47
 msgid "Critical Path (LXQt)"
@@ -283,6 +286,8 @@ msgid ""
 "A set of packages that provide the Critical Path functionality for the Xfce "
 "desktop"
 msgstr ""
+"Satu set paket yang menyediakan fungsionalitas Jalur Kritis untuk desktop "
+"Xfce"
 
 #: ../comps-f32.xml.in.h:53 ../comps-f33.xml.in.h:51 ../comps-f34.xml.in.h:51
 msgid "D Development Tools and Libraries"
@@ -296,42 +301,36 @@ msgstr ""
 "geany-tag."
 
 #: ../comps-f32.xml.in.h:55 ../comps-f33.xml.in.h:53 ../comps-f34.xml.in.h:53
-#, fuzzy
-#| msgid "Desktop Environments"
 msgid "Deepin Desktop Environment"
-msgstr "Lingkungan Desktop"
+msgstr "Lingkungan Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:56 ../comps-f33.xml.in.h:54 ../comps-f34.xml.in.h:54
 msgid ""
 "Deepin Desktop is a desktop environment aims at being elegant and easy to "
 "use."
 msgstr ""
+"Desktop Deepin adalah sebuah lingkungan desktop yang bertujuan untuk menjadi "
+"elegan dan mudah digunakan."
 
 #: ../comps-f32.xml.in.h:57 ../comps-f33.xml.in.h:55 ../comps-f34.xml.in.h:55
-#, fuzzy
-#| msgid "Internet Applications"
 msgid "Deepin Desktop Applications"
-msgstr "Aplikasi Internet"
+msgstr "Aplikasi Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:58 ../comps-f33.xml.in.h:56 ../comps-f34.xml.in.h:56
-#, fuzzy
-#| msgid "Fonts packages for rendering text on the desktop."
 msgid "Media packages for Deepin Desktop"
-msgstr "Paket fonta untuk merender teks di desktop."
+msgstr "Paket media untuk Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:59 ../comps-f33.xml.in.h:57 ../comps-f34.xml.in.h:57
-#, fuzzy
-#| msgid "Remote Desktop Clients"
 msgid "Deepin Desktop Office"
-msgstr "Klien Destop Jarak-jauh"
+msgstr "Office Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:60 ../comps-f33.xml.in.h:58 ../comps-f34.xml.in.h:58
 msgid "Office suite for Deepin Desktop"
-msgstr ""
+msgstr "Suite Office untuk Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:61 ../comps-f33.xml.in.h:59 ../comps-f34.xml.in.h:59
 msgid "Design Suite"
-msgstr ""
+msgstr "Suite Desain"
 
 #: ../comps-f32.xml.in.h:62 ../comps-f33.xml.in.h:60 ../comps-f34.xml.in.h:60
 msgid ""
@@ -364,9 +363,8 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:67 ../comps-f33.xml.in.h:65 ../comps-f34.xml.in.h:65
 #: ../comps-epel7.xml.in.h:56
-#, fuzzy
 msgid "Dial-up Networking Support"
-msgstr "Dukungan Dialup Networking"
+msgstr "Dukungan Jaringan Dial-up"
 
 #: ../comps-f32.xml.in.h:68 ../comps-f33.xml.in.h:66 ../comps-f34.xml.in.h:66
 #: ../comps-epel7.xml.in.h:60
@@ -465,6 +463,8 @@ msgid ""
 "Enlightenment is a lean, fast, modular and very extensible windowed desktop "
 "environment."
 msgstr ""
+"Enlightenment adalah lingkungan desktop berjendela yang ramping, cepat, "
+"modular, dan sangat dapat diperluas."
 
 #: ../comps-f32.xml.in.h:88
 msgid "Epiphany Web Browser"
@@ -521,6 +521,8 @@ msgid ""
 "Provides central directory services for identity, policy management and "
 "auditing."
 msgstr ""
+"Menyediakan layanan direktori pusat untuk identitas, manajemen kebijakan, "
+"dan audit."
 
 #: ../comps-f32.xml.in.h:100 ../comps-f33.xml.in.h:96 ../comps-f34.xml.in.h:96
 msgid "FTP Server"
@@ -548,16 +550,17 @@ msgstr "GNOME"
 #: ../comps-f34.xml.in.h:101
 msgid "GNOME is a highly intuitive and user friendly desktop environment."
 msgstr ""
+"GNOME adalah lingkungan desktop yang sangat intuitif dan ramah pengguna."
 
 #: ../comps-f32.xml.in.h:106 ../comps-f33.xml.in.h:102
 #: ../comps-f34.xml.in.h:102
 msgid "Extra games for the GNOME Desktop"
-msgstr ""
+msgstr "Permainan tambahan untuk Desktop GNOME"
 
 #: ../comps-f32.xml.in.h:107 ../comps-f33.xml.in.h:103
 #: ../comps-f34.xml.in.h:103
 msgid "A variety of games for the GNOME Desktop"
-msgstr ""
+msgstr "Berbagai permainan untuk Desktop GNOME"
 
 #: ../comps-f32.xml.in.h:108 ../comps-f33.xml.in.h:104
 #: ../comps-f34.xml.in.h:104
@@ -578,9 +581,8 @@ msgstr "Internet Grafis"
 
 #: ../comps-f32.xml.in.h:111 ../comps-f33.xml.in.h:107
 #: ../comps-f34.xml.in.h:107
-#, fuzzy
 msgid "This group includes graphical email, web, and chat clients."
-msgstr "Grup ini termasuk email grafis, Web dan klien untuk chat."
+msgstr "Grup ini mencakup email grafis, web, dan klien obrolan."
 
 #: ../comps-f32.xml.in.h:112 ../comps-f33.xml.in.h:108
 #: ../comps-f34.xml.in.h:108
@@ -597,32 +599,34 @@ msgstr ""
 #: ../comps-f32.xml.in.h:114 ../comps-f33.xml.in.h:110
 #: ../comps-f34.xml.in.h:110
 msgid "Guest Agents"
-msgstr ""
+msgstr "Agen Tamu"
 
 #: ../comps-f32.xml.in.h:115 ../comps-f33.xml.in.h:111
 #: ../comps-f34.xml.in.h:111
 msgid "Agents used when running under a hypervisor."
-msgstr ""
+msgstr "Agen yang digunakan saat berjalan di bawah hypervisor."
 
 #: ../comps-f32.xml.in.h:116 ../comps-f33.xml.in.h:112
 #: ../comps-f34.xml.in.h:112
 msgid "Guest Desktop Agents"
-msgstr ""
+msgstr "Agen Desktop Tamu"
 
 #: ../comps-f32.xml.in.h:117 ../comps-f33.xml.in.h:113
 #: ../comps-f34.xml.in.h:113
 msgid "Agents used when running as a virtualized desktop."
-msgstr ""
+msgstr "Agen yang digunakan saat berjalan sebagai desktop tervirtualisasi."
 
 #: ../comps-f32.xml.in.h:118 ../comps-f33.xml.in.h:114
 #: ../comps-f34.xml.in.h:114
 msgid "High Availability"
-msgstr ""
+msgstr "Ketersediaan Tinggi"
 
 #: ../comps-f32.xml.in.h:119 ../comps-f33.xml.in.h:115
 #: ../comps-f34.xml.in.h:115
 msgid "Infrastructure for highly available services and/or shared storage."
 msgstr ""
+"Infrastruktur untuk layanan yang selalu tersedia dan/atau penyimpanan "
+"bersama."
 
 #: ../comps-f32.xml.in.h:120 ../comps-f33.xml.in.h:116
 #: ../comps-f34.xml.in.h:116
@@ -632,7 +636,7 @@ msgstr "HAProxy"
 #: ../comps-f32.xml.in.h:121 ../comps-f33.xml.in.h:117
 #: ../comps-f34.xml.in.h:117
 msgid "TCP/HTTP Load Balancer."
-msgstr ""
+msgstr "Penyeimbang Beban TCP/HTTP."
 
 #: ../comps-f32.xml.in.h:122 ../comps-f33.xml.in.h:118
 #: ../comps-f34.xml.in.h:118
@@ -660,14 +664,13 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:126 ../comps-f33.xml.in.h:122
 #: ../comps-f34.xml.in.h:122
-#, fuzzy
 msgid "Headless Management"
-msgstr "Manajemen Sistem"
+msgstr "Manajemen Headless"
 
 #: ../comps-f32.xml.in.h:127 ../comps-f33.xml.in.h:123
 #: ../comps-f34.xml.in.h:123
 msgid "Tools for managing the system without an attached graphical console."
-msgstr ""
+msgstr "Alat bantu untuk mengelola sistem tanpa konsol grafis yang terpasang."
 
 #: ../comps-f32.xml.in.h:128 ../comps-f33.xml.in.h:124
 #: ../comps-f34.xml.in.h:124 ../comps-epel7.xml.in.h:111
@@ -719,7 +722,7 @@ msgstr "Aplikasi-aplikasi KDE"
 #: ../comps-f32.xml.in.h:137 ../comps-f33.xml.in.h:133
 #: ../comps-f34.xml.in.h:133 ../comps-epel8.xml.in.h:6
 msgid "A set of commonly used KDE applications"
-msgstr ""
+msgstr "Satu set aplikasi KDE yang umum digunakan"
 
 #: ../comps-f32.xml.in.h:138 ../comps-f33.xml.in.h:134
 #: ../comps-f34.xml.in.h:134 ../comps-epel8.xml.in.h:7
@@ -733,6 +736,9 @@ msgid ""
 "which includes a panel, desktop, system icons and desktop widgets, and many "
 "powerful KDE applications."
 msgstr ""
+"KDE Plasma Workspaces, antarmuka pengguna grafis yang sangat mudah "
+"dikonfigurasi yang meliputi panel, desktop, ikon sistem dan widget desktop, "
+"dan banyak aplikasi KDE yang canggih."
 
 #: ../comps-f32.xml.in.h:140 ../comps-f33.xml.in.h:136
 #: ../comps-f34.xml.in.h:136 ../comps-epel8.xml.in.h:9
@@ -766,9 +772,8 @@ msgstr "Pengembangan Piranti Lunak KDE"
 
 #: ../comps-f32.xml.in.h:146 ../comps-f33.xml.in.h:142
 #: ../comps-f34.xml.in.h:142 ../comps-epel8.xml.in.h:15
-#, fuzzy
 msgid "Install these packages to develop Qt and KDE graphical applications."
-msgstr "Install paket ini untuk develop QT dan aplikasi grafis KDE."
+msgstr "Instal paket-paket ini untuk mengembangkan aplikasi grafis Qt dan KDE."
 
 #: ../comps-f32.xml.in.h:147 ../comps-f33.xml.in.h:143
 #: ../comps-f34.xml.in.h:143
@@ -782,17 +787,17 @@ msgstr "Aplikasi-aplikasi Telepathy untuk KDE"
 
 #: ../comps-f32.xml.in.h:149 ../comps-f33.xml.in.h:145
 #: ../comps-f34.xml.in.h:145 ../comps-epel8.xml.in.h:16
-#, fuzzy
 msgid "KDE Frameworks 5 Software Development"
-msgstr "Pengembangan Piranti Lunak KDE"
+msgstr "Pengembangan Perangkat Lunak KDE Frameworks 5"
 
 #: ../comps-f32.xml.in.h:150 ../comps-f33.xml.in.h:146
 #: ../comps-f34.xml.in.h:146 ../comps-epel8.xml.in.h:17
-#, fuzzy
 msgid ""
 "Install these packages to develop applications using Qt5 and KDE Frameworks "
 "5."
-msgstr "Install paket ini untuk develop QT dan aplikasi grafis KDE."
+msgstr ""
+"Instal paket-paket ini untuk mengembangkan aplikasi menggunakan Qt5 dan KDE "
+"Frameworks 5."
 
 #: ../comps-f32.xml.in.h:151 ../comps-f33.xml.in.h:147
 #: ../comps-f34.xml.in.h:147
@@ -839,7 +844,7 @@ msgstr "LibreOffice"
 #: ../comps-f32.xml.in.h:159 ../comps-f33.xml.in.h:152
 #: ../comps-f34.xml.in.h:152
 msgid "LibreOffice Productivity Suite"
-msgstr ""
+msgstr "Suite Produktivitas LibreOffice"
 
 #: ../comps-f32.xml.in.h:160 ../comps-f33.xml.in.h:153
 #: ../comps-f34.xml.in.h:153
@@ -851,16 +856,18 @@ msgstr "Pengembangan LibreOffice"
 msgid ""
 "These packages are helpful when developing LibreOffice extensions or macros."
 msgstr ""
+"Paket-paket ini sangat membantu ketika mengembangkan ekstensi atau makro "
+"LibreOffice."
 
 #: ../comps-f32.xml.in.h:162 ../comps-f33.xml.in.h:155
 #: ../comps-f34.xml.in.h:155
 msgid "Load Balancer"
-msgstr ""
+msgstr "Penyeimbang Beban"
 
 #: ../comps-f32.xml.in.h:163 ../comps-f33.xml.in.h:156
 #: ../comps-f34.xml.in.h:156
 msgid "Load balancing support for network traffic"
-msgstr ""
+msgstr "Dukungan penyeimbangan beban untuk lalu lintas jaringan"
 
 #: ../comps-f32.xml.in.h:164 ../comps-f33.xml.in.h:157
 #: ../comps-f34.xml.in.h:157
@@ -870,7 +877,7 @@ msgstr "Aplikasi-aplikasi untuk Destop LXDE"
 #: ../comps-f32.xml.in.h:165 ../comps-f33.xml.in.h:158
 #: ../comps-f34.xml.in.h:158
 msgid "A set of commonly used applications for the LXDE Desktop"
-msgstr ""
+msgstr "Satu set aplikasi yang umum digunakan untuk Desktop LXDE"
 
 #: ../comps-f32.xml.in.h:166 ../comps-f33.xml.in.h:159
 #: ../comps-f34.xml.in.h:159
@@ -895,24 +902,22 @@ msgstr "Dukungan multimedia untuk LXDE"
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
 msgid "LXDE Office"
-msgstr ""
+msgstr "LXDE Office"
 
 #: ../comps-f32.xml.in.h:170 ../comps-f33.xml.in.h:163
 #: ../comps-f34.xml.in.h:163
 msgid "Office suite for LXDE"
-msgstr ""
+msgstr "Suite Office untuk LXDE"
 
 #: ../comps-f32.xml.in.h:171 ../comps-f33.xml.in.h:164
 #: ../comps-f34.xml.in.h:164
-#, fuzzy
 msgid "Applications for the LXQt Desktop"
-msgstr "Aplikasi-aplikasi untuk Destop LXDE"
+msgstr "Aplikasi untuk Desktop LXQt"
 
 #: ../comps-f32.xml.in.h:172 ../comps-f33.xml.in.h:165
 #: ../comps-f34.xml.in.h:165
-#, fuzzy
 msgid "A set of commonly used applications for the LXQt Desktop"
-msgstr "Aplikasi-aplikasi untuk Destop LXDE"
+msgstr "Satu set aplikasi yang umum digunakan untuk Desktop LXQt"
 
 #: ../comps-f32.xml.in.h:173 ../comps-f33.xml.in.h:166
 #: ../comps-f34.xml.in.h:166
@@ -921,19 +926,18 @@ msgstr "LXQt"
 
 #: ../comps-f32.xml.in.h:174 ../comps-f33.xml.in.h:167
 #: ../comps-f34.xml.in.h:167 ../comps-epel7.xml.in.h:150
-#, fuzzy
 msgid ""
 "LXQt is a lightweight X11 desktop environment designed for computers with "
 "low hardware specifications like netbooks, mobile devices or older computers."
 msgstr ""
-"LXDE adalah lingkungan desktop ringan X11 yang didesain untuk komputer "
-"dengan spesifikasi perangkat keras rendah seperti netbook, perangkat mobile "
-"atau komputer lama."
+"LXQt adalah lingkungan desktop X11 ringan yang dirancang untuk komputer "
+"dengan spesifikasi perangkat keras yang rendah seperti netbook, perangkat "
+"seluler, atau komputer lama."
 
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "Terjemahan LXQt"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -942,14 +946,13 @@ msgstr "Dukungan multimedia untuk LXQt"
 
 #: ../comps-f32.xml.in.h:177 ../comps-f33.xml.in.h:170
 #: ../comps-f34.xml.in.h:170
-#, fuzzy
 msgid "LXQt Office"
-msgstr "Perkantoran KDE"
+msgstr "Office LXQt"
 
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
 msgid "Office suite for LXQt"
-msgstr ""
+msgstr "Suite Office untuk LXQt"
 
 #: ../comps-f32.xml.in.h:179 ../comps-f33.xml.in.h:172
 #: ../comps-f34.xml.in.h:172
@@ -965,15 +968,13 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:181 ../comps-f33.xml.in.h:174
 #: ../comps-f34.xml.in.h:174
-#, fuzzy
 msgid "MATE Applications"
-msgstr "Aplikasi-aplikasi KDE"
+msgstr "Aplikasi MATE"
 
 #: ../comps-f32.xml.in.h:182 ../comps-f33.xml.in.h:175
 #: ../comps-f34.xml.in.h:175
-#, fuzzy
 msgid "Applications for the MATE Desktop."
-msgstr "Aplikasi-aplikasi untuk Destop LXDE"
+msgstr "Aplikasi untuk Desktop MATE."
 
 #: ../comps-f32.xml.in.h:183 ../comps-f33.xml.in.h:176
 #: ../comps-f34.xml.in.h:176 ../comps-epel7.xml.in.h:164
@@ -987,6 +988,9 @@ msgid ""
 "interface for users who seek a simple easy to use traditional desktop "
 "interface."
 msgstr ""
+"MATE Desktop berbasis GNOME 2 dan menyediakan antarmuka pengguna grafis yang "
+"kuat untuk pengguna yang mencari antarmuka desktop tradisional yang "
+"sederhana dan mudah digunakan."
 
 #: ../comps-f32.xml.in.h:185
 msgid "Medical Applications"
@@ -994,7 +998,7 @@ msgstr "Aplikasi-aplikasi Medis"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "Ini adalah kelompok aplikasi yang terkait dengan perawatan kesehatan."
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
@@ -1004,12 +1008,12 @@ msgstr "Milkymist"
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Rangkaian alat untuk para insinyur perangkat keras Milkymist."
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
 msgid "MinGW cross-compiler"
-msgstr ""
+msgstr "Kompiler silang MinGW"
 
 #: ../comps-f32.xml.in.h:190 ../comps-f33.xml.in.h:181
 #: ../comps-f34.xml.in.h:181
@@ -1017,6 +1021,8 @@ msgid ""
 "Support for cross-compiling programs to 32 bit Windows targets, testing "
 "them, and building installers, all from within Fedora."
 msgstr ""
+"Dukungan untuk kompilasi silang program ke target Windows 32 bit, "
+"mengujinya, dan membangun pemasang, semuanya dari dalam Fedora."
 
 #: ../comps-f32.xml.in.h:191 ../comps-f33.xml.in.h:182
 #: ../comps-f34.xml.in.h:182
@@ -1026,7 +1032,7 @@ msgstr "MongoDB"
 #: ../comps-f32.xml.in.h:192 ../comps-f33.xml.in.h:183
 #: ../comps-f34.xml.in.h:183
 msgid "Scalable, high-performance NoSQL database."
-msgstr ""
+msgstr "Basis data NoSQL yang dapat diskalakan dan berkinerja tinggi."
 
 #: ../comps-f32.xml.in.h:193 ../comps-f33.xml.in.h:184
 #: ../comps-f34.xml.in.h:184
@@ -1036,7 +1042,7 @@ msgstr "Multimedia"
 #: ../comps-f32.xml.in.h:194 ../comps-f33.xml.in.h:185
 #: ../comps-f34.xml.in.h:185
 msgid "Audio/video framework common to desktops"
-msgstr ""
+msgstr "Kerangka kerja audio/video yang umum untuk desktop"
 
 #: ../comps-f32.xml.in.h:195 ../comps-f33.xml.in.h:186
 #: ../comps-f34.xml.in.h:186
@@ -1048,6 +1054,8 @@ msgstr "Basis data MariaDB (MySQL)"
 msgid ""
 "This package group contains packages useful for use with MariaDB (MySQL)."
 msgstr ""
+"Grup paket ini berisi paket-paket yang berguna untuk digunakan dengan "
+"MariaDB (MySQL)."
 
 #: ../comps-f32.xml.in.h:197 ../comps-f33.xml.in.h:188
 #: ../comps-f34.xml.in.h:188
@@ -1065,7 +1073,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:199 ../comps-f33.xml.in.h:190
 #: ../comps-f34.xml.in.h:190
 msgid "Common NetworkManager Submodules"
-msgstr ""
+msgstr "Submodul NetworkManager Umum"
 
 #: ../comps-f32.xml.in.h:200 ../comps-f33.xml.in.h:191
 #: ../comps-f34.xml.in.h:191
@@ -1073,11 +1081,13 @@ msgid ""
 "This group contains NetworkManager submodules that are commonly used, but "
 "may not be wanted in some streamlined configurations."
 msgstr ""
+"Grup ini berisi submodul NetworkManager yang biasanya digunakan, tetapi "
+"mungkin tidak diinginkan dalam beberapa konfigurasi yang disederhanakan."
 
 #: ../comps-f32.xml.in.h:201 ../comps-f33.xml.in.h:192
 #: ../comps-f34.xml.in.h:192
 msgid "Neuron Modelling Simulators"
-msgstr ""
+msgstr "Simulator Pemodelan Neuron"
 
 #: ../comps-f32.xml.in.h:202 ../comps-f33.xml.in.h:193
 #: ../comps-f34.xml.in.h:193
@@ -1085,6 +1095,8 @@ msgid ""
 "This group includes simulators used in modelling of neurons and their "
 "networks."
 msgstr ""
+"Kelompok ini mencakup simulator yang digunakan dalam pemodelan neuron dan "
+"jaringannya."
 
 #: ../comps-f32.xml.in.h:203 ../comps-f33.xml.in.h:194
 #: ../comps-f34.xml.in.h:194
@@ -1105,13 +1117,12 @@ msgstr "OCaml"
 
 #: ../comps-f32.xml.in.h:206 ../comps-f33.xml.in.h:197
 #: ../comps-f34.xml.in.h:197
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
 "Dukungan untuk mengembangkan perangkat lunak menggunakan bahasa pemrograman "
-"dan pustaka Objective CAML. "
+"dan pustaka Objective Caml."
 
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
@@ -1129,15 +1140,13 @@ msgstr "Bantuan dan Dokumentasi Online"
 
 #: ../comps-f32.xml.in.h:210 ../comps-f33.xml.in.h:200
 #: ../comps-f34.xml.in.h:200
-#, fuzzy
-#| msgid "Cinnamon Desktop"
 msgid "Pantheon Desktop"
-msgstr "Desktop Cinnamon"
+msgstr "Desktop Pantheon"
 
 #: ../comps-f32.xml.in.h:211 ../comps-f33.xml.in.h:201
 #: ../comps-f34.xml.in.h:201
 msgid "The Pantheon desktop environment is the DE that powers elementaryOS."
-msgstr ""
+msgstr "Lingkungan desktop Pantheon adalah DE yang memberdayakan elementaryOS."
 
 #: ../comps-f32.xml.in.h:212 ../comps-f33.xml.in.h:202
 #: ../comps-f34.xml.in.h:202
@@ -1168,19 +1177,17 @@ msgstr "PHP"
 #: ../comps-f32.xml.in.h:217 ../comps-f33.xml.in.h:209
 #: ../comps-f34.xml.in.h:209
 msgid "General-purpose web development scripting language."
-msgstr ""
+msgstr "Bahasa skrip pengembangan web untuk keperluan umum."
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "Dukungan Marathi"
+msgstr "Dukungan Platform VMware"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "Paket yang akan diinstal di mesin virtual VMware"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1198,24 +1205,22 @@ msgstr ""
 #: ../comps-f32.xml.in.h:222 ../comps-f33.xml.in.h:214
 #: ../comps-f34.xml.in.h:214
 msgid "Python Classroom"
-msgstr ""
+msgstr "Ruang Kelas Python"
 
 #: ../comps-f32.xml.in.h:223 ../comps-f33.xml.in.h:215
 #: ../comps-f34.xml.in.h:215
 msgid "Tools used to teach and learn Python."
-msgstr ""
+msgstr "Alat bantu yang digunakan untuk mengajar dan belajar Python."
 
 #: ../comps-f32.xml.in.h:224 ../comps-f33.xml.in.h:216
 #: ../comps-f34.xml.in.h:216
-#, fuzzy
-#| msgid "Python"
 msgid "Python Science"
-msgstr "Python"
+msgstr "Sains Python"
 
 #: ../comps-f32.xml.in.h:225 ../comps-f33.xml.in.h:217
 #: ../comps-f34.xml.in.h:217
 msgid "Tools used to do science in Python."
-msgstr ""
+msgstr "Alat bantu yang digunakan untuk melakukan sains di Python."
 
 #: ../comps-f32.xml.in.h:226 ../comps-f33.xml.in.h:218
 #: ../comps-f34.xml.in.h:218
@@ -1225,7 +1230,7 @@ msgstr "Robotika"
 #: ../comps-f32.xml.in.h:227 ../comps-f33.xml.in.h:219
 #: ../comps-f34.xml.in.h:219
 msgid "Suite of packages for robotics development"
-msgstr ""
+msgstr "Serangkaian paket untuk pengembangan robotika"
 
 #: ../comps-f32.xml.in.h:228 ../comps-f33.xml.in.h:220
 #: ../comps-f34.xml.in.h:220
@@ -1235,7 +1240,7 @@ msgstr "Peralatan untuk Pengembangan RPM"
 #: ../comps-f32.xml.in.h:229 ../comps-f33.xml.in.h:221
 #: ../comps-f34.xml.in.h:221
 msgid "These tools include core development tools such rpmbuild."
-msgstr ""
+msgstr "Alat bantu ini termasuk alat pengembangan inti seperti rpmbuild."
 
 #: ../comps-f32.xml.in.h:230 ../comps-f33.xml.in.h:222
 #: ../comps-f34.xml.in.h:222
@@ -1250,17 +1255,17 @@ msgstr "Dukungan dasar untuk bahasa pemrograman "
 #: ../comps-f32.xml.in.h:232 ../comps-f33.xml.in.h:224
 #: ../comps-f34.xml.in.h:224
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "Ruby on Rails"
 
 #: ../comps-f32.xml.in.h:233 ../comps-f33.xml.in.h:225
 #: ../comps-f34.xml.in.h:225
 msgid "Ruby on Rails web application stack."
-msgstr ""
+msgstr "Tumpukan aplikasi web Ruby on Rails."
 
 #: ../comps-f32.xml.in.h:234 ../comps-f33.xml.in.h:226
 #: ../comps-f34.xml.in.h:226
 msgid "Security Lab"
-msgstr ""
+msgstr "Lab Keamanan"
 
 #: ../comps-f32.xml.in.h:235 ../comps-f33.xml.in.h:227
 #: ../comps-f34.xml.in.h:227
@@ -1268,6 +1273,8 @@ msgid ""
 "Tools for security auditing, forensics, system rescue, and teaching security "
 "testing methodologies."
 msgstr ""
+"Alat bantu untuk audit keamanan, forensik, penyelamatan sistem, dan "
+"mengajarkan metodologi pengujian keamanan."
 
 #: ../comps-f32.xml.in.h:236 ../comps-f33.xml.in.h:228
 #: ../comps-f34.xml.in.h:228
@@ -1299,12 +1306,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:241 ../comps-f33.xml.in.h:233
 #: ../comps-f34.xml.in.h:233
 msgid "Fedora Server product core"
-msgstr ""
+msgstr "Inti produk Fedora Server"
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
 msgid "Packages mandatory for the server product."
-msgstr ""
+msgstr "Paket wajib untuk produk server."
 
 #: ../comps-f32.xml.in.h:243 ../comps-f33.xml.in.h:235
 #: ../comps-f34.xml.in.h:235
@@ -1341,11 +1348,10 @@ msgstr "Basisdata PostgreSQL"
 
 #: ../comps-f32.xml.in.h:248 ../comps-f33.xml.in.h:240
 #: ../comps-f34.xml.in.h:240
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
 msgstr ""
-"Di grup paket ini termasuk paket-paket yang berguna untuk digunakan dengan "
-"Postgresql."
+"Grup paket ini mencakup paket-paket yang berguna untuk digunakan dengan "
+"PostgreSQL."
 
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
@@ -1355,7 +1361,7 @@ msgstr "Baku"
 #: ../comps-f32.xml.in.h:250 ../comps-f33.xml.in.h:242
 #: ../comps-f34.xml.in.h:242
 msgid "Common set of utilities that extend the minimal installation."
-msgstr ""
+msgstr "Kumpulan utilitas umum yang memperluas instalasi minimal."
 
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
@@ -1399,13 +1405,12 @@ msgstr "Internet berbasis text"
 
 #: ../comps-f32.xml.in.h:258 ../comps-f33.xml.in.h:250
 #: ../comps-f34.xml.in.h:250
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"Di dalam grup ini termasuk email berbasis text, Web dan klien untuk chat. "
-"Aplikasi ini tidak memerlukan Sistem X Window."
+"Kelompok ini mencakup klien email, web, dan obrolan berbasis teks. Aplikasi-"
+"aplikasi ini tidak memerlukan X Window System."
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
 #: ../comps-f34.xml.in.h:251
@@ -1425,7 +1430,7 @@ msgstr "Vagrant dengan dukungan libvirt"
 #: ../comps-f32.xml.in.h:262 ../comps-f33.xml.in.h:254
 #: ../comps-f34.xml.in.h:254
 msgid "These packages provide Vagrant with libvirt provider support"
-msgstr ""
+msgstr "Paket-paket ini menyediakan Vagrant dengan dukungan penyedia libvirt"
 
 #: ../comps-f32.xml.in.h:263 ../comps-f33.xml.in.h:255
 #: ../comps-f34.xml.in.h:255 ../comps-epel7.xml.in.h:277
@@ -1435,17 +1440,17 @@ msgstr "Virtualisasi"
 #: ../comps-f32.xml.in.h:264 ../comps-f33.xml.in.h:256
 #: ../comps-f34.xml.in.h:256
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "Paket-paket ini menyediakan lingkungan virtualisasi grafis."
 
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "Virtualisasi Headless"
 
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
 msgid "These packages provide a headless virtualization environment."
-msgstr ""
+msgstr "Paket-paket ini menyediakan lingkungan virtualisasi headless."
 
 #: ../comps-f32.xml.in.h:267 ../comps-f33.xml.in.h:259
 #: ../comps-f34.xml.in.h:259
@@ -1474,17 +1479,13 @@ msgstr ""
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:272 ../comps-f33.xml.in.h:264
 #: ../comps-f34.xml.in.h:264
-#, fuzzy
-#| msgid "Fedora Workstation product core"
 msgid "Fedora Workstation ostree support"
-msgstr "Inti produk Workstation Fedora"
+msgstr "Dukungan ostree Fedora Workstation"
 
 #: ../comps-f32.xml.in.h:273 ../comps-f33.xml.in.h:265
 #: ../comps-f34.xml.in.h:265
-#, fuzzy
-#| msgid "Packages mandatory for the workstation product."
 msgid "Packages mandatory for the workstation ostree product."
-msgstr "Paket-paket wajib bagi produk workstation."
+msgstr "Paket wajib untuk produk workstation ostree."
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:275 ../comps-f33.xml.in.h:267
@@ -1552,12 +1553,12 @@ msgstr "Dukungan multimedia untuk Xfce"
 #: ../comps-f32.xml.in.h:286 ../comps-f33.xml.in.h:278
 #: ../comps-f34.xml.in.h:278
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce Office"
 
 #: ../comps-f32.xml.in.h:287 ../comps-f33.xml.in.h:279
 #: ../comps-f34.xml.in.h:279
 msgid "Office suite for Xfce"
-msgstr ""
+msgstr "Suite Office untuk Xfce"
 
 #: ../comps-f32.xml.in.h:288 ../comps-f33.xml.in.h:280
 #: ../comps-f34.xml.in.h:280
@@ -1580,7 +1581,7 @@ msgstr "XMonad"
 #: ../comps-f32.xml.in.h:291 ../comps-f33.xml.in.h:283
 #: ../comps-f34.xml.in.h:283
 msgid "A tiling window manager"
-msgstr ""
+msgstr "Manajer jendela ubin"
 
 #: ../comps-f32.xml.in.h:292 ../comps-f33.xml.in.h:284
 #: ../comps-f34.xml.in.h:284
@@ -1600,7 +1601,7 @@ msgstr "Sistem Operasi Ubahan Fedora"
 #: ../comps-f32.xml.in.h:295 ../comps-f33.xml.in.h:287
 #: ../comps-f34.xml.in.h:287
 msgid "Basic building block for a custom Fedora system."
-msgstr ""
+msgstr "Blok bangunan dasar untuk sistem Fedora khusus."
 
 #: ../comps-f32.xml.in.h:296 ../comps-f33.xml.in.h:288
 #: ../comps-f34.xml.in.h:288
@@ -1672,10 +1673,8 @@ msgstr "Desktop MATE"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "Desktop KDE"
+msgstr "Desktop Deepin"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1683,6 +1682,8 @@ msgid ""
 "Deepin desktop is the desktop environment released with deepin. It aims at "
 "being elegant and easy to use."
 msgstr ""
+"Deepin desktop adalah lingkungan desktop yang dirilis dengan deepin. "
+"Lingkungan ini bertujuan untuk menjadi elegan dan mudah digunakan."
 
 #: ../comps-f32.xml.in.h:315 ../comps-f33.xml.in.h:307
 #: ../comps-f34.xml.in.h:307
@@ -1716,7 +1717,7 @@ msgstr "Server Web"
 #: ../comps-f32.xml.in.h:320 ../comps-f33.xml.in.h:312
 #: ../comps-f34.xml.in.h:312
 msgid "Server for serving static and dynamic internet content."
-msgstr ""
+msgstr "Server untuk menyajikan konten internet statis dan dinamis."
 
 #: ../comps-f32.xml.in.h:321 ../comps-f33.xml.in.h:313
 #: ../comps-f34.xml.in.h:313
@@ -1726,12 +1727,12 @@ msgstr "Server Infrastruktur"
 #: ../comps-f32.xml.in.h:322 ../comps-f33.xml.in.h:314
 #: ../comps-f34.xml.in.h:314
 msgid "Server for operating network infrastructure services."
-msgstr ""
+msgstr "Server untuk mengoperasikan layanan infrastruktur jaringan."
 
 #: ../comps-f32.xml.in.h:323 ../comps-f33.xml.in.h:315
 #: ../comps-f34.xml.in.h:315
 msgid "X Window System with a choice of window manager."
-msgstr ""
+msgstr "X Window System dengan pilihan window manager."
 
 #: ../comps-f32.xml.in.h:324 ../comps-f33.xml.in.h:316
 #: ../comps-f34.xml.in.h:316 ../comps-epel7.xml.in.h:128
@@ -1810,20 +1811,20 @@ msgstr "Teks dan konten Bebas lainnya."
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "Ilmu saraf"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "Alat bantu untuk Ilmu Saraf."
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "Lingkungan UX ponsel/tablet"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
-msgstr ""
+msgstr "UX desktop untuk ponsel/tablet berdasarkan teknologi GNOME3."
 
 #: ../comps-epel7.xml.in.h:1
 msgid "Additional Development"
