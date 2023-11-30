@@ -63,6 +63,8 @@
       <packagereq type="mandatory">firewalld</packagereq>
       <packagereq type="mandatory">gfs2-utils</packagereq>
       <packagereq type="mandatory">glibc-all-langpacks</packagereq>
+      <packagereq type="mandatory" arch="riscv64">grub2-efi-riscv64</packagereq>
+      <packagereq type="mandatory" arch="riscv64">grub2-efi-riscv64-cdboot</packagereq>
       <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64</packagereq>
       <packagereq arch="aarch64" type="mandatory">grub2-efi-aa64-cdboot</packagereq>
       <packagereq arch="x86_64" type="mandatory">grub2-efi-ia32</packagereq>
