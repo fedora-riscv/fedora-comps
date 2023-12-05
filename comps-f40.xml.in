@@ -255,6 +255,18 @@
     </packagelist>
   </group>
   <group>
+    <id>base-graphical</id>
+    <_name>base-graphical</_name>
+    <_description>Common packages for any graphical session</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq>mesa-dri-drivers</packagereq>
+      <packagereq>mesa-vulkan-drivers</packagereq>
+      <packagereq>plymouth-system-theme</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>base-x</id>
     <_name>base-x</_name>
     <_description>Local X.org display server</_description>
@@ -6000,6 +6012,7 @@
     <_description>The KDE Plasma Workspaces, a highly-configurable graphical user interface which includes a panel, desktop, system icons and desktop widgets, and many powerful KDE applications.</_description>
     <display_order>10</display_order>
     <grouplist>
+      <groupid>base-graphical</groupid>
       <groupid>standard</groupid>
       <groupid>core</groupid>
       <groupid>admin-tools</groupid>
