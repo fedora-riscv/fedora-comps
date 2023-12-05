@@ -841,7 +841,7 @@
       <packagereq type="mandatory">plasma-thunderbolt</packagereq>
       <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq type="mandatory">polkit-kde</packagereq>
-      <packagereq type="mandatory">qt5-qtwayland</packagereq>
+      <packagereq type="mandatory">qt6-qtwayland</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
     </packagelist>
   </group>
