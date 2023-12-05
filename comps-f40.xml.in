@@ -826,7 +826,6 @@
       <packagereq type="mandatory">bluedevil</packagereq>
       <packagereq type="mandatory">kactivitymanagerd</packagereq>
       <packagereq type="mandatory">kdecoration</packagereq>
-      <packagereq type="mandatory">kdelibs</packagereq>
       <packagereq type="mandatory">kinfocenter</packagereq>
       <packagereq type="mandatory">kscreen</packagereq>
       <packagereq type="mandatory">kscreenlocker</packagereq>
