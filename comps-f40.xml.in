@@ -1252,7 +1252,8 @@
       <packagereq type="mandatory">oddjob-mkhomedir</packagereq>
       <packagereq type="mandatory">samba-common-tools</packagereq>
       <packagereq type="mandatory">samba-winbind</packagereq>
-      <packagereq type="mandatory">sssd</packagereq>
+      <packagereq type="mandatory">sssd-ad</packagereq>
+      <packagereq type="mandatory">sssd-ipa</packagereq>
       <packagereq type="default">libsss_autofs</packagereq>
       <packagereq type="default">libsss_sudo</packagereq>
       <packagereq type="default">sssd-nfs-idmap</packagereq>
@@ -5043,7 +5044,7 @@
       <packagereq>rsyslog</packagereq>
       <packagereq>smartmontools</packagereq>
       <packagereq>sos</packagereq>
-      <packagereq>sssd</packagereq>
+      <packagereq>sssd-proxy</packagereq>
       <packagereq>sudo</packagereq>
       <packagereq>symlinks</packagereq>
       <packagereq>systemd-udev</packagereq>
@@ -5648,7 +5649,6 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">rhythmbox</packagereq>
       <packagereq type="default">rsync</packagereq>
       <packagereq type="default">sos</packagereq>
-      <packagereq type="default">sssd</packagereq>
       <packagereq type="default">symlinks</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">tcpdump</packagereq>
@@ -6124,6 +6124,7 @@
     </grouplist>
     <optionlist>
       <groupid>arm-tools</groupid>
+      <groupid>domain-client</groupid>
       <groupid default="true">base-x</groupid>
     </optionlist>
   </environment>
@@ -6336,6 +6337,7 @@
       <groupid>smb-server</groupid>
       <groupid>sql-server</groupid>
       <groupid>web-server</groupid>
+      <groupid>domain-client</groupid>
     </optionlist>
   </environment>
   <environment>
