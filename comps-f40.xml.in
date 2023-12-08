@@ -5187,7 +5187,6 @@
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pinentry-gnome3</packagereq>
       <packagereq type="default">playerctl</packagereq>
-      <packagereq type="default">plymouth-system-theme</packagereq>
       <packagereq type="default">pulseaudio-utils</packagereq>
       <packagereq type="default">sddm</packagereq>
       <packagereq type="default">sddm-wayland-sway</packagereq>
@@ -5959,6 +5958,7 @@
     <_name>Sway Desktop</_name>
     <_description>Sway is a tiling window manager supporting Wayland compositor protocol and i3-compatible configuration.</_description>
     <grouplist>
+      <groupid>base-graphical</groupid>
       <groupid>core</groupid>
       <groupid>standard</groupid>
       <groupid>admin-tools</groupid>
