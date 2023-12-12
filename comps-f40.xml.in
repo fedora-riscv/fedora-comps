@@ -3261,7 +3261,7 @@
       <packagereq type="default">kf5-audiocd-kio</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kfind</packagereq>
-      <packagereq type="default">khelpcenter</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">khelpcenter</packagereq>
       <packagereq type="default">kinfocenter</packagereq>
       <packagereq type="default">kio-admin</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">kio-gdrive</packagereq>
@@ -3291,7 +3291,7 @@
       <packagereq type="default">plasma-drkonqi</packagereq>
       <packagereq type="default">plasma-nm</packagereq>
       <packagereq type="default">plasma-nm-l2tp</packagereq>
-      <packagereq type="default">plasma-nm-openconnect</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">plasma-nm-openconnect</packagereq>
       <packagereq type="default">plasma-nm-openswan</packagereq>
       <packagereq type="default">plasma-nm-openvpn</packagereq>
       <packagereq type="default">plasma-nm-pptp</packagereq>
