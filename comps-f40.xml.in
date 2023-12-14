@@ -3250,7 +3250,6 @@
       <packagereq type="default">kde-gtk-config</packagereq>
       <packagereq type="default">kde-inotify-survey</packagereq>
       <packagereq type="default">kde-partitionmanager</packagereq>
-      <packagereq type="default">kde-print-manager</packagereq>
       <packagereq type="default">kde-settings-pulseaudio</packagereq>
       <packagereq type="default">kdegraphics-thumbnailers</packagereq>
       <packagereq type="default">kdeplasma-addons</packagereq>
@@ -3297,6 +3296,7 @@
       <packagereq type="default">plasma-nm-pptp</packagereq>
       <packagereq type="default">plasma-nm-vpnc</packagereq>
       <packagereq type="default">plasma-pa</packagereq>
+      <packagereq type="default">plasma-print-manager</packagereq>
       <packagereq type="default">plasma-systemmonitor</packagereq>
       <packagereq type="default">plasma-thunderbolt</packagereq>
       <packagereq type="default">plasma-vault</packagereq>
