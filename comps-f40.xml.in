@@ -3280,7 +3280,7 @@
       <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">pam-kwallet</packagereq>
-      <packagereq type="default">phonon-qt5-backend-gstreamer</packagereq>
+      <packagereq type="default">phonon-qt6-backend-vlc</packagereq>
       <packagereq type="default">pinentry-qt</packagereq>
       <packagereq type="default">plasma-breeze</packagereq>
       <packagereq type="default">plasma-desktop-doc</packagereq>
@@ -3308,6 +3308,7 @@
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">udisks2</packagereq>
+      <packagereq type="default">vlc-plugin-gstreamer</packagereq>
       <packagereq type="default">xwaylandvideobridge</packagereq>
       <packagereq type="optional">plasma-pk-updates</packagereq>
     </packagelist>
