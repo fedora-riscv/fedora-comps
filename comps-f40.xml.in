@@ -4957,6 +4957,7 @@
       <packagereq type="optional">vdr-remote</packagereq>
       <packagereq type="optional">vdr-streamdev-client</packagereq>
       <packagereq type="optional">vdr-streamdev-server</packagereq>
+      <packagereq type="optional">vlc</packagereq>
       <packagereq type="optional">volumeicon</packagereq>
       <packagereq type="optional">vorbis-tools</packagereq>
       <packagereq type="optional">wireplumber</packagereq>
