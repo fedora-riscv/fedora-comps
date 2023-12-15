@@ -5476,6 +5476,17 @@
     </packagelist>
   </group>
   <group>
+    <id>vlc</id>
+    <_name>VideoLAN Client</_name>
+    <_description>The cross-platform open-source multimedia framework, player and server</_description>
+    <packagelist>
+      <packagereq type="mandatory">vlc</packagereq>
+      <packagereq type="default">vlc-plugin-ffmpeg</packagereq>
+      <packagereq type="default">vlc-plugin-gstreamer</packagereq>
+      <packagereq type="default">vlc-plugin-pipewire</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>web-server</id>
     <_name>Basic Web Server</_name>
     <_description>These tools allow you to run a Web server on the system.</_description>
