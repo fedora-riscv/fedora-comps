@@ -4075,6 +4075,7 @@
       <packagereq>gstreamer1-plugins-bad-free</packagereq>
       <packagereq>gstreamer1-plugins-good</packagereq>
       <packagereq>gstreamer1-plugins-ugly-free</packagereq>
+      <packagereq arch="x86_64">libva-intel-media-driver</packagereq>
       <packagereq>PackageKit-gstreamer-plugin</packagereq>
       <packagereq>pipewire-alsa</packagereq>
       <packagereq>pipewire-gstreamer</packagereq>
