@@ -19,7 +19,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-12-07 15:43+0000\n"
+"PO-Revision-Date: 2023-12-28 14:37+0000\n"
 "Last-Translator: A S Alam <aalam@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Punjabi <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/pa/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.2.1\n"
+"X-Generator: Weblate 5.3\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -64,7 +64,7 @@ msgstr "ARM ਸਿਸਟਮ ਨਾਲ ਕੰਮ ਕਰਨ ਵਾਲੇ ਟੂਲ
 
 #: ../comps-f32.xml.in.h:8 ../comps-f33.xml.in.h:8 ../comps-f34.xml.in.h:8
 msgid "x86 Baremetal Tools"
-msgstr ""
+msgstr "x86 ਬੇਅਰ-ਮੇਟਲ ਟੂਲ"
 
 #: ../comps-f32.xml.in.h:9 ../comps-f33.xml.in.h:9 ../comps-f34.xml.in.h:9
 msgid "Tools for working with baremetal x86 systems"
@@ -847,7 +847,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:168 ../comps-f33.xml.in.h:161
 #: ../comps-f34.xml.in.h:161
 msgid "Multimedia support for LXDE"
-msgstr ""
+msgstr "LXDE ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f32.xml.in.h:169 ../comps-f33.xml.in.h:162
 #: ../comps-f34.xml.in.h:162
@@ -886,7 +886,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:175 ../comps-f33.xml.in.h:168
 #: ../comps-f34.xml.in.h:168
 msgid "Translations of LXQt"
-msgstr ""
+msgstr "LXQt ਲਈ ਅਨੁਵਾਦ"
 
 #: ../comps-f32.xml.in.h:176 ../comps-f33.xml.in.h:169
 #: ../comps-f34.xml.in.h:169
@@ -901,7 +901,7 @@ msgstr "LXQt ਆਫਿਸ"
 #: ../comps-f32.xml.in.h:178 ../comps-f33.xml.in.h:171
 #: ../comps-f34.xml.in.h:171
 msgid "Office suite for LXQt"
-msgstr ""
+msgstr "LXQt ਲਈ ਆਫਿਸ ਸਾਫਟਵੇਅਰ"
 
 #: ../comps-f32.xml.in.h:179 ../comps-f33.xml.in.h:172
 #: ../comps-f34.xml.in.h:172
@@ -942,17 +942,17 @@ msgstr "ਡਾਕਟਰੀ ਐਪਲੀਕੇਸ਼ਨ"
 
 #: ../comps-f32.xml.in.h:186
 msgid "This is a group of applications related to health care."
-msgstr ""
+msgstr "ਸਿਹਤ ਦੇਖਭਾਲ ਨਾਲ ਸੰਬੰਧਿਤ ਐਪਲੀਕੇਸ਼ਨਾਂ ਦਾ ਸਮੂਹ ਹੈ।"
 
 #: ../comps-f32.xml.in.h:187 ../comps-f33.xml.in.h:178
 #: ../comps-f34.xml.in.h:178 ../comps-epel7.xml.in.h:166
 msgid "Milkymist"
-msgstr ""
+msgstr "ਮਿਲਕ-ਮਿਸਟ"
 
 #: ../comps-f32.xml.in.h:188 ../comps-f33.xml.in.h:179
 #: ../comps-f34.xml.in.h:179 ../comps-epel7.xml.in.h:167
 msgid "Toolchain for Milkymist hardware engineers."
-msgstr ""
+msgstr "Milkymist ਹਾਰਡਵੇਅਰ ਇੰਜਨੀਅਰਾਂ ਲਈ ਟੂਲ-ਚੇਨ ਹੈ।"
 
 #: ../comps-f32.xml.in.h:189 ../comps-f33.xml.in.h:180
 #: ../comps-f34.xml.in.h:180
@@ -991,7 +991,7 @@ msgstr "ਡੈਸਕਟਾਪ ਲਈ ਸਾਂਝਾ ਆਡੀਓ/ਵਿਡੀ�
 #: ../comps-f32.xml.in.h:195 ../comps-f33.xml.in.h:186
 #: ../comps-f34.xml.in.h:186
 msgid "MariaDB (MySQL) Database"
-msgstr ""
+msgstr "MariaDB (MySQL) ਡਾਟਾਬੇਸ"
 
 #: ../comps-f32.xml.in.h:196 ../comps-f33.xml.in.h:187
 #: ../comps-f34.xml.in.h:187
@@ -1052,12 +1052,12 @@ msgstr "OCaml"
 
 #: ../comps-f32.xml.in.h:206 ../comps-f33.xml.in.h:197
 #: ../comps-f34.xml.in.h:197
-#, fuzzy
 msgid ""
 "Support for developing software using the Objective Caml programming "
 "language and libraries."
 msgstr ""
-"ਆਬਜੈਕਟ CAML ਪਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪ ਕਰਨ ਲਈ ਸਹਿਯੋਗ।"
+"ਆਬਜੈਕਟ Caml ਪਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਅਤੇ ਲਾਇਬਰੇਰੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਸਾਫਟਵੇਅਰ ਡਿਵੈਲਪ "
+"ਕਰਨ ਲਈ ਸਹਿਯੋਗ।"
 
 #: ../comps-f32.xml.in.h:207 ../comps-f33.xml.in.h:198
 #: ../comps-f34.xml.in.h:198
@@ -1115,15 +1115,13 @@ msgstr ""
 
 #: ../comps-f32.xml.in.h:218 ../comps-f33.xml.in.h:210
 #: ../comps-f34.xml.in.h:210
-#, fuzzy
-#| msgid "Marathi Support"
 msgid "VMware Platform Support"
-msgstr "ਮਰਾਠੀ ਸਹਿਯੋਗ"
+msgstr "VMware ਪਲੇਟਫਾਰਮ ਲਈ ਸਹਿਯੋਗ"
 
 #: ../comps-f32.xml.in.h:219 ../comps-f33.xml.in.h:211
 #: ../comps-f34.xml.in.h:211
 msgid "Packages to install in VMware virtual machines"
-msgstr ""
+msgstr "VMware ਵਰਚੁਅਲ ਮਸ਼ੀਨਾਂ ਵਿੱਚ ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਪੈਕੇਜ"
 
 #: ../comps-f32.xml.in.h:220 ../comps-f33.xml.in.h:212
 #: ../comps-f34.xml.in.h:212
@@ -1189,7 +1187,7 @@ msgstr "ਰੂਬੀ ਪ੍ਰੋਗਰਾਮਿੰਗ ਭਾਸ਼ਾ ਲਈ ਮ�
 #: ../comps-f32.xml.in.h:232 ../comps-f33.xml.in.h:224
 #: ../comps-f34.xml.in.h:224
 msgid "Ruby on Rails"
-msgstr ""
+msgstr "ਰੂਬੀ ਆਨ ਰੇਲਸ"
 
 #: ../comps-f32.xml.in.h:233 ../comps-f33.xml.in.h:225
 #: ../comps-f34.xml.in.h:225
@@ -1238,9 +1236,8 @@ msgstr "ਫੇਡੋਰਾ ਸਰਵਰ ਉਤਪਾਦ ਕੋਰ"
 
 #: ../comps-f32.xml.in.h:242 ../comps-f33.xml.in.h:234
 #: ../comps-f34.xml.in.h:234
-#, fuzzy
 msgid "Packages mandatory for the server product."
-msgstr "ਸਰਵਰ ਲਈ ਪਾਲਸੀ ਪੈਕੇਜ"
+msgstr "ਸਰਵਰ ਉਤਪਾਦ ਲਈ ਲਾਜ਼ਮੀ ਪੈਕੇਜ"
 
 #: ../comps-f32.xml.in.h:243 ../comps-f33.xml.in.h:235
 #: ../comps-f34.xml.in.h:235
@@ -1277,9 +1274,8 @@ msgstr "PostgreSQL ਡਾਟਾਬੇਸ"
 
 #: ../comps-f32.xml.in.h:248 ../comps-f33.xml.in.h:240
 #: ../comps-f34.xml.in.h:240
-#, fuzzy
 msgid "This package group includes packages useful for use with PostgreSQL."
-msgstr "ਇਸ ਪੈਕੇਜ ਗਰੁੱਪ ਵਿੱਚ Postgresql ਨਾਲ ਵਰਤਣ ਲਈ ਲਾਭਦਾਇਕ ਪੈਕੇਜ ਸ਼ਾਮਿਲ ਹਨ।"
+msgstr "ਇਸ ਪੈਕੇਜ ਗਰੁੱਪ ਵਿੱਚ PostgreSQL ਨਾਲ ਵਰਤਣ ਲਈ ਲਾਭਦਾਇਕ ਪੈਕੇਜ ਸ਼ਾਮਿਲ ਹਨ।"
 
 #: ../comps-f32.xml.in.h:249 ../comps-f33.xml.in.h:241
 #: ../comps-f34.xml.in.h:241
@@ -1294,7 +1290,7 @@ msgstr ""
 #: ../comps-f32.xml.in.h:251 ../comps-f33.xml.in.h:243
 #: ../comps-f34.xml.in.h:243
 msgid "Additional Sugar Activities"
-msgstr ""
+msgstr "ਵਧੀਕ ਸ਼ੂਗਰ ਸਰਗਰਮੀਆਂ"
 
 #: ../comps-f32.xml.in.h:252 ../comps-f33.xml.in.h:244
 #: ../comps-f34.xml.in.h:244
@@ -1332,13 +1328,12 @@ msgstr "ਟੈਕਸਟ-ਅਧਾਰਿਤ ਇੰਟਰਨੈੱਟ"
 
 #: ../comps-f32.xml.in.h:258 ../comps-f33.xml.in.h:250
 #: ../comps-f34.xml.in.h:250
-#, fuzzy
 msgid ""
 "This group includes text-based email, web, and chat clients. These "
 "applications do not require the X Window System."
 msgstr ""
-"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਪਾਠ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X ਵਿੰਡੋ ਸਿਸਟਮ "
-"ਲੋੜੀਦਾ ਨਹੀ ਹੈ।"
+"ਇਸ ਗਰੁੱਪ ਵਿੱਚ ਟੈਕਸਟ ਅਧਾਰਿਤ ਈ-ਮੇਲ, ਵੈੱਬ ਅਤੇ ਚੈਟ ਕਲਾਇਟ ਸ਼ਾਮਿਲ ਹਨ। ਇਹਨਾਂ "
+"ਐਪਲੀਕੇਸ਼ਨਾਂ ਲਈ X ਵਿੰਡੋ ਸਿਸਟਮ ਲੋੜੀਂਦਾ ਨਹੀਂ ਹੈ।"
 
 #: ../comps-f32.xml.in.h:259 ../comps-f33.xml.in.h:251
 #: ../comps-f34.xml.in.h:251
@@ -1368,12 +1363,12 @@ msgstr "ਵੁਰਚੁਲਾਈਜ਼ੇਸ਼ਨ"
 #: ../comps-f32.xml.in.h:264 ../comps-f33.xml.in.h:256
 #: ../comps-f34.xml.in.h:256
 msgid "These packages provide a graphical virtualization environment."
-msgstr ""
+msgstr "ਇਹ ਪੈਕੇਜ ਗਰਾਫਿਕਲ ਵਰਚੁਲਾਈਜ਼ੇਸ਼ਨ ਇਨਵਾਇਰਮੈਂਟ ਦਿੰਦੇ ਹਨ।"
 
 #: ../comps-f32.xml.in.h:265 ../comps-f33.xml.in.h:257
 #: ../comps-f34.xml.in.h:257
 msgid "Headless Virtualization"
-msgstr ""
+msgstr "ਹੈੱਡਲਿਸ ਵਰਚੁਲਾਈਜ਼ੇਸ਼ਨ"
 
 #: ../comps-f32.xml.in.h:266 ../comps-f33.xml.in.h:258
 #: ../comps-f34.xml.in.h:258
@@ -1437,7 +1432,7 @@ msgstr "ਇਹ ਪੈਕੇਜ, ਤੁਹਾਡੇ ਲਈ X ਵਿੰਡੋ ਸ�
 #: ../comps-f32.xml.in.h:279 ../comps-f33.xml.in.h:271
 #: ../comps-f34.xml.in.h:271
 msgid "Applications for the Xfce Desktop"
-msgstr ""
+msgstr "Xfce ਡੈਸਕਟਾਪ ਲਈ ਐਪਲੀਕੇਸ਼ਨਾਂ"
 
 #: ../comps-f32.xml.in.h:280 ../comps-f33.xml.in.h:272
 #: ../comps-f34.xml.in.h:272
@@ -1469,12 +1464,12 @@ msgstr ""
 #: ../comps-f32.xml.in.h:285 ../comps-f33.xml.in.h:277
 #: ../comps-f34.xml.in.h:277
 msgid "Multimedia support for Xfce"
-msgstr ""
+msgstr "Xfce ਲਈ ਮਲਟੀਮੀਡਿਆ ਸਹਿਯੋਗ"
 
 #: ../comps-f32.xml.in.h:286 ../comps-f33.xml.in.h:278
 #: ../comps-f34.xml.in.h:278
 msgid "Xfce Office"
-msgstr ""
+msgstr "Xfce ਆਫਿਸ਼"
 
 #: ../comps-f32.xml.in.h:287 ../comps-f33.xml.in.h:279
 #: ../comps-f34.xml.in.h:279
@@ -1541,7 +1536,7 @@ msgstr "ਕੇਡੀਈ ਪਲਾਜ਼ਮਾ ਵਰਕਸਪੇਸ"
 #: ../comps-f32.xml.in.h:299 ../comps-f33.xml.in.h:291
 #: ../comps-f34.xml.in.h:291
 msgid "Xfce Desktop"
-msgstr ""
+msgstr "Xfce ਡੈਸਕਟਾਪ"
 
 #. Translators: Don't translate this product name
 #: ../comps-f32.xml.in.h:301 ../comps-f33.xml.in.h:293
@@ -1572,7 +1567,7 @@ msgstr "ਫੇਡੋਰਾ ਵਰਕਸਟੇਸ਼ਨ ਲੈਪਟਾਪ ਤੇ
 #: ../comps-f32.xml.in.h:309 ../comps-f33.xml.in.h:301
 #: ../comps-f34.xml.in.h:301
 msgid "LXDE Desktop"
-msgstr ""
+msgstr "LXDE ਡੈਸਕਟਾਪ"
 
 #: ../comps-f32.xml.in.h:310 ../comps-f33.xml.in.h:302
 #: ../comps-f34.xml.in.h:302 ../comps-epel7.xml.in.h:149
@@ -1591,10 +1586,8 @@ msgstr "ਮੇਟ ਡੈਸਕਟਾਪ"
 
 #: ../comps-f32.xml.in.h:313 ../comps-f33.xml.in.h:305
 #: ../comps-f34.xml.in.h:305
-#, fuzzy
-#| msgid "KDE Desktop"
 msgid "Deepin Desktop"
-msgstr "ਕੇਡੀਈ ਡੈਸਕਟਾਪ"
+msgstr "ਡੀਪਿਨ ਡੈਸਕਟਾਪ"
 
 #: ../comps-f32.xml.in.h:314 ../comps-f33.xml.in.h:306
 #: ../comps-f34.xml.in.h:306
@@ -1723,16 +1716,16 @@ msgstr "ਟੈਕਸਟ ਅਤੇ ਹੋਰ ਫਰੀ ਸੰਖੇਪ"
 #: ../comps-f32.xml.in.h:337 ../comps-f33.xml.in.h:327
 #: ../comps-f34.xml.in.h:327
 msgid "Neuroscience"
-msgstr ""
+msgstr "ਨਿਊਰੋ-ਸਾਇੰਸ"
 
 #: ../comps-f32.xml.in.h:338 ../comps-f33.xml.in.h:328
 #: ../comps-f34.xml.in.h:328
 msgid "Tools for Neuroscience."
-msgstr ""
+msgstr "ਨਿਊਰੋ-ਸਾਇੰਸ ਲਈ ਟੂਲ ਹਨ।"
 
 #: ../comps-f33.xml.in.h:206 ../comps-f34.xml.in.h:206
 msgid "A phone/tablet UX environment"
-msgstr ""
+msgstr "ਫ਼ੋਨ/ਟੇਬਲੇਟ UX ਇੰਨਵਾਇਰਮੈਂਟ"
 
 #: ../comps-f33.xml.in.h:207 ../comps-f34.xml.in.h:207
 msgid "A phone/tablet desktop UX based on GNOME3 technologies."
