@@ -4483,7 +4483,6 @@
       <packagereq type="default">libxml2-devel</packagereq>
       <packagereq type="default">libyaml-devel</packagereq>
       <packagereq type="default">make</packagereq>
-      <packagereq type="default">pipenv</packagereq>
       <packagereq type="default">poetry</packagereq>
       <packagereq type="default">pypy3.10-devel</packagereq>
       <packagereq type="default">python-launcher</packagereq>
