@@ -4633,7 +4633,6 @@
       <packagereq>rubygem-abrt</packagereq>
       <packagereq>rubygem-bcrypt</packagereq>
       <packagereq>rubygem-bootsnap</packagereq>
-      <packagereq>rubygem-byebug</packagereq>
       <packagereq>rubygem-capybara</packagereq>
       <packagereq>rubygem-jbuilder</packagereq>
       <packagereq>rubygem-json</packagereq>
