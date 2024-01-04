@@ -3247,7 +3247,6 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
-      <packagereq type="default">initial-setup-gui</packagereq>
       <packagereq type="default">kcharselect</packagereq>
       <packagereq type="default">kde-connect</packagereq>
       <packagereq type="default">kde-gtk-config</packagereq>
@@ -3434,6 +3433,17 @@
       <packagereq type="optional">qt3-devel</packagereq>
       <packagereq type="optional">qtwebkit-devel</packagereq>
       <packagereq type="optional">rocs-devel</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>kde-spin-initial-setup</id>
+    <_name>KDE Spin Initial Setup</_name>
+    <_description>The KDE Spin Initial Setup packages for firstboot configuration.</_description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">initial-setup-gui</packagereq>
+      <packagereq type="default">initial-setup-gui-wayland-plasma</packagereq>
     </packagelist>
   </group>
   <group>
@@ -6047,6 +6057,7 @@
       <groupid default="true">kde-media</groupid>
       <groupid default="true">kde-pim</groupid>
       <groupid default="true">libreoffice</groupid>
+      <groupid>kde-spin-initial-setup</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
@@ -6521,6 +6532,7 @@
       <groupid>kde-education</groupid>
       <groupid>kde-media</groupid>
       <groupid>kde-pim</groupid>
+      <groupid>kde-spin-initial-setup</groupid>
       <groupid>kde-telepathy</groupid>
       <groupid>libreoffice</groupid>
     </grouplist>
