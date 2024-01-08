@@ -3235,6 +3235,7 @@
       <packagereq type="default">akonadi-server</packagereq>
       <packagereq type="default">akonadi-server-mysql</packagereq>
       <packagereq type="default">ark</packagereq>
+      <packagereq type="default">audiocd-kio</packagereq>
       <packagereq type="default">bluedevil</packagereq>
       <packagereq type="default">breeze-icon-theme</packagereq>
       <packagereq type="default">colord-kde</packagereq>
@@ -3257,7 +3258,6 @@
       <packagereq type="default">kdeplasma-addons</packagereq>
       <packagereq type="default">kdialog</packagereq>
       <packagereq type="default">kdnssd</packagereq>
-      <packagereq type="default">kf5-audiocd-kio</packagereq>
       <packagereq type="default">kf5-baloo-file</packagereq>
       <packagereq type="default">kfind</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">khelpcenter</packagereq>
