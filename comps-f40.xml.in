@@ -3303,7 +3303,6 @@
       <packagereq type="default">plasma-welcome</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
-      <packagereq type="default">qt-at-spi</packagereq>
       <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
