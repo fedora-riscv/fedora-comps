@@ -358,6 +358,17 @@
     </packagelist>
   </group>
   <group>
+    <id>vlc</id>
+    <_name>VideoLAN Client</_name>
+    <_description>The cross-platform open-source multimedia framework, player and server</_description>
+    <packagelist>
+      <packagereq type="mandatory">vlc</packagereq>
+      <packagereq type="default">vlc-plugin-ffmpeg</packagereq>
+      <packagereq type="default">vlc-plugin-gstreamer</packagereq>
+      <packagereq type="default">vlc-plugin-pipewire</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>xfce-desktop</id>
     <_name>Xfce</_name>
     <_description>A lightweight desktop environment that works well on low end machines.</_description>
