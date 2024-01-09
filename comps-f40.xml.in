@@ -775,6 +775,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">gnome-kiosk</packagereq>
       <packagereq type="mandatory">livesys-scripts</packagereq>
       <packagereq type="mandatory">lorax</packagereq>
       <packagereq type="mandatory">mock</packagereq>
