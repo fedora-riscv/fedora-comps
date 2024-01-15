@@ -2930,6 +2930,8 @@
       <packagereq type="default">b43-fwcutter</packagereq>
       <packagereq type="default">b43-openfwwf</packagereq>
       <packagereq type="default">brcmfmac-firmware</packagereq>
+      <packagereq arch="x86_64" type="default">cirrus-audio-firmware</packagereq>
+      <packagereq arch="x86_64" type="default">intel-audio-firmware</packagereq>
       <packagereq type="default">intel-gpu-firmware</packagereq>
       <packagereq type="default">iwlegacy-firmware</packagereq>
       <packagereq type="default">iwlwifi-dvm-firmware</packagereq>
@@ -2937,8 +2939,10 @@
       <packagereq type="default">libertas-firmware</packagereq>
       <packagereq type="default">mt7xxx-firmware</packagereq>
       <packagereq type="default">nvidia-gpu-firmware</packagereq>
+      <packagereq type="default">nxpwireless-firmware</packagereq>
       <packagereq arch="aarch64" type="default">qcom-firmware</packagereq>
       <packagereq type="default">realtek-firmware</packagereq>
+      <packagereq type="default">tiwilink-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">acpi</packagereq>
       <packagereq type="optional">acpitool</packagereq>
@@ -2951,6 +2955,7 @@
       <packagereq type="optional">gpsd-clients</packagereq>
       <packagereq type="optional">hddtemp</packagereq>
       <packagereq type="optional">hdparm</packagereq>
+      <packagereq arch="x86_64" type="optional">intel-vsc-firmware</packagereq>
       <packagereq type="optional">iscan-firmware</packagereq>
       <packagereq type="optional">libifp</packagereq>
       <packagereq type="optional">liquidio-firmware</packagereq>
