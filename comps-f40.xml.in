@@ -724,6 +724,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory">anaconda</packagereq>
+      <packagereq type="mandatory">anaconda-webui</packagereq>
     </packagelist>
   </group>
   <group>
@@ -800,6 +801,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">bash-color-prompt</packagereq>
       <packagereq type="mandatory">dconf</packagereq>
       <packagereq type="mandatory">gdm</packagereq>
       <packagereq type="mandatory">gnome-classic-session</packagereq>
@@ -905,6 +907,7 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
+      <packagereq type="mandatory">bash-color-prompt</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="mandatory">fprintd-pam</packagereq>
     </packagelist>
   </group>
