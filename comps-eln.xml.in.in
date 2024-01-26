@@ -1073,6 +1073,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
       <packagereq type="mandatory" variant="BaseOS">tuned</packagereq>
+      <packagereq type="default" variant="AppStream">bash-color-prompt</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
       <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
