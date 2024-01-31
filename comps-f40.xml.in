@@ -4521,7 +4521,7 @@
       <packagereq type="optional">emacs</packagereq>
       <packagereq type="optional">openssh-clients</packagereq>
       <packagereq type="optional">vim-enhanced</packagereq>
-      <packagereq type="optional">wget</packagereq>
+      <packagereq type="optional">wget2-wget</packagereq>
     </packagelist>
   </group>
   <group>
@@ -4820,7 +4820,7 @@
       <packagereq type="default">vnstat</packagereq>
       <packagereq type="default">wavemon</packagereq>
       <packagereq type="default">wbox</packagereq>
-      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">wget2-wget</packagereq>
       <packagereq type="default">whois</packagereq>
       <packagereq type="default">wipe</packagereq>
       <packagereq type="default">wireshark</packagereq>
@@ -5086,7 +5086,7 @@
       <packagereq>tree</packagereq>
       <packagereq>unzip</packagereq>
       <packagereq>usbutils</packagereq>
-      <packagereq>wget</packagereq>
+      <packagereq>wget2-wget</packagereq>
       <packagereq>which</packagereq>
       <packagereq>whois</packagereq>
       <packagereq>words</packagereq>
@@ -5702,7 +5702,7 @@
       <packagereq type="default">unzip</packagereq>
       <packagereq type="default">uresourced</packagereq>
       <packagereq type="default">usbutils</packagereq>
-      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">wget2-wget</packagereq>
       <packagereq type="default">which</packagereq>
       <packagereq type="default">whois</packagereq>
       <packagereq type="default">words</packagereq>
