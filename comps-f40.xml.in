@@ -5330,7 +5330,7 @@
       <packagereq type="optional">iftop</packagereq>
       <packagereq type="optional">inadyn-mt</packagereq>
       <packagereq type="optional">incron</packagereq>
-      <packagereq type="optional">iotop</packagereq>
+      <packagereq type="optional">iotop-c</packagereq>
       <packagereq type="optional">jfbterm</packagereq>
       <packagereq type="optional">john</packagereq>
       <packagereq type="optional">k4dirstat</packagereq>

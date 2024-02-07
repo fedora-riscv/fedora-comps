@@ -733,7 +733,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory" variant="AppStream">blktrace</packagereq>
-      <packagereq type="default" variant="BaseOS">iotop</packagereq>
+      <packagereq type="default" variant="BaseOS">iotop-c</packagereq>
       <packagereq type="default" variant="AppStream">perf</packagereq>
       <packagereq type="default" variant="BaseOS">elfutils</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
@@ -1268,7 +1268,7 @@
       <packagereq type="optional" variant="BaseOS">chrpath</packagereq>
       <packagereq type="optional" variant="BaseOS">environment-modules</packagereq>
       <packagereq type="optional" variant="BaseOS">fuse</packagereq>
-      <packagereq type="optional" variant="BaseOS">iotop</packagereq>
+      <packagereq type="optional" variant="BaseOS">iotop-c</packagereq>
       <packagereq type="optional" variant="BaseOS">lzop</packagereq>
       <packagereq type="optional" variant="BaseOS">hardlink</packagereq>
       <packagereq type="default" variant="AppStream">libreswan</packagereq>
