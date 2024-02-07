@@ -694,7 +694,6 @@
       <packagereq type="mandatory">openssh-clients</packagereq>
       <packagereq type="mandatory">openssh-server</packagereq>
       <packagereq type="mandatory">parted</packagereq>
-      <packagereq type="mandatory">passwd</packagereq>
       <packagereq type="mandatory">policycoreutils</packagereq>
       <packagereq type="mandatory">procps-ng</packagereq>
       <packagereq type="mandatory">rootfiles</packagereq>
