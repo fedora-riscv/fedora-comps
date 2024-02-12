@@ -239,7 +239,6 @@
       <packagereq type="mandatory" variant="BaseOS">openssh-server</packagereq>
       <packagereq type="mandatory" variant="BaseOS">p11-kit</packagereq>
       <packagereq type="mandatory" variant="BaseOS">parted</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">passwd</packagereq>
       <packagereq type="mandatory" variant="BaseOS">policycoreutils</packagereq>
       <packagereq type="mandatory" variant="BaseOS">procps-ng</packagereq>
       <packagereq type="mandatory" variant="BaseOS">rootfiles</packagereq>
