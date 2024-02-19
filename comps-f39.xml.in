@@ -5167,6 +5167,7 @@
       <packagereq type="default">bolt</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
+      <packagereq type="default">gnome-themes-extra</packagereq>
       <packagereq type="default">imv</packagereq>
       <packagereq type="default">kanshi</packagereq>
       <packagereq type="default">lxqt-policykit</packagereq>
@@ -5191,6 +5192,8 @@
       <packagereq type="default">thunar-archive-plugin</packagereq>
       <packagereq type="default">wev</packagereq>
       <packagereq type="default">wl-clipboard</packagereq>
+      <packagereq type="default">wlr-randr</packagereq>
+      <packagereq type="default">wlsunset</packagereq>
       <!-- provide missing portal implementations -->
       <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
     </packagelist>
