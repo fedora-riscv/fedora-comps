@@ -3250,7 +3250,6 @@
       <packagereq type="mandatory">plasma-workspace</packagereq>
       <packagereq type="mandatory">plasma-workspace-wallpapers</packagereq>
       <packagereq type="mandatory">plasma-workspace-wayland</packagereq>
-      <packagereq type="mandatory">qt5-qtbase-gui</packagereq>
       <packagereq type="mandatory">sddm</packagereq>
       <packagereq type="mandatory">sddm-breeze</packagereq>
       <packagereq type="mandatory">sddm-kcm</packagereq>
@@ -3283,7 +3282,7 @@
       <packagereq type="default">kdeplasma-addons</packagereq>
       <packagereq type="default">kdialog</packagereq>
       <packagereq type="default">kdnssd</packagereq>
-      <packagereq type="default">kf5-baloo-file</packagereq>
+      <packagereq type="default">kf6-baloo-file</packagereq>
       <packagereq type="default">kfind</packagereq>
       <packagereq arch="aarch64,x86_64" type="default">khelpcenter</packagereq>
       <packagereq type="default">kinfocenter</packagereq>
@@ -3328,7 +3327,6 @@
       <packagereq type="default">plasma-welcome</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
-      <packagereq type="default">qt5-qtdeclarative</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">udisks2</packagereq>
@@ -3380,7 +3378,6 @@
       <packagereq type="default">k3b</packagereq>
       <packagereq type="default">kamera</packagereq>
       <packagereq type="default">kamoso</packagereq>
-      <packagereq type="default">kf5-kipi-plugins</packagereq>
       <packagereq type="default">kolourpaint</packagereq>
     </packagelist>
   </group>
