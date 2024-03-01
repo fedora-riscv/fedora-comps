@@ -914,6 +914,7 @@
       <packagereq>freeipa-server-trust-ad</packagereq>
       <packagereq>opendnssec</packagereq>
       <packagereq>postgresql</packagereq>
+      <packagereq>realmd</packagereq>
     </packagelist>
   </group>
   <group>
