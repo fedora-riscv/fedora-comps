@@ -825,7 +825,6 @@
       <packagereq type="mandatory">gnome-classic-session</packagereq>
       <packagereq type="mandatory">gnome-control-center</packagereq>
       <packagereq type="mandatory">gnome-initial-setup</packagereq>
-      <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-terminal</packagereq>
       <packagereq type="mandatory">gvfs-fuse</packagereq>
@@ -843,6 +842,7 @@
       <packagereq type="mandatory">xorg-x11-xinit</packagereq>
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
+      <packagereq type="default">gnome-session-xsession</packagereq>
       <packagereq type="default">gnome-software</packagereq>
       <packagereq type="default">nautilus</packagereq>
       <packagereq type="default">toolbox</packagereq>
@@ -2620,7 +2620,6 @@
       <packagereq type="mandatory">gnome-control-center</packagereq>
       <packagereq type="mandatory">gnome-initial-setup</packagereq>
       <packagereq type="mandatory">gnome-session-wayland-session</packagereq>
-      <packagereq type="mandatory">gnome-session-xsession</packagereq>
       <packagereq type="mandatory">gnome-settings-daemon</packagereq>
       <packagereq type="mandatory">gnome-shell</packagereq>
       <packagereq type="mandatory">gnome-software</packagereq>
@@ -2648,6 +2647,7 @@
       <packagereq type="default">gnome-calendar</packagereq>
       <packagereq type="default">gnome-characters</packagereq>
       <packagereq type="default">gnome-classic-session</packagereq>
+      <packagereq type="default">gnome-classic-session-xsession</packagereq>
       <packagereq type="default">gnome-clocks</packagereq>
       <packagereq type="default">gnome-color-manager</packagereq>
       <packagereq type="default">gnome-contacts</packagereq>
@@ -2656,6 +2656,7 @@
       <packagereq type="default">gnome-logs</packagereq>
       <packagereq type="default">gnome-maps</packagereq>
       <packagereq type="default">gnome-remote-desktop</packagereq>
+      <packagereq type="default">gnome-session-xsession</packagereq>
       <packagereq type="default">gnome-system-monitor</packagereq>
       <packagereq type="default">gnome-terminal-nautilus</packagereq>
       <packagereq type="default">gnome-user-docs</packagereq>
