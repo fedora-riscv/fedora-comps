@@ -1089,6 +1089,19 @@
     </packagelist>
   </group>
   <group>
+    <id>desktop-accessibility</id>
+    <_name>Desktop accessibility</_name>
+    <_description>This group contains essential accessibility stack to be used with desktop environments.</_description>
+    <default>false</default>
+    <uservisible>true</uservisible>
+    <packagelist>
+      <packagereq type="default">at-spi2-atk</packagereq>
+      <packagereq type="default">at-spi2-core</packagereq>
+      <packagereq type="default">brltty</packagereq>
+      <packagereq type="default">orca</packagereq>
+    </packagelist>
+  </group>
+  <group>
     <id>development-libs</id>
     <_name>Development Libraries</_name>
     <_description>The packages in this group are core libraries needed to develop applications.</_description>
@@ -5981,6 +5994,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>kde-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid default="true">firefox</groupid>
@@ -6013,6 +6027,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>xfce-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid default="true">xfce-apps</groupid>
@@ -6079,6 +6094,7 @@
     <grouplist>
       <groupid>container-management</groupid>
       <groupid>core</groupid>
+      <groupid>desktop-accessibility</groupid>
       <groupid>firefox</groupid>
       <groupid>fonts</groupid>
       <groupid>gnome-desktop</groupid>
@@ -6115,6 +6131,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>lxde-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid>lxde-apps</groupid>
@@ -6143,6 +6160,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>lxqt-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid>lxqt-apps</groupid>
@@ -6170,6 +6188,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>cinnamon-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid>libreoffice</groupid>
@@ -6196,6 +6215,7 @@
       <groupid>printing</groupid>
       <groupid>guest-desktop-agents</groupid>
       <groupid>mate-desktop</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid>mate-applications</groupid>
@@ -6274,6 +6294,7 @@
       <groupid>guest-desktop-agents</groupid>
       <groupid>budgie-desktop</groupid>
       <groupid>budgie-desktop-apps</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
   </environment>
   <environment>
@@ -6339,6 +6360,7 @@
       <groupid>guest-desktop-agents</groupid>
       <groupid>virtualization</groupid>
       <groupid>web-server</groupid>
+      <groupid>desktop-accessibility</groupid>
     </grouplist>
     <optionlist>
       <groupid>java-development</groupid>
