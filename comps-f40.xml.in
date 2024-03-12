@@ -348,8 +348,6 @@
       <packagereq type="mandatory">network-manager-applet</packagereq>
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">slick-greeter</packagereq>
-      <packagereq type="default">at-spi2-atk</packagereq>
-      <packagereq type="default">at-spi2-core</packagereq>
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glib-networking</packagereq>
       <packagereq type="default">gnome-bluetooth</packagereq>
@@ -2594,8 +2592,6 @@
       <packagereq type="mandatory">polkit</packagereq>
       <packagereq type="mandatory">yelp</packagereq>
       <packagereq type="default">adobe-source-code-pro-fonts</packagereq>
-      <packagereq type="default">at-spi2-atk</packagereq>
-      <packagereq type="default">at-spi2-core</packagereq>
       <packagereq type="default">avahi</packagereq>
       <packagereq type="default">baobab</packagereq>
       <packagereq type="default">evince</packagereq>
@@ -2649,7 +2645,6 @@
       <packagereq type="default">NetworkManager-ssh-gnome</packagereq>
       <packagereq type="default">NetworkManager-vpnc-gnome</packagereq>
       <packagereq type="default">NetworkManager-wwan</packagereq>
-      <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">PackageKit-gtk3-module</packagereq>
       <packagereq type="default">rygel</packagereq>
@@ -3261,7 +3256,6 @@
       <packagereq type="default">kwrite</packagereq>
       <packagereq type="default">libappindicator-gtk3</packagereq>
       <packagereq type="default">NetworkManager-config-connectivity-fedora</packagereq>
-      <packagereq type="default">orca</packagereq>
       <packagereq type="default">PackageKit-command-not-found</packagereq>
       <packagereq type="default">pam-kwallet</packagereq>
       <packagereq type="default">phonon-qt6-backend-vlc</packagereq>
@@ -3921,7 +3915,6 @@
       <packagereq>NetworkManager-wifi</packagereq>
       <packagereq>NetworkManager-wwan</packagereq>
       <packagereq>nm-connection-editor</packagereq>
-      <packagereq>orca</packagereq>
       <packagereq>p7zip</packagereq>
       <packagereq>p7zip-plugins</packagereq>
       <packagereq>parole</packagereq>
