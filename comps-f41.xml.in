@@ -3217,6 +3217,8 @@
       <packagereq arch="aarch64,ppc64le,x86_64" type="default">fprintd-pam</packagereq>
       <packagereq type="default">glibc-all-langpacks</packagereq>
       <packagereq type="default">gnome-keyring-pam</packagereq>
+      <packagereq type="default">kaccounts-integration-qt6</packagereq>
+      <packagereq arch="aarch64,x86_64" type="default">kaccounts-providers</packagereq>
       <packagereq type="default">kcharselect</packagereq>
       <packagereq type="default">kde-connect</packagereq>
       <packagereq type="default">kde-gtk-config</packagereq>
@@ -3272,6 +3274,7 @@
       <packagereq type="default">plasma-welcome</packagereq>
       <packagereq type="default">plasma-workspace-geolocation</packagereq>
       <packagereq type="default">polkit-kde</packagereq>
+      <packagereq type="default">signon-kwallet-extension</packagereq>
       <packagereq type="default">spectacle</packagereq>
       <packagereq type="default">systemd-oomd-defaults</packagereq>
       <packagereq type="default">udisks2</packagereq>
@@ -3410,18 +3413,6 @@
     <packagelist>
       <packagereq type="default">initial-setup-gui</packagereq>
       <packagereq type="default">initial-setup-gui-wayland-plasma</packagereq>
-    </packagelist>
-  </group>
-  <group>
-    <id>kde-telepathy</id>
-    <_name>KDE Telepathy</_name>
-    <_description>KDE Telepathy applications</_description>
-    <default>false</default>
-    <uservisible>false</uservisible>
-    <packagelist>
-      <packagereq>kaccounts-integration</packagereq>
-      <packagereq arch="aarch64,x86_64">kaccounts-providers</packagereq>
-      <packagereq>signon-kwallet-extension</packagereq>
     </packagelist>
   </group>
   <group>
@@ -5999,7 +5990,6 @@
       <groupid default="true">kde-pim</groupid>
       <groupid default="true">libreoffice</groupid>
       <groupid>kde-spin-initial-setup</groupid>
-      <groupid>kde-telepathy</groupid>
       <groupid>3d-printing</groupid>
       <groupid>cloud-management</groupid>
     </optionlist>
@@ -6472,7 +6462,6 @@
       <groupid>kde-media</groupid>
       <groupid>kde-pim</groupid>
       <groupid>kde-spin-initial-setup</groupid>
-      <groupid>kde-telepathy</groupid>
       <groupid>libreoffice</groupid>
     </grouplist>
   </category>
