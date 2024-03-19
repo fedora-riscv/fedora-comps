@@ -193,11 +193,11 @@
       <packagereq type="default">lv2-x42-plugins</packagereq>
       <packagereq type="default">lv2-zynadd-plugins</packagereq>
       <packagereq type="default">lv2dynparam</packagereq>
-      <packagereq type="default">mscore</packagereq>
       <packagereq type="default">mudita24</packagereq>
       <packagereq type="default">multimedia-menus</packagereq>
       <packagereq type="default">mup</packagereq>
       <packagereq type="default">muse</packagereq>
+      <packagereq type="default">musescore</packagereq>
       <packagereq type="default">new-session-manager</packagereq>
       <packagereq type="default">pavucontrol</packagereq>
       <packagereq type="default">pipewire-alsa</packagereq>
@@ -1100,7 +1100,7 @@
       <packagereq type="mandatory">ncurses-devel</packagereq>
       <packagereq type="mandatory">pam-devel</packagereq>
       <packagereq type="mandatory">readline-devel</packagereq>
-      <packagereq type="mandatory">zlib-devel</packagereq>
+      <packagereq type="mandatory">zlib-ng-devel</packagereq>
       <packagereq type="default">binutils-devel</packagereq>
       <packagereq type="default">boost-devel</packagereq>
       <packagereq type="default">cyrus-sasl-devel</packagereq>
@@ -1476,8 +1476,8 @@
       <packagereq type="optional">cryptominisat</packagereq>
       <packagereq type="optional">csdp</packagereq>
       <packagereq type="optional">csdp-tools</packagereq>
-      <packagereq type="optional">cvc4</packagereq>
-      <packagereq type="optional">cvc4-devel</packagereq>
+      <packagereq type="optional">cvc5</packagereq>
+      <packagereq type="optional">cvc5-devel</packagereq>
       <packagereq type="optional">dx</packagereq>
       <packagereq type="optional">E</packagereq>
       <packagereq type="optional">eclib</packagereq>
@@ -2319,6 +2319,7 @@
       <packagereq type="optional">astromenace</packagereq>
       <packagereq type="optional">asylum</packagereq>
       <packagereq type="optional">atanks</packagereq>
+      <packagereq type="optional">atlantik</packagereq>
       <packagereq type="optional">atomix</packagereq>
       <packagereq type="optional">atomorun</packagereq>
       <packagereq type="optional">auriferous</packagereq>
@@ -2346,7 +2347,7 @@
       <packagereq type="optional">cave9</packagereq>
       <packagereq type="optional">ccgo</packagereq>
       <packagereq type="optional">cdogs-sdl</packagereq>
-      <packagereq type="optional">celestia</packagereq>
+      <packagereq type="optional">celestia-gtk</packagereq>
       <packagereq type="optional">chocolate-doom</packagereq>
       <packagereq type="optional">chromium-bsu</packagereq>
       <packagereq type="optional">clanbomber</packagereq>
@@ -2420,7 +2421,6 @@
       <packagereq type="optional">iapetal</packagereq>
       <packagereq type="optional">kbilliards</packagereq>
       <packagereq type="optional">kcheckers</packagereq>
-      <packagereq type="optional">kdeaddons-atlantikdesigner</packagereq>
       <packagereq type="optional">kdegames3</packagereq>
       <packagereq type="optional">knights</packagereq>
       <packagereq type="optional">KoboDeluxe</packagereq>
@@ -3052,7 +3052,6 @@
       <packagereq type="optional">cellwriter</packagereq>
       <packagereq type="optional">fcitx</packagereq>
       <packagereq type="optional">gcin</packagereq>
-      <packagereq type="optional">ibus-bogo</packagereq>
       <packagereq type="optional">ibus-fbterm</packagereq>
       <packagereq type="optional">ibus-handwrite</packagereq>
       <packagereq type="optional">ibus-input-pad</packagereq>
@@ -3065,6 +3064,7 @@
       <packagereq type="optional">ibus-table-chinese-cangjie</packagereq>
       <packagereq type="optional">ibus-table-chinese-quick</packagereq>
       <packagereq type="optional">ibus-table-cyrillic</packagereq>
+      <packagereq type="optional">ibus-unikey</packagereq>
       <packagereq type="optional">input-pad</packagereq>
       <packagereq type="optional">scim-fcitx</packagereq>
       <packagereq type="optional">scim-gtk</packagereq>
@@ -3111,7 +3111,7 @@
       <packagereq type="default">ant-apache-regexp</packagereq>
       <packagereq type="default">ant-apache-resolver</packagereq>
       <packagereq type="default">ant-commons-logging</packagereq>
-      <packagereq type="default">ant-javamail</packagereq>
+      <packagereq type="default">ant-jakartamail</packagereq>
       <packagereq type="default">ant-jdepend</packagereq>
       <packagereq type="default">ant-junit</packagereq>
       <packagereq type="default">ant-swing</packagereq>
@@ -4059,7 +4059,7 @@
       <packagereq type="default">mariadb-server</packagereq>
       <packagereq type="default">mysql-connector-odbc</packagereq>
       <packagereq type="default">perl-DBD-MySQL</packagereq>
-      <packagereq type="default">python3-mysql</packagereq>
+      <packagereq type="default">python3-mysqlclient</packagereq>
       <packagereq type="default">unixODBC</packagereq>
       <packagereq type="optional">mariadb-devel</packagereq>
       <packagereq type="optional">mariadb-server-utils</packagereq>
@@ -4435,6 +4435,7 @@
       <packagereq type="default">bash-completion</packagereq>
       <packagereq type="default">bzip2</packagereq>
       <packagereq type="default">curl</packagereq>
+      <packagereq type="default">flit</packagereq>
       <packagereq type="default">gcc</packagereq>
       <packagereq type="default">gcc-c++</packagereq>
       <packagereq type="default">git</packagereq>
@@ -4449,7 +4450,6 @@
       <packagereq type="default">python-launcher</packagereq>
       <packagereq type="default">python3-devel</packagereq>
       <packagereq type="default">python3-docs</packagereq>
-      <packagereq type="default">python3-flit</packagereq>
       <packagereq type="default">python3-idle</packagereq>
       <packagereq type="default">python3-ipykernel</packagereq>
       <packagereq type="default">python3-ipython</packagereq>
@@ -5349,7 +5349,7 @@
       <packagereq type="optional">lftp</packagereq>
       <packagereq type="optional">libtranslate</packagereq>
       <packagereq type="optional">lynx</packagereq>
-      <packagereq type="optional">maildirproc</packagereq>
+      <packagereq type="optional">mailprocessing</packagereq>
       <packagereq type="optional">mutt</packagereq>
       <packagereq type="optional">ncftp</packagereq>
       <packagereq type="optional">nmh</packagereq>
@@ -5613,7 +5613,7 @@
       <packagereq type="default">policycoreutils-python-utils</packagereq>
       <packagereq type="default">psacct</packagereq>
       <packagereq type="default">psmisc</packagereq>
-      <packagereq type="default">python3-dnf-plugin-system-upgrade</packagereq>
+      <packagereq type="default">python3-dnf-plugins-core</packagereq>
       <packagereq type="default">qadwaitadecorations-qt5</packagereq>
       <packagereq type="default">qt5-qtbase</packagereq>
       <packagereq type="default">qt5-qtbase-gui</packagereq>
