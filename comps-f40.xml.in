@@ -1706,10 +1706,10 @@
       <packagereq type="optional">apa-new-athena-unicode-fonts</packagereq>
       <packagereq type="optional">apanov-heuristica-fonts</packagereq>
       <packagereq type="optional">astigmatic-grand-hotel-fonts</packagereq>
-      <packagereq type="optional">baekmuk-ttf-batang-fonts</packagereq>
-      <packagereq type="optional">baekmuk-ttf-dotum-fonts</packagereq>
-      <packagereq type="optional">baekmuk-ttf-gulim-fonts</packagereq>
-      <packagereq type="optional">baekmuk-ttf-hline-fonts</packagereq>
+      <packagereq type="optional">baekmuk-batang-fonts</packagereq>
+      <packagereq type="optional">baekmuk-dotum-fonts</packagereq>
+      <packagereq type="optional">baekmuk-gulim-fonts</packagereq>
+      <packagereq type="optional">baekmuk-headline-fonts</packagereq>
       <packagereq type="optional">beteckna-fonts</packagereq>
       <packagereq type="optional">beteckna-lower-case-fonts</packagereq>
       <packagereq type="optional">beteckna-small-caps-fonts</packagereq>
@@ -1785,7 +1785,8 @@
       <packagereq type="optional">ektype-mukta-malar-fonts</packagereq>
       <packagereq type="optional">ektype-mukta-vaani-fonts</packagereq>
       <packagereq type="optional">entypo-fonts</packagereq>
-      <packagereq type="optional">fontawesome-fonts</packagereq>
+      <packagereq type="optional">fontawesome-fonts-all</packagereq>
+      <packagereq type="optional">fontawesome4-fonts</packagereq>
       <packagereq type="optional">fontsquirrel-crete-round-fonts</packagereq>
       <packagereq type="optional">freecol-imperator-fonts</packagereq>
       <packagereq type="optional">freecol-shadowedblack-fonts</packagereq>
@@ -1839,7 +1840,6 @@
       <packagereq type="optional">google-noto-emoji-fonts</packagereq>
       <packagereq type="optional">google-noto-fangsong-kss-rotated-fonts</packagereq>
       <packagereq type="optional">google-noto-fangsong-kss-vertical-fonts</packagereq>
-      <packagereq type="optional">google-noto-looped-thai-fonts</packagereq>
       <packagereq type="optional">google-noto-music-fonts</packagereq>
       <packagereq type="optional">google-noto-naskh-arabic-ui-vf-fonts</packagereq>
       <packagereq type="optional">google-noto-nastaliq-urdu-vf-fonts</packagereq>
@@ -1946,7 +1946,7 @@
       <packagereq type="optional">google-noto-sans-pahawh-hmong-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-palmyrene-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-pau-cin-hau-fonts</packagereq>
-      <packagereq type="optional">google-noto-sans-phags-pa-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-phagspa-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-phoenician-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-psalter-pahlavi-fonts</packagereq>
       <packagereq type="optional">google-noto-sans-rejang-fonts</packagereq>
