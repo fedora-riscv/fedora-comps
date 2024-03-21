@@ -2409,26 +2409,7 @@
       <packagereq type="optional">artwiz-aleczapka-nu-fonts</packagereq>
       <packagereq type="optional">artwiz-aleczapka-smoothansi-fonts</packagereq>
       <packagereq type="optional">artwiz-aleczapka-snap-fonts</packagereq>
-      <packagereq type="optional">bitmap-console-fonts</packagereq>
-      <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
-      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
-      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
-      <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-david-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-drugulin-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-ellinia-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-frank-ruehl-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-hadasim-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-keteryg-fonts</packagereq>
-      <packagereq type="optional">culmus-miriam-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-miriam-mono-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-simple-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-stamashkenaz-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-stamsefarad-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
@@ -2475,146 +2456,210 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default" variant="AppStream">abattis-cantarell-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-sans-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-serif-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-emoji-color-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-gurmukhi-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-sinhala-vf-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-cjk-ttc-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-serif-cjk-ttc-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">jomolhari-fonts</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-mono</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-sans</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-serif</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-mono</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-sans</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-serif</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-core-emoji</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-core-math</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-mono</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-sans</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-serif</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-sans-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-serif-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default" variant="AppStream">julietaula-montserrat-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">khmer-os-system-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-sans-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-serif-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-assamese-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-bengali-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-devanagari-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-gujarati-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-kannada-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-odia-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-tamil-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-telugu-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="default" variant="AppStream">pt-sans-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-abyssinica-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-nuosu-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-padauk-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">smc-meera-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">stix-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-display-vf-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-mono-vf-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-text-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-serif-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-armenian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-arimo-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-carlito-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-cousine-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-crosextra-caladea-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-serif-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-emoji-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-fangsong-kss-rotated-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-fangsong-kss-vertical-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-music-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-naskh-arabic-ui-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-nastaliq-urdu-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-rashi-hebrew-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-adlam-unjoined-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-adlam-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-anatolian-hieroglyphs-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-avestan-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-bengali-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-balinese-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-bamum-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-bassa-vah-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-batak-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-bengali-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-bengali-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-bhaiksuki-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-brahmi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-buginese-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-buhid-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-carian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-cherokee-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-caucasian-albanian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-chakma-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-cham-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-chorasmian-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-coptic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-cuneiform-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-cypriot-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-cypro-minoan-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-deseret-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-devanagari-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-devanagari-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-devanagari-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-duployan-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-egyptian-hieroglyphs-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-ethiopic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-georgian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-elbasan-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-elymaic-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-glagolitic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-gujarati-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-gothic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-grantha-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-gujarati-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-hebrew-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-gujarati-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-gunjala-gondi-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-gurmukhi-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-hanifi-rohingya-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-hanunoo-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-hatran-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-imperial-aramaic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-indic-siyaq-numbers-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-inscriptional-pahlavi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-inscriptional-parthian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-javanese-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-kaithi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kannada-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-kannada-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kayah-li-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-kannada-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-kayah-li-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-kharoshthi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-khmer-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-khmer-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-khojki-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-khudawadi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-looped-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-looped-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-lepcha-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-limbu-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-linear-a-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-linear-b-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-lisu-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-lycian-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-lydian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-malayalam-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mahajani-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-malayalam-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-malayalam-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mandaic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-manichaean-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-marchen-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-masaram-gondi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mayan-numerals-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-medefaidrin-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-meetei-mayek-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-meeteimayek-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mende-kikakui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-meroitic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-miao-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-modi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mongolian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-mro-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-multani-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-myanmar-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-nabataean-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-nandinagari-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-new-tai-lue-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-newa-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-nko-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-nushu-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-ogham-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-ol-chiki-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-hungarian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-italic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-north-arabian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-permic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-persian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-old-sogdian-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-old-south-arabian-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-old-turkic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-oriya-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-osage-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-osmanya-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-pahawh-hmong-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-palmyrene-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-pau-cin-hau-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-phagspa-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-phoenician-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-psalter-pahlavi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-rejang-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-runic-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-samaritan-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-saurashtra-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sharada-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-shavian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-sinhala-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-symbols-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-siddham-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-signwriting-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sinhala-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sogdian-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sora-sompeng-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-soyombo-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-sundanese-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syloti-nagri-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-symbols-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-symbols2-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-eastern-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-eastern-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-western-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-syriac-western-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tagalog-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tagbanwa-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tai-le-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tai-tham-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tai-viet-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-takri-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-supplement-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-telugu-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tangsa-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-telugu-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thaana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thai-ui-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-telugu-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-thai-looped-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-adrar-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-agraw-imazighen-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-ahaggar-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-air-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-apt-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-azawagh-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-ghat-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-hawad-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-rhissa-ixa-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-sil-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tifinagh-tawellemmet-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-tirhuta-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-ugaritic-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-noto-sans-vai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-armenian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-georgian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-khmer-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-lao-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-thai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">gubbi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-art-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-book-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-decorative-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-digital-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-farsi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-letter-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-naskh-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-office-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-one-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-pen-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-poster-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-qurn-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-screen-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-title-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-titlel-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-battambang-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-bokor-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-content-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-fasthand-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-freehand-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-handwritten-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-metal-chrieng-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-muol-fonts-all</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-siemreap-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-vithkuqi-vf-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-wancho-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-warang-citi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-yi-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-sans-zanabazar-square-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-traditional-nushu-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-traditional-nushu-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-gurmukhi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">madan-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">navilu-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">open-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">overpass-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">paktype-naqsh-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">saab-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">sil-scheherazade-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-rachana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-garuda-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-kinnari-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-loma-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-norasi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-purisa-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-sawasdee-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgmono-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypewriter-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypist-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypo-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-umpush-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">rit-rachana-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-75dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-misc</packagereq>
