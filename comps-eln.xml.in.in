@@ -2492,7 +2492,6 @@
       <packagereq type="optional" variant="AppStream">open-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">overpass-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">rit-rachana-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-75dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-misc</packagereq>
