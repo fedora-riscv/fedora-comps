@@ -1,0 +1,54 @@
+#!/bin/python3
+
+# This is a silly wrapper around check-missing that runs it on all current releases,
+# in parallel.
+
+import asyncio
+import requests
+import subprocess
+import sys
+
+# thanks, https://stackoverflow.com/questions/63782892
+async def run_command(*args, **kwargs):
+    """
+    Run a command with subprocess such that we can run multiple
+    concurrently.
+    """
+    # Create subprocess
+    process = await asyncio.create_subprocess_exec(
+        *args,
+        # stdout must a pipe to be accessible as process.stdout
+        stderr=asyncio.subprocess.PIPE,
+        stdout=asyncio.subprocess.PIPE,
+        **kwargs,
+    )
+    # Wait for the subprocess to finish
+    stdout, stderr = await process.communicate()
+    # Return retcode, stdout and stderr
+    return (process.returncode, stdout.decode().strip(), stderr.decode().strip())
+
+async def main():
+    reljson = requests.get("https://fedorapeople.org/groups/qa/metadata/release.json").json()["fedora"]
+    rels = reljson.get("branched", [])
+    if rels:
+        # we got branched, add rawhide
+        rels.append(max(rels)+1)
+    else:
+        # only rawhide, figure out rawhide rel number
+        curr = max(reljson["stable"])
+        rels = [curr+1]
+    tasks = [asyncio.create_task(run_command("./check-missing", str(rel))) for rel in rels]
+    rets = await asyncio.gather(*tasks, return_exceptions=True)
+    exitcode = 0
+    for (ret, rel) in zip(rets, rels):
+        print(f"Release: {rel}")
+        if isinstance(ret, Exception):
+            print(f"Error! {str(ret)}")
+            exitcode = 1
+        else:
+            print(ret[1])
+            if ret[0]:
+                exitcode = 1
+    sys.exit(exitcode)
+
+asyncio.run(main())

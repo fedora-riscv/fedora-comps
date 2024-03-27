@@ -14,6 +14,7 @@
 import glob
 import argparse
 import subprocess
+import sys
 import lxml.etree as ET
 from collections import defaultdict
 
@@ -119,23 +120,38 @@ for lang in langpacks.getchildren():
         lang.getparent().remove(lang)
 
 # Print out a summary
-print('Packages with incorrect architecture tags:')
-for pkg in sorted(archpkgs):
-    print('    {} only available on {}'.format(pkg, archpkgs[pkg]))
+if archpkgs:
+    print('Packages with incorrect architecture tags:')
+    for pkg in sorted(archpkgs):
+        print('    {} only available on {}'.format(pkg, archpkgs[pkg]))
+    print()
 
-print('\nRemoving packages:')
-for pkg in sorted(removedpkgs):
-    print('    {} in group {}'.format(pkg, ', '.join(removedpkgs[pkg])))
+if removedpkgs:
+    print('Removing packages:')
+    for pkg in sorted(removedpkgs):
+        print('    {} in group {}'.format(pkg, ', '.join(removedpkgs[pkg])))
+    print()
 
-print('\nRemoving empty groups:')
-for group in sorted(removedgrps):
-    print('    {} in {}'.format(group, ', '.join(removedgrps[group])))
+if removedgrps:
+    print('Removing empty groups:')
+    for group in sorted(removedgrps):
+        print('    {} in {}'.format(group, ', '.join(removedgrps[group])))
+    print()
 
-print('\nRemoving language packs for:')
-for lang in removedlang:
-    print('    {}'.format(lang))
+if removedlang:
+    print('Removing language packs for:')
+    for lang in removedlang:
+        print('    {}'.format(lang))
+    print()
 
+if not archpkgs and not removedpkgs and not removedgrps and not removedlang:
+    print("No problems found!")
 
 # Write out the updated XML file if desired
 if args.update:
     tree.write(compsfile, encoding="UTF-8", xml_declaration=True)
+    sys.exit(0)
+
+if archpkgs or removedpkgs or removedgrps or removedlang:
+    sys.exit(1)
+sys.exit(0)
