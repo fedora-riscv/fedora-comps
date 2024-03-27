@@ -2529,7 +2529,7 @@
     <packagelist>
       <packagereq type="mandatory">emacs</packagereq>
       <packagereq type="optional">emacs-lucid</packagereq>
-      <packagereq type="optional">emacs-nox</packagereq>
+      <packagereq type="optional">emacs-nw</packagereq>
     </packagelist>
   </group>
 <!--  <group variant="AppStream">
