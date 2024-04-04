@@ -11,13 +11,13 @@
 # Michelle Kim <mkim@redhat.com>, 2002
 # Kevin Fenzi <kevin@scrye.com>, 2016. #zanata
 # simmon <simmon@nplob.com>, 2021.
-# 김인수 <simmon@nplob.com>, 2022, 2023.
+# 김인수 <simmon@nplob.com>, 2022, 2023, 2024.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-07 13:23-0800\n"
-"PO-Revision-Date: 2023-05-17 05:21+0000\n"
+"PO-Revision-Date: 2024-02-07 15:36+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "fedora-comps/main/ko/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.15.2\n"
+"X-Generator: Weblate 5.3.1\n"
 
 #: ../comps-f32.xml.in.h:1 ../comps-f33.xml.in.h:1 ../comps-f34.xml.in.h:1
 msgid "3D Printing"
@@ -2281,7 +2281,7 @@ msgstr "메인프레임(Mainframe) 접근"
 
 #: ../comps-epel7.xml.in.h:155
 msgid "Tools for accessing mainframe computing resources."
-msgstr "메인프레임 컴퓨팅 자원에 접근하기 위한 도구"
+msgstr "메인프레임 컴퓨팅 자원에 접근하기 위한 도구."
 
 #: ../comps-epel7.xml.in.h:156
 msgid "Maithili Support"
@@ -2325,7 +2325,7 @@ msgstr "MySQL 데이타베이스 서버"
 
 #: ../comps-epel7.xml.in.h:170
 msgid "The MySQL SQL database server, and associated packages."
-msgstr "MySQL SQL 데이타베이스 서버 및 관련 꾸러미"
+msgstr "MySQL SQL 데이타베이스 서버 및 관련 꾸러미."
 
 #: ../comps-epel7.xml.in.h:171
 msgid "MySQL Database client"
@@ -2361,7 +2361,7 @@ msgstr "네트워킹 도구"
 
 #: ../comps-epel7.xml.in.h:179
 msgid "Tools for configuring and analyzing computer networks."
-msgstr "컴퓨터 네트워크 설정 및 분석을 위한 도구"
+msgstr "컴퓨터 네트워크 설정 및 분석을 위한 도구."
 
 #: ../comps-epel7.xml.in.h:180
 msgid "NFS file server"
@@ -2421,7 +2421,7 @@ msgstr "PHP 지원"
 
 #: ../comps-epel7.xml.in.h:194
 msgid "PHP web application framework."
-msgstr "PHP 웹 응용프로그램 프레임워크"
+msgstr "PHP 웹 응용프로그램 프레임워크."
 
 #: ../comps-epel7.xml.in.h:195
 msgid "Polish Support"
@@ -2445,7 +2445,7 @@ msgstr "PostgreSQL 데이타베이스 클라이언트"
 
 #: ../comps-epel7.xml.in.h:200
 msgid "The PostgreSQL SQL database client, and associated packages."
-msgstr "PostgreSQL SQL 데이타베이스 클라이언트 및 관련 꾸러미"
+msgstr "PostgreSQL SQL 데이타베이스 클라이언트 및 관련 꾸러미."
 
 #: ../comps-epel7.xml.in.h:201
 msgid "Printing client"
@@ -2556,7 +2556,7 @@ msgstr "스마트 카드 지원"
 
 #: ../comps-epel7.xml.in.h:227
 msgid "Support for using smart card authentication."
-msgstr "스마트 카드 인증 사용을 위한 지원"
+msgstr "스마트 카드 인증 사용을 위한 지원."
 
 #: ../comps-epel7.xml.in.h:228
 msgid "Southern Ndebele Support"
@@ -2620,7 +2620,7 @@ msgstr "시스템 관리 도구"
 
 #: ../comps-epel7.xml.in.h:243
 msgid "Utilities useful in system administration."
-msgstr "시스템 관리에 유용한 유틸리티"
+msgstr "시스템 관리에 유용한 유틸리티."
 
 #: ../comps-epel7.xml.in.h:244
 msgid "System Management"
@@ -2628,7 +2628,7 @@ msgstr "시스템 관리"
 
 #: ../comps-epel7.xml.in.h:245
 msgid "Various low-level hardware management frameworks."
-msgstr "다양한 저-수준 하드웨어 관리 프레임워크"
+msgstr "다양한 저-수준 하드웨어 관리 프레임워크."
 
 #: ../comps-epel7.xml.in.h:246
 msgid "Messaging Client Support"
@@ -2652,7 +2652,7 @@ msgstr "SNMP 도구"
 
 #: ../comps-epel7.xml.in.h:251
 msgid "SNMP management agent."
-msgstr "SNMP 관리 에이전트"
+msgstr "SNMP 관리 대리인."
 
 #: ../comps-epel7.xml.in.h:252
 msgid "Web-Based Enterprise Management"
@@ -2680,7 +2680,7 @@ msgstr "기술문서 작성"
 
 #: ../comps-epel7.xml.in.h:258
 msgid "Tools for writing technical documentation."
-msgstr "기술 문서 작성용 도구"
+msgstr "기술 문서 작성용 도구."
 
 #: ../comps-epel7.xml.in.h:259
 msgid "Telugu Support"
@@ -2696,7 +2696,7 @@ msgstr "TeX 지원"
 
 #: ../comps-epel7.xml.in.h:262
 msgid "Support for the TeX document formatting system."
-msgstr "TeX 문서 구성 시스템 지원"
+msgstr "TeX 문서 구성 시스템 지원."
 
 #: ../comps-epel7.xml.in.h:263
 msgid "Thai Support"

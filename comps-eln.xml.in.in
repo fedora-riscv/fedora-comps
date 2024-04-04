@@ -239,7 +239,6 @@
       <packagereq type="mandatory" variant="BaseOS">openssh-server</packagereq>
       <packagereq type="mandatory" variant="BaseOS">p11-kit</packagereq>
       <packagereq type="mandatory" variant="BaseOS">parted</packagereq>
-      <packagereq type="mandatory" variant="BaseOS">passwd</packagereq>
       <packagereq type="mandatory" variant="BaseOS">policycoreutils</packagereq>
       <packagereq type="mandatory" variant="BaseOS">procps-ng</packagereq>
       <packagereq type="mandatory" variant="BaseOS">rootfiles</packagereq>
@@ -260,19 +259,9 @@
       <packagereq type="default" variant="BaseOS">prefixdevname</packagereq>
       <packagereq type="default" variant="BaseOS">dnf-plugins-core</packagereq>
       <packagereq type="default" variant="BaseOS">dracut-config-rescue</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl100-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl105-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl135-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl1000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl2030-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl3160-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5000-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl5150-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl6050-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS" arch="x86_64">iwl7260-firmware</packagereq>
-      <packagereq type="default" variant="BaseOS">NetworkManager</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlegacy-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlwifi-dvm-firmware</packagereq>
+      <packagereq type="default" variant="BaseOS" arch="x86_64">iwlwifi-mvm-firmware</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-team</packagereq>
       <packagereq type="default" variant="BaseOS">NetworkManager-tui</packagereq>
       <packagereq type="default" variant="BaseOS">libsysfs</packagereq>
@@ -511,21 +500,20 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="default">bolt</packagereq>
-      <packagereq type="default">iwl100-firmware</packagereq>
-      <packagereq type="default">iwl1000-firmware</packagereq>
-      <packagereq type="default">iwl105-firmware</packagereq>
-      <packagereq type="default">iwl135-firmware</packagereq>
-      <packagereq type="default">iwl2000-firmware</packagereq>
-      <packagereq type="default">iwl2030-firmware</packagereq>
-      <packagereq type="default">iwl3160-firmware</packagereq>
-      <packagereq type="default">iwl5000-firmware</packagereq>
-      <packagereq type="default">iwl5150-firmware</packagereq>
-      <packagereq type="default">iwl6000g2a-firmware</packagereq>
-      <packagereq type="default">iwl6000g2b-firmware</packagereq>
-      <packagereq type="default">iwl6050-firmware</packagereq>
-      <packagereq type="default">iwl7260-firmware</packagereq>
+      <packagereq type="default">amd-gpu-firmware</packagereq>
+      <packagereq type="default" arch="x86_64">amd-ucode-firmware</packagereq>
+      <packagereq type="default">atheros-firmware</packagereq>
+      <packagereq type="default">brcmfmac-firmware</packagereq>
+      <packagereq type="default">intel-gpu-firmware</packagereq>
+      <packagereq type="default">iwlegacy-firmware</packagereq>
+      <packagereq type="default">iwlwifi-dvm-firmware</packagereq>
+      <packagereq type="default">iwlwifi-mvm-firmware</packagereq>
       <packagereq type="default">netronome-firmware</packagereq>
-      <packagereq type="default">libertas-sd8787-firmware</packagereq>
+      <packagereq type="default">nvidia-gpu-firmware</packagereq>
+      <packagereq type="default">libertas-firmware</packagereq>
+      <packagereq type="default">liquidio-firmware</packagereq>
+      <packagereq type="default">qcom-firmware</packagereq>
+      <packagereq type="default">realtek-firmware</packagereq>
       <packagereq type="default">usb_modeswitch</packagereq>
       <packagereq type="optional">lsscsi</packagereq>
       <packagereq type="optional">opensc</packagereq>
@@ -744,7 +732,7 @@
     <uservisible>false</uservisible>
     <packagelist>
       <packagereq type="mandatory" variant="AppStream">blktrace</packagereq>
-      <packagereq type="default" variant="BaseOS">iotop</packagereq>
+      <packagereq type="default" variant="BaseOS">iotop-c</packagereq>
       <packagereq type="default" variant="AppStream">perf</packagereq>
       <packagereq type="default" variant="BaseOS">elfutils</packagereq>
       <packagereq type="default" variant="BaseOS">strace</packagereq>
@@ -907,30 +895,30 @@
       <packagereq variant="AppStream">mesa-libGLw-devel</packagereq>
       <packagereq variant="AppStream">nss-devel</packagereq>
       <packagereq variant="AppStream">pango-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qt3d-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-mysql</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-odbc</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-postgresql</packagereq>
-      <packagereq variant="AppStream">qt5-qtconnectivity-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtdoc</packagereq>
-      <packagereq variant="AppStream">qt5-qtgraphicaleffects</packagereq>
-      <packagereq variant="AppStream">qt5-qtimageformats</packagereq>
-      <packagereq variant="AppStream">qt5-qtlocation-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtmultimedia-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtquickcontrols</packagereq>
-      <packagereq variant="AppStream">qt5-qtquickcontrols2</packagereq>
-      <packagereq variant="AppStream">qt5-qtscript-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtsensors-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtserialport-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtsvg-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qttools-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qttranslations</packagereq>
-      <packagereq variant="AppStream">qt5-qtwebchannel-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtwebsockets-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtx11extras-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtxmlpatterns-devel</packagereq>
-      <packagereq variant="AppStream">qt5-qtserialbus</packagereq>
-      <packagereq arch="x86_64,ppc64le,aarch64" variant="AppStream">qt5-qtwayland</packagereq>
+      <packagereq variant="AppStream">qt6-qt3d-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-mysql</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-odbc</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-postgresql</packagereq>
+      <packagereq variant="AppStream">qt6-qtconnectivity-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtdoc</packagereq>
+      <packagereq variant="AppStream">qt6-qtgraphicaleffects</packagereq>
+      <packagereq variant="AppStream">qt6-qtimageformats</packagereq>
+      <packagereq variant="AppStream">qt6-qtlocation-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtmultimedia-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtquickcontrols</packagereq>
+      <packagereq variant="AppStream">qt6-qtquickcontrols2</packagereq>
+      <packagereq variant="AppStream">qt6-qtscript-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtsensors-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtserialport-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtsvg-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qttools-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qttranslations</packagereq>
+      <packagereq variant="AppStream">qt6-qtwebchannel-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtwebsockets-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtx11extras-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtxmlpatterns-devel</packagereq>
+      <packagereq variant="AppStream">qt6-qtserialbus</packagereq>
+      <packagereq arch="x86_64,ppc64le,aarch64" variant="AppStream">qt6-qtwayland</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools</packagereq>
       <packagereq type="optional" variant="AppStream">spirv-tools-libs</packagereq>
       <packagereq type="optional" arch="x86_64" variant="AppStream">vulkan-tools</packagereq>
@@ -1084,6 +1072,7 @@
       <packagereq type="mandatory" variant="AppStream">rsyslog-gssapi</packagereq>
       <packagereq type="mandatory" variant="AppStream">rsyslog-relp</packagereq>
       <packagereq type="mandatory" variant="BaseOS">tuned</packagereq>
+      <packagereq type="default" variant="AppStream">bash-color-prompt</packagereq>
       <packagereq type="default" variant="BaseOS">bash-completion</packagereq>
       <packagereq type="default" variant="AppStream">blktrace</packagereq>
       <packagereq type="default" variant="BaseOS">bpftool</packagereq>
@@ -1278,7 +1267,7 @@
       <packagereq type="optional" variant="BaseOS">chrpath</packagereq>
       <packagereq type="optional" variant="BaseOS">environment-modules</packagereq>
       <packagereq type="optional" variant="BaseOS">fuse</packagereq>
-      <packagereq type="optional" variant="BaseOS">iotop</packagereq>
+      <packagereq type="optional" variant="BaseOS">iotop-c</packagereq>
       <packagereq type="optional" variant="BaseOS">lzop</packagereq>
       <packagereq type="optional" variant="BaseOS">hardlink</packagereq>
       <packagereq type="default" variant="AppStream">libreswan</packagereq>
@@ -1712,7 +1701,7 @@
       <packagereq variant="BaseOS">which</packagereq>
       <packagereq variant="BaseOS">words</packagereq>
       <packagereq variant="BaseOS">zip</packagereq>
-      <packagereq variant="AppStream">adwaita-qt5</packagereq>
+      <packagereq variant="AppStream">adwaita-qt6</packagereq>
       <packagereq variant="AppStream">bind-utils</packagereq>
       <packagereq variant="AppStream">evolution</packagereq>
       <packagereq variant="AppStream">evolution-ews</packagereq>
@@ -1731,10 +1720,10 @@
       <packagereq variant="AppStream">nmap-ncat</packagereq>
       <packagereq variant="AppStream">pinentry-gnome3</packagereq>
       <packagereq variant="AppStream">qgnomeplatform</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase</packagereq>
-      <packagereq variant="AppStream">qt5-qtbase-gui</packagereq>
-      <packagereq variant="AppStream">qt5-qtdeclarative</packagereq>
-      <packagereq variant="AppStream">qt5-qtxmlpatterns</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase</packagereq>
+      <packagereq variant="AppStream">qt6-qtbase-gui</packagereq>
+      <packagereq variant="AppStream">qt6-qtdeclarative</packagereq>
+      <packagereq variant="AppStream">qt6-qtxmlpatterns</packagereq>
       <packagereq variant="AppStream">setroubleshoot</packagereq>
       <packagereq variant="AppStream">telnet</packagereq>
       <packagereq variant="AppStream">xorg-x11-drv-libinput</packagereq>
@@ -2420,26 +2409,7 @@
       <packagereq type="optional">artwiz-aleczapka-nu-fonts</packagereq>
       <packagereq type="optional">artwiz-aleczapka-smoothansi-fonts</packagereq>
       <packagereq type="optional">artwiz-aleczapka-snap-fonts</packagereq>
-      <packagereq type="optional">bitmap-console-fonts</packagereq>
-      <packagereq type="optional">bitmap-fangsongti-fonts</packagereq>
-      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
-      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
       <packagereq type="optional">ctan-musixtex-fonts</packagereq>
-      <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-david-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-drugulin-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-ellinia-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-frank-ruehl-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-hadasim-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-keteryg-fonts</packagereq>
-      <packagereq type="optional">culmus-miriam-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-miriam-mono-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-simple-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-stamashkenaz-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-stamsefarad-clm-fonts</packagereq>
-      <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
       <packagereq type="optional">fonts-KOI8-R</packagereq>
       <packagereq type="optional">fonts-KOI8-R-100dpi</packagereq>
       <packagereq type="optional">fonts-KOI8-R-75dpi</packagereq>
@@ -2486,146 +2456,42 @@
     <default>false</default>
     <uservisible>false</uservisible>
     <packagelist>
-      <packagereq type="default" variant="AppStream">abattis-cantarell-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-sans-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-serif-fonts</packagereq>
-      <packagereq type="default" variant="BaseOS">dejavu-sans-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-emoji-color-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-gurmukhi-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-sinhala-vf-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-sans-cjk-ttc-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">google-noto-serif-cjk-ttc-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">jomolhari-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-mono</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-sans</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-cjk-serif</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-core-emoji</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-core-math</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-mono</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-sans</packagereq>
+      <packagereq type="default" variant="BaseOS">default-fonts-core-serif</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-mono</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-sans</packagereq>
+      <packagereq type="default" variant="AppStream">default-fonts-other-serif</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-sans-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-serif-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">dejavu-sans-mono-fonts</packagereq>
       <packagereq type="default" variant="AppStream">julietaula-montserrat-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">khmer-os-system-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-mono-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-sans-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">liberation-serif-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-assamese-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-bengali-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-devanagari-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-gujarati-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-kannada-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-odia-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-tamil-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">lohit-telugu-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">paktype-naskh-basic-fonts</packagereq>
       <packagereq type="default" variant="AppStream">pt-sans-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-abyssinica-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-nuosu-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">sil-padauk-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">smc-meera-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">stix-fonts</packagereq>
-      <packagereq type="default" variant="AppStream">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-display-vf-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-mono-vf-fonts</packagereq>
+      <packagereq type="default" variant="AppStream">redhat-text-vf-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">fontawesome-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">google-droid-serif-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-armenian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-avestan-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-bengali-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-bengali-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-brahmi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-carian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-cherokee-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-coptic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-deseret-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-devanagari-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-devanagari-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-egyptian-hieroglyphs-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-ethiopic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-georgian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-glagolitic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-gujarati-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-gujarati-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-hebrew-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-imperial-aramaic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kaithi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kannada-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kannada-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kayah-li-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-kharoshthi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-khmer-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-khmer-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lao-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lycian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-lydian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-malayalam-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-malayalam-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-nko-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-old-south-arabian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-old-turkic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-osmanya-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-phoenician-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-shavian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-sinhala-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-symbols-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-tamil-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-telugu-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-telugu-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thaana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-thai-ui-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-ugaritic-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-sans-vai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-armenian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-georgian-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-khmer-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-lao-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">google-noto-serif-thai-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">gubbi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-art-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-book-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-decorative-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-digital-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-farsi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-letter-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-naskh-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-office-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-one-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-pen-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-poster-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-qurn-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-screen-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-title-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">kacst-titlel-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-battambang-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-bokor-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-content-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-fasthand-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-freehand-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-handwritten-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-metal-chrieng-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-muol-fonts-all</packagereq>
-      <packagereq type="optional" variant="AppStream">khmer-os-siemreap-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-arimo-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-carlito-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-cousine-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-crosextra-caladea-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-sans-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-sans-mono-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-droid-serif-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-emoji-fonts</packagereq>
+      <packagereq type="optional" variant="AppStream">google-noto-fonts-all</packagereq>
       <packagereq type="optional" variant="AppStream">lato-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-gurmukhi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">lohit-marathi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">madan-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">navilu-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">open-sans-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">overpass-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">paktype-naqsh-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">paktype-tehreer-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">paratype-pt-sans-caption-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">saab-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">sil-scheherazade-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">smc-rachana-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-garuda-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-kinnari-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-loma-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-norasi-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-purisa-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-sawasdee-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgmono-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypewriter-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypist-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-tlwgtypo-fonts</packagereq>
-      <packagereq type="optional" variant="AppStream">thai-scalable-umpush-fonts</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-100dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-75dpi</packagereq>
       <packagereq type="optional" variant="AppStream">xorg-x11-fonts-misc</packagereq>
@@ -2663,7 +2529,7 @@
     <packagelist>
       <packagereq type="mandatory">emacs</packagereq>
       <packagereq type="optional">emacs-lucid</packagereq>
-      <packagereq type="optional">emacs-nox</packagereq>
+      <packagereq type="optional">emacs-nw</packagereq>
     </packagelist>
   </group>
 <!--  <group variant="AppStream">
@@ -3666,8 +3532,8 @@
       <packagereq type="default">poppler-cpp-devel</packagereq>
       <packagereq type="default">poppler-devel</packagereq>
       <packagereq type="default">poppler-glib-devel</packagereq>
-      <packagereq type="default">poppler-qt5</packagereq>
-      <packagereq type="default">poppler-qt5-devel</packagereq>
+      <packagereq type="default">poppler-qt6</packagereq>
+      <packagereq type="default">poppler-qt6-devel</packagereq>
       <packagereq type="default">postgresql-docs</packagereq>
       <packagereq type="default">postgresql-private-devel</packagereq>
       <packagereq type="default">postgresql-server-devel</packagereq>
@@ -3717,7 +3583,7 @@
       <packagereq type="default">python3-pytest-subtests</packagereq>
       <packagereq type="default">python3-pytest-timeout</packagereq>
       <packagereq type="default">python3-psutil-tests</packagereq>
-      <packagereq type="default">python3-qt5-devel</packagereq>
+      <packagereq type="default">python3-qt6-devel</packagereq>
       <packagereq type="default">python3-readthedocs-sphinx-ext</packagereq>
       <packagereq type="default">python3-rrdtool</packagereq>
       <packagereq type="default">python3-setuptools_scm</packagereq>
@@ -3742,16 +3608,15 @@
       <packagereq type="default">qgpgme-devel</packagereq>
       <packagereq type="default">qhull-devel</packagereq>
       <packagereq type="default">qpdf</packagereq>
-      <packagereq type="default">qt5-devel</packagereq>
-      <packagereq type="default">qt5-qtbase-static</packagereq>
-      <packagereq type="default">qt5-qtdeclarative-static</packagereq>
-      <packagereq type="default">qt5-qttools-static</packagereq>
+      <packagereq type="default">qt6-devel</packagereq>
+      <packagereq type="default">qt6-qtbase-static</packagereq>
+      <packagereq type="default">qt6-qtdeclarative-static</packagereq>
+      <packagereq type="default">qt6-qttools-static</packagereq>
       <packagereq type="default">quota-devel</packagereq>
       <packagereq type="default">raptor2-devel</packagereq>
       <packagereq type="default">rasqal-devel</packagereq>
       <packagereq type="default">redhat-sb-certs</packagereq>
       <packagereq type="default">redland-devel</packagereq>
-      <packagereq type="default">rhc-devel</packagereq>
       <packagereq type="default">rpcgen</packagereq>
       <packagereq type="default">rpcsvc-proto-devel</packagereq>
       <packagereq type="default">rrdtool-devel</packagereq>
