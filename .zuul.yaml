@@ -2,8 +2,14 @@
      check:
        jobs:
          - validate-comps
+         - check-missing
 
  - job:
      name: validate-comps
      description: Validate comps files
      run: ci/validate-comps.yaml
+
+ - job:
+     name: check-missing
+     description: Run CI check-missing script
+     run: ci/check-missing.yaml

@@ -1,0 +1,11 @@
+- hosts: all
+  tasks:
+    - name: Install needed packages
+      package:
+        name: ['python3-lxml']
+        state: present
+      become: yes
+    - name: Check for comps entries referring to missing packages
+      ansible.builtin.command:
+        chdir: "{{ zuul.project.src_dir }}"
+        cmd: ci/check-missing
